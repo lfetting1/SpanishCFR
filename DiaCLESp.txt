@@ -1,10 +1,79 @@
 h > ∅ $ h_deletion
-[+lat, +front, +hi] > [+lat, -front, -hi] / __ [-cor] $ repeated rule, lateral depilatalization
+[+lat, +front, +hi] > [+lat, -front, -hi] / __ [-cor] $ recurrent rule, lateral depilatalization
 [+syll, -long] > [+syll, +long] / __[+nasal] [+cons, +cont] $prenasal lengthening
 [+syll, -long] > [+syll, +long] / __[+nasal] [+cons, -cont] [+cons] $prenasal lengthening (combine?)
 Come back to implosion 
-Come back to homorganic
-ð > d / l __ $ stopping
-[+cont,+cons,+voi,αdistr,βlab,ɣback] > [-cont,+cons,+voi,αdistr,βlab,ɣback] /_$repeated rule,stopping
+[+ nas, + cons] > [+nas, +cons αcor, βant, ɣdistr, ðlab, ɛback, Zfront, Hhi] /__[+ cons, αcor, βant, ɣdistr, ðlab, ɛback, Zfront, Hhi] @ $ nasal assimilation
+[ + lat] - > [αdistr, ðant] / _ [+ cor, αdistr, ðant] $ lateral assimilation
+ð > d / l __ $ recurrent rule, stopping
+[+cont,+cons,+voi,αdistr,βlab,ɣback] > [-cont,+cons,+voi,αdistr,βlab,ɣback] /_$recurrent rule,stopping
 w > ∅ / [+back, +syll] __ $ back monophthongization
-β > v $ "beta-vee" 
+w > [+cons] / __ [+syll] $ glide fortition, recurrent rule
+j > [+cons] / [+syll] __ [+syll] $ glide fortition, recurrent rule
+[+ant, -distr, +strid] > [+ant, +distr, +strid] /__ [+ant, +distr] $ recurrent rule, dental_s
+[+syll, αhi, βlo, -front] > [αhi, βlo, -front] / __ j $fronting
+[+lo, +syll] > [-lo, -hi, -tense, +front] / __ j $fronting (combine?)
+[-lo, -hi, -tense, +syll, -stres, +front] > [-lo, -hi, +tense, +syll, -stres, +front] $"atonic-epsilon"
+[+syll] j > [+syll, +long] ∅ $ monophthongization, (formatting?)
+Come back to syncope_early
+[+nas] > ∅ / __ # $ final nasal deletion
+[+nas] > ∅ / __ s $ "ns > s" 
+[+cons, -cont] > ∅ $final stop deletion
+[+son] > [+son, +cor] / __# $ final sonorant > coronal
+[+cons] > ∅ / __ [+strid] [+cons] $ reduction of cluster containing a sibilant
+ɣʷ > β $ w_beta
+[+back, +cons, -cont] > [+back, +cons, +cont] / [+syll] __ [+cons, -back] $velar spirantization
+[+cont, +son] > [+cor, +strid] / __[+cor, +strid] $ rs > ss 
+[+syll] > [+syll, +long] / [+cons, -cor -cont] [+syll] __ $vowel lengthening
+[+syll] > [+syll, +long] / [+cor, +son] [+syll] __ $ vowel lengthening (combine?)
+[+stres, -lo] [-stress] > [-stres] [+stres] $ progressive_stress
+[+stres, -lo, -hi, +back] [-stress, -back] > [-stres] [+stres] $ progressive_stress, recipient of stress has different backness than donor
+[+stres, -lo, -hi, -back] [-stress, +back] > [-stres] [+stres] $ progressive_stress (combine?)
+[+back, +cons, -cont, +voi] > ∅ / [+syll, -long] __ [+front] $ velar deletion
+[+syll, -stres, -lo] > [-syll, -long, +hi] / __ [+syll, +hi] $ syneresis early
+[+syll, -stres, -lo, +back] > [-syll, -long, +hi, +back] / __ [+syll, +hi, -back] $ syneresis early
+[+syll, -stres, -lo, -back] > [-syll, -long, +hi, -back] / __ [+syll, +hi, =back] $ syneresis early
+[+syll, -long, +stres, -hi, -lo] > [-tense] $ mid lowering
+[+syll, -long] > [-hi] $ high_lowering
+[+syll, +long] > [-long] $recurrent rule, unlong
+[+cons, +long] > [-long] / [+syll] __ $unlong, syllable final trill > tap
+[+syll -back] > j[+syll, +back] / __[+syll, +back] $ "antihaus"
+Come back to front raising
+[+cons, +hi, +voi] > j / [+syll] __ [+cons, -back] $ velar you early
+[+nas, +cor] > [+hi, -ant, -distr] / j __ $ nasal palatal
+[+nas, +cor] > [+hi, -ant, -distr] / __ j $ nasal palatal (combine?)
+[+lat] > [+hi, -ant, -distr] / j __ $ lateral palatalization (combine with nasal?)
+[+lat] > [+hi, -ant, -distr] / __ j $ lateral palatalization (combine?)
+[-cons, -low, -stres, αround] / __ [-low, +syll, αround] $ synalepha
+[-cont, +cons] > [+cons, αcont, βcor, ɣant, ðdistr, ɛlab, θback, χfront, ɷhigh] / __ [+cons, αcont, βcor, ɣant, ðdistr, ɛlab, θback, χfront, ɷhigh] $ total consonant assimilation 
+[+nas] > [+nas, βcor, ɣant, ðdistr, ɛlab, θback, χfront, ɷhigh] / __ [+nas, βcor, ɣant, ðdistr, ɛlab, θback, χfront, ɷhigh] $ total consonant assimilation 
+[+lat] > [-high, +ant] / [+cons, +voi] __ $ lambda_ell
+[+syll, αhi, βlo, ɣfront, θback, ðround, χtense, ʎlong] r > r [+syll, αhi, βlo, ɣfront, θback, ðround, χtense, ʎlong] / __ # $ final metathesis
+[+cons, -cont, +back] > [+cons,-cont, +back] j / __[+syll, -back] $ ongliding
+[+cons, -cont, +cor] > [-ant, +delrel, +hi, +strid] / __ [-cons, -syll, +hi, +front] $dental affrication
+[+cons, -cont, +back] > [-ant, -back, +cor, +delrel, +hi, +strid] / __ [-cons, -syll, +hi, +front] $ velar affrication
+[+cons, +back, +voi] > [+round] / [-cons, -syll, +round] __ $progressive rounding
+[-syll, -cons, +hi +round] > ∅ / __ [+round] $ recurrent rule, waw absorption
+[-syll, -cons, +hi +round] > ∅ / [+round] __ $ recurrent rule, waw absorption
+[-syll, -cons, +hi +front] > ∅ / [+hi, +front] __ $ recurrent rule, yod absorption
+[-syll, -cons, +hi +front] > ∅ / __ [+hi, +front] $ recurrent rule, yod absorption
+[+cons] > [-round] / # __ [-low, +syll, -stres] $ unround
+[+cons, +back, +voi, -cont] > ∅ / __ [+lat] $ pl>ll early
+Skip glide metathesis
+[+round, +tense] > [+hi] / __ [+hi, -back, +son, +cons] $ o-raising
+[+cons, -cont, +voi] > [+cont] $spirantization
+[+hi, -back, +delrel] > [-strid, -delrel] $spirantization
+Come back to delete b d g
+[+cont] > [+voi] / [-cons] __ [+son] $voicing
+[+lat] > [-cons, +back, +hi] / [+lo] __ $ lateral vocalization
+[+lat] > [-cons, +front, +hi] / [+back] __ [+cons] $ lateral vocalization, not sure on these
+[+strid, -cont] > [-hi, +ant] $ dentalization 
+Come back to syneresis_late
+[+ant, -cor, +cont, +voi] > [-distr, +strid] $ beta_vee
+[+cons, +back] > j / [+syll] __ [-back] $ velar yod late
+Come back to metaphony e (mark?)
+Come back to unmark (mark?)
+Come back to metaphony o
+[+syll, -tense] > [+tense] / __ @ [+hi, +front] $ low raising, palatal can be 1st 2nd or 3rd phoneme following
+[+front, +syll] >[+hi] / [+syll] [+voi, +hi, +front, +cont] $ progressive raising
+[+syll, -tense, αround] > [-syll, -cons, αround] $diphthongization
