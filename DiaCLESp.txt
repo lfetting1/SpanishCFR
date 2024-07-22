@@ -109,8 +109,8 @@ j > [+cons] / [+syl] __ [+syl] $ glide fortition,recurrent rule
 [+hi,+front,-strid,+cons,+cont] > ∅ / [+syl,+front] __ [+syl] $recurrent rule,palatal deletion
 [+hi,-stres,+syl] > [-syl] / __ [+syl] 
 [+hi,-stres,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis
-[-cons,-syl] > [+cons] / σ __ $recurrent,modern glide fortition
-[+hi,+syl] > [-hi] / [+syl,-stres] __ σ $ final -i,-u > -e,-o in polysyllable
+[-cons,-syl,+hi] > [+cons,-son] / {#;[+syl]} __ $recurrent,modern glide fortition
+[+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 [+strid,-cor] > [+distr,-strid] $ betacism
 [+lat,+hi] > [+cons,+strid,-lat] $ lateral affrication
 d ʒ > ʒ $j>y merger,unclear if this is meant 
@@ -118,27 +118,27 @@ d ʒ > ʒ $j>y merger,unclear if this is meant
 [+lat] > [+hi,-ant,+distr] / [+cons] __ $lamdacism
 [+cons,-voi] > ∅ / __ [+lat] $pl_ll_late
 [-voi] > [+distr,+delrel] / __ [+lat] $ "cheismo" palatal lateral > tʃ 
-[+son,+cons,αans] [+son,+cons,αans] > [+hi,+front,αnas] $ geminate palatal,ll > ʎ nn > ɲ 
+{l l;n̪ n̪} > {ʎ;ɲ} $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ 
 [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] $ degemination
-[+lat] > [-hi,+ant] / [+cons,+voi] $ lamda_ell
+ʎ > l / [+cons,+voi] __ $ lamda_ell
 [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] $ syncope late,may be inexact
 [+cons] > [-voi] / [-voi] __ $ progressive_voicing
 [+syl,+lo] > [-lo,αback] / __ [-cons,-syl,αback] $ a coloring 
 [+cons,+lab] > w / __ [+back,+cons] $ vocalization of syllable-final labial
 [+cons,-voi] > j 
 [+syl,-back,+tense,-stres] > [+hi] / __ [+hi,+round] $ ew > iw
-[-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] $ progressive hushing / palatalization
-[-syl,-cons,+hi +round] > ∅ / __ [+round] $ recurrent rule,waw absorption
-[-syl,-cons,+hi +round] > ∅ / [+round] __ $ recurrent rule,waw absorption
-[-syl,-cons,+hi +front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
-[-syl,-cons,+hi +front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
+[-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ $ progressive hushing / palatalization
+[-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption
+[-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption
+[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
+[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
 d n > n d $sonorant metathesis
 d l > l d $sonorant metathesis 
 t n > n t $sonorant metathesis
 t l > l t $sonorant metathesis
 ð l > l ð $sonorant metathesis
 ð n > n ð $sonorant metathesis
-[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi],βstres] __ $ renucleation,glide > vowel
+[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation,glide > vowel
 [+cons,-cont,+voi] > [+cont] $spirantization
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization
 [+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happens at the same time
@@ -148,19 +148,19 @@ t l > l t $sonorant metathesis
 [+syl,+hi,+front] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl] $ vowel dissimilation
 [+cons] > ∅ / __ [+delrel] $ affricate reduction
 [+cons] > ∅ / [+delrel] __ $ affricate reduction
-[+cons,+cor,+voi,-strid] > j [+cons,+cor,+voi,-strid] / [+hi,+cons] __ $ dental vocalization
-[+cons,+cor,+voi,-strid] > j [+cons,+cor,+voi,-strid] / __ [+hi,+cons] $ dental vocalization
+∅ > j  / [+hi,+cons] __ [+cons,+cor,+voi,-strid]$ dental vocalization
+∅ > j / __ [+cons,+cor,+voi,-strid] [+hi,+cons] $ dental vocalization
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl] $ waw expulsion 
 [+lab,+cons,-cont,-strid] > h / __ [+syl] $ phi aspiration
 [+lab,+cons,-cont,-strid] > [+strid] $ phi_eff
 h > ∅ $ h_deletion
 [+syl,+front] > [+hi] / [-cons,-syl,+front] __ [+hi,+front] $bilateral raising
 [+syl,+front] > [+hi] / [-cons,-syl,+front] __ [-ant] [+cons] $bilateral raising
-[-syl,-cons,+hi +front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
-[-syl,-cons,+hi +front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
+[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
+[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
 [+lab,+cons] > w / __ [+cons] $wawism_late
 [+nas,+cor] > [-nas,-cont] / [+nas] __ $ recurrent rule,nasal dissimilation
-[+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] $ epenthetic b d
+{m;n̪;l} > {m b;n̪ d̪;l d̪} / __ r $epenthetic b d; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
 [+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress
 [+strid,+ant] > [+cont] $deaffrication
 [+strid] > [-voi] $ unvoice,the great sibilant merger
@@ -169,5 +169,5 @@ h > ∅ $ h_deletion
 [+strid,+cor,+ant] > [-strid,-distr] / __ [-cons] $ interdental
 [+cons] > [+voi] / [-cons] __ [+cons] $ regressive voicing
 s > e s / __ [+cons] $ prothesis
-[+cons,+round,-voi,-cont] > [-round] w $ "q bisegmental",comment in span15.pho asking "why?"
+kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w 
 ɾ > r / # __ $ initial trill
