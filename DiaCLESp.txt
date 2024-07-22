@@ -68,14 +68,14 @@ j > [+cons] / [+syl] __ [+syl] $ glide fortition,recurrent rule
 [-syl,-cons,+hi +front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
 [+cons] > [-round] / # __ [-low,+syl,-stres] $ unround
 [+cons,+back,+voi,-cont] > ∅ / __ [+lat] $ pl>ll early
-∅ > ʊ̯ / [+syl] [+ant]__ [-syl,̟back,-cons] [+syl,+back] $ glide metathesis
-∅ > ʊ̯ / [+syl] [-voi]__ [-syl,̟back,-cons] [+syl,+back] $ glide metathesis
-∅ > ʊ̯ / [+syl] [+cor,+cons]__ [-syl,̟back,-cons] [+syl,+back] $ glide metathesis
-∅ > ʊ̯ / [+syl] [+ant]__ [-syl,̟back,-cons] [+syl,+hi] $ glide metathesis
-∅ > ʊ̯ / [+syl] [-voi]__ [-syl,̟back,-cons] [+syl,+hi] $ glide metathesis
-∅ > ʊ̯ / [+syl] [+cor,+cons]__ [-syl,̟back,-cons] [+syl,+hi] $ glide metathesis
-∅ > ɪ̯ / [syl] [-voi] __ [-syl,+front,-cons] $ glide metathesis
-∅ > ɪ̯ / [syl] [-cor,-cons] __ [-syl,+front,-cons] $ glide metathesis
+∅ > o̯ / [+syl] [+ant]__ [-syl,̟back,-cons] [+syl,+back] $ glide metathesis
+∅ > o̯/ [+syl] [-voi]__ [-syl,̟back,-cons] [+syl,+back] $ glide metathesis
+∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,̟back,-cons] [+syl,+back] $ glide metathesis
+∅ > o̯ / [+syl] [+ant]__ [-syl,̟back,-cons] [+syl,+hi] $ glide metathesis
+∅ > o̯ / [+syl] [-voi]__ [-syl,̟back,-cons] [+syl,+hi] $ glide metathesis
+∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,̟back,-cons] [+syl,+hi] $ glide metathesis
+∅ > e̯ / [syl] [-voi] __ [-syl,+front,-cons] $ glide metathesis
+∅ > e̯ / [syl] [-cor,-cons] __ [-syl,+front,-cons] $ glide metathesis
 [-tens,-cons,-syl,+hi] [+cons] [+tens,-cons,-syl] > [+tens],[+cons] ∅ $ glide metathesis
 [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons] $ o-raising
 [+cons,-cont,+voi] > [+cont] $spirantization
