@@ -4,6 +4,7 @@ h > ∅ $ h_deletion
 [+syl,-long] > [+syl,+long] / __[+nas] [+cons,+cont] $prenasal lengthening
 [+syl,-long] > [+syl,+long] / __[+nas] [+cons,-cont] [+cons] $prenasal lengthening 
 [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @ $ nasal assimilation
+	$ TODO: this is missing assimilation to non-coronals because they are unspecified for ant and distr. Find way to get around this, perhaps with multiple rules or having the coronal microplace assimilation handled in the next rule (which currently covers only laterals). 
 [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son] $implosion
 [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+cons,-son,αvoi] $implosion 
