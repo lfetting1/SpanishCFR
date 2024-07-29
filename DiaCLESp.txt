@@ -28,7 +28,7 @@ j > [+cons] / [+syl] __ [+syl] $ glide fortition,recurrent rule
 [+nas] > ∅ / __ # $ final nasal deletion
 [+nas] > ∅ / __ s $ "ns > s" 
 [+cons,-cont] > ∅ / __ # $final stop deletion
-[+son] > [+son,+cor] / __ # $ final sonorant > coronal
+[+son,+cons,αnas] > [+cor,+ant,αdistr,-lab,-hi,-front,-back] / __ # $ final sonorant > coronal. This is intended for m, ɲ and ʎ to become n and l. Original version [+son] > [+cor]. If this solution doesn't work, use phones. 
 [+cons] > ∅ / __ [+strid] [+cons] $ reduction of cluster containing a sibilant
 ɣʷ > β $ w_beta
 [+back,+cons,-cont] > [+back,+cons,+cont] / [+syl] __ [+cons,-back] $velar spirantization
