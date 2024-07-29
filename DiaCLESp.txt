@@ -31,8 +31,8 @@ j > [+cons] / [+syl] __ [+syl] $ glide fortition,recurrent rule
 [+son,+cons,αnas] > [+cor,+ant,αdistr,-lab,-hi,-front,-back] / __ # $ final sonorant > coronal. This is intended for m, ɲ and ʎ to become n and l. Original version [+son] > [+cor]. If this solution doesn't work, use phones. 
 [+cons] > ∅ / __ [+strid] [+cons] $ reduction of cluster containing a sibilant
 ɣʷ > β $ w_beta
-[+back,+cons,-cont] > [+back,+cons,+cont] / [+syl] __ [+cons,-back] $velar spirantization
-[+cont,+son] > [+cor,+strid] / __[+cor,+strid] $ rs > ss 
+[+back,+cons,-cont] > [+cont] / [+syl] __ [+cons,-back] $velar spirantization
+r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,+strid]
 [+syl] > [+syl,+long] / [+cons,-cor,-cont] [+syl] __ $vowel lengthening
 [+syl] > [+syl,+long] / [+cor,+son] [+syl] __ $ vowel lengthening (combine?)
 [+stres,-lo] [-stres] > [-stres] [+stres] $ progressive_stress
@@ -59,8 +59,8 @@ j > [+cons] / [+syl] __ [+syl] $ glide fortition,recurrent rule
 [+lat] > [-hi,+ant] / [+cons,+voi] __ $ lambda_ell
 [+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong] r > r [+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong] / __ # $ final metathesis
 ∅ > j / [+cons,-cont,+back] __ [+syl,-back] $ ongliding
-[+cons,-cont,+cor] > [-ant,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $dental affrication
-[+cons,-cont,+back] > [-ant,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $ velar affrication,affrication rules may not be accurate to original phono
+[+cons,-cont,+cor] > [-ant,+distr,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $dental affrication
+[+cons,-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $ velar affrication,affrication rules may not be accurate to original phono
 [+cons,+back,+voi] > [+round] / [-cons,-syl,+round] __ $progressive rounding
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption
