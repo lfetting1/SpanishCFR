@@ -52,8 +52,8 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back] $ velar you early
 [+nas,+cor] > ɲ / j __ $ nasal palatal
 [+nas,+cor] > ɲ / __ j $ nasal palatal (combine?)
-[+lat] > [+hi,-ant,-distr] / j __ $ lateral palatalization (combine with nasal?)
-[+lat] > [+hi,-ant,-distr] / __ j $ lateral palatalization (combine?)
+[+lat] > ʎ / j __ $ lateral palatalization (combine with nasal?)
+[+lat] > ʎ / __ j $ lateral palatalization (combine?)
 [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha
 {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} $[-cont] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation 
 [+nas] > [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation 
@@ -166,9 +166,11 @@ n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation
 [+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress
 [+strid,+ant] > [+cont] $deaffrication
 [+strid] > [-voi] $ unvoice,the great sibilant merger
-[+cons,+cor] > [+strid,+delrel,+cont] / __ [+cons] $ "azgo",+cont,+delrel seems weird especially since I do not think this is supposed to involve affrication
+[-son,+cor] > [+strid,+cont,-distr] / __ [-cont] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.)
 ʃ > x $ palatal velarization
-[+strid,+cor,+ant] > [-strid,-distr] / __ [-cons] $ interdental
+$(see below for reformulation) [+strid,+cor,+ant] > [-strid,-distr] / __ [-cons] $ interdental
+s > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
+s > θ / __ # $part two of interdental reformulation?
 [+cons] > [+voi] / [-cons] __ [+cons] $ regressive voicing
 s > e s / __ [+cons] $ prothesis
 kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w 
