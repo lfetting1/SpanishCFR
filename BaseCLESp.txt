@@ -46,7 +46,9 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 [+syl,-long,+stres,-hi,-lo] > [-tense] $ mid lowering
 [+syl,-long] > [-hi] $ hi_lowering
 [+syl,+long] > [-long] $recurrent rule,unlong
-[+cons,+long] > [-long] / [+syl] __ $unlong,syllable final trill > tap
+r > ɾ / __ [+cons] $unlong,syllable final trill > tap
+r > ɾ / __ # $unlong,syllable final trill > tap
+ɾ > r / __ r $(above change applied to all consonants so we revert it before r. "r r" for us = "long r" for hartman)
 ∅ > j / [+syl,-back] __ [+syl,+back] $ "antihiatus"
 [+syl,-back,-lo] > [+hi] / __ [-cons,-syl,-back] $front raising,not sure about this
 [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back] $ velar you early
