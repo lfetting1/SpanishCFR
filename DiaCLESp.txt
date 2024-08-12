@@ -89,8 +89,8 @@ $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+h
 [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-hi] $ delete bdg 
 [-son,+voi,-strid,+ant,-cor] > ∅ / __ [+syl,-cons,+hi,+round] $ delete bdg 
 [+cont] > [+voi] / [-cons] __ [+son] $voicing
-[+lat] > [-cons,+back,+hi] / [+lo] __ $ lateral vocalization
-[+lat] > [-cons,+front,+hi] / [+back] __ [+cons] $ lateral vocalization,not sure on these
+[+lat] > w / [+lo] __ $ lateral vocalization after low vowels, e.g. talpo > tawpo.
+[+lat] > j / [+back] __ [+cons] $ lateral vocalization for molto > mojto type cases.
 [+strid,-cont] > [-hi,+ant] $ dentalization 
 [+front,+syl,-stres,+hi] > [-syl] / __ [+syl] $ syneresis_late
 [+front,+syl,-stres] > [-syl] / __ [+syl,+back] $ syneresis_late
