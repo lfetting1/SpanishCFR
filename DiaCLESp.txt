@@ -17,7 +17,7 @@ h > ∅ $ h_deletion
 [+cont,+cons,+voi] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
 w > ∅ / [+back,+syl] __ $ back monophthongization
 w > [+cons,-son] / __ [+syl] $ glide fortition,recurrent rule
-j > [+cons] / [+syl] __ [+syl] $ glide fortition,recurrent rule
+j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug 12, made into fricative
 [+ant,-distr,+strid] > [+ant,+distr,+strid] / __ [+ant,+distr] $ recurrent rule,dental_s
 [+syl,αhi,βlo,-front] > [αhi,βlo,-front] / __ j $fronting
 [+lo,+syl] > [-lo,-hi,-tense,+front] / __ j $fronting (combine?)
