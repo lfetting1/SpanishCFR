@@ -95,7 +95,7 @@ $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+h
 [+front,+syl,-stres,+hi] > [-syl] / __ [+syl] $ syneresis_late
 [+front,+syl,-stres] > [-syl] / __ [+syl,+back] $ syneresis_late
 [+front,+syl,-stres] > [-syl] / [+syl,+back] __ $ syneresis_late
-[+ant,-cor,+cont,+voi] > [-distr,+strid] $ beta_vee
+β > v $ beta_vee
 [+cons,+back] > j / [+syl] __ [-back] $ velar yod late
 [+syl,+front,+tense] > [+hi] / __ ([-syl])[+syl,+hi] $ metaphony e
 [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels
