@@ -116,7 +116,7 @@ $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+h
 [+lat,+hi] > [+cons,+strid,-lat] $ lateral affrication
 d ʒ > ʒ $j>y merger,unclear if this is meant 
 ʝ > ʒ $j>y merger,unclear if this is meant,named like it is yeismo,but does not seem to be
-[+lat] > [+hi,-ant,+distr] / [+cons] __ $lamdacism
+[+lat] > ʎ / [-son] __ $lamdacism
 [+cons,-voi] > ∅ / __ [+lat] $pl_ll_late
 [-voi] > [+distr,+delrel] / __ [+lat] $ "cheismo" palatal lateral > tʃ 
 {l l;n̪ n̪} > {ʎ;ɲ} $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ 
@@ -133,13 +133,13 @@ d ʒ > ʒ $j>y merger,unclear if this is meant
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
-d n > n d $sonorant metathesis
-d l > l d $sonorant metathesis 
-t n > n t $sonorant metathesis
-t l > l t $sonorant metathesis
+d̪ n̪ > n̪ d̪ $sonorant metathesis
+d̪ l > l d̪ $sonorant metathesis 
+t̪ n̪ > n̪ t̪ $sonorant metathesis
+t̪ l > l t̪ $sonorant metathesis
 ð l > l ð $sonorant metathesis
-ð n > n ð $sonorant metathesis
-[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation,glide > vowel
+ð n̪ > n̪ ð $sonorant metathesis
+[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? 
 [+cons,-cont,+voi] > [+cont] $spirantization
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization
 [+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happens at the same time
@@ -160,7 +160,7 @@ h > ∅ $ h_deletion
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
 [+lab,+cons] > w / __ [+cons] $wawism_late
-[+nas,+cor] > [-nas,-cont] / [+nas] __ $ recurrent rule,nasal dissimilation
+n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ r $epenthetic b d; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
 [+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress
 [+strid,+ant] > [+cont] $deaffrication
