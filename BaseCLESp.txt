@@ -19,9 +19,9 @@ w > ∅ / [+back,+syl] __ $ back monophthongization
 w > [+cons,-son] / __ [+syl] $ glide fortition,recurrent rule
 j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug 12, made into fricative
 [+ant,-distr,+strid] > [+ant,+distr,+strid] / __ [+ant,+distr] $ recurrent rule,dental_s
-{a e ; o e} > {ɛ j ; e j} $ fronting
-{ˈa e ; ˈo e} > {ˈɛ j ; ˈe j} $ fronting
-{ˌa e ; ˌo e} > {ˌɛ j ; ˌe j} $ fronting
+{a e̯ ; o e̯} > {ɛ j ; e j} $ fronting
+{ˈa e̯ ; ˈo e̯} > {ˈɛ j ; ˈe j} $ fronting
+{ˌa e̯ ; ˌo e̯} > {ˌɛ j ; ˌe j} $ fronting
 [-lo,-hi,-tense,+syl,-stres,+front] > [-lo,-hi,+tense,+syl,-stres,+front] $"atonic-epsilon"
 [+syl] j > [+syl,+long] ∅ $ monophthongization,(formatting?)
 [+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early

@@ -19,9 +19,9 @@ w > ∅ / [+back,+syl] __ | ORIG : w > ∅ / [+back,+syl] __
 w > ɣʷ / __ [+syl]| ORIG : w > [+cons,-son] / __ [+syl] 
 j > ʝ / [+syl] __ [+syl]| ORIG : j > [+cons,-son] / [+syl] __ [+syl] 
 [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]| ORIG : [+ant,-distr,+strid] > [+ant,+distr,+strid] / __ [+ant,+distr] 
-{a e;o e} > {ɛ j;e j} | ORIG : {a e ; o e} > {ɛ j ; e j} 
-{ˈa e;ˈo e} > {ˈɛ j;ˈe j} | ORIG : {ˈa e ; ˈo e} > {ˈɛ j ; ˈe j} 
-{ˌa e;ˌo e} > {ˌɛ j;ˌe j} | ORIG : {ˌa e ; ˌo e} > {ˌɛ j ; ˌe j} 
+{a e̯;o e̯} > {ɛ j;e j} | ORIG : {a e̯ ; o e̯} > {ɛ j ; e j} 
+{ˈa e̯;ˈo e̯} > {ˈɛ j;ˈe j} | ORIG : {ˈa e̯ ; ˈo e̯} > {ˈɛ j ; ˈe j} 
+{ˌa e̯;ˌo e̯} > {ˌɛ j;ˌe j} | ORIG : {ˌa e̯ ; ˌo e̯} > {ˌɛ j ; ˌe j} 
 [-lo,-hi,-tense,+syl,-stres,+front] > [-lo,-hi,+tense,+syl,-stres,+front,-cons,+son,-prim,-lat,+cont,0delrel] | ORIG : [-lo,-hi,-tense,+syl,-stres,+front] > [-lo,-hi,+tense,+syl,-stres,+front] 
 [+syl] j > [+syl,+long,+son,0delrel] ∅| ORIG : [+syl] j > [+syl,+long] ∅ 
 [+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas]| ORIG : [+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] 
@@ -153,8 +153,8 @@ t̪ l > l t̪ | ORIG : t̪ l > l t̪
 ∅ > j / [+hi,+cons] __ [+cons,+cor,+voi,-strid]| ORIG : ∅ > j  / [+hi,+cons] __ [+cons,+cor,+voi,-strid]
 ∅ > j / __ [+cons,+cor,+voi,-strid] [+hi,+cons]| ORIG : ∅ > j / __ [+cons,+cor,+voi,-strid] [+hi,+cons] 
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]| ORIG : [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl] 
-[+lab,+cont,-strid,-voi] > h / __ [+syl]| ORIG : [+lab,+cont,-strid,-voi] > h / __ [+syl] 
-[+lab,+cont,-strid,-voi] > [+strid] | ORIG : [+lab,+cont,-strid,-voi] > [+strid] 
+ɸ > h / __ [+syl]| ORIG : ɸ > h / __ [+syl] 
+ɸ > f | ORIG : ɸ > [+strid] 
 h > ∅ | ORIG : h > ∅ 
 [+syl,+front] > [+hi] / [-cons,-syl,+front] __ [+hi,+front]| ORIG : [+syl,+front] > [+hi] / [-cons,-syl,+front] __ [+hi,+front] 
 [+syl,+front] > [+hi] / [-cons,-syl,+front] __ [-ant] [+cons]| ORIG : [+syl,+front] > [+hi] / [-cons,-syl,+front] __ [-ant] [+cons] 
