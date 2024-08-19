@@ -6,12 +6,12 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1198:
 #ˌalliˌuː# | 38 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+stres,+syl,+son,0delrel]
 #ˌalljˌuː# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #ˌalljˌu# | 47 : [+syl,+long] > [-long,-splng] 
-#ˌalʎjˌu# | 57 : [+lat] > ʎ / __ j
-#ˌal?jˌu# | 61 : [+lat] > [-hi,+ant] / [+cons,+voi] __ 
-#ˌaw?jˌu# | 92 : [+lat] > w / [+lo] __ 
-#ˌaɣʷ?jˌu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌaɣʷ?jˌo# | 115 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
-#ˌaɣʷʎjˌo# | 120 : [+lat] > ʎ / [-son] __ 
-#ˌaɣʷljˌo# | 125 : ʎ > l / [+cons,+voi] __ 
-#ˌaɣʷjljˌo# | 152 : ∅ > j / [+hi,+cons] __ [+cons,+cor,+voi,-strid]
+#ˌalʎjˌu# | 62 : [+lat] > ʎ / __ j
+#ˌalljˌu# | 66 : ʎ > l / [+cons,+voi] __ 
+#ˌawljˌu# | 97 : [+lat] > w / [+lo] __ 
+#ˌaɣʷljˌu# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ˌaɣʷljˌo# | 125 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
+#ˌaɣʷʎjˌo# | 130 : [+lat] > ʎ / [-son] __ 
+#ˌaɣʷljˌo# | 135 : ʎ > l / [+cons,+voi] __ 
+#ˌaɣʷjljˌo# | 162 : ∅ > j / [+hi,+cons] __ [+cons,+cor,+voi,-strid]
 Final form : #ˌaɣʷjljˌo#

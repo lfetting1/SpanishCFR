@@ -50,16 +50,21 @@ r > ɾ / __ [+cons] $unlong,syllable final trill > tap
 r > ɾ / __ # $unlong,syllable final trill > tap
 ɾ > r / __ r $(above change applied to all consonants so we revert it before r. "r r" for us = "long r" for hartman)
 ∅ > j / [+syl,-back] __ [+syl,+back] $ "antihiatus"
-[+syl,-back,-lo] > [+hi] / __ [-cons,-syl,-back] $front raising,not sure about this
+ɛ > e / __ j $front raising
+ˈɛ > ˈe / __ j $front raising
+ˌɛ > ˌe / __ j $front raising
+e > i / __ j $ front raising
+ˌe > ˌi / __ j $ front raising
+ˈe > ˈi / __ j $ front raising
 [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back] $ velar you early
 [+nas,+cor] > ɲ / j __ $ nasal palatal
 [+nas,+cor] > ɲ / __ j $ nasal palatal (combine?)
 [+lat] > ʎ / j __ $ lateral palatalization (combine with nasal?)
 [+lat] > ʎ / __ j $ lateral palatalization (combine?)
-[-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha
+[-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel"
 {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} $[-cont] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation 
-[+nas] > [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation 
-[+lat] > [-hi,+ant] / [+cons,+voi] __ $ lambda_ell
+[+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation 
+ʎ > l / [+cons,+voi] __ $ lambda_ell
 [+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] r > r [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] / __ # $ final metathesis
 ∅ > j / [+cons,-cont,+back] __ [+syl,-back] $ ongliding
 {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j $"affrication". Combination of the two below, generously including the aspirates of t and k. 
@@ -100,13 +105,18 @@ $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+h
 [+front,+syl,-stres] > [-syl] / [+syl,+back] __ $ syneresis_late
 β > v $ beta_vee
 [+cons,+back] > j / [+syl] __ [-back] $ velar yod late
-[+syl,+front,+tense] > [+hi] / __ ([-syl])[+syl,+hi] $ metaphony e
+[+syl,+front,+tense] > [-lo] / __ ([-syl])[+syl,+hi] $ metaphony e
 [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels
 [+syl,+round,+tense] > [+hi] / __ ([-syl])* [+hi,+syl] $ metaphony o
-[+syl] > [+hi] / j __ [-son] $ metaphony o agent j,nothing indicating target is o
+[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is o
 [+syl,-tense] > [+tense] / __ (@) (@) [+hi,+front] $ low raising,palatal can be 1st 2nd or 3rd phoneme following
-[+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ $ progressive raising
-[+syl,-tense,αround] > [-syl,-cons,αround] $diphthongization
+[+front,+syl] > [-lo] / [+syl] [+voi,+hi,+front,+cont] __ $ progressive raising
+ɛ > j e $ diphthongization
+ˈɛ > j ˈe $ diphthongization
+ˌɛ > j ˌe $ diphthongization
+ɔ > w e $ diphthongization
+ˈɔ > w ˈe $ diphthongization
+ˌɔ > w ˌe $ diphthongization
 [+hi,+front,-strid,+cons,+cont] > ∅ / # __ [+syl,-stres,+front]
 [+hi,+front,-strid,+cons,+cont] > ∅ / [+lat] __ [+syl,+front]
 [+hi,+front,-strid,+cons,+cont] > ∅ / [+lat] __ [+syl,+front]

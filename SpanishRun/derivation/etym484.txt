@@ -1,13 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :484:
-#lˈiɡn̪a# >>> #lˈe?# ( GOLD : #lˈeɲa#) :
+#lˈiɡn̪a# >>> #le̯e# ( GOLD : #lˈeɲa#) :
 l ˈi ɡ n̪ a 
 #lˈiɣn̪a# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #lˈeɣn̪a# | 46 : [+syl,-long] > [-hi] 
-#lˈejn̪a# | 53 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#lˈejɲa# | 54 : [+nas,+cor] > ɲ / j __ 
-#lˈeɲa# | 69 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#lˈeɲaʲ# | 105 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-#lˈeaʲ# | 110 : [+hi,+front,-strid,+cons,+cont] > ∅ / [+syl,+front] __ [+syl]
-#lˈeaʲ̯# | 112 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
-#lˈe?# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-Final form : #lˈe?#
+#lˈejn̪a# | 58 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#lˈejɲa# | 59 : [+nas,+cor] > ɲ / j __ 
+#lˈeɲa# | 74 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#lˈeɲe# | 110 : [+front,+syl] > [-lo] / [+syl] [+voi,+hi,+front,+cont] __ 
+#lˈee# | 120 : [+hi,+front,-strid,+cons,+cont] > ∅ / [+syl,+front] __ [+syl]
+#le̯e# | 155 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
+Final form : #le̯e#

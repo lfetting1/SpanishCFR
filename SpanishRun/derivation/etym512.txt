@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :512:
-#lˌemikˈan̪ea# >>> #lɛ̯ʃ̪e̯jˈan̪e̯a# ( GOLD : #leɡˈaɲa#) :
+#lˌemikˈan̪ea# >>> #lˌiʃ̪e̯jˈan̪e̯a# ( GOLD : #leɡˈaɲa#) :
 l ˌe m i k ˈa n̪ e a 
 #lˌemikˈan̪eaː# | 37 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
 #lˌɛmikˈan̪eaː# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #lˌɛmekˈan̪eaː# | 46 : [+syl,-long] > [-hi] 
 #lˌɛmekˈan̪ea# | 47 : [+syl,+long] > [-long,-splng] 
-#lˌɛmekjˈan̪ea# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#lˌɛmet͡ʃjˈan̪ea# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#lˌɛmet͡ʃe̯jˈan̪ea# | 78 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#lˌɛmet͡ʃ̪e̯jˈan̪ea# | 94 : [+strid,-cont] > [-hi,+ant] 
-#lɛ̯met͡ʃ̪e̯jˈan̪ea# | 106 : [+syl,-tense,αround] > [-syl,-cons,αround,0stres,0prim,-lat,+cont,0delrel] 
-#lɛ̯mt͡ʃ̪e̯jˈan̪ea# | 126 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#lɛ̯mt͡ʃ̪e̯jˈan̪e̯a# | 145 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
-#lɛ̯t͡ʃ̪e̯jˈan̪e̯a# | 150 : [+cons] > ∅ / __ [+delrel]
-#lɛ̯ʃ̪e̯jˈan̪e̯a# | 166 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #lɛ̯ʃ̪e̯jˈan̪e̯a#
+#lˌɛmekjˈan̪ea# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#lˌɛmet͡ʃjˈan̪ea# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˌɛmet͡ʃe̯jˈan̪ea# | 83 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#lˌɛmet͡ʃ̪e̯jˈan̪ea# | 99 : [+strid,-cont] > [-hi,+ant] 
+#ljˌemet͡ʃ̪e̯jˈan̪ea# | 113 : ˌɛ > j ˌe 
+#ljˌemt͡ʃ̪e̯jˈan̪ea# | 136 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ljˌemt͡ʃ̪e̯jˈan̪e̯a# | 155 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
+#ljˌimt͡ʃ̪e̯jˈan̪e̯a# | 158 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+#ljˌit͡ʃ̪e̯jˈan̪e̯a# | 160 : [+cons] > ∅ / __ [+delrel]
+#lˌit͡ʃ̪e̯jˈan̪e̯a# | 171 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#lˌiʃ̪e̯jˈan̪e̯a# | 176 : [+strid,+ant] > [+cont,0delrel] 
+Final form : #lˌiʃ̪e̯jˈan̪e̯a#

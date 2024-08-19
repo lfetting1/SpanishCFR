@@ -1,20 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :72:
-#d̪ˌelikˈaːt̪um# >>> #ɛ̯ʃ̪e̯ˈaʲt̪o# ( GOLD : #d̪elɡˈad̪o#) :
+#d̪ˌelikˈaːt̪um# >>> #xˌiʃ̪e̯jˈet̪o# ( GOLD : #d̪elɡˈad̪o#) :
 d̪ ˌe l i k ˈaː t̪ u m 
 #d̪ˌelikˈaːt̪u# | 28 : [+nas] > ∅ / __ #
 #d̪ˌɛlikˈaːt̪u# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #d̪ˌɛlekˈaːt̪o# | 46 : [+syl,-long] > [-hi] 
 #d̪ˌɛlekˈat̪o# | 47 : [+syl,+long] > [-long,-splng] 
-#d̪ˌɛlekjˈat̪o# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d̪ˌɛlet͡ʃjˈat̪o# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d̪ˌɛlet͡ʃe̯jˈat̪o# | 78 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#ðˌɛlet͡ʃe̯jˈat̪o# | 82 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌɛlet͡ʃe̯jˈat̪o# | 88 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˌɛlet͡ʃ̪e̯jˈat̪o# | 94 : [+strid,-cont] > [-hi,+ant] 
-#ˌɛlet͡ʃ̪e̯jˈaʲt̪o# | 103 : [+syl] > [+hi] / j __ [-son]
-#ɛ̯let͡ʃ̪e̯jˈaʲt̪o# | 106 : [+syl,-tense,αround] > [-syl,-cons,αround,0stres,0prim,-lat,+cont,0delrel] 
-#ɛ̯lt͡ʃ̪e̯jˈaʲt̪o# | 126 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ɛ̯lt͡ʃ̪e̯ˈaʲt̪o# | 135 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ɛ̯t͡ʃ̪e̯ˈaʲt̪o# | 150 : [+cons] > ∅ / __ [+delrel]
-#ɛ̯ʃ̪e̯ˈaʲt̪o# | 166 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ɛ̯ʃ̪e̯ˈaʲt̪o#
+#d̪ˌɛlekjˈat̪o# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d̪ˌɛlet͡ʃjˈat̪o# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d̪ˌɛlet͡ʃe̯jˈat̪o# | 83 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#ðˌɛlet͡ʃe̯jˈat̪o# | 87 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌɛlet͡ʃe̯jˈat̪o# | 93 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
+#ˌɛlet͡ʃ̪e̯jˈat̪o# | 99 : [+strid,-cont] > [-hi,+ant] 
+#ˌɛlet͡ʃ̪e̯jˈet̪o# | 108 : [+syl] > [-lo] / j __ [-son]
+#jˌelet͡ʃ̪e̯jˈet̪o# | 113 : ˌɛ > j ˌe 
+#ʝˌelet͡ʃ̪e̯jˈet̪o# | 123 : [-cons,-syl,+hi] > [+cons,-son,0tense] / # __ 
+#ʒˌelet͡ʃ̪e̯jˈet̪o# | 129 : ʝ > ʒ 
+#ʒˌelt͡ʃ̪e̯jˈet̪o# | 136 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ʒˌilt͡ʃ̪e̯jˈet̪o# | 158 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+#ʒˌit͡ʃ̪e̯jˈet̪o# | 160 : [+cons] > ∅ / __ [+delrel]
+#ʒˌiʃ̪e̯jˈet̪o# | 176 : [+strid,+ant] > [+cont,0delrel] 
+#ʃˌiʃ̪e̯jˈet̪o# | 177 : [+strid] > [-voi] 
+#xˌiʃ̪e̯jˈet̪o# | 179 : ʃ > x 
+Final form : #xˌiʃ̪e̯jˈet̪o#

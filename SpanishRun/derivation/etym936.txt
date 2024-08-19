@@ -1,23 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :936:
-#sˌekwˈen̪t̪e# >>> #θˌixɪ̯?e# ( GOLD : #siɡjˈen̪t̪e#) :
+#sˌekwˈen̪t̪e# >>> #θˌixjˈet̪e# ( GOLD : #siɡjˈen̪t̪e#) :
 s ˌe k w ˈe n̪ t̪ e 
 #sˌekɣʷˈen̪t̪e# | 18 : w > ɣʷ / __ [+syl]
 #sˌekβˈen̪t̪e# | 33 : ɣʷ > β 
 #sˌexβˈen̪t̪e# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #sˌɛxβˈɛn̪t̪e# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sˌɛxˈɛn̪t̪e# | 88 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#sˌɛɣˈɛn̪t̪e# | 91 : [+cont] > [+voi] / [-cons] __ [+son]
-#sˌɛjˈɛn̪t̪e# | 99 : [+cons,+back] > j / [+syl] __ [-back]
-#sˌejˈɛn̪t̪e# | 104 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#sˌejˈɪn̪t̪e# | 105 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-#sˌejɪ̯n̪t̪e# | 106 : [+syl,-tense,αround] > [-syl,-cons,αround,0stres,0prim,-lat,+cont,0delrel] 
-#sˌeʝɪ̯n̪t̪e# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#sˌeʒɪ̯n̪t̪e# | 119 : ʝ > ʒ 
-#sˌeʒɪ̯t̪e# | 124 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#sˌeʒɪ̯?e# | 131 : [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr,-son,-cont,+cor,+cons,0tense] / [+hi,+front,-syl,-cons] __ 
-#sˌeʒɪ̯?e# | 144 : [+hi,-back,+delrel] > [-strid,-delrel,-son,-cont,+cons,0tense] 
-#sˌiʒɪ̯?e# | 148 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#sˌiʃɪ̯?e# | 167 : [+strid] > [-voi] 
-#sˌixɪ̯?e# | 169 : ʃ > x 
-#θˌixɪ̯?e# | 170 : s > θ / __ [-cons]
-Final form : #θˌixɪ̯?e#
+#sˌɛxˈɛn̪t̪e# | 93 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
+#sˌɛɣˈɛn̪t̪e# | 96 : [+cont] > [+voi] / [-cons] __ [+son]
+#sˌɛjˈɛn̪t̪e# | 104 : [+cons,+back] > j / [+syl] __ [-back]
+#sˌejˈɛn̪t̪e# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#sˌejjˈen̪t̪e# | 112 : ˈɛ > j ˈe 
+#sˌeʝjˈen̪t̪e# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#sˌeʒjˈen̪t̪e# | 129 : ʝ > ʒ 
+#sˌeʒjˈet̪e# | 134 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
+#sˌiʒjˈet̪e# | 158 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+#sˌiʃjˈet̪e# | 177 : [+strid] > [-voi] 
+#sˌixjˈet̪e# | 179 : ʃ > x 
+#θˌixjˈet̪e# | 180 : s > θ / __ [-cons]
+Final form : #θˌixjˈet̪e#

@@ -1,18 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :387:
-#kˌaseˈaːrium# >>> #ʃ̪ˌaʲθe̯ˈarju# ( GOLD : #kesˈeɾo#) :
+#kˌaseˈaːrium# >>> #ʃ̪ˌiθe̯ˈarju# ( GOLD : #kesˈeɾo#) :
 k ˌa s e ˈaː r i u m 
 #kˌaseˈaːriu# | 28 : [+nas] > ∅ / __ #
 #kˌaseˈaːriuː# | 37 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
 #kˌaseˈaːrjuː# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #kˌaseˈarju# | 47 : [+syl,+long] > [-long,-splng] 
-#kjˌaseˈarju# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌaseˈarju# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˌazeˈarju# | 91 : [+cont] > [+voi] / [-cons] __ [+son]
-#t͡ʃ̪jˌazeˈarju# | 94 : [+strid,-cont] > [-hi,+ant] 
-#t͡ʃ̪jˌaʲzeˈarju# | 103 : [+syl] > [+hi] / j __ [-son]
-#t͡ʃ̪ˌaʲzeˈarju# | 135 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#t͡ʃ̪ˌaʲze̯ˈarju# | 145 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
-#ʃ̪ˌaʲze̯ˈarju# | 166 : [+strid,+ant] > [+cont,0delrel] 
-#ʃ̪ˌaʲse̯ˈarju# | 167 : [+strid] > [-voi] 
-#ʃ̪ˌaʲθe̯ˈarju# | 170 : s > θ / __ [-cons]
-Final form : #ʃ̪ˌaʲθe̯ˈarju#
+#kjˌaseˈarju# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌaseˈarju# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˌazeˈarju# | 96 : [+cont] > [+voi] / [-cons] __ [+son]
+#t͡ʃ̪jˌazeˈarju# | 99 : [+strid,-cont] > [-hi,+ant] 
+#t͡ʃ̪jˌezeˈarju# | 108 : [+syl] > [-lo] / j __ [-son]
+#t͡ʃ̪jˌeze̯ˈarju# | 155 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
+#t͡ʃ̪jˌize̯ˈarju# | 158 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+#t͡ʃ̪ˌize̯ˈarju# | 171 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ʃ̪ˌize̯ˈarju# | 176 : [+strid,+ant] > [+cont,0delrel] 
+#ʃ̪ˌise̯ˈarju# | 177 : [+strid] > [-voi] 
+#ʃ̪ˌiθe̯ˈarju# | 180 : s > θ / __ [-cons]
+Final form : #ʃ̪ˌiθe̯ˈarju#

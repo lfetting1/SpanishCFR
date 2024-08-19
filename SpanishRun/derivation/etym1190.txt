@@ -1,21 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1190:
-#ˌakkˌept̪ˈoːre# >>> #ˌaʃ̪j?ˈore# ( GOLD : #aθˈoɾ#) :
+#ˌakkˌept̪ˈoːre# >>> #ˌaʃ̪jˌet̪ˈore# ( GOLD : #aθˈoɾ#) :
 ˌa k k ˌe p t̪ ˈoː r e 
 #ˌakkˌɛpt̪ˈoːre# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˌakkˌɛpt̪ˈore# | 47 : [+syl,+long] > [-long,-splng] 
-#ˌakkˌɛt̪t̪ˈore# | 59 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
-#ˌakkjˌɛt̪t̪ˈore# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌakt͡ʃjˌɛt̪t̪ˈore# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌakt͡ʃ̪jˌɛt̪t̪ˈore# | 94 : [+strid,-cont] > [-hi,+ant] 
-#ˌajt͡ʃ̪jˌɛt̪t̪ˈore# | 99 : [+cons,+back] > j / [+syl] __ [-back]
-#ˌajt͡ʃ̪jˌɪt̪t̪ˈore# | 103 : [+syl] > [+hi] / j __ [-son]
-#ˌajt͡ʃ̪jɪ̯t̪t̪ˈore# | 106 : [+syl,-tense,αround] > [-syl,-cons,αround,0stres,0prim,-lat,+cont,0delrel] 
-#ˌaʝt͡ʃ̪jɪ̯t̪t̪ˈore# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌaʒt͡ʃ̪jɪ̯t̪t̪ˈore# | 119 : ʝ > ʒ 
-#ˌaʒt͡ʃ̪jɪ̯t̪ˈore# | 124 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#ˌaʒt͡ʃ̪jɪ̯?ˈore# | 131 : [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr,-son,-cont,+cor,+cons,0tense] / [+hi,+front,-syl,-cons] __ 
-#ˌaʒt͡ʃ̪j?ˈore# | 134 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌaʒt͡ʃ̪j?ˈore# | 144 : [+hi,-back,+delrel] > [-strid,-delrel,-son,-cont,+cons,0tense] 
-#ˌat͡ʃ̪j?ˈore# | 150 : [+cons] > ∅ / __ [+delrel]
-#ˌaʃ̪j?ˈore# | 166 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ˌaʃ̪j?ˈore#
+#ˌakkˌɛt̪t̪ˈore# | 64 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
+#ˌakkjˌɛt̪t̪ˈore# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌakt͡ʃjˌɛt̪t̪ˈore# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌakt͡ʃ̪jˌɛt̪t̪ˈore# | 99 : [+strid,-cont] > [-hi,+ant] 
+#ˌajt͡ʃ̪jˌɛt̪t̪ˈore# | 104 : [+cons,+back] > j / [+syl] __ [-back]
+#ˌajt͡ʃ̪jjˌet̪t̪ˈore# | 113 : ˌɛ > j ˌe 
+#ˌaʝt͡ʃ̪jjˌet̪t̪ˈore# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ˌaʒt͡ʃ̪jjˌet̪t̪ˈore# | 129 : ʝ > ʒ 
+#ˌaʒt͡ʃ̪jjˌet̪ˈore# | 134 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
+#ˌaʒt͡ʃ̪jˌet̪ˈore# | 144 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ˌat͡ʃ̪jˌet̪ˈore# | 160 : [+cons] > ∅ / __ [+delrel]
+#ˌaʃ̪jˌet̪ˈore# | 176 : [+strid,+ant] > [+cont,0delrel] 
+Final form : #ˌaʃ̪jˌet̪ˈore#
