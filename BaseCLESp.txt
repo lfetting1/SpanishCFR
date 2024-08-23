@@ -22,7 +22,7 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 {a e̯ ; o e̯} > {ɛ j ; e j} $ fronting
 {ˈa e̯ ; ˈo e̯} > {ˈɛ j ; ˈe j} $ fronting
 {ˌa e̯ ; ˌo e̯} > {ˌɛ j ; ˌe j} $ fronting
-[-lo,-hi,-tense,+syl,-stres,+front] > [-lo,-hi,+tense,+syl,-stres,+front] $"atonic-epsilon"
+[-lo,-hi,-tense,+syl,-stres,+front] > [+tense] $"atonic-epsilon"
 [+syl] j > [+syl,+long] ∅ $ monophthongization,(formatting?)
 [+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
 [+syl,-stres] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
@@ -70,7 +70,7 @@ e > i / __ j $ front raising
 {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j $"affrication". Combination of the two below, generously including the aspirates of t and k. 
 $[-cont,+cor] > [-ant,+distr,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $dental affrication
 $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $ velar affrication,affrication rules may not be accurate to original phono
-[+cons,+back,+voi] > [+round] / [-cons,-syl,+round] __ $progressive rounding
+{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive rounding
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
@@ -183,7 +183,7 @@ n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation
 $(see below for reformulation) [+strid,+cor,+ant] > [-strid,-distr] / __ [-cons] $ interdental
 s > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
 s > θ / __ # $part two of interdental reformulation?
-[+cons] > [+voi] / [-cons] __ [+cons] $ regressive voicing
+[+cons,-voi] > [+voi] / [-cons] __ [+cons] $ regressive voicing
 s > e s / __ [+cons] $ prothesis
 kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w 
 ɾ > r / # __ $ initial trill

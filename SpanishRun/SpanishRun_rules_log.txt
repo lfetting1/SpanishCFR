@@ -22,7 +22,7 @@ j > ʝ / [+syl] __ [+syl]| ORIG : j > [+cons,-son] / [+syl] __ [+syl]
 {a e̯;o e̯} > {ɛ j;e j} | ORIG : {a e̯ ; o e̯} > {ɛ j ; e j} 
 {ˈa e̯;ˈo e̯} > {ˈɛ j;ˈe j} | ORIG : {ˈa e̯ ; ˈo e̯} > {ˈɛ j ; ˈe j} 
 {ˌa e̯;ˌo e̯} > {ˌɛ j;ˌe j} | ORIG : {ˌa e̯ ; ˌo e̯} > {ˌɛ j ; ˌe j} 
-[-lo,-hi,-tense,+syl,-stres,+front] > [-lo,-hi,+tense,+syl,-stres,+front,-cons,+son,-prim,-lat,+cont,0delrel] | ORIG : [-lo,-hi,-tense,+syl,-stres,+front] > [-lo,-hi,+tense,+syl,-stres,+front] 
+[-lo,-hi,-tense,+syl,-stres,+front] > [+tense,-cons,-lat,+cont,0delrel] | ORIG : [-lo,-hi,-tense,+syl,-stres,+front] > [+tense] 
 [+syl] j > [+syl,+long,+son,0delrel] ∅| ORIG : [+syl] j > [+syl,+long] ∅ 
 [+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas]| ORIG : [+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] 
 [+syl,-stres] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas]| ORIG : [+syl,-stres] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] 
@@ -180,7 +180,7 @@ n̪ > ɾ / [+nas] __ | ORIG : n̪ > ɾ / [+nas] __
 ʃ > x | ORIG : ʃ > x 
 s > θ / __ [-cons]| ORIG : s > θ / __ [-cons] 
 s > θ / __ #| ORIG : s > θ / __ # 
-[+cons] > [+voi] / [-cons] __ [+cons]| ORIG : [+cons] > [+voi] / [-cons] __ [+cons] 
+[+cons,-voi] > [+voi] / [-cons] __ [+cons]| ORIG : [+cons,-voi] > [+voi] / [-cons] __ [+cons] 
 s > e s / __ [+cons]| ORIG : s > e s / __ [+cons] 
 kʷ > k w | ORIG : kʷ > k w 
 ɾ > r / # __ | ORIG : ɾ > r / # __ 
