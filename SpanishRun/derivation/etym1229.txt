@@ -7,12 +7,12 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1229:
 #ˌarrˈujuː# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #ˌarrˈojuː# | 46 : [+syl,-long] > [-hi] 
 #ˌarrˈoju# | 47 : [+syl,+long] > [-long,-splng] 
-#ˌaɾrˈoju# | 48 : r > ɾ / __ [+cons]
-#ˌarrˈoju# | 50 : ɾ > r / __ r
-#ˌarrˈuju# | 107 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
-#ˌarrˈuʝu# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌarrˈuʒu# | 129 : ʝ > ʒ 
-#ˌarˈuʒu# | 134 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#ˌarˈuʃu# | 177 : [+strid] > [-voi] 
-#ˌarˈuxu# | 179 : ʃ > x 
+#ˌaɾɾˈoju# | 48 : r > ɾ 
+#ˌaɾˈoju# | 49 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#ˌarˈoju# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌarˈuju# | 109 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
+#ˌarˈuʝu# | 126 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ˌarˈuʒu# | 132 : ʝ > ʒ 
+#ˌarˈuʃu# | 180 : [+strid] > [-voi] 
+#ˌarˈuxu# | 182 : ʃ > x 
 Final form : #ˌarˈuxu#

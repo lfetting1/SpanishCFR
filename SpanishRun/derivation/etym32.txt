@@ -3,9 +3,12 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :32:
 b ˌa s s i ˈaː r e
 #bˌasseˈaːre# | 46 : [+syl,-long] > [-hi] 
 #bˌasseˈare# | 47 : [+syl,+long] > [-long,-splng] 
-#βˌasseˈare# | 87 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌasseˈare# | 93 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˌaseˈare# | 134 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#ˌase̯ˈare# | 155 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
-#ˌaθe̯ˈare# | 180 : s > θ / __ [-cons]
+#bˌasseˈaɾe# | 48 : r > ɾ 
+#bˌaseˈaɾe# | 49 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#βˌaseˈare# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌaseˈare# | 95 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
+#ˌazeˈare# | 98 : [+cont] > [+voi] / [-cons] __ [+son]
+#ˌaze̯ˈare# | 158 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
+#ˌase̯ˈare# | 180 : [+strid] > [-voi] 
+#ˌaθe̯ˈare# | 183 : s > θ / __ [-cons]
 Final form : #ˌaθe̯ˈare#

@@ -1,17 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1198:
-#ˌallˈium# >>> #ˌaɣʷjljˌo# ( GOLD : #ˈaxo#) :
+#ˌallˈium# >>> #ˌeɣʷˌo# ( GOLD : #ˈaxo#) :
 ˌa l l ˈi u m 
 #ˌallˈiu# | 28 : [+nas] > ∅ / __ #
 #ˌallˈiuː# | 37 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
 #ˌalliˌuː# | 38 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+stres,+syl,+son,0delrel]
 #ˌalljˌuː# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #ˌalljˌu# | 47 : [+syl,+long] > [-long,-splng] 
-#ˌalʎjˌu# | 62 : [+lat] > ʎ / __ j
-#ˌalljˌu# | 66 : ʎ > l / [+cons,+voi] __ 
-#ˌawljˌu# | 97 : [+lat] > w / [+lo] __ 
-#ˌaɣʷljˌu# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌaɣʷljˌo# | 125 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
-#ˌaɣʷʎjˌo# | 130 : [+lat] > ʎ / [-son] __ 
-#ˌaɣʷljˌo# | 135 : ʎ > l / [+cons,+voi] __ 
-#ˌaɣʷjljˌo# | 162 : ∅ > j / [+hi,+cons] __ [+cons,+cor,+voi,-strid]
-Final form : #ˌaɣʷjljˌo#
+#ˌaljˌu# | 49 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#ˌaʎjˌu# | 64 : [+lat] > ʎ / __ j
+#ˌaʎˌu# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ˌawˌu# | 99 : [+lat] > w / [+lo] __ 
+#ˌewˌu# | 107 : [+syl,+front,+tense] > [-lo] / __ ( [-syl] ) [+syl,+hi]
+#ˌeɣʷˌu# | 126 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ˌeɣʷˌo# | 127 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
+Final form : #ˌeɣʷˌo#

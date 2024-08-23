@@ -3,13 +3,15 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :745:
 p ˌa n̪ i f i k ˈaː r e 
 #pˌan̪efekˈaːre# | 46 : [+syl,-long] > [-hi] 
 #pˌan̪efekˈare# | 47 : [+syl,+long] > [-long,-splng] 
-#pˌan̪efekjˈare# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#pˌan̪efet͡ʃjˈare# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˌan̪efet͡ʃe̯jˈare# | 83 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#pˌan̪evet͡ʃe̯jˈare# | 96 : [+cont] > [+voi] / [-cons] __ [+son]
-#pˌan̪evet͡ʃ̪e̯jˈare# | 99 : [+strid,-cont] > [-hi,+ant] 
-#pˌan̪eβ̪et͡ʃ̪e̯jˈare# | 126 : [+strid,-cor] > [+distr,-strid,+cor] 
-#pˌan̪β̪t͡ʃ̪e̯jˈare# | 136 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pˌan̪t͡ʃ̪e̯jˈare# | 160 : [+cons] > ∅ / __ [+delrel]
-#pˌan̪ʃ̪e̯jˈare# | 176 : [+strid,+ant] > [+cont,0delrel] 
+#pˌan̪efekˈaɾe# | 48 : r > ɾ 
+#pˌan̪efekjˈaɾe# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#pˌan̪efet͡ʃjˈaɾe# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#pˌan̪efet͡ʃe̯jˈaɾe# | 85 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#pˌan̪efet͡ʃe̯jˈare# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#pˌan̪evet͡ʃe̯jˈare# | 98 : [+cont] > [+voi] / [-cons] __ [+son]
+#pˌan̪evet͡ʃ̪e̯jˈare# | 101 : [+strid,-cont] > [-hi,+ant] 
+#pˌan̪eβet͡ʃ̪e̯jˈare# | 128 : {v;f} > {β;ɸ} 
+#pˌan̪βt͡ʃ̪e̯jˈare# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#pˌan̪t͡ʃ̪e̯jˈare# | 163 : [+cons] > ∅ / __ [+delrel]
+#pˌan̪ʃ̪e̯jˈare# | 179 : [+strid,+ant] > [+cont,0delrel] 
 Final form : #pˌan̪ʃ̪e̯jˈare#

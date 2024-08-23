@@ -1,22 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1285:
-#ˌokkˈaːsum# >>> #ˌuʃ̪jˈeθo# ( GOLD : #okˈaso#) :
+#ˌokkˈaːsum# >>> #ˌuʃ̪e̯jˈeθo# ( GOLD : #okˈaso#) :
 ˌo k k ˈaː s u m 
 #ˌokkˈaːsu# | 28 : [+nas] > ∅ / __ #
 #ˌɔkkˈaːsu# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˌɔkkˈaːso# | 46 : [+syl,-long] > [-hi] 
 #ˌɔkkˈaso# | 47 : [+syl,+long] > [-long,-splng] 
-#ˌɔkkjˈaso# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌɔkt͡ʃjˈaso# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɔkt͡ʃjˈazo# | 96 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌɔkt͡ʃ̪jˈazo# | 99 : [+strid,-cont] > [-hi,+ant] 
-#ˌɔjt͡ʃ̪jˈazo# | 104 : [+cons,+back] > j / [+syl] __ [-back]
-#ˌɔjt͡ʃ̪jˈezo# | 108 : [+syl] > [-lo] / j __ [-son]
-#ˌojt͡ʃ̪jˈezo# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌoʝt͡ʃ̪jˈezo# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌoʒt͡ʃ̪jˈezo# | 129 : ʝ > ʒ 
-#ˌuʒt͡ʃ̪jˈezo# | 158 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#ˌut͡ʃ̪jˈezo# | 160 : [+cons] > ∅ / __ [+delrel]
-#ˌuʃ̪jˈezo# | 176 : [+strid,+ant] > [+cont,0delrel] 
-#ˌuʃ̪jˈeso# | 177 : [+strid] > [-voi] 
-#ˌuʃ̪jˈeθo# | 180 : s > θ / __ [-cons]
-Final form : #ˌuʃ̪jˈeθo#
+#ˌɔkˈaso# | 49 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#ˌɔkjˈaso# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌɔt͡ʃjˈaso# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɔt͡ʃe̯jˈaso# | 85 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#ˌɔt͡ʃe̯jˈazo# | 98 : [+cont] > [+voi] / [-cons] __ [+son]
+#ˌɔt͡ʃ̪e̯jˈazo# | 101 : [+strid,-cont] > [-hi,+ant] 
+#ˌɔt͡ʃ̪e̯jˈezo# | 110 : [+syl] > [-lo] / j __ [-son]
+#ˌot͡ʃ̪e̯jˈezo# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ˌut͡ʃ̪e̯jˈezo# | 161 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+#ˌuʃ̪e̯jˈezo# | 179 : [+strid,+ant] > [+cont,0delrel] 
+#ˌuʃ̪e̯jˈeso# | 180 : [+strid] > [-voi] 
+#ˌuʃ̪e̯jˈeθo# | 183 : s > θ / __ [-cons]
+Final form : #ˌuʃ̪e̯jˈeθo#

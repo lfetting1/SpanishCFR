@@ -45,7 +45,9 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 [+syl,-stres,-lo,-back] > [-syl,-long,+hi,-back] / __ [+syl,+hi,-back] $ syneresis early
 [+syl,-long,+stres,-hi,-lo] > [-tense] $ mid lowering
 [+syl,-long] > [-hi] $ hi_lowering
-[+syl,+long] > [-long] $recurrent rule,unlong
+[+syl,+long] > [-long] $recurrent rule,unlong, shorten long vowels
+r > ɾ $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
+[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] 
 r > ɾ / __ [+cons] $unlong,syllable final trill > tap
 r > ɾ / __ # $unlong,syllable final trill > tap
 ɾ > r / __ r $(above change applied to all consonants so we revert it before r. "r r" for us = "long r" for hartman)
@@ -117,17 +119,18 @@ $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+h
 ɔ > w e $ diphthongization
 ˈɔ > w ˈe $ diphthongization
 ˌɔ > w ˌe $ diphthongization
-[+hi,+front,-strid,+cons,+cont] > ∅ / # __ [+syl,-stres,+front]
-[+hi,+front,-strid,+cons,+cont] > ∅ / [+lat] __ [+syl,+front]
-[+hi,+front,-strid,+cons,+cont] > ∅ / [+lat] __ [+syl,+front]
+[+hi,+front,-strid,+cons,+cont] > ∅ / # __ [+syl,-stres,+front] $recurrent, palatal deletion
+[+hi,+front,-strid,+cons,+cont] > ∅ / [+lat] __ [+syl,+front] $recurrent, palatal deletion
+[+hi,+front,-strid,+cons,+cont] > ∅ / [+lat] __ [+syl,+front] $recurrent, palatal deletion
 [+hi,+front,-strid,+cons,+cont] > ∅ / [+syl,+front] __ [+syl] $recurrent rule,palatal deletion
-[+hi,-stres,+syl] > [-syl] / __ [+syl] 
+[+hi,-stres,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis
 [+hi,-stres,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis
 [-cons,-syl,+hi] > [+cons,-son] / {#;[+syl]} __ $recurrent,modern glide fortition
 [+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
-[+strid,-cor] > [+distr,-strid] $ betacism
+{v; f} > {β; ɸ} $ "betacism"
 [+lat,+hi] > [+cons,+strid,-lat] $ lateral affrication
 d ʒ > ʒ $j>y merger,unclear if this is meant 
+d͡ʒ > ʒ $j>y merger,unclear if this is meant 
 ʝ > ʒ $j>y merger,unclear if this is meant,named like it is yeismo,but does not seem to be
 [+lat] > ʎ / [-son] __ $lamdacism
 [+cons,-voi] > ∅ / __ [+lat] $pl_ll_late

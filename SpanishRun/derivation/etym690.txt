@@ -1,20 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :690:
-#prˌoːfˈekt̪um# >>> #wr̥ˌoβ̪ˈe?t̪o# ( GOLD : #pɾobˈet͡ʃo#) :
+#prˌoːfˈekt̪um# >>> #wr̥ˌoβˈe?t̪o# ( GOLD : #pɾobˈet͡ʃo#) :
 p r ˌoː f ˈe k t̪ u m 
 #prˌoːfˈekt̪u# | 28 : [+nas] > ∅ / __ #
 #prˌoːfˈext̪u# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #prˌoːfˈɛxt̪u# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #prˌoːfˈɛxt̪o# | 46 : [+syl,-long] > [-hi] 
 #prˌofˈɛxt̪o# | 47 : [+syl,+long] > [-long,-splng] 
-#prˌovˈɛxt̪o# | 96 : [+cont] > [+voi] / [-cons] __ [+son]
-#prˌovˈɛjt̪o# | 104 : [+cons,+back] > j / [+syl] __ [-back]
-#prˌovˈejt̪o# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#prˌovˈeʝt̪o# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#prˌoβ̪ˈeʝt̪o# | 126 : [+strid,-cor] > [+distr,-strid,+cor] 
-#prˌoβ̪ˈeʒt̪o# | 129 : ʝ > ʒ 
-#pr̥ˌoβ̪ˈeʒt̪o# | 137 : [+cons] > [-voi] / [-voi] __ 
-#wr̥ˌoβ̪ˈeʒt̪o# | 172 : [+lab,+cons] > w / __ [+cons]
-#wr̥ˌoβ̪ˈeʃt̪o# | 177 : [+strid] > [-voi] 
-#wr̥ˌoβ̪ˈe?t̪o# | 178 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
-#wr̥ˌoβ̪ˈe?t̪o# | 182 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #wr̥ˌoβ̪ˈe?t̪o#
+#pɾˌofˈɛxt̪o# | 48 : r > ɾ 
+#prˌofˈɛxt̪o# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#prˌovˈɛxt̪o# | 98 : [+cont] > [+voi] / [-cons] __ [+son]
+#prˌovˈɛjt̪o# | 106 : [+cons,+back] > j / [+syl] __ [-back]
+#prˌovˈejt̪o# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#prˌovˈeʝt̪o# | 126 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#prˌoβˈeʝt̪o# | 128 : {v;f} > {β;ɸ} 
+#prˌoβˈeʒt̪o# | 132 : ʝ > ʒ 
+#pr̥ˌoβˈeʒt̪o# | 140 : [+cons] > [-voi] / [-voi] __ 
+#wr̥ˌoβˈeʒt̪o# | 175 : [+lab,+cons] > w / __ [+cons]
+#wr̥ˌoβˈeʃt̪o# | 180 : [+strid] > [-voi] 
+#wr̥ˌoβˈe?t̪o# | 181 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
+#wr̥ˌoβˈe?t̪o# | 185 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
+Final form : #wr̥ˌoβˈe?t̪o#

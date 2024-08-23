@@ -3,12 +3,14 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :244:
 k r ˌe s k ˈeː r e 
 #krˌɛskˈeːre# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #krˌɛskˈere# | 47 : [+syl,+long] > [-long,-splng] 
-#krˌɛskjˈere# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#krˌɛst͡ʃjˈere# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#krˌɛst͡ʃ̪jˈere# | 99 : [+strid,-cont] > [-hi,+ant] 
-#krˌest͡ʃ̪jˈere# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#kr̥ˌest͡ʃ̪jˈere# | 137 : [+cons] > [-voi] / [-voi] __ 
-#kr̥ˌist͡ʃ̪jˈere# | 158 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#kr̥ˌit͡ʃ̪jˈere# | 160 : [+cons] > ∅ / __ [+delrel]
-#kr̥ˌiʃ̪jˈere# | 176 : [+strid,+ant] > [+cont,0delrel] 
+#kɾˌɛskˈeɾe# | 48 : r > ɾ 
+#kɾˌɛskjˈeɾe# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#kɾˌɛst͡ʃjˈeɾe# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#krˌɛst͡ʃjˈere# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#krˌɛst͡ʃ̪jˈere# | 101 : [+strid,-cont] > [-hi,+ant] 
+#krˌest͡ʃ̪jˈere# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#kr̥ˌest͡ʃ̪jˈere# | 140 : [+cons] > [-voi] / [-voi] __ 
+#kr̥ˌist͡ʃ̪jˈere# | 161 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+#kr̥ˌit͡ʃ̪jˈere# | 163 : [+cons] > ∅ / __ [+delrel]
+#kr̥ˌiʃ̪jˈere# | 179 : [+strid,+ant] > [+cont,0delrel] 
 Final form : #kr̥ˌiʃ̪jˈere#

@@ -4,10 +4,10 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1253:
 #ˌawɡˈus̪t̪um# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
 #ˌawɡˈus̪t̪u# | 28 : [+nas] > ∅ / __ #
 #ˌawɡˈos̪t̪o# | 46 : [+syl,-long] > [-hi] 
-#ˌawɡ̹ˈos̪t̪o# | 70 : [+cons,+back,+voi] > [+round] / [-cons,-syl,+round] __ 
-#ˌaɡ̹ˈos̪t̪o# | 71 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-#ˌaɣ̹ˈos̪t̪o# | 87 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌaˈos̪t̪o# | 90 : [-son,+voi,-strid,-ant,+hi] > ∅ / __ [+syl,-cons,-hi]
-#ˌaˈot̪o# | 134 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#a̯ˈot̪o# | 155 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
+#ˌawɡʷˈos̪t̪o# | 72 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
+#ˌaɡʷˈos̪t̪o# | 73 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#ˌaɣʷˈos̪t̪o# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌaˈos̪t̪o# | 92 : [-son,+voi,-strid,-ant,+hi] > ∅ / __ [+syl,-cons,-hi]
+#ˌaˈot̪o# | 137 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
+#a̯ˈot̪o# | 158 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
 Final form : #a̯ˈot̪o#
