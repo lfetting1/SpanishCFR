@@ -1,9 +1,7 @@
 [+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 {v; f} > {β; ɸ} $ "betacism"
-[+lat,+hi] > [+cons,+strid,-lat] $ lateral affrication
-d ʒ > ʒ $j>y merger,unclear if this is meant 
-d͡ʒ > ʒ $j>y merger,unclear if this is meant 
-ʝ > ʒ $j>y merger,unclear if this is meant,named like it is yeismo,but does not seem to be
+ʎ > d͡ʒ $ lateral affrication
+{d͡ʒ;ʝ} > {ʒ;ʒ} $j > y merger
 [+lat] > ʎ / [-son] __ $lamdacism
 [+cons,-voi] > ∅ / __ [+lat] $pl_ll_late
 [-voi] > [+distr,+delrel] / __ [+lat] $ "cheismo" palatal lateral > tʃ 
