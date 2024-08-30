@@ -13,8 +13,6 @@ h > ∅ | ORIG : h > ∅
 [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+nas,αvoi]| ORIG : [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+nas,αvoi] 
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons,αvoi] __ [+lat]| ORIG : [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons,αvoi] __ [+lat] 
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi]| ORIG : [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi] 
-ð > d̪ / l __ | ORIG : ð > d̪ / l __ 
-[+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ | ORIG : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ 
 w > ∅ / [+back,+syl] __ | ORIG : w > ∅ / [+back,+syl] __ 
 w > ɣʷ / __ [+syl]| ORIG : w > [+cons,-son] / __ [+syl] 
 j > ʝ / [+syl] __ [+syl]| ORIG : j > [+cons,-son] / [+syl] __ [+syl] 
@@ -187,3 +185,5 @@ s > θ / __ #| ORIG : s > θ / __ #
 s > e s / __ [+cons]| ORIG : s > e s / __ [+cons] 
 kʷ > k w | ORIG : kʷ > k w 
 ɾ > r / # __ | ORIG : ɾ > r / # __ 
+ð > d̪ / l __ | ORIG : ð > d̪ / l __ 
+[+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ | ORIG : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ 
