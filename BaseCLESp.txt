@@ -1,8 +1,7 @@
 h > ∅ $ h_deletion
 [+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
 [+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depilatalization
-[+syl,-long] > [+syl,+long] / __[+nas] [+cons,+cont] $prenasal lengthening
-[+syl,-long] > [+syl,+long] / __[+nas] [+cons,-cont] [+cons] $prenasal lengthening 
+[+syl,-long] > [+syl,+long] / __[+nas] [-son] $prenasal lengthening
 [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @ $ nasal assimilation
 [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son] $implosion
