@@ -1,0 +1,64 @@
+[+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
+{v; f} > {β; ɸ} $ "betacism"
+[+lat,+hi] > [+cons,+strid,-lat] $ lateral affrication
+d ʒ > ʒ $j>y merger,unclear if this is meant 
+d͡ʒ > ʒ $j>y merger,unclear if this is meant 
+ʝ > ʒ $j>y merger,unclear if this is meant,named like it is yeismo,but does not seem to be
+[+lat] > ʎ / [-son] __ $lamdacism
+[+cons,-voi] > ∅ / __ [+lat] $pl_ll_late
+[-voi] > [+distr,+delrel] / __ [+lat] $ "cheismo" palatal lateral > tʃ 
+{l l;n̪ n̪} > {ʎ;ɲ} $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ 
+[+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] $ degemination
+ʎ > l / [+cons,+voi] __ $ lamda_ell
+[-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] $ syncope late,may be inexact
+[+cons] > [-voi] / [-voi] __ $ progressive_voicing
+[+syl,+lo] > [-lo,αback] / __ [-cons,-syl,αback] $ a coloring 
+[+cons,+lab] > w / __ [+back,+cons] $ vocalization of syllable-final labial
+$[+cons,-voi] > j 
+[+syl,-back,+tense,-stres] > [+hi] / __ [+hi,+round] $ ew > iw
+[-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ $ progressive hushing / palatalization
+[-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption
+[-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption
+[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
+[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
+d̪ n̪ > n̪ d̪ $sonorant metathesis
+d̪ l > l d̪ $sonorant metathesis 
+t̪ n̪ > n̪ t̪ $sonorant metathesis
+t̪ l > l t̪ $sonorant metathesis
+ð l > l ð $sonorant metathesis
+ð n̪ > n̪ ð $sonorant metathesis
+[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? 
+[+cons,-cont,+voi] > [+cont] $spirantization
+[+hi,-back,+delrel] > [-strid,-delrel] $spirantization
+[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happens at the same time
+[+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant"
+[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress
+[+syl,-lo] > [+hi] / __ [+cons] ([+cons]) [-cons,-syl] $ raising by diphthong
+[+syl,+hi,+front] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl] $ vowel dissimilation
+[+cons] > ∅ / __ [+delrel] $ affricate reduction
+[+cons] > ∅ / [+delrel] __ $ affricate reduction
+∅ > j  / [+hi,+cons] __ [+cons,+cor,+voi,-strid]$ dental vocalization
+∅ > j / __ [+cons,+cor,+voi,-strid] [+hi,+cons] $ dental vocalization
+[+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl] $ waw expulsion 
+ɸ > h / __ [+syl] $ phi aspiration
+ɸ > [+strid] $ phi_eff
+h > ∅ $ h_deletion
+[+syl,+front] > [+hi] / [-cons,-syl,+front] __ [+hi,+front] $bilateral raising
+[+syl,+front] > [+hi] / [-cons,-syl,+front] __ [-ant] [+cons] $bilateral raising
+[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
+[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
+[+lab,+cons] > w / __ [+cons] $wawism_late
+n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation
+{m;n̪;l} > {m b;n̪ d̪;l d̪} / __ r $epenthetic b d; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
+[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress
+[+strid,+ant] > [+cont] $deaffrication
+[+strid] > [-voi] $ unvoice,the great sibilant merger
+[-son,+cor] > [+strid,+cont,-distr] / __ [-cont] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.)
+ʃ > x $ palatal velarization
+$(see below for reformulation) [+strid,+cor,+ant] > [-strid,-distr] / __ [-cons] $ interdental
+s > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
+s > θ / __ # $part two of interdental reformulation?
+[+cons,-voi] > [+voi] / [-cons] __ [+cons] $ regressive voicing
+s > e s / __ [+cons] $ prothesis
+kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w 
+ɾ > r / # __ $ initial trill
