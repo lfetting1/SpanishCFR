@@ -1,17 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :369:
-#kˌan̪n̪ˈiːkium# >>> #ʃ̪aʲˌɲˈiʃ̪e̯ju# ( GOLD : #kaɲˈiθo#) :
+#kˌan̪n̪ˈiːkium# >>> #ʃ̪jˌen̪ˈiʃ̪e̯ju# ( GOLD : #kaɲˈiθo#) :
 k ˌa n̪ n̪ ˈiː k i u m 
 #kˌaːn̪n̪ˈiːkium# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cons,+cont]
-#kˌaːn̪n̪ˈiːkiu# | 28 : [+nas] > ∅ / __ #
-#kˌaːn̪n̪ˈiːkiuː# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
-#kˌaːn̪n̪ˈiːkjuː# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#kˌan̪n̪ˈikju# | 47 : [+syl,+long] > [-long,-splng] 
-#kjˌan̪n̪ˈikju# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌan̪n̪ˈit͡ʃju# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˌan̪n̪ˈit͡ʃe̯ju# | 83 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#t͡ʃ̪jˌan̪n̪ˈit͡ʃ̪e̯ju# | 99 : [+strid,-cont] > [-hi,+ant] 
-#t͡ʃ̪jˌaɲˈit͡ʃ̪e̯ju# | 133 : {l l;n̪ n̪} > {ʎ;ɲ} 
-#t͡ʃ̪jaʲˌɲˈit͡ʃ̪e̯ju# | 168 : [+syl,+front] > [+hi] / [-cons,-syl,+front] __ [+hi,+front]
-#t͡ʃ̪aʲˌɲˈit͡ʃ̪e̯ju# | 171 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ʃ̪aʲˌɲˈiʃ̪e̯ju# | 176 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ʃ̪aʲˌɲˈiʃ̪e̯ju#
+#kˌaːn̪n̪ˈiːkiu# | 26 : [+nas] > ∅ / __ #
+#kˌaːn̪n̪ˈiːkiuː# | 34 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
+#kˌaːn̪n̪ˈiːkjuː# | 40 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˌan̪n̪ˈikju# | 45 : [+syl,+long] > [-long,-splng] 
+#kˌan̪ˈikju# | 47 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#kjˌan̪ˈikju# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌan̪ˈit͡ʃju# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˌan̪ˈit͡ʃe̯ju# | 83 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#t͡ʃ̪jˌan̪ˈit͡ʃ̪e̯ju# | 99 : [+strid,-cont] > [-hi,+ant] 
+#t͡ʃ̪jˌen̪ˈit͡ʃ̪e̯ju# | 105 : [+syl,+front,+tense] > [-lo] / __ ( [-syl] ) [+syl,+hi]
+#ʃ̪jˌen̪ˈiʃ̪e̯ju# | 177 : [+strid,+ant] > [+cont,0delrel] 
+Final form : #ʃ̪jˌen̪ˈiʃ̪e̯ju#

@@ -22,7 +22,7 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 {a e̯ ; o e̯} > {ɛ j ; e j} $ fronting
 {ˈa e̯ ; ˈo e̯} > {ˈɛ j ; ˈe j} $ fronting
 {ˌa e̯ ; ˌo e̯} > {ˌɛ j ; ˌe j} $ fronting
-[-lo,-hi,-tense,+syl,-stres,+front] > [-lo,-hi,+tense,+syl,-stres,+front] $"atonic-epsilon"
+[-lo,-hi,-tense,+syl,-stres,+front] > [+tense] $"atonic-epsilon"
 [+syl] j > [+syl,+long] ∅ $ monophthongization,(formatting?)
 [+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
 [+syl,-stres] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
@@ -45,7 +45,9 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 [+syl,-stres,-lo,-back] > [-syl,-long,+hi,-back] / __ [+syl,+hi,-back] $ syneresis early
 [+syl,-long,+stres,-hi,-lo] > [-tense] $ mid lowering
 [+syl,-long] > [-hi] $ hi_lowering
-[+syl,+long] > [-long] $recurrent rule,unlong
+[+syl,+long] > [-long] $recurrent rule,unlong, shorten long vowels
+r > ɾ $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
+[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] 
 r > ɾ / __ [+cons] $unlong,syllable final trill > tap
 r > ɾ / __ # $unlong,syllable final trill > tap
 ɾ > r / __ r $(above change applied to all consonants so we revert it before r. "r r" for us = "long r" for hartman)
@@ -70,7 +72,7 @@ e > i / __ j $ front raising
 {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j $"affrication". Combination of the two below, generously including the aspirates of t and k. 
 $[-cont,+cor] > [-ant,+distr,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $dental affrication
 $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $ velar affrication,affrication rules may not be accurate to original phono
-[+cons,+back,+voi] > [+round] / [-cons,-syl,+round] __ $progressive rounding
+{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive rounding
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
@@ -117,17 +119,18 @@ $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+h
 ɔ > w e $ diphthongization
 ˈɔ > w ˈe $ diphthongization
 ˌɔ > w ˌe $ diphthongization
-[+hi,+front,-strid,+cons,+cont] > ∅ / # __ [+syl,-stres,+front]
-[+hi,+front,-strid,+cons,+cont] > ∅ / [+lat] __ [+syl,+front]
-[+hi,+front,-strid,+cons,+cont] > ∅ / [+lat] __ [+syl,+front]
+[+hi,+front,-strid,+cons,+cont] > ∅ / # __ [+syl,-stres,+front] $recurrent, palatal deletion
+[+hi,+front,-strid,+cons,+cont] > ∅ / [+lat] __ [+syl,+front] $recurrent, palatal deletion
+[+hi,+front,-strid,+cons,+cont] > ∅ / [+lat] __ [+syl,+front] $recurrent, palatal deletion
 [+hi,+front,-strid,+cons,+cont] > ∅ / [+syl,+front] __ [+syl] $recurrent rule,palatal deletion
-[+hi,-stres,+syl] > [-syl] / __ [+syl] 
+[+hi,-stres,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis
 [+hi,-stres,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis
 [-cons,-syl,+hi] > [+cons,-son] / {#;[+syl]} __ $recurrent,modern glide fortition
 [+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
-[+strid,-cor] > [+distr,-strid] $ betacism
+{v; f} > {β; ɸ} $ "betacism"
 [+lat,+hi] > [+cons,+strid,-lat] $ lateral affrication
 d ʒ > ʒ $j>y merger,unclear if this is meant 
+d͡ʒ > ʒ $j>y merger,unclear if this is meant 
 ʝ > ʒ $j>y merger,unclear if this is meant,named like it is yeismo,but does not seem to be
 [+lat] > ʎ / [-son] __ $lamdacism
 [+cons,-voi] > ∅ / __ [+lat] $pl_ll_late
@@ -183,7 +186,7 @@ n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation
 $(see below for reformulation) [+strid,+cor,+ant] > [-strid,-distr] / __ [-cons] $ interdental
 s > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
 s > θ / __ # $part two of interdental reformulation?
-[+cons] > [+voi] / [-cons] __ [+cons] $ regressive voicing
+[+cons,-voi] > [+voi] / [-cons] __ [+cons] $ regressive voicing
 s > e s / __ [+cons] $ prothesis
 kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w 
 ɾ > r / # __ $ initial trill

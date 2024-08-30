@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1183:
 #ˌaffrˈakt̪um# >>> #ˌawrˈa?t̪o# ( GOLD : #afɾet͡ʃo#) :
 ˌa f f r ˈa k t̪ u m 
-#ˌaffrˈakt̪u# | 28 : [+nas] > ∅ / __ #
-#ˌafrˈakt̪u# | 32 : [+cons] > ∅ / __ [+strid] [+cons]
-#ˌafrˈaxt̪u# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌafrˈaxt̪o# | 46 : [+syl,-long] > [-hi] 
+#ˌaffrˈakt̪u# | 26 : [+nas] > ∅ / __ #
+#ˌafrˈakt̪u# | 30 : [+cons] > ∅ / __ [+strid] [+cons]
+#ˌafrˈaxt̪u# | 32 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌafrˈaxt̪o# | 44 : [+syl,-long] > [-hi] 
+#ˌafɾˈaxt̪o# | 46 : r > ɾ 
+#ˌafrˈaxt̪o# | 87 : [+cons,-cont,+voi] > [+cont,0delrel] 
 #ˌavrˈaxt̪o# | 96 : [+cont] > [+voi] / [-cons] __ [+son]
 #ˌavrˈajt̪o# | 104 : [+cons,+back] > j / [+syl] __ [-back]
 #ˌavrˈaʝt̪o# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌaβ̪rˈaʝt̪o# | 126 : [+strid,-cor] > [+distr,-strid,+cor] 
-#ˌaβ̪rˈaʒt̪o# | 129 : ʝ > ʒ 
-#ˌawrˈaʒt̪o# | 172 : [+lab,+cons] > w / __ [+cons]
-#ˌawrˈaʃt̪o# | 177 : [+strid] > [-voi] 
-#ˌawrˈa?t̪o# | 178 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
-#ˌawrˈa?t̪o# | 182 : [+cons] > [+voi] / [-cons] __ [+cons]
+#ˌaβrˈaʝt̪o# | 126 : {v;f} > {β;ɸ} 
+#ˌaβrˈaʒt̪o# | 130 : ʝ > ʒ 
+#ˌawrˈaʒt̪o# | 173 : [+lab,+cons] > w / __ [+cons]
+#ˌawrˈaʃt̪o# | 178 : [+strid] > [-voi] 
+#ˌawrˈa?t̪o# | 179 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
+#ˌawrˈa?t̪o# | 183 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
 Final form : #ˌawrˈa?t̪o#

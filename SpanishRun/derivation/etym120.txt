@@ -1,13 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :120:
-#fˈakt̪am# >>> #β̪̊ˈa?t̪a# ( GOLD : #fˈet͡ʃa#) :
+#fˈakt̪am# >>> #ˈa?t̪a# ( GOLD : #fˈet͡ʃa#) :
 f ˈa k t̪ a m 
-#fˈakt̪a# | 28 : [+nas] > ∅ / __ #
-#fˈaxt̪a# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#fˈakt̪a# | 26 : [+nas] > ∅ / __ #
+#fˈaxt̪a# | 32 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #fˈajt̪a# | 104 : [+cons,+back] > j / [+syl] __ [-back]
 #fˈaʝt̪a# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#β̪̊ˈaʝt̪a# | 126 : [+strid,-cor] > [+distr,-strid,+cor] 
-#β̪̊ˈaʒt̪a# | 129 : ʝ > ʒ 
-#β̪̊ˈaʃt̪a# | 177 : [+strid] > [-voi] 
-#β̪̊ˈa?t̪a# | 178 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
-#β̪̊ˈa?t̪a# | 182 : [+cons] > [+voi] / [-cons] __ [+cons]
-Final form : #β̪̊ˈa?t̪a#
+#ɸˈaʝt̪a# | 126 : {v;f} > {β;ɸ} 
+#ɸˈaʒt̪a# | 130 : ʝ > ʒ 
+#hˈaʒt̪a# | 166 : ɸ > h / __ [+syl]
+#ˈaʒt̪a# | 168 : h > ∅ 
+#ˈaʃt̪a# | 178 : [+strid] > [-voi] 
+#ˈa?t̪a# | 179 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
+#ˈa?t̪a# | 183 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
+Final form : #ˈa?t̪a#

@@ -1,22 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :411:
-#kˌollokˈat̪# >>> #kˌoɣʃ̪e̯jˈa# ( GOLD : #kwˈelɡa#) :
+#kˌollokˈat̪# >>> #kwˌiʃ̪e̯jˈa# ( GOLD : #kwˈelɡa#) :
 k ˌo l l o k ˈa t̪ 
-#kˌollokˈa# | 30 : [+cons,-cont] > ∅ / __ #
-#kˌɔllokˈa# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔllokjˈa# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#kˌɔllot͡ʃjˈa# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˌɔllot͡ʃe̯jˈa# | 83 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#kˌɔjlot͡ʃe̯jˈa# | 98 : [+lat] > j / [+back] __ [+cons]
-#kˌɔjlot͡ʃ̪e̯jˈa# | 99 : [+strid,-cont] > [-hi,+ant] 
-#kˌojlot͡ʃ̪e̯jˈa# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#kˌoʝlot͡ʃ̪e̯jˈa# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#kˌoʒlot͡ʃ̪e̯jˈa# | 129 : ʝ > ʒ 
-#kˌoʒʎot͡ʃ̪e̯jˈa# | 130 : [+lat] > ʎ / [-son] __ 
-#kˌoʒlot͡ʃ̪e̯jˈa# | 135 : ʎ > l / [+cons,+voi] __ 
-#kˌoʒlt͡ʃ̪e̯jˈa# | 136 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kˌoʒt͡ʃ̪e̯jˈa# | 160 : [+cons] > ∅ / __ [+delrel]
-#kˌoʒʃ̪e̯jˈa# | 176 : [+strid,+ant] > [+cont,0delrel] 
-#kˌoʃʃ̪e̯jˈa# | 177 : [+strid] > [-voi] 
-#kˌoxʃ̪e̯jˈa# | 179 : ʃ > x 
-#kˌoɣʃ̪e̯jˈa# | 182 : [+cons] > [+voi] / [-cons] __ [+cons]
-Final form : #kˌoɣʃ̪e̯jˈa#
+#kˌollokˈa# | 28 : [+cons,-cont] > ∅ / __ #
+#kˌɔllokˈa# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔlokˈa# | 47 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#kˌɔlokjˈa# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#kˌɔlot͡ʃjˈa# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌɔlot͡ʃe̯jˈa# | 83 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#kˌɔlot͡ʃ̪e̯jˈa# | 99 : [+strid,-cont] > [-hi,+ant] 
+#kwˌelot͡ʃ̪e̯jˈa# | 116 : ˌɔ > w ˌe 
+#kwˌelt͡ʃ̪e̯jˈa# | 137 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kwˌilt͡ʃ̪e̯jˈa# | 159 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+#kwˌit͡ʃ̪e̯jˈa# | 161 : [+cons] > ∅ / __ [+delrel]
+#kwˌiʃ̪e̯jˈa# | 177 : [+strid,+ant] > [+cont,0delrel] 
+Final form : #kwˌiʃ̪e̯jˈa#

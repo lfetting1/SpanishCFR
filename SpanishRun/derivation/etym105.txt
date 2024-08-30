@@ -1,18 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :105:
 #frˈaksin̪um# >>> #wr̥ˈaɣesn̪̊o# ( GOLD : #fɾˈesn̪o#) :
 f r ˈa k s i n̪ u m 
-#frˈaksin̪u# | 28 : [+nas] > ∅ / __ #
-#frˈaxsin̪u# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#frˈaxsen̪o# | 46 : [+syl,-long] > [-hi] 
+#frˈaksin̪u# | 26 : [+nas] > ∅ / __ #
+#frˈaxsin̪u# | 32 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#frˈaxsen̪o# | 44 : [+syl,-long] > [-hi] 
+#fɾˈaxsen̪o# | 46 : r > ɾ 
+#frˈaxsen̪o# | 87 : [+cons,-cont,+voi] > [+cont,0delrel] 
 #frˈajsen̪o# | 104 : [+cons,+back] > j / [+syl] __ [-back]
 #frˈaʝsen̪o# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#β̪̊rˈaʝsen̪o# | 126 : [+strid,-cor] > [+distr,-strid,+cor] 
-#β̪̊rˈaʒsen̪o# | 129 : ʝ > ʒ 
-#β̪̊rˈaʒsn̪o# | 136 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#β̪̊r̥ˈaʒsn̪̊o# | 137 : [+cons] > [-voi] / [-voi] __ 
-#wr̥ˈaʒsn̪̊o# | 172 : [+lab,+cons] > w / __ [+cons]
-#wr̥ˈaʃsn̪̊o# | 177 : [+strid] > [-voi] 
-#wr̥ˈaxsn̪̊o# | 179 : ʃ > x 
-#wr̥ˈaɣsn̪̊o# | 182 : [+cons] > [+voi] / [-cons] __ [+cons]
-#wr̥ˈaɣesn̪̊o# | 183 : s > e s / __ [+cons]
+#ɸrˈaʝsen̪o# | 126 : {v;f} > {β;ɸ} 
+#ɸrˈaʒsen̪o# | 130 : ʝ > ʒ 
+#ɸrˈaʒsn̪o# | 137 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ɸr̥ˈaʒsn̪̊o# | 138 : [+cons] > [-voi] / [-voi] __ 
+#fr̥ˈaʒsn̪̊o# | 167 : ɸ > f 
+#wr̥ˈaʒsn̪̊o# | 173 : [+lab,+cons] > w / __ [+cons]
+#wr̥ˈaʃsn̪̊o# | 178 : [+strid] > [-voi] 
+#wr̥ˈaxsn̪̊o# | 180 : ʃ > x 
+#wr̥ˈaɣsn̪̊o# | 183 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
+#wr̥ˈaɣesn̪̊o# | 184 : s > e s / __ [+cons]
 Final form : #wr̥ˈaɣesn̪̊o#

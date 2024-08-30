@@ -1,19 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :758:
-#pˌekkˈaːt̪um# >>> #pˌiʃ̪jˈet̪o# ( GOLD : #pekˈad̪o#) :
+#pˌekkˈaːt̪um# >>> #pˌiʃ̪e̯jˈet̪o# ( GOLD : #pekˈad̪o#) :
 p ˌe k k ˈaː t̪ u m 
-#pˌekkˈaːt̪u# | 28 : [+nas] > ∅ / __ #
-#pˌɛkkˈaːt̪u# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌɛkkˈaːt̪o# | 46 : [+syl,-long] > [-hi] 
-#pˌɛkkˈat̪o# | 47 : [+syl,+long] > [-long,-splng] 
-#pˌɛkkjˈat̪o# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#pˌɛkt͡ʃjˈat̪o# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˌɛkt͡ʃ̪jˈat̪o# | 99 : [+strid,-cont] > [-hi,+ant] 
-#pˌɛjt͡ʃ̪jˈat̪o# | 104 : [+cons,+back] > j / [+syl] __ [-back]
-#pˌɛjt͡ʃ̪jˈet̪o# | 108 : [+syl] > [-lo] / j __ [-son]
-#pˌejt͡ʃ̪jˈet̪o# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#pˌeʝt͡ʃ̪jˈet̪o# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#pˌeʒt͡ʃ̪jˈet̪o# | 129 : ʝ > ʒ 
-#pˌiʒt͡ʃ̪jˈet̪o# | 158 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#pˌit͡ʃ̪jˈet̪o# | 160 : [+cons] > ∅ / __ [+delrel]
-#pˌiʃ̪jˈet̪o# | 176 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #pˌiʃ̪jˈet̪o#
+#pˌekkˈaːt̪u# | 26 : [+nas] > ∅ / __ #
+#pˌɛkkˈaːt̪u# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˌɛkkˈaːt̪o# | 44 : [+syl,-long] > [-hi] 
+#pˌɛkkˈat̪o# | 45 : [+syl,+long] > [-long,-splng] 
+#pˌɛkˈat̪o# | 47 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#pˌɛkjˈat̪o# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#pˌɛt͡ʃjˈat̪o# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#pˌɛt͡ʃe̯jˈat̪o# | 83 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#pˌɛt͡ʃ̪e̯jˈat̪o# | 99 : [+strid,-cont] > [-hi,+ant] 
+#pˌɛt͡ʃ̪e̯jˈet̪o# | 108 : [+syl] > [-lo] / j __ [-son]
+#pˌet͡ʃ̪e̯jˈet̪o# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pˌit͡ʃ̪e̯jˈet̪o# | 159 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+#pˌiʃ̪e̯jˈet̪o# | 177 : [+strid,+ant] > [+cont,0delrel] 
+Final form : #pˌiʃ̪e̯jˈet̪o#

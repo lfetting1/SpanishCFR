@@ -1,12 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :602:
 #mˌaɡˈist̪rum# >>> #ma̯ˈed̪r̥o# ( GOLD : #maˈest̪ɾo#) :
 m ˌa ɡ ˈi s t̪ r u m 
-#mˌaɡˈis̪t̪rum# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#mˌaɡˈis̪t̪ru# | 28 : [+nas] > ∅ / __ #
-#mˌaˈis̪t̪ru# | 41 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#mˌaˈes̪t̪ro# | 46 : [+syl,-long] > [-hi] 
-#mˌaˈet̪ro# | 134 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#mˌaˈet̪r̥o# | 137 : [+cons] > [-voi] / [-voi] __ 
-#ma̯ˈet̪r̥o# | 155 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
-#ma̯ˈed̪r̥o# | 182 : [+cons] > [+voi] / [-cons] __ [+cons]
+#mˌaɡˈis̪t̪rum# | 18 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#mˌaɡˈis̪t̪ru# | 26 : [+nas] > ∅ / __ #
+#mˌaˈis̪t̪ru# | 39 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+#mˌaˈes̪t̪ro# | 44 : [+syl,-long] > [-hi] 
+#mˌaˈes̪t̪ɾo# | 46 : r > ɾ 
+#mˌaˈes̪t̪ro# | 87 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#mˌaˈet̪ro# | 135 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
+#mˌaˈet̪r̥o# | 138 : [+cons] > [-voi] / [-voi] __ 
+#ma̯ˈet̪r̥o# | 156 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
+#ma̯ˈed̪r̥o# | 183 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
 Final form : #ma̯ˈed̪r̥o#

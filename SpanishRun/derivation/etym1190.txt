@@ -1,18 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1190:
-#ˌakkˌept̪ˈoːre# >>> #ˌaʃ̪jˌet̪ˈore# ( GOLD : #aθˈoɾ#) :
+#ˌakkˌept̪ˈoːre# >>> #ˌaʃ̪e̯jˌet̪ˈore# ( GOLD : #aθˈoɾ#) :
 ˌa k k ˌe p t̪ ˈoː r e 
-#ˌakkˌɛpt̪ˈoːre# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌakkˌɛpt̪ˈore# | 47 : [+syl,+long] > [-long,-splng] 
-#ˌakkˌɛt̪t̪ˈore# | 64 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
-#ˌakkjˌɛt̪t̪ˈore# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌakt͡ʃjˌɛt̪t̪ˈore# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌakt͡ʃ̪jˌɛt̪t̪ˈore# | 99 : [+strid,-cont] > [-hi,+ant] 
-#ˌajt͡ʃ̪jˌɛt̪t̪ˈore# | 104 : [+cons,+back] > j / [+syl] __ [-back]
-#ˌajt͡ʃ̪jjˌet̪t̪ˈore# | 113 : ˌɛ > j ˌe 
-#ˌaʝt͡ʃ̪jjˌet̪t̪ˈore# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌaʒt͡ʃ̪jjˌet̪t̪ˈore# | 129 : ʝ > ʒ 
-#ˌaʒt͡ʃ̪jjˌet̪ˈore# | 134 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#ˌaʒt͡ʃ̪jˌet̪ˈore# | 144 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌat͡ʃ̪jˌet̪ˈore# | 160 : [+cons] > ∅ / __ [+delrel]
-#ˌaʃ̪jˌet̪ˈore# | 176 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ˌaʃ̪jˌet̪ˈore#
+#ˌakkˌɛpt̪ˈoːre# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌakkˌɛpt̪ˈore# | 45 : [+syl,+long] > [-long,-splng] 
+#ˌakkˌɛpt̪ˈoɾe# | 46 : r > ɾ 
+#ˌakˌɛpt̪ˈoɾe# | 47 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#ˌakˌɛt̪t̪ˈoɾe# | 64 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
+#ˌakjˌɛt̪t̪ˈoɾe# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌat͡ʃjˌɛt̪t̪ˈoɾe# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌat͡ʃe̯jˌɛt̪t̪ˈoɾe# | 83 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#ˌat͡ʃe̯jˌɛt̪t̪ˈore# | 87 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌat͡ʃ̪e̯jˌɛt̪t̪ˈore# | 99 : [+strid,-cont] > [-hi,+ant] 
+#ˌat͡ʃ̪e̯jjˌet̪t̪ˈore# | 113 : ˌɛ > j ˌe 
+#ˌat͡ʃ̪e̯jjˌet̪ˈore# | 135 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
+#ˌat͡ʃ̪e̯jˌet̪ˈore# | 145 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ˌaʃ̪e̯jˌet̪ˈore# | 177 : [+strid,+ant] > [+cont,0delrel] 
+Final form : #ˌaʃ̪e̯jˌet̪ˈore#
