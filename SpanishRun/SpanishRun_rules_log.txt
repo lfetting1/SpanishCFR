@@ -1,8 +1,7 @@
 h > ∅ | ORIG : h > ∅ 
 [+lat,+front,+hi] > [+lat,-front,-hi,+cons,0tense] / __ [-cor]| ORIG : [+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] 
 [+lat,+front,+hi] > [+lat,-front,-hi,+cons,0tense] / __ [-cor]| ORIG : [+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] 
-[+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cons,+cont]| ORIG : [+syl,-long] > [+syl,+long] / __[+nas] [+cons,+cont] 
-[+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cons,-cont] [+cons]| ORIG : [+syl,-long] > [+syl,+long] / __[+nas] [+cons,-cont] [+cons] 
+[+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]| ORIG : [+syl,-long] > [+syl,+long] / __[+nas] [-son] 
 [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @| ORIG : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @ 
 [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]| ORIG : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] 
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son]| ORIG : [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son] 
@@ -22,7 +21,7 @@ j > ʝ / [+syl] __ [+syl]| ORIG : j > [+cons,-son] / [+syl] __ [+syl]
 {a e̯;o e̯} > {ɛ j;e j} | ORIG : {a e̯ ; o e̯} > {ɛ j ; e j} 
 {ˈa e̯;ˈo e̯} > {ˈɛ j;ˈe j} | ORIG : {ˈa e̯ ; ˈo e̯} > {ˈɛ j ; ˈe j} 
 {ˌa e̯;ˌo e̯} > {ˌɛ j;ˌe j} | ORIG : {ˌa e̯ ; ˌo e̯} > {ˌɛ j ; ˌe j} 
-[-lo,-hi,-tense,+syl,-stres,+front] > [+tense,-cons,-lat,+cont,0delrel] | ORIG : [-lo,-hi,-tense,+syl,-stres,+front] > [+tense] 
+[-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] | ORIG : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense] 
 [+syl] j > [+syl,+long,+son,0delrel] ∅| ORIG : [+syl] j > [+syl,+long] ∅ 
 [+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas]| ORIG : [+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] 
 [+syl,-stres] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas]| ORIG : [+syl,-stres] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] 

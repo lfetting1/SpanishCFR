@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1079:
 #ɡˈemmam# >>> #xjˈema# ( GOLD : #ʝˈema#) :
 ɡ ˈe m m a m 
-#ɡˈeːmmam# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cons,+cont]
-#ɡˈeːmma# | 28 : [+nas] > ∅ / __ #
-#ɡˈemma# | 47 : [+syl,+long] > [-long,-splng] 
-#ɡˈema# | 49 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
-#ɡjˈema# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˈema# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ʒjˈema# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ʃjˈema# | 180 : [+strid] > [-voi] 
-#xjˈema# | 182 : ʃ > x 
+#ɡˈemma# | 27 : [+nas] > ∅ / __ #
+#ɡˈɛmma# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ɡˈɛma# | 48 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#ɡjˈɛma# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˈɛma# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ʒjˈɛma# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ʒjjˈema# | 113 : ˈɛ > j ˈe 
+#ʒjˈema# | 146 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ʃjˈema# | 179 : [+strid] > [-voi] 
+#xjˈema# | 181 : ʃ > x 
 Final form : #xjˈema#

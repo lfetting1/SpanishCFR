@@ -1,24 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1058:
 #wˌin̪kˈikulum# >>> #ˌiʃ̪ˈiɡl̥o# ( GOLD : #ben̪θˈexo#) :
 w ˌi n̪ k ˈi k u l u m 
-#wˌiŋkˈikulum# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ɣʷˌiŋkˈikulum# | 18 : w > ɣʷ / __ [+syl]
-#ɣʷˌiŋkˈikulu# | 28 : [+nas] > ∅ / __ #
-#βˌiŋkˈikulu# | 33 : ɣʷ > β 
-#βˌeŋkˈekolo# | 46 : [+syl,-long] > [-hi] 
-#βˌeŋkjˈekolo# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌeŋt͡ʃjˈekolo# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌeŋt͡ʃjˈekolo# | 95 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˌeŋt͡ʃ̪jˈekolo# | 101 : [+strid,-cont] > [-hi,+ant] 
-#ˌejt͡ʃ̪jˈekolo# | 106 : [+cons,+back] > j / [+syl] __ [-back]
-#ˌeʝt͡ʃ̪jˈekolo# | 126 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌeʒt͡ʃ̪jˈekolo# | 132 : ʝ > ʒ 
-#ˌeʒt͡ʃ̪jˈeklo# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌeʒt͡ʃ̪jˈekl̥o# | 140 : [+cons] > [-voi] / [-voi] __ 
-#ˌiʒt͡ʃ̪jˈekl̥o# | 161 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#ˌit͡ʃ̪jˈekl̥o# | 163 : [+cons] > ∅ / __ [+delrel]
-#ˌit͡ʃ̪jˈikl̥o# | 172 : [+syl,+front] > [+hi] / [-cons,-syl,+front] __ [-ant] [+cons]
-#ˌit͡ʃ̪ˈikl̥o# | 174 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ˌiʃ̪ˈikl̥o# | 179 : [+strid,+ant] > [+cont,0delrel] 
-#ˌiʃ̪ˈiɡl̥o# | 185 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
+#wˌiːn̪kˈikulum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#wˌiːŋkˈikulum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ɣʷˌiːŋkˈikulum# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷˌiːŋkˈikulu# | 27 : [+nas] > ∅ / __ #
+#βˌiːŋkˈikulu# | 32 : ɣʷ > β 
+#βˌiːŋkˈekolo# | 45 : [+syl,-long] > [-hi] 
+#βˌiŋkˈekolo# | 46 : [+syl,+long] > [-long,-splng] 
+#βˌiŋkjˈekolo# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βˌiŋt͡ʃjˈekolo# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌiŋt͡ʃjˈekolo# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
+#ˌiŋt͡ʃ̪jˈekolo# | 100 : [+strid,-cont] > [-hi,+ant] 
+#ˌijt͡ʃ̪jˈekolo# | 105 : [+cons,+back] > j / [+syl] __ [-back]
+#ˌiʝt͡ʃ̪jˈekolo# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ˌiʒt͡ʃ̪jˈekolo# | 131 : ʝ > ʒ 
+#ˌiʒt͡ʃ̪jˈeklo# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌiʒt͡ʃ̪jˈekl̥o# | 139 : [+cons] > [-voi] / [-voi] __ 
+#ˌit͡ʃ̪jˈekl̥o# | 162 : [+cons] > ∅ / __ [+delrel]
+#ˌit͡ʃ̪jˈikl̥o# | 171 : [+syl,+front] > [+hi] / [-cons,-syl,+front] __ [-ant] [+cons]
+#ˌit͡ʃ̪ˈikl̥o# | 173 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ˌiʃ̪ˈikl̥o# | 178 : [+strid,+ant] > [+cont,0delrel] 
+#ˌiʃ̪ˈiɡl̥o# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
 Final form : #ˌiʃ̪ˈiɡl̥o#

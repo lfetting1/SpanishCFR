@@ -1,13 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :428:
-#kˌon̪t̪ˈempt̪um# >>> #kwˌet̪ˈewt̪o# ( GOLD : #kon̪t̪ˈen̪t̪o#) :
+#kˌon̪t̪ˈempt̪um# >>> #kˌot̪ˈewt̪o# ( GOLD : #kon̪t̪ˈen̪t̪o#) :
 k ˌo n̪ t̪ ˈe m p t̪ u m 
-#kˌon̪t̪ˈeːmpt̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cons,-cont] [+cons]
-#kˌon̪t̪ˈeːmt̪um# | 10 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#kˌon̪t̪ˈeːmt̪u# | 28 : [+nas] > ∅ / __ #
-#kˌɔn̪t̪ˈeːmt̪u# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔn̪t̪ˈeːmt̪o# | 46 : [+syl,-long] > [-hi] 
-#kˌɔn̪t̪ˈemt̪o# | 47 : [+syl,+long] > [-long,-splng] 
-#kwˌen̪t̪ˈemt̪o# | 118 : ˌɔ > w ˌe 
-#kwˌet̪ˈemt̪o# | 137 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#kwˌet̪ˈewt̪o# | 175 : [+lab,+cons] > w / __ [+cons]
-Final form : #kwˌet̪ˈewt̪o#
+#kˌoːn̪t̪ˈeːmpt̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˌoːn̪t̪ˈeːmt̪um# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#kˌoːn̪t̪ˈeːmt̪u# | 27 : [+nas] > ∅ / __ #
+#kˌoːn̪t̪ˈeːmt̪o# | 45 : [+syl,-long] > [-hi] 
+#kˌon̪t̪ˈemt̪o# | 46 : [+syl,+long] > [-long,-splng] 
+#kˌot̪ˈemt̪o# | 136 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
+#kˌot̪ˈewt̪o# | 174 : [+lab,+cons] > w / __ [+cons]
+Final form : #kˌot̪ˈewt̪o#

@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1276:
-#ˌin̪t̪ˈeɡrum# >>> #ˌet̪ˈeɣro# ( GOLD : #en̪t̪ˈeɾo#) :
+#ˌin̪t̪ˈeɡrum# >>> #ˌit̪ˈeɣro# ( GOLD : #en̪t̪ˈeɾo#) :
 ˌi n̪ t̪ ˈe ɡ r u m 
-#ˌin̪t̪ˈeɡru# | 28 : [+nas] > ∅ / __ #
-#ˌin̪t̪ˈeɣru# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌin̪t̪ˈɛɣru# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌen̪t̪ˈɛɣro# | 46 : [+syl,-long] > [-hi] 
-#ˌen̪t̪ˈɛɣɾo# | 48 : r > ɾ 
-#ˌen̪t̪ˈɛjɾo# | 60 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#ˌen̪t̪ˈɛjro# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌen̪t̪ˈejro# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌen̪t̪ˈeʝro# | 126 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌen̪t̪ˈeʒro# | 132 : ʝ > ʒ 
-#ˌet̪ˈeʒro# | 137 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#ˌet̪ˈeʃro# | 180 : [+strid] > [-voi] 
-#ˌet̪ˈexro# | 182 : ʃ > x 
-#ˌet̪ˈeɣro# | 185 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #ˌet̪ˈeɣro#
+#ˌiːn̪t̪ˈeɡrum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ˌiːn̪t̪ˈeɡru# | 27 : [+nas] > ∅ / __ #
+#ˌiːn̪t̪ˈeɣru# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌiːn̪t̪ˈɛɣru# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌiːn̪t̪ˈɛɣro# | 45 : [+syl,-long] > [-hi] 
+#ˌin̪t̪ˈɛɣro# | 46 : [+syl,+long] > [-long,-splng] 
+#ˌin̪t̪ˈɛɣɾo# | 47 : r > ɾ 
+#ˌin̪t̪ˈɛjɾo# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#ˌin̪t̪ˈɛjro# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌin̪t̪ˈejro# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ˌin̪t̪ˈeʝro# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ˌin̪t̪ˈeʒro# | 131 : ʝ > ʒ 
+#ˌit̪ˈeʒro# | 136 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
+#ˌit̪ˈeʃro# | 179 : [+strid] > [-voi] 
+#ˌit̪ˈexro# | 181 : ʃ > x 
+#ˌit̪ˈeɣro# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
+Final form : #ˌit̪ˈeɣro#

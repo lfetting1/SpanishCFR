@@ -21,7 +21,7 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 {a e̯ ; o e̯} > {ɛ j ; e j} $ fronting
 {ˈa e̯ ; ˈo e̯} > {ˈɛ j ; ˈe j} $ fronting
 {ˌa e̯ ; ˌo e̯} > {ˌɛ j ; ˌe j} $ fronting
-[-lo,-hi,-tense,+syl,-stres,+front] > [+tense] $"atonic-epsilon"
+[-lo,-hi,-tense,+syl,-prim,+front] > [+tense] $atonic-epsilon, "no unstressed ɛ," Hartman's rule seems to only leave ɛ with primary stress, as his model does not have secondary stress
 [+syl] j > [+syl,+long] ∅ $ monophthongization,(formatting?)
 [+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
 [+syl,-stres] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early

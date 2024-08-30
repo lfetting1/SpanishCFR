@@ -2,19 +2,19 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :678:
 #prehˈen̪sus# >>> #wr̥ˈezθ# ( GOLD : #pɾˈeso#) :
 p r e h ˈe n̪ s u s 
 #preˈen̪sus# | 0 : h > ∅ 
-#preˈeːn̪sus# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cons,+cont]
-#preˈeːnsus# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#preˈeːsus# | 29 : [+nas] > ∅ / __ s
-#preˈeːsos# | 46 : [+syl,-long] > [-hi] 
-#preˈesos# | 47 : [+syl,+long] > [-long,-splng] 
-#pɾeˈesos# | 48 : r > ɾ 
-#pɾˈesos# | 65 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#prˈesos# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#prˈezos# | 98 : [+cont] > [+voi] / [-cons] __ [+son]
-#prˈezs# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pr̥ˈezs# | 140 : [+cons] > [-voi] / [-voi] __ 
-#wr̥ˈezs# | 175 : [+lab,+cons] > w / __ [+cons]
-#wr̥ˈess# | 180 : [+strid] > [-voi] 
-#wr̥ˈesθ# | 184 : s > θ / __ #
-#wr̥ˈezθ# | 185 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
+#preˈeːn̪sus# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#preˈeːnsus# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#preˈeːsus# | 28 : [+nas] > ∅ / __ s
+#preˈeːsos# | 45 : [+syl,-long] > [-hi] 
+#preˈesos# | 46 : [+syl,+long] > [-long,-splng] 
+#pɾeˈesos# | 47 : r > ɾ 
+#pɾˈesos# | 64 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
+#prˈesos# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#prˈezos# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
+#prˈezs# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#pr̥ˈezs# | 139 : [+cons] > [-voi] / [-voi] __ 
+#wr̥ˈezs# | 174 : [+lab,+cons] > w / __ [+cons]
+#wr̥ˈess# | 179 : [+strid] > [-voi] 
+#wr̥ˈesθ# | 183 : s > θ / __ #
+#wr̥ˈezθ# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
 Final form : #wr̥ˈezθ#

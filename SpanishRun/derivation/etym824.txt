@@ -1,18 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :824:
 #rˌin̪ɡˈiːre# >>> #rˌexˈire# ( GOLD : #reɲˈiɾ#) :
 r ˌi n̪ ɡ ˈiː r e 
-#rˌiŋɡˈiːre# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#rˌeŋɡˈiːre# | 46 : [+syl,-long] > [-hi] 
-#rˌeŋɡˈire# | 47 : [+syl,+long] > [-long,-splng] 
-#ɾˌeŋɡˈiɾe# | 48 : r > ɾ 
-#ɾˌeŋɡjˈiɾe# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ɾˌeŋd͡ʒjˈiɾe# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ɾˌeŋd͡ʒˈiɾe# | 76 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#rˌeŋʒˈire# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#rˌejʒˈire# | 106 : [+cons,+back] > j / [+syl] __ [-back]
-#rˌeʝʒˈire# | 126 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#rˌeʒʒˈire# | 132 : ʝ > ʒ 
-#rˌeʒˈire# | 137 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#rˌeʃˈire# | 180 : [+strid] > [-voi] 
-#rˌexˈire# | 182 : ʃ > x 
+#rˌiːn̪ɡˈiːre# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#rˌiːŋɡˈiːre# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#rˌiŋɡˈire# | 46 : [+syl,+long] > [-long,-splng] 
+#ɾˌiŋɡˈiɾe# | 47 : r > ɾ 
+#ɾˌiŋɡjˈiɾe# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ɾˌiŋd͡ʒjˈiɾe# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ɾˌiŋd͡ʒˈiɾe# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#rˌiŋʒˈire# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#rˌijʒˈire# | 105 : [+cons,+back] > j / [+syl] __ [-back]
+#rˌiʝʒˈire# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#rˌiʒʒˈire# | 131 : ʝ > ʒ 
+#rˌiʒˈire# | 136 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
+#rˌeʒˈire# | 161 : [+syl,+hi,+front] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#rˌeʃˈire# | 179 : [+strid] > [-voi] 
+#rˌexˈire# | 181 : ʃ > x 
 Final form : #rˌexˈire#

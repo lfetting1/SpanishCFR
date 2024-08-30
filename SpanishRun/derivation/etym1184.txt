@@ -1,14 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1184:
-#ˌaffrˈon̪t̪a# >>> #ˌawrˈet̪a# ( GOLD : #afɾˈen̪t̪a#) :
+#ˌaffrˈon̪t̪a# >>> #ˌawrˈot̪a# ( GOLD : #afɾˈen̪t̪a#) :
 ˌa f f r ˈo n̪ t̪ a 
-#ˌafrˈon̪t̪a# | 32 : [+cons] > ∅ / __ [+strid] [+cons]
-#ˌafrˈɔn̪t̪a# | 45 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌafɾˈɔn̪t̪a# | 48 : r > ɾ 
-#ˌafrˈɔn̪t̪a# | 89 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌavrˈɔn̪t̪a# | 98 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌavrwˈen̪t̪a# | 117 : ˈɔ > w ˈe 
-#ˌaβrwˈen̪t̪a# | 128 : {v;f} > {β;ɸ} 
-#ˌaβrwˈet̪a# | 137 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#ˌaβrˈet̪a# | 167 : [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]
-#ˌawrˈet̪a# | 175 : [+lab,+cons] > w / __ [+cons]
-Final form : #ˌawrˈet̪a#
+#ˌaffrˈoːn̪t̪a# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ˌafrˈoːn̪t̪a# | 31 : [+cons] > ∅ / __ [+strid] [+cons]
+#ˌafrˈon̪t̪a# | 46 : [+syl,+long] > [-long,-splng] 
+#ˌafɾˈon̪t̪a# | 47 : r > ɾ 
+#ˌafrˈon̪t̪a# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌavrˈon̪t̪a# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
+#ˌaβrˈon̪t̪a# | 127 : {v;f} > {β;ɸ} 
+#ˌaβrˈot̪a# | 136 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
+#ˌawrˈot̪a# | 174 : [+lab,+cons] > w / __ [+cons]
+Final form : #ˌawrˈot̪a#
