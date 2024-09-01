@@ -36,9 +36,9 @@ $[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happe
 [-hi,-stres] [+hi,+stres] > [+stres] [-stres] $ restress
 [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl] $raising-by_diphthong
 [+syl,-lo,-stres] > [+hi] / __ [+cons] ([+cons]) [-cons,-syl] $raising_by_diphthong extra effect on unstressed vowels two Cs away from glide 
-[+syl,+hi,+front] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl] $ vowel dissimilation
-[+cons] > ∅ / __ [+delrel] $ affricate reduction
-[+cons] > ∅ / [+delrel] __ $ affricate reduction
+[+syl,+hi] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl] $ vecino. vowel dissimilation. CM (@Aug31) apparently also effects /u/, not just /i/. 
+[-son] > ∅ / __ [+delrel] $ affricate reduction
+[-son] > ∅ / [+delrel] __ $ affricate reduction
 ∅ > j  / [+hi,+cons] __ [+cons,+cor,+voi,-strid]$ dental vocalization
 ∅ > j / __ [+cons,+cor,+voi,-strid] [+hi,+cons] $ dental vocalization
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl] $ waw expulsion 
