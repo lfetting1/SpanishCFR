@@ -60,7 +60,9 @@ $[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress -- CM(@Aug31) -- was t
 $(see below for reformulation) [+strid,+cor,+ant] > [-strid,-distr] / __ [-cons] $ interdental
 s > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
 s > θ / __ # $part two of interdental reformulation?
-[+cons,-voi] > [+voi] / [-cons] __ [+cons] $ regressive voicing
-s > e s / __ [+cons] $ prothesis
-kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w 
+s > z / [-cons] __ [+cons,+voi] $regressive_voicing -- s aspect. 
+[-voi] > [+voi] / [-cons] __ l $ regressive voicing, before /l/-- non /s/ aspect
+[-son] > [αvoi] / [-cons] __ [-cont,αvoi] $regressive voicing, assimilation aspect (for non-/s/). 
+∅ > e / # __ s [+cons] $ prothesis
+$kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w . CM @Aug31 - suppressed. No reason for this.
 ɾ > r / # __ $ initial trill
