@@ -41,14 +41,12 @@ $[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happe
 [-son] > ∅ / [+delrel] __ $ affricate reduction
 ð > j / [+hi] __ [-son] $ dental vocalization, tridgo case. CM note @Aug31: consider removal in DiaCLESp, this seems to be a lexical rule. 
 ð > j / [-hi] __ [+nas] $ dental vocalization, peine case (which does not actually work within Hartman's cascade, but attributed as such). CM note @Aug31: consider removal in DiaCLESp, this seems to be a lexical rule (which doesn't even work for its only target word as it seems to be bled anyways. 
-∅ > j  / [+hi,+cons] __ [+cons,+cor,+voi,-strid]$ dental vocalization
-∅ > j / __ [+cons,+cor,+voi,-strid] [+hi,+cons] $ dental vocalization
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl] $ waw expulsion 
 ɸ > h / __ [+syl] $ phi aspiration
 ɸ > [+strid] $ phi_eff
 h > ∅ $ h_deletion
-[+syl,+front] > [+hi] / [-cons,-syl,+front] __ [+hi,+front] $bilateral raising
-[+syl,+front] > [+hi] / [-cons,-syl,+front] __ [-ant] [+cons] $bilateral raising
+[+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO also, largely bled in first runthrough -- check again in second.
+[+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO largely bled in first runthrough -- check again in second.
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
 [+lab,+cons] > w / __ [+cons] $wawism_late
