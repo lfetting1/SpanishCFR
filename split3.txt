@@ -47,15 +47,15 @@ $[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happe
 h > ∅ $ h_deletion
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO also, largely bled in first runthrough -- check again in second.
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO largely bled in first runthrough -- check again in second.
-[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
-[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
-[+lab,+cons] > w / __ [+cons] $wawism_late
-n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation
-{m;n̪;l} > {m b;n̪ d̪;l d̪} / __ r $epenthetic b d; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
-[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress
+[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
+[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
+[+lab,+cons] > w / __ [-son] $wawism_late
+n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation. TODO seems good but currently this rule is bled for most of its domain so check again. 
+{m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas] $epenthetic b d -- occurs before r, ɾ; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
+$[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress -- CM(@Aug31) -- was this rule inserted by accident here? It has no effect currently and has already been realized.
 [+strid,+ant] > [+cont] $deaffrication
 [+strid] > [-voi] $ unvoice,the great sibilant merger
-[-son,+cor] > [+strid,+cont,-distr] / __ [-cont] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.)
+[-son,+cor,+ant] > [+strid,+cont,-distr] / __ [-son] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.) (However ,this had to be changed from the default direct translation of his features use dodesnțt capture hat, apparently, ʃ is not targeted by "+obstr +cor". Also bizarre that he had +delrel... anyhow.) TODO look at this again. TODO also -- it apparently effects /t/ as well? That is probably not intended but is it too generous to attribute removal of this to Hartmann? 
 ʃ > x $ palatal velarization
 $(see below for reformulation) [+strid,+cor,+ant] > [-strid,-distr] / __ [-cons] $ interdental
 s > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
