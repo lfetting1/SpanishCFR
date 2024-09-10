@@ -26,7 +26,7 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
 [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion
-[+nas] > ∅ / __ [-voi,+ant,+strid,lab] $ "ns > s" 
+[+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 
 [+cons,-cont] > ∅ / __ # $final stop deletion
 [+son,+cons,αnas] > [+cor,+ant,αdistr,-lab,-hi,-front,-back] / __ # $ final sonorant > coronal. This is intended for m, ɲ and ʎ to become n and l. Original version [+son] > [+cor]. If this solution doesn't work, use phones. 
 [+cons] > ∅ / __ [+strid,+cor] [+cons] $ reduction of cluster containing a sibilant
