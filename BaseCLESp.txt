@@ -60,25 +60,26 @@ e > i / __ j $ front raising
 [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back] $ velar yod early
 [+nas,+cor] > ɲ / j __ $ nasal palatal
 [+nas,+cor] > ɲ / __ j $ nasal palatal (combine?)
-[+lat] > ʎ / j __ $ lateral palatalization (combine with nasal?)
-[+lat] > ʎ / __ j $ lateral palatalization (combine?)
-[-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel"
-{p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} $[-cont] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation 
-[+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation 
-ʎ > l / [+cons,+voi] __ $ lambda_ell
-[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] r > r [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] / __ # $ final metathesis
-∅ > j / [+cons,-cont,+back] __ [+syl,-back] $ ongliding
-{t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j $"affrication". Combination of the two below, generously including the aspirates of t and k. 
-$[-cont,+cor] > [-ant,+distr,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $dental affrication
-$[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $ velar affrication,affrication rules may not be accurate to original phono
-{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive rounding
-[-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption
-[-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption
-[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
-[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
-[+cons] > [-round] / # __ [-lo,+syl,-stres] $ unround
-[+cons,+back,+voi,-cont] > ∅ / __ [+lat] $ pl>ll early
-∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
+[+lat] > ʎ / j __ $ lateral palatalization (combine with nasal?) $(62) Has desired effect. Gemination mismatch in some forms but rule is good.
+[+lat] > ʎ / __ j $ lateral palatalization (combine?) $(63) Good but see above.
+[-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel" $(64) works on forms in our cascade, however all cases are ee/oo - no je/wo. according to rule spec that would work as well though.
+{p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} $[-cont] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
+[+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(66) currently no etyma effected but this part should work adequately.
+ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work based on formulation
+[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] r > r [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
+∅ > j / [+cons,-cont,+back] __ [+syl,-back] $ ongliding $(69) !Hartman's system does not have this affecting /a/ - in other words his symbol defs are different.
+{t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j $"affrication". Combination of the two below, generously including the aspirates of t and k. $(70) Works. 
+    $[-cont,+cor] > [-ant,+distr,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $dental affrication
+    $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $ velar affrication,affrication rules may not be accurate to original phono
+{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive rounding $(71) Works. Could remove the gamma portions.
+[-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons] $ recurrent rule,waw absorption $(72) Fixed to specifically apply to consonants.
+[-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ $ recurrent rule,waw absorption $(73) Fixed. No effect (reasonable)
+[-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ $ recurrent rule,yod absorption $(74) Fixed.
+[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons] $ recurrent rule,yod absorption $(75) Fixed.
+w > ∅ / [+cons,+back] __ [-lo,+syl,-stres] $[+cons] > [-round] / # __ [-lo,+syl,-stres] $ unround $(76) !No effect.
+w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify rule UNROUND. Will affect /a/ when it shouldn't - symb def differences.
+[+cons,+back,+voi,-cont] > ∅ / # __ [+lat] $ pl>ll early $(77) Fixed.
+∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis $(78-86) !Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
 ∅ > o̯ / [+syl] [-voi]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
 ∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
 ∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
@@ -87,7 +88,7 @@ $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+h
 ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons] $ glide metathesis
 ∅ > e̯ / [+syl] [-cor,-cons] __ [-syl,+front,-cons] $ glide metathesis
 [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅ $ glide metathesis
-[+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons] $ o-raising
+[+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons] $ o-raising $(87) 
 [+cons,-cont,+voi] > [+cont] $spirantization
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization
 [-son,+voi,-strid,-ant,+hi] > ∅ / __ [+syl,-cons,-round] $ delete bdg
