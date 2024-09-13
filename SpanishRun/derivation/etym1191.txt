@@ -1,11 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1191:
-#ˌakkˌubit̪ˈaːre# >>> #ˌakˌoe̯t̪ˈare# ( GOLD : #akod̪ˈaɾ#) :
+#ˌakkˌubit̪ˈaːre# >>> #ˌakˌoe̯t͡ʃˈar# ( GOLD : #akod̪ˈaɾ#) :
 ˌa k k ˌu b i t̪ ˈaː r e 
 #ˌakkˌobet̪ˈaːre# | 45 : [+syl,-long] > [-hi] 
 #ˌakkˌobet̪ˈare# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌakkˌobet̪ˈaɾe# | 47 : r > ɾ 
-#ˌakˌobet̪ˈaɾe# | 48 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
-#ˌakˌoβet̪ˈare# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌakˌoet̪ˈare# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˌakˌoe̯t̪ˈare# | 103 : [+front,+syl,-stres] > [-syl,0stres,0prim] / [+syl,+back] __ 
-Final form : #ˌakˌoe̯t̪ˈare#
+#ˌakkˌoβet̪ˈare# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌakkˌoet̪ˈare# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
+#ˌakkˌoe̯t̪ˈare# | 103 : [+front,+syl,-stres] > [-syl,0stres,0prim] / [+syl,+back] __ 
+#ˌakˌoe̯t̪ˈare# | 137 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#ˌakˌoe̯t͡ʃˈare# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#ˌakˌoe̯t͡ʃˈar# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+Final form : #ˌakˌoe̯t͡ʃˈar#

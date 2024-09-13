@@ -1,19 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :220:
-#iˈun̪kt̪um# >>> #xˈu?t̪o# ( GOLD : #xˈun̪t̪o#) :
+#iˈun̪kt̪um# >>> #xˈut͡ʃo# ( GOLD : #xˈun̪t̪o#) :
 i ˈu n̪ k t̪ u m 
 #iˈuːn̪kt̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #iˈuːŋkt̪um# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #iˈuːŋt̪um# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#iˈuːŋt̪u# | 27 : [+nas] > ∅ / __ #
+#iˈuːŋt̪u# | 27 : [+nas] > ∅ / [-stres] __ #
 #jˈuːŋt̪u# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #jˈuːŋt̪o# | 45 : [+syl,-long] > [-hi] 
 #jˈuŋt̪o# | 46 : [+syl,+long] > [-long,-splng] 
-#jˈujt̪o# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#jˈujt̪o# | 58 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
 #ʝˈujt̪o# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / # __ 
 #ʝˈuʝt̪o# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ʒˈuʒt̪o# | 131 : ʝ > ʒ 
-#ʃˈuʃt̪o# | 179 : [+strid] > [-voi] 
-#ʃˈu?t̪o# | 180 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
-#xˈu?t̪o# | 181 : ʃ > x 
-#xˈu?t̪o# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #xˈu?t̪o#
+#ʒˈuʝt̪o# | 130 : ʝ > ʒ / # __ [+round]
+#ʒˈuʝt͡ʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#ʒˈut͡ʃo# | 166 : [-son] > ∅ / __ [+delrel]
+#ʃˈut͡ʃo# | 182 : [+strid] > [-voi] 
+#xˈut͡ʃo# | 184 : ʃ > x 
+Final form : #xˈut͡ʃo#

@@ -1,13 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :641:
-#n̪ˈokt̪e# >>> #n̪ˈo?t̪e# ( GOLD : #n̪ˈot͡ʃe#) :
+#n̪ˈokt̪e# >>> #n̪ˈot͡ʃe# ( GOLD : #n̪ˈot͡ʃe#) :
 n̪ ˈo k t̪ e 
 #n̪ˈoxt̪e# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #n̪ˈɔxt̪e# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #n̪ˈɔjt̪e# | 105 : [+cons,+back] > j / [+syl] __ [-back]
 #n̪ˈojt̪e# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
 #n̪ˈoʝt̪e# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#n̪ˈoʒt̪e# | 131 : ʝ > ʒ 
-#n̪ˈoʃt̪e# | 179 : [+strid] > [-voi] 
-#n̪ˈo?t̪e# | 180 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
-#n̪ˈo?t̪e# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #n̪ˈo?t̪e#
+#n̪ˈoʝt͡ʃe# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#n̪ˈot͡ʃe# | 166 : [-son] > ∅ / __ [+delrel]
+Final form : #n̪ˈot͡ʃe#

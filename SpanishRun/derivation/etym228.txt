@@ -1,19 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :228:
-#kerˈesia# >>> #ʃ̪irˈiθe̯a# ( GOLD : #θeɾˈeθa#) :
+#kerˈesia# >>> #ʃ̪irjˈeθea# ( GOLD : #θeɾˈeθa#) :
 k e r ˈe s i a 
 #kerˈɛsia# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #kerˈɛsea# | 45 : [+syl,-long] > [-hi] 
-#keɾˈɛsea# | 47 : r > ɾ 
-#kjeɾˈɛsea# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjeɾˈɛsea# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjerˈɛsea# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#kjerˈɛsea# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjerˈɛsea# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
 #t͡ʃjerˈɛzea# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
 #t͡ʃ̪jerˈɛzea# | 100 : [+strid,-cont] > [-hi,+ant] 
 #t͡ʃ̪jerjˈezea# | 113 : ˈɛ > j ˈe 
-#t͡ʃ̪jerjˈeze̯a# | 157 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
-#t͡ʃ̪jirjˈize̯a# | 160 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#t͡ʃ̪irˈize̯a# | 173 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ʃ̪irˈize̯a# | 178 : [+strid,+ant] > [+cont,0delrel] 
-#ʃ̪irˈise̯a# | 179 : [+strid] > [-voi] 
-#ʃ̪irˈiθe̯a# | 182 : s > θ / __ [-cons]
-Final form : #ʃ̪irˈiθe̯a#
+#t͡ʃ̪jirjˈezea# | 163 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#t͡ʃ̪irjˈezea# | 177 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ʃ̪irjˈezea# | 181 : [+strid,+ant] > [+cont,0delrel] 
+#ʃ̪irjˈesea# | 182 : [+strid] > [-voi] 
+#ʃ̪irjˈeθea# | 185 : s > θ / __ [-cons]
+Final form : #ʃ̪irjˈeθea#

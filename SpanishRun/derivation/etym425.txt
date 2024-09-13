@@ -1,16 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :425:
-#kˌon̪sut̪ˈuːra# >>> #kˌozt̪ˈura# ( GOLD : #kost̪ˈuɾa#) :
+#kˌon̪sut̪ˈuːra# >>> #kˌot͡ʃˈura# ( GOLD : #kost̪ˈuɾa#) :
 k ˌo n̪ s u t̪ ˈuː r a 
 #kˌoːn̪sut̪ˈuːra# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #kˌoːnsut̪ˈuːra# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#kˌoːsut̪ˈuːra# | 28 : [+nas] > ∅ / __ s
+#kˌoːsut̪ˈuːra# | 28 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
 #kˌoːsot̪ˈuːra# | 45 : [+syl,-long] > [-hi] 
 #kˌosot̪ˈura# | 46 : [+syl,+long] > [-long,-splng] 
-#kˌosot̪ˈuɾa# | 47 : r > ɾ 
-#kˌosot̪ˈura# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
 #kˌozot̪ˈura# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
 #kˌozut̪ˈura# | 108 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
-#kˌozt̪ˈura# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kˌost̪ˈura# | 179 : [+strid] > [-voi] 
-#kˌozt̪ˈura# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #kˌozt̪ˈura#
+#kˌozt̪ˈura# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kˌozt͡ʃˈura# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#kˌot͡ʃˈura# | 166 : [-son] > ∅ / __ [+delrel]
+Final form : #kˌot͡ʃˈura#

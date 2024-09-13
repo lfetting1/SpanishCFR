@@ -1,20 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :689:
-#prˌofˈekt̪oː# >>> #wr̥ˌoβˈe?t̪o# ( GOLD : #pɾobˈet͡ʃo#) :
+#prˌofˈekt̪oː# >>> #prˌoβˈet͡ʃo# ( GOLD : #pɾobˈet͡ʃo#) :
 p r ˌo f ˈe k t̪ oː 
 #prˌofˈext̪oː# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #prˌɔfˈɛxt̪oː# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #prˌɔfˈɛxt̪o# | 46 : [+syl,+long] > [-long,-splng] 
-#pɾˌɔfˈɛxt̪o# | 47 : r > ɾ 
-#prˌɔfˈɛxt̪o# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
 #prˌɔvˈɛxt̪o# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
 #prˌɔvˈɛjt̪o# | 105 : [+cons,+back] > j / [+syl] __ [-back]
 #prˌovˈejt̪o# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
 #prˌovˈeʝt̪o# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
 #prˌoβˈeʝt̪o# | 127 : {v;f} > {β;ɸ} 
-#prˌoβˈeʒt̪o# | 131 : ʝ > ʒ 
-#pr̥ˌoβˈeʒt̪o# | 139 : [+cons] > [-voi] / [-voi] __ 
-#wr̥ˌoβˈeʒt̪o# | 174 : [+lab,+cons] > w / __ [+cons]
-#wr̥ˌoβˈeʃt̪o# | 179 : [+strid] > [-voi] 
-#wr̥ˌoβˈe?t̪o# | 180 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
-#wr̥ˌoβˈe?t̪o# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #wr̥ˌoβˈe?t̪o#
+#prˌoβˈeʝt͡ʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#prˌoβˈet͡ʃo# | 166 : [-son] > ∅ / __ [+delrel]
+Final form : #prˌoβˈet͡ʃo#

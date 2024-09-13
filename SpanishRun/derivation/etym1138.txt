@@ -1,15 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1138:
-#ˈimpleoː# >>> #ˈiwlju# ( GOLD : #ˈin̪t͡ʃo#) :
+#ˈimpleoː# >>> #ˈiwt͡ʃo# ( GOLD : #ˈin̪t͡ʃo#) :
 ˈi m p l e oː 
 #ˈiːmpleoː# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ˈimpleo# | 46 : [+syl,+long] > [-long,-splng] 
-#ˈimplejo# | 52 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˈimplijo# | 56 : e > i / __ j
-#ˈimplio# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˈimpljo# | 101 : [+front,+syl,-stres,+hi] > [-syl,0stres,0prim] / __ [+syl]
-#ˈimplju# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
-#ˈimpʎju# | 132 : [+lat] > ʎ / [-son] __ 
-#ˈimʎju# | 133 : [+cons,-voi] > ∅ / __ [+lat]
-#ˈimlju# | 137 : ʎ > l / [+cons,+voi] __ 
-#ˈiwlju# | 174 : [+lab,+cons] > w / __ [+cons]
-Final form : #ˈiwlju#
+#ˈimplejo# | 51 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#ˈimplijo# | 55 : e > i / __ j
+#ˈimpliju# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
+#ˈimpliʝu# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ˈimpliʝo# | 126 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
+#ˈimpʎiʝo# | 132 : [+lat] > ʎ / [-son] __ 
+#ˈimt͡ʃiʝo# | 134 : [-voi] [+lat] > t͡ʃ
+#ˈimt͡ʃʝo# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˈimt͡ʃço# | 140 : [-son] > [-voi] / [-voi] __ 
+#ˈimt͡ʃo# | 167 : [-son] > ∅ / [+delrel] __ 
+#ˈiwt͡ʃo# | 178 : [+lab,+cons] > w / __ [-son]
+Final form : #ˈiwt͡ʃo#

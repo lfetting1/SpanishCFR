@@ -1,18 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1095:
-#ɡˌurɡuliˈoːn̪em# >>> #ˌurljˈun̪e# ( GOLD : #ɡoɾɡˈoxo#) :
+#ɡˌurɡuliˈoːn̪em# >>> #ˌorlʝˈun̪# ( GOLD : #ɡoɾɡˈoxo#) :
 ɡ ˌu r ɡ u l i ˈoː n̪ e m 
-#ɡˌurɡuliˈoːn̪e# | 27 : [+nas] > ∅ / __ #
+#ɡˌurɡuliˈoːn̪e# | 27 : [+nas] > ∅ / [-stres] __ #
 #ɡˌorɡoleˈoːn̪e# | 45 : [+syl,-long] > [-hi] 
 #ɡˌorɡoleˈon̪e# | 46 : [+syl,+long] > [-long,-splng] 
-#ɡˌoɾɡoleˈon̪e# | 47 : r > ɾ 
-#ɡˌoɾɡolejˈon̪e# | 52 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ɡˌoɾɡolijˈon̪e# | 56 : e > i / __ j
-#ɡˌoɾɡoliˈon̪e# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ɣˌorɣoliˈon̪e# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌoroliˈon̪e# | 91 : [-son,+voi,-strid,-ant,+hi] > ∅ / __ [+syl,-cons,-hi]
-#ˌoroljˈon̪e# | 101 : [+front,+syl,-stres,+hi] > [-syl,0stres,0prim] / __ [+syl]
-#ˌoroljˈun̪e# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
-#ˌoruljˈun̪e# | 108 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
-#ˌorljˈun̪e# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌurljˈun̪e# | 160 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-Final form : #ˌurljˈun̪e#
+#ɡˌoɾɡoleˈon̪e# | 48 : r > ɾ / __ [+cons]
+#ɡˌoɾɡolejˈon̪e# | 51 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#ɡˌoɾɡolijˈon̪e# | 55 : e > i / __ j
+#ɣˌorɣolijˈon̪e# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌorolijˈon̪e# | 91 : [-son,+voi,-strid,-ant,+hi] > ∅ / __ [+syl,-cons,-hi]
+#ˌorolijˈun̪e# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
+#ˌorulijˈun̪e# | 108 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
+#ˌoruliʝˈun̪e# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ˌorlʝˈun̪e# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌorlʝˈun̪# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+Final form : #ˌorlʝˈun̪#

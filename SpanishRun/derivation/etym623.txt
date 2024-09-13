@@ -1,10 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :623:
-#mˌollˈiːre# >>> #mˌolˈire# ( GOLD : #muʝˈiɾ#) :
+#mˌollˈiːre# >>> #mˌoʝlˈir# ( GOLD : #muʝˈiɾ#) :
 m ˌo l l ˈiː r e 
 #mˌɔllˈiːre# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #mˌɔllˈire# | 46 : [+syl,+long] > [-long,-splng] 
-#mˌɔllˈiɾe# | 47 : r > ɾ 
-#mˌɔlˈiɾe# | 48 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
-#mˌɔlˈire# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#mˌolˈire# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-Final form : #mˌolˈire#
+#mˌɔjlˈire# | 99 : [+lat] > j / [+back] __ [+cons]
+#mˌojlˈire# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#mˌoʝlˈire# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#mˌoʝʎˈire# | 132 : [+lat] > ʎ / [-son] __ 
+#mˌoʝlˈire# | 138 : ʎ > l / [+cons,+voi] __ 
+#mˌoʝlˈir# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+Final form : #mˌoʝlˈir#

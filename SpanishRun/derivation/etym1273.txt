@@ -1,20 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1273:
-#ˌin̪kˈin̪kt̪a# >>> #ˌeʃ̪ˈit̪a# ( GOLD : #en̪θˈin̪t̪a#) :
+#ˌin̪kˈin̪kt̪a# >>> #ˌeʃ̪ˈit͡ʃa# ( GOLD : #en̪θˈin̪t̪a#) :
 ˌi n̪ k ˈi n̪ k t̪ a 
 #ˌiːn̪kˈiːn̪kt̪a# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ˌiːŋkˈiːŋkt̪a# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #ˌiːŋkˈiːŋt̪a# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
 #ˌiŋkˈiŋt̪a# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌiŋkˈijt̪a# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#ˌiŋkjˈijt̪a# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌiŋt͡ʃjˈijt̪a# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌiŋt͡ʃjˈit̪a# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌiŋt͡ʃˈit̪a# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ˌiŋt͡ʃ̪ˈit̪a# | 100 : [+strid,-cont] > [-hi,+ant] 
-#ˌijt͡ʃ̪ˈit̪a# | 105 : [+cons,+back] > j / [+syl] __ [-back]
-#ˌiʝt͡ʃ̪ˈit̪a# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌiʒt͡ʃ̪ˈit̪a# | 131 : ʝ > ʒ 
-#ˌeʒt͡ʃ̪ˈit̪a# | 161 : [+syl,+hi,+front] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#ˌet͡ʃ̪ˈit̪a# | 162 : [+cons] > ∅ / __ [+delrel]
-#ˌeʃ̪ˈit̪a# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ˌeʃ̪ˈit̪a#
+#ˌiŋkˈijt̪a# | 58 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#ˌiŋkjˈijt̪a# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌiŋt͡ʃjˈijt̪a# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌiŋt͡ʃ̪jˈijt̪a# | 100 : [+strid,-cont] > [-hi,+ant] 
+#ˌijt͡ʃ̪jˈijt̪a# | 105 : [+cons,+back] > j / [+syl] __ [-back]
+#ˌiʝt͡ʃ̪jˈiʝt̪a# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ˌiʝt͡ʃ̪jˈiʝt͡ʃa# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#ˌiʝt͡ʃ̪ˈiʝt͡ʃa# | 148 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ˌeʝt͡ʃ̪ˈiʝt͡ʃa# | 165 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#ˌet͡ʃ̪ˈit͡ʃa# | 166 : [-son] > ∅ / __ [+delrel]
+#ˌeʃ̪ˈit͡ʃa# | 181 : [+strid,+ant] > [+cont,0delrel] 
+Final form : #ˌeʃ̪ˈit͡ʃa#

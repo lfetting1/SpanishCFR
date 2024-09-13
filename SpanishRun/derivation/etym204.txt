@@ -1,22 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :204:
-#hˌamikˈeolum# >>> #ˌaʃ̪jˌulo# ( GOLD : #an̪θwˈelo#) :
+#hˌamikˈeolum# >>> #ˌawʃ̪e̯iʝˈul# ( GOLD : #an̪θwˈelo#) :
 h ˌa m i k ˈe o l u m 
 #ˌamikˈeolum# | 0 : h > ∅ 
-#ˌamikˈeolu# | 27 : [+nas] > ∅ / __ #
+#ˌamikˈeolu# | 27 : [+nas] > ∅ / [-stres] __ #
 #ˌamikˈeoːlu# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
-#ˌamikeˌoːlu# | 37 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+stres,+syl,+son,0delrel]
-#ˌamekeˌoːlo# | 45 : [+syl,-long] > [-hi] 
-#ˌamekeˌolo# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌamekejˌolo# | 52 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˌamekijˌolo# | 56 : e > i / __ j
-#ˌamekjijˌolo# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌamet͡ʃjijˌolo# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌamet͡ʃjiˌolo# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌamet͡ʃiˌolo# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ˌamet͡ʃ̪iˌolo# | 100 : [+strid,-cont] > [-hi,+ant] 
-#ˌamet͡ʃ̪jˌolo# | 101 : [+front,+syl,-stres,+hi] > [-syl,0stres,0prim] / __ [+syl]
-#ˌamet͡ʃ̪jˌulo# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
-#ˌamt͡ʃ̪jˌulo# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌat͡ʃ̪jˌulo# | 162 : [+cons] > ∅ / __ [+delrel]
-#ˌaʃ̪jˌulo# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ˌaʃ̪jˌulo#
+#ˌamikeˈoːlu# | 37 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌamekeˈoːlo# | 45 : [+syl,-long] > [-hi] 
+#ˌamekeˈolo# | 46 : [+syl,+long] > [-long,-splng] 
+#ˌamekejˈolo# | 51 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#ˌamekijˈolo# | 55 : e > i / __ j
+#ˌamekjijˈolo# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌamet͡ʃjijˈolo# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌamet͡ʃe̯jijˈolo# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#ˌamet͡ʃ̪e̯jijˈolo# | 100 : [+strid,-cont] > [-hi,+ant] 
+#ˌamet͡ʃ̪e̯jijˈulo# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
+#ˌamet͡ʃ̪e̯jiʝˈulo# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ˌamt͡ʃ̪e̯jiʝˈulo# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌamt͡ʃ̪e̯iʝˈulo# | 148 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ˌamt͡ʃ̪e̯iʝˈul# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌawt͡ʃ̪e̯iʝˈul# | 178 : [+lab,+cons] > w / __ [-son]
+#ˌawʃ̪e̯iʝˈul# | 181 : [+strid,+ant] > [+cont,0delrel] 
+Final form : #ˌawʃ̪e̯iʝˈul#

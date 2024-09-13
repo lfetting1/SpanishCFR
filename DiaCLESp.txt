@@ -1,16 +1,8 @@
-[+hi,+front,+cons] > ∅ / [+syl] (@) __ $ "Natural coda, delete syllable final palatal consonants. May need to be reformulated
-
-[+round, +cons] > ∅ / [+syl] (@) __ $ "natural coda, delete syllable final round consonants. May need to be reformulated.
-
 h > ∅ $ h_deletion
 
 [+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
 
-[+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depilatalization
-
-[+syl,-long] > [+syl,+long] / __[+nas] [+cons,+cont] $prenasal lengthening
-
-[+syl,-long] > [+syl,+long] / __[+nas] [+cons,-cont] [+cons] $prenasal lengthening 
+[+syl,-long] > [+syl,+long] / __[+nas] [-son] $prenasal lengthening
 
 [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @ $ nasal assimilation
 
@@ -54,19 +46,19 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 
 [+syl] j > [+syl,+long] ∅ $ monophthongization,(formatting?)
 
-[+syl,-stres] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
+[+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
 
-[+syl,-stres] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
+[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
 
-[+nas] > ∅ / __ # $ final nasal deletion
+[+nas] > ∅ / [-stres] __ # $ final nasal deletion, does not get deleted after stressed final syllables, effectively only monosyllabic words such as tam > tan or cum > con
 
-[+nas] > ∅ / __ s $ "ns > s" 
+[+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 
 
 [+cons,-cont] > ∅ / __ # $final stop deletion
 
 [+son,+cons,αnas] > [+cor,+ant,αdistr,-lab,-hi,-front,-back] / __ # $ final sonorant > coronal. This is intended for m, ɲ and ʎ to become n and l. Original version [+son] > [+cor]. If this solution doesn't work, use phones. 
 
-[+cons] > ∅ / __ [+strid] [+cons] $ reduction of cluster containing a sibilant
+[+cons] > ∅ / __ [+strid,+cor] [+cons] $ reduction of cluster containing a sibilant
 
 ɣʷ > β $ w_beta
 
@@ -78,15 +70,15 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 [+syl] > [+syl,+long] / [+cor,+son] [+syl] __ $ vowel lengthening (combine?)
 
-[+stres,-lo] [-stres] > [-stres] [+stres] $ progressive_stress
+[+stres,-lo] [-stres] > [-stres] [+prim] $ progressive_stress
 
 [+stres,-lo,-hi,+back] [-stres,-back] > [-stres] [+stres] $ progressive_stress,recipient of stress has different backness than donor
 
-[+stres,-lo,-hi,-back] [-stres,+back] > [-stres] [+stres] $ progressive_stress (combine?)
+[+stres,-lo,-hi,-back] [-stres,+back] > [-stres] [+prim] $ progressive_stress (combine?)
 
 [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front] $ velar deletion
 
-[+syl,-stres,-lo] > [-syl,-long,+hi] / __ [+syl,+hi] $ syneresis early
+[+syl,-stres,-lo, +hi] > [-syl,-long] / __ [+syl] $ syneresis early
 
 [+syl,-stres,-lo,+back] > [-syl,-long,+hi,+back] / __ [+syl,+hi,-back] $ syneresis early
 
@@ -98,9 +90,9 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 [+syl,+long] > [-long] $recurrent rule,unlong, shorten long vowels
 
-r > ɾ $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
+r r > r $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
 
-[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] 
+$[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] Part of unlong rule, Seemingly intended to delete geminates, but Hartman's rule does not do this, so it is commented out as of 9/13
 
 r > ɾ / __ [+cons] $unlong,syllable final trill > tap
 
@@ -122,7 +114,7 @@ e > i / __ j $ front raising
 
 ˈe > ˈi / __ j $ front raising
 
-[+cons,+hi,+voi] > j / [+syl] __ [+cons,-back] $ velar you early
+[+cons,+hi,+voi] > j / [+syl] __ [+cons,-back] $ velar yod early
 
 [+nas,+cor] > ɲ / j __ $ nasal palatal
 
@@ -262,70 +254,73 @@ $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+h
 
 {v; f} > {β; ɸ} $ "betacism"
 
-[+lat,+hi] > [+cons,+strid,-lat] $ lateral affrication
+ʎ > d͡ʒ $ lateral affrication
 
-d ʒ > ʒ $j>y merger,unclear if this is meant 
+d͡ʒ > ʒ $j_y_merger, for dʒ
 
-d͡ʒ > ʒ $j>y merger,unclear if this is meant 
+ʝ > ʒ / {#;[-syl]} __ [+round] $ j_y_merger, for ʝ
 
-ʝ > ʒ $j>y merger,unclear if this is meant,named like it is yeismo,but does not seem to be
+[+lat] > ʎ / [-son] __ $lambdacism
 
-[+lat] > ʎ / [-son] __ $lamdacism
+[+cons,-voi] > ∅ / # __ [+lat] $pl_ll_late
 
-[+cons,-voi] > ∅ / __ [+lat] $pl_ll_late
+[-voi] > [+distr,+delrel] / __ [+lat] $ "cheismo" palatal lateral > tʃ . TODO check this -- was bled in first run through. 
 
-[-voi] > [+distr,+delrel] / __ [+lat] $ "cheismo" palatal lateral > tʃ 
+r r > rː $ trilling. TODO check this -- was missing in one version. 
 
-{l l;n̪ n̪} > {ʎ;ɲ} $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ 
+{l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in the nexgt rule, degemination. 
 
-[+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] $ degemination
+[+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ 
 
-ʎ > l / [+cons,+voi] __ $ lamda_ell
+[+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] $ degemination. TODO check again with second run-through. 
 
-[-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] $ syncope late,may be inexact
+ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
 
-[+cons] > [-voi] / [-voi] __ $ progressive_voicing
+[-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] $ syncope late,may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 
 
-[+syl,+lo] > [-lo,αback] / __ [-cons,-syl,αback] $ a coloring 
+[-son] > [-voi] / [-voi] __ $ progressive_voicing
 
-[+cons,+lab] > w / __ [+back,+cons] $ vocalization of syllable-final labial
+[+syl,+lo] > [-lo,αback] / __ [-cons,-syl,αback] $ a coloring. TODO check later in second runthrough -- currently bled. 
 
-$[+cons,-voi] > j 
+[+cons,+lab] > w / __ [+back,+cons] $wawism_early. vocalization of syllable-final labial
 
-[+syl,-back,+tense,-stres] > [+hi] / __ [+hi,+round] $ ew > iw
+$metaphony_late. [+cons,-voi] > j . Seems vacuous. 
 
-[-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ $ progressive hushing / palatalization
+[+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round] $ ew > iw
 
-[-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption
+{s;t̪} > {ʃ;t͡ʃ}$ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ 
 
-[-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption
+[-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 
-[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption
+[-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 
-[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption
+[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
+
+[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
 
 d̪ n̪ > n̪ d̪ $sonorant metathesis
 
-d̪ l > l d̪ $sonorant metathesis 
+d̪ m > m d̪ $sonorant metathesis. 
 
-t̪ n̪ > n̪ t̪ $sonorant metathesis
+d̪ l > l d̪ $sonorant metathesis. This one may be vacuous (was for Hartman's OG set.)
 
-t̪ l > l t̪ $sonorant metathesis
+t̪ n̪ > n̪ t̪ $sonorant metathesis. This one may be vacuous (was for Hartman's OG set.)
 
-ð l > l ð $sonorant metathesis
+t̪ l > l t̪ $sonorant metathesis. This one may be vacuous (was for Hartman's OG set.)
 
-ð n̪ > n̪ ð $sonorant metathesis
+ð l > l ð $sonorant metathesis. This one may be vacuous (was for Hartman's OG set.)
 
-[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? 
+ð n̪ > n̪ ð $sonorant metathesis. This one may be vacuous (was for Hartman's OG set.)
 
-[+cons,-cont,+voi] > [+cont] $spirantization
+[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? TODO check later in second runthrough -- currently bled.
 
-[+hi,-back,+delrel] > [-strid,-delrel] $spirantization
+$[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happens at the same time. TODO suppressed (CM) @Aug 30, as this appears unnecessary and has bad side effects -- was there a copy-paste here? 
 
-[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happens at the same time
+[+cons,-cont,+voi] > [+cont] $spirantization, TODO check later in second runthrough -- currently bled
 
-[+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant"
+[+hi,-back,+delrel] > [-strid,-delrel] $spirantization, TODO check later in second runthrough -- currently bled
 
+[+syl,-lo,-hi] > ∅ / [+syl] {[+ant,+delrel];ɾ;[+cont,-strid,+cor]} __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant". CM @Aug30:  Although his documentation says "delayed-release", the actual behavior of this rule deletes -e after ɾ, ð, l -- as well as dz, ts -- so coronal sonorants, tap ɾ, and alveolar affricates, it seems. Previous form [+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # 
 [+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress
 
 [+syl,-lo] > [+hi] / __ [+cons] ([+cons]) [-cons,-syl] $ raising by diphthong
@@ -362,7 +357,7 @@ n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation
 
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ r $epenthetic b d; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
 
-[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress
+[-hi,-tres] [+hi,+stres] > [+stres] [-stres] $ restress
 
 [+strid,+ant] > [+cont] $deaffrication
 

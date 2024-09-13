@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :84:
-#d̪ˌiffˈikilem# >>> #ˌeβˈiʃ̪e̯jele# ( GOLD : #d̪ifˈiθil#) :
+#d̪ˌiffˈikilem# >>> #ˌeˈiʃ̪e̯jel# ( GOLD : #d̪ifˈiθil#) :
 d̪ ˌi f f ˈi k i l e m 
-#d̪ˌiffˈikile# | 27 : [+nas] > ∅ / __ #
+#d̪ˌiffˈikile# | 27 : [+nas] > ∅ / [-stres] __ #
 #d̪ˌeffˈekele# | 45 : [+syl,-long] > [-hi] 
-#d̪ˌefˈekele# | 48 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
-#d̪ˌefˈekjele# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d̪ˌefˈet͡ʃjele# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d̪ˌefˈet͡ʃe̯jele# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#ðˌefˈet͡ʃe̯jele# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌefˈet͡ʃe̯jele# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˌevˈet͡ʃe̯jele# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌevˈet͡ʃ̪e̯jele# | 100 : [+strid,-cont] > [-hi,+ant] 
-#ˌeβˈet͡ʃ̪e̯jele# | 127 : {v;f} > {β;ɸ} 
-#ˌeβˈit͡ʃ̪e̯jele# | 160 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#ˌeβˈiʃ̪e̯jele# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ˌeβˈiʃ̪e̯jele#
+#d̪ˌeffˈekjele# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d̪ˌeffˈet͡ʃjele# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d̪ˌeffˈet͡ʃe̯jele# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#ðˌeffˈet͡ʃe̯jele# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌeffˈet͡ʃe̯jele# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
+#ˌeffˈet͡ʃ̪e̯jele# | 100 : [+strid,-cont] > [-hi,+ant] 
+#ˌeɸɸˈet͡ʃ̪e̯jele# | 127 : {v;f} > {β;ɸ} 
+#ˌeɸˈet͡ʃ̪e̯jele# | 137 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#ˌeɸˈet͡ʃ̪e̯jel# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌeɸˈit͡ʃ̪e̯jel# | 163 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ˌehˈit͡ʃ̪e̯jel# | 171 : ɸ > h / __ [+syl]
+#ˌeˈit͡ʃ̪e̯jel# | 173 : h > ∅ 
+#ˌeˈiʃ̪e̯jel# | 181 : [+strid,+ant] > [+cont,0delrel] 
+Final form : #ˌeˈiʃ̪e̯jel#

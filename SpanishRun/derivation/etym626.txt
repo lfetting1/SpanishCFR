@@ -1,21 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :626:
-#mˌorsikˈaːre# >>> #mwˌiʃ̪e̯jˈare# ( GOLD : #moskˈaɾ#) :
+#mˌorsikˈaːre# >>> #mwˌeʃ̪e̯jˈar# ( GOLD : #moskˈaɾ#) :
 m ˌo r s i k ˈaː r e 
 #mˌossikˈaːre# | 34 : r > s / __ s
 #mˌɔssikˈaːre# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #mˌɔssekˈaːre# | 45 : [+syl,-long] > [-hi] 
 #mˌɔssekˈare# | 46 : [+syl,+long] > [-long,-splng] 
-#mˌɔssekˈaɾe# | 47 : r > ɾ 
-#mˌɔsekˈaɾe# | 48 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
-#mˌɔsekjˈaɾe# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#mˌɔset͡ʃjˈaɾe# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#mˌɔset͡ʃe̯jˈaɾe# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#mˌɔset͡ʃe̯jˈare# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#mˌɔzet͡ʃe̯jˈare# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
-#mˌɔzet͡ʃ̪e̯jˈare# | 100 : [+strid,-cont] > [-hi,+ant] 
-#mwˌezet͡ʃ̪e̯jˈare# | 117 : ˌɔ > w ˌe 
-#mwˌezt͡ʃ̪e̯jˈare# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#mwˌizt͡ʃ̪e̯jˈare# | 160 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#mwˌit͡ʃ̪e̯jˈare# | 162 : [+cons] > ∅ / __ [+delrel]
-#mwˌiʃ̪e̯jˈare# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #mwˌiʃ̪e̯jˈare#
+#mˌɔssekjˈare# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#mˌɔsset͡ʃjˈare# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˌɔsset͡ʃe̯jˈare# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#mˌɔsset͡ʃ̪e̯jˈare# | 100 : [+strid,-cont] > [-hi,+ant] 
+#mwˌesset͡ʃ̪e̯jˈare# | 117 : ˌɔ > w ˌe 
+#mwˌeset͡ʃ̪e̯jˈare# | 137 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#mwˌest͡ʃ̪e̯jˈare# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#mwˌeʃt͡ʃ̪e̯jˈare# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#mwˌeʃt͡ʃ̪e̯jˈar# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#mwˌet͡ʃ̪e̯jˈar# | 166 : [-son] > ∅ / __ [+delrel]
+#mwˌeʃ̪e̯jˈar# | 181 : [+strid,+ant] > [+cont,0delrel] 
+Final form : #mwˌeʃ̪e̯jˈar#

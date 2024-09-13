@@ -1,22 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1092:
-#ɡˌin̪ɡˈiːwam# >>> #xˌixja# ( GOLD : #en̪θˈia#) :
+#ɡˌin̪ɡˈiːwam# >>> #xˌeʝxˈia# ( GOLD : #en̪θˈia#) :
 ɡ ˌi n̪ ɡ ˈiː w a m 
 #ɡˌiːn̪ɡˈiːwam# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ɡˌiːŋɡˈiːwam# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #ɡˌiːŋɡˈiːɣʷam# | 17 : w > ɣʷ / __ [+syl]
-#ɡˌiːŋɡˈiːɣʷa# | 27 : [+nas] > ∅ / __ #
+#ɡˌiːŋɡˈiːɣʷa# | 27 : [+nas] > ∅ / [-stres] __ #
 #ɡˌiːŋɡˈiːβa# | 32 : ɣʷ > β 
 #ɡˌiŋɡˈiβa# | 46 : [+syl,+long] > [-long,-splng] 
-#ɡjˌiŋɡjˈiβa# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˌiŋd͡ʒjˈiβa# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d͡ʒˌiŋd͡ʒˈiβa# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ʒˌiŋʒˈiβa# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ʒˌiŋʒˈia# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ʒˌijʒˈia# | 105 : [+cons,+back] > j / [+syl] __ [-back]
-#ʒˌiʝʒˈia# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ʒˌiʒʒˈia# | 131 : ʝ > ʒ 
-#ʒˌiʒˈia# | 136 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#ʒˌiʒja# | 157 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
-#ʃˌiʃja# | 179 : [+strid] > [-voi] 
-#xˌixja# | 181 : ʃ > x 
-Final form : #xˌixja#
+#ɡjˌiŋɡjˈiβa# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˌiŋd͡ʒjˈiβa# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ʒjˌiŋʒjˈiβa# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ʒjˌiŋʒjˈia# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
+#ʒjˌijʒjˈia# | 105 : [+cons,+back] > j / [+syl] __ [-back]
+#ʒjˌiʝʒjˈia# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#ʒˌiʝʒˈia# | 148 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ʒˌeʝʒˈia# | 165 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#ʃˌeʝʃˈia# | 182 : [+strid] > [-voi] 
+#xˌeʝxˈia# | 184 : ʃ > x 
+Final form : #xˌeʝxˈia#

@@ -1,27 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1259:
-#ˌekst̪rˈaːn̪eum# >>> #xˌed̪r̥ˈeɣʷ# ( GOLD : #ext̪ɾˈaɲo#) :
+#ˌekst̪rˈaːn̪eum# >>> #ʝˌet͡ʃrˈeɣʷ# ( GOLD : #ext̪ɾˈaɲo#) :
 ˌe k s t̪ r ˈaː n̪ e u m 
 #ˌeks̪t̪rˈaːn̪eum# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ˌeks̪t̪rˈaːn̪eu# | 27 : [+nas] > ∅ / __ #
-#ˌes̪t̪rˈaːn̪eu# | 31 : [+cons] > ∅ / __ [+strid] [+cons]
+#ˌeks̪t̪rˈaːn̪eu# | 27 : [+nas] > ∅ / [-stres] __ #
+#ˌes̪t̪rˈaːn̪eu# | 31 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
 #ˌes̪t̪rˈaːn̪euː# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
 #ˌes̪t̪rˈaːn̪juː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #ˌɛs̪t̪rˈaːn̪juː# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˌɛs̪t̪rˈan̪ju# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌɛs̪t̪ɾˈan̪ju# | 47 : r > ɾ 
-#ˌɛs̪t̪ɾˈaɲju# | 61 : [+nas,+cor] > ɲ / __ j
-#ˌɛs̪t̪ɾˈaɲu# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌɛs̪t̪rˈaɲu# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌɛs̪t̪rˈaɲju# | 60 : [+nas,+cor] > ɲ / __ j
+#ˌɛs̪t̪rˈaɲu# | 73 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
 #ˌɛs̪t̪rˈeɲu# | 106 : [+syl,+front,+tense] > [-lo] / __ ( [-syl] ) [+syl,+hi]
 #jˌes̪t̪rˈeɲu# | 114 : ˌɛ > j ˌe 
 #jˌes̪t̪rˈeu# | 121 : [+hi,+front,-strid,+cons,+cont] > ∅ / [+syl,+front] __ [+syl]
 #jˌes̪t̪rˈew# | 123 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
 #ʝˌes̪t̪rˈew# | 124 : [-cons,-syl,+hi] > [+cons,-son,0tense] / # __ 
 #ʝˌes̪t̪rˈeɣʷ# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ʒˌes̪t̪rˈeɣʷ# | 131 : ʝ > ʒ 
-#ʒˌet̪rˈeɣʷ# | 136 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#ʒˌet̪r̥ˈeɣʷ# | 139 : [+cons] > [-voi] / [-voi] __ 
-#ʃˌet̪r̥ˈeɣʷ# | 179 : [+strid] > [-voi] 
-#xˌet̪r̥ˈeɣʷ# | 181 : ʃ > x 
-#xˌed̪r̥ˈeɣʷ# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #xˌed̪r̥ˈeɣʷ#
+#ʝˌes̪t͡ʃrˈeɣʷ# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#ʝˌet͡ʃrˈeɣʷ# | 166 : [-son] > ∅ / __ [+delrel]
+Final form : #ʝˌet͡ʃrˈeɣʷ#

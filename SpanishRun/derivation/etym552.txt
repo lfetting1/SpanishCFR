@@ -1,17 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :552:
-#mˈelior# >>> #mˈiljur# ( GOLD : #mexˈoɾ#) :
+#mˈelior# >>> #mˈelʝr# ( GOLD : #mexˈoɾ#) :
 m ˈe l i o r 
 #mˈelioːr# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
 #mˈɛlioːr# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #mˈɛleoːr# | 45 : [+syl,-long] > [-hi] 
 #mˈɛleor# | 46 : [+syl,+long] > [-long,-splng] 
-#mˈɛleoɾ# | 47 : r > ɾ 
-#mˈɛlejoɾ# | 52 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#mˈɛlijoɾ# | 56 : e > i / __ j
-#mˈɛlioɾ# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#mˈɛlior# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#mˈɛljor# | 101 : [+front,+syl,-stres,+hi] > [-syl,0stres,0prim] / __ [+syl]
-#mˈɛljur# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
-#mˈeljur# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#mˈiljur# | 160 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-Final form : #mˈiljur#
+#mˈɛleoɾ# | 49 : r > ɾ / __ #
+#mˈɛlejoɾ# | 51 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#mˈɛlijoɾ# | 55 : e > i / __ j
+#mˈɛlijor# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#mˈɛlijur# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
+#mˈelijur# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#mˈeliʝur# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
+#mˈelʝr# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+Final form : #mˈelʝr#

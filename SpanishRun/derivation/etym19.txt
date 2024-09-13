@@ -1,10 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :19:
-#bˈat̪t̪uoː# >>> #ˈat̪o# ( GOLD : #bˈat̪o#) :
+#bˈat̪t̪uoː# >>> #ˈat͡ʃo# ( GOLD : #bˈat̪o#) :
 b ˈa t̪ t̪ u oː 
 #bˈat̪t̪ooː# | 45 : [+syl,-long] > [-hi] 
 #bˈat̪t̪oo# | 46 : [+syl,+long] > [-long,-splng] 
-#bˈat̪oo# | 48 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
-#bˈat̪o# | 64 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#βˈat̪o# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˈat̪o# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-Final form : #ˈat̪o#
+#bˈat̪t̪o# | 63 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
+#βˈat̪t̪o# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˈat̪t̪o# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
+#ˈat̪o# | 137 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#ˈat͡ʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+Final form : #ˈat͡ʃo#

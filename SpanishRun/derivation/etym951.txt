@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :951:
-#sˌoːlit̪ˈaːrius# >>> #θˌolt̪ˈarjuθ# ( GOLD : #solt̪ˈeɾo#) :
+#sˌoːlit̪ˈaːrius# >>> #ʎt͡ʃˈarjux# ( GOLD : #solt̪ˈeɾo#) :
 s ˌoː l i t̪ ˈaː r i u s 
-#sˌoːlit̪ˈaːriuːs# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
-#sˌoːlit̪ˈaːrjuːs# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#sˌoːlet̪ˈaːrjuːs# | 45 : [+syl,-long] > [-hi] 
-#sˌolet̪ˈarjus# | 46 : [+syl,+long] > [-long,-splng] 
-#sˌolet̪ˈaɾjus# | 47 : r > ɾ 
-#sˌolet̪ˈarjus# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#sˌolt̪ˈarjus# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#θˌolt̪ˈarjus# | 182 : s > θ / __ [-cons]
-#θˌolt̪ˈarjuθ# | 183 : s > θ / __ #
-Final form : #θˌolt̪ˈarjuθ#
+#slit̪ˈaːrius# | 26 : [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas]
+#slit̪ˈaːriuːs# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#slit̪ˈaːrjuːs# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#slet̪ˈaːrjuːs# | 45 : [+syl,-long] > [-hi] 
+#slet̪ˈarjus# | 46 : [+syl,+long] > [-long,-splng] 
+#sʎet̪ˈarjus# | 132 : [+lat] > ʎ / [-son] __ 
+#ʎet̪ˈarjus# | 133 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʎt̪ˈarjus# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ʎt͡ʃˈarjuʃ# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#ʎt͡ʃˈarjux# | 184 : ʃ > x 
+Final form : #ʎt͡ʃˈarjux#

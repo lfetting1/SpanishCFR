@@ -1,11 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1179:
-#ˌae̯kwalit̪ˈaːt̪em# >>> #ˌexwt̪ˈat̪e# ( GOLD : #iɡwald̪ˈad̪#) :
+#ˌae̯kwalit̪ˈaːt̪em# >>> #ˌeçt͡ʃˈat͡ʃe# ( GOLD : #iɡwald̪ˈad̪#) :
 ˌa e̯ k w a l i t̪ ˈaː t̪ e m 
 #ˌae̯kɣʷalit̪ˈaːt̪em# | 17 : w > ɣʷ / __ [+syl]
 #ˌɛjkɣʷalit̪ˈaːt̪em# | 22 : {ˌa e̯;ˌo e̯} > {ˌɛ j;ˌe j} 
 #ˌejkɣʷalit̪ˈaːt̪em# | 23 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
 #ˌeːkɣʷalit̪ˈaːt̪em# | 24 : [+syl] j > [+syl,+long,+son,0delrel] ∅
-#ˌeːkɣʷalit̪ˈaːt̪e# | 27 : [+nas] > ∅ / __ #
+#ˌeːkɣʷalit̪ˈaːt̪e# | 27 : [+nas] > ∅ / [-stres] __ #
 #ˌeːkβalit̪ˈaːt̪e# | 32 : ɣʷ > β 
 #ˌeːxβalit̪ˈaːt̪e# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #ˌeːxβalet̪ˈaːt̪e# | 45 : [+syl,-long] > [-hi] 
@@ -16,9 +16,8 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1179:
 #ˌejawet̪ˈat̪e# | 105 : [+cons,+back] > j / [+syl] __ [-back]
 #ˌejewet̪ˈat̪e# | 111 : [+front,+syl] > [-lo] / [+syl] [+voi,+hi,+front,+cont] __ 
 #ˌeʝeɣʷet̪ˈat̪e# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌeʒeɣʷet̪ˈat̪e# | 131 : ʝ > ʒ 
-#ˌeʒɣʷt̪ˈat̪e# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌeʒwt̪ˈat̪e# | 174 : [+lab,+cons] > w / __ [+cons]
-#ˌeʃwt̪ˈat̪e# | 179 : [+strid] > [-voi] 
-#ˌexwt̪ˈat̪e# | 181 : ʃ > x 
-Final form : #ˌexwt̪ˈat̪e#
+#ˌeʝɣʷt̪ˈat̪e# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌeʝɣʷt͡ʃˈat͡ʃe# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#ˌeʝt͡ʃˈat͡ʃe# | 166 : [-son] > ∅ / __ [+delrel]
+#ˌeçt͡ʃˈat͡ʃe# | 189 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
+Final form : #ˌeçt͡ʃˈat͡ʃe#

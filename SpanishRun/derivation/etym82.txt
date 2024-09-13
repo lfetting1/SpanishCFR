@@ -1,16 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :82:
-#d̪ˌeːsˈert̪um# >>> #ˌiθjˈert̪o# ( GOLD : #d̪esjˈeɾt̪o#) :
+#d̪ˌeːsˈert̪um# >>> #ˌiθjˈert͡ʃo# ( GOLD : #d̪esjˈeɾt̪o#) :
 d̪ ˌeː s ˈe r t̪ u m 
-#d̪ˌeːsˈert̪u# | 27 : [+nas] > ∅ / __ #
+#d̪ˌeːsˈert̪u# | 27 : [+nas] > ∅ / [-stres] __ #
 #d̪ˌeːsˈɛrt̪u# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #d̪ˌeːsˈɛrt̪o# | 45 : [+syl,-long] > [-hi] 
 #d̪ˌesˈɛrt̪o# | 46 : [+syl,+long] > [-long,-splng] 
-#d̪ˌesˈɛɾt̪o# | 47 : r > ɾ 
+#d̪ˌesˈɛɾt̪o# | 48 : r > ɾ / __ [+cons]
 #ðˌesˈɛrt̪o# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
 #ˌesˈɛrt̪o# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
 #ˌezˈɛrt̪o# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
 #ˌezjˈert̪o# | 113 : ˈɛ > j ˈe 
-#ˌizjˈert̪o# | 160 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#ˌisjˈert̪o# | 179 : [+strid] > [-voi] 
-#ˌiθjˈert̪o# | 182 : s > θ / __ [-cons]
-Final form : #ˌiθjˈert̪o#
+#ˌezjˈert͡ʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#ˌizjˈert͡ʃo# | 163 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ˌisjˈert͡ʃo# | 182 : [+strid] > [-voi] 
+#ˌiθjˈert͡ʃo# | 185 : s > θ / __ [-cons]
+Final form : #ˌiθjˈert͡ʃo#

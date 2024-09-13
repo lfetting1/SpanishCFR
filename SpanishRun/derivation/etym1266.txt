@@ -1,15 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1266:
-#ˌimpˈosit̪um# >>> #ˌipwˈezt̪o# ( GOLD : #impwˈest̪o#) :
+#ˌimpˈosit̪um# >>> #ˌiwpwˈet͡ʃo# ( GOLD : #impwˈest̪o#) :
 ˌi m p ˈo s i t̪ u m 
 #ˌiːmpˈosit̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌiːmpˈosit̪u# | 27 : [+nas] > ∅ / __ #
+#ˌiːmpˈosit̪u# | 27 : [+nas] > ∅ / [-stres] __ #
 #ˌiːmpˈɔsit̪u# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˌiːmpˈɔset̪o# | 45 : [+syl,-long] > [-hi] 
 #ˌimpˈɔset̪o# | 46 : [+syl,+long] > [-long,-splng] 
 #ˌimpˈɔzet̪o# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
 #ˌimpwˈezet̪o# | 116 : ˈɔ > w ˈe 
-#ˌipwˈezet̪o# | 136 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#ˌipwˈezt̪o# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌipwˈest̪o# | 179 : [+strid] > [-voi] 
-#ˌipwˈezt̪o# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #ˌipwˈezt̪o#
+#ˌimpwˈezt̪o# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌimpwˈezt͡ʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#ˌimpwˈet͡ʃo# | 166 : [-son] > ∅ / __ [+delrel]
+#ˌiwpwˈet͡ʃo# | 178 : [+lab,+cons] > w / __ [-son]
+Final form : #ˌiwpwˈet͡ʃo#

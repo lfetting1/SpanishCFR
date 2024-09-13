@@ -1,7 +1,7 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1261:
-#ˌeksˈiːt̪um# >>> #ˌeɣθˈit̪o# ( GOLD : #exˈid̪o#) :
+#ˌeksˈiːt̪um# >>> #ˌeʝxˈit͡ʃo# ( GOLD : #exˈid̪o#) :
 ˌe k s ˈiː t̪ u m 
-#ˌeksˈiːt̪u# | 27 : [+nas] > ∅ / __ #
+#ˌeksˈiːt̪u# | 27 : [+nas] > ∅ / [-stres] __ #
 #ˌexsˈiːt̪u# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #ˌɛxsˈiːt̪u# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˌɛxsˈiːt̪o# | 45 : [+syl,-long] > [-hi] 
@@ -9,9 +9,6 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1261:
 #ˌɛjsˈit̪o# | 105 : [+cons,+back] > j / [+syl] __ [-back]
 #ˌejsˈit̪o# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
 #ˌeʝsˈit̪o# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌeʒsˈit̪o# | 131 : ʝ > ʒ 
-#ˌeʃsˈit̪o# | 179 : [+strid] > [-voi] 
-#ˌexsˈit̪o# | 181 : ʃ > x 
-#ˌexθˈit̪o# | 182 : s > θ / __ [-cons]
-#ˌeɣθˈit̪o# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #ˌeɣθˈit̪o#
+#ˌeʝʃˈit͡ʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#ˌeʝxˈit͡ʃo# | 184 : ʃ > x 
+Final form : #ˌeʝxˈit͡ʃo#

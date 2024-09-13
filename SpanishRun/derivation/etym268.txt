@@ -1,15 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :268:
-#kwˌiet̪ˈaːre# >>> #kjˌet̪ˈare# ( GOLD : #ked̪ˈaɾ#) :
+#kwˌiet̪ˈaːre# >>> #kjˈet͡ʃˈar# ( GOLD : #ked̪ˈaɾ#) :
 k w ˌi e t̪ ˈaː r e 
 #kɣʷˌiet̪ˈaːre# | 17 : w > ɣʷ / __ [+syl]
 #kβˌiet̪ˈaːre# | 32 : ɣʷ > β 
-#kβiˌet̪ˈaːre# | 37 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+stres,+syl,+son,0delrel]
-#kβiˌɛt̪ˈaːre# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kβeˌɛt̪ˈaːre# | 45 : [+syl,-long] > [-hi] 
-#kβeˌɛt̪ˈare# | 46 : [+syl,+long] > [-long,-splng] 
-#kβeˌɛt̪ˈaɾe# | 47 : r > ɾ 
-#kβˌɛt̪ˈaɾe# | 64 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#kβˌɛt̪ˈare# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#kˌɛt̪ˈare# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#kjˌet̪ˈare# | 114 : ˌɛ > j ˌe 
-Final form : #kjˌet̪ˈare#
+#kβiˈet̪ˈaːre# | 37 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kβiˈɛt̪ˈaːre# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kβeˈɛt̪ˈaːre# | 45 : [+syl,-long] > [-hi] 
+#kβeˈɛt̪ˈare# | 46 : [+syl,+long] > [-long,-splng] 
+#kβˈɛt̪ˈare# | 63 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
+#kˈɛt̪ˈare# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
+#kjˈet̪ˈare# | 113 : ˈɛ > j ˈe 
+#kjˈet͡ʃˈare# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#kjˈet͡ʃˈar# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+Final form : #kjˈet͡ʃˈar#

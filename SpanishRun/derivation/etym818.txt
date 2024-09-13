@@ -1,17 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :818:
-#rˌespˈoːn̪sum# >>> #rjˌezpˈoθo# ( GOLD : #respˈon̪so#) :
+#rˌespˈoːn̪sum# >>> #rˌixpˈoθo# ( GOLD : #respˈon̪so#) :
 r ˌe s p ˈoː n̪ s u m 
 #rˌespˈoːnsum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#rˌespˈoːnsu# | 27 : [+nas] > ∅ / __ #
-#rˌespˈoːsu# | 28 : [+nas] > ∅ / __ s
+#rˌespˈoːnsu# | 27 : [+nas] > ∅ / [-stres] __ #
+#rˌespˈoːsu# | 28 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
 #rˌɛspˈoːsu# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #rˌɛspˈoːso# | 45 : [+syl,-long] > [-hi] 
 #rˌɛspˈoso# | 46 : [+syl,+long] > [-long,-splng] 
-#ɾˌɛspˈoso# | 47 : r > ɾ 
-#rˌɛspˈoso# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
 #rˌɛspˈozo# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
 #rjˌespˈozo# | 114 : ˌɛ > j ˌe 
-#rjˌespˈoso# | 179 : [+strid] > [-voi] 
-#rjˌespˈoθo# | 182 : s > θ / __ [-cons]
-#rjˌezpˈoθo# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #rjˌezpˈoθo#
+#rjˌeʃpˈozo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#rjˌiʃpˈozo# | 175 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#rˌiʃpˈozo# | 177 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#rˌiʃpˈoso# | 182 : [+strid] > [-voi] 
+#rˌixpˈoso# | 184 : ʃ > x 
+#rˌixpˈoθo# | 185 : s > θ / __ [-cons]
+Final form : #rˌixpˈoθo#

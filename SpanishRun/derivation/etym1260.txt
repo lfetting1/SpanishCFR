@@ -1,8 +1,8 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1260:
-#ˌeksˈemplum# >>> #ˌeɣθˈewlo# ( GOLD : #exˈemplo#) :
+#ˌeksˈemplum# >>> #ˌeʝxˈewt͡ʃo# ( GOLD : #exˈemplo#) :
 ˌe k s ˈe m p l u m 
 #ˌeksˈeːmplum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌeksˈeːmplu# | 27 : [+nas] > ∅ / __ #
+#ˌeksˈeːmplu# | 27 : [+nas] > ∅ / [-stres] __ #
 #ˌexsˈeːmplu# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #ˌɛxsˈeːmplu# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˌɛxsˈeːmplo# | 45 : [+syl,-long] > [-hi] 
@@ -10,13 +10,9 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1260:
 #ˌɛjsˈemplo# | 105 : [+cons,+back] > j / [+syl] __ [-back]
 #ˌejsˈemplo# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
 #ˌeʝsˈemplo# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌeʒsˈemplo# | 131 : ʝ > ʒ 
-#ˌeʒsˈempʎo# | 132 : [+lat] > ʎ / [-son] __ 
-#ˌeʒsˈemʎo# | 133 : [+cons,-voi] > ∅ / __ [+lat]
-#ˌeʒsˈemlo# | 137 : ʎ > l / [+cons,+voi] __ 
-#ˌeʒsˈewlo# | 174 : [+lab,+cons] > w / __ [+cons]
-#ˌeʃsˈewlo# | 179 : [+strid] > [-voi] 
-#ˌexsˈewlo# | 181 : ʃ > x 
-#ˌexθˈewlo# | 182 : s > θ / __ [-cons]
-#ˌeɣθˈewlo# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #ˌeɣθˈewlo#
+#ˌeʝsˈempʎo# | 132 : [+lat] > ʎ / [-son] __ 
+#ˌeʝsˈemt͡ʃo# | 134 : [-voi] [+lat] > t͡ʃ
+#ˌeʝʃˈemt͡ʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
+#ˌeʝʃˈewt͡ʃo# | 178 : [+lab,+cons] > w / __ [-son]
+#ˌeʝxˈewt͡ʃo# | 184 : ʃ > x 
+Final form : #ˌeʝxˈewt͡ʃo#
