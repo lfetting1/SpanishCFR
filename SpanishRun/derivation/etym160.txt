@@ -1,14 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :160:
-#fˈun̪ɡum# >>> #ˈuŋo# ( GOLD : #ˈon̪ɡo#) :
-f ˈu n̪ ɡ u m 
-#fˈuːn̪ɡum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#fˈuːŋɡum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#fˈuːŋɡu# | 27 : [+nas] > ∅ / [-stres] __ #
-#fˈuːŋɡo# | 45 : [+syl,-long] > [-hi] 
-#fˈuŋɡo# | 46 : [+syl,+long] > [-long,-splng] 
-#fˈuŋɣo# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#fˈuŋo# | 91 : [-son,+voi,-strid,-ant,+hi] > ∅ / __ [+syl,-cons,-hi]
-#ɸˈuŋo# | 127 : {v;f} > {β;ɸ} 
-#hˈuŋo# | 171 : ɸ > h / __ [+syl]
-#ˈuŋo# | 173 : h > ∅ 
-Final form : #ˈuŋo#
+#kˌord̪ˈolium# >>> #kwðˈoxu# ( GOLD : #koɾd̪ˈoxo#) :
+k ˌo r d̪ ˈo l i u m 
+#kˌord̪ˈoliu# | 27 : [+nas] > ∅ / [-stres] __ #
+#kˌord̪ˈoliuː# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#kˌord̪ˈoljuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˌɔrd̪ˈɔljuː# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔrd̪ˈɔlju# | 46 : [+syl,+long] > [-long,-splng] 
+#kˌɔɾd̪ˈɔlju# | 48 : r > ɾ / __ [+cons]
+#kˌɔɾd̪ˈɔʎju# | 62 : [+lat] > ʎ / __ j
+#kˌɔɾd̪ˈɔʎu# | 73 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#kˌɔrðˈɔʎu# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#kˌɔrðˈoʎu# | 104 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#kwerðˈoʎu# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#kɣʷerðˈoʎu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kɣʷerðˈod͡ʒu# | 117 : ʎ > d͡ʒ 
+#kɣʷerðˈoʒu# | 118 : d͡ʒ > ʒ 
+#kɣʷeðˈoʒu# | 126 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#kɣʷðˈoʒu# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kxʷðˈoʒu# | 129 : [-son] > [-voi] / [-voi] __ 
+#kwðˈoʒu# | 167 : [+lab,+cons] > w / __ [-son]
+#kwðˈoʃu# | 171 : [+strid] > [-voi] 
+#kwðˈoxu# | 173 : ʃ > x 
+Final form : #kwðˈoxu#

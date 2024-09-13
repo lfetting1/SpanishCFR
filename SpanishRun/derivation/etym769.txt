@@ -1,12 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :769:
-#pˌiɡmˈen̪t̪um# >>> #pˌeʝmˈen̪t͡ʃo# ( GOLD : #pimjˈen̪t̪o#) :
-p ˌi ɡ m ˈe n̪ t̪ u m 
-#pˌiɡmˈeːn̪t̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#pˌiɡmˈeːn̪t̪u# | 27 : [+nas] > ∅ / [-stres] __ #
-#pˌiɣmˈeːn̪t̪u# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˌeɣmˈeːn̪t̪o# | 45 : [+syl,-long] > [-hi] 
-#pˌeɣmˈen̪t̪o# | 46 : [+syl,+long] > [-long,-splng] 
-#pˌejmˈen̪t̪o# | 58 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#pˌeʝmˈen̪t̪o# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#pˌeʝmˈen̪t͡ʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-Final form : #pˌeʝmˈen̪t͡ʃo#
+#kˈibum# >>> #θˈeβo# ( GOLD : #θˈebo#) :
+k ˈi b u m 
+#kˈibu# | 27 : [+nas] > ∅ / [-stres] __ #
+#kˈebo# | 45 : [+syl,-long] > [-hi] 
+#kjˈebo# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈebo# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˈeβo# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#t͡sjˈeβo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjˈevo# | 98 : β > v 
+#t͡sʝˈevo# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sʝˈeβo# | 116 : {v;f} > {β;ɸ} 
+#t͡sçˈeβo# | 129 : [-son] > [-voi] / [-voi] __ 
+#t͡sˈeβo# | 156 : [-son] > ∅ / [+delrel] __ 
+#sˈeβo# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#θˈeβo# | 174 : s > θ / __ [-cons]
+Final form : #θˈeβo#

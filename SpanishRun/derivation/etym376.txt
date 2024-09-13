@@ -1,23 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :376:
-#kˌapsˈeola# >>> #ʃ̪ˌixçˈʊla# ( GOLD : #kaxwˈela#) :
-k ˌa p s ˈe o l a 
-#kˌapseˈola# | 37 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#kˌapseˈɔla# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌapsejˈɔla# | 51 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#kˌapsijˈɔla# | 55 : e > i / __ j
-#kˌassijˈɔla# | 64 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
-#kjˌassijˈɔla# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌassijˈɔla# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃ̪jˌassijˈɔla# | 100 : [+strid,-cont] > [-hi,+ant] 
-#t͡ʃ̪jˌassijˈʊla# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
-#t͡ʃ̪jˌessijˈʊla# | 109 : [+syl] > [-lo] / j __ [-son]
-#t͡ʃ̪jˌessiʝˈʊla# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#t͡ʃ̪jˌesiʝˈʊla# | 137 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
-#t͡ʃ̪jˌesʝˈʊla# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#t͡ʃ̪jˌesçˈʊla# | 140 : [-son] > [-voi] / [-voi] __ 
-#t͡ʃ̪jˌeʃçˈʊla# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#t͡ʃ̪jˌiʃçˈʊla# | 175 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
-#t͡ʃ̪ˌiʃçˈʊla# | 177 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ʃ̪ˌiʃçˈʊla# | 181 : [+strid,+ant] > [+cont,0delrel] 
-#ʃ̪ˌixçˈʊla# | 184 : ʃ > x 
-Final form : #ʃ̪ˌixçˈʊla#
+#pˌun̪kt̪iˈaːre# >>> #pwˌit͡ʃeˈar# ( GOLD : #pun̪θˈaɾ#) :
+p ˌu n̪ k t̪ i ˈaː r e 
+#pˌuːn̪kt̪iˈaːre# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#pˌuːŋkt̪iˈaːre# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#pˌuːŋt̪iˈaːre# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#pˌuːŋt̪eˈaːre# | 45 : [+syl,-long] > [-hi] 
+#pˌuŋt̪eˈare# | 46 : [+syl,+long] > [-long,-splng] 
+#pˌujt̪eˈare# | 58 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#pˌujt͡ʃeˈare# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#pwˌit͡ʃeˈare# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#pwˌit͡ʃeˈar# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+Final form : #pwˌit͡ʃeˈar#

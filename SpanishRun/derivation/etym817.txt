@@ -1,16 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :817:
-#rˌekit̪ˈaːre# >>> #rˌiʃ̪e̯jet͡ʃˈar# ( GOLD : #reθˈaɾ#) :
-r ˌe k i t̪ ˈaː r e 
-#rˌɛkit̪ˈaːre# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#rˌɛket̪ˈaːre# | 45 : [+syl,-long] > [-hi] 
-#rˌɛket̪ˈare# | 46 : [+syl,+long] > [-long,-splng] 
-#rˌɛkjet̪ˈare# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#rˌɛt͡ʃjet̪ˈare# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#rˌɛt͡ʃe̯jet̪ˈare# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#rˌɛt͡ʃ̪e̯jet̪ˈare# | 100 : [+strid,-cont] > [-hi,+ant] 
-#rˌet͡ʃ̪e̯jet̪ˈare# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#rˌet͡ʃ̪e̯jet͡ʃˈare# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#rˌet͡ʃ̪e̯jet͡ʃˈar# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#rˌit͡ʃ̪e̯jet͡ʃˈar# | 163 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#rˌiʃ̪e̯jet͡ʃˈar# | 181 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #rˌiʃ̪e̯jet͡ʃˈar#
+#kˈin̪kt̪a# >>> #θˈit͡ʃa# ( GOLD : #θˈin̪t̪a#) :
+k ˈi n̪ k t̪ a 
+#kˈiːn̪kt̪a# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˈiːŋkt̪a# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#kˈiːŋt̪a# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#kˈiŋt̪a# | 46 : [+syl,+long] > [-long,-splng] 
+#kˈijt̪a# | 58 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#kjˈijt̪a# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈijt̪a# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡sjˈijt̪a# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sʝˈijt̪a# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sçˈijt̪a# | 129 : [-son] > [-voi] / [-voi] __ 
+#t͡sçˈijt͡ʃa# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#t͡sçˈit͡ʃa# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#t͡sˈit͡ʃa# | 156 : [-son] > ∅ / [+delrel] __ 
+#sˈit͡ʃa# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#θˈit͡ʃa# | 174 : s > θ / __ [-cons]
+Final form : #θˈit͡ʃa#

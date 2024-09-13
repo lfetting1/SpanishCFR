@@ -1,14 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :13:
-#bˈallˈist̪a# >>> #ˈaɣʷlˈet͡ʃa# ( GOLD : #baʝˈest̪a#) :
-b ˈa l l ˈi s t̪ a 
-#bˈallˈis̪t̪a# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#bˈallˈes̪t̪a# | 45 : [+syl,-long] > [-hi] 
-#βˈallˈes̪t̪a# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˈallˈes̪t̪a# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˈawlˈes̪t̪a# | 98 : [+lat] > w / [+lo] __ 
-#ˈaɣʷlˈes̪t̪a# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˈaɣʷʎˈes̪t̪a# | 132 : [+lat] > ʎ / [-son] __ 
-#ˈaɣʷlˈes̪t̪a# | 138 : ʎ > l / [+cons,+voi] __ 
-#ˈaɣʷlˈes̪t͡ʃa# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#ˈaɣʷlˈet͡ʃa# | 166 : [-son] > ∅ / __ [+delrel]
-Final form : #ˈaɣʷlˈet͡ʃa#
+#ˌad̪wˌeːrifikˈaːre# >>> #ˌazβˌerθe̯ʝˈar# ( GOLD : #abeɾiɡwˈaɾ#) :
+ˌa d̪ w ˌeː r i f i k ˈaː r e 
+#ˌad̪ɣʷˌeːrifikˈaːre# | 17 : w > ɣʷ / __ [+syl]
+#ˌad̪βˌeːrifikˈaːre# | 32 : ɣʷ > β 
+#ˌad̪βˌeːrefekˈaːre# | 45 : [+syl,-long] > [-hi] 
+#ˌad̪βˌerefekˈare# | 46 : [+syl,+long] > [-long,-splng] 
+#ˌad̪βˌerefekjˈare# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌad̪βˌerefet͡ʃjˈare# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌad̪βˌerefet͡ʃe̯jˈare# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#ˌaðβˌerefet͡ʃe̯jˈare# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌaðβˌerevet͡ʃe̯jˈare# | 91 : [+cont] > [+voi] / [-cons] __ [+son]
+#ˌaðβˌerevet͡se̯jˈare# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌaðvˌerevet͡se̯jˈare# | 98 : β > v 
+#ˌaðvˌerevet͡se̯ʝˈare# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌaðβˌereβet͡se̯ʝˈare# | 116 : {v;f} > {β;ɸ} 
+#ˌaðβˌerβt͡se̯ʝˈare# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌaðβˌerβt͡se̯ʝˈar# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌaðβˌert͡se̯ʝˈar# | 155 : [-son] > ∅ / __ [+delrel]
+#ˌaðβˌerse̯ʝˈar# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#ˌazβˌerse̯ʝˈar# | 172 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#ˌazβˌerθe̯ʝˈar# | 174 : s > θ / __ [-cons]
+Final form : #ˌazβˌerθe̯ʝˈar#

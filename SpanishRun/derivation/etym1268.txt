@@ -1,13 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1268:
-#ˌimˈaːɡin̪em# >>> #ˌemˈaxjen̪# ( GOLD : #imˈaxen̪#) :
-ˌi m ˈaː ɡ i n̪ e m 
-#ˌimˈaːɡin̪e# | 27 : [+nas] > ∅ / [-stres] __ #
-#ˌemˈaːɡen̪e# | 45 : [+syl,-long] > [-hi] 
-#ˌemˈaɡen̪e# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌemˈaɡjen̪e# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌemˈad͡ʒjen̪e# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌemˈaʒjen̪e# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌemˈaʒjen̪# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ˌemˈaʃjen̪# | 182 : [+strid] > [-voi] 
-#ˌemˈaxjen̪# | 184 : ʃ > x 
-Final form : #ˌemˈaxjen̪#
+#ɡˌin̪ɡˈiːwam# >>> #xʝˌexʝˈia# ( GOLD : #en̪θˈia#) :
+ɡ ˌi n̪ ɡ ˈiː w a m 
+#ɡˌiːn̪ɡˈiːwam# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ɡˌiːŋɡˈiːwam# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ɡˌiːŋɡˈiːɣʷam# | 17 : w > ɣʷ / __ [+syl]
+#ɡˌiːŋɡˈiːɣʷa# | 27 : [+nas] > ∅ / [-stres] __ #
+#ɡˌiːŋɡˈiːβa# | 32 : ɣʷ > β 
+#ɡˌiŋɡˈiβa# | 46 : [+syl,+long] > [-long,-splng] 
+#ɡjˌiŋɡjˈiβa# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˌiŋd͡ʒjˈiβa# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ʒjˌiŋʒjˈiβa# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ʒjˌiŋʒjˈia# | 90 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#ʒjˌijʒjˈia# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ʒʝˌijʒʝˈia# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʒʝˌiʒʝˈia# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ʒʝˌeʒʝˈia# | 154 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#ʃʝˌeʃʝˈia# | 171 : [+strid] > [-voi] 
+#xʝˌexʝˈia# | 173 : ʃ > x 
+Final form : #xʝˌexʝˈia#

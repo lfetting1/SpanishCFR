@@ -1,14 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :951:
-#sˌoːlit̪ˈaːrius# >>> #ʎt͡ʃˈarjux# ( GOLD : #solt̪ˈeɾo#) :
-s ˌoː l i t̪ ˈaː r i u s 
-#slit̪ˈaːrius# | 26 : [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas]
-#slit̪ˈaːriuːs# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
-#slit̪ˈaːrjuːs# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#slet̪ˈaːrjuːs# | 45 : [+syl,-long] > [-hi] 
-#slet̪ˈarjus# | 46 : [+syl,+long] > [-long,-splng] 
-#sʎet̪ˈarjus# | 132 : [+lat] > ʎ / [-son] __ 
-#ʎet̪ˈarjus# | 133 : [+cons,-voi] > ∅ / # __ [+lat]
-#ʎt̪ˈarjus# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ʎt͡ʃˈarjuʃ# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#ʎt͡ʃˈarjux# | 184 : ʃ > x 
-Final form : #ʎt͡ʃˈarjux#
+#kˈulkit̪am# >>> #kwˈeθa# ( GOLD : #kˈolt͡ʃa#) :
+k ˈu l k i t̪ a m 
+#kˈulkit̪a# | 27 : [+nas] > ∅ / [-stres] __ #
+#kˈolket̪a# | 45 : [+syl,-long] > [-hi] 
+#kˈolkjet̪a# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#kˈolt͡ʃjet̪a# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˈojt͡ʃjet̪a# | 93 : [+lat] > j / [+back] __ [+cons]
+#kˈojt͡sjet̪a# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˈojt͡sʝet̪a# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kˈojt͡sʝt̪a# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kˈojt͡sçt̪a# | 129 : [-son] > [-voi] / [-voi] __ 
+#kˈojt͡sçt͡ʃa# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#kwˈet͡sçt͡ʃa# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kwˈet͡st͡ʃa# | 155 : [-son] > ∅ / __ [+delrel]
+#kwˈet͡sa# | 156 : [-son] > ∅ / [+delrel] __ 
+#kwˈesa# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#kwˈeθa# | 174 : s > θ / __ [-cons]
+Final form : #kwˈeθa#

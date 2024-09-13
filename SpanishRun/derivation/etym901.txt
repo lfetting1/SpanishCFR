@@ -1,13 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :901:
-#sˈiɡn̪a# >>> #xˈee# ( GOLD : #sˈeɲa#) :
-s ˈi ɡ n̪ a 
-#sˈiɣn̪a# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#sˈeɣn̪a# | 45 : [+syl,-long] > [-hi] 
-#sˈejn̪a# | 58 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#sˈejɲa# | 59 : [+nas,+cor] > ɲ / j __ 
-#sˈeɲa# | 74 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
-#sˈeɲe# | 111 : [+front,+syl] > [-lo] / [+syl] [+voi,+hi,+front,+cont] __ 
-#sˈee# | 121 : [+hi,+front,-strid,+cons,+cont] > ∅ / [+syl,+front] __ [+syl]
-#ʃˈee# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#xˈee# | 184 : ʃ > x 
-Final form : #xˈee#
+#sˌapˈoːrem# >>> #xˌapˈor# ( GOLD : #sabˈoɾ#) :
+s ˌa p ˈoː r e m 
+#sˌapˈoːre# | 27 : [+nas] > ∅ / [-stres] __ #
+#sˌapˈore# | 46 : [+syl,+long] > [-long,-splng] 
+#ʃˌapˈore# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#ʃˌapˈor# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#xˌapˈor# | 173 : ʃ > x 
+Final form : #xˌapˈor#

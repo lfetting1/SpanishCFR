@@ -1,18 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1061:
-#wˌiːɡˈin̪t̪i# >>> #ˌexˈin̪t͡ʃe# ( GOLD : #bˈejn̪t̪e#) :
-w ˌiː ɡ ˈi n̪ t̪ i 
-#wˌiːɡˈiːn̪t̪i# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ɣʷˌiːɡˈiːn̪t̪i# | 17 : w > ɣʷ / __ [+syl]
-#βˌiːɡˈiːn̪t̪i# | 32 : ɣʷ > β 
-#βˌiːɡˈiːn̪t̪e# | 45 : [+syl,-long] > [-hi] 
-#βˌiɡˈin̪t̪e# | 46 : [+syl,+long] > [-long,-splng] 
-#βˌiɡjˈin̪t̪e# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌid͡ʒjˈin̪t̪e# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌiʒjˈin̪t̪e# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌiʒjˈin̪t̪e# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˌiʒjˈin̪t͡ʃe# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#ˌiʒˈin̪t͡ʃe# | 148 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ˌeʒˈin̪t͡ʃe# | 165 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#ˌeʃˈin̪t͡ʃe# | 182 : [+strid] > [-voi] 
-#ˌexˈin̪t͡ʃe# | 184 : ʃ > x 
-Final form : #ˌexˈin̪t͡ʃe#
+#lˈaksius# >>> #lˈixxx# ( GOLD : #lˈexos#) :
+l ˈa k s i u s 
+#lˈaxsius# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#lˈaxsjus# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#lˈaxsjos# | 45 : [+syl,-long] > [-hi] 
+#lˈajsjos# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#lˈajsjus# | 101 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
+#lˈajsʝus# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#lˈajsʒus# | 120 : ʝ > ʒ / [-syl] __ [+round]
+#lˈajsʒs# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#lˈajsʃs# | 129 : [-son] > [-voi] / [-voi] __ 
+#lˈejsʃs# | 130 : [+syl,+lo] > [-lo,αback] / __ [-cons,-syl,αback]
+#lˈejʃʃʃ# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#ljˈeʃʃʃ# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ljˈiʃʃʃ# | 164 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#lˈiʃʃʃ# | 166 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#lˈixxx# | 173 : ʃ > x 
+Final form : #lˈixxx#

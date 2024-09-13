@@ -1,15 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :398:
-#kˌepˈulla# >>> #ʃ̪jˌepˈoʝla# ( GOLD : #θebˈoʝa#) :
-k ˌe p ˈu l l a 
-#kˌɛpˈulla# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɛpˈolla# | 45 : [+syl,-long] > [-hi] 
-#kjˌɛpˈolla# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌɛpˈolla# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˌɛpˈojla# | 99 : [+lat] > j / [+back] __ [+cons]
-#t͡ʃ̪jˌɛpˈojla# | 100 : [+strid,-cont] > [-hi,+ant] 
-#t͡ʃ̪jˌepˈojla# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#t͡ʃ̪jˌepˈoʝla# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#t͡ʃ̪jˌepˈoʝʎa# | 132 : [+lat] > ʎ / [-son] __ 
-#t͡ʃ̪jˌepˈoʝla# | 138 : ʎ > l / [+cons,+voi] __ 
-#ʃ̪jˌepˈoʝla# | 181 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ʃ̪jˌepˈoʝla#
+#rˈet̪in̪a# >>> #rt͡ʃn̪a# ( GOLD : #rjˈen̪d̪a#) :
+r ˈe t̪ i n̪ a 
+#rˈɛt̪in̪a# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#rˈɛt̪en̪a# | 45 : [+syl,-long] > [-hi] 
+#rjet̪en̪a# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#rʝet̪en̪a# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#rʝt̪n̪a# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#rʝt͡ʃn̪a# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#rt͡ʃn̪a# | 155 : [-son] > ∅ / __ [+delrel]
+Final form : #rt͡ʃn̪a#

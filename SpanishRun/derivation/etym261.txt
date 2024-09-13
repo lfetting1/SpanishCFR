@@ -1,9 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :261:
-#kwˈiːn̪kwe# >>> #kˈiŋke# ( GOLD : #θˈin̪ko#) :
-k w ˈiː n̪ k w e 
-#kwˈiːŋkwe# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#kɣʷˈiːŋkɣʷe# | 17 : w > ɣʷ / __ [+syl]
-#kβˈiːŋkβe# | 32 : ɣʷ > β 
-#kβˈiŋkβe# | 46 : [+syl,+long] > [-long,-splng] 
-#kˈiŋke# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-Final form : #kˈiŋke#
+#ˌimpˈosit̪um# >>> #ˌiwwt͡ʃo# ( GOLD : #impwˈest̪o#) :
+ˌi m p ˈo s i t̪ u m 
+#ˌiːmpˈosit̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ˌiːmpˈosit̪u# | 27 : [+nas] > ∅ / [-stres] __ #
+#ˌiːmpˈɔsit̪u# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌiːmpˈɔset̪o# | 45 : [+syl,-long] > [-hi] 
+#ˌimpˈɔset̪o# | 46 : [+syl,+long] > [-long,-splng] 
+#ˌimpˈɔzet̪o# | 91 : [+cont] > [+voi] / [-cons] __ [+son]
+#ˌimpwezet̪o# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ˌimpɣʷezet̪o# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌimpɣʷzt̪o# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌimpxʷzt̪o# | 129 : [-son] > [-voi] / [-voi] __ 
+#ˌimwxʷzt̪o# | 131 : [+cons,+lab] > w / __ [+back,+cons]
+#ˌimwxʷzt͡ʃo# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#ˌimxʷzt͡ʃo# | 134 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#ˌimxʷt͡ʃo# | 155 : [-son] > ∅ / __ [+delrel]
+#ˌiwwt͡ʃo# | 167 : [+lab,+cons] > w / __ [-son]
+Final form : #ˌiwwt͡ʃo#

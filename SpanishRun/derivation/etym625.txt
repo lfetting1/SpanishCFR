@@ -1,8 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :625:
-#mˌon̪ˈeːt̪a# >>> #mwˌen̪ˈet͡ʃa# ( GOLD : #mon̪ˈed̪a#) :
-m ˌo n̪ ˈeː t̪ a 
-#mˌɔn̪ˈeːt̪a# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˌɔn̪ˈet̪a# | 46 : [+syl,+long] > [-long,-splng] 
-#mwˌen̪ˈet̪a# | 117 : ˌɔ > w ˌe 
-#mwˌen̪ˈet͡ʃa# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-Final form : #mwˌen̪ˈet͡ʃa#
+#mˌemˈoriam# >>> #wʝɣʷrea# ( GOLD : #memˈoɾja#) :
+m ˌe m ˈo r i a m 
+#mˌemˈoria# | 27 : [+nas] > ∅ / [-stres] __ #
+#mˌemˈoriaː# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#mˌɛmˈɔriaː# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˌɛmˈɔreaː# | 45 : [+syl,-long] > [-hi] 
+#mˌɛmˈɔrea# | 46 : [+syl,+long] > [-long,-splng] 
+#mjemwerea# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#mʝemɣʷerea# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#mʝmɣʷrea# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#mʝwɣʷrea# | 131 : [+cons,+lab] > w / __ [+back,+cons]
+#mʝɣʷrea# | 134 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#wʝɣʷrea# | 167 : [+lab,+cons] > w / __ [-son]
+Final form : #wʝɣʷrea#

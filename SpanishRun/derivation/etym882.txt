@@ -1,11 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :882:
-#sˈekst̪a# >>> #xjˈet͡ʃa# ( GOLD : #sjˈest̪a#) :
-s ˈe k s t̪ a 
-#sˈeks̪t̪a# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#sˈes̪t̪a# | 31 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
-#sˈɛs̪t̪a# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sjˈes̪t̪a# | 113 : ˈɛ > j ˈe 
-#ʃjˈes̪t͡ʃa# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#ʃjˈet͡ʃa# | 166 : [-son] > ∅ / __ [+delrel]
-#xjˈet͡ʃa# | 184 : ʃ > x 
-Final form : #xjˈet͡ʃa#
+#kˈampum# >>> #θˈawpo# ( GOLD : #kˈampo#) :
+k ˈa m p u m 
+#kˈaːmpum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˈaːmpu# | 27 : [+nas] > ∅ / [-stres] __ #
+#kˈaːmpo# | 45 : [+syl,-long] > [-hi] 
+#kˈampo# | 46 : [+syl,+long] > [-long,-splng] 
+#kjˈampo# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈampo# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡sjˈampo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sʝˈampo# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sçˈampo# | 129 : [-son] > [-voi] / [-voi] __ 
+#t͡sˈampo# | 156 : [-son] > ∅ / [+delrel] __ 
+#t͡sˈawpo# | 167 : [+lab,+cons] > w / __ [-son]
+#sˈawpo# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#θˈawpo# | 174 : s > θ / __ [-cons]
+Final form : #θˈawpo#

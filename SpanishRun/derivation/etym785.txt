@@ -1,15 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :785:
-#rubeum# >>> #rβjo# ( GOLD : #rˈubjo#) :
-r u b e u m 
-#rubeu# | 27 : [+nas] > ∅ / [-stres] __ #
-#rubeuː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
-#rubjuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#robjuː# | 45 : [+syl,-long] > [-hi] 
-#robju# | 46 : [+syl,+long] > [-long,-splng] 
-#roβju# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#rovju# | 104 : β > v 
-#ruvju# | 108 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
-#ruvjo# | 126 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
-#ruβjo# | 127 : {v;f} > {β;ɸ} 
-#rβjo# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-Final form : #rβjo#
+#bˈaːsium# >>> #βˈaθe̯xu# ( GOLD : #bˈeso#) :
+b ˈaː s i u m 
+#bˈaːsiu# | 27 : [+nas] > ∅ / [-stres] __ #
+#bˈaːsju# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#bˈaːsjo# | 45 : [+syl,-long] > [-hi] 
+#bˈasjo# | 46 : [+syl,+long] > [-long,-splng] 
+#bˈase̯jo# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#βˈase̯jo# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#βˈaze̯jo# | 91 : [+cont] > [+voi] / [-cons] __ [+son]
+#vˈaze̯jo# | 98 : β > v 
+#vˈaze̯ju# | 101 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
+#vˈaze̯ʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˈaze̯ʝu# | 116 : {v;f} > {β;ɸ} 
+#βˈaze̯ʒu# | 120 : ʝ > ʒ / [-syl] __ [+round]
+#βˈase̯ʃu# | 171 : [+strid] > [-voi] 
+#βˈase̯xu# | 173 : ʃ > x 
+#βˈaθe̯xu# | 174 : s > θ / __ [-cons]
+Final form : #βˈaθe̯xu#

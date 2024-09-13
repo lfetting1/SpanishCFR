@@ -1,14 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1254:
-#ˌaɡn̪ˈiːn̪um# >>> #ˌeˈin̪# ( GOLD : #aɲˈin̪o#) :
-ˌa ɡ n̪ ˈiː n̪ u m 
-#ˌaɡn̪ˈiːn̪u# | 27 : [+nas] > ∅ / [-stres] __ #
-#ˌaɣn̪ˈiːn̪u# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌaɣn̪ˈiːn̪o# | 45 : [+syl,-long] > [-hi] 
-#ˌaɣn̪ˈin̪o# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌajn̪ˈin̪o# | 58 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#ˌajɲˈin̪o# | 59 : [+nas,+cor] > ɲ / j __ 
-#ˌaɲˈin̪o# | 74 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
-#ˌeɲˈin̪o# | 106 : [+syl,+front,+tense] > [-lo] / __ ( [-syl] ) [+syl,+hi]
-#ˌeˈin̪o# | 121 : [+hi,+front,-strid,+cons,+cont] > ∅ / [+syl,+front] __ [+syl]
-#ˌeˈin̪# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #ˌeˈin̪#
+#fˈaskeːs# >>> #ˈasx# ( GOLD : #ˈaθes#) :
+f ˈa s k eː s 
+#fˈaskes# | 46 : [+syl,+long] > [-long,-splng] 
+#fˈaskjes# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#fˈast͡ʃjes# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fˈast͡sjes# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#fˈast͡sʝes# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɸˈast͡sʝes# | 116 : {v;f} > {β;ɸ} 
+#ɸˈast͡sʝs# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ɸˈast͡sçs# | 129 : [-son] > [-voi] / [-voi] __ 
+#ɸˈaʃt͡sçʃ# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#ɸˈat͡sçʃ# | 155 : [-son] > ∅ / __ [+delrel]
+#ɸˈat͡sʃ# | 156 : [-son] > ∅ / [+delrel] __ 
+#hˈat͡sʃ# | 160 : ɸ > h / __ [+syl]
+#ˈat͡sʃ# | 162 : h > ∅ 
+#ˈasʃ# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#ˈasx# | 173 : ʃ > x 
+Final form : #ˈasx#

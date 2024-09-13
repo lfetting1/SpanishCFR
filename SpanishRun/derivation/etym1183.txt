@@ -1,14 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1183:
-#ˌaffrˈakt̪um# >>> #ˌafrˈat͡ʃo# ( GOLD : #afɾet͡ʃo#) :
-ˌa f f r ˈa k t̪ u m 
-#ˌaffrˈakt̪u# | 27 : [+nas] > ∅ / [-stres] __ #
-#ˌaffrˈaxt̪u# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌaffrˈaxt̪o# | 45 : [+syl,-long] > [-hi] 
-#ˌaffrˈajt̪o# | 105 : [+cons,+back] > j / [+syl] __ [-back]
-#ˌaffrˈaʝt̪o# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌaɸɸrˈaʝt̪o# | 127 : {v;f} > {β;ɸ} 
-#ˌaɸrˈaʝt̪o# | 137 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
-#ˌaɸrˈaʝt͡ʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#ˌaɸrˈat͡ʃo# | 166 : [-son] > ∅ / __ [+delrel]
-#ˌafrˈat͡ʃo# | 172 : ɸ > f 
-Final form : #ˌafrˈat͡ʃo#
+#ˌimpˈulsat̪# >>> #ˌiwpwˈexa# ( GOLD : #empˈuxa#) :
+ˌi m p ˈu l s a t̪ 
+#ˌiːmpˈulsat̪# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ˌiːmpˈulsa# | 29 : [+cons,-cont] > ∅ / __ #
+#ˌiːmpˈolsa# | 45 : [+syl,-long] > [-hi] 
+#ˌimpˈolsa# | 46 : [+syl,+long] > [-long,-splng] 
+#ˌimpˈojsa# | 93 : [+lat] > j / [+back] __ [+cons]
+#ˌimpˈojʃa# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#ˌimpwˈeʃa# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ˌiwpwˈeʃa# | 167 : [+lab,+cons] > w / __ [-son]
+#ˌiwpwˈexa# | 173 : ʃ > x 
+Final form : #ˌiwpwˈexa#

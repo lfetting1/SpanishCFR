@@ -1,19 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :389:
-#kˌast̪ˈellum# >>> #ʃ̪jˌet͡ʃˈiʎo# ( GOLD : #kast̪ˈiʝo#) :
-k ˌa s t̪ ˈe l l u m 
-#kˌas̪t̪ˈellum# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#kˌas̪t̪ˈellu# | 27 : [+nas] > ∅ / [-stres] __ #
-#kˌas̪t̪ˈɛllu# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌas̪t̪ˈɛllo# | 45 : [+syl,-long] > [-hi] 
-#kjˌas̪t̪ˈɛllo# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌas̪t̪ˈɛllo# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃ̪jˌas̪t̪ˈɛllo# | 100 : [+strid,-cont] > [-hi,+ant] 
-#t͡ʃ̪jˌes̪t̪ˈɛllo# | 109 : [+syl] > [-lo] / j __ [-son]
-#t͡ʃ̪jˌes̪t̪jˈello# | 113 : ˈɛ > j ˈe 
-#t͡ʃ̪jˌes̪t̪jˈeʎo# | 136 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#t͡ʃ̪jˌes̪t͡ʃjˈeʎo# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#t͡ʃ̪jˌet͡ʃjˈeʎo# | 166 : [-son] > ∅ / __ [+delrel]
-#t͡ʃ̪jˌet͡ʃjˈiʎo# | 174 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-#t͡ʃ̪jˌet͡ʃˈiʎo# | 177 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ʃ̪jˌet͡ʃˈiʎo# | 181 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ʃ̪jˌet͡ʃˈiʎo#
+#kwˌiet̪ˈaːre# >>> #kwt͡ʃˈar# ( GOLD : #ked̪ˈaɾ#) :
+k w ˌi e t̪ ˈaː r e 
+#kɣʷˌiet̪ˈaːre# | 17 : w > ɣʷ / __ [+syl]
+#kβˌiet̪ˈaːre# | 32 : ɣʷ > β 
+#kβiˈet̪ˈaːre# | 37 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kβiˈɛt̪ˈaːre# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kβeˈɛt̪ˈaːre# | 45 : [+syl,-long] > [-hi] 
+#kβeˈɛt̪ˈare# | 46 : [+syl,+long] > [-long,-splng] 
+#kβˈɛt̪ˈare# | 63 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
+#kvˈɛt̪ˈare# | 98 : β > v 
+#kvjet̪ˈare# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#kvʝet̪ˈare# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kβʝet̪ˈare# | 116 : {v;f} > {β;ɸ} 
+#kβʝt̪ˈare# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kɸʝt̪ˈare# | 129 : [-son] > [-voi] / [-voi] __ 
+#kɸʝt͡ʃˈare# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#kɸʝt͡ʃˈar# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#kɸt͡ʃˈar# | 155 : [-son] > ∅ / __ [+delrel]
+#kft͡ʃˈar# | 161 : ɸ > f 
+#kwt͡ʃˈar# | 167 : [+lab,+cons] > w / __ [-son]
+Final form : #kwt͡ʃˈar#

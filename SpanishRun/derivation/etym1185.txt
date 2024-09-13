@@ -1,23 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1185:
-#ˌaffˌikt̪iˈoːn̪em# >>> #ˌaˌet͡ʃˈun̪# ( GOLD : #afiθjˈon̪#) :
-ˌa f f ˌi k t̪ i ˈoː n̪ e m 
-#ˌaffˌikt̪iˈoːn̪e# | 27 : [+nas] > ∅ / [-stres] __ #
-#ˌaffˌixt̪iˈoːn̪e# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌaffˌext̪eˈoːn̪e# | 45 : [+syl,-long] > [-hi] 
-#ˌaffˌext̪eˈon̪e# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌaffˌext̪ejˈon̪e# | 51 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˌaffˌext̪ijˈon̪e# | 55 : e > i / __ j
-#ˌaffˌejt̪ijˈon̪e# | 105 : [+cons,+back] > j / [+syl] __ [-back]
-#ˌaffˌejt̪ijˈun̪e# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
-#ˌaffˌeʝt̪iʝˈun̪e# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌaɸɸˌeʝt̪iʝˈun̪e# | 127 : {v;f} > {β;ɸ} 
-#ˌaɸˌeʝt̪iʝˈun̪e# | 137 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
-#ˌaɸˌeʝt̪ʝˈun̪e# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌaɸˌeʝt̪çˈun̪e# | 140 : [-son] > [-voi] / [-voi] __ 
-#ˌaɸˌeʝt͡ʃçˈun̪e# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#ˌaɸˌeʝt͡ʃçˈun̪# | 161 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ˌaɸˌet͡ʃçˈun̪# | 166 : [-son] > ∅ / __ [+delrel]
-#ˌaɸˌet͡ʃˈun̪# | 167 : [-son] > ∅ / [+delrel] __ 
-#ˌahˌet͡ʃˈun̪# | 171 : ɸ > h / __ [+syl]
-#ˌaˌet͡ʃˈun̪# | 173 : h > ∅ 
-Final form : #ˌaˌet͡ʃˈun̪#
+#kˌuskˈulium# >>> #kˌuxkˈuxu# ( GOLD : #koskˈoxo#) :
+k ˌu s k ˈu l i u m 
+#kˌuskˈuliu# | 27 : [+nas] > ∅ / [-stres] __ #
+#kˌuskˈuliuː# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#kˌuskˈuljuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˌoskˈoljuː# | 45 : [+syl,-long] > [-hi] 
+#kˌoskˈolju# | 46 : [+syl,+long] > [-long,-splng] 
+#kˌoskˈoʎju# | 62 : [+lat] > ʎ / __ j
+#kˌoskˈoʎu# | 73 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#kˌoskˈuʎu# | 87 : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]
+#kˌuskˈuʎu# | 102 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
+#kˌuskˈud͡ʒu# | 117 : ʎ > d͡ʒ 
+#kˌuskˈuʒu# | 118 : d͡ʒ > ʒ 
+#kˌuʃkˈuʒu# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#kˌuʃkˈuʃu# | 171 : [+strid] > [-voi] 
+#kˌuxkˈuxu# | 173 : ʃ > x 
+Final form : #kˌuxkˈuxu#

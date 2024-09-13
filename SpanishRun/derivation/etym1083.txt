@@ -1,11 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1083:
-#ɡˈubia# >>> #ˈoe̯a# ( GOLD : #ɡˈubja#) :
-ɡ ˈu b i a 
-#ɡˈubiaː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
-#ɡˈobeaː# | 45 : [+syl,-long] > [-hi] 
-#ɡˈobea# | 46 : [+syl,+long] > [-long,-splng] 
-#ɣˈoβea# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˈoβea# | 91 : [-son,+voi,-strid,-ant,+hi] > ∅ / __ [+syl,-cons,-hi]
-#ˈoea# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˈoe̯a# | 103 : [+front,+syl,-stres] > [-syl,0stres,0prim] / [+syl,+back] __ 
-Final form : #ˈoe̯a#
+#fˈaskiam# >>> #ˈaθea# ( GOLD : #ˈaθa#) :
+f ˈa s k i a m 
+#fˈaskia# | 27 : [+nas] > ∅ / [-stres] __ #
+#fˈaskiaː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
+#fˈaskeaː# | 45 : [+syl,-long] > [-hi] 
+#fˈaskea# | 46 : [+syl,+long] > [-long,-splng] 
+#fˈaskjea# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#fˈast͡ʃjea# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fˈast͡sjea# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#fˈast͡sʝea# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɸˈast͡sʝea# | 116 : {v;f} > {β;ɸ} 
+#ɸˈast͡sçea# | 129 : [-son] > [-voi] / [-voi] __ 
+#ɸˈaʃt͡sçea# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#ɸˈat͡sçea# | 155 : [-son] > ∅ / __ [+delrel]
+#ɸˈat͡sea# | 156 : [-son] > ∅ / [+delrel] __ 
+#hˈat͡sea# | 160 : ɸ > h / __ [+syl]
+#ˈat͡sea# | 162 : h > ∅ 
+#ˈasea# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#ˈaθea# | 174 : s > θ / __ [-cons]
+Final form : #ˈaθea#

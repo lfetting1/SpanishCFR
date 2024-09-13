@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :473:
-#lˈen̪d̪in̪em# >>> #lˈen̪d̪ɾe# ( GOLD : #ljˈen̪d̪ɾe#) :
-l ˈe n̪ d̪ i n̪ e m 
-#lˈeːn̪d̪in̪em# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#lˈeːn̪d̪in̪e# | 27 : [+nas] > ∅ / [-stres] __ #
-#lˈeːn̪d̪en̪e# | 45 : [+syl,-long] > [-hi] 
-#lˈen̪d̪en̪e# | 46 : [+syl,+long] > [-long,-splng] 
-#lˈen̪ðen̪e# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#lˈen̪en̪e# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#lˈen̪n̪e# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#lˈen̪ɾe# | 179 : n̪ > ɾ / [+nas] __ 
-#lˈen̪d̪ɾe# | 180 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-Final form : #lˈen̪d̪ɾe#
+#ˌakwˈilam# >>> #jˌeβˈela# ( GOLD : #ˈaɡila#) :
+ˌa k w ˈi l a m 
+#ˌakɣʷˈilam# | 17 : w > ɣʷ / __ [+syl]
+#ˌakɣʷˈila# | 27 : [+nas] > ∅ / [-stres] __ #
+#ˌakβˈila# | 32 : ɣʷ > β 
+#ˌaxβˈila# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌaxβˈela# | 45 : [+syl,-long] > [-hi] 
+#ˌaxvˈela# | 98 : β > v 
+#ˌajvˈela# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˌajβˈela# | 116 : {v;f} > {β;ɸ} 
+#ˌejβˈela# | 130 : [+syl,+lo] > [-lo,αback] / __ [-cons,-syl,αback]
+#jˌeβˈela# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #jˌeβˈela#

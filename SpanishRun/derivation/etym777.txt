@@ -1,9 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :777:
-#pˌot̪ˈen̪t̪e# >>> #pwˌet͡ʃˈen̪t͡ʃe# ( GOLD : #pud̪jˈen̪t̪e#) :
-p ˌo t̪ ˈe n̪ t̪ e 
-#pˌot̪ˈeːn̪t̪e# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#pˌɔt̪ˈeːn̪t̪e# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌɔt̪ˈen̪t̪e# | 46 : [+syl,+long] > [-long,-splng] 
-#pwˌet̪ˈen̪t̪e# | 117 : ˌɔ > w ˌe 
-#pwˌet͡ʃˈen̪t͡ʃe# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-Final form : #pwˌet͡ʃˈen̪t͡ʃe#
+#pˈeːn̪sum# >>> #pˈeθo# ( GOLD : #pˈeso#) :
+p ˈeː n̪ s u m 
+#pˈeːnsum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#pˈeːnsu# | 27 : [+nas] > ∅ / [-stres] __ #
+#pˈeːsu# | 28 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+#pˈeːso# | 45 : [+syl,-long] > [-hi] 
+#pˈeso# | 46 : [+syl,+long] > [-long,-splng] 
+#pˈezo# | 91 : [+cont] > [+voi] / [-cons] __ [+son]
+#pˈeso# | 171 : [+strid] > [-voi] 
+#pˈeθo# | 174 : s > θ / __ [-cons]
+Final form : #pˈeθo#

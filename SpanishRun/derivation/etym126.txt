@@ -1,15 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :126:
-#fˈaskeːs# >>> #ˈaʃ̪jex# ( GOLD : #ˈaθes#) :
-f ˈa s k eː s 
-#fˈaskes# | 46 : [+syl,+long] > [-long,-splng] 
-#fˈaskjes# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#fˈast͡ʃjes# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#fˈast͡ʃ̪jes# | 100 : [+strid,-cont] > [-hi,+ant] 
-#ɸˈast͡ʃ̪jes# | 127 : {v;f} > {β;ɸ} 
-#ɸˈaʃt͡ʃ̪jeʃ# | 144 : {s;t̪} > {ʃ;t͡ʃ} 
-#ɸˈat͡ʃ̪jeʃ# | 166 : [-son] > ∅ / __ [+delrel]
-#hˈat͡ʃ̪jeʃ# | 171 : ɸ > h / __ [+syl]
-#ˈat͡ʃ̪jeʃ# | 173 : h > ∅ 
-#ˈaʃ̪jeʃ# | 181 : [+strid,+ant] > [+cont,0delrel] 
-#ˈaʃ̪jex# | 184 : ʃ > x 
-Final form : #ˈaʃ̪jex#
+#kˈawlem# >>> #θjˠˈol# ( GOLD : #kˈol#) :
+k ˈa w l e m 
+#kˈawle# | 27 : [+nas] > ∅ / [-stres] __ #
+#kjˈawle# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈawle# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡sjˈawle# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sʝˈawle# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sçˈawle# | 129 : [-son] > [-voi] / [-voi] __ 
+#t͡sçˈeˠwle# | 130 : [+syl,+lo] > [-lo,αback] / __ [-cons,-syl,αback]
+#t͡sçjˠˈole# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#t͡sçjˠˈol# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#t͡sjˠˈol# | 156 : [-son] > ∅ / [+delrel] __ 
+#sjˠˈol# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#θjˠˈol# | 174 : s > θ / __ [-cons]
+Final form : #θjˠˈol#
