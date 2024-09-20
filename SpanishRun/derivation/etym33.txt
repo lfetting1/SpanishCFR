@@ -1,9 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :33:
-#ˈɑmit̪es# >>> #ˈɑwsθ# ( GOLD : #ˌɑn̪d̪es#) :
-ˈɑ m i t̪ e s 
-#ˈɑmet̪es# | 43 : [+syl,-long] > [-hi] 
-#ˈɑmt̪s# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˈɑwt̪s# | 160 : [+lab,+cons] > w / __ [-son]
-#ˈɑwss# | 165 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#ˈɑwsθ# | 168 : s > θ / __ #
-Final form : #ˈɑwsθ#
+#bˌɑːsiˈɑːre# >>> #βˌɑθe̯ʝˈɯr# ( GOLD : #besˈɑɾ#) :
+b ˌɑː s i ˈɑː r e 
+#bˌɑːsjˈɑːre# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#bˌɑsjˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
+#bˌɑse̯jˈɑre# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#βˌɑse̯jˈɑre# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#βˌɑze̯jˈɑre# | 84 : [+cont] > [+voi] / [-cons] __ [+son]
+#vˌɑze̯jˈɑre# | 91 : β > v 
+#vˌɑze̯jˈɯre# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#vˌɑze̯ʝˈɯre# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˌɑze̯ʝˈɯre# | 109 : {v;f} > {β;ɸ} 
+#βˌɑze̯ʝˈɯr# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#βˌɑse̯ʝˈɯr# | 164 : [+strid] > [-voi] 
+#βˌɑθe̯ʝˈɯr# | 167 : s > θ / __ [-cons]
+Final form : #βˌɑθe̯ʝˈɯr#

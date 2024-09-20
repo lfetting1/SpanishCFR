@@ -1,11 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :340:
-#pˌɑt̪ˈellɑ# >>> #pˌɑsçʎɑ# ( GOLD : #pɑd̪ˈiʝɑ#) :
-p ˌɑ t̪ ˈe l l ɑ 
-#pˌɑt̪ˈɛllɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌɑt̪jellɑ# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#pˌɑt̪ʝellɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pˌɑt̪ʝeʎɑ# | 118 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#pˌɑt̪ʝʎɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pˌɑt̪çʎɑ# | 122 : [-son] > [-voi] / [-voi] __ 
-#pˌɑsçʎɑ# | 165 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #pˌɑsçʎɑ#
+#kˈursum# >>> #kˈoθo# ( GOLD : #kˈoso#) :
+k ˈu r s u m 
+#kˈursu# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˈussu# | 32 : r > s / __ s
+#kˈosso# | 43 : [+syl,-long] > [-hi] 
+#kˈoso# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#kˈoθo# | 167 : s > θ / __ [-cons]
+Final form : #kˈoθo#

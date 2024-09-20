@@ -1,8 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1028:
-#plˈɑn̪t̪ɑ# >>> #ʎˈɑn̪t̪ɑ# ( GOLD : #ʝˈɑn̪t̪ɑ#) :
-p l ˈɑ n̪ t̪ ɑ 
-#plˈɑːn̪t̪ɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#plˈɑn̪t̪ɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#pʎˈɑn̪t̪ɑ# | 114 : [+lat] > ʎ / [-son] __ 
-#ʎˈɑn̪t̪ɑ# | 115 : [+cons,-voi] > ∅ / # __ [+lat]
-Final form : #ʎˈɑn̪t̪ɑ#
+#t̪ˈurbid̪um# >>> #t̪ˈorwðo# ( GOLD : #t̪ˈuɾbjo#) :
+t̪ ˈu r b i d̪ u m 
+#t̪ˈurbid̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#t̪ˈorbed̪o# | 43 : [+syl,-long] > [-hi] 
+#t̪ˈoɾbed̪o# | 46 : r > ɾ / __ [+cons]
+#t̪ˈorβeðo# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#t̪ˈorveðo# | 91 : β > v 
+#t̪ˈorβeðo# | 109 : {v;f} > {β;ɸ} 
+#t̪ˈorβðo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t̪ˈorwðo# | 160 : [+lab,+cons] > w / __ [-son]
+Final form : #t̪ˈorwðo#

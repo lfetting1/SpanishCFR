@@ -1,9 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :988:
-#bˈɑrbɑm# >>> #βˈɑrβɑ# ( GOLD : #bˈɑɾbɑ#) :
-b ˈɑ r b ɑ m 
-#bˈɑrbɑ# | 25 : [+nas] > ∅ / [-stres] __ #
-#bˈɑɾbɑ# | 46 : r > ɾ / __ [+cons]
-#βˈɑrβɑ# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#vˈɑrvɑ# | 91 : β > v 
-#βˈɑrβɑ# | 109 : {v;f} > {β;ɸ} 
-Final form : #βˈɑrβɑ#
+#sˌɑn̪ɡwˈin̪eum# >>> #θˌɑŋɣβˈeɲu# ( GOLD : #sɑn̪ɡwˈeɲo#) :
+s ˌɑ n̪ ɡ w ˈi n̪ e u m 
+#sˌɑːn̪ɡwˈin̪eum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#sˌɑːŋɡwˈin̪eum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#sˌɑːŋɡɣʷˈin̪eum# | 17 : w > ɣʷ / __ [+syl]
+#sˌɑːŋɡɣʷˈin̪eu# | 25 : [+nas] > ∅ / [-stres] __ #
+#sˌɑːŋɡβˈin̪eu# | 30 : ɣʷ > β 
+#sˌɑːŋɡβˈin̪euː# | 34 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#sˌɑːŋɡβˈin̪juː# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#sˌɑːŋɡβˈen̪juː# | 43 : [+syl,-long] > [-hi] 
+#sˌɑŋɡβˈen̪ju# | 44 : [+syl,+long] > [-long,-splng] 
+#sˌɑŋɡβˈeɲju# | 53 : [+nas,+cor] > ɲ / __ j
+#sˌɑŋɡβˈeɲu# | 66 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#sˌɑŋɣβˈeɲu# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#sˌɑŋɣvˈeɲu# | 91 : β > v 
+#sˌɑŋɣβˈeɲu# | 109 : {v;f} > {β;ɸ} 
+#θˌɑŋɣβˈeɲu# | 167 : s > θ / __ [-cons]
+Final form : #θˌɑŋɣβˈeɲu#

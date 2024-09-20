@@ -1,11 +1,27 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :409:
-#sˈɑlt̪um# >>> #θˈot̪o# ( GOLD : #sˈot̪o#) :
-s ˈɑ l t̪ u m 
-#sˈɑl̪t̪um# | 5 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
-#sˈɑl̪t̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#sˈɑl̪t̪o# | 43 : [+syl,-long] > [-hi] 
-#sˈɑwt̪o# | 85 : [+lat] > w / [+lo] __ [+cons]
-#sˈowt̪o# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#sˈot̪o# | 128 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#θˈot̪o# | 167 : s > θ / __ [-cons]
-Final form : #θˈot̪o#
+#kˌon̪kˈilium# >>> #kwˌeθˈexu# ( GOLD : #kon̪θˈexo#) :
+k ˌo n̪ k ˈi l i u m 
+#kˌoːn̪kˈilium# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˌoːŋkˈilium# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#kˌoːŋkˈiliu# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˌoːŋkˈiliuː# | 34 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#kˌoːŋkˈiljuː# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#kˌoːŋkˈeljuː# | 43 : [+syl,-long] > [-hi] 
+#kˌoŋkˈelju# | 44 : [+syl,+long] > [-long,-splng] 
+#kˌoŋkˈeʎju# | 55 : [+lat] > ʎ / __ j
+#kˌoŋkjˈeʎju# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#kˌoŋt͡ʃjˈeʎju# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌoŋt͡ʃjˈeʎu# | 66 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#kˌoŋt͡sjˈeʎu# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌojt͡sjˈeʎu# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kˌojt͡sʝˈeʎu# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kˌojt͡sʝˈed͡ʒu# | 110 : ʎ > d͡ʒ 
+#kˌojt͡sʝˈeʒu# | 111 : d͡ʒ > ʒ 
+#kˌojt͡sçˈeʒu# | 122 : [-son] > [-voi] / [-voi] __ 
+#kwˌet͡sçˈeʒu# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kwˌet͡sˈeʒu# | 149 : [-son] > ∅ / [+delrel] __ 
+#kwˌesˈeʒu# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#kwˌesˈeʃu# | 164 : [+strid] > [-voi] 
+#kwˌesˈexu# | 166 : ʃ > x 
+#kwˌeθˈexu# | 167 : s > θ / __ [-cons]
+Final form : #kwˌeθˈexu#

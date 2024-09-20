@@ -1,13 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :913:
-#fˈɑɡeɑ# >>> #ˈɑʝɯ# ( GOLD : #ˈɑjɑ#) :
-f ˈɑ ɡ e ɑ 
-#fˈɑɡeɑː# | 33 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
-#fˈɑeɑː# | 38 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#fˈɑjɑː# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#fˈɑjɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#fˈɑjɯ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#fˈɑʝɯ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɸˈɑʝɯ# | 109 : {v;f} > {β;ɸ} 
-#hˈɑʝɯ# | 153 : ɸ > h / __ [+syl]
-#ˈɑʝɯ# | 155 : h > ∅ 
-Final form : #ˈɑʝɯ#
+#sˈerrɑ# >>> #esçrɑ# ( GOLD : #sjˈerɑ#) :
+s ˈe r r ɑ 
+#sˈɛrrɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˈɛrɑ# | 45 : r r > r 
+#sjerɑ# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#sʝerɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#sʝrɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#sçrɑ# | 122 : [-son] > [-voi] / [-voi] __ 
+#esçrɑ# | 172 : ∅ > e / # __ s [+cons]
+Final form : #esçrɑ#

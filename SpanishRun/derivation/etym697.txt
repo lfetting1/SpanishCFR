@@ -1,12 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :697:
-#pˈuɡn̪us# >>> #pˈuɲθ# ( GOLD : #pˈuɲo#) :
-p ˈu ɡ n̪ u s 
-#pˈuɣn̪us# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˈoɣn̪os# | 43 : [+syl,-long] > [-hi] 
-#pˈojn̪os# | 51 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#pˈojɲos# | 52 : [+nas,+cor] > ɲ / j __ 
-#pˈoɲos# | 67 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
-#pˈuɲos# | 80 : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]
-#pˈuɲs# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pˈuɲθ# | 168 : s > θ / __ #
-Final form : #pˈuɲθ#
+#plˈɑkeɑt̪# >>> #ʎˈɑθe̯ʝɯ# ( GOLD : #plˈeɡɑ#) :
+p l ˈɑ k e ɑ t̪ 
+#plˈɑkeɑ# | 27 : [+cons,-cont] > ∅ / __ #
+#plˈɑkeɑː# | 33 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
+#plˈɑkjɑː# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#plˈɑkjɑ# | 44 : [+syl,+long] > [-long,-splng] 
+#plˈɑt͡ʃjɑ# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#plˈɑt͡ʃe̯jɑ# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#plˈɑt͡se̯jɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#plˈɑt͡se̯jɯ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#plˈɑt͡se̯ʝɯ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pʎˈɑt͡se̯ʝɯ# | 114 : [+lat] > ʎ / [-son] __ 
+#ʎˈɑt͡se̯ʝɯ# | 115 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʎˈɑse̯ʝɯ# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#ʎˈɑθe̯ʝɯ# | 167 : s > θ / __ [-cons]
+Final form : #ʎˈɑθe̯ʝɯ#

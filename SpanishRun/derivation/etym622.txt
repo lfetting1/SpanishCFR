@@ -1,12 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :622:
-#mˌɑːiest̪ˈɑːt̪em# >>> #mˌɑʝst̪ˈɑt̪e# ( GOLD : #mɑxest̪ˈɑd̪#) :
-m ˌɑː i e s t̪ ˈɑː t̪ e m 
-#mˌɑːies̪t̪ˈɑːt̪em# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#mˌɑːies̪t̪ˈɑːt̪e# | 25 : [+nas] > ∅ / [-stres] __ #
-#mˌɑːjes̪t̪ˈɑːt̪e# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#mˌɑjes̪t̪ˈɑt̪e# | 44 : [+syl,+long] > [-long,-splng] 
-#mˌɑjis̪t̪ˈɑt̪e# | 99 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-#mˌɑʝis̪t̪ˈɑt̪e# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mˌɑʝs̪t̪ˈɑt̪e# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#mˌɑʝst̪ˈɑt̪e# | 165 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #mˌɑʝst̪ˈɑt̪e#
+#mˌeiˈɑːre# >>> #mˈiʝˈɯr# ( GOLD : #meˈɑɾ#) :
+m ˌe i ˈɑː r e 
+#meˈiˈɑːre# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#meˈeˈɑːre# | 43 : [+syl,-long] > [-hi] 
+#meˈeˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
+#meˈejˈɑre# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#meˈijˈɑre# | 50 : {ɛ;ˈɛ;ˌɛ;e;ˌe;ˈe} > {e;ˈe;ˌe;i;ˌi;ˈi} / __ j
+#mˈijˈɑre# | 56 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
+#mˈijˈɯre# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#mˈiʝˈɯre# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#mˈiʝˈɯr# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+Final form : #mˈiʝˈɯr#

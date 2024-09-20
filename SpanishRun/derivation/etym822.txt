@@ -1,9 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :822:
-#plˌikˈɑːre# >>> #ʎˌekˈɑr# ( GOLD : #ʝeɡˈɑɾ#) :
-p l ˌi k ˈɑː r e 
-#plˌekˈɑːre# | 43 : [+syl,-long] > [-hi] 
-#plˌekˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#pʎˌekˈɑre# | 114 : [+lat] > ʎ / [-son] __ 
-#ʎˌekˈɑre# | 115 : [+cons,-voi] > ∅ / # __ [+lat]
-#ʎˌekˈɑr# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #ʎˌekˈɑr#
+#rˈeɡn̪um# >>> #rˈeɲo# ( GOLD : #rˈejn̪o#) :
+r ˈe ɡ n̪ u m 
+#rˈeɡn̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#rˈeɣn̪u# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#rˈɛɣn̪u# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#rˈɛɣn̪o# | 43 : [+syl,-long] > [-hi] 
+#rˈɛjn̪o# | 51 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#rˈɛjɲo# | 52 : [+nas,+cor] > ɲ / j __ 
+#rˈɛɲo# | 67 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+#rˈeɲo# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+Final form : #rˈeɲo#

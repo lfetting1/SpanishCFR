@@ -1,17 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :522:
-#ˌeːrˈiːkium# >>> #ˌerˈiθe̯xu# ( GOLD : #eɾˈiθo#) :
-ˌeː r ˈiː k i u m 
-#ˌeːrˈiːkiu# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌeːrˈiːkiuː# | 33 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
-#ˌeːrˈiːkjuː# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#ˌerˈikju# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌerˈit͡ʃju# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌerˈit͡ʃe̯ju# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#ˌerˈit͡se̯ju# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌerˈit͡se̯ʝu# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌerˈit͡se̯ʒu# | 113 : ʝ > ʒ / [-syl] __ [+round]
-#ˌerˈise̯ʒu# | 163 : [+strid,+ant] > [+cont,0delrel] 
-#ˌerˈise̯ʃu# | 164 : [+strid] > [-voi] 
-#ˌerˈise̯xu# | 166 : ʃ > x 
-#ˌerˈiθe̯xu# | 167 : s > θ / __ [-cons]
-Final form : #ˌerˈiθe̯xu#
+#lˈɑn̪keɑ# >>> #ljˈeθɯ# ( GOLD : #lˈɑn̪θɑ#) :
+l ˈɑ n̪ k e ɑ 
+#lˈɑːn̪keɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#lˈɑːŋkeɑ# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#lˈɑːŋkeɑː# | 33 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
+#lˈɑːŋkjɑː# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#lˈɑŋkjɑ# | 44 : [+syl,+long] > [-long,-splng] 
+#lˈɑŋt͡ʃjɑ# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˈɑŋt͡sjɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lˈɑjt͡sjɑ# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#lˈɑjt͡sjɯ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#lˈɑjt͡sʝɯ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#lˈɑjt͡sçɯ# | 122 : [-son] > [-voi] / [-voi] __ 
+#lˈejt͡sçɯ# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ljˈet͡sçɯ# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ljˈet͡sɯ# | 149 : [-son] > ∅ / [+delrel] __ 
+#ljˈesɯ# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#ljˈeθɯ# | 167 : s > θ / __ [-cons]
+Final form : #ljˈeθɯ#

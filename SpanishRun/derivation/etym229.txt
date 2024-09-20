@@ -1,18 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :229:
-#fˈoliɑ# >>> #ˈoxɑ# ( GOLD : #ˈoxɑ#) :
-f ˈo l i ɑ 
-#fˈoliɑː# | 34 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
-#fˈoljɑː# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#fˈɔljɑː# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#fˈɔljɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#fˈɔʎjɑ# | 55 : [+lat] > ʎ / __ j
-#fˈɔʎɑ# | 66 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
-#fˈoʎɑ# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ɸˈoʎɑ# | 109 : {v;f} > {β;ɸ} 
-#ɸˈod͡ʒɑ# | 110 : ʎ > d͡ʒ 
-#ɸˈoʒɑ# | 111 : d͡ʒ > ʒ 
-#hˈoʒɑ# | 153 : ɸ > h / __ [+syl]
-#ˈoʒɑ# | 155 : h > ∅ 
-#ˈoʃɑ# | 164 : [+strid] > [-voi] 
-#ˈoxɑ# | 166 : ʃ > x 
-Final form : #ˈoxɑ#
+#iˈowis# >>> #jɣʷˈeθ# ( GOLD : #xwˈebes#) :
+i ˈo w i s 
+#iˈois# | 16 : w > ∅ / [+back,+syl] __ 
+#ioˈis# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#joˈis# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#jwˈis# | 40 : [+syl,-prim,-lo,+back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,-back]
+#jwˈes# | 43 : [+syl,-long] > [-hi] 
+#jɣʷˈes# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#jɣʷˈeθ# | 168 : s > θ / __ #
+Final form : #jɣʷˈeθ#

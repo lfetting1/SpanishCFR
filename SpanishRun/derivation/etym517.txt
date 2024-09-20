@@ -1,8 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :517:
-#d̪ˈen̪t̪em# >>> #ðˈen̪t̪e# ( GOLD : #d̪jˈen̪t̪e#) :
-d̪ ˈe n̪ t̪ e m 
-#d̪ˈeːn̪t̪em# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#d̪ˈeːn̪t̪e# | 25 : [+nas] > ∅ / [-stres] __ #
-#d̪ˈen̪t̪e# | 44 : [+syl,+long] > [-long,-splng] 
-#ðˈen̪t̪e# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-Final form : #ðˈen̪t̪e#
+#lˈɑkt̪e# >>> #ljˈet͡ʃe# ( GOLD : #lˈet͡ʃe#) :
+l ˈɑ k t̪ e 
+#lˈɑxt̪e# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#lˈɑjt̪e# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#lˈejt̪e# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#lˈejt͡ʃe# | 126 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ljˈet͡ʃe# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #ljˈet͡ʃe#

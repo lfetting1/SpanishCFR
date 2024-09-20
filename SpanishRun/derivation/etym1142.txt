@@ -1,9 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1142:
-#hˈumerum# >>> #ˈombro# ( GOLD : #ˈombɾo#) :
-h ˈu m e r u m 
-#ˈumerum# | 0 : h > ∅ 
-#ˈumeru# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˈomero# | 43 : [+syl,-long] > [-hi] 
-#ˈomro# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˈombro# | 162 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-Final form : #ˈombro#
+#ˈekwɑ# >>> #jˈeβɑ# ( GOLD : #jˈeɡwɑ#) :
+ˈe k w ɑ 
+#ˈekɣʷɑ# | 17 : w > ɣʷ / __ [+syl]
+#ˈekβɑ# | 30 : ɣʷ > β 
+#ˈexβɑ# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˈɛxβɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɛxvɑ# | 91 : β > v 
+#ˈɛjvɑ# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˈejvɑ# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ˈejβɑ# | 109 : {v;f} > {β;ɸ} 
+#jˈeβɑ# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #jˈeβɑ#

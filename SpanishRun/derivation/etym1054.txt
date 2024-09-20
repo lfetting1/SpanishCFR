@@ -1,12 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1054:
-#ˌɑlˈekrem# >>> #ˌɑljˈer# ( GOLD : #ɑlˈeɡɾe#) :
-ˌɑ l ˈe k r e m 
-#ˌɑlˈekre# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑlˈexre# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɑlˈɛxre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑlˈɛɣre# | 84 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌɑlˈɛjre# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌɑlˈejre# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌɑljˈere# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ˌɑljˈer# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #ˌɑljˈer#
+#wiːkiːn̪um# >>> #θe̯ʝn̪o# ( GOLD : #beθˈin̪o#) :
+w iː k iː n̪ u m 
+#ɣʷiːkiːn̪um# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷiːkiːn̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#βiːkiːn̪u# | 30 : ɣʷ > β 
+#βiːkiːn̪o# | 43 : [+syl,-long] > [-hi] 
+#βikin̪o# | 44 : [+syl,+long] > [-long,-splng] 
+#βikjin̪o# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βit͡ʃjin̪o# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βit͡ʃe̯jin̪o# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#βit͡se̯jin̪o# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vit͡se̯jin̪o# | 91 : β > v 
+#vit͡se̯ʝin̪o# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βit͡se̯ʝin̪o# | 109 : {v;f} > {β;ɸ} 
+#βt͡se̯ʝn̪o# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t͡se̯ʝn̪o# | 148 : [-son] > ∅ / __ [+delrel]
+#se̯ʝn̪o# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#θe̯ʝn̪o# | 167 : s > θ / __ [-cons]
+Final form : #θe̯ʝn̪o#

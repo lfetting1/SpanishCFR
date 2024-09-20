@@ -1,17 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :999:
-#ˌae̯kwˈɑːlem# >>> #jˌeβˈɑl# ( GOLD : #iɡwˈɑl#) :
-ˌa e̯ k w ˈɑː l e m 
-#ˌae̯kɣʷˈɑːlem# | 17 : w > ɣʷ / __ [+syl]
-#ˌɛjkɣʷˈɑːlem# | 20 : {a e̯;o e̯;ˈa e̯;ˈo e̯;ˌa e̯;ˌo e̯} > {ɛ j;e j;ˈɛ j;ˈe j;ˌɛ j;ˌe j} 
-#ˌejkɣʷˈɑːlem# | 21 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
-#ˌeːkɣʷˈɑːlem# | 22 : [+syl] j > [+syl,+long,+son,0delrel] ∅
-#ˌeːkɣʷˈɑːle# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌeːkβˈɑːle# | 30 : ɣʷ > β 
-#ˌeːxβˈɑːle# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌexβˈɑle# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌexvˈɑle# | 91 : β > v 
-#ˌejvˈɑle# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌejβˈɑle# | 109 : {v;f} > {β;ɸ} 
-#jˌeβˈɑle# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#jˌeβˈɑl# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #jˌeβˈɑl#
+#t̪rˈed̪ekim# >>> #t̪rˈeiθe̯ʝe# ( GOLD : #t̪ɾˈeθe#) :
+t̪ r ˈe d̪ e k i m 
+#t̪rˈed̪eki# | 25 : [+nas] > ∅ / [-stres] __ #
+#t̪rˈɛd̪eki# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#t̪rˈɛd̪eke# | 43 : [+syl,-long] > [-hi] 
+#t̪rˈɛd̪ekje# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t̪rˈɛd̪et͡ʃje# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t̪rˈɛd̪et͡ʃe̯je# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#t̪rˈɛðet͡ʃe̯je# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#t̪rˈɛet͡ʃe̯je# | 83 : [-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab]
+#t̪rˈɛet͡se̯je# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t̪rˈeet͡se̯je# | 98 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [-cons,-syl]
+#t̪rˈeet͡se̯ʝe# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t̪rˈeit͡se̯ʝe# | 145 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#t̪rˈeise̯ʝe# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#t̪rˈeiθe̯ʝe# | 167 : s > θ / __ [-cons]
+Final form : #t̪rˈeiθe̯ʝe#

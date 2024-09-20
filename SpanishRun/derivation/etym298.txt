@@ -1,9 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :298:
-#mˌɑɡˈist̪rum# >>> #mˌɑˈest̪ro# ( GOLD : #mɑˈest̪ɾo#) :
-m ˌɑ ɡ ˈi s t̪ r u m 
-#mˌɑɡˈis̪t̪rum# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#mˌɑɡˈis̪t̪ru# | 25 : [+nas] > ∅ / [-stres] __ #
-#mˌɑˈis̪t̪ru# | 38 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#mˌɑˈes̪t̪ro# | 43 : [+syl,-long] > [-hi] 
-#mˌɑˈest̪ro# | 165 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #mˌɑˈest̪ro#
+#kˈibum# >>> #θˈeo# ( GOLD : #θˈebo#) :
+k ˈi b u m 
+#kˈibu# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˈebo# | 43 : [+syl,-long] > [-hi] 
+#kjˈebo# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈebo# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˈeβo# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#t͡ʃjˈeo# | 83 : [-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab]
+#t͡sjˈeo# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sʝˈeo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sçˈeo# | 122 : [-son] > [-voi] / [-voi] __ 
+#t͡sˈeo# | 149 : [-son] > ∅ / [+delrel] __ 
+#sˈeo# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#θˈeo# | 167 : s > θ / __ [-cons]
+Final form : #θˈeo#

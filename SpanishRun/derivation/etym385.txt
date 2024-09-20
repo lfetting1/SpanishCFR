@@ -1,18 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :385:
-#kwˈɑt̪t̪uor# >>> #kˈɑsxʷr# ( GOLD : #kwˈɑt̪ɾo#) :
-k w ˈɑ t̪ t̪ u o r 
-#kɣʷˈɑt̪t̪uor# | 17 : w > ɣʷ / __ [+syl]
-#kβˈɑt̪t̪uor# | 30 : ɣʷ > β 
-#kβˈɑt̪t̪wor# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#kβˈɑt̪t̪woɾ# | 47 : r > ɾ / __ #
-#kβˈɑt̪t̪wor# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#kvˈɑt̪t̪wor# | 91 : β > v 
-#kvˈɑt̪t̪ɣʷor# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kβˈɑt̪t̪ɣʷor# | 109 : {v;f} > {β;ɸ} 
-#kβˈɑt̪ɣʷor# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
-#kβˈɑt̪ɣʷr# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kɸˈɑt̪xʷr# | 122 : [-son] > [-voi] / [-voi] __ 
-#khˈɑt̪xʷr# | 153 : ɸ > h / __ [+syl]
-#kˈɑt̪xʷr# | 155 : h > ∅ 
-#kˈɑsxʷr# | 165 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #kˈɑsxʷr#
+#kˌeːrˈeolum# >>> #θˌerxˈul# ( GOLD : #θiɾwˈelo#) :
+k ˌeː r ˈe o l u m 
+#kˌeːrˈeolu# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˌeːrˈeoːlu# | 34 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#kˌeːreˈoːlu# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kˌeːrjˈoːlu# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#kˌeːrjˈoːlo# | 43 : [+syl,-long] > [-hi] 
+#kˌerjˈolo# | 44 : [+syl,+long] > [-long,-splng] 
+#kjˌerjˈolo# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌerjˈolo# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡sjˌerjˈolo# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjˌerjˈulo# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#t͡sʝˌerʝˈulo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sʝˌerʒˈulo# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#t͡sçˌerʒˈulo# | 122 : [-son] > [-voi] / [-voi] __ 
+#t͡sçˌerʒˈul# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#t͡sˌerʒˈul# | 149 : [-son] > ∅ / [+delrel] __ 
+#sˌerʒˈul# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#sˌerʃˈul# | 164 : [+strid] > [-voi] 
+#sˌerxˈul# | 166 : ʃ > x 
+#θˌerxˈul# | 167 : s > θ / __ [-cons]
+Final form : #θˌerxˈul#
