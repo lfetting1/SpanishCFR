@@ -1,12 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :92:
-#bˌurrˈaɡin̪em# >>> #βˌorˈaen̪# ( GOLD : #borˈen̪#) :
-b ˌu r r ˈa ɡ i n̪ e m 
-#bˌurrˈaɡin̪e# | 27 : [+nas] > ∅ / [-stres] __ #
-#bˌurrˈain̪e# | 40 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#bˌorrˈaen̪e# | 45 : [+syl,-long] > [-hi] 
-#bˌorˈaen̪e# | 47 : r r > r 
-#βˌorˈaen̪e# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#vˌorˈaen̪e# | 98 : β > v 
-#βˌorˈaen̪e# | 116 : {v;f} > {β;ɸ} 
-#βˌorˈaen̪# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #βˌorˈaen̪#
+#bˌurrˈɑɡin̪em# >>> #βˌurjˈen̪# ( GOLD : #borˈen̪#) :
+b ˌu r r ˈɑ ɡ i n̪ e m 
+#bˌurrˈɑɡin̪e# | 25 : [+nas] > ∅ / [-stres] __ #
+#bˌurrˈɑin̪e# | 38 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+#bˌorrˈɑen̪e# | 43 : [+syl,-long] > [-hi] 
+#bˌorˈɑen̪e# | 45 : r r > r 
+#βˌorˈɑen̪e# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#βˌorˈɑjn̪e# | 90 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#vˌorˈɑjn̪e# | 91 : β > v 
+#βˌorˈɑjn̪e# | 109 : {v;f} > {β;ɸ} 
+#βˌorˈejn̪e# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#βˌorjˈen̪e# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#βˌorjˈen̪# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#βˌurjˈen̪# | 145 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+Final form : #βˌurjˈen̪#

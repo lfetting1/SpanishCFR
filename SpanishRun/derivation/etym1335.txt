@@ -1,21 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1335:
-#sˌan̪t̪ifikˈaːre# >>> #xˌan̪t͡ʃe̯ʝˈar# ( GOLD : #san̪t̪iɡwˈaɾ#) :
-s ˌa n̪ t̪ i f i k ˈaː r e 
-#sˌaːn̪t̪ifikˈaːre# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#sˌaːn̪t̪efekˈaːre# | 45 : [+syl,-long] > [-hi] 
-#sˌan̪t̪efekˈare# | 46 : [+syl,+long] > [-long,-splng] 
-#sˌan̪t̪efekjˈare# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#sˌan̪t̪efet͡ʃjˈare# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#sˌan̪t̪efet͡ʃe̯jˈare# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#sˌan̪t̪evet͡ʃe̯jˈare# | 91 : [+cont] > [+voi] / [-cons] __ [+son]
-#sˌan̪t̪evet͡se̯jˈare# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#sˌan̪t̪evet͡se̯ʝˈare# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#sˌan̪t̪eβet͡se̯ʝˈare# | 116 : {v;f} > {β;ɸ} 
-#sˌan̪t̪βt͡se̯ʝˈare# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#sˌan̪t̪ɸt͡se̯ʝˈare# | 129 : [-son] > [-voi] / [-voi] __ 
-#ʃˌan̪t͡ʃɸt͡se̯ʝˈare# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#ʃˌan̪t͡ʃɸt͡se̯ʝˈar# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ʃˌan̪t͡ʃt͡se̯ʝˈar# | 155 : [-son] > ∅ / __ [+delrel]
-#ʃˌan̪t͡ʃe̯ʝˈar# | 156 : [-son] > ∅ / [+delrel] __ 
-#xˌan̪t͡ʃe̯ʝˈar# | 173 : ʃ > x 
-Final form : #xˌan̪t͡ʃe̯ʝˈar#
+#kˌupid̪ˈit̪iɑm# >>> #kˌopeˈiθe̯ʝɯ# ( GOLD : #kod̪ˈiθjɑ#) :
+k ˌu p i d̪ ˈi t̪ i ɑ m 
+#kˌupid̪ˈit̪iɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˌupid̪ˈit̪jɑ# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#kˌoped̪ˈet̪jɑ# | 43 : [+syl,-long] > [-hi] 
+#kˌoped̪ˈet͡ʃjɑ# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌoped̪ˈet͡ʃe̯jɑ# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#kˌopeðˈet͡ʃe̯jɑ# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#kˌopeˈet͡ʃe̯jɑ# | 83 : [-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab]
+#kˌopeˈet͡se̯jɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌopeˈet͡se̯jɯ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#kˌopeˈet͡se̯ʝɯ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kˌopeˈit͡se̯ʝɯ# | 145 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#kˌopeˈise̯ʝɯ# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#kˌopeˈiθe̯ʝɯ# | 167 : s > θ / __ [-cons]
+Final form : #kˌopeˈiθe̯ʝɯ#

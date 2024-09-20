@@ -1,11 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1201:
-#sˈapui# >>> #xˈapo̯ɣʷi# ( GOLD : #sˈope#) :
-s ˈa p u i 
-#sˈapuiː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
-#sˈapwiː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#sˈapwi# | 46 : [+syl,+long] > [-long,-splng] 
-#sˈapo̯wi# | 81 : ∅ > o̯ / [+syl] [+ant] __ [-syl,+back,-cons] [+syl,+hi]
-#sˈapo̯ɣʷi# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʃˈapo̯ɣʷi# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#xˈapo̯ɣʷi# | 173 : ʃ > x 
-Final form : #xˈapo̯ɣʷi#
+#wˈespɑm# >>> #wʝspɑ# ( GOLD : #bˈispɑ#) :
+w ˈe s p ɑ m 
+#ɣʷˈespɑm# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷˈespɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#βˈespɑ# | 30 : ɣʷ > β 
+#βˈɛspɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#vˈɛspɑ# | 91 : β > v 
+#vjespɑ# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#vʝespɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βʝespɑ# | 109 : {v;f} > {β;ɸ} 
+#βʝspɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#wʝspɑ# | 160 : [+lab,+cons] > w / __ [-son]
+Final form : #wʝspɑ#

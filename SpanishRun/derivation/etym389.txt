@@ -1,22 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :389:
-#kwˌiet̪ˈaːre# >>> #kwt͡ʃˈar# ( GOLD : #ked̪ˈaɾ#) :
-k w ˌi e t̪ ˈaː r e 
-#kɣʷˌiet̪ˈaːre# | 17 : w > ɣʷ / __ [+syl]
-#kβˌiet̪ˈaːre# | 32 : ɣʷ > β 
-#kβiˈet̪ˈaːre# | 37 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#kβiˈɛt̪ˈaːre# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kβeˈɛt̪ˈaːre# | 45 : [+syl,-long] > [-hi] 
-#kβeˈɛt̪ˈare# | 46 : [+syl,+long] > [-long,-splng] 
-#kβˈɛt̪ˈare# | 63 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#kvˈɛt̪ˈare# | 98 : β > v 
-#kvjet̪ˈare# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#kvʝet̪ˈare# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kβʝet̪ˈare# | 116 : {v;f} > {β;ɸ} 
-#kβʝt̪ˈare# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kɸʝt̪ˈare# | 129 : [-son] > [-voi] / [-voi] __ 
-#kɸʝt͡ʃˈare# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#kɸʝt͡ʃˈar# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#kɸt͡ʃˈar# | 155 : [-son] > ∅ / __ [+delrel]
-#kft͡ʃˈar# | 161 : ɸ > f 
-#kwt͡ʃˈar# | 167 : [+lab,+cons] > w / __ [-son]
-Final form : #kwt͡ʃˈar#
+#kwˌiet̪ˈɑːre# >>> #kwçt̪ˈɑr# ( GOLD : #ked̪ˈɑɾ#) :
+k w ˌi e t̪ ˈɑː r e 
+#kɣʷˌiet̪ˈɑːre# | 17 : w > ɣʷ / __ [+syl]
+#kβˌiet̪ˈɑːre# | 30 : ɣʷ > β 
+#kβiˈet̪ˈɑːre# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kβjˈet̪ˈɑːre# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#kβjˈɛt̪ˈɑːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kβjˈɛt̪ˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
+#kvjˈɛt̪ˈɑre# | 91 : β > v 
+#kvjjet̪ˈɑre# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#kvjʝet̪ˈɑre# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kβjʝet̪ˈɑre# | 109 : {v;f} > {β;ɸ} 
+#kβjʝt̪ˈɑre# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kɸjʝt̪ˈɑre# | 122 : [-son] > [-voi] / [-voi] __ 
+#kɸʝt̪ˈɑre# | 130 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#kɸʝt̪ˈɑr# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#kfʝt̪ˈɑr# | 154 : ɸ > f 
+#kwʝt̪ˈɑr# | 160 : [+lab,+cons] > w / __ [-son]
+#kwçt̪ˈɑr# | 171 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
+Final form : #kwçt̪ˈɑr#

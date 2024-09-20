@@ -1,21 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :83:
-#bˌelˈen̪ion̪# >>> #wʝlˈen̪ʝo# ( GOLD : #belˈeɲo#) :
+#bˌelˈen̪ion̪# >>> #βˌelˈeɲo# ( GOLD : #belˈeɲo#) :
 b ˌe l ˈe n̪ i o n̪ 
-#bˌelˈen̪io# | 27 : [+nas] > ∅ / [-stres] __ #
-#bˌelˈen̪ioː# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
-#bˌɛlˈɛn̪ioː# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#bˌɛlˈɛn̪eoː# | 45 : [+syl,-long] > [-hi] 
-#bˌɛlˈɛn̪eo# | 46 : [+syl,+long] > [-long,-splng] 
-#bˌɛlˈɛn̪ejo# | 51 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#bˌɛlˈɛn̪ijo# | 55 : e > i / __ j
-#βˌɛlˈɛn̪ijo# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#vˌɛlˈɛn̪ijo# | 98 : β > v 
-#vˌɛlˈɛn̪iju# | 101 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
-#vˌɛlˈen̪iju# | 104 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#vjelˈen̪iju# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#vʝelˈen̪iʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#vʝelˈen̪iʝo# | 115 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
-#βʝelˈen̪iʝo# | 116 : {v;f} > {β;ɸ} 
-#βʝlˈen̪ʝo# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#wʝlˈen̪ʝo# | 167 : [+lab,+cons] > w / __ [-son]
-Final form : #wʝlˈen̪ʝo#
+#bˌelˈen̪io# | 25 : [+nas] > ∅ / [-stres] __ #
+#bˌelˈen̪ioː# | 34 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#bˌelˈen̪joː# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#bˌɛlˈɛn̪joː# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#bˌɛlˈɛn̪jo# | 44 : [+syl,+long] > [-long,-splng] 
+#bˌɛlˈɛɲjo# | 53 : [+nas,+cor] > ɲ / __ j
+#bˌɛlˈɛɲo# | 66 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#βˌɛlˈɛɲo# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#vˌɛlˈɛɲo# | 91 : β > v 
+#vˌelˈeɲo# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#βˌelˈeɲo# | 109 : {v;f} > {β;ɸ} 
+Final form : #βˌelˈeɲo#

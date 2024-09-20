@@ -1,9 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1219:
-#mˈan̪uːs# >>> #mˈen̪x# ( GOLD : #mˈan̪os#) :
-m ˈa n̪ uː s 
-#mˈan̪us# | 46 : [+syl,+long] > [-long,-splng] 
-#mˈen̪us# | 100 : [+syl,+front,+tense] > [-lo] / __ ( [-syl] ) [+syl,+hi]
-#mˈen̪s# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#mˈen̪ʃ# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#mˈen̪x# | 173 : ʃ > x 
-Final form : #mˈen̪x#
+#mˈeːn̪sem# >>> #mˈeθe# ( GOLD : #mˈes#) :
+m ˈeː n̪ s e m 
+#mˈeːnsem# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#mˈeːnse# | 25 : [+nas] > ∅ / [-stres] __ #
+#mˈeːse# | 26 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+#mˈese# | 44 : [+syl,+long] > [-long,-splng] 
+#mˈeze# | 84 : [+cont] > [+voi] / [-cons] __ [+son]
+#mˈese# | 164 : [+strid] > [-voi] 
+#mˈeθe# | 167 : s > θ / __ [-cons]
+Final form : #mˈeθe#

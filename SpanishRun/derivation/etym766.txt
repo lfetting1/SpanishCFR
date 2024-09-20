@@ -1,15 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :766:
-#iˌust̪ˈit̪iam# >>> #xˌut͡ʃˈet͡ʃea# ( GOLD : #xust̪ˈiθja#) :
-i ˌu s t̪ ˈi t̪ i a m 
-#iˌus̪t̪ˈit̪iam# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#iˌus̪t̪ˈit̪ia# | 27 : [+nas] > ∅ / [-stres] __ #
-#jˌus̪t̪ˈit̪ia# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#jˌos̪t̪ˈet̪ea# | 45 : [+syl,-long] > [-hi] 
-#jˌus̪t̪ˈet̪ea# | 101 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
-#ʝˌus̪t̪ˈet̪ea# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʒˌus̪t̪ˈet̪ea# | 119 : ʝ > ʒ / # __ [+round]
-#ʒˌus̪t͡ʃˈet͡ʃea# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#ʒˌut͡ʃˈet͡ʃea# | 155 : [-son] > ∅ / __ [+delrel]
-#ʃˌut͡ʃˈet͡ʃea# | 171 : [+strid] > [-voi] 
-#xˌut͡ʃˈet͡ʃea# | 173 : ʃ > x 
-Final form : #xˌut͡ʃˈet͡ʃea#
+#iˈuːd̪ikem# >>> #xwˈiθe̯ʝe# ( GOLD : #xwˈeθ#) :
+i ˈuː d̪ i k e m 
+#iˈuːd̪ike# | 25 : [+nas] > ∅ / [-stres] __ #
+#jˈuːd̪ike# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#jˈuːd̪eke# | 43 : [+syl,-long] > [-hi] 
+#jˈud̪eke# | 44 : [+syl,+long] > [-long,-splng] 
+#jˈud̪ekje# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#jˈud̪et͡ʃje# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#jˈud̪et͡ʃe̯je# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#jˈuðet͡ʃe̯je# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#jˈuet͡ʃe̯je# | 83 : [-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab]
+#jˈuet͡se̯je# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#jˈujt͡se̯je# | 90 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#ʝˈujt͡se̯ʝe# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʒˈujt͡se̯ʝe# | 112 : ʝ > ʒ / # __ [+round]
+#ʒwˈit͡se̯ʝe# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ʒwˈise̯ʝe# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#ʃwˈise̯ʝe# | 164 : [+strid] > [-voi] 
+#xwˈise̯ʝe# | 166 : ʃ > x 
+#xwˈiθe̯ʝe# | 167 : s > θ / __ [-cons]
+Final form : #xwˈiθe̯ʝe#

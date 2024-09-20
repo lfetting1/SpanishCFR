@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :169:
-#krˌeat̪iˈoːn̪e# >>> #kreˈet͡ʃˈun̪# ( GOLD : #kɾjaθˈon̪#) :
-k r ˌe a t̪ i ˈoː n̪ e 
-#krˌeaːt̪iˈoːn̪e# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
-#kreˈaːt̪iˈoːn̪e# | 37 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#kreˈaːt̪eˈoːn̪e# | 45 : [+syl,-long] > [-hi] 
-#kreˈat̪eˈon̪e# | 46 : [+syl,+long] > [-long,-splng] 
-#kreˈat̪ejˈon̪e# | 51 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#kreˈat̪ijˈon̪e# | 55 : e > i / __ j
-#kreˈet̪ijˈon̪e# | 100 : [+syl,+front,+tense] > [-lo] / __ ( [-syl] ) [+syl,+hi]
-#kreˈet̪ijˈun̪e# | 101 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
-#kreˈet̪iʝˈun̪e# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kreˈet̪ʝˈun̪e# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kreˈet̪çˈun̪e# | 129 : [-son] > [-voi] / [-voi] __ 
-#kreˈet͡ʃçˈun̪e# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#kreˈet͡ʃçˈun̪# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#kreˈet͡ʃˈun̪# | 156 : [-son] > ∅ / [+delrel] __ 
-Final form : #kreˈet͡ʃˈun̪#
+#krˌeɑt̪iˈoːn̪e# >>> #krʝˈɯθe̯xˈun̪# ( GOLD : #kɾjɑθˈon̪#) :
+k r ˌe ɑ t̪ i ˈoː n̪ e 
+#krˌeɑːt̪iˈoːn̪e# | 34 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#kreˈɑːt̪iˈoːn̪e# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kreˈɑːt̪jˈoːn̪e# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#krjˈɑːt̪jˈoːn̪e# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#krjˈɑt̪jˈon̪e# | 44 : [+syl,+long] > [-long,-splng] 
+#krjˈɑt͡ʃjˈon̪e# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#krjˈɑt͡ʃe̯jˈon̪e# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#krjˈɑt͡se̯jˈon̪e# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#krjˈɯt͡se̯jˈun̪e# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#krʝˈɯt͡se̯ʝˈun̪e# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#krʝˈɯt͡se̯ʒˈun̪e# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#krʝˈɯt͡se̯ʒˈun̪# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#krʝˈɯse̯ʒˈun̪# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#krʝˈɯse̯ʃˈun̪# | 164 : [+strid] > [-voi] 
+#krʝˈɯse̯xˈun̪# | 166 : ʃ > x 
+#krʝˈɯθe̯xˈun̪# | 167 : s > θ / __ [-cons]
+Final form : #krʝˈɯθe̯xˈun̪#

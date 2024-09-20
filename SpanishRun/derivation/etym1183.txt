@@ -1,13 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1183:
-#ˌimpˈulsat̪# >>> #ˌiwpwˈexa# ( GOLD : #empˈuxa#) :
-ˌi m p ˈu l s a t̪ 
-#ˌiːmpˈulsat̪# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌiːmpˈulsa# | 29 : [+cons,-cont] > ∅ / __ #
-#ˌiːmpˈolsa# | 45 : [+syl,-long] > [-hi] 
-#ˌimpˈolsa# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌimpˈojsa# | 93 : [+lat] > j / [+back] __ [+cons]
-#ˌimpˈojʃa# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#ˌimpwˈeʃa# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ˌiwpwˈeʃa# | 167 : [+lab,+cons] > w / __ [-son]
-#ˌiwpwˈexa# | 173 : ʃ > x 
-Final form : #ˌiwpwˈexa#
+#kˌuskˈulium# >>> #kˌuskˈuxu# ( GOLD : #koskˈoxo#) :
+k ˌu s k ˈu l i u m 
+#kˌuskˈuliu# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˌuskˈuliuː# | 34 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#kˌuskˈuljuː# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#kˌoskˈoljuː# | 43 : [+syl,-long] > [-hi] 
+#kˌoskˈolju# | 44 : [+syl,+long] > [-long,-splng] 
+#kˌoskˈoʎju# | 55 : [+lat] > ʎ / __ j
+#kˌoskˈoʎu# | 66 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#kˌoskˈuʎu# | 80 : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]
+#kˌuskˈuʎu# | 95 : [+syl,+round,+tense] > [+hi,-lo] / __ ( [-syl] )* [+hi,+syl]
+#kˌuskˈud͡ʒu# | 110 : ʎ > d͡ʒ 
+#kˌuskˈuʒu# | 111 : d͡ʒ > ʒ 
+#kˌuskˈuʃu# | 164 : [+strid] > [-voi] 
+#kˌuskˈuxu# | 166 : ʃ > x 
+Final form : #kˌuskˈuxu#

@@ -1,17 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :320:
-#mˈorsum# >>> #wxo# ( GOLD : #mwˈeso#) :
+#mˈorsum# >>> #wθo# ( GOLD : #mwˈeso#) :
 m ˈo r s u m 
-#mˈorsu# | 27 : [+nas] > ∅ / [-stres] __ #
-#mˈossu# | 34 : r > s / __ s
-#mˈɔssu# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˈɔsso# | 45 : [+syl,-long] > [-hi] 
-#mwesso# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#mɣʷesso# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mɣʷeso# | 126 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
-#mɣʷso# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#wɣʷso# | 131 : [+cons,+lab] > w / __ [+back,+cons]
-#wɣʷʃo# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#ɣʷʃo# | 134 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-#wʃo# | 167 : [+lab,+cons] > w / __ [-son]
-#wxo# | 173 : ʃ > x 
-Final form : #wxo#
+#mˈorsu# | 25 : [+nas] > ∅ / [-stres] __ #
+#mˈossu# | 32 : r > s / __ s
+#mˈɔssu# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˈɔsso# | 43 : [+syl,-long] > [-hi] 
+#mwesso# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#mɣʷesso# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#mɣʷeso# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#mɣʷso# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#wɣʷso# | 124 : [+cons,+lab] > w / __ [+back,+cons]
+#ɣʷso# | 127 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#wso# | 160 : [+lab,+cons] > w / __ [-son]
+#wθo# | 167 : s > θ / __ [-cons]
+Final form : #wθo#

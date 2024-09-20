@@ -1,13 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :447:
-#t̪ˌeksˈeːre# >>> #t͡ʃjˌexˈer# ( GOLD : #t̪exˈeɾ#) :
+#t̪ˌeksˈeːre# >>> #t̪jˌexˈer# ( GOLD : #t̪exˈeɾ#) :
 t̪ ˌe k s ˈeː r e 
-#t̪ˌexsˈeːre# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#t̪ˌɛxsˈeːre# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#t̪ˌɛxsˈere# | 46 : [+syl,+long] > [-long,-splng] 
-#t̪ˌɛjsˈere# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#t̪ˌejsˈere# | 104 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#t͡ʃˌejʃˈere# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#t͡ʃjˌeʃˈere# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#t͡ʃjˌeʃˈer# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#t͡ʃjˌexˈer# | 173 : ʃ > x 
-Final form : #t͡ʃjˌexˈer#
+#t̪ˌexsˈeːre# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#t̪ˌɛxsˈeːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#t̪ˌɛxsˈere# | 44 : [+syl,+long] > [-long,-splng] 
+#t̪ˌɛjsˈere# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#t̪ˌejsˈere# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#t̪ˌejʃˈere# | 126 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#t̪jˌeʃˈere# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#t̪jˌeʃˈer# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#t̪jˌexˈer# | 166 : ʃ > x 
+Final form : #t̪jˌexˈer#

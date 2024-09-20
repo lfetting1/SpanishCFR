@@ -1,14 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :722:
-#sˌekuːrit̪ˈaːt̪em# >>> #xçkrt͡ʃˈat͡ʃe# ( GOLD : #seɡuɾid̪ˈad̪#) :
-s ˌe k uː r i t̪ ˈaː t̪ e m 
-#sˌekuːrit̪ˈaːt̪e# | 27 : [+nas] > ∅ / [-stres] __ #
-#sˌɛkuːrit̪ˈaːt̪e# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sˌɛkuːret̪ˈaːt̪e# | 45 : [+syl,-long] > [-hi] 
-#sˌɛkuret̪ˈat̪e# | 46 : [+syl,+long] > [-long,-splng] 
-#sjekuret̪ˈat̪e# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#sʝekuret̪ˈat̪e# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#sʝkrt̪ˈat̪e# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#sçkrt̪ˈat̪e# | 129 : [-son] > [-voi] / [-voi] __ 
-#ʃçkrt͡ʃˈat͡ʃe# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#xçkrt͡ʃˈat͡ʃe# | 173 : ʃ > x 
-Final form : #xçkrt͡ʃˈat͡ʃe#
+#sˈeks# >>> #θjˈex# ( GOLD : #sˈejs#) :
+s ˈe k s 
+#sˈexs# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#sˈɛxs# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˈɛjs# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#sˈejs# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#sˈejʃ# | 126 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#sjˈeʃ# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#sjˈex# | 166 : ʃ > x 
+#θjˈex# | 167 : s > θ / __ [-cons]
+Final form : #θjˈex#

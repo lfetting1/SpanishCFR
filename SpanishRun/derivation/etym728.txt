@@ -1,10 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :728:
-#sˌen̪t̪ˈen̪t̪iam# >>> #xˌen̪t͡ʃˈen̪t͡ʃea# ( GOLD : #sen̪t̪ˈen̪θja#) :
-s ˌe n̪ t̪ ˈe n̪ t̪ i a m 
-#sˌeːn̪t̪ˈeːn̪t̪iam# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#sˌeːn̪t̪ˈeːn̪t̪ia# | 27 : [+nas] > ∅ / [-stres] __ #
-#sˌeːn̪t̪ˈeːn̪t̪ea# | 45 : [+syl,-long] > [-hi] 
-#sˌen̪t̪ˈen̪t̪ea# | 46 : [+syl,+long] > [-long,-splng] 
-#ʃˌen̪t͡ʃˈen̪t͡ʃea# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#xˌen̪t͡ʃˈen̪t͡ʃea# | 173 : ʃ > x 
-Final form : #xˌen̪t͡ʃˈen̪t͡ʃea#
+#sˈiɡn̪um# >>> #θˈeɲo# ( GOLD : #sˈeɲo#) :
+s ˈi ɡ n̪ u m 
+#sˈiɡn̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#sˈiɣn̪u# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#sˈeɣn̪o# | 43 : [+syl,-long] > [-hi] 
+#sˈejn̪o# | 51 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#sˈejɲo# | 52 : [+nas,+cor] > ɲ / j __ 
+#sˈeɲo# | 67 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+#θˈeɲo# | 167 : s > θ / __ [-cons]
+Final form : #θˈeɲo#

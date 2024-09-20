@@ -1,16 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :562:
-#ɡˈeluː# >>> #xʝlo# ( GOLD : #jˈelo#) :
-ɡ ˈe l uː 
-#ɡˈɛluː# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ɡˈɛlu# | 46 : [+syl,+long] > [-long,-splng] 
-#ɡjˈɛlu# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˈɛlu# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ʒjˈɛlu# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ʒjjelu# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ʒjʝelu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʒjʝelo# | 115 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
-#ʒjʝlo# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ʒʝlo# | 137 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ʃʝlo# | 171 : [+strid] > [-voi] 
-#xʝlo# | 173 : ʃ > x 
-Final form : #xʝlo#
+#fˈerrum# >>> #wçro# ( GOLD : #jˈero#) :
+f ˈe r r u m 
+#fˈerru# | 25 : [+nas] > ∅ / [-stres] __ #
+#fˈɛrru# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#fˈɛrro# | 43 : [+syl,-long] > [-hi] 
+#fˈɛro# | 45 : r r > r 
+#fjero# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#fʝero# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɸʝero# | 109 : {v;f} > {β;ɸ} 
+#ɸʝro# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ɸçro# | 122 : [-son] > [-voi] / [-voi] __ 
+#fçro# | 154 : ɸ > f 
+#wçro# | 160 : [+lab,+cons] > w / __ [-son]
+Final form : #wçro#

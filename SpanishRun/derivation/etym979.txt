@@ -1,16 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :979:
-#wˌest̪ˈiːt̪um# >>> #βˌet͡ʃˈit͡ʃo# ( GOLD : #best̪ˈid̪o#) :
-w ˌe s t̪ ˈiː t̪ u m 
-#ɣʷˌest̪ˈiːt̪um# | 17 : w > ɣʷ / __ [+syl]
-#ɣʷˌes̪t̪ˈiːt̪um# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ɣʷˌes̪t̪ˈiːt̪u# | 27 : [+nas] > ∅ / [-stres] __ #
-#βˌes̪t̪ˈiːt̪u# | 32 : ɣʷ > β 
-#βˌɛs̪t̪ˈiːt̪u# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#βˌɛs̪t̪ˈiːt̪o# | 45 : [+syl,-long] > [-hi] 
-#βˌɛs̪t̪ˈit̪o# | 46 : [+syl,+long] > [-long,-splng] 
-#vˌɛs̪t̪ˈit̪o# | 98 : β > v 
-#vˌes̪t̪ˈit̪o# | 104 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#βˌes̪t̪ˈit̪o# | 116 : {v;f} > {β;ɸ} 
-#βˌes̪t͡ʃˈit͡ʃo# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#βˌet͡ʃˈit͡ʃo# | 155 : [-son] > ∅ / __ [+delrel]
-Final form : #βˌet͡ʃˈit͡ʃo#
+#sˌoːlit̪ˈɑːrius# >>> #ʎt̪ˈɑrxθ# ( GOLD : #solt̪ˈeɾo#) :
+s ˌoː l i t̪ ˈɑː r i u s 
+#slit̪ˈɑːrius# | 24 : [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas]
+#slit̪ˈɑːriuːs# | 34 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#slit̪ˈɑːrjuːs# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#slet̪ˈɑːrjuːs# | 43 : [+syl,-long] > [-hi] 
+#slet̪ˈɑrjus# | 44 : [+syl,+long] > [-long,-splng] 
+#slet̪ˈɑrʝus# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#slet̪ˈɑrʒus# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#sʎet̪ˈɑrʒus# | 114 : [+lat] > ʎ / [-son] __ 
+#ʎet̪ˈɑrʒus# | 115 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʎt̪ˈɑrʒs# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ʎt̪ˈɑrʃs# | 164 : [+strid] > [-voi] 
+#ʎt̪ˈɑrxs# | 166 : ʃ > x 
+#ʎt̪ˈɑrxθ# | 168 : s > θ / __ #
+Final form : #ʎt̪ˈɑrxθ#

@@ -1,14 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :555:
-#ˌimˈaːɡin̪em# >>> #ˌemˈaxʝn̪e# ( GOLD : #imˈaxen̪#) :
-ˌi m ˈaː ɡ i n̪ e m 
-#ˌimˈaːɡin̪e# | 27 : [+nas] > ∅ / [-stres] __ #
-#ˌemˈaːɡen̪e# | 45 : [+syl,-long] > [-hi] 
-#ˌemˈaɡen̪e# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌemˈaɡjen̪e# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌemˈad͡ʒjen̪e# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌemˈaʒjen̪e# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌemˈaʒʝen̪e# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌemˈaʒʝn̪e# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌemˈaʃʝn̪e# | 171 : [+strid] > [-voi] 
-#ˌemˈaxʝn̪e# | 173 : ʃ > x 
-Final form : #ˌemˈaxʝn̪e#
+#ˌin̪ˈit̪ium# >>> #ˌen̪ˈiθe̯xu# ( GOLD : #in̪ˈiθjo#) :
+ˌi n̪ ˈi t̪ i u m 
+#ˌin̪ˈit̪iu# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˌin̪ˈit̪ju# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#ˌen̪ˈet̪jo# | 43 : [+syl,-long] > [-hi] 
+#ˌen̪ˈet͡ʃjo# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌen̪ˈet͡ʃe̯jo# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#ˌen̪ˈet͡se̯jo# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌen̪ˈet͡se̯ju# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#ˌen̪ˈet͡se̯ʝu# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌen̪ˈet͡se̯ʒu# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#ˌen̪ˈit͡se̯ʒu# | 145 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ˌen̪ˈise̯ʒu# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#ˌen̪ˈise̯ʃu# | 164 : [+strid] > [-voi] 
+#ˌen̪ˈise̯xu# | 166 : ʃ > x 
+#ˌen̪ˈiθe̯xu# | 167 : s > θ / __ [-cons]
+Final form : #ˌen̪ˈiθe̯xu#

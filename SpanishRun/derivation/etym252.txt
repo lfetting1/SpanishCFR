@@ -1,13 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :252:
-#ɡˌubern̪at̪ˈoːre# >>> #ɣwˌern̪at͡ʃˈor# ( GOLD : #ɡobeɾn̪ad̪ˈoɾ#) :
-ɡ ˌu b e r n̪ a t̪ ˈoː r e 
-#ɡˌobern̪at̪ˈoːre# | 45 : [+syl,-long] > [-hi] 
-#ɡˌobern̪at̪ˈore# | 46 : [+syl,+long] > [-long,-splng] 
-#ɡˌobeɾn̪at̪ˈore# | 48 : r > ɾ / __ [+cons]
-#ɣˌoβern̪at̪ˈore# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ɣˌoern̪at̪ˈore# | 90 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#ɣˌojrn̪at̪ˈore# | 97 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-#ɣˌojrn̪at͡ʃˈore# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#ɣwˌern̪at͡ʃˈore# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ɣwˌern̪at͡ʃˈor# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #ɣwˌern̪at͡ʃˈor#
+#ɡˌubern̪ɑt̪ˈoːre# >>> #ɣˌoβrn̪ɑt̪ˈor# ( GOLD : #ɡobeɾn̪ɑd̪ˈoɾ#) :
+ɡ ˌu b e r n̪ ɑ t̪ ˈoː r e 
+#ɡˌobern̪ɑt̪ˈoːre# | 43 : [+syl,-long] > [-hi] 
+#ɡˌobern̪ɑt̪ˈore# | 44 : [+syl,+long] > [-long,-splng] 
+#ɡˌobeɾn̪ɑt̪ˈore# | 46 : r > ɾ / __ [+cons]
+#ɣˌoβern̪ɑt̪ˈore# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ɣˌovern̪ɑt̪ˈore# | 91 : β > v 
+#ɣˌoβern̪ɑt̪ˈore# | 109 : {v;f} > {β;ɸ} 
+#ɣˌoβrn̪ɑt̪ˈore# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ɣˌoβrn̪ɑt̪ˈor# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+Final form : #ɣˌoβrn̪ɑt̪ˈor#

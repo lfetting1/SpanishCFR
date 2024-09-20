@@ -1,10 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :298:
-#mˌaɡˈist̪rum# >>> #mˌaˈet͡ʃro# ( GOLD : #maˈest̪ɾo#) :
-m ˌa ɡ ˈi s t̪ r u m 
-#mˌaɡˈis̪t̪rum# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#mˌaɡˈis̪t̪ru# | 27 : [+nas] > ∅ / [-stres] __ #
-#mˌaˈis̪t̪ru# | 40 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#mˌaˈes̪t̪ro# | 45 : [+syl,-long] > [-hi] 
-#mˌaˈes̪t͡ʃro# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-#mˌaˈet͡ʃro# | 155 : [-son] > ∅ / __ [+delrel]
-Final form : #mˌaˈet͡ʃro#
+#mˌɑɡˈist̪rum# >>> #mˌɑˈest̪ro# ( GOLD : #mɑˈest̪ɾo#) :
+m ˌɑ ɡ ˈi s t̪ r u m 
+#mˌɑɡˈis̪t̪rum# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#mˌɑɡˈis̪t̪ru# | 25 : [+nas] > ∅ / [-stres] __ #
+#mˌɑˈis̪t̪ru# | 38 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+#mˌɑˈes̪t̪ro# | 43 : [+syl,-long] > [-hi] 
+#mˌɑˈest̪ro# | 165 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+Final form : #mˌɑˈest̪ro#

@@ -1,13 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :680:
-#pˌae̯n̪it̪ˈen̪t̪iam# >>> #pˌen̪t͡ʃˈen̪t͡ʃea# ( GOLD : #pen̪it̪ˈen̪θja#) :
-p ˌa e̯ n̪ i t̪ ˈe n̪ t̪ i a m 
-#pˌae̯n̪it̪ˈeːn̪t̪iam# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#pˌɛjn̪it̪ˈeːn̪t̪iam# | 22 : {ˌa e̯;ˌo e̯} > {ˌɛ j;ˌe j} 
-#pˌejn̪it̪ˈeːn̪t̪iam# | 23 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
-#pˌeːn̪it̪ˈeːn̪t̪iam# | 24 : [+syl] j > [+syl,+long,+son,0delrel] ∅
-#pˌeːn̪it̪ˈeːn̪t̪ia# | 27 : [+nas] > ∅ / [-stres] __ #
-#pˌeːn̪et̪ˈeːn̪t̪ea# | 45 : [+syl,-long] > [-hi] 
-#pˌen̪et̪ˈen̪t̪ea# | 46 : [+syl,+long] > [-long,-splng] 
-#pˌen̪t̪ˈen̪t̪ea# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pˌen̪t͡ʃˈen̪t͡ʃea# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
-Final form : #pˌen̪t͡ʃˈen̪t͡ʃea#
+#pˈiɡn̪um# >>> #pˈeɲo# ( GOLD : #pˈeɲo#) :
+p ˈi ɡ n̪ u m 
+#pˈiɡn̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#pˈiɣn̪u# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#pˈeɣn̪o# | 43 : [+syl,-long] > [-hi] 
+#pˈejn̪o# | 51 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#pˈejɲo# | 52 : [+nas,+cor] > ɲ / j __ 
+#pˈeɲo# | 67 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+Final form : #pˈeɲo#
