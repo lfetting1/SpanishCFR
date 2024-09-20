@@ -2,9 +2,9 @@
 
 import sys
 
-LEXLOC = "SpanLLex.txt" if len(sys.argv) <= 1 else sys.argv[1]
+LEXLOC = "SpanLLex_not_glitched.txt" if len(sys.argv) <= 1 else sys.argv[1]
 
-o = open(LEXLOC)
+o = open(LEXLOC,encoding='utf-8',mode='r')
 
 lines = [(ln+'$').split('$')[0].strip() for ln in o.readlines()]
 o.close()
@@ -14,7 +14,7 @@ lines = sorted(lines)
 
 lexloc_prefix = LEXLOC[:LEXLOC.rindex(".")] if "." in LEXLOC else LEXLOC
 
-o = open(lexloc_prefix+"_alphasorted.txt",mode='w')
+o = open(lexloc_prefix+"_alphasorted.txt",mode='w',encoding='utf-8')
 
 for i in range(len(lines)-1):
 	o.write(lines[i] + "\n")
