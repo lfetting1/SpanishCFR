@@ -1,14 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :462:
-#lˈaksos# >>> #lˈaɣesθ# ( GOLD : #lˈexos#) :
-l ˈa k s o s 
-#lˈaxsos# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#lˈajsos# | 105 : [+cons,+back] > j / [+syl] __ [-back]
-#lˈaʝsos# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#lˈaʒsos# | 131 : ʝ > ʒ 
-#lˈaʒss# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#lˈaʃss# | 179 : [+strid] > [-voi] 
-#lˈaxss# | 181 : ʃ > x 
-#lˈaxsθ# | 183 : s > θ / __ #
-#lˈaɣsθ# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-#lˈaɣesθ# | 185 : s > e s / __ [+cons]
-Final form : #lˈaɣesθ#
+#weksiːka# >>> #βiθe̯ʝa# ( GOLD : #bexˈiɡa#) :
+w e k s iː k a 
+#ɣʷeksiːka# | 17 : w > ɣʷ / __ [+syl]
+#βeksiːka# | 32 : ɣʷ > β 
+#βexsiːka# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#βexsika# | 46 : [+syl,+long] > [-long,-splng] 
+#βexsikja# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βexsit͡ʃja# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βexsit͡ʃe̯ja# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#βexsit͡se̯ja# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vexsit͡se̯ja# | 98 : β > v 
+#vejsit͡se̯ja# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#vejsit͡se̯ʝa# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βejsit͡se̯ʝa# | 116 : {v;f} > {β;ɸ} 
+#βejst͡se̯ʝa# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#βejʃt͡se̯ʝa# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#βjeʃt͡se̯ʝa# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#βjiʃt͡se̯ʝa# | 153 : [+syl,-lo,-stres] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+#βjit͡se̯ʝa# | 155 : [-son] > ∅ / __ [+delrel]
+#βit͡se̯ʝa# | 166 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#βise̯ʝa# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#βiθe̯ʝa# | 174 : s > θ / __ [-cons]
+Final form : #βiθe̯ʝa#

@@ -1,17 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :363:
-#kˌad̪ˈere# >>> #ʃ̪jˌaxˈere# ( GOLD : #kaˈeɾ#) :
-k ˌa d̪ ˈe r e 
-#kˌad̪ˈɛre# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌad̪ˈɛɾe# | 47 : r > ɾ 
-#kjˌad̪ˈɛɾe# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌad̪ˈɛɾe# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˌaðˈɛre# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#t͡ʃjˌaˈɛre# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#t͡ʃ̪jˌaˈɛre# | 100 : [+strid,-cont] > [-hi,+ant] 
-#t͡ʃ̪jˌajˈere# | 113 : ˈɛ > j ˈe 
-#t͡ʃ̪jˌaʝˈere# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#t͡ʃ̪jˌaʒˈere# | 131 : ʝ > ʒ 
-#ʃ̪jˌaʒˈere# | 178 : [+strid,+ant] > [+cont,0delrel] 
-#ʃ̪jˌaʃˈere# | 179 : [+strid] > [-voi] 
-#ʃ̪jˌaxˈere# | 181 : ʃ > x 
-Final form : #ʃ̪jˌaxˈere#
+#pˈosit̪um# >>> #wt͡ʃo# ( GOLD : #pwˈest̪o#) :
+p ˈo s i t̪ u m 
+#pˈosit̪u# | 27 : [+nas] > ∅ / [-stres] __ #
+#pˈɔsit̪u# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˈɔset̪o# | 45 : [+syl,-long] > [-hi] 
+#pˈɔzet̪o# | 91 : [+cont] > [+voi] / [-cons] __ [+son]
+#pwezet̪o# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#pɣʷezet̪o# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pɣʷzt̪o# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#pxʷzt̪o# | 129 : [-son] > [-voi] / [-voi] __ 
+#wxʷzt̪o# | 131 : [+cons,+lab] > w / __ [+back,+cons]
+#wxʷzt͡ʃo# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#xʷzt͡ʃo# | 134 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#xʷt͡ʃo# | 155 : [-son] > ∅ / __ [+delrel]
+#wt͡ʃo# | 167 : [+lab,+cons] > w / __ [-son]
+Final form : #wt͡ʃo#

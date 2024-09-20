@@ -1,12 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1265:
-#ˌimperaːt̪ˈoːre# >>> #ˌiwr̥at̪ˈore# ( GOLD : #empeɾad̪ˈoɾ#) :
-ˌi m p e r aː t̪ ˈoː r e 
-#ˌiːmperaːt̪ˈoːre# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌimperat̪ˈore# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌimpeɾat̪ˈoɾe# | 47 : r > ɾ 
-#ˌimperat̪ˈore# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌiperat̪ˈore# | 136 : [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi] > ∅ / __ [+cons,αcor,βant,ɣdistr,θlab,ɸback,σfront,ɷhi]
-#ˌiprat̪ˈore# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌipr̥at̪ˈore# | 139 : [+cons] > [-voi] / [-voi] __ 
-#ˌiwr̥at̪ˈore# | 174 : [+lab,+cons] > w / __ [+cons]
-Final form : #ˌiwr̥at̪ˈore#
+#wˌin̪kˈikulum# >>> #βˌiθˈeɡlo# ( GOLD : #ben̪θˈexo#) :
+w ˌi n̪ k ˈi k u l u m 
+#wˌiːn̪kˈikulum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#wˌiːŋkˈikulum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ɣʷˌiːŋkˈikulum# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷˌiːŋkˈikulu# | 27 : [+nas] > ∅ / [-stres] __ #
+#βˌiːŋkˈikulu# | 32 : ɣʷ > β 
+#βˌiːŋkˈekolo# | 45 : [+syl,-long] > [-hi] 
+#βˌiŋkˈekolo# | 46 : [+syl,+long] > [-long,-splng] 
+#βˌiŋkjˈekolo# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βˌiŋt͡ʃjˈekolo# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˌiŋt͡sjˈekolo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˌiŋt͡sjˈekolo# | 98 : β > v 
+#vˌijt͡sjˈekolo# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#vˌijt͡sʝˈekolo# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˌijt͡sʝˈekolo# | 116 : {v;f} > {β;ɸ} 
+#βˌijt͡sʝˈeklo# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#βˌijt͡sçˈeklo# | 129 : [-son] > [-voi] / [-voi] __ 
+#βˌit͡sçˈeklo# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#βˌit͡sˈeklo# | 156 : [-son] > ∅ / [+delrel] __ 
+#βˌisˈeklo# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#βˌiθˈeklo# | 174 : s > θ / __ [-cons]
+#βˌiθˈeɡlo# | 177 : [-voi] > [+voi] / [-cons] __ l
+Final form : #βˌiθˈeɡlo#

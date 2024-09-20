@@ -1,15 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1055:
-#wˌikˈiːn̪um# >>> #ˌeʃ̪ˈin̪o# ( GOLD : #beθˈin̪o#) :
-w ˌi k ˈiː n̪ u m 
-#ɣʷˌikˈiːn̪um# | 17 : w > ɣʷ / __ [+syl]
-#ɣʷˌikˈiːn̪u# | 27 : [+nas] > ∅ / __ #
-#βˌikˈiːn̪u# | 32 : ɣʷ > β 
-#βˌekˈiːn̪o# | 45 : [+syl,-long] > [-hi] 
-#βˌekˈin̪o# | 46 : [+syl,+long] > [-long,-splng] 
-#βˌekjˈin̪o# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌet͡ʃjˈin̪o# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌet͡ʃˈin̪o# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ˌet͡ʃˈin̪o# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˌet͡ʃ̪ˈin̪o# | 100 : [+strid,-cont] > [-hi,+ant] 
-#ˌeʃ̪ˈin̪o# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ˌeʃ̪ˈin̪o#
+#ˈasin̪um# >>> #ˈazn̪o# ( GOLD : #ˈasn̪o#) :
+ˈa s i n̪ u m 
+#ˈasin̪u# | 27 : [+nas] > ∅ / [-stres] __ #
+#ˈasen̪o# | 45 : [+syl,-long] > [-hi] 
+#ˈazen̪o# | 91 : [+cont] > [+voi] / [-cons] __ [+son]
+#ˈazn̪o# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˈasn̪o# | 171 : [+strid] > [-voi] 
+#ˈazn̪o# | 176 : s > z / [-cons] __ [+cons,+voi]
+Final form : #ˈazn̪o#

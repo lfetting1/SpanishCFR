@@ -1,11 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1280:
-#ˌit̪erˈaːre# >>> #ˌed̪r̥ˈare# ( GOLD : #ed̪ɾˈaɾ#) :
-ˌi t̪ e r ˈaː r e 
-#ˌet̪erˈaːre# | 45 : [+syl,-long] > [-hi] 
-#ˌet̪erˈare# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌet̪eɾˈaɾe# | 47 : r > ɾ 
-#ˌet̪erˈare# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌet̪rˈare# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌet̪r̥ˈare# | 139 : [+cons] > [-voi] / [-voi] __ 
-#ˌed̪r̥ˈare# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #ˌed̪r̥ˈare#
+#kˌabˈallum# >>> #θˌajˠˈol# ( GOLD : #kabˈaʝo#) :
+k ˌa b ˈa l l u m 
+#kˌabˈallu# | 27 : [+nas] > ∅ / [-stres] __ #
+#kˌabˈallo# | 45 : [+syl,-long] > [-hi] 
+#kjˌabˈallo# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌabˈallo# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˌaβˈallo# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#t͡ʃjˌaˈallo# | 90 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#t͡ʃjˌaˈawlo# | 92 : [+lat] > w / [+lo] __ [+cons]
+#t͡sjˌaˈawlo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sʝˌaˈawlo# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sçˌaˈawlo# | 129 : [-son] > [-voi] / [-voi] __ 
+#t͡sçˌaˈeˠwlo# | 130 : [+syl,+lo] > [-lo,αback] / __ [-cons,-syl,αback]
+#t͡sçˌajˠˈolo# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#t͡sçˌajˠˈol# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#t͡sˌajˠˈol# | 156 : [-son] > ∅ / [+delrel] __ 
+#sˌajˠˈol# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#θˌajˠˈol# | 174 : s > θ / __ [-cons]
+Final form : #θˌajˠˈol#

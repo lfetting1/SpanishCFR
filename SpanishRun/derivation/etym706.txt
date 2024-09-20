@@ -1,16 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :706:
-#pˈekt̪us# >>> #pˈe?t̪θ# ( GOLD : #pˈet͡ʃo#) :
-p ˈe k t̪ u s 
-#pˈext̪us# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˈɛxt̪us# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˈɛxt̪os# | 45 : [+syl,-long] > [-hi] 
-#pˈɛjt̪os# | 105 : [+cons,+back] > j / [+syl] __ [-back]
-#pˈejt̪os# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#pˈeʝt̪os# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#pˈeʒt̪os# | 131 : ʝ > ʒ 
-#pˈeʒt̪s# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pˈeʃt̪s# | 179 : [+strid] > [-voi] 
-#pˈe?t̪s# | 180 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
-#pˈe?t̪θ# | 183 : s > θ / __ #
-#pˈe?t̪θ# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #pˈe?t̪θ#
+#rˈad̪ium# >>> #rˈaxu# ( GOLD : #rˈajo#) :
+r ˈa d̪ i u m 
+#rˈad̪iu# | 27 : [+nas] > ∅ / [-stres] __ #
+#rˈad̪ju# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#rˈad̪jo# | 45 : [+syl,-long] > [-hi] 
+#rˈad͡ʒjo# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#rˈaʒjo# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#rˈaʒju# | 101 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
+#rˈaʒʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#rˈaʒʒu# | 120 : ʝ > ʒ / [-syl] __ [+round]
+#rˈaʒu# | 126 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#rˈaʃu# | 171 : [+strid] > [-voi] 
+#rˈaxu# | 173 : ʃ > x 
+Final form : #rˈaxu#

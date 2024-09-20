@@ -1,16 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :767:
-#pˌiskˈaːt̪us# >>> #pˌiʃ̪jˈed̪θ# ( GOLD : #peskˈad̪o#) :
-p ˌi s k ˈaː t̪ u s 
-#pˌeskˈaːt̪os# | 45 : [+syl,-long] > [-hi] 
-#pˌeskˈat̪os# | 46 : [+syl,+long] > [-long,-splng] 
-#pˌeskjˈat̪os# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#pˌest͡ʃjˈat̪os# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˌest͡ʃ̪jˈat̪os# | 100 : [+strid,-cont] > [-hi,+ant] 
-#pˌest͡ʃ̪jˈet̪os# | 109 : [+syl] > [-lo] / j __ [-son]
-#pˌest͡ʃ̪jˈet̪s# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pˌist͡ʃ̪jˈet̪s# | 160 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#pˌit͡ʃ̪jˈet̪s# | 162 : [+cons] > ∅ / __ [+delrel]
-#pˌiʃ̪jˈet̪s# | 178 : [+strid,+ant] > [+cont,0delrel] 
-#pˌiʃ̪jˈet̪θ# | 183 : s > θ / __ #
-#pˌiʃ̪jˈed̪θ# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #pˌiʃ̪jˈed̪θ#
+#iˈuːd̪ikem# >>> #xwˈiθe̯ʝe# ( GOLD : #xwˈeθ#) :
+i ˈuː d̪ i k e m 
+#iˈuːd̪ike# | 27 : [+nas] > ∅ / [-stres] __ #
+#jˈuːd̪ike# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#jˈuːd̪eke# | 45 : [+syl,-long] > [-hi] 
+#jˈud̪eke# | 46 : [+syl,+long] > [-long,-splng] 
+#jˈud̪ekje# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#jˈud̪et͡ʃje# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#jˈud̪et͡ʃe̯je# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#jˈuðet͡ʃe̯je# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#jˈuet͡ʃe̯je# | 90 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#jˈuet͡se̯je# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#jˈujt͡se̯je# | 97 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#ʝˈujt͡se̯ʝe# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʒˈujt͡se̯ʝe# | 119 : ʝ > ʒ / # __ [+round]
+#ʒwˈit͡se̯ʝe# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ʒwˈise̯ʝe# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#ʃwˈise̯ʝe# | 171 : [+strid] > [-voi] 
+#xwˈise̯ʝe# | 173 : ʃ > x 
+#xwˈiθe̯ʝe# | 174 : s > θ / __ [-cons]
+Final form : #xwˈiθe̯ʝe#

@@ -1,17 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1261:
-#ˌeksˈiːt̪um# >>> #ˌeɣθˈit̪o# ( GOLD : #exˈid̪o#) :
-ˌe k s ˈiː t̪ u m 
-#ˌeksˈiːt̪u# | 27 : [+nas] > ∅ / __ #
-#ˌexsˈiːt̪u# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɛxsˈiːt̪u# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɛxsˈiːt̪o# | 45 : [+syl,-long] > [-hi] 
-#ˌɛxsˈit̪o# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌɛjsˈit̪o# | 105 : [+cons,+back] > j / [+syl] __ [-back]
-#ˌejsˈit̪o# | 110 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌeʝsˈit̪o# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌeʒsˈit̪o# | 131 : ʝ > ʒ 
-#ˌeʃsˈit̪o# | 179 : [+strid] > [-voi] 
-#ˌexsˈit̪o# | 181 : ʃ > x 
-#ˌexθˈit̪o# | 182 : s > θ / __ [-cons]
-#ˌeɣθˈit̪o# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #ˌeɣθˈit̪o#
+#rˌeːɡˈaːlem# >>> #rˌexʝˈal# ( GOLD : #reˈal#) :
+r ˌeː ɡ ˈaː l e m 
+#rˌeːɡˈaːle# | 27 : [+nas] > ∅ / [-stres] __ #
+#rˌeɡˈale# | 46 : [+syl,+long] > [-long,-splng] 
+#rˌeɡjˈale# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#rˌed͡ʒjˈale# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#rˌeʒjˈale# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#rˌeʒʝˈale# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#rˌeʒʝˈal# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#rˌeʃʝˈal# | 171 : [+strid] > [-voi] 
+#rˌexʝˈal# | 173 : ʃ > x 
+Final form : #rˌexʝˈal#

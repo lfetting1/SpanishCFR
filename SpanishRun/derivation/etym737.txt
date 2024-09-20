@@ -1,16 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :737:
-#pˈun̪kt̪um# >>> #pˈu?t̪o# ( GOLD : #pˈun̪t̪o#) :
-p ˈu n̪ k t̪ u m 
-#pˈuːn̪kt̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#pˈuːŋkt̪um# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#pˈuːŋt̪um# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#pˈuːŋt̪u# | 27 : [+nas] > ∅ / __ #
-#pˈuːŋt̪o# | 45 : [+syl,-long] > [-hi] 
-#pˈuŋt̪o# | 46 : [+syl,+long] > [-long,-splng] 
-#pˈujt̪o# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#pˈuʝt̪o# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#pˈuʒt̪o# | 131 : ʝ > ʒ 
-#pˈuʃt̪o# | 179 : [+strid] > [-voi] 
-#pˈu?t̪o# | 180 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
-#pˈu?t̪o# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #pˈu?t̪o#
+#sˈokium# >>> #xˈuθe̯xu# ( GOLD : #sˈoθjo#) :
+s ˈo k i u m 
+#sˈokiu# | 27 : [+nas] > ∅ / [-stres] __ #
+#sˈokiuː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
+#sˈokjuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#sˈɔkjuː# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˈɔkju# | 46 : [+syl,+long] > [-long,-splng] 
+#sˈɔt͡ʃju# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#sˈɔt͡ʃe̯ju# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#sˈɔt͡se̯ju# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#sˈot͡se̯ju# | 104 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#sˈot͡se̯ʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#sˈot͡se̯ʒu# | 120 : ʝ > ʒ / [-syl] __ [+round]
+#ʃˈot͡se̯ʒu# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#ʃˈut͡se̯ʒu# | 152 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ʃˈuse̯ʒu# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#ʃˈuse̯ʃu# | 171 : [+strid] > [-voi] 
+#xˈuse̯xu# | 173 : ʃ > x 
+#xˈuθe̯xu# | 174 : s > θ / __ [-cons]
+Final form : #xˈuθe̯xu#

@@ -1,11 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :173:
-#fˌarˈiːn̪a# >>> #ˌerˈin̪a# ( GOLD : #aɾˈin̪a#) :
-f ˌa r ˈiː n̪ a 
-#fˌarˈin̪a# | 46 : [+syl,+long] > [-long,-splng] 
-#fˌaɾˈin̪a# | 47 : r > ɾ 
-#fˌarˈin̪a# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#fˌerˈin̪a# | 106 : [+syl,+front,+tense] > [-lo] / __ ( [-syl] ) [+syl,+hi]
-#ɸˌerˈin̪a# | 127 : {v;f} > {β;ɸ} 
-#hˌerˈin̪a# | 167 : ɸ > h / __ [+syl]
-#ˌerˈin̪a# | 169 : h > ∅ 
-Final form : #ˌerˈin̪a#
+#kubit̪ˈaːle# >>> #kwet͡ʃˈal# ( GOLD : #kod̪ˈal#) :
+k u b i t̪ ˈaː l e 
+#kobet̪ˈaːle# | 45 : [+syl,-long] > [-hi] 
+#kobet̪ˈale# | 46 : [+syl,+long] > [-long,-splng] 
+#koβet̪ˈale# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#koet̪ˈale# | 90 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#kojt̪ˈale# | 97 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#kojt͡ʃˈale# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#kwet͡ʃˈale# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kwet͡ʃˈal# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+Final form : #kwet͡ʃˈal#

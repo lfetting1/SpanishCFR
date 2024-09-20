@@ -1,23 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1185:
-#ˌaffˌikt̪iˈoːn̪em# >>> #ˌaβˌi?t̪jˈun̪e# ( GOLD : #afiθjˈon̪#) :
-ˌa f f ˌi k t̪ i ˈoː n̪ e m 
-#ˌaffˌikt̪iˈoːn̪e# | 27 : [+nas] > ∅ / __ #
-#ˌaffˌixt̪iˈoːn̪e# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌaffˌext̪eˈoːn̪e# | 45 : [+syl,-long] > [-hi] 
-#ˌaffˌext̪eˈon̪e# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌafˌext̪eˈon̪e# | 48 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
-#ˌafˌext̪ejˈon̪e# | 52 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˌafˌext̪ijˈon̪e# | 56 : e > i / __ j
-#ˌafˌext̪iˈon̪e# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌavˌext̪iˈon̪e# | 97 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌavˌext̪jˈon̪e# | 101 : [+front,+syl,-stres,+hi] > [-syl,0stres,0prim] / __ [+syl]
-#ˌavˌejt̪jˈon̪e# | 105 : [+cons,+back] > j / [+syl] __ [-back]
-#ˌavˌejt̪jˈun̪e# | 107 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
-#ˌavˌeʝt̪jˈun̪e# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌaβˌeʝt̪jˈun̪e# | 127 : {v;f} > {β;ɸ} 
-#ˌaβˌeʒt̪jˈun̪e# | 131 : ʝ > ʒ 
-#ˌaβˌiʒt̪jˈun̪e# | 160 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#ˌaβˌiʃt̪jˈun̪e# | 179 : [+strid] > [-voi] 
-#ˌaβˌi?t̪jˈun̪e# | 180 : [-son,+cor] > [+strid,+cont,-distr,0delrel,+cor] / __ [-cont]
-#ˌaβˌi?t̪jˈun̪e# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #ˌaβˌi?t̪jˈun̪e#
+#kˌuskˈulium# >>> #kˌuxkˈuxu# ( GOLD : #koskˈoxo#) :
+k ˌu s k ˈu l i u m 
+#kˌuskˈuliu# | 27 : [+nas] > ∅ / [-stres] __ #
+#kˌuskˈuliuː# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#kˌuskˈuljuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˌoskˈoljuː# | 45 : [+syl,-long] > [-hi] 
+#kˌoskˈolju# | 46 : [+syl,+long] > [-long,-splng] 
+#kˌoskˈoʎju# | 62 : [+lat] > ʎ / __ j
+#kˌoskˈoʎu# | 73 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#kˌoskˈuʎu# | 87 : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]
+#kˌuskˈuʎu# | 102 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
+#kˌuskˈud͡ʒu# | 117 : ʎ > d͡ʒ 
+#kˌuskˈuʒu# | 118 : d͡ʒ > ʒ 
+#kˌuʃkˈuʒu# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#kˌuʃkˈuʃu# | 171 : [+strid] > [-voi] 
+#kˌuxkˈuxu# | 173 : ʃ > x 
+Final form : #kˌuxkˈuxu#

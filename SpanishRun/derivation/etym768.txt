@@ -1,14 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :768:
-#pˌit̪ˈakkium# >>> #pˌet̪ˈaʃ̪e̯ju# ( GOLD : #ped̪ˈaθo#) :
-p ˌi t̪ ˈa k k i u m 
-#pˌit̪ˈakkiu# | 27 : [+nas] > ∅ / __ #
-#pˌit̪ˈakkiuː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
-#pˌit̪ˈakkjuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#pˌet̪ˈakkjuː# | 45 : [+syl,-long] > [-hi] 
-#pˌet̪ˈakkju# | 46 : [+syl,+long] > [-long,-splng] 
-#pˌet̪ˈakju# | 48 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
-#pˌet̪ˈat͡ʃju# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˌet̪ˈat͡ʃe̯ju# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#pˌet̪ˈat͡ʃ̪e̯ju# | 100 : [+strid,-cont] > [-hi,+ant] 
-#pˌet̪ˈaʃ̪e̯ju# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #pˌet̪ˈaʃ̪e̯ju#
+#iˌuːd̪ˈikium# >>> #xˌoˈiθe̯xu# ( GOLD : #xwˈiθjo#) :
+i ˌuː d̪ ˈi k i u m 
+#iˌuːd̪ˈikiu# | 27 : [+nas] > ∅ / [-stres] __ #
+#iˌuːd̪ˈikiuː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
+#jˌuːd̪ˈikjuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#jˌuːd̪ˈekjuː# | 45 : [+syl,-long] > [-hi] 
+#jˌud̪ˈekju# | 46 : [+syl,+long] > [-long,-splng] 
+#jˌud̪ˈet͡ʃju# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#jˌud̪ˈet͡ʃe̯ju# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#jˌuðˈet͡ʃe̯ju# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#jˌuˈet͡ʃe̯ju# | 90 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#jˌuˈet͡se̯ju# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ʝˌuˈet͡se̯ʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʒˌuˈet͡se̯ʝu# | 119 : ʝ > ʒ / # __ [+round]
+#ʒˌuˈet͡se̯ʒu# | 120 : ʝ > ʒ / [-syl] __ [+round]
+#ʒˌuˈit͡se̯ʒu# | 152 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ʒˌoˈit͡se̯ʒu# | 154 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#ʒˌoˈise̯ʒu# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#ʃˌoˈise̯ʃu# | 171 : [+strid] > [-voi] 
+#xˌoˈise̯xu# | 173 : ʃ > x 
+#xˌoˈiθe̯xu# | 174 : s > θ / __ [-cons]
+Final form : #xˌoˈiθe̯xu#

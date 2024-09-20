@@ -1,14 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :91:
-#d̪ˌiːkˈiːre# >>> #ˌeʃ̪ˈire# ( GOLD : #d̪eθˈiɾ#) :
-d̪ ˌiː k ˈiː r e 
-#d̪ˌikˈire# | 46 : [+syl,+long] > [-long,-splng] 
-#d̪ˌikˈiɾe# | 47 : r > ɾ 
-#d̪ˌikjˈiɾe# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d̪ˌit͡ʃjˈiɾe# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d̪ˌit͡ʃˈiɾe# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ðˌit͡ʃˈire# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌit͡ʃˈire# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˌit͡ʃ̪ˈire# | 100 : [+strid,-cont] > [-hi,+ant] 
-#ˌet͡ʃ̪ˈire# | 161 : [+syl,+hi,+front] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#ˌeʃ̪ˈire# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ˌeʃ̪ˈire#
+#bˈukkeum# >>> #βwˈiθu# ( GOLD : #bˈoθo#) :
+b ˈu k k e u m 
+#bˈukkeu# | 27 : [+nas] > ∅ / [-stres] __ #
+#bˈukkeuː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
+#bˈukkjuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#bˈokkjuː# | 45 : [+syl,-long] > [-hi] 
+#bˈokkju# | 46 : [+syl,+long] > [-long,-splng] 
+#bˈokt͡ʃju# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˈokt͡ʃju# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#βˈokt͡sju# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˈokt͡sju# | 98 : β > v 
+#vˈojt͡sju# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#vˈujt͡sju# | 102 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
+#vˈujt͡sʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˈujt͡sʝu# | 116 : {v;f} > {β;ɸ} 
+#βˈujt͡sʒu# | 120 : ʝ > ʒ / [-syl] __ [+round]
+#βˈujt͡sʃu# | 129 : [-son] > [-voi] / [-voi] __ 
+#βwˈit͡sʃu# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#βwˈit͡su# | 156 : [-son] > ∅ / [+delrel] __ 
+#βwˈisu# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#βwˈiθu# | 174 : s > θ / __ [-cons]
+Final form : #βwˈiθu#

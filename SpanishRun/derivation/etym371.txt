@@ -1,19 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :371:
-#kˌapillat̪ˈuːra# >>> #ʃ̪jˌewlt̪ˈura# ( GOLD : #kabeʝad̪ˈuɾa#) :
-k ˌa p i l l a t̪ ˈuː r a 
-#kˌapellat̪ˈuːra# | 45 : [+syl,-long] > [-hi] 
-#kˌapellat̪ˈura# | 46 : [+syl,+long] > [-long,-splng] 
-#kˌapellat̪ˈuɾa# | 47 : r > ɾ 
-#kˌapelat̪ˈuɾa# | 48 : [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
-#kjˌapelat̪ˈuɾa# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌapelat̪ˈuɾa# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˌapelat̪ˈura# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#t͡ʃ̪jˌapelat̪ˈura# | 100 : [+strid,-cont] > [-hi,+ant] 
-#t͡ʃ̪jˌapelet̪ˈura# | 106 : [+syl,+front,+tense] > [-lo] / __ ( [-syl] ) [+syl,+hi]
-#t͡ʃ̪jˌepelet̪ˈura# | 109 : [+syl] > [-lo] / j __ [-son]
-#t͡ʃ̪jˌeplt̪ˈura# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#t͡ʃ̪jˌepl̥t̪ˈura# | 139 : [+cons] > [-voi] / [-voi] __ 
-#t͡ʃ̪jˌewl̥t̪ˈura# | 174 : [+lab,+cons] > w / __ [+cons]
-#ʃ̪jˌewl̥t̪ˈura# | 178 : [+strid,+ant] > [+cont,0delrel] 
-#ʃ̪jˌewlt̪ˈura# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #ʃ̪jˌewlt̪ˈura#
+#pˌulˈeɡium# >>> #pˌolˈiʝu# ( GOLD : #polˈeo#) :
+p ˌu l ˈe ɡ i u m 
+#pˌulˈeɡiu# | 27 : [+nas] > ∅ / [-stres] __ #
+#pˌulˈeɡiuː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
+#pˌulˈeiuː# | 40 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+#pˌulˈejuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#pˌulˈɛjuː# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˌolˈɛjuː# | 45 : [+syl,-long] > [-hi] 
+#pˌolˈɛju# | 46 : [+syl,+long] > [-long,-splng] 
+#pˌolˈeju# | 53 : ˈɛ > ˈe / __ j
+#pˌolˈiju# | 57 : ˈe > ˈi / __ j
+#pˌulˈiju# | 102 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
+#pˌulˈiʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pˌolˈiʝu# | 154 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+Final form : #pˌolˈiʝu#

@@ -1,16 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :4:
-#blˌan̪d̪ˈit̪ia# >>> #wlˌan̪ˈit̪e̯a# ( GOLD : #blan̪d̪ˈeθa#) :
-b l ˌa n̪ d̪ ˈi t̪ i a 
-#blˌaːn̪d̪ˈit̪ia# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#blˌaːn̪d̪ˈet̪ea# | 45 : [+syl,-long] > [-hi] 
-#blˌan̪d̪ˈet̪ea# | 46 : [+syl,+long] > [-long,-splng] 
-#βlˌan̪ðˈet̪ea# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#βlˌan̪ˈet̪ea# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#vlˌan̪ˈet̪ea# | 104 : β > v 
-#βlˌan̪ˈet̪ea# | 127 : {v;f} > {β;ɸ} 
-#βʎˌan̪ˈet̪ea# | 132 : [+lat] > ʎ / [-son] __ 
-#βlˌan̪ˈet̪ea# | 137 : ʎ > l / [+cons,+voi] __ 
-#βlˌan̪ˈet̪e̯a# | 157 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
-#βlˌan̪ˈit̪e̯a# | 160 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#wlˌan̪ˈit̪e̯a# | 174 : [+lab,+cons] > w / __ [+cons]
-Final form : #wlˌan̪ˈit̪e̯a#
+#ˌabbrˌakʰiˈaːre# >>> #ˌaβrˌaθe̯ʝeˈar# ( GOLD : #abɾaθˈaɾ#) :
+ˌa b b r ˌa kʰ i ˈaː r e 
+#ˌabbrˌakʰeˈaːre# | 45 : [+syl,-long] > [-hi] 
+#ˌabbrˌakʰeˈare# | 46 : [+syl,+long] > [-long,-splng] 
+#ˌabbrˌakʰjeˈare# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌabbrˌat͡ʃjeˈare# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌabbrˌat͡ʃe̯jeˈare# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#ˌaββrˌat͡ʃe̯jeˈare# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌaββrˌat͡se̯jeˈare# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌavvrˌat͡se̯jeˈare# | 98 : β > v 
+#ˌavvrˌat͡se̯ʝeˈare# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌaββrˌat͡se̯ʝeˈare# | 116 : {v;f} > {β;ɸ} 
+#ˌaβrˌat͡se̯ʝeˈare# | 126 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#ˌaβrˌat͡se̯ʝeˈar# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌaβrˌase̯ʝeˈar# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#ˌaβrˌaθe̯ʝeˈar# | 174 : s > θ / __ [-cons]
+Final form : #ˌaβrˌaθe̯ʝeˈar#

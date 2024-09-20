@@ -1,12 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :682:
-#prˈoːmpt̪um# >>> #wr̥ˈowt̪o# ( GOLD : #pɾˈon̪t̪o#) :
-p r ˈoː m p t̪ u m 
-#prˈoːmt̪um# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#prˈoːmt̪u# | 27 : [+nas] > ∅ / __ #
-#prˈoːmt̪o# | 45 : [+syl,-long] > [-hi] 
-#prˈomt̪o# | 46 : [+syl,+long] > [-long,-splng] 
-#pɾˈomt̪o# | 47 : r > ɾ 
-#prˈomt̪o# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#pr̥ˈomt̪o# | 139 : [+cons] > [-voi] / [-voi] __ 
-#wr̥ˈowt̪o# | 174 : [+lab,+cons] > w / __ [+cons]
-Final form : #wr̥ˈowt̪o#
+#pˌersˈoːn̪am# >>> #wçxˈon̪a# ( GOLD : #peɾson̪a#) :
+p ˌe r s ˈoː n̪ a m 
+#pˌersˈoːn̪a# | 27 : [+nas] > ∅ / [-stres] __ #
+#pˌessˈoːn̪a# | 34 : r > s / __ s
+#pˌɛssˈoːn̪a# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˌɛssˈon̪a# | 46 : [+syl,+long] > [-long,-splng] 
+#pjessˈon̪a# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#pʝessˈon̪a# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pʝesˈon̪a# | 126 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#pʝsˈon̪a# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#pçsˈon̪a# | 129 : [-son] > [-voi] / [-voi] __ 
+#pçʃˈon̪a# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#wçʃˈon̪a# | 167 : [+lab,+cons] > w / __ [-son]
+#wçxˈon̪a# | 173 : ʃ > x 
+Final form : #wçxˈon̪a#

@@ -1,25 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1058:
-#wˌin̪kˈikulum# >>> #ˌiʃ̪ˈiɡl̥o# ( GOLD : #ben̪θˈexo#) :
-w ˌi n̪ k ˈi k u l u m 
-#wˌiːn̪kˈikulum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#wˌiːŋkˈikulum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ɣʷˌiːŋkˈikulum# | 17 : w > ɣʷ / __ [+syl]
-#ɣʷˌiːŋkˈikulu# | 27 : [+nas] > ∅ / __ #
-#βˌiːŋkˈikulu# | 32 : ɣʷ > β 
-#βˌiːŋkˈekolo# | 45 : [+syl,-long] > [-hi] 
-#βˌiŋkˈekolo# | 46 : [+syl,+long] > [-long,-splng] 
-#βˌiŋkjˈekolo# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌiŋt͡ʃjˈekolo# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌiŋt͡ʃjˈekolo# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˌiŋt͡ʃ̪jˈekolo# | 100 : [+strid,-cont] > [-hi,+ant] 
-#ˌijt͡ʃ̪jˈekolo# | 105 : [+cons,+back] > j / [+syl] __ [-back]
-#ˌiʝt͡ʃ̪jˈekolo# | 125 : [-cons,-syl,+hi] > [+cons,-son,0tense] / [+syl] __ 
-#ˌiʒt͡ʃ̪jˈekolo# | 131 : ʝ > ʒ 
-#ˌiʒt͡ʃ̪jˈeklo# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌiʒt͡ʃ̪jˈekl̥o# | 139 : [+cons] > [-voi] / [-voi] __ 
-#ˌit͡ʃ̪jˈekl̥o# | 162 : [+cons] > ∅ / __ [+delrel]
-#ˌit͡ʃ̪jˈikl̥o# | 171 : [+syl,+front] > [+hi] / [-cons,-syl,+front] __ [-ant] [+cons]
-#ˌit͡ʃ̪ˈikl̥o# | 173 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ˌiʃ̪ˈikl̥o# | 178 : [+strid,+ant] > [+cont,0delrel] 
-#ˌiʃ̪ˈiɡl̥o# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #ˌiʃ̪ˈiɡl̥o#
+#kˈapt̪ioː# >>> #θˈet͡ʃo# ( GOLD : #kˈaθo#) :
+k ˈa p t̪ i oː 
+#kˈapt̪eoː# | 45 : [+syl,-long] > [-hi] 
+#kˈapt̪eo# | 46 : [+syl,+long] > [-long,-splng] 
+#kˈapt̪ejo# | 51 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#kˈapt̪ijo# | 55 : e > i / __ j
+#kˈat̪t̪ijo# | 64 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
+#kjˈat̪t̪ijo# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈat̪t̪ijo# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡sjˈat̪t̪ijo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjˈat̪t̪iju# | 101 : [+syl,+back] > [+hi] / [+front,+hi,-cons,-syl,-back] __ 
+#t͡sjˈet̪t̪iju# | 103 : [+syl] > [-lo] / j __ [-son]
+#t͡sʝˈet̪t̪iʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sʝˈet̪t̪iʝo# | 115 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
+#t͡sʝˈet̪iʝo# | 126 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#t͡sʝˈet̪ʝo# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t͡sçˈet̪ço# | 129 : [-son] > [-voi] / [-voi] __ 
+#t͡sçˈet͡ʃço# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#t͡sˈet͡ʃo# | 156 : [-son] > ∅ / [+delrel] __ 
+#sˈet͡ʃo# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#θˈet͡ʃo# | 174 : s > θ / __ [-cons]
+Final form : #θˈet͡ʃo#

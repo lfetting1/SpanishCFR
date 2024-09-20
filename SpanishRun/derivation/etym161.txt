@@ -1,17 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :161:
-#fˈurkam# >>> #ˈuʃ̪ja# ( GOLD : #ˈoɾka#) :
-f ˈu r k a m 
-#fˈurka# | 27 : [+nas] > ∅ / __ #
-#fˈorka# | 45 : [+syl,-long] > [-hi] 
-#fˈoɾka# | 47 : r > ɾ 
-#fˈoɾkja# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#fˈoɾt͡ʃja# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#fˈort͡ʃja# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#fˈort͡ʃ̪ja# | 100 : [+strid,-cont] > [-hi,+ant] 
-#ɸˈort͡ʃ̪ja# | 127 : {v;f} > {β;ɸ} 
-#ɸˈurt͡ʃ̪ja# | 160 : [+syl,-lo] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-#ɸˈut͡ʃ̪ja# | 162 : [+cons] > ∅ / __ [+delrel]
-#hˈut͡ʃ̪ja# | 167 : ɸ > h / __ [+syl]
-#ˈut͡ʃ̪ja# | 169 : h > ∅ 
-#ˈuʃ̪ja# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ˈuʃ̪ja#
+#kˈorium# >>> #kˈorxu# ( GOLD : #kwˈeɾo#) :
+k ˈo r i u m 
+#kˈoriu# | 27 : [+nas] > ∅ / [-stres] __ #
+#kˈoriuː# | 36 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
+#kˈorjuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˈɔrjuː# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˈɔrju# | 46 : [+syl,+long] > [-long,-splng] 
+#kˈorju# | 104 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#kˈorʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kˈorʒu# | 120 : ʝ > ʒ / [-syl] __ [+round]
+#kˈorʃu# | 171 : [+strid] > [-voi] 
+#kˈorxu# | 173 : ʃ > x 
+Final form : #kˈorxu#

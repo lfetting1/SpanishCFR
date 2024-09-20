@@ -1,9 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :583:
-#mˈut̪ilum# >>> #mˈod̪l̥o# ( GOLD : #mˈot͡ʃo#) :
-m ˈu t̪ i l u m 
-#mˈut̪ilu# | 27 : [+nas] > ∅ / __ #
-#mˈot̪elo# | 45 : [+syl,-long] > [-hi] 
-#mˈot̪lo# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#mˈot̪l̥o# | 139 : [+cons] > [-voi] / [-voi] __ 
-#mˈod̪l̥o# | 184 : [+cons,-voi] > [+voi] / [-cons] __ [+cons]
-Final form : #mˈod̪l̥o#
+#kˈoksum# >>> #kwˈexo# ( GOLD : #koxo#) :
+k ˈo k s u m 
+#kˈoksu# | 27 : [+nas] > ∅ / [-stres] __ #
+#kˈoxsu# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#kˈɔxsu# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˈɔxso# | 45 : [+syl,-long] > [-hi] 
+#kˈɔjso# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kˈojso# | 104 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#kˈojʃo# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#kwˈeʃo# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kwˈexo# | 173 : ʃ > x 
+Final form : #kwˈexo#

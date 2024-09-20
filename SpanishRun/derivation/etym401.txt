@@ -1,14 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :401:
-#kˌibˈaːt̪am# >>> #ʃ̪je̯ˈat̪a# ( GOLD : #θebˈad̪a#) :
-k ˌi b ˈaː t̪ a m 
-#kˌibˈaːt̪a# | 27 : [+nas] > ∅ / __ #
-#kˌebˈaːt̪a# | 45 : [+syl,-long] > [-hi] 
-#kˌebˈat̪a# | 46 : [+syl,+long] > [-long,-splng] 
-#kjˌebˈat̪a# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌebˈat̪a# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˌeβˈat̪a# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#t͡ʃjˌeˈat̪a# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#t͡ʃ̪jˌeˈat̪a# | 100 : [+strid,-cont] > [-hi,+ant] 
-#t͡ʃ̪je̯ˈat̪a# | 157 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
-#ʃ̪je̯ˈat̪a# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ʃ̪je̯ˈat̪a#
+#rubeum# >>> #rwxo# ( GOLD : #rˈubjo#) :
+r u b e u m 
+#rubeu# | 27 : [+nas] > ∅ / [-stres] __ #
+#rubeuː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
+#rubjuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#robjuː# | 45 : [+syl,-long] > [-hi] 
+#robju# | 46 : [+syl,+long] > [-long,-splng] 
+#roβju# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#rovju# | 98 : β > v 
+#ruvju# | 102 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* [+hi,+syl]
+#ruvʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ruvʝo# | 115 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
+#ruβʝo# | 116 : {v;f} > {β;ɸ} 
+#ruβʒo# | 120 : ʝ > ʒ / [-syl] __ [+round]
+#rβʒo# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#rwʒo# | 167 : [+lab,+cons] > w / __ [-son]
+#rwʃo# | 171 : [+strid] > [-voi] 
+#rwxo# | 173 : ʃ > x 
+Final form : #rwxo#

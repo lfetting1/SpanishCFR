@@ -1,7 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :723:
-#pˈiːn̪um# >>> #pˈin̪o# ( GOLD : #pˈin̪o#) :
-p ˈiː n̪ u m 
-#pˈiːn̪u# | 27 : [+nas] > ∅ / __ #
-#pˈiːn̪o# | 45 : [+syl,-long] > [-hi] 
-#pˈin̪o# | 46 : [+syl,+long] > [-long,-splng] 
-Final form : #pˈin̪o#
+#sˈeks# >>> #xjˈex# ( GOLD : #sˈejs#) :
+s ˈe k s 
+#sˈexs# | 33 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#sˈɛxs# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˈɛjs# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#sˈejs# | 104 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ʃˈejʃ# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#ʃjˈeʃ# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#xjˈex# | 173 : ʃ > x 
+Final form : #xjˈex#

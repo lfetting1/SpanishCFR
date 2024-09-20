@@ -1,14 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1255:
-#ˌaːbˈaːkem# >>> #a̯ˈaʃ̪e̯je# ( GOLD : #abˈaθ#) :
-ˌaː b ˈaː k e m 
-#ˌaːbˈaːke# | 27 : [+nas] > ∅ / __ #
-#ˌabˈake# | 46 : [+syl,+long] > [-long,-splng] 
-#ˌabˈakje# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌabˈat͡ʃje# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌabˈat͡ʃe̯je# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#ˌaβˈat͡ʃe̯je# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌaˈat͡ʃe̯je# | 94 : [-son,+voi,-strid,+ant,-hi] > ∅ / __ [+syl,-cons,-round]
-#ˌaˈat͡ʃ̪e̯je# | 100 : [+strid,-cont] > [-hi,+ant] 
-#a̯ˈat͡ʃ̪e̯je# | 157 : [+syl] > [-syl,0stres,0prim] / __ [+syl,-cons]
-#a̯ˈaʃ̪e̯je# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #a̯ˈaʃ̪e̯je#
+#ɡˈemmam# >>> #xʝma# ( GOLD : #jˈema#) :
+ɡ ˈe m m a m 
+#ɡˈemma# | 27 : [+nas] > ∅ / [-stres] __ #
+#ɡˈɛmma# | 44 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ɡjˈɛmma# | 68 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˈɛmma# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ʒjˈɛmma# | 88 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ʒjjemma# | 107 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ʒjʝemma# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʒjʝema# | 126 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#ʒjʝma# | 128 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ʒʝma# | 137 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ʃʝma# | 171 : [+strid] > [-voi] 
+#xʝma# | 173 : ʃ > x 
+Final form : #xʝma#

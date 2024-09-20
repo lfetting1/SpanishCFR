@@ -1,15 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :317:
-#kˈin̪kt̪a# >>> #ʃ̪ˈit̪a# ( GOLD : #θˈin̪t̪a#) :
-k ˈi n̪ k t̪ a 
-#kˈiːn̪kt̪a# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˈiːŋkt̪a# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#kˈiːŋt̪a# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#kˈiŋt̪a# | 46 : [+syl,+long] > [-long,-splng] 
-#kˈijt̪a# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#kjˈijt̪a# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈijt̪a# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˈit̪a# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#t͡ʃˈit̪a# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#t͡ʃ̪ˈit̪a# | 100 : [+strid,-cont] > [-hi,+ant] 
-#ʃ̪ˈit̪a# | 178 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ʃ̪ˈit̪a#
+#mˌikst̪ˈiːkium# >>> #mˌet͡ʃˈiθe̯xu# ( GOLD : #mest̪ˈiθo#) :
+m ˌi k s t̪ ˈiː k i u m 
+#mˌiks̪t̪ˈiːkium# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#mˌiks̪t̪ˈiːkiu# | 27 : [+nas] > ∅ / [-stres] __ #
+#mˌis̪t̪ˈiːkiu# | 31 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
+#mˌis̪t̪ˈiːkiuː# | 35 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
+#mˌis̪t̪ˈiːkjuː# | 41 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#mˌes̪t̪ˈiːkjuː# | 45 : [+syl,-long] > [-hi] 
+#mˌes̪t̪ˈikju# | 46 : [+syl,+long] > [-long,-splng] 
+#mˌes̪t̪ˈit͡ʃju# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˌes̪t̪ˈit͡ʃe̯ju# | 84 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#mˌes̪t̪ˈit͡se̯ju# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mˌes̪t̪ˈit͡se̯ʝu# | 114 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#mˌes̪t̪ˈit͡se̯ʒu# | 120 : ʝ > ʒ / [-syl] __ [+round]
+#mˌes̪t͡ʃˈit͡se̯ʒu# | 133 : {s;t̪} > {ʃ;t͡ʃ} 
+#mˌet͡ʃˈit͡se̯ʒu# | 155 : [-son] > ∅ / __ [+delrel]
+#mˌet͡ʃˈise̯ʒu# | 170 : [+strid,+ant] > [+cont,0delrel] 
+#mˌet͡ʃˈise̯ʃu# | 171 : [+strid] > [-voi] 
+#mˌet͡ʃˈise̯xu# | 173 : ʃ > x 
+#mˌet͡ʃˈiθe̯xu# | 174 : s > θ / __ [-cons]
+Final form : #mˌet͡ʃˈiθe̯xu#
