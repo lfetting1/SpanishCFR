@@ -48,7 +48,7 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 
 [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
 
-[+nas] > ∅ / [-stres] __ # $ final nasal deletion
+[+nas] > ∅ / [-stres] __ # $ final nasal deletion, does not get deleted after stressed final syllables, effectively only monosyllabic words such as tam > tan or cum > con
 
 [+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 
 
@@ -64,9 +64,9 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 
 r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,+strid]
 
-[+syl] > [+syl,+long] / [+cons,-cor,-cont] [+syl] __ $vowel lengthening
+[+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ $vowel lengthening
 
-[+syl] > [+syl,+long] / [+cor,+son] [+syl] __ $ vowel lengthening (combine?)
+[+syl,αback] > [+long] / [+cor,+son] [+syl,αback] __ $ vowel lengthening (combine?)
 
 [+stres,-lo] [-stres] > [-stres] [+prim] $ progressive_stress
 
@@ -90,7 +90,7 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 r r > r $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
 
-$[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] 
+$[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] Part of unlong rule, Seemingly intended to delete geminates, but Hartman's rule does not do this, so it is commented out as of 9/13
 
 r > ɾ / __ [+cons] $unlong,syllable final trill > tap
 
@@ -170,7 +170,7 @@ w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify ru
 
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization $(89) !No effect. Possibly related to diff treatment of sibilants. Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑɾe -> koʝetˈɑɾe
 
-[-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab] $ delete bdg (reformulated by KS) - 9/20 changed prior context from [+syl] to [-cons], changed βround to βlab
+[-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab] $ delete bdg (reformulated by KS) - 9/20 changed prior context from [+syl] to [-cons], changed βround to βlab.
 
 [+cont] > [+voi] / [-cons] __ [+son] $voicing $(97) good.
 
@@ -188,7 +188,7 @@ w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify ru
 
 [+cons,+back] > j / [+syl] __ [-back,+cons] $ velar yod late $(105) fixed posterior
 
-[+syl,+front,+tense] > [-lo] / __ ([-syl])[+syl,+hi] $ metaphony e $(106) !come back to these
+[+syl,+front,+tense] > [+hi,-lo] / __ ([-syl])[+syl,+hi] $ metaphony e $(106) !come back to these
 
 [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels $(107) !come back to these
 

@@ -1,8 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1126:
-#ɡˈut̪t̪ɑm# >>> #ɣˈot̪ɑ# ( GOLD : #ɡˈot̪ɑ#) :
-ɡ ˈu t̪ t̪ ɑ m 
-#ɡˈut̪t̪ɑ# | 25 : [+nas] > ∅ / [-stres] __ #
-#ɡˈot̪t̪ɑ# | 43 : [+syl,-long] > [-hi] 
-#ɣˈot̪t̪ɑ# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ɣˈot̪ɑ# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
-Final form : #ɣˈot̪ɑ#
+#ɡˌelˈɑːre# >>> #xʝlˈɑr# ( GOLD : #elˈɑɾ#) :
+ɡ ˌe l ˈɑː r e 
+#ɡˌɛlˈɑːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ɡˌɛlˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
+#ɡjˌɛlˈɑre# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˌɛlˈɑre# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ʒjˌɛlˈɑre# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ʒjjelˈɑre# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ʒjʝelˈɑre# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʒjʝlˈɑre# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ʒʝlˈɑre# | 130 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ʒʝlˈɑr# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ʃʝlˈɑr# | 164 : [+strid] > [-voi] 
+#xʝlˈɑr# | 166 : ʃ > x 
+Final form : #xʝlˈɑr#

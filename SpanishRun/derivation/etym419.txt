@@ -1,15 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :419:
-#kˌorrˈiɡiɑ# >>> #kˌorˈiʝɯ# ( GOLD : #korˈeɑ#) :
-k ˌo r r ˈi ɡ i ɑ 
-#kˌorrˈiɡiɑː# | 33 : [+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ 
-#kˌorrˈiiɑː# | 38 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#kˌorrˈijɑː# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#kˌɔrrˈijɑː# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔrrˈejɑː# | 43 : [+syl,-long] > [-hi] 
-#kˌɔrrˈejɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#kˌɔrˈejɑ# | 45 : r r > r 
-#kˌɔrˈijɑ# | 50 : {ɛ;ˈɛ;ˌɛ;e;ˌe;ˈe} > {e;ˈe;ˌe;i;ˌi;ˈi} / __ j
-#kˌɔrˈijɯ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#kˌorˈijɯ# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#kˌorˈiʝɯ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-Final form : #kˌorˈiʝɯ#
+#kˌort̪ˈikeɑ# >>> #kxʷrt̪ˈiθe̯ʝɯ# ( GOLD : #koɾt̪ˈeθɑ#) :
+k ˌo r t̪ ˈi k e ɑ 
+#kˌort̪ˈikjɑ# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#kˌɔrt̪ˈikjɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔrt̪ˈekjɑ# | 43 : [+syl,-long] > [-hi] 
+#kˌɔɾt̪ˈekjɑ# | 46 : r > ɾ / __ [+cons]
+#kˌɔɾt̪ˈet͡ʃjɑ# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌɔɾt̪ˈet͡ʃe̯jɑ# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#kˌɔrt̪ˈet͡ʃe̯jɑ# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#kˌɔrt̪ˈet͡se̯jɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌɔrt̪ˈet͡se̯jɯ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#kwert̪ˈet͡se̯jɯ# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#kɣʷert̪ˈet͡se̯ʝɯ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kɣʷrt̪ˈet͡se̯ʝɯ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kxʷrt̪ˈet͡se̯ʝɯ# | 122 : [-son] > [-voi] / [-voi] __ 
+#kxʷrt̪ˈit͡se̯ʝɯ# | 145 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#kxʷrt̪ˈise̯ʝɯ# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#kxʷrt̪ˈiθe̯ʝɯ# | 167 : s > θ / __ [-cons]
+Final form : #kxʷrt̪ˈiθe̯ʝɯ#

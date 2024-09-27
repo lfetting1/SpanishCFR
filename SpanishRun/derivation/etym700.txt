@@ -1,8 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :700:
-#plˈɑn̪t̪ɑ# >>> #ʎˈɑn̪t̪ɑ# ( GOLD : #ʝˈɑn̪t̪ɑ#) :
-p l ˈɑ n̪ t̪ ɑ 
-#plˈɑːn̪t̪ɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#plˈɑn̪t̪ɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#pʎˈɑn̪t̪ɑ# | 114 : [+lat] > ʎ / [-son] __ 
-#ʎˈɑn̪t̪ɑ# | 115 : [+cons,-voi] > ∅ / # __ [+lat]
-Final form : #ʎˈɑn̪t̪ɑ#
+#plˈɑɡiɑm# >>> #ʎˈɑʝɯ# ( GOLD : #plˈɑjɑ#) :
+p l ˈɑ ɡ i ɑ m 
+#plˈɑɡiɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#plˈɑiɑ# | 38 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+#plˈɑjɑ# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#plˈɑjɯ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#plˈɑʝɯ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pʎˈɑʝɯ# | 114 : [+lat] > ʎ / [-son] __ 
+#ʎˈɑʝɯ# | 115 : [+cons,-voi] > ∅ / # __ [+lat]
+Final form : #ʎˈɑʝɯ#

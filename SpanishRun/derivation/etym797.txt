@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :797:
-#pˌort̪ˈɑːt̪ikum# >>> #xʷrt̪ˈɑsko# ( GOLD : #poɾt̪ˈɑθɡo#) :
-p ˌo r t̪ ˈɑː t̪ i k u m 
-#pˌort̪ˈɑːt̪iku# | 25 : [+nas] > ∅ / [-stres] __ #
-#pˌɔrt̪ˈɑːt̪iku# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌɔrt̪ˈɑːt̪eko# | 43 : [+syl,-long] > [-hi] 
-#pˌɔrt̪ˈɑt̪eko# | 44 : [+syl,+long] > [-long,-splng] 
-#pˌɔɾt̪ˈɑt̪eko# | 46 : r > ɾ / __ [+cons]
-#pˌɔrt̪ˈɑt̪eko# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#pwert̪ˈɑt̪eko# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#pɣʷert̪ˈɑt̪eko# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pɣʷrt̪ˈɑt̪ko# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pxʷrt̪ˈɑt̪ko# | 122 : [-son] > [-voi] / [-voi] __ 
-#wxʷrt̪ˈɑt̪ko# | 124 : [+cons,+lab] > w / __ [+back,+cons]
-#xʷrt̪ˈɑt̪ko# | 127 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-#xʷrt̪ˈɑsko# | 165 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #xʷrt̪ˈɑsko#
+#pˌoːt̪iˈoːn̪em# >>> #pˌuθe̯xˈun̪# ( GOLD : #poθˈon̪#) :
+p ˌoː t̪ i ˈoː n̪ e m 
+#pˌoːt̪iˈoːn̪e# | 25 : [+nas] > ∅ / [-stres] __ #
+#pˌoːt̪jˈoːn̪e# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#pˌot̪jˈon̪e# | 44 : [+syl,+long] > [-long,-splng] 
+#pˌot͡ʃjˈon̪e# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#pˌot͡ʃe̯jˈon̪e# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#pˌot͡se̯jˈon̪e# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#pˌot͡se̯jˈun̪e# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#pˌut͡se̯jˈun̪e# | 95 : [+syl,+round,+tense] > [+hi,-lo] / __ ( [-syl] )* [+hi,+syl]
+#pˌut͡se̯ʝˈun̪e# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pˌut͡se̯ʒˈun̪e# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#pˌut͡se̯ʒˈun̪# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#pˌuse̯ʒˈun̪# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#pˌuse̯ʃˈun̪# | 164 : [+strid] > [-voi] 
+#pˌuse̯xˈun̪# | 166 : ʃ > x 
+#pˌuθe̯xˈun̪# | 167 : s > θ / __ [-cons]
+Final form : #pˌuθe̯xˈun̪#

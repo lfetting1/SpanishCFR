@@ -1,14 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :320:
-#kˈorpus# >>> #kxʷrwθ# ( GOLD : #kwˈeɾpo#) :
-k ˈo r p u s 
-#kˈɔrpus# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˈɔrpos# | 43 : [+syl,-long] > [-hi] 
-#kˈɔɾpos# | 46 : r > ɾ / __ [+cons]
-#kˈɔrpos# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#kwerpos# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#kɣʷerpos# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kɣʷrps# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kxʷrps# | 122 : [-son] > [-voi] / [-voi] __ 
-#kxʷrws# | 160 : [+lab,+cons] > w / __ [-son]
-#kxʷrwθ# | 168 : s > θ / __ #
-Final form : #kxʷrwθ#
+#kˈorwum# >>> #kxʷrβo# ( GOLD : #kwˈeɾbo#) :
+k ˈo r w u m 
+#kˈorɣʷum# | 17 : w > ɣʷ / __ [+syl]
+#kˈorɣʷu# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˈorβu# | 30 : ɣʷ > β 
+#kˈɔrβu# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˈɔrβo# | 43 : [+syl,-long] > [-hi] 
+#kˈɔɾβo# | 46 : r > ɾ / __ [+cons]
+#kˈɔrβo# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#kˈɔrvo# | 91 : β > v 
+#kwervo# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#kɣʷervo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kɣʷerβo# | 109 : {v;f} > {β;ɸ} 
+#kɣʷrβo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kxʷrβo# | 122 : [-son] > [-voi] / [-voi] __ 
+Final form : #kxʷrβo#

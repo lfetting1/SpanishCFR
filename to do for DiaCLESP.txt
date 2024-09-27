@@ -1,2 +1,3 @@
-Change prior context from [+syll] to [-cons] for DELETE BDG (Done 9/20)
-Add a rule that fixes trills and taps. Hartman does this as part of his rules to go from latin to ipa, but we will need our own rule.
+-Change prior context from [+syll] to [-cons] for DELETE BDG (Done 9/20)
+-Add a rule that fixes trills and taps. Hartman does this as part of his rules to go from latin to  ipa, but we will need our own rule.
+-Resolve inconsistencies between our lexicon and cascade. For example, Hartman's rules, and therefore, baseCLESP assume voiced obstruents to be phonemically fricatives, but our lexicon assumes them to be stops. This is probably not a huge source of error, but we should reach a decision about how to proceed.

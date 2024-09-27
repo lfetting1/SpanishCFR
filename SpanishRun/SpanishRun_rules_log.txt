@@ -18,7 +18,7 @@ w > ∅ / [+back,+syl] __ | ORIG : w > ∅ / [+back,+syl] __
 w > ɣʷ / __ [+syl]| ORIG : w > [+cons,-son] / __ [+syl] 
 j > ʝ / [+syl] __ [+syl]| ORIG : j > [+cons,-son] / [+syl] __ [+syl] 
 [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]| ORIG : [+ant,-distr,+strid] > [+ant,+distr,+strid] / __ [+ant,+distr] 
-{a e̯;o e̯;ˈa e̯;ˈo e̯;ˌa e̯;ˌo e̯} > {ɛ j;e j;ˈɛ j;ˈe j;ˌɛ j;ˌe j} | ORIG : {a e̯ ; o e̯; ˈa e̯ ; ˈo e̯;ˌa e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} 
+{ɑ e̯;o e̯;ˈɑ e̯;ˈo e̯;ˌɑ e̯;ˌo e̯} > {ɛ j;e j;ˈɛ j;ˈe j;ˌɛ j;ˌe j} | ORIG : {ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} 
 [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] | ORIG : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense] 
 [+syl] j > [+syl,+long,+son,0delrel] ∅| ORIG : [+syl] j > [+syl,+long] ∅ 
 [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas]| ORIG : [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] 
@@ -31,8 +31,8 @@ j > ʝ / [+syl] __ [+syl]| ORIG : j > [+cons,-son] / [+syl] __ [+syl]
 ɣʷ > β | ORIG : ɣʷ > β 
 [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]| ORIG : [+back,+cons,-cont] > [+cont] / [+syl] __ [+cons,-back] 
 r > s / __ s| ORIG : r > s / __ s 
-[+syl] > [+syl,+long,+son,0delrel] / [+cons,-cor,-cont] [+syl] __ | ORIG : [+syl] > [+syl,+long] / [+cons,-cor,-cont] [+syl] __ 
-[+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ | ORIG : [+syl] > [+syl,+long] / [+cor,+son] [+syl] __ 
+[+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ | ORIG : [+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ 
+[+syl,αback] > [+long] / [+cor,+son] [+syl,αback] __ | ORIG : [+syl,αback] > [+long] / [+cor,+son] [+syl,αback] __ 
 [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]| ORIG : [+stres,-lo] [-stres] > [-stres] [+prim] 
 [+stres,-lo,-hi,+back] [-stres,-back] > [-stres,-prim,+syl,+son,0delrel] [+stres,+syl,+son,0delrel]| ORIG : [+stres,-lo,-hi,+back] [-stres,-back] > [-stres] [+stres] 
 [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]| ORIG : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres] [+prim] 
@@ -91,7 +91,7 @@ w > ∅ / [+cons,+back] __ [+syl,+front]| ORIG : w > ∅ / [+cons,+back] __ [+sy
 [+front,+syl,-stres] > j / [+syl,+back] __ | ORIG : [+front,+syl,-stres] > j / [+syl,+back] __ 
 β > v | ORIG : β > v 
 [+cons,+back] > j / [+syl] __ [-back,+cons]| ORIG : [+cons,+back] > j / [+syl] __ [-back,+cons] 
-[+syl,+front,+tense] > [-lo] / __ ( [-syl] ) [+syl,+hi]| ORIG : [+syl,+front,+tense] > [-lo] / __ ([-syl])[+syl,+hi] 
+[+syl,+front,+tense] > [+hi,-lo] / __ ( [-syl] ) [+syl,+hi]| ORIG : [+syl,+front,+tense] > [+hi,-lo] / __ ([-syl])[+syl,+hi] 
 [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ | ORIG : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
 [+syl,+round,+tense] > [+hi,-lo] / __ ( [-syl] )* [+hi,+syl]| ORIG : [+syl,+round,+tense] > [+hi,-lo] / __ ([-syl])* [+hi,+syl] 
 [+syl] > [-lo] / j __ [-son]| ORIG : [+syl] > [-lo] / j __ [-son] 

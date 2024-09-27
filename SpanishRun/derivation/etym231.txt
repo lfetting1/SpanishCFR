@@ -1,17 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :231:
-#iˈun̪kt̪ɑm# >>> #xwˈit͡ʃɑ# ( GOLD : #xˈun̪t̪ɑ#) :
-i ˈu n̪ k t̪ ɑ m  
-#iˈuːn̪kt̪ɑm# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#iˈuːŋkt̪ɑm# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#iˈuːŋt̪ɑm# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#iˈuːŋt̪ɑ# | 25 : [+nas] > ∅ / [-stres] __ #
-#jˈuːŋt̪ɑ# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#jˈuŋt̪ɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#jˈujt̪ɑ# | 51 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#ʝˈujt̪ɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʒˈujt̪ɑ# | 112 : ʝ > ʒ / # __ [+round]
-#ʒˈujt͡ʃɑ# | 126 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#ʒwˈit͡ʃɑ# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ʃwˈit͡ʃɑ# | 164 : [+strid] > [-voi] 
-#xwˈit͡ʃɑ# | 166 : ʃ > x 
-Final form : #xwˈit͡ʃɑ#
+#jˈuːd̪ikem# >>> #xwˈiθe̯ʝe# ( GOLD : #xwˈeθ#) :
+j ˈuː d̪ i k e m 
+#jˈuːd̪ike# | 25 : [+nas] > ∅ / [-stres] __ #
+#jˈuːd̪eke# | 43 : [+syl,-long] > [-hi] 
+#jˈud̪eke# | 44 : [+syl,+long] > [-long,-splng] 
+#jˈud̪ekje# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#jˈud̪et͡ʃje# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#jˈud̪et͡ʃe̯je# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#jˈuðet͡ʃe̯je# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#jˈuet͡ʃe̯je# | 83 : [-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab]
+#jˈuet͡se̯je# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#jˈujt͡se̯je# | 90 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#ʝˈujt͡se̯ʝe# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʒˈujt͡se̯ʝe# | 112 : ʝ > ʒ / # __ [+round]
+#ʒwˈit͡se̯ʝe# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ʒwˈise̯ʝe# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#ʃwˈise̯ʝe# | 164 : [+strid] > [-voi] 
+#xwˈise̯ʝe# | 166 : ʃ > x 
+#xwˈiθe̯ʝe# | 167 : s > θ / __ [-cons]
+Final form : #xwˈiθe̯ʝe#

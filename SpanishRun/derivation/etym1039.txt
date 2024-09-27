@@ -1,13 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1039:
-#t̪ˌeksˈeːre# >>> #t̪jˌexˈer# ( GOLD : #t̪exˈeɾ#) :
-t̪ ˌe k s ˈeː r e 
-#t̪ˌexsˈeːre# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#t̪ˌɛxsˈeːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#t̪ˌɛxsˈere# | 44 : [+syl,+long] > [-long,-splng] 
-#t̪ˌɛjsˈere# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#t̪ˌejsˈere# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#t̪ˌejʃˈere# | 126 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#t̪jˌeʃˈere# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#t̪jˌeʃˈer# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#t̪jˌexˈer# | 166 : ʃ > x 
-Final form : #t̪jˌexˈer#
+#t̪ˌerrˈon̪eum# >>> #t̪ˌerˈoɲo# ( GOLD : #t̪eruɲo#) :
+t̪ ˌe r r ˈo n̪ e u m 
+#t̪ˌerrˈon̪eu# | 25 : [+nas] > ∅ / [-stres] __ #
+#t̪ˌerrˈon̪ju# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#t̪ˌɛrrˈɔn̪ju# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#t̪ˌɛrrˈɔn̪jo# | 43 : [+syl,-long] > [-hi] 
+#t̪ˌɛrˈɔn̪jo# | 45 : r r > r 
+#t̪ˌɛrˈɔɲjo# | 53 : [+nas,+cor] > ɲ / __ j
+#t̪ˌɛrˈɔɲo# | 66 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#t̪ˌerˈoɲo# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+Final form : #t̪ˌerˈoɲo#

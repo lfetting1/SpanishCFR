@@ -1,9 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :835:
-#rˈoːst̪rum# >>> #rˈost̪ro# ( GOLD : #rˈost̪ɾo#) :
-r ˈoː s t̪ r u m 
-#rˈoːs̪t̪rum# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#rˈoːs̪t̪ru# | 25 : [+nas] > ∅ / [-stres] __ #
-#rˈoːs̪t̪ro# | 43 : [+syl,-long] > [-hi] 
-#rˈos̪t̪ro# | 44 : [+syl,+long] > [-long,-splng] 
-#rˈost̪ro# | 165 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #rˈost̪ro#
+#rˈusseum# >>> #rˈusxu# ( GOLD : #rˈoxo#) :
+r ˈu s s e u m 
+#rˈusseu# | 25 : [+nas] > ∅ / [-stres] __ #
+#rˈussju# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#rˈossjo# | 43 : [+syl,-long] > [-hi] 
+#rˈossju# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#rˈussju# | 95 : [+syl,+round,+tense] > [+hi,-lo] / __ ( [-syl] )* [+hi,+syl]
+#rˈussʝu# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#rˈussʒu# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#rˈusʒu# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
+#rˈusʃu# | 122 : [-son] > [-voi] / [-voi] __ 
+#rˈusxu# | 166 : ʃ > x 
+Final form : #rˈusxu#

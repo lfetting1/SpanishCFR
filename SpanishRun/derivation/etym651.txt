@@ -1,15 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :651:
-#mˌɑt̪t̪iˈɑːn̪ɑ# >>> #mˌɑθˈɯn̪ɑ# ( GOLD : #mɑθˈɑn̪ɑ#) :
-m ˌɑ t̪ t̪ i ˈɑː n̪ ɑ 
-#mˌɑt̪t̪jˈɑːn̪ɑ# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#mˌɑt̪t̪jˈɑn̪ɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#mˌɑt̪t͡ʃjˈɑn̪ɑ# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#mˌɑt̪t͡sjˈɑn̪ɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#mˌɑt̪t͡sjˈɯn̪ɑ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#mˌɑt̪t͡sʝˈɯn̪ɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mˌɑt͡sʝˈɯn̪ɑ# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
-#mˌɑt͡sçˈɯn̪ɑ# | 122 : [-son] > [-voi] / [-voi] __ 
-#mˌɑt͡sˈɯn̪ɑ# | 149 : [-son] > ∅ / [+delrel] __ 
-#mˌɑsˈɯn̪ɑ# | 163 : [+strid,+ant] > [+cont,0delrel] 
-#mˌɑθˈɯn̪ɑ# | 167 : s > θ / __ [-cons]
-Final form : #mˌɑθˈɯn̪ɑ#
+#mˌɑwrikˈellum# >>> #mˌɑrθe̯ʝʎo# ( GOLD : #moɾθˈiʝo#) :
+m ˌɑ w r i k ˈe l l u m 
+#mˌɑrikˈellum# | 16 : w > ∅ / [+back,+syl] __ 
+#mˌɑrikˈellu# | 25 : [+nas] > ∅ / [-stres] __ #
+#mˌɑrikˈɛllu# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˌɑrekˈɛllo# | 43 : [+syl,-long] > [-hi] 
+#mˌɑrekjˈɛllo# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#mˌɑret͡ʃjˈɛllo# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˌɑret͡ʃe̯jˈɛllo# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#mˌɑret͡se̯jˈɛllo# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mˌɑret͡se̯jjello# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#mˌɑret͡se̯jʝello# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#mˌɑret͡se̯jʝeʎo# | 118 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#mˌɑrt͡se̯jʝʎo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#mˌɑrt͡se̯ʝʎo# | 130 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#mˌɑrse̯ʝʎo# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#mˌɑrθe̯ʝʎo# | 167 : s > θ / __ [-cons]
+Final form : #mˌɑrθe̯ʝʎo#
