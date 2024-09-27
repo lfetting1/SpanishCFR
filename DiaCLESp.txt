@@ -242,7 +242,7 @@ d͡ʒ > ʒ $j_y_merger, for dʒ
 r r > rː $ trilling. TODO check this -- was missing in one version. 
 
 {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in the nexgt rule, degemination. 
-[+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] $ degemination. TODO check again with second run-through. 
+[+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] $ degemination. TODO check again with second run-through. 
 
 ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
 [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] $ syncope late,may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 
