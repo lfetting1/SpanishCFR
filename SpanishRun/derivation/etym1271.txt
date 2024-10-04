@@ -1,19 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1271:
-#ˌɑkkˈen̪t̪um# >>> #jˌeθˈen̪t̪o# ( GOLD : #ɑθˈen̪t̪o#) :
-ˌɑ k k ˈe n̪ t̪ u m 
-#ˌɑkkˈeːn̪t̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌɑkkˈeːn̪t̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑkkˈeːn̪t̪o# | 43 : [+syl,-long] > [-hi] 
-#ˌɑkkˈen̪t̪o# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɑkkjˈen̪t̪o# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌɑkt͡ʃjˈen̪t̪o# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑkt͡sjˈen̪t̪o# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑjt͡sjˈen̪t̪o# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌɑjt͡sʝˈen̪t̪o# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑjt͡sçˈen̪t̪o# | 122 : [-son] > [-voi] / [-voi] __ 
-#ˌejt͡sçˈen̪t̪o# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#jˌet͡sçˈen̪t̪o# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#jˌet͡sˈen̪t̪o# | 149 : [-son] > ∅ / [+delrel] __ 
-#jˌesˈen̪t̪o# | 163 : [+strid,+ant] > [+cont,0delrel] 
-#jˌeθˈen̪t̪o# | 167 : s > θ / __ [-cons]
-Final form : #jˌeθˈen̪t̪o#
+#ˌɑkkˌɑd̪ˈiskit̪# >>> #ˌɑkˌɑˈeθe# ( GOLD : #ɑkɑˈeθe#) :
+ˌɑ k k ˌɑ d̪ ˈi s k i t̪ 
+#ˌɑkkˌɑd̪ˈiski# | 27 : [+cons,-cont] > ∅ / __ #
+#ˌɑkkˌɑd̪ˈeske# | 43 : [+syl,-long] > [-hi] 
+#ˌɑkkˌɑd̪ˈeskje# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌɑkkˌɑd̪ˈest͡ʃje# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑkkˌɑðˈest͡ʃje# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˌɑkkˌɑˈest͡ʃje# | 83 : [-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab]
+#ˌɑkkˌɑˈest͡sje# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑkkˌɑˈest͡sʝe# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌɑkˌɑˈest͡sʝe# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˌɑkˌɑˈest͡sçe# | 122 : [-son] > [-voi] / [-voi] __ 
+#ˌɑkˌɑˈet͡sçe# | 148 : [-son] > ∅ / __ [+delrel]
+#ˌɑkˌɑˈet͡se# | 149 : [-son] > ∅ / [+delrel] __ 
+#ˌɑkˌɑˈese# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#ˌɑkˌɑˈeθe# | 167 : s > θ / __ [-cons]
+Final form : #ˌɑkˌɑˈeθe#

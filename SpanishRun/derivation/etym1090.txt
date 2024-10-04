@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1090:
-#wˌermˈikulum# >>> #wʝrmˈeɡlo# ( GOLD : #beɾmˈexo#) :
-w ˌe r m ˈi k u l u m 
-#ɣʷˌermˈikulum# | 17 : w > ɣʷ / __ [+syl]
-#ɣʷˌermˈikulu# | 25 : [+nas] > ∅ / [-stres] __ #
-#βˌermˈikulu# | 30 : ɣʷ > β 
-#βˌɛrmˈikulu# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#βˌɛrmˈekolo# | 43 : [+syl,-long] > [-hi] 
-#βˌɛɾmˈekolo# | 46 : r > ɾ / __ [+cons]
-#βˌɛrmˈekolo# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#vˌɛrmˈekolo# | 91 : β > v 
-#vjermˈekolo# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#vʝermˈekolo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βʝermˈekolo# | 109 : {v;f} > {β;ɸ} 
-#βʝrmˈeklo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#wʝrmˈeklo# | 160 : [+lab,+cons] > w / __ [-son]
-#wʝrmˈeɡlo# | 170 : [-voi] > [+voi] / [-cons] __ l
-Final form : #wʝrmˈeɡlo#
+#wˌikˈiːn̪um# >>> #βˌiθe̯ʝˈin̪# ( GOLD : #beθˈin̪o#) :
+w ˌi k ˈiː n̪ u m 
+#ɣʷˌikˈiːn̪um# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷˌikˈiːn̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#βˌikˈiːn̪u# | 30 : ɣʷ > β 
+#βˌekˈiːn̪o# | 43 : [+syl,-long] > [-hi] 
+#βˌekˈin̪o# | 44 : [+syl,+long] > [-long,-splng] 
+#βˌekjˈin̪o# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βˌet͡ʃjˈin̪o# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˌet͡ʃe̯jˈin̪o# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#βˌet͡se̯jˈin̪o# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˌet͡se̯jˈin̪o# | 91 : β > v 
+#vˌet͡se̯ʝˈin̪o# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˌet͡se̯ʝˈin̪o# | 109 : {v;f} > {β;ɸ} 
+#βˌet͡se̯ʝˈin̪# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#βˌit͡se̯ʝˈin̪# | 145 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#βˌise̯ʝˈin̪# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#βˌiθe̯ʝˈin̪# | 167 : s > θ / __ [-cons]
+Final form : #βˌiθe̯ʝˈin̪#

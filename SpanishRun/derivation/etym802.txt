@@ -1,17 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :802:
-#pˌult̪ˈɑrium# >>> #pwˌet͡ʃˈɑrxu# ( GOLD : #put͡ʃˈeɾo#) :
-p ˌu l t̪ ˈɑ r i u m 
-#pˌul̪t̪ˈɑrium# | 5 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
-#pˌul̪t̪ˈɑriu# | 25 : [+nas] > ∅ / [-stres] __ #
-#pˌul̪t̪ˈɑriuː# | 34 : [+syl] > [+syl,+long,+son,0delrel] / [+cor,+son] [+syl] __ 
-#pˌul̪t̪ˈɑrjuː# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#pˌol̪t̪ˈɑrjuː# | 43 : [+syl,-long] > [-hi] 
-#pˌol̪t̪ˈɑrju# | 44 : [+syl,+long] > [-long,-splng] 
-#pˌojt̪ˈɑrju# | 86 : [+lat] > j / [+back] __ [+cons]
-#pˌojt̪ˈɑrʝu# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pˌojt̪ˈɑrʒu# | 113 : ʝ > ʒ / [-syl] __ [+round]
-#pˌojt͡ʃˈɑrʒu# | 126 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#pwˌet͡ʃˈɑrʒu# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#pwˌet͡ʃˈɑrʃu# | 164 : [+strid] > [-voi] 
-#pwˌet͡ʃˈɑrxu# | 166 : ʃ > x 
-Final form : #pwˌet͡ʃˈɑrxu#
+#pˌun̪kt̪iˈɑːre# >>> #pwˌiθˈɯr# ( GOLD : #pun̪θˈɑɾ#) :
+p ˌu n̪ k t̪ i ˈɑː r e 
+#pˌuːn̪kt̪iˈɑːre# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#pˌuːŋkt̪iˈɑːre# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#pˌuːŋt̪iˈɑːre# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#pˌuːŋt̪jˈɑːre# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#pˌuŋt̪jˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
+#pˌujt̪jˈɑre# | 51 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#pˌujt͡ʃjˈɑre# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#pˌujt͡sjˈɑre# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#pˌujt͡sjˈɯre# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#pˌujt͡sʝˈɯre# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pˌujt͡sçˈɯre# | 122 : [-son] > [-voi] / [-voi] __ 
+#pwˌit͡sçˈɯre# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#pwˌit͡sçˈɯr# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#pwˌit͡sˈɯr# | 149 : [-son] > ∅ / [+delrel] __ 
+#pwˌisˈɯr# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#pwˌiθˈɯr# | 167 : s > θ / __ [-cons]
+Final form : #pwˌiθˈɯr#

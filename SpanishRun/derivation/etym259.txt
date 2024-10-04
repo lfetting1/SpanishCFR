@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :259:
-#krˌeskˈeːre# >>> #krˌeθˈer# ( GOLD : #kɾeθˈeɾ#) :
-k r ˌe s k ˈeː r e 
-#krˌɛskˈeːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#krˌɛskˈere# | 44 : [+syl,+long] > [-long,-splng] 
-#krˌɛskjˈere# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#krˌɛst͡ʃjˈere# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#krˌɛst͡sjˈere# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#krˌest͡sjˈere# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#krˌest͡sʝˈere# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#krˌest͡sçˈere# | 122 : [-son] > [-voi] / [-voi] __ 
-#krˌest͡sçˈer# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#krˌet͡sçˈer# | 148 : [-son] > ∅ / __ [+delrel]
-#krˌet͡sˈer# | 149 : [-son] > ∅ / [+delrel] __ 
-#krˌesˈer# | 163 : [+strid,+ant] > [+cont,0delrel] 
-#krˌeθˈer# | 167 : s > θ / __ [-cons]
-Final form : #krˌeθˈer#
+#krˌeɑt̪iˈoːn̪e# >>> #krʝˈɯθe̯xˈun̪# ( GOLD : #kɾjɑθˈon̪#) :
+k r ˌe ɑ t̪ i ˈoː n̪ e 
+#kreˈɑt̪iˈoːn̪e# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kreˈɑt̪jˈoːn̪e# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#krjˈɑt̪jˈoːn̪e# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#krjˈɑt̪jˈon̪e# | 44 : [+syl,+long] > [-long,-splng] 
+#krjˈɑt͡ʃjˈon̪e# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#krjˈɑt͡ʃe̯jˈon̪e# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#krjˈɑt͡se̯jˈon̪e# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#krjˈɯt͡se̯jˈun̪e# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#krʝˈɯt͡se̯ʝˈun̪e# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#krʝˈɯt͡se̯ʒˈun̪e# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#krʝˈɯt͡se̯ʒˈun̪# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#krʝˈɯse̯ʒˈun̪# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#krʝˈɯse̯ʃˈun̪# | 164 : [+strid] > [-voi] 
+#krʝˈɯse̯xˈun̪# | 166 : ʃ > x 
+#krʝˈɯθe̯xˈun̪# | 167 : s > θ / __ [-cons]
+Final form : #krʝˈɯθe̯xˈun̪#

@@ -31,8 +31,8 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 ɣʷ > β $ w_beta
 [+back,+cons,-cont] > [+cont] / [+syl] __ [+cons,-back] $velar spirantization
 r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,+strid]
-[+syl] > [+syl,+long] / [+cons,-cor,-cont] [+syl] __ $vowel lengthening
-[+syl] > [+syl,+long] / [+cor,+son] [+syl] __ $ vowel lengthening (combine?)
+[+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ $vowel lengthening
+[+syl,αback] > [+long] / [+cor,+son] [+syl,αback] __ $ vowel lengthening (combine?)
 [+stres,-lo] [-stres] > [-stres] [+prim] $ progressive_stress
 [+stres,-lo,-hi,+back] [-stres,-back] > [-stres] [+stres] $ progressive_stress,recipient of stress has different backness than donor
 [+stres,-lo,-hi,-back] [-stres,+back] > [-stres] [+prim] $ progressive_stress (combine?)
@@ -101,7 +101,8 @@ w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify ru
 [+cons,+back] > j / [+syl] __ [-back,+cons] $ velar yod late $(105) fixed posterior
 [+syl,+front,+tense] > [-lo] / __ ([-syl])[+syl,+hi] $ metaphony e $(106) !come back to these
 [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels $(107) !come back to these
-[+syl,+round,+tense] > [+hi,-lo] / __ ([-syl])* [+hi,+syl] $ metaphony o $(108) !come back to these[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is o $(109) !come back to these
+[+syl,+round,+tense] > [+hi,-lo] / __ ([-syl])* [+hi,+syl] $ metaphony o $(108) !come back to these
+[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is o $(109) !come back to these
 [+syl,-tense] > [+tense] / __ (@) (@) [+hi,+front] $ low raising,palatal can be 1st 2nd or 3rd phoneme following $(110) good - added below
 [+syl,-tense] > [+tense] / __ (@) (@) [-cons,-syl] $ low raising,glide can be 1st 2nd or 3rd phoneme following
 [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ $ progressive raising (e>i / V ʝ __ ) $(111) Fixed. Context is / V ʝ __ 
@@ -129,7 +130,7 @@ d͡ʒ > ʒ $j_y_merger, for dʒ
 [-voi] [+lat] > t͡ʃ $ "cheismo" palatal lateral > tʃ . Examples manklya (mankʎa), amplyo (ampʎo) > mancha, ancho, but rules as such do not seem to explicitly reference palatality of the lateral or the prior ...nasal? (Nor is the nasal referenced in any sort of metadescription for the rule....)  
 r r > rː $ trilling. TODO check this -- was missing in one version. 
 {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in the nexgt rule, degemination. 
-[+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] $ degemination. 
+[+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] $ degemination. Hartman's rule is meant to apply to all consonants except /r/, but this rule could apply if the environment was available. 
 ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
 [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] $ syncope late,may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 
 [-son] > [-voi] / [-voi] __ $ progressive_voicing

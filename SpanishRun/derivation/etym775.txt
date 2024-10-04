@@ -1,21 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :775:
-#pˌae̯n̪it̪ˈen̪t̪iɑm# >>> #pˌen̪t̪ˈen̪θɯ# ( GOLD : #pen̪it̪ˈen̪θjɑ#) :
-p ˌa e̯ n̪ i t̪ ˈe n̪ t̪ i ɑ m 
-#pˌae̯n̪it̪ˈeːn̪t̪iɑm# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#pˌɛjn̪it̪ˈeːn̪t̪iɑm# | 20 : {a e̯;o e̯;ˈa e̯;ˈo e̯;ˌa e̯;ˌo e̯} > {ɛ j;e j;ˈɛ j;ˈe j;ˌɛ j;ˌe j} 
-#pˌejn̪it̪ˈeːn̪t̪iɑm# | 21 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
-#pˌeːn̪it̪ˈeːn̪t̪iɑm# | 22 : [+syl] j > [+syl,+long,+son,0delrel] ∅
-#pˌeːn̪it̪ˈeːn̪t̪iɑ# | 25 : [+nas] > ∅ / [-stres] __ #
-#pˌeːn̪it̪ˈeːn̪t̪jɑ# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#pˌeːn̪et̪ˈeːn̪t̪jɑ# | 43 : [+syl,-long] > [-hi] 
-#pˌen̪et̪ˈen̪t̪jɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#pˌen̪et̪ˈen̪t͡ʃjɑ# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˌen̪et̪ˈen̪t͡sjɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#pˌen̪et̪ˈen̪t͡sjɯ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#pˌen̪et̪ˈen̪t͡sʝɯ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pˌen̪t̪ˈen̪t͡sʝɯ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pˌen̪t̪ˈen̪t͡sçɯ# | 122 : [-son] > [-voi] / [-voi] __ 
-#pˌen̪t̪ˈen̪t͡sɯ# | 149 : [-son] > ∅ / [+delrel] __ 
-#pˌen̪t̪ˈen̪sɯ# | 163 : [+strid,+ant] > [+cont,0delrel] 
-#pˌen̪t̪ˈen̪θɯ# | 167 : s > θ / __ [-cons]
-Final form : #pˌen̪t̪ˈen̪θɯ#
+#pˌeiˈoːre# >>> #pˈiʝˈur# ( GOLD : #peˈoɾ#) :
+p ˌe i ˈoː r e 
+#pˌeiːˈoːre# | 33 : [+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ 
+#peˈiːˈoːre# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#peˈiˈore# | 44 : [+syl,+long] > [-long,-splng] 
+#peˈijˈore# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#pˈijˈore# | 56 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
+#pˈijˈure# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#pˈiʝˈure# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pˈiʝˈur# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+Final form : #pˈiʝˈur#

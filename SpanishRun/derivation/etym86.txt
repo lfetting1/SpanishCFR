@@ -1,18 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :86:
-#d̪ˌiurn̪ɑːle# >>> #xˈurn̪ɑl# ( GOLD : #xoɾn̪ˈɑl#) :
-d̪ ˌi u r n̪ ɑː l e 
-#d̪iˈurn̪ɑːle# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#d̪jˈurn̪ɑːle# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#d̪jˈorn̪ɑːle# | 43 : [+syl,-long] > [-hi] 
-#d̪jˈorn̪ɑle# | 44 : [+syl,+long] > [-long,-splng] 
-#d̪jˈoɾn̪ɑle# | 46 : r > ɾ / __ [+cons]
-#d͡ʒjˈoɾn̪ɑle# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ʒjˈorn̪ɑle# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ʒjˈurn̪ɑle# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#ʒʝˈurn̪ɑle# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʒʒˈurn̪ɑle# | 113 : ʝ > ʒ / [-syl] __ [+round]
-#ʒˈurn̪ɑle# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat]
-#ʒˈurn̪ɑl# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ʃˈurn̪ɑl# | 164 : [+strid] > [-voi] 
-#xˈurn̪ɑl# | 166 : ʃ > x 
-Final form : #xˈurn̪ɑl#
+#d̪ˌiurn̪ˈɑːlem# >>> #xˈurn̪ˈɑl# ( GOLD : #xoɾn̪ˈɑl#) :
+d̪ ˌi u r n̪ ˈɑː l e m 
+#d̪ˌiurn̪ˈɑːle# | 25 : [+nas] > ∅ / [-stres] __ #
+#d̪iˈurn̪ˈɑːle# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#d̪jˈurn̪ˈɑːle# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#d̪jˈorn̪ˈɑːle# | 43 : [+syl,-long] > [-hi] 
+#d̪jˈorn̪ˈɑle# | 44 : [+syl,+long] > [-long,-splng] 
+#d̪jˈoɾn̪ˈɑle# | 46 : r > ɾ / __ [+cons]
+#d͡ʒjˈoɾn̪ˈɑle# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ʒjˈorn̪ˈɑle# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ʒjˈurn̪ˈɑle# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#ʒʝˈurn̪ˈɑle# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʒʒˈurn̪ˈɑle# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#ʒˈurn̪ˈɑle# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ʒˈurn̪ˈɑl# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ʃˈurn̪ˈɑl# | 164 : [+strid] > [-voi] 
+#xˈurn̪ˈɑl# | 166 : ʃ > x 
+Final form : #xˈurn̪ˈɑl#

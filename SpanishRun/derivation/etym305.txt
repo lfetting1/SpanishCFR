@@ -1,15 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :305:
-#kˈirkɑ# >>> #θˈerkɑ# ( GOLD : #θˈeɾkɑ#) :
-k ˈi r k ɑ 
-#kˈerkɑ# | 43 : [+syl,-long] > [-hi] 
-#kˈeɾkɑ# | 46 : r > ɾ / __ [+cons]
-#kjˈeɾkɑ# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈeɾkɑ# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˈerkɑ# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#t͡sjˈerkɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sʝˈerkɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sçˈerkɑ# | 122 : [-son] > [-voi] / [-voi] __ 
-#t͡sˈerkɑ# | 149 : [-son] > ∅ / [+delrel] __ 
-#sˈerkɑ# | 163 : [+strid,+ant] > [+cont,0delrel] 
-#θˈerkɑ# | 167 : s > θ / __ [-cons]
-Final form : #θˈerkɑ#
+#kˈirrum# >>> #θˈer# ( GOLD : #θˈero#) :
+k ˈi r r u m 
+#kˈirru# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˈerro# | 43 : [+syl,-long] > [-hi] 
+#kˈero# | 45 : r r > r 
+#kjˈero# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈero# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡sjˈero# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sʝˈero# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sçˈero# | 122 : [-son] > [-voi] / [-voi] __ 
+#t͡sçˈer# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#t͡sˈer# | 149 : [-son] > ∅ / [+delrel] __ 
+#sˈer# | 163 : [+strid,+ant] > [+cont,0delrel] 
+#θˈer# | 167 : s > θ / __ [-cons]
+Final form : #θˈer#
