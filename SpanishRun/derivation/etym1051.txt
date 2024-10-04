@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1051:
-#wˈɑːɡin̪ɑ# >>> #βˈɑxʝn̪ɑ# ( GOLD : #bˈɑjn̪ɑ#) :
+#wˈɑːɡin̪ɑ# >>> #βˈɑzn̪ɑ# ( GOLD : #bˈɑjn̪ɑ#) :
 w ˈɑː ɡ i n̪ ɑ 
 #ɣʷˈɑːɡin̪ɑ# | 17 : w > ɣʷ / __ [+syl]
 #βˈɑːɡin̪ɑ# | 30 : ɣʷ > β 
 #βˈɑːɡen̪ɑ# | 43 : [+syl,-long] > [-hi] 
 #βˈɑɡen̪ɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#βˈɑɡjen̪ɑ# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˈɑd͡ʒjen̪ɑ# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˈɑʒjen̪ɑ# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#vˈɑʒjen̪ɑ# | 91 : β > v 
-#vˈɑʒʝen̪ɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βˈɑʒʝen̪ɑ# | 109 : {v;f} > {β;ɸ} 
-#βˈɑʒʝn̪ɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#βˈɑʃʝn̪ɑ# | 164 : [+strid] > [-voi] 
-#βˈɑxʝn̪ɑ# | 166 : ʃ > x 
-Final form : #βˈɑxʝn̪ɑ#
+#βˈɑɡjen̪ɑ# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βˈɑd͡ʒjen̪ɑ# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˈɑd͡zjen̪ɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˈɑd͡zjen̪ɑ# | 91 : β > v 
+#vˈɑd͡zʝen̪ɑ# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˈɑd͡zʝen̪ɑ# | 108 : {v;f} > {β;ɸ} 
+#βˈɑd͡zʝn̪ɑ# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#βˈɑd͡zn̪ɑ# | 147 : [-son] > ∅ / [+delrel] __ 
+#βˈɑzn̪ɑ# | 161 : [+strid,+ant] > [+cont,0delrel] 
+#βˈɑsn̪ɑ# | 162 : [+strid] > [-voi] 
+#βˈɑzn̪ɑ# | 167 : s > z / [-cons] __ [+cons,+voi]
+Final form : #βˈɑzn̪ɑ#

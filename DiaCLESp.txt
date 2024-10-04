@@ -6,10 +6,6 @@ h > ∅ $ h_deletion
 
 [+syl,-long] > [+syl,+long] / __[+nas] [-son] $prenasal lengthening
 
-[+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @ $ nasal assimilation
-
-[+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation
-
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son] $implosion
 
 [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+cons,-son,αvoi] $implosion 
@@ -25,6 +21,10 @@ h > ∅ $ h_deletion
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons,αvoi] __ [+lat] $implosion
 
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi] $implosion
+
+[+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @ $ nasal assimilation 10/04 moved after implosion. This matches online version of phono, but not the offline one.
+
+[+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation 10/04 moved after implosion, which matches the online version of phono, but not the offline one.
 
 ð > d̪ / l __ $ recurrent rule,stopping
 
@@ -94,9 +94,12 @@ $[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,
 
 r > ɾ / __ [+cons] $unlong,syllable final trill > tap
 
+r > ɾ / [+cons] __ $ "unlong"/tapping new rule as of 10/04. Happens at some point in the cascade, but may not be here. As of now there is no rule, so it was placed by the other trill rules. Could be moved somewhere else. Meant as a starting point. Come back to this.
+
 r > ɾ / __ # $unlong,syllable final trill > tap
 
 ɾ > r / __ r $(above change applied to all consonants so we revert it before r. "r r" for us = "long r" for hartman)
+
 
 ∅ > j / [+syl,-back] __ [+syl,+back] $ "antihiatus"
 
@@ -166,11 +169,11 @@ w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify ru
 
 [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons] $ o-raising $(87) 
 
-[+cons,-cont,+voi] > [+cont] $spirantization $(88) works.
+$[+cons,-cont,+voi] > [+cont] $spirantization $(88) works.
 
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization $(89) !No effect. Possibly related to diff treatment of sibilants. Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑɾe -> koʝetˈɑɾe
 
-[-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab] $ delete bdg (reformulated by KS) - 9/20 changed prior context from [+syl] to [-cons], changed βround to βlab.
+[-son,+voi,-strid,-front,βlab,-delrel] > ∅ / [-cons] __ [+syl,βlab] $ delete bdg (reformulated by KS) - 9/20 changed prior context from [+syl] to [-cons], changed βround to βlab.
 
 [+cont] > [+voi] / [-cons] __ [+son] $voicing $(97) good.
 
@@ -190,11 +193,12 @@ w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify ru
 
 [+syl,+front,+tense] > [+hi,-lo] / __ ([-syl])[+syl,+hi] $ metaphony e $(106) !come back to these
 
-[+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels $(107) !come back to these
+[+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels $(107) !come back to these
 
 [+syl,+round,+tense] > [+hi,-lo] / __ ([-syl])* [+hi,+syl] $ metaphony o $(108) !come back to these
 
-[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is o $(109) !come back to these
+$[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is o $(109) !come back to these. Commented out 10/04. Seemed to be turning an into ɤ, and no other changes. Could be reintroduced later
+
 [+syl,-tense] > [+tense] / __ (@) (@) [+hi,+front] $ low raising,palatal can be 1st 2nd or 3rd phoneme following $(110) good - added below
 
 [+syl,-tense] > [+tense] / __ (@) (@) [-cons,-syl] $ low raising,glide can be 1st 2nd or 3rd phoneme following
@@ -284,7 +288,7 @@ t̪ l > l t̪ $sonorant metathesis. This one may be vacuous (was for Hartmann's 
 
 $[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happens at the same time. TODO suppressed (CM) @Aug 30, as this appears unnecessary and has bad side effects -- was there a copy-paste here?
  
-[+cons,-cont,+voi] > [+cont] $spirantization. TODO check later in second runthrough -- currently bled. 
+$[+cons,-cont,+voi] > [+cont] $spirantization. TODO check later in second runthrough -- currently bled. 
 
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization. TODO check later in second runthrough -- currently bled. 
 
@@ -355,3 +359,5 @@ s > z / [-cons] __ [+cons,+voi] $regressive_voicing -- s aspect.
 $kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w . CM @Aug31 - suppressed. No reason for this.
 
 ɾ > r / # __ $ initial trill. CM @Aug31 -- weirdly this semes to by accident effect #fr initials in Hartmann's Phono output but I don't think this is intended, nor desired, so let's not put it in. As of present this appears to bled -- reexamine.
+
+[-prim] > [-stres] $ Deletion of secondary stress. TODO - Move back in the cascade

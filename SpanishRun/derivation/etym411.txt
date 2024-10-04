@@ -1,14 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :411:
-#kˌon̪t̪rˈɑːrium# >>> #kˌon̪t̪rˈɑrxu# ( GOLD : #kon̪t̪ɾˈɑɾjo#) :
+#kˌon̪t̪rˈɑːrium# >>> #kon̪t̪ɾˈɑrxu# ( GOLD : #kon̪t̪ɾˈɑɾjo#) :
 k ˌo n̪ t̪ r ˈɑː r i u m 
 #kˌoːn̪t̪rˈɑːrium# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #kˌoːn̪t̪rˈɑːriu# | 25 : [+nas] > ∅ / [-stres] __ #
 #kˌoːn̪t̪rˈɑːrju# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #kˌoːn̪t̪rˈɑːrjo# | 43 : [+syl,-long] > [-hi] 
 #kˌon̪t̪rˈɑrjo# | 44 : [+syl,+long] > [-long,-splng] 
-#kˌon̪t̪rˈɑrju# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#kˌon̪t̪rˈɑrʝu# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kˌon̪t̪rˈɑrʒu# | 113 : ʝ > ʒ / [-syl] __ [+round]
-#kˌon̪t̪rˈɑrʃu# | 164 : [+strid] > [-voi] 
-#kˌon̪t̪rˈɑrxu# | 166 : ʃ > x 
-Final form : #kˌon̪t̪rˈɑrxu#
+#kˌon̪t̪ɾˈɑrjo# | 47 : r > ɾ / [+cons] __ 
+#kˌon̪t̪ɾˈɑrju# | 94 : [+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#kˌon̪t̪ɾˈɑrʝu# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kˌon̪t̪ɾˈɑrʒu# | 112 : ʝ > ʒ / [-syl] __ [+round]
+#kˌon̪t̪ɾˈɑrʃu# | 162 : [+strid] > [-voi] 
+#kˌon̪t̪ɾˈɑrxu# | 164 : ʃ > x 
+#kon̪t̪ɾˈɑrxu# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kon̪t̪ɾˈɑrxu#

@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1224:
-#ˌimpˈosit̪um# >>> #ˌiwwst̪o# ( GOLD : #impwˈest̪o#) :
+#ˌimpˈosit̪um# >>> #iwwst̪o# ( GOLD : #impwˈest̪o#) :
 ˌi m p ˈo s i t̪ u m 
 #ˌiːmpˈosit̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ˌiːmpˈosit̪u# | 25 : [+nas] > ∅ / [-stres] __ #
@@ -7,12 +7,13 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1224:
 #ˌiːmpˈɔset̪o# | 43 : [+syl,-long] > [-hi] 
 #ˌimpˈɔset̪o# | 44 : [+syl,+long] > [-long,-splng] 
 #ˌimpˈɔzet̪o# | 84 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌimpwezet̪o# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ˌimpɣʷezet̪o# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌimpɣʷzt̪o# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌimpxʷzt̪o# | 122 : [-son] > [-voi] / [-voi] __ 
-#ˌimwxʷzt̪o# | 124 : [+cons,+lab] > w / __ [+back,+cons]
-#ˌimxʷzt̪o# | 127 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-#ˌiwwzt̪o# | 160 : [+lab,+cons] > w / __ [-son]
-#ˌiwwst̪o# | 164 : [+strid] > [-voi] 
-Final form : #ˌiwwst̪o#
+#ˌimpwezet̪o# | 99 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ˌimpɣʷezet̪o# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌimpɣʷzt̪o# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌimpxʷzt̪o# | 121 : [-son] > [-voi] / [-voi] __ 
+#ˌimwxʷzt̪o# | 123 : [+cons,+lab] > w / __ [+back,+cons]
+#ˌimxʷzt̪o# | 126 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#ˌiwwzt̪o# | 158 : [+lab,+cons] > w / __ [-son]
+#ˌiwwst̪o# | 162 : [+strid] > [-voi] 
+#iwwst̪o# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #iwwst̪o#

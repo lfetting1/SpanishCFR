@@ -1,11 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1102:
-#ˌɑd̪t̪rˈɑn̪s# >>> #ˌɑst̪rˈɑθ# ( GOLD : #ɑt̪ɾˈɑs#) :
+#ˌɑd̪t̪rˈɑn̪s# >>> #ɑd̪ɾˈɑθ# ( GOLD : #ɑt̪ɾˈɑs#) :
 ˌɑ d̪ t̪ r ˈɑ n̪ s 
 #ˌɑd̪t̪rˈɑːn̪s# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ˌɑd̪t̪rˈɑːs# | 26 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
 #ˌɑd̪t̪rˈɑs# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɑðt̪rˈɑs# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌɑzt̪rˈɑs# | 165 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#ˌɑzt̪rˈɑθ# | 168 : s > θ / __ #
-#ˌɑst̪rˈɑθ# | 171 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
-Final form : #ˌɑst̪rˈɑθ#
+#ˌɑd̪t̪ɾˈɑs# | 47 : r > ɾ / [+cons] __ 
+#ˌɑt̪ɾˈɑs# | 118 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˌɑt̪ɾˈɑθ# | 166 : s > θ / __ #
+#ˌɑd̪ɾˈɑθ# | 169 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
+#ɑd̪ɾˈɑθ# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑd̪ɾˈɑθ#

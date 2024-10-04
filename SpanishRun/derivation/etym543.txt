@@ -1,18 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :543:
-#lˌumbrˈiːkem# >>> #lˌuwβrˈiθe̯ʝe# ( GOLD : #lombɾˈiθ#) :
+#lˌumbrˈiːkem# >>> #luwbɾˈiθe̯ʝe# ( GOLD : #lombɾˈiθ#) :
 l ˌu m b r ˈiː k e m 
 #lˌuːmbrˈiːkem# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #lˌuːmbrˈiːke# | 25 : [+nas] > ∅ / [-stres] __ #
 #lˌumbrˈike# | 44 : [+syl,+long] > [-long,-splng] 
-#lˌumbrˈikje# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#lˌumbrˈit͡ʃje# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#lˌumbrˈit͡ʃe̯je# | 77 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#lˌumβrˈit͡ʃe̯je# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#lˌumβrˈit͡se̯je# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#lˌumvrˈit͡se̯je# | 91 : β > v 
-#lˌumvrˈit͡se̯ʝe# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#lˌumβrˈit͡se̯ʝe# | 109 : {v;f} > {β;ɸ} 
-#lˌuwβrˈit͡se̯ʝe# | 160 : [+lab,+cons] > w / __ [-son]
-#lˌuwβrˈise̯ʝe# | 163 : [+strid,+ant] > [+cont,0delrel] 
-#lˌuwβrˈiθe̯ʝe# | 167 : s > θ / __ [-cons]
-Final form : #lˌuwβrˈiθe̯ʝe#
+#lˌumbɾˈike# | 47 : r > ɾ / [+cons] __ 
+#lˌumbɾˈikje# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#lˌumbɾˈit͡ʃje# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˌumbɾˈit͡ʃe̯je# | 78 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#lˌumbɾˈit͡se̯je# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lˌumbɾˈit͡se̯ʝe# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#lˌuwbɾˈit͡se̯ʝe# | 158 : [+lab,+cons] > w / __ [-son]
+#lˌuwbɾˈise̯ʝe# | 161 : [+strid,+ant] > [+cont,0delrel] 
+#lˌuwbɾˈiθe̯ʝe# | 165 : s > θ / __ [-cons]
+#luwbɾˈiθe̯ʝe# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #luwbɾˈiθe̯ʝe#

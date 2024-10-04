@@ -1,15 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1092:
-#wˌin̪d̪ˈeːmiɑ# >>> #βˌin̪ðˈewʝɯ# ( GOLD : #ben̪d̪ˈimjɑ#) :
+#wˌin̪d̪ˈeːmiɑ# >>> #βin̪d̪ˈewʝɑ# ( GOLD : #ben̪d̪ˈimjɑ#) :
 w ˌi n̪ d̪ ˈeː m i ɑ 
 #wˌiːn̪d̪ˈeːmiɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ɣʷˌiːn̪d̪ˈeːmiɑ# | 17 : w > ɣʷ / __ [+syl]
 #βˌiːn̪d̪ˈeːmiɑ# | 30 : ɣʷ > β 
 #βˌiːn̪d̪ˈeːmjɑ# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #βˌin̪d̪ˈemjɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#βˌin̪ðˈemjɑ# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#vˌin̪ðˈemjɑ# | 91 : β > v 
-#vˌin̪ðˈemjɯ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#vˌin̪ðˈemʝɯ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βˌin̪ðˈemʝɯ# | 109 : {v;f} > {β;ɸ} 
-#βˌin̪ðˈewʝɯ# | 160 : [+lab,+cons] > w / __ [-son]
-Final form : #βˌin̪ðˈewʝɯ#
+#vˌin̪d̪ˈemjɑ# | 91 : β > v 
+#vˌin̪d̪ˈemʝɑ# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˌin̪d̪ˈemʝɑ# | 108 : {v;f} > {β;ɸ} 
+#βˌin̪d̪ˈewʝɑ# | 158 : [+lab,+cons] > w / __ [-son]
+#βin̪d̪ˈewʝɑ# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #βin̪d̪ˈewʝɑ#

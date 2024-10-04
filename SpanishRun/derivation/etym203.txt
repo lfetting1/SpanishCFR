@@ -1,19 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :203:
-#fˌɑst̪ˈiːd̪ioː# >>> #ˌɑst̪ˈixu# ( GOLD : #ɑst̪ˈio#) :
+#fˌɑst̪ˈiːd̪ioː# >>> #ɑst̪ˈiθu# ( GOLD : #ɑst̪ˈio#) :
 f ˌɑ s t̪ ˈiː d̪ i oː 
 #fˌɑs̪t̪ˈiːd̪ioː# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
 #fˌɑs̪t̪ˈiːd̪joː# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #fˌɑs̪t̪ˈid̪jo# | 44 : [+syl,+long] > [-long,-splng] 
-#fˌɑs̪t̪ˈid͡ʒjo# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#fˌɑs̪t̪ˈiʒjo# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#fˌɑs̪t̪ˈiʒju# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#fˌɑs̪t̪ˈiʒʝu# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɸˌɑs̪t̪ˈiʒʝu# | 109 : {v;f} > {β;ɸ} 
-#ɸˌɑs̪t̪ˈiʒʒu# | 113 : ʝ > ʒ / [-syl] __ [+round]
-#ɸˌɑs̪t̪ˈiʒu# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#hˌɑs̪t̪ˈiʒu# | 153 : ɸ > h / __ [+syl]
-#ˌɑs̪t̪ˈiʒu# | 155 : h > ∅ 
-#ˌɑs̪t̪ˈiʃu# | 164 : [+strid] > [-voi] 
-#ˌɑst̪ˈiʃu# | 165 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#ˌɑst̪ˈixu# | 166 : ʃ > x 
-Final form : #ˌɑst̪ˈixu#
+#fˌɑs̪t̪ˈid͡ʒjo# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fˌɑs̪t̪ˈid͡zjo# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#fˌɑs̪t̪ˈid͡zju# | 94 : [+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
+#fˌɑs̪t̪ˈid͡zʝu# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɸˌɑs̪t̪ˈid͡zʝu# | 108 : {v;f} > {β;ɸ} 
+#ɸˌɑs̪t̪ˈid͡zʒu# | 112 : ʝ > ʒ / [-syl] __ [+round]
+#ɸˌɑs̪t̪ˈid͡zu# | 147 : [-son] > ∅ / [+delrel] __ 
+#hˌɑs̪t̪ˈid͡zu# | 151 : ɸ > h / __ [+syl]
+#ˌɑs̪t̪ˈid͡zu# | 153 : h > ∅ 
+#ˌɑs̪t̪ˈizu# | 161 : [+strid,+ant] > [+cont,0delrel] 
+#ˌɑs̪t̪ˈisu# | 162 : [+strid] > [-voi] 
+#ˌɑst̪ˈisu# | 163 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#ˌɑst̪ˈiθu# | 165 : s > θ / __ [-cons]
+#ɑst̪ˈiθu# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑst̪ˈiθu#

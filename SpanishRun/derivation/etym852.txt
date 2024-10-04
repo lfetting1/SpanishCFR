@@ -1,17 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :852:
-#rˌin̪ɡˈiːre# >>> #rˌexʝˈir# ( GOLD : #reɲˈiɾ#) :
+#rˌin̪ɡˈiːre# >>> #reθˈir# ( GOLD : #reɲˈiɾ#) :
 r ˌi n̪ ɡ ˈiː r e 
 #rˌiːn̪ɡˈiːre# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#rˌiːŋɡˈiːre# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#rˌiːŋɡˈiːre# | 12 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #rˌiŋɡˈire# | 44 : [+syl,+long] > [-long,-splng] 
-#rˌiŋɡjˈire# | 61 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#rˌiŋd͡ʒjˈire# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#rˌiŋʒjˈire# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#rˌijʒjˈire# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#rˌijʒʝˈire# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#rˌiʒʝˈire# | 129 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#rˌiʒʝˈir# | 143 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#rˌeʒʝˈir# | 147 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#rˌeʃʝˈir# | 164 : [+strid] > [-voi] 
-#rˌexʝˈir# | 166 : ʃ > x 
-Final form : #rˌexʝˈir#
+#rˌiŋɡjˈire# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#rˌiŋd͡ʒjˈire# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#rˌiŋd͡zjˈire# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#rˌijd͡zjˈire# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#rˌijd͡zʝˈire# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#rˌid͡zʝˈire# | 128 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#rˌid͡zʝˈir# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#rˌed͡zʝˈir# | 145 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#rˌed͡zˈir# | 147 : [-son] > ∅ / [+delrel] __ 
+#rˌezˈir# | 161 : [+strid,+ant] > [+cont,0delrel] 
+#rˌesˈir# | 162 : [+strid] > [-voi] 
+#rˌeθˈir# | 165 : s > θ / __ [-cons]
+#reθˈir# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #reθˈir#

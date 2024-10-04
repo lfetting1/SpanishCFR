@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1085:
-#wˌerekˈun̪d̪iɑm# >>> #βˌerkˈun̪xʝɯ# ( GOLD : #beɾɡwˈen̪θɑ#) :
+#wˌerekˈun̪d̪iɑm# >>> #βerkˈun̪θɑ# ( GOLD : #beɾɡwˈen̪θɑ#) :
 w ˌe r e k ˈu n̪ d̪ i ɑ m 
 #wˌerekˈuːn̪d̪iɑm# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ɣʷˌerekˈuːn̪d̪iɑm# | 17 : w > ɣʷ / __ [+syl]
@@ -8,15 +8,17 @@ w ˌe r e k ˈu n̪ d̪ i ɑ m
 #βˌerekˈuːn̪d̪jɑ# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #βˌɛrekˈuːn̪d̪jɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #βˌɛrekˈun̪d̪jɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#βˌɛrekˈun̪d͡ʒjɑ# | 62 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌɛrekˈun̪ʒjɑ# | 81 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#vˌɛrekˈun̪ʒjɑ# | 91 : β > v 
-#vˌɛrikˈun̪ʒjɑ# | 93 : [+syl,+front,+tense] > [+hi,-lo] / __ ( [-syl] ) [+syl,+hi]
-#vˌɛrikˈun̪ʒjɯ# | 94 : [+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#vˌerikˈun̪ʒjɯ# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#vˌerikˈun̪ʒʝɯ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βˌerikˈun̪ʒʝɯ# | 109 : {v;f} > {β;ɸ} 
-#βˌerkˈun̪ʒʝɯ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#βˌerkˈun̪ʃʝɯ# | 164 : [+strid] > [-voi] 
-#βˌerkˈun̪xʝɯ# | 166 : ʃ > x 
-Final form : #βˌerkˈun̪xʝɯ#
+#βˌɛrekˈun̪d͡ʒjɑ# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˌɛrekˈun̪d͡zjɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˌɛrekˈun̪d͡zjɑ# | 91 : β > v 
+#vˌɛrikˈun̪d͡zjɑ# | 93 : [+syl,+front,+tense] > [+hi,-lo] / __ ( [-syl] ) [+syl,+hi]
+#vˌerikˈun̪d͡zjɑ# | 96 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#vˌerikˈun̪d͡zʝɑ# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˌerikˈun̪d͡zʝɑ# | 108 : {v;f} > {β;ɸ} 
+#βˌerkˈun̪d͡zʝɑ# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#βˌerkˈun̪d͡zɑ# | 147 : [-son] > ∅ / [+delrel] __ 
+#βˌerkˈun̪zɑ# | 161 : [+strid,+ant] > [+cont,0delrel] 
+#βˌerkˈun̪sɑ# | 162 : [+strid] > [-voi] 
+#βˌerkˈun̪θɑ# | 165 : s > θ / __ [-cons]
+#βerkˈun̪θɑ# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #βerkˈun̪θɑ#
