@@ -134,7 +134,7 @@ r r > rː $ trilling. TODO check this -- was missing in one version.
 ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
 [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] $ syncope late,may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 
 [-son] > [-voi] / [-voi] __ $ progressive_voicing
-[+syl,+lo] > [-lo,αback] / __ [-cons,-syl,αback] $ a coloring. TODO check later in second runthrough -- currently bled. 
+[+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront] $ a coloring. TODO check later in second runthrough -- currently bled. 
 [+cons,+lab] > w / __ [+back,+cons] $wawism_early. vocalization of syllable-final labial
 $metaphony_late. [+cons,-voi] > j . Seems vacuous. 
 [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round] $ ew > iw
