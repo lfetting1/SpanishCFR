@@ -103,7 +103,7 @@ w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify ru
 $[+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels $(107) !come back to these
 $[+syl,+front,+tense] > [+hi] / __ ([-syl]) [+syl,+hi] $ metaphony e $(106) !come back to these
 
-[+syl,+round,+tense] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back] {[+syl];[-son]} $metaphony_o. CM 10/8: fixed metaphony-o to one rule based on span15. OG version commented out below.
+[+syl,+round,+tense] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back,-nas,-lat] {[+syl];[-son]} $metaphony_o. CM 10/8: fixed metaphony-o to one rule based on span15. Evidently nasals and laterals aren't continuants for Hartmann. The offline version uses [-cons] rather than [+cont] but the online version is evidently operating based on continuancy not nonconsonantality (nor sonorance: [ʝ] is a trigger.). OG version commented out below.
 $[+syl,+round,+tense] > [+hi,-lo] / __ ([-syl])* [+hi,+syl] $ metaphony o $(108) !come back to these
 $[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is o $(109) !come back to these
 
