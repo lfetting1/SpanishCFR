@@ -1,19 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :389:
-#kˌin̪kt̪uːrˈɑːt̪um# >>> #θin̪t̪rˈɑt̪o# ( GOLD : #θin̪t̪ɾˈɑd̪o#) :
-k ˌi n̪ k t̪ uː r ˈɑː t̪ u m 
-#kˌiːn̪kt̪uːrˈɑːt̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˌiːn̪t̪uːrˈɑːt̪um# | 7 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#kˌiːn̪t̪uːrˈɑːt̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#kˌiːn̪t̪uːrˈɑːt̪o# | 43 : [+syl,-long] > [-hi] 
-#kˌin̪t̪urˈɑt̪o# | 44 : [+syl,+long] > [-long,-splng] 
-#kjˌin̪t̪urˈɑt̪o# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌin̪t̪urˈɑt̪o# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡sjˌin̪t̪urˈɑt̪o# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sʝˌin̪t̪urˈɑt̪o# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sʝˌin̪t̪rˈɑt̪o# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#t͡sçˌin̪t̪rˈɑt̪o# | 121 : [-son] > [-voi] / [-voi] __ 
-#t͡sˌin̪t̪rˈɑt̪o# | 147 : [-son] > ∅ / [+delrel] __ 
-#sˌin̪t̪rˈɑt̪o# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#θˌin̪t̪rˈɑt̪o# | 165 : s > θ / __ [-cons]
-#θin̪t̪rˈɑt̪o# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #θin̪t̪rˈɑt̪o#
+#kˌiːwit̪ˈɑːt̪em# >>> #θˌiet̪ˈɑt̪e# ( GOLD : #θjud̪ˈɑd̪#) :
+k ˌiː w i t̪ ˈɑː t̪ e m 
+#kˌiːɣʷit̪ˈɑːt̪em# | 17 : w > ɣʷ / __ [+syl]
+#kˌiːɣʷit̪ˈɑːt̪e# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˌiːβit̪ˈɑːt̪e# | 30 : ɣʷ > β 
+#kˌiːβet̪ˈɑːt̪e# | 43 : [+syl,-long] > [-hi] 
+#kˌiβet̪ˈɑt̪e# | 44 : [+syl,+long] > [-long,-splng] 
+#kjˌiβet̪ˈɑt̪e# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌiβet̪ˈɑt̪e# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˌiet̪ˈɑt̪e# | 88 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#t͡sjˌiet̪ˈɑt̪e# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sʝˌiet̪ˈɑt̪e# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sçˌiet̪ˈɑt̪e# | 126 : [-son] > [-voi] / [-voi] __ 
+#t͡sˌiet̪ˈɑt̪e# | 152 : [-son] > ∅ / [+delrel] __ 
+#sˌiet̪ˈɑt̪e# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#θˌiet̪ˈɑt̪e# | 170 : s > θ / __ [-cons]
+Final form : #θˌiet̪ˈɑt̪e#

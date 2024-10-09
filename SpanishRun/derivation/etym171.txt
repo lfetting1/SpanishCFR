@@ -1,17 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :171:
-#fˈɑskiɑm# >>> #ˈɑθɑ# ( GOLD : #ˈɑθɑ#) :
-f ˈɑ s k i ɑ m 
-#fˈɑskiɑ# | 25 : [+nas] > ∅ / [-stres] __ #
-#fˈɑskjɑ# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#fˈɑst͡ʃjɑ# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#fˈɑst͡sjɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#fˈɑst͡sʝɑ# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɸˈɑst͡sʝɑ# | 108 : {v;f} > {β;ɸ} 
-#ɸˈɑst͡sçɑ# | 121 : [-son] > [-voi] / [-voi] __ 
-#ɸˈɑt͡sçɑ# | 146 : [-son] > ∅ / __ [+delrel]
-#ɸˈɑt͡sɑ# | 147 : [-son] > ∅ / [+delrel] __ 
-#hˈɑt͡sɑ# | 151 : ɸ > h / __ [+syl]
-#ˈɑt͡sɑ# | 153 : h > ∅ 
-#ˈɑsɑ# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#ˈɑθɑ# | 165 : s > θ / __ [-cons]
-Final form : #ˈɑθɑ#
+#fˈɑɡeɑ# >>> #fˈie̯ʝɑ# ( GOLD : #ˈɑjɑ#) :
+f ˈɑ ɡ e ɑ 
+#fˈɑeɑ# | 38 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+#fˈɑejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#fˈɑijɑ# | 53 : e > i / __ j
+#fˈɑie̯jɑ# | 83 : ∅ > e̯ / [+syl] [-cor,-cons] __ [-syl,+front,-cons]
+#fˈɑje̯jɑ# | 95 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#fˈɑje̯ʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɸˈɑje̯ʝɑ# | 113 : {v;f} > {β;ɸ} 
+#ɸˈeje̯ʝɑ# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɸjˈee̯ʝɑ# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#fjˈee̯ʝɑ# | 157 : ɸ > f 
+#fjˈie̯ʝɑ# | 160 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#fˈie̯ʝɑ# | 162 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+Final form : #fˈie̯ʝɑ#

@@ -1,10 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1276:
-#ˌɑkˈuːkulɑm# >>> #ɑkˈuɡlɑ# ( GOLD : #ɑɡˈuxɑ#) :
-ˌɑ k ˈuː k u l ɑ m 
-#ˌɑkˈuːkulɑ# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑkˈuːkolɑ# | 43 : [+syl,-long] > [-hi] 
-#ˌɑkˈukolɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɑkˈuklɑ# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌɑkˈuɡlɑ# | 168 : [-voi] > [+voi] / [-cons] __ l
-#ɑkˈuɡlɑ# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑkˈuɡlɑ#
+#ˌɑllˈium# >>> #ˌolxˈo# ( GOLD : #ˈɑxo#) :
+ˌɑ l l ˈi u m 
+#ˌɑllˈiu# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˌɑlliˈu# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌɑlljˈu# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#ˌɑlljˈo# | 43 : [+syl,-long] > [-hi] 
+#ˌɑlʎjˈo# | 60 : [+lat] > ʎ / __ j
+#ˌɑlljˈo# | 64 : ʎ > l / [+cons,+voi] __ 
+#ˌɑwljˈo# | 90 : [+lat] > w / [+lo] __ [+cons]
+#ˌɑwlʝˈo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌɑwlʒˈo# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#ˌowlʒˈo# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ˌolʒˈo# | 131 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+#ˌolʃˈo# | 167 : [+strid] > [-voi] 
+#ˌolxˈo# | 169 : ʃ > x 
+Final form : #ˌolxˈo#

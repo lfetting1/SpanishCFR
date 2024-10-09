@@ -1,21 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1270:
-#ˌɑkkˌuːsɑːt̪iˈoːn̪em# >>> #ɑkuθɑθe̯xˈun̪# ( GOLD : #ɑkusɑθjon̪#) :
-ˌɑ k k ˌuː s ɑː t̪ i ˈoː n̪ e m 
-#ˌɑkkˌuːsɑːt̪iˈoːn̪e# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑkkˌuːsɑːt̪jˈoːn̪e# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#ˌɑkkˌusɑt̪jˈon̪e# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɑkkˌusɑt͡ʃjˈon̪e# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑkkˌusɑt͡ʃe̯jˈon̪e# | 78 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#ˌɑkkˌuzɑt͡ʃe̯jˈon̪e# | 84 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌɑkkˌuzɑt͡se̯jˈon̪e# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑkkˌuzɑt͡se̯jˈun̪e# | 94 : [+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#ˌɑkkˌuzɑt͡se̯ʝˈun̪e# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑkkˌuzɑt͡se̯ʒˈun̪e# | 112 : ʝ > ʒ / [-syl] __ [+round]
-#ˌɑkˌuzɑt͡se̯ʒˈun̪e# | 118 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌɑkˌuzɑt͡se̯ʒˈun̪# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ˌɑkˌuzɑse̯ʒˈun̪# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#ˌɑkˌusɑse̯ʃˈun̪# | 162 : [+strid] > [-voi] 
-#ˌɑkˌusɑse̯xˈun̪# | 164 : ʃ > x 
-#ˌɑkˌuθɑθe̯xˈun̪# | 165 : s > θ / __ [-cons]
-#ɑkuθɑθe̯xˈun̪# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑkuθɑθe̯xˈun̪#
+#ˌɑkwˈilɑm# >>> #jˌeβˈelɑ# ( GOLD : #ˈɑɡilɑ#) :
+ˌɑ k w ˈi l ɑ m 
+#ˌɑkɣʷˈilɑm# | 17 : w > ɣʷ / __ [+syl]
+#ˌɑkɣʷˈilɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˌɑkβˈilɑ# | 30 : ɣʷ > β 
+#ˌɑxβˈilɑ# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌɑxβˈelɑ# | 43 : [+syl,-long] > [-hi] 
+#ˌɑxvˈelɑ# | 96 : β > v 
+#ˌɑjvˈelɑ# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˌɑjβˈelɑ# | 113 : {v;f} > {β;ɸ} 
+#ˌejβˈelɑ# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#jˌeβˈelɑ# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #jˌeβˈelɑ#

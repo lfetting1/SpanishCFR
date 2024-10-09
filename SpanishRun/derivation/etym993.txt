@@ -1,19 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :993:
-#sˌɑːn̪kt̪iˈoːn̪em# >>> #θɑn̪θˈun̪# ( GOLD : #sɑn̪θjon̪#) :
-s ˌɑː n̪ k t̪ i ˈoː n̪ e m 
-#sˌɑːn̪t̪iˈoːn̪em# | 7 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#sˌɑːn̪t̪iˈoːn̪e# | 25 : [+nas] > ∅ / [-stres] __ #
-#sˌɑːn̪t̪jˈoːn̪e# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#sˌɑn̪t̪jˈon̪e# | 44 : [+syl,+long] > [-long,-splng] 
-#sˌɑn̪t͡ʃjˈon̪e# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#sˌɑn̪t͡sjˈon̪e# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#sˌɑn̪t͡sjˈun̪e# | 94 : [+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#sˌɑn̪t͡sʝˈun̪e# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#sˌɑn̪t͡sʒˈun̪e# | 112 : ʝ > ʒ / [-syl] __ [+round]
-#sˌɑn̪t͡sʃˈun̪e# | 121 : [-son] > [-voi] / [-voi] __ 
-#sˌɑn̪t͡sʃˈun̪# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#sˌɑn̪t͡sˈun̪# | 147 : [-son] > ∅ / [+delrel] __ 
-#sˌɑn̪sˈun̪# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#θˌɑn̪θˈun̪# | 165 : s > θ / __ [-cons]
-#θɑn̪θˈun̪# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #θɑn̪θˈun̪#
+#t̪rˈed̪ekim# >>> #t̪rˈeiθe̯ʝe# ( GOLD : #t̪ɾˈeθe#) :
+t̪ r ˈe d̪ e k i m 
+#t̪rˈed̪eki# | 25 : [+nas] > ∅ / [-stres] __ #
+#t̪rˈɛd̪eki# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#t̪rˈɛd̪eke# | 43 : [+syl,-long] > [-hi] 
+#t̪rˈɛd̪ekje# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t̪rˈɛd̪et͡ʃje# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t̪rˈɛd̪et͡ʃe̯je# | 82 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#t̪rˈɛðet͡ʃe̯je# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#t̪rˈɛet͡ʃe̯je# | 88 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#t̪rˈɛet͡se̯je# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t̪rˈeet͡se̯je# | 102 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [-cons,-syl]
+#t̪rˈeet͡se̯ʝe# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t̪rˈeit͡se̯ʝe# | 148 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#t̪rˈeise̯ʝe# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#t̪rˈeiθe̯ʝe# | 170 : s > θ / __ [-cons]
+Final form : #t̪rˈeiθe̯ʝe#

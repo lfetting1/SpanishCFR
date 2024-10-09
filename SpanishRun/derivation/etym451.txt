@@ -1,13 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :451:
-#kˌɑppˈellɑ# >>> #kɑwçʎɑ# ( GOLD : #kɑpˈiʝɑ#) :
-k ˌɑ p p ˈe l l ɑ 
-#kˌɑppˈɛllɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɑppjellɑ# | 99 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#kˌɑppʝellɑ# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kˌɑppʝeʎɑ# | 117 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#kˌɑpʝeʎɑ# | 118 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#kˌɑpʝʎɑ# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kˌɑpçʎɑ# | 121 : [-son] > [-voi] / [-voi] __ 
-#kˌɑwçʎɑ# | 158 : [+lab,+cons] > w / __ [-son]
-#kɑwçʎɑ# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kɑwçʎɑ#
+#kˌɑpsˈeolɑ# >>> #kˌɑθiɣʷlɑ# ( GOLD : #kɑxwˈelɑ#) :
+k ˌɑ p s ˈe o l ɑ 
+#kˌɑpseˈolɑ# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kˌɑpseˈɔlɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɑpsejˈɔlɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#kˌɑpsijˈɔlɑ# | 53 : e > i / __ j
+#kˌɑssijˈɔlɑ# | 62 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
+#kˌɑssijwelɑ# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#kˌɑssijɣʷelɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kˌɑsijɣʷelɑ# | 123 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#kˌɑsijɣʷlɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kˌɑsiɣʷlɑ# | 132 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#kˌɑθiɣʷlɑ# | 170 : s > θ / __ [-cons]
+Final form : #kˌɑθiɣʷlɑ#

@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :379:
-#kˌen̪t̪ˈeːn̪um# >>> #θen̪t̪ˈen̪# ( GOLD : #θen̪t̪ˈen̪o#) :
-k ˌe n̪ t̪ ˈeː n̪ u m 
-#kˌeːn̪t̪ˈeːn̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˌeːn̪t̪ˈeːn̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#kˌeːn̪t̪ˈeːn̪o# | 43 : [+syl,-long] > [-hi] 
-#kˌen̪t̪ˈen̪o# | 44 : [+syl,+long] > [-long,-splng] 
-#kjˌen̪t̪ˈen̪o# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌen̪t̪ˈen̪o# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡sjˌen̪t̪ˈen̪o# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sʝˌen̪t̪ˈen̪o# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sçˌen̪t̪ˈen̪o# | 121 : [-son] > [-voi] / [-voi] __ 
-#t͡sçˌen̪t̪ˈen̪# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#t͡sˌen̪t̪ˈen̪# | 147 : [-son] > ∅ / [+delrel] __ 
-#sˌen̪t̪ˈen̪# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#θˌen̪t̪ˈen̪# | 165 : s > θ / __ [-cons]
-#θen̪t̪ˈen̪# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #θen̪t̪ˈen̪#
+#kˌerˈeolɑ# >>> #θˌeriɣʷlɑ# ( GOLD : #θiɾwˈelɑ#) :
+k ˌe r ˈe o l ɑ 
+#kˌereˈolɑ# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kˌɛreˈɔlɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɛrejˈɔlɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#kˌɛrijˈɔlɑ# | 53 : e > i / __ j
+#kjˌɛrijˈɔlɑ# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌɛrijˈɔlɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡sjˌɛrijˈɔlɑ# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjˌerijˈɔlɑ# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#t͡sjˌerijwelɑ# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#t͡sʝˌerijɣʷelɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sʝˌerijɣʷlɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t͡sçˌerijɣʷlɑ# | 126 : [-son] > [-voi] / [-voi] __ 
+#t͡sçˌeriɣʷlɑ# | 132 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#t͡sˌeriɣʷlɑ# | 152 : [-son] > ∅ / [+delrel] __ 
+#sˌeriɣʷlɑ# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#θˌeriɣʷlɑ# | 170 : s > θ / __ [-cons]
+Final form : #θˌeriɣʷlɑ#

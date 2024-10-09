@@ -1,12 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1263:
-#ˌɑffrˈon̪t̪ɑ# >>> #ɑvɾˈon̪t̪ɑ# ( GOLD : #ɑfɾˈen̪t̪ɑ#) :
-ˌɑ f f r ˈo n̪ t̪ ɑ 
-#ˌɑffrˈoːn̪t̪ɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌɑffrˈon̪t̪ɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɑffɾˈon̪t̪ɑ# | 47 : r > ɾ / [+cons] __ 
-#ˌɑɸɸɾˈon̪t̪ɑ# | 108 : {v;f} > {β;ɸ} 
-#ˌɑɸɾˈon̪t̪ɑ# | 118 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌɑfɾˈon̪t̪ɑ# | 152 : ɸ > f 
-#ˌɑvɾˈon̪t̪ɑ# | 169 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
-#ɑvɾˈon̪t̪ɑ# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑvɾˈon̪t̪ɑ#
+#ˌɑffˌikt̪iˈoːn̪em# >>> #ˌɑˌit͡ʃˈon̪# ( GOLD : #ɑfiθjˈon̪#) :
+ˌɑ f f ˌi k t̪ i ˈoː n̪ e m 
+#ˌɑffˌikt̪iˈoːn̪e# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˌɑffˌixt̪iˈoːn̪e# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌɑffˌext̪eˈoːn̪e# | 43 : [+syl,-long] > [-hi] 
+#ˌɑffˌext̪eˈon̪e# | 44 : [+syl,+long] > [-long,-splng] 
+#ˌɑffˌext̪ejˈon̪e# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#ˌɑffˌext̪ijˈon̪e# | 53 : e > i / __ j
+#ˌɑffˌejt̪ijˈon̪e# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˌɑffˌijt̪ijˈon̪e# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#ˌɑffˌijt̪iʝˈon̪e# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌɑɸɸˌijt̪iʝˈon̪e# | 113 : {v;f} > {β;ɸ} 
+#ˌɑɸˌijt̪iʝˈon̪e# | 123 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˌɑɸˌijt̪ʝˈon̪e# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌɑɸˌijt̪çˈon̪e# | 126 : [-son] > [-voi] / [-voi] __ 
+#ˌɑɸˌijt͡ʃçˈon̪e# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ˌɑɸˌit͡ʃçˈon̪e# | 132 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ˌɑɸˌit͡ʃçˈon̪# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌɑɸˌit͡ʃˈon̪# | 152 : [-son] > ∅ / [+delrel] __ 
+#ˌɑhˌit͡ʃˈon̪# | 156 : ɸ > h / __ [+syl]
+#ˌɑˌit͡ʃˈon̪# | 158 : h > ∅ 
+Final form : #ˌɑˌit͡ʃˈon̪#

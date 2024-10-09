@@ -1,10 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1165:
-#ˈoːwum# >>> #ˈo# ( GOLD : #wˈebo#) :
-ˈoː w u m 
-#ˈoːum# | 16 : w > ∅ / [+back,+syl] __ 
-#ˈoːu# | 25 : [+nas] > ∅ / [-stres] __ #
-#oːˈu# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#oːˈo# | 43 : [+syl,-long] > [-hi] 
-#oˈo# | 44 : [+syl,+long] > [-long,-splng] 
-#ˈo# | 57 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-Final form : #ˈo#
+#ˈult̪imum# >>> #wˈit͡ʃmo# ( GOLD : #ult̪imo#) :
+ˈu l t̪ i m u m 
+#ˈul̪t̪imum# | 5 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
+#ˈul̪t̪imu# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˈol̪t̪emo# | 43 : [+syl,-long] > [-hi] 
+#ˈojt̪emo# | 91 : [+lat] > j / [+back] __ [+cons]
+#ˈujt̪emo# | 100 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [-son]
+#ˈujt̪mo# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˈujt͡ʃmo# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#wˈit͡ʃmo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #wˈit͡ʃmo#

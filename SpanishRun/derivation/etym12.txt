@@ -1,19 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :12:
-#bˈukkeum# >>> #bwˈiθu# ( GOLD : #bˈoθo#) :
+#bˈukkeum# >>> #βwˈiθo# ( GOLD : #bˈoθo#) :
 b ˈu k k e u m 
 #bˈukkeu# | 25 : [+nas] > ∅ / [-stres] __ #
-#bˈukkju# | 41 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#bˈukkju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #bˈokkjo# | 43 : [+syl,-long] > [-hi] 
-#bˈokt͡ʃjo# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#bˈokt͡sjo# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#bˈojt͡sjo# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#bˈojt͡sju# | 94 : [+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#bˈujt͡sju# | 95 : [+syl,+round,+tense] > [+hi,-lo] / __ ( [-syl] )* [+hi,+syl]
-#bˈujt͡sʝu# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#bˈujt͡sʒu# | 112 : ʝ > ʒ / [-syl] __ [+round]
-#bˈujt͡sʃu# | 121 : [-son] > [-voi] / [-voi] __ 
-#bwˈit͡sʃu# | 137 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#bwˈit͡su# | 147 : [-son] > ∅ / [+delrel] __ 
-#bwˈisu# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#bwˈiθu# | 165 : s > θ / __ [-cons]
-Final form : #bwˈiθu#
+#bˈokt͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˈokt͡ʃjo# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#βˈokt͡sjo# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˈokt͡sjo# | 96 : β > v 
+#vˈojt͡sjo# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#vˈujt͡sjo# | 99 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [+syl]
+#vˈujt͡sʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˈujt͡sʝo# | 113 : {v;f} > {β;ɸ} 
+#βˈujt͡sʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#βˈujt͡sʃo# | 126 : [-son] > [-voi] / [-voi] __ 
+#βwˈit͡sʃo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#βwˈit͡so# | 152 : [-son] > ∅ / [+delrel] __ 
+#βwˈiso# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#βwˈiθo# | 170 : s > θ / __ [-cons]
+Final form : #βwˈiθo#

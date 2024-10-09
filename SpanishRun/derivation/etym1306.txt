@@ -1,15 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1306:
-#ˌɑrkˈɑːrium# >>> #ɑɾkˈɑrxu# ( GOLD : #ɑɾkˈeɾo#) :
-ˌɑ r k ˈɑː r i u m 
-#ˌɑrkˈɑːriu# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑrkˈɑːrju# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#ˌɑrkˈɑːrjo# | 43 : [+syl,-long] > [-hi] 
-#ˌɑrkˈɑrjo# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɑɾkˈɑrjo# | 46 : r > ɾ / __ [+cons]
-#ˌɑɾkˈɑrju# | 94 : [+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#ˌɑɾkˈɑrʝu# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑɾkˈɑrʒu# | 112 : ʝ > ʒ / [-syl] __ [+round]
-#ˌɑɾkˈɑrʃu# | 162 : [+strid] > [-voi] 
-#ˌɑɾkˈɑrxu# | 164 : ʃ > x 
-#ɑɾkˈɑrxu# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑɾkˈɑrxu#
+#ˌɑrrˈuɡium# >>> #ˌɑrˈuʝo# ( GOLD : #ɑrˈojo#) :
+ˌɑ r r ˈu ɡ i u m 
+#ˌɑrrˈuɡiu# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˌɑrrˈuiu# | 38 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+#ˌɑrrˈuju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#ˌɑrrˈojo# | 43 : [+syl,-long] > [-hi] 
+#ˌɑrˈojo# | 45 : r r > r 
+#ˌɑrˈujo# | 99 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [+syl]
+#ˌɑrˈuʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+Final form : #ˌɑrˈuʝo#

@@ -1,21 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1090:
-#wˌikˈiːn̪um# >>> #βiθe̯ʝˈin̪# ( GOLD : #beθˈin̪o#) :
-w ˌi k ˈiː n̪ u m 
-#ɣʷˌikˈiːn̪um# | 17 : w > ɣʷ / __ [+syl]
-#ɣʷˌikˈiːn̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#βˌikˈiːn̪u# | 30 : ɣʷ > β 
-#βˌekˈiːn̪o# | 43 : [+syl,-long] > [-hi] 
-#βˌekˈin̪o# | 44 : [+syl,+long] > [-long,-splng] 
-#βˌekjˈin̪o# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌet͡ʃjˈin̪o# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌet͡ʃe̯jˈin̪o# | 78 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#βˌet͡se̯jˈin̪o# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#vˌet͡se̯jˈin̪o# | 91 : β > v 
-#vˌet͡se̯ʝˈin̪o# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βˌet͡se̯ʝˈin̪o# | 108 : {v;f} > {β;ɸ} 
-#βˌet͡se̯ʝˈin̪# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#βˌit͡se̯ʝˈin̪# | 143 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#βˌise̯ʝˈin̪# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#βˌiθe̯ʝˈin̪# | 165 : s > θ / __ [-cons]
-#βiθe̯ʝˈin̪# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #βiθe̯ʝˈin̪#
+#wˌin̪d̪ˈeːmiɑ# >>> #βˌen̪ðˈiwʝɑ# ( GOLD : #ben̪d̪ˈimjɑ#) :
+w ˌi n̪ d̪ ˈeː m i ɑ 
+#wˌiːn̪d̪ˈeːmiɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ɣʷˌiːn̪d̪ˈeːmiɑ# | 17 : w > ɣʷ / __ [+syl]
+#βˌiːn̪d̪ˈeːmiɑ# | 30 : ɣʷ > β 
+#βˌiːn̪d̪ˈeːmeɑ# | 43 : [+syl,-long] > [-hi] 
+#βˌin̪d̪ˈemeɑ# | 44 : [+syl,+long] > [-long,-splng] 
+#βˌin̪d̪ˈemejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#βˌin̪d̪ˈemijɑ# | 53 : e > i / __ j
+#βˌin̪ðˈemijɑ# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#vˌin̪ðˈemijɑ# | 96 : β > v 
+#vˌin̪ðˈimijɑ# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#vˌin̪ðˈimiʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˌin̪ðˈimiʝɑ# | 113 : {v;f} > {β;ɸ} 
+#βˌin̪ðˈimʝɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#βˌen̪ðˈimʝɑ# | 150 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#βˌen̪ðˈiwʝɑ# | 163 : [+lab,+cons] > w / __ [-son]
+Final form : #βˌen̪ðˈiwʝɑ#

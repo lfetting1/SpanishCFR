@@ -1,10 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1191:
-#ˈɑn̪ksiɑ# >>> #ˈɑŋksçɑ# ( GOLD : #ˈɑn̪sjɑ#) :
-ˈɑ n̪ k s i ɑ 
-#ˈɑːn̪ksiɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˈɑːŋksiɑ# | 12 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ˈɑːŋksjɑ# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#ˈɑŋksjɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#ˈɑŋksʝɑ# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˈɑŋksçɑ# | 121 : [-son] > [-voi] / [-voi] __ 
-Final form : #ˈɑŋksçɑ#
+#ˈɑn̪sɑm# >>> #ˈɑθɑ# ( GOLD : #ˈɑsɑ#) :
+ˈɑ n̪ s ɑ m 
+#ˈɑːn̪sɑm# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ˈɑːnsɑm# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ˈɑːnsɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˈɑːsɑ# | 26 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+#ˈɑsɑ# | 44 : [+syl,+long] > [-long,-splng] 
+#ˈɑzɑ# | 89 : [+cont] > [+voi] / [-cons] __ [+son]
+#ˈɑsɑ# | 167 : [+strid] > [-voi] 
+#ˈɑθɑ# | 170 : s > θ / __ [-cons]
+Final form : #ˈɑθɑ#

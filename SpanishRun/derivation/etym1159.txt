@@ -1,9 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1159:
-#ˈoperɑ# >>> #wprɑ# ( GOLD : #wˈebɾɑ#) :
-ˈo p e r ɑ 
-#ˈɔperɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#weperɑ# | 99 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ɣʷeperɑ# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɣʷprɑ# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#wprɑ# | 158 : [+lab,+cons] > w / __ [-son]
-Final form : #wprɑ#
+#ˈord̪in̪em# >>> #ɣʷrn̪ðe# ( GOLD : #ˈoɾd̪en̪#) :
+ˈo r d̪ i n̪ e m 
+#ˈord̪in̪e# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˈɔrd̪in̪e# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɔrd̪en̪e# | 43 : [+syl,-long] > [-hi] 
+#ˈɔɾd̪en̪e# | 46 : r > ɾ / __ [+cons]
+#ˈɔrðen̪e# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#werðen̪e# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ɣʷerðen̪e# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɣʷrðn̪e# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ɣʷrn̪ðe# | 140 : ð n̪ > n̪ ð 
+Final form : #ɣʷrn̪ðe#

@@ -1,21 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1243:
-#ˌokkɑːsiˈoːn̪em# >>> #wkɑθe̯xˈun̪# ( GOLD : #okɑsjˈon̪#) :
-ˌo k k ɑː s i ˈoː n̪ e m 
-#ˌokkɑːsiˈoːn̪e# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌokkɑːsjˈoːn̪e# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#ˌɔkkɑːsjˈoːn̪e# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɔkkɑsjˈon̪e# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɔkkɑse̯jˈon̪e# | 78 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#ˌɔkkɑze̯jˈon̪e# | 84 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌɔkkɑze̯jˈun̪e# | 94 : [+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#wekkɑze̯jˈun̪e# | 99 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ɣʷekkɑze̯ʝˈun̪e# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɣʷekkɑze̯ʒˈun̪e# | 112 : ʝ > ʒ / [-syl] __ [+round]
-#ɣʷekɑze̯ʒˈun̪e# | 118 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ɣʷkɑze̯ʒˈun̪e# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#wkɑze̯ʒˈun̪e# | 123 : [+cons,+lab] > w / __ [+back,+cons]
-#wkɑze̯ʒˈun̪# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#wkɑse̯ʃˈun̪# | 162 : [+strid] > [-voi] 
-#wkɑse̯xˈun̪# | 164 : ʃ > x 
-#wkɑθe̯xˈun̪# | 165 : s > θ / __ [-cons]
-Final form : #wkɑθe̯xˈun̪#
+#ˌoperˈɑːrium# >>> #ˌoprˈɑrxo# ( GOLD : #obɾˈeɾo#) :
+ˌo p e r ˈɑː r i u m 
+#ˌoperˈɑːriu# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˌoperˈɑːrju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#ˌɔperˈɑːrju# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɔperˈɑːrjo# | 43 : [+syl,-long] > [-hi] 
+#ˌɔperˈɑrjo# | 44 : [+syl,+long] > [-long,-splng] 
+#ˌɔpirˈɑrjo# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#ˌopirˈɑrjo# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ˌopirˈɑrʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌopirˈɑrʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#ˌoprˈɑrʒo# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌoprˈɑrʃo# | 167 : [+strid] > [-voi] 
+#ˌoprˈɑrxo# | 169 : ʃ > x 
+Final form : #ˌoprˈɑrxo#

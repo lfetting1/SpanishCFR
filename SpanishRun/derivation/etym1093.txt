@@ -1,26 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1093:
-#wˌin̪kˈikulum# >>> #βiθˈeɡlo# ( GOLD : #ben̪θˈexo#) :
-w ˌi n̪ k ˈi k u l u m 
-#wˌiːn̪kˈikulum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#wˌiːŋkˈikulum# | 12 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ɣʷˌiːŋkˈikulum# | 17 : w > ɣʷ / __ [+syl]
-#ɣʷˌiːŋkˈikulu# | 25 : [+nas] > ∅ / [-stres] __ #
-#βˌiːŋkˈikulu# | 30 : ɣʷ > β 
-#βˌiːŋkˈekolo# | 43 : [+syl,-long] > [-hi] 
-#βˌiŋkˈekolo# | 44 : [+syl,+long] > [-long,-splng] 
-#βˌiŋkjˈekolo# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌiŋt͡ʃjˈekolo# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌiŋt͡sjˈekolo# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#vˌiŋt͡sjˈekolo# | 91 : β > v 
-#vˌijt͡sjˈekolo# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#vˌijt͡sʝˈekolo# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βˌijt͡sʝˈekolo# | 108 : {v;f} > {β;ɸ} 
-#βˌijt͡sʝˈeklo# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#βˌijt͡sçˈeklo# | 121 : [-son] > [-voi] / [-voi] __ 
-#βˌit͡sçˈeklo# | 128 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#βˌit͡sˈeklo# | 147 : [-son] > ∅ / [+delrel] __ 
-#βˌisˈeklo# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#βˌiθˈeklo# | 165 : s > θ / __ [-cons]
-#βˌiθˈeɡlo# | 168 : [-voi] > [+voi] / [-cons] __ l
-#βiθˈeɡlo# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #βiθˈeɡlo#
+#wˌirɡˈin̪em# >>> #βˌerxʝˈen̪# ( GOLD : #bˈiɾxen̪#) :
+w ˌi r ɡ ˈi n̪ e m 
+#ɣʷˌirɡˈin̪em# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷˌirɡˈin̪e# | 25 : [+nas] > ∅ / [-stres] __ #
+#βˌirɡˈin̪e# | 30 : ɣʷ > β 
+#βˌerɡˈen̪e# | 43 : [+syl,-long] > [-hi] 
+#βˌeɾɡˈen̪e# | 46 : r > ɾ / __ [+cons]
+#βˌeɾɡjˈen̪e# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βˌeɾd͡ʒjˈen̪e# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˌerʒjˈen̪e# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#vˌerʒjˈen̪e# | 96 : β > v 
+#vˌerʒʝˈen̪e# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˌerʒʝˈen̪e# | 113 : {v;f} > {β;ɸ} 
+#βˌerʒʝˈen̪# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#βˌerʃʝˈen̪# | 167 : [+strid] > [-voi] 
+#βˌerxʝˈen̪# | 169 : ʃ > x 
+Final form : #βˌerxʝˈen̪#

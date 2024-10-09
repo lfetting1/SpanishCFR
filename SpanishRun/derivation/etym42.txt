@@ -1,8 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :42:
-#d̪ˈein̪d̪e# >>> #d̪ˈin̪d̪e# ( GOLD : #d̪ˈen̪d̪e#) :
-d̪ ˈe i n̪ d̪ e 
-#d̪ˈeiːn̪d̪e# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#d̪eˈiːn̪d̪e# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#d̪eˈin̪d̪e# | 44 : [+syl,+long] > [-long,-splng] 
-#d̪ˈin̪d̪e# | 57 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-Final form : #d̪ˈin̪d̪e#
+#d̪ˈein̪t̪ro# >>> #xʝˈin̪t̪ro# ( GOLD : #d̪ˈen̪t̪ɾo#) :
+d̪ ˈe i n̪ t̪ r o 
+#d̪ˈeiːn̪t̪ro# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#d̪eˈiːn̪t̪ro# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#d̪jˈiːn̪t̪ro# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#d̪jˈin̪t̪ro# | 44 : [+syl,+long] > [-long,-splng] 
+#d͡ʒjˈin̪t̪ro# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ʒjˈin̪t̪ro# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ʒʝˈin̪t̪ro# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʃʝˈin̪t̪ro# | 167 : [+strid] > [-voi] 
+#xʝˈin̪t̪ro# | 169 : ʃ > x 
+Final form : #xʝˈin̪t̪ro#

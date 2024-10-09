@@ -1,10 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :510:
-#lˈɑiːkum# >>> #ljˈeko# ( GOLD : #lˈeɡo#) :
-l ˈɑ iː k u m 
-#lˈɑiːku# | 25 : [+nas] > ∅ / [-stres] __ #
-#lˈɑiːko# | 43 : [+syl,-long] > [-hi] 
-#lˈɑiko# | 44 : [+syl,+long] > [-long,-splng] 
-#lˈɑjko# | 90 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-#lˈejko# | 122 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ljˈeko# | 137 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-Final form : #ljˈeko#
+#lˈɑksius# >>> #lˈixxθ# ( GOLD : #lˈexos#) :
+l ˈɑ k s i u s 
+#lˈɑxsius# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#lˈɑxsjus# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#lˈɑxsjos# | 43 : [+syl,-long] > [-hi] 
+#lˈɑjsjos# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#lˈɑjsʝos# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#lˈɑjsʒos# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#lˈɑjsʒs# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#lˈɑjsʃs# | 126 : [-son] > [-voi] / [-voi] __ 
+#lˈejsʃs# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#lˈejʃʃs# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ljˈeʃʃs# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ljˈiʃʃs# | 160 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#lˈiʃʃs# | 162 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#lˈixxs# | 169 : ʃ > x 
+#lˈixxθ# | 171 : s > θ / __ #
+Final form : #lˈixxθ#

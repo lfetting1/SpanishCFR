@@ -1,16 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :161:
-#fˈɑkit̪# >>> #ˈɑθe̯ʝe# ( GOLD : #ˈɑθe#) :
-f ˈɑ k i t̪ 
-#fˈɑki# | 27 : [+cons,-cont] > ∅ / __ #
-#fˈɑke# | 43 : [+syl,-long] > [-hi] 
-#fˈɑkje# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#fˈɑt͡ʃje# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#fˈɑt͡ʃe̯je# | 78 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#fˈɑt͡se̯je# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#fˈɑt͡se̯ʝe# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɸˈɑt͡se̯ʝe# | 108 : {v;f} > {β;ɸ} 
-#hˈɑt͡se̯ʝe# | 151 : ɸ > h / __ [+syl]
-#ˈɑt͡se̯ʝe# | 153 : h > ∅ 
-#ˈɑse̯ʝe# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#ˈɑθe̯ʝe# | 165 : s > θ / __ [-cons]
-Final form : #ˈɑθe̯ʝe#
+#fˈɑkt̪um# >>> #fjˈet͡ʃo# ( GOLD : #ˈet͡ʃo#) :
+f ˈɑ k t̪ u m 
+#fˈɑkt̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#fˈɑxt̪u# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#fˈɑxt̪o# | 43 : [+syl,-long] > [-hi] 
+#fˈɑjt̪o# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ɸˈɑjt̪o# | 113 : {v;f} > {β;ɸ} 
+#ɸˈejt̪o# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɸˈejt͡ʃo# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ɸjˈet͡ʃo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#fjˈet͡ʃo# | 157 : ɸ > f 
+Final form : #fjˈet͡ʃo#

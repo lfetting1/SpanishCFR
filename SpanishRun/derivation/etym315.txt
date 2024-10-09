@@ -1,7 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :315:
-#kˈon̪t̪rɑ# >>> #kˈon̪t̪ɾɑ# ( GOLD : #kˈon̪t̪ɾɑ#) :
-k ˈo n̪ t̪ r ɑ 
-#kˈoːn̪t̪rɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˈon̪t̪rɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#kˈon̪t̪ɾɑ# | 47 : r > ɾ / [+cons] __ 
-Final form : #kˈon̪t̪ɾɑ#
+#kˈorium# >>> #kˈorxo# ( GOLD : #kwˈeɾo#) :
+k ˈo r i u m 
+#kˈoriu# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˈorju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˈɔrju# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˈɔrjo# | 43 : [+syl,-long] > [-hi] 
+#kˈorjo# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#kˈorʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kˈorʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#kˈorʃo# | 167 : [+strid] > [-voi] 
+#kˈorxo# | 169 : ʃ > x 
+Final form : #kˈorxo#

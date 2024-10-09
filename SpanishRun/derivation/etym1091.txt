@@ -1,15 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1091:
-#wˌin̪d̪ikˈɑːre# >>> #βin̪zkˈɑr# ( GOLD : #ben̪ɡˈɑɾ#) :
-w ˌi n̪ d̪ i k ˈɑː r e 
-#wˌiːn̪d̪ikˈɑːre# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ɣʷˌiːn̪d̪ikˈɑːre# | 17 : w > ɣʷ / __ [+syl]
-#βˌiːn̪d̪ikˈɑːre# | 30 : ɣʷ > β 
-#βˌiːn̪d̪ekˈɑːre# | 43 : [+syl,-long] > [-hi] 
-#βˌin̪d̪ekˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#vˌin̪d̪ekˈɑre# | 91 : β > v 
-#βˌin̪d̪ekˈɑre# | 108 : {v;f} > {β;ɸ} 
-#βˌin̪d̪kˈɑre# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#βˌin̪d̪kˈɑr# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#βˌin̪zkˈɑr# | 163 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#βin̪zkˈɑr# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #βin̪zkˈɑr#
+#wˌin̪kˈikulum# >>> #βˌiθˈeɡlo# ( GOLD : #ben̪θˈexo#) :
+w ˌi n̪ k ˈi k u l u m 
+#wˌiːn̪kˈikulum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#wˌiːŋkˈikulum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ɣʷˌiːŋkˈikulum# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷˌiːŋkˈikulu# | 25 : [+nas] > ∅ / [-stres] __ #
+#βˌiːŋkˈikulu# | 30 : ɣʷ > β 
+#βˌiːŋkˈekolo# | 43 : [+syl,-long] > [-hi] 
+#βˌiŋkˈekolo# | 44 : [+syl,+long] > [-long,-splng] 
+#βˌiŋkjˈekolo# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βˌiŋt͡ʃjˈekolo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˌiŋt͡sjˈekolo# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˌiŋt͡sjˈekolo# | 96 : β > v 
+#vˌijt͡sjˈekolo# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#vˌijt͡sʝˈekolo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βˌijt͡sʝˈekolo# | 113 : {v;f} > {β;ɸ} 
+#βˌijt͡sʝˈeklo# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#βˌijt͡sçˈeklo# | 126 : [-son] > [-voi] / [-voi] __ 
+#βˌit͡sçˈeklo# | 132 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#βˌit͡sˈeklo# | 152 : [-son] > ∅ / [+delrel] __ 
+#βˌisˈeklo# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#βˌiθˈeklo# | 170 : s > θ / __ [-cons]
+#βˌiθˈeɡlo# | 173 : [-voi] > [+voi] / [-cons] __ l
+Final form : #βˌiθˈeɡlo#

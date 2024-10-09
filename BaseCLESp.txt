@@ -99,12 +99,14 @@ w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify ru
 [+front,+syl,-stres] > j / [+syl,+back] __ $ syneresis_late $(103)
 β > v $ beta_vee $(104) definitely bled but works.
 [+cons,+back] > j / [+syl] __ [-back,+cons] $ velar yod late $(105) fixed posterior
-[+front,+tense,+syl,-lo] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+hi,+front,-nas,-lat] [+syl,+back] $metaphony e. CM 10/8: fixed metaphony-e to one rule based on baseline. OG version (bugged) is below. 
+[+front,+tense,+syl,-lo] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+hi,+front,-nas,-lat] [+syl,+back] $metaphony e. CM 10/8: fixed metaphony-e to one rule based on span15. OG version (bugged) is below. 
 $[+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels $(107) !come back to these
 $[+syl,+front,+tense] > [+hi] / __ ([-syl]) [+syl,+hi] $ metaphony e $(106) !come back to these
 
-[+syl,+round,+tense] > [+hi,-lo] / __ ([-syl])* [+hi,+syl] $ metaphony o $(108) !come back to these
-[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is o $(109) !come back to these
+[+syl,+round,+tense] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back] {[+syl];[-son]} $metaphony_o. CM 10/8: fixed metaphony-o to one rule based on span15. OG version commented out below.
+$[+syl,+round,+tense] > [+hi,-lo] / __ ([-syl])* [+hi,+syl] $ metaphony o $(108) !come back to these
+$[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is o $(109) !come back to these
+
 [+syl,-tense] > [+tense] / __ (@) (@) [+hi,+front] $ low raising,palatal can be 1st 2nd or 3rd phoneme following $(110) good - added below
 [+syl,-tense] > [+tense] / __ (@) (@) [-cons,-syl] $ low raising,glide can be 1st 2nd or 3rd phoneme following
 [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ $ progressive raising (e>i / V ʝ __ ) $(111) Fixed. Context is / V ʝ __ 

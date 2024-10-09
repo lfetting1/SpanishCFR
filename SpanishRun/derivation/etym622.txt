@@ -1,12 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :622:
-#mˌemorˈɑːre# >>> #wʝmbrˈɑr# ( GOLD : #membɾˈɑɾ#) :
-m ˌe m o r ˈɑː r e 
-#mˌɛmorˈɑːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˌɛmorˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#mjemorˈɑre# | 99 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#mʝemorˈɑre# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mʝmrˈɑre# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#mʝmrˈɑr# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#wʝmrˈɑr# | 158 : [+lab,+cons] > w / __ [-son]
-#wʝmbrˈɑr# | 160 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-Final form : #wʝmbrˈɑr#
+#mˌikst̪ˈiːkium# >>> #mˌest̪ˈiθe̯xo# ( GOLD : #mest̪ˈiθo#) :
+m ˌi k s t̪ ˈiː k i u m 
+#mˌiks̪t̪ˈiːkium# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#mˌiks̪t̪ˈiːkiu# | 25 : [+nas] > ∅ / [-stres] __ #
+#mˌis̪t̪ˈiːkiu# | 29 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
+#mˌis̪t̪ˈiːkju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#mˌes̪t̪ˈiːkjo# | 43 : [+syl,-long] > [-hi] 
+#mˌes̪t̪ˈikjo# | 44 : [+syl,+long] > [-long,-splng] 
+#mˌes̪t̪ˈit͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˌes̪t̪ˈit͡ʃe̯jo# | 82 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#mˌes̪t̪ˈit͡se̯jo# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mˌis̪t̪ˈit͡se̯jo# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#mˌis̪t̪ˈit͡se̯ʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#mˌis̪t̪ˈit͡se̯ʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#mˌes̪t̪ˈit͡se̯ʒo# | 150 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#mˌes̪t̪ˈise̯ʒo# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#mˌes̪t̪ˈise̯ʃo# | 167 : [+strid] > [-voi] 
+#mˌest̪ˈise̯ʃo# | 168 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#mˌest̪ˈise̯xo# | 169 : ʃ > x 
+#mˌest̪ˈiθe̯xo# | 170 : s > θ / __ [-cons]
+Final form : #mˌest̪ˈiθe̯xo#

@@ -1,19 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :380:
-#kˌepˈullɑ# >>> #θipwˈelɑ# ( GOLD : #θebˈoʝɑ#) :
-k ˌe p ˈu l l ɑ 
-#kˌɛpˈullɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɛpˈollɑ# | 43 : [+syl,-long] > [-hi] 
-#kjˌɛpˈollɑ# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌɛpˈollɑ# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˌɛpˈojlɑ# | 86 : [+lat] > j / [+back] __ [+cons]
-#t͡sjˌɛpˈojlɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sjˌepˈojlɑ# | 96 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#t͡sʝˌepˈojlɑ# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sçˌepˈojlɑ# | 121 : [-son] > [-voi] / [-voi] __ 
-#t͡sçˌepwˈelɑ# | 137 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#t͡sçˌipwˈelɑ# | 143 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#t͡sˌipwˈelɑ# | 147 : [-son] > ∅ / [+delrel] __ 
-#sˌipwˈelɑ# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#θˌipwˈelɑ# | 165 : s > θ / __ [-cons]
-#θipwˈelɑ# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #θipwˈelɑ#
+#kˌeːpˈullɑ# >>> #θˌipwˈelɑ# ( GOLD : #θeboʝɑ#) :
+k ˌeː p ˈu l l ɑ 
+#kˌeːpˈollɑ# | 43 : [+syl,-long] > [-hi] 
+#kˌepˈollɑ# | 44 : [+syl,+long] > [-long,-splng] 
+#kjˌepˈollɑ# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌepˈollɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˌepˈojlɑ# | 91 : [+lat] > j / [+back] __ [+cons]
+#t͡sjˌepˈojlɑ# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sʝˌepˈojlɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sçˌepˈojlɑ# | 126 : [-son] > [-voi] / [-voi] __ 
+#t͡sçˌepwˈelɑ# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#t͡sçˌipwˈelɑ# | 148 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#t͡sˌipwˈelɑ# | 152 : [-son] > ∅ / [+delrel] __ 
+#sˌipwˈelɑ# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#θˌipwˈelɑ# | 170 : s > θ / __ [-cons]
+Final form : #θˌipwˈelɑ#

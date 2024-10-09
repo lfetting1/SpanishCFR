@@ -1,15 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :240:
-#jˌɑːn̪uˈɑːrium# >>> #ʝɑn̪o̯ɣʷˈɑrxu# ( GOLD : #en̪ˈeɾo#) :
-j ˌɑː n̪ u ˈɑː r i u m 
-#jˌɑːn̪uˈɑːriu# | 25 : [+nas] > ∅ / [-stres] __ #
-#jˌɑːn̪wˈɑːrju# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#jˌɑːn̪wˈɑːrjo# | 43 : [+syl,-long] > [-hi] 
-#jˌɑn̪wˈɑrjo# | 44 : [+syl,+long] > [-long,-splng] 
-#jˌɑn̪o̯wˈɑrjo# | 72 : ∅ > o̯ / [+syl] [+ant] __ [-syl,+back,-cons] [+syl,+back]
-#jˌɑn̪o̯wˈɑrju# | 94 : [+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#ʝˌɑn̪o̯ɣʷˈɑrʝu# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʝˌɑn̪o̯ɣʷˈɑrʒu# | 112 : ʝ > ʒ / [-syl] __ [+round]
-#ʝˌɑn̪o̯ɣʷˈɑrʃu# | 162 : [+strid] > [-voi] 
-#ʝˌɑn̪o̯ɣʷˈɑrxu# | 164 : ʃ > x 
-#ʝɑn̪o̯ɣʷˈɑrxu# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ʝɑn̪o̯ɣʷˈɑrxu#
+#kˌerˈesiɑ# >>> #esrˈezʝɑ# ( GOLD : #θeɾˈeθɑ#) :
+k ˌe r ˈe s i ɑ 
+#kˌɛrˈɛsiɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɛrˈɛseɑ# | 43 : [+syl,-long] > [-hi] 
+#kˌɛrˈɛsejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#kˌɛrˈɛsijɑ# | 53 : e > i / __ j
+#kjˌɛrˈɛsijɑ# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌɛrˈɛsijɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˌɛrˈɛzijɑ# | 89 : [+cont] > [+voi] / [-cons] __ [+son]
+#t͡sjˌɛrˈɛzijɑ# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjˌɛrˈezijɑ# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#t͡sjjerˈezijɑ# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#t͡sjʝerˈeziʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sjʝrˈezʝɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t͡sʝrˈezʝɑ# | 133 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#t͡srˈezʝɑ# | 152 : [-son] > ∅ / [+delrel] __ 
+#srˈezʝɑ# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#srˈesʝɑ# | 167 : [+strid] > [-voi] 
+#srˈezʝɑ# | 172 : s > z / [-cons] __ [+cons,+voi]
+#esrˈezʝɑ# | 175 : ∅ > e / # __ s [+cons]
+Final form : #esrˈezʝɑ#

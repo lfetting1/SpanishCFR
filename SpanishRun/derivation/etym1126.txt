@@ -1,18 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1126:
-#ɡˌelˈɑːre# >>> #eslˈɑr# ( GOLD : #elˈɑɾ#) :
-ɡ ˌe l ˈɑː r e 
-#ɡˌɛlˈɑːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ɡˌɛlˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#ɡjˌɛlˈɑre# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˌɛlˈɑre# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d͡zjˌɛlˈɑre# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#d͡zjjelˈɑre# | 99 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#d͡zjʝelˈɑre# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#d͡zjʝlˈɑre# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#d͡zʝlˈɑre# | 129 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#d͡zʝlˈɑr# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#d͡zlˈɑr# | 147 : [-son] > ∅ / [+delrel] __ 
-#zlˈɑr# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#slˈɑr# | 162 : [+strid] > [-voi] 
-#eslˈɑr# | 170 : ∅ > e / # __ s [+cons]
-Final form : #eslˈɑr#
+#ɡˌermˈɑːn̪um# >>> #xʝrmˈɑn̪# ( GOLD : #eɾmˈɑn̪o#) :
+ɡ ˌe r m ˈɑː n̪ u m 
+#ɡˌermˈɑːn̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#ɡˌɛrmˈɑːn̪u# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ɡˌɛrmˈɑːn̪o# | 43 : [+syl,-long] > [-hi] 
+#ɡˌɛrmˈɑn̪o# | 44 : [+syl,+long] > [-long,-splng] 
+#ɡˌɛɾmˈɑn̪o# | 46 : r > ɾ / __ [+cons]
+#ɡjˌɛɾmˈɑn̪o# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˌɛɾmˈɑn̪o# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ʒjˌɛrmˈɑn̪o# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ʒjjermˈɑn̪o# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ʒjʝermˈɑn̪o# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʒjʝrmˈɑn̪o# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ʒʝrmˈɑn̪o# | 133 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ʒʝrmˈɑn̪# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ʃʝrmˈɑn̪# | 167 : [+strid] > [-voi] 
+#xʝrmˈɑn̪# | 169 : ʃ > x 
+Final form : #xʝrmˈɑn̪#

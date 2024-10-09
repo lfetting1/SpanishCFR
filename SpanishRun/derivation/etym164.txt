@@ -1,18 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :164:
-#fˈɑlke# >>> #ˈoθe# ( GOLD : #ˈoθ#) :
-f ˈɑ l k e 
-#fˈɑlkje# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#fˈɑlt͡ʃje# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#fˈɑwt͡ʃje# | 85 : [+lat] > w / [+lo] __ [+cons]
-#fˈɑwt͡sje# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#fˈɑwt͡sʝe# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɸˈɑwt͡sʝe# | 108 : {v;f} > {β;ɸ} 
-#ɸˈɑwt͡sçe# | 121 : [-son] > [-voi] / [-voi] __ 
-#ɸˈowt͡sçe# | 122 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ɸˈot͡sçe# | 127 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#ɸˈot͡se# | 147 : [-son] > ∅ / [+delrel] __ 
-#hˈot͡se# | 151 : ɸ > h / __ [+syl]
-#ˈot͡se# | 153 : h > ∅ 
-#ˈose# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#ˈoθe# | 165 : s > θ / __ [-cons]
+#fˈɑlkem# >>> #ˈoθe# ( GOLD : #ˈoθ#) :
+f ˈɑ l k e m 
+#fˈɑlke# | 25 : [+nas] > ∅ / [-stres] __ #
+#fˈɑlkje# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#fˈɑlt͡ʃje# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fˈɑwt͡ʃje# | 90 : [+lat] > w / [+lo] __ [+cons]
+#fˈɑwt͡sje# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#fˈɑwt͡sʝe# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɸˈɑwt͡sʝe# | 113 : {v;f} > {β;ɸ} 
+#ɸˈɑwt͡sçe# | 126 : [-son] > [-voi] / [-voi] __ 
+#ɸˈowt͡sçe# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɸˈot͡sçe# | 131 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+#ɸˈot͡se# | 152 : [-son] > ∅ / [+delrel] __ 
+#hˈot͡se# | 156 : ɸ > h / __ [+syl]
+#ˈot͡se# | 158 : h > ∅ 
+#ˈose# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#ˈoθe# | 170 : s > θ / __ [-cons]
 Final form : #ˈoθe#

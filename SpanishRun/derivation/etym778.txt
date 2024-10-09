@@ -1,17 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :778:
-#pˌekt̪in̪ˈɑːre# >>> #pit͡ʃn̪ˈɑr# ( GOLD : #pejn̪ˈɑɾ#) :
-p ˌe k t̪ i n̪ ˈɑː r e 
-#pˌext̪in̪ˈɑːre# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˌɛxt̪in̪ˈɑːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌɛxt̪en̪ˈɑːre# | 43 : [+syl,-long] > [-hi] 
-#pˌɛxt̪en̪ˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#pˌɛjt̪en̪ˈɑre# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#pˌejt̪en̪ˈɑre# | 96 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#pˌejt̪n̪ˈɑre# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pˌejt͡ʃn̪ˈɑre# | 125 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#pjˌet͡ʃn̪ˈɑre# | 137 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#pjˌet͡ʃn̪ˈɑr# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#pjˌit͡ʃn̪ˈɑr# | 155 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
-#pˌit͡ʃn̪ˈɑr# | 157 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#pit͡ʃn̪ˈɑr# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pit͡ʃn̪ˈɑr#
+#pˌellˈiːkeɑ# >>> #pˌeʎˈiθe̯ʝʝɑ# ( GOLD : #pelɡˈɑɾ#) :
+p ˌe l l ˈiː k e ɑ 
+#pˌɛllˈiːkeɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˌɛllˈikeɑ# | 44 : [+syl,+long] > [-long,-splng] 
+#pˌɛllˈikejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#pˌɛllˈikijɑ# | 53 : e > i / __ j
+#pˌɛllˈikjijɑ# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#pˌɛllˈit͡ʃjijɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#pˌɛllˈit͡ʃe̯jijɑ# | 82 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#pˌɛllˈit͡se̯jijɑ# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#pˌellˈit͡se̯jijɑ# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pˌellˈit͡se̯ʝiʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pˌeʎˈit͡se̯ʝiʝɑ# | 122 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#pˌeʎˈit͡se̯ʝʝɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#pˌeʎˈise̯ʝʝɑ# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#pˌeʎˈiθe̯ʝʝɑ# | 170 : s > θ / __ [-cons]
+Final form : #pˌeʎˈiθe̯ʝʝɑ#

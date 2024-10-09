@@ -1,14 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1035:
-#t̪ˌeksˈeːre# >>> #t̪jexˈer# ( GOLD : #t̪exˈeɾ#) :
-t̪ ˌe k s ˈeː r e 
-#t̪ˌexsˈeːre# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#t̪ˌɛxsˈeːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#t̪ˌɛxsˈere# | 44 : [+syl,+long] > [-long,-splng] 
-#t̪ˌɛjsˈere# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#t̪ˌejsˈere# | 96 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#t̪ˌejʃˈere# | 125 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#t̪jˌeʃˈere# | 137 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#t̪jˌeʃˈer# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#t̪jˌexˈer# | 164 : ʃ > x 
-#t̪jexˈer# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #t̪jexˈer#
+#t̪ˌempt̪ɑːt̪iˈoːn̪em# >>> #t̪ˌewt̪ɑsçˈon̪# ( GOLD : #t̪en̪t̪ɑθjˈon̪#) :
+t̪ ˌe m p t̪ ɑː t̪ i ˈoː n̪ e m 
+#t̪ˌeːmpt̪ɑːt̪iˈoːn̪em# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#t̪ˌeːmt̪ɑːt̪iˈoːn̪em# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#t̪ˌeːmt̪ɑːt̪iˈoːn̪e# | 25 : [+nas] > ∅ / [-stres] __ #
+#t̪ˌeːmt̪ɑːt̪eˈoːn̪e# | 43 : [+syl,-long] > [-hi] 
+#t̪ˌemt̪ɑt̪eˈon̪e# | 44 : [+syl,+long] > [-long,-splng] 
+#t̪ˌemt̪ɑt̪ejˈon̪e# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#t̪ˌemt̪ɑt̪ijˈon̪e# | 53 : e > i / __ j
+#t̪ˌemt̪ɑt̪iʝˈon̪e# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t̪ˌemt̪ɑt̪ʝˈon̪e# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t̪ˌemt̪ɑt̪çˈon̪e# | 126 : [-son] > [-voi] / [-voi] __ 
+#t̪ˌemt̪ɑt̪çˈon̪# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#t̪ˌewt̪ɑt̪çˈon̪# | 163 : [+lab,+cons] > w / __ [-son]
+#t̪ˌewt̪ɑsçˈon̪# | 168 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+Final form : #t̪ˌewt̪ɑsçˈon̪#

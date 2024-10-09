@@ -1,9 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :626:
-#mˌin̪ˈuːt̪um# >>> #min̪ˈut̪o# ( GOLD : #men̪ˈud̪o#) :
-m ˌi n̪ ˈuː t̪ u m 
-#mˌin̪ˈuːt̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#mˌen̪ˈuːt̪o# | 43 : [+syl,-long] > [-hi] 
-#mˌen̪ˈut̪o# | 44 : [+syl,+long] > [-long,-splng] 
-#mˌin̪ˈut̪o# | 93 : [+syl,+front,+tense] > [+hi,-lo] / __ ( [-syl] ) [+syl,+hi]
-#min̪ˈut̪o# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #min̪ˈut̪o#
+#mˌiskˈeːre# >>> #mˌeθˈer# ( GOLD : #meθˈeɾ#) :
+m ˌi s k ˈeː r e 
+#mˌeskˈeːre# | 43 : [+syl,-long] > [-hi] 
+#mˌeskˈere# | 44 : [+syl,+long] > [-long,-splng] 
+#mˌeskjˈere# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#mˌest͡ʃjˈere# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˌest͡sjˈere# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mˌest͡sʝˈere# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#mˌest͡sçˈere# | 126 : [-son] > [-voi] / [-voi] __ 
+#mˌest͡sçˈer# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#mˌet͡sçˈer# | 151 : [-son] > ∅ / __ [+delrel]
+#mˌet͡sˈer# | 152 : [-son] > ∅ / [+delrel] __ 
+#mˌesˈer# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#mˌeθˈer# | 170 : s > θ / __ [-cons]
+Final form : #mˌeθˈer#

@@ -1,15 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :300:
-#kˈin̪kt̪ɑ# >>> #θˈin̪t̪ɑ# ( GOLD : #θˈin̪t̪ɑ#) :
-k ˈi n̪ k t̪ ɑ 
-#kˈiːn̪kt̪ɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˈiːn̪t̪ɑ# | 7 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#kˈin̪t̪ɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#kjˈin̪t̪ɑ# | 62 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈin̪t̪ɑ# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡sjˈin̪t̪ɑ# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sʝˈin̪t̪ɑ# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sçˈin̪t̪ɑ# | 121 : [-son] > [-voi] / [-voi] __ 
-#t͡sˈin̪t̪ɑ# | 147 : [-son] > ∅ / [+delrel] __ 
-#sˈin̪t̪ɑ# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#θˈin̪t̪ɑ# | 165 : s > θ / __ [-cons]
-Final form : #θˈin̪t̪ɑ#
+#kˈirkulum# >>> #θˈerklo# ( GOLD : #θˈeɾt͡ʃo#) :
+k ˈi r k u l u m 
+#kˈirkulu# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˈerkolo# | 43 : [+syl,-long] > [-hi] 
+#kˈeɾkolo# | 46 : r > ɾ / __ [+cons]
+#kjˈeɾkolo# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈeɾkolo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˈerkolo# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#t͡sjˈerkolo# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sʝˈerkolo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sʝˈerklo# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t͡sçˈerklo# | 126 : [-son] > [-voi] / [-voi] __ 
+#t͡sˈerklo# | 152 : [-son] > ∅ / [+delrel] __ 
+#sˈerklo# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#θˈerklo# | 170 : s > θ / __ [-cons]
+Final form : #θˈerklo#

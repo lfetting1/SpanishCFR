@@ -1,9 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :952:
-#sˈɑɡmɑ# >>> #θjˈemɑ# ( GOLD : #sˈomɑ#) :
-s ˈɑ ɡ m ɑ 
-#sˈɑɣmɑ# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#sˈɑjmɑ# | 52 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#sˈejmɑ# | 122 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#sjˈemɑ# | 137 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#θjˈemɑ# | 165 : s > θ / __ [-cons]
-Final form : #θjˈemɑ#
+#sˌed̪ˈeːre# >>> #esçeˈer# ( GOLD : #sˈeɾ#) :
+s ˌe d̪ ˈeː r e 
+#sˌɛd̪ˈeːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˌɛd̪ˈere# | 44 : [+syl,+long] > [-long,-splng] 
+#sˌɛðˈere# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#sˌɛˈere# | 88 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#sjeˈere# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#sʝeˈere# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#sçeˈere# | 126 : [-son] > [-voi] / [-voi] __ 
+#sçeˈer# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#esçeˈer# | 175 : ∅ > e / # __ s [+cons]
+Final form : #esçeˈer#

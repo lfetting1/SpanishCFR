@@ -1,14 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :581:
-#mˈort̪uːm# >>> #ɣʷɾt̪o# ( GOLD : #mwˈeɾt̪o#) :
-m ˈo r t̪ uː m 
-#mˈort̪uː# | 25 : [+nas] > ∅ / [-stres] __ #
-#mˈɔrt̪uː# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˈɔrt̪u# | 44 : [+syl,+long] > [-long,-splng] 
-#mˈɔɾt̪u# | 46 : r > ɾ / __ [+cons]
-#mweɾt̪u# | 99 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#mɣʷeɾt̪u# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mɣʷeɾt̪o# | 107 : [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #
-#mɣʷɾt̪o# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#wɣʷɾt̪o# | 123 : [+cons,+lab] > w / __ [+back,+cons]
-#ɣʷɾt̪o# | 126 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-Final form : #ɣʷɾt̪o#
+#mˈult̪um# >>> #mwˈit͡ʃo# ( GOLD : #mˈut͡ʃo#) :
+m ˈu l t̪ u m 
+#mˈul̪t̪um# | 5 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
+#mˈul̪t̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#mˈol̪t̪o# | 43 : [+syl,-long] > [-hi] 
+#mˈojt̪o# | 91 : [+lat] > j / [+back] __ [+cons]
+#mˈujt̪o# | 100 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [-son]
+#mˈujt͡ʃo# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#mwˈit͡ʃo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #mwˈit͡ʃo#

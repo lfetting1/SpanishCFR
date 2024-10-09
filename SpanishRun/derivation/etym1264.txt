@@ -1,17 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1264:
-#ˌɑffrˈɑkt̪um# >>> #ɑvɾjˈet͡ʃo# ( GOLD : #ɑfɾˈet͡ʃo#) :
-ˌɑ f f r ˈɑ k t̪ u m 
-#ˌɑffrˈɑkt̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑffrˈɑxt̪u# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɑffrˈɑxt̪o# | 43 : [+syl,-long] > [-hi] 
-#ˌɑffɾˈɑxt̪o# | 47 : r > ɾ / [+cons] __ 
-#ˌɑffɾˈɑjt̪o# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌɑɸɸɾˈɑjt̪o# | 108 : {v;f} > {β;ɸ} 
-#ˌɑɸɾˈɑjt̪o# | 118 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌɑɸɾˈejt̪o# | 122 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ˌɑɸɾˈejt͡ʃo# | 125 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#ˌɑɸɾjˈet͡ʃo# | 137 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ˌɑfɾjˈet͡ʃo# | 152 : ɸ > f 
-#ˌɑvɾjˈet͡ʃo# | 169 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
-#ɑvɾjˈet͡ʃo# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑvɾjˈet͡ʃo#
+#ˌɑkiˈɑːrium# >>> #ˌɑθe̯ʝʝˈɑrxo# ( GOLD : #ɑθˈeɾo#) :
+ˌɑ k i ˈɑː r i u m 
+#ˌɑkiˈɑːriu# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˌɑkiˈɑːrju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#ˌɑkeˈɑːrjo# | 43 : [+syl,-long] > [-hi] 
+#ˌɑkeˈɑrjo# | 44 : [+syl,+long] > [-long,-splng] 
+#ˌɑkejˈɑrjo# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#ˌɑkijˈɑrjo# | 53 : e > i / __ j
+#ˌɑkjijˈɑrjo# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌɑt͡ʃjijˈɑrjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑt͡ʃe̯jijˈɑrjo# | 82 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#ˌɑt͡se̯jijˈɑrjo# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑt͡se̯ʝiʝˈɑrʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌɑt͡se̯ʝiʝˈɑrʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#ˌɑt͡se̯ʝʝˈɑrʒo# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌɑse̯ʝʝˈɑrʒo# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#ˌɑse̯ʝʝˈɑrʃo# | 167 : [+strid] > [-voi] 
+#ˌɑse̯ʝʝˈɑrxo# | 169 : ʃ > x 
+#ˌɑθe̯ʝʝˈɑrxo# | 170 : s > θ / __ [-cons]
+Final form : #ˌɑθe̯ʝʝˈɑrxo#

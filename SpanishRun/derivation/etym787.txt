@@ -1,21 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :787:
-#pˌit̪ˈɑkkium# >>> #pit̪jˈeθu# ( GOLD : #ped̪ˈɑθo#) :
-p ˌi t̪ ˈɑ k k i u m 
-#pˌit̪ˈɑkkiu# | 25 : [+nas] > ∅ / [-stres] __ #
-#pˌit̪ˈɑkkju# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#pˌet̪ˈɑkkjo# | 43 : [+syl,-long] > [-hi] 
-#pˌet̪ˈɑkt͡ʃjo# | 63 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˌet̪ˈɑkt͡sjo# | 87 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#pˌet̪ˈɑjt͡sjo# | 92 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#pˌet̪ˈɑjt͡sju# | 94 : [+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#pˌet̪ˈɑjt͡sʝu# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pˌet̪ˈɑjt͡sʒu# | 112 : ʝ > ʒ / [-syl] __ [+round]
-#pˌet̪ˈɑjt͡sʃu# | 121 : [-son] > [-voi] / [-voi] __ 
-#pˌet̪ˈejt͡sʃu# | 122 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#pˌet̪jˈet͡sʃu# | 137 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#pˌit̪jˈet͡sʃu# | 143 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#pˌit̪jˈet͡su# | 147 : [-son] > ∅ / [+delrel] __ 
-#pˌit̪jˈesu# | 161 : [+strid,+ant] > [+cont,0delrel] 
-#pˌit̪jˈeθu# | 165 : s > θ / __ [-cons]
-#pit̪jˈeθu# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pit̪jˈeθu#
+#pˌiɡrˈit̪iɑ# >>> #pjˌerˈisçɑ# ( GOLD : #peɾˈeθɑ#) :
+p ˌi ɡ r ˈi t̪ i ɑ 
+#pˌiɣrˈit̪iɑ# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#pˌeɣrˈet̪eɑ# | 43 : [+syl,-long] > [-hi] 
+#pˌeɣrˈet̪ejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#pˌeɣrˈet̪ijɑ# | 53 : e > i / __ j
+#pˌejrˈet̪ijɑ# | 56 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#pˌejrˈit̪ijɑ# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#pˌejrˈit̪iʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pˌejrˈit̪ʝɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#pˌejrˈit̪çɑ# | 126 : [-son] > [-voi] / [-voi] __ 
+#pjˌerˈit̪çɑ# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#pjˌerˈisçɑ# | 168 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+Final form : #pjˌerˈisçɑ#

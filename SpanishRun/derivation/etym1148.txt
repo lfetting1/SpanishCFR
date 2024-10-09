@@ -1,8 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1148:
-#ˈin̪t̪er# >>> #ˈin̪t̪ɾ# ( GOLD : #ˈen̪t̪ɾe#) :
-ˈi n̪ t̪ e r 
-#ˈiːn̪t̪er# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˈin̪t̪er# | 44 : [+syl,+long] > [-long,-splng] 
-#ˈin̪t̪eɾ# | 48 : r > ɾ / __ #
-#ˈin̪t̪ɾ# | 120 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-Final form : #ˈin̪t̪ɾ#
+#ˈipsum# >>> #ˈeθo# ( GOLD : #ˈeso#) :
+ˈi p s u m 
+#ˈipsu# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˈepso# | 43 : [+syl,-long] > [-hi] 
+#ˈesso# | 62 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
+#ˈeso# | 123 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˈeθo# | 170 : s > θ / __ [-cons]
+Final form : #ˈeθo#

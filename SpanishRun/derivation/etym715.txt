@@ -1,15 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :715:
-#prˌiːmˈɑrium# >>> #pɾimˈɑrxu# ( GOLD : #pɾimˈeɾo#) :
-p r ˌiː m ˈɑ r i u m 
-#prˌiːmˈɑriu# | 25 : [+nas] > ∅ / [-stres] __ #
-#prˌiːmˈɑrju# | 39 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#prˌiːmˈɑrjo# | 43 : [+syl,-long] > [-hi] 
+#prˌiːmˈɑːrium# >>> #prˌimˈɑrxo# ( GOLD : #pɾimˈeɾo#) :
+p r ˌiː m ˈɑː r i u m 
+#prˌiːmˈɑːriu# | 25 : [+nas] > ∅ / [-stres] __ #
+#prˌiːmˈɑːrju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#prˌiːmˈɑːrjo# | 43 : [+syl,-long] > [-hi] 
 #prˌimˈɑrjo# | 44 : [+syl,+long] > [-long,-splng] 
-#pɾˌimˈɑrjo# | 47 : r > ɾ / [+cons] __ 
-#pɾˌimˈɑrju# | 94 : [+syl,+round] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ 
-#pɾˌimˈɑrʝu# | 106 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pɾˌimˈɑrʒu# | 112 : ʝ > ʒ / [-syl] __ [+round]
-#pɾˌimˈɑrʃu# | 162 : [+strid] > [-voi] 
-#pɾˌimˈɑrxu# | 164 : ʃ > x 
-#pɾimˈɑrxu# | 172 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pɾimˈɑrxu#
+#prˌimˈɑrʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#prˌimˈɑrʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#prˌimˈɑrʃo# | 167 : [+strid] > [-voi] 
+#prˌimˈɑrxo# | 169 : ʃ > x 
+Final form : #prˌimˈɑrxo#

@@ -1,7 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :831:
-#rˈoːbore# >>> #rˈoor# ( GOLD : #rˈoble#) :
-r ˈoː b o r e 
-#rˈobore# | 44 : [+syl,+long] > [-long,-splng] 
-#rˈoore# | 83 : [-son,+voi,-strid,-front,βlab,-delrel] > ∅ / [-cons] __ [+syl,βlab]
-#rˈoor# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #rˈoor#
+#rˈubeum# >>> #rˈuwxo# ( GOLD : #rˈubjo#) :
+r ˈu b e u m 
+#rˈubeu# | 25 : [+nas] > ∅ / [-stres] __ #
+#rˈubju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#rˈobjo# | 43 : [+syl,-long] > [-hi] 
+#rˈoβjo# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#rˈovjo# | 96 : β > v 
+#rˈuvjo# | 99 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [+syl]
+#rˈuvʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#rˈuβʝo# | 113 : {v;f} > {β;ɸ} 
+#rˈuβʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#rˈuwʒo# | 163 : [+lab,+cons] > w / __ [-son]
+#rˈuwʃo# | 167 : [+strid] > [-voi] 
+#rˈuwxo# | 169 : ʃ > x 
+Final form : #rˈuwxo#
