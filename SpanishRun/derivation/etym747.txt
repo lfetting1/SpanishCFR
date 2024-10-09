@@ -1,15 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :747:
-#pˈosit̪um# >>> #wwst̪o# ( GOLD : #pwˈest̪o#) :
-p ˈo s i t̪ u m 
-#pˈosit̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#pˈɔsit̪u# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˈɔset̪o# | 43 : [+syl,-long] > [-hi] 
-#pˈɔzet̪o# | 89 : [+cont] > [+voi] / [-cons] __ [+son]
-#pwezet̪o# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#pɣʷezet̪o# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pɣʷzt̪o# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pxʷzt̪o# | 126 : [-son] > [-voi] / [-voi] __ 
-#wxʷzt̪o# | 128 : [+cons,+lab] > w / __ [+back,+cons]
-#wwzt̪o# | 163 : [+lab,+cons] > w / __ [-son]
-#wwst̪o# | 167 : [+strid] > [-voi] 
-Final form : #wwst̪o#
+#pˈulwum# >>> #pwˈiβo# ( GOLD : #pˈolbo#) :
+p ˈu l w u m 
+#pˈulɣʷum# | 17 : w > ɣʷ / __ [+syl]
+#pˈulɣʷu# | 25 : [+nas] > ∅ / [-stres] __ #
+#pˈulβu# | 30 : ɣʷ > β 
+#pˈolβo# | 43 : [+syl,-long] > [-hi] 
+#pˈojβo# | 91 : [+lat] > j / [+back] __ [+cons]
+#pˈojvo# | 96 : β > v 
+#pˈujvo# | 100 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [-son]
+#pˈujβo# | 113 : {v;f} > {β;ɸ} 
+#pwˈiβo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #pwˈiβo#

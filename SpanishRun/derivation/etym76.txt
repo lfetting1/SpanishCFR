@@ -1,14 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :76:
-#d̪ˌeːspˌoliˈɑːre# >>> #ðˌespˌolʝˈɑr# ( GOLD : #d̪espoxˈɑɾ#) :
-d̪ ˌeː s p ˌo l i ˈɑː r e 
-#d̪ˌeːspˌɔliˈɑːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#d̪ˌeːspˌɔleˈɑːre# | 43 : [+syl,-long] > [-hi] 
-#d̪ˌespˌɔleˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#d̪ˌespˌɔlejˈɑre# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#d̪ˌespˌɔlijˈɑre# | 53 : e > i / __ j
-#ðˌespˌɔlijˈɑre# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ðˌespˌolijˈɑre# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ðˌespˌoliʝˈɑre# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ðˌespˌolʝˈɑre# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ðˌespˌolʝˈɑr# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #ðˌespˌolʝˈɑr#
+#d̪ˌeːsˈed̪ium# >>> #ðˌiθˈexo# ( GOLD : #d̪esˈeo#) :
+d̪ ˌeː s ˈe d̪ i u m 
+#d̪ˌeːsˈed̪iu# | 25 : [+nas] > ∅ / [-stres] __ #
+#d̪ˌeːsˈed̪ju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#d̪ˌeːsˈɛd̪ju# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#d̪ˌeːsˈɛd̪jo# | 43 : [+syl,-long] > [-hi] 
+#d̪ˌesˈɛd̪jo# | 44 : [+syl,+long] > [-long,-splng] 
+#d̪ˌesˈɛd͡ʒjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ðˌesˈɛʒjo# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ðˌezˈɛʒjo# | 89 : [+cont] > [+voi] / [-cons] __ [+son]
+#ðˌizˈɛʒjo# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#ðˌizˈeʒjo# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ðˌizˈeʒʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ðˌizˈeʒʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#ðˌizˈeʒo# | 123 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ðˌisˈeʃo# | 167 : [+strid] > [-voi] 
+#ðˌisˈexo# | 169 : ʃ > x 
+#ðˌiθˈexo# | 170 : s > θ / __ [-cons]
+Final form : #ðˌiθˈexo#

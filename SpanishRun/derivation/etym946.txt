@@ -1,16 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :946:
-#sˈɑn̪ɡwin̪em# >>> #θˈɑŋɣβn̪e# ( GOLD : #sˈɑn̪ɡɾe#) :
-s ˈɑ n̪ ɡ w i n̪ e m 
-#sˈɑːn̪ɡwin̪em# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#sˈɑːŋɡwin̪em# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#sˈɑːŋɡɣʷin̪em# | 17 : w > ɣʷ / __ [+syl]
-#sˈɑːŋɡɣʷin̪e# | 25 : [+nas] > ∅ / [-stres] __ #
-#sˈɑːŋɡβin̪e# | 30 : ɣʷ > β 
-#sˈɑːŋɡβen̪e# | 43 : [+syl,-long] > [-hi] 
-#sˈɑŋɡβen̪e# | 44 : [+syl,+long] > [-long,-splng] 
-#sˈɑŋɣβen̪e# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#sˈɑŋɣven̪e# | 96 : β > v 
-#sˈɑŋɣβen̪e# | 113 : {v;f} > {β;ɸ} 
-#sˈɑŋɣβn̪e# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#θˈɑŋɣβn̪e# | 170 : s > θ / __ [-cons]
-Final form : #θˈɑŋɣβn̪e#
+#t̪ˈerrɑm# >>> #esçrɑ# ( GOLD : #t̪jˈerɑ#) :
+t̪ ˈe r r ɑ m 
+#t̪ˈerrɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#t̪ˈɛrrɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#t̪ˈɛrɑ# | 45 : r r > r 
+#t̪jerɑ# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#t̪ʝerɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t̪ʝrɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t̪çrɑ# | 126 : [-son] > [-voi] / [-voi] __ 
+#sçrɑ# | 168 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#esçrɑ# | 175 : ∅ > e / # __ s [+cons]
+Final form : #esçrɑ#

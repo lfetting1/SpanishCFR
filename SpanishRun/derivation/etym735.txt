@@ -1,10 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :735:
-#pˈiɡn̪um# >>> #pˈeɲo# ( GOLD : #pˈeɲo#) :
-p ˈi ɡ n̪ u m 
-#pˈiɡn̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#pˈiɣn̪u# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˈeɣn̪o# | 43 : [+syl,-long] > [-hi] 
-#pˈejn̪o# | 56 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#pˈejɲo# | 57 : [+nas,+cor] > ɲ / j __ 
-#pˈeɲo# | 72 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
-Final form : #pˈeɲo#
+#pˌit̪ˈɑkkium# >>> #pˌit̪jˈeθo# ( GOLD : #ped̪ˈɑθo#) :
+p ˌi t̪ ˈɑ k k i u m 
+#pˌit̪ˈɑkkiu# | 25 : [+nas] > ∅ / [-stres] __ #
+#pˌit̪ˈɑkkju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#pˌet̪ˈɑkkjo# | 43 : [+syl,-long] > [-hi] 
+#pˌet̪ˈɑkt͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#pˌet̪ˈɑkt͡sjo# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#pˌet̪ˈɑjt͡sjo# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#pˌit̪ˈɑjt͡sjo# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#pˌit̪ˈɑjt͡sʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pˌit̪ˈɑjt͡sʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
+#pˌit̪ˈɑjt͡sʃo# | 126 : [-son] > [-voi] / [-voi] __ 
+#pˌit̪ˈejt͡sʃo# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#pˌit̪jˈet͡sʃo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#pˌit̪jˈet͡so# | 152 : [-son] > ∅ / [+delrel] __ 
+#pˌit̪jˈeso# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#pˌit̪jˈeθo# | 170 : s > θ / __ [-cons]
+Final form : #pˌit̪jˈeθo#

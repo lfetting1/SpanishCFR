@@ -1,12 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :306:
-#kˈokt̪um# >>> #kwˈet͡ʃo# ( GOLD : #kˈot͡ʃo#) :
-k ˈo k t̪ u m 
-#kˈokt̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#kˈoxt̪u# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#kˈɔxt̪u# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˈɔxt̪o# | 43 : [+syl,-long] > [-hi] 
-#kˈɔjt̪o# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#kˈojt̪o# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#kˈojt͡ʃo# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#kwˈet͡ʃo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-Final form : #kwˈet͡ʃo#
+#kˈulpɑm# >>> #kwˈipɑ# ( GOLD : #kulpɑ#) :
+k ˈu l p ɑ m 
+#kˈulpɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˈolpɑ# | 43 : [+syl,-long] > [-hi] 
+#kˈojpɑ# | 91 : [+lat] > j / [+back] __ [+cons]
+#kˈujpɑ# | 100 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [-son]
+#kwˈipɑ# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #kwˈipɑ#

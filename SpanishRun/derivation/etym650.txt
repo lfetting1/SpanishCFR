@@ -1,9 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :650:
-#mˌɑɡˈist̪rum# >>> #mˌɑˈest̪ro# ( GOLD : #mɑˈest̪ɾo#) :
-m ˌɑ ɡ ˈi s t̪ r u m 
-#mˌɑɡˈis̪t̪rum# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#mˌɑɡˈis̪t̪ru# | 25 : [+nas] > ∅ / [-stres] __ #
-#mˌɑˈis̪t̪ru# | 38 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#mˌɑˈes̪t̪ro# | 43 : [+syl,-long] > [-hi] 
-#mˌɑˈest̪ro# | 168 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #mˌɑˈest̪ro#
+#plˈɑn̪kt̪um# >>> #ʎˈet͡ʃo# ( GOLD : #ʝˈɑn̪t̪o#) :
+p l ˈɑ n̪ k t̪ u m 
+#plˈɑːn̪kt̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#plˈɑːŋkt̪um# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#plˈɑːŋt̪um# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#plˈɑːŋt̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#plˈɑːŋt̪o# | 43 : [+syl,-long] > [-hi] 
+#plˈɑŋt̪o# | 44 : [+syl,+long] > [-long,-splng] 
+#plˈɑjt̪o# | 56 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#pʎˈɑjt̪o# | 118 : [+lat] > ʎ / [-son] __ 
+#ʎˈɑjt̪o# | 119 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʎˈejt̪o# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ʎˈejt͡ʃo# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ʎjˈet͡ʃo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ʎˈet͡ʃo# | 161 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+Final form : #ʎˈet͡ʃo#

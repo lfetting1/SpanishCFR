@@ -1,16 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1244:
-#ˌorˈiːɡin̪em# >>> #ˌorˈixʝn̪e# ( GOLD : #oɾˈixen̪#) :
-ˌo r ˈiː ɡ i n̪ e m 
-#ˌorˈiːɡin̪e# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɔrˈiːɡin̪e# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɔrˈiːɡen̪e# | 43 : [+syl,-long] > [-hi] 
-#ˌɔrˈiɡen̪e# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɔrˈiɡjen̪e# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌɔrˈid͡ʒjen̪e# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɔrˈiʒjen̪e# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌorˈiʒjen̪e# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌorˈiʒʝen̪e# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌorˈiʒʝn̪e# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌorˈiʃʝn̪e# | 167 : [+strid] > [-voi] 
-#ˌorˈixʝn̪e# | 169 : ʃ > x 
-Final form : #ˌorˈixʝn̪e#
+#ˌɑskˈiolɑm# >>> #ˌɑθiɣʷlɑ# ( GOLD : #ɑθwˈelɑ#) :
+ˌɑ s k ˈi o l ɑ m 
+#ˌɑskˈiolɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˌɑskiˈolɑ# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌɑskiˈɔlɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑskeˈɔlɑ# | 43 : [+syl,-long] > [-hi] 
+#ˌɑskejˈɔlɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#ˌɑskijˈɔlɑ# | 53 : e > i / __ j
+#ˌɑskjijˈɔlɑ# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌɑst͡ʃjijˈɔlɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑst͡sjijˈɔlɑ# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑst͡sjijwelɑ# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ˌɑst͡sʝijɣʷelɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌɑst͡sʝijɣʷlɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌɑst͡sçijɣʷlɑ# | 126 : [-son] > [-voi] / [-voi] __ 
+#ˌɑst͡sçiɣʷlɑ# | 132 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ˌɑt͡sçiɣʷlɑ# | 151 : [-son] > ∅ / __ [+delrel]
+#ˌɑt͡siɣʷlɑ# | 152 : [-son] > ∅ / [+delrel] __ 
+#ˌɑsiɣʷlɑ# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#ˌɑθiɣʷlɑ# | 170 : s > θ / __ [-cons]
+Final form : #ˌɑθiɣʷlɑ#

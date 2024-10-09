@@ -1,17 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :296:
-#kˈiliɑ# >>> #θˈilʝɑ# ( GOLD : #θˈexɑ#) :
-k ˈi l i ɑ 
-#kˈeleɑ# | 43 : [+syl,-long] > [-hi] 
-#kˈelejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#kˈelijɑ# | 53 : e > i / __ j
-#kjˈelijɑ# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈelijɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡sjˈelijɑ# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sjˈilijɑ# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#t͡sʝˈiliʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sʝˈilʝɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#t͡sçˈilʝɑ# | 126 : [-son] > [-voi] / [-voi] __ 
-#t͡sˈilʝɑ# | 152 : [-son] > ∅ / [+delrel] __ 
-#sˈilʝɑ# | 166 : [+strid,+ant] > [+cont,0delrel] 
-#θˈilʝɑ# | 170 : s > θ / __ [-cons]
-Final form : #θˈilʝɑ#
+#kˈost̪ɑm# >>> #kwst̪ɑ# ( GOLD : #kwˈest̪ɑ#) :
+k ˈo s t̪ ɑ m 
+#kˈos̪t̪ɑm# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#kˈos̪t̪ɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˈɔs̪t̪ɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kwes̪t̪ɑ# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#kɣʷes̪t̪ɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kɣʷs̪t̪ɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kxʷs̪t̪ɑ# | 126 : [-son] > [-voi] / [-voi] __ 
+#kws̪t̪ɑ# | 163 : [+lab,+cons] > w / __ [-son]
+#kwst̪ɑ# | 168 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+Final form : #kwst̪ɑ#

@@ -1,10 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :997:
-#t̪rˈukt̪ɑ# >>> #t̪rwˈit͡ʃɑ# ( GOLD : #t̪ɾˈut͡ʃɑ#) :
-t̪ r ˈu k t̪ ɑ 
-#t̪rˈuxt̪ɑ# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#t̪rˈoxt̪ɑ# | 43 : [+syl,-long] > [-hi] 
-#t̪rˈojt̪ɑ# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#t̪rˈujt̪ɑ# | 100 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [-son]
-#t̪rˈujt͡ʃɑ# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#t̪rwˈit͡ʃɑ# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-Final form : #t̪rwˈit͡ʃɑ#
+#wˈirid̪em# >>> #βˈeree# ( GOLD : #bˈeɾd̪e#) :
+w ˈi r i d̪ e m 
+#ɣʷˈirid̪em# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷˈirid̪e# | 25 : [+nas] > ∅ / [-stres] __ #
+#βˈirid̪e# | 30 : ɣʷ > β 
+#βˈered̪e# | 43 : [+syl,-long] > [-hi] 
+#βˈereðe# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#βˈeree# | 88 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#vˈeree# | 96 : β > v 
+#βˈeree# | 113 : {v;f} > {β;ɸ} 
+Final form : #βˈeree#

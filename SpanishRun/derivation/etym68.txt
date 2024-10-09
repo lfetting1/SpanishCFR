@@ -1,19 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :68:
-#d̪ˌekimˈɑːre# >>> #ðˌiθe̯ʝmˈɑr# ( GOLD : #d̪eθmˈɑɾ#) :
-d̪ ˌe k i m ˈɑː r e 
-#d̪ˌɛkimˈɑːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#d̪ˌɛkemˈɑːre# | 43 : [+syl,-long] > [-hi] 
-#d̪ˌɛkemˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#d̪ˌɛkjemˈɑre# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d̪ˌɛt͡ʃjemˈɑre# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d̪ˌɛt͡ʃe̯jemˈɑre# | 82 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#ðˌɛt͡ʃe̯jemˈɑre# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ðˌɛt͡se̯jemˈɑre# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ðˌet͡se̯jemˈɑre# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ðˌet͡se̯ʝemˈɑre# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ðˌet͡se̯ʝmˈɑre# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ðˌet͡se̯ʝmˈɑr# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ðˌit͡se̯ʝmˈɑr# | 148 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#ðˌise̯ʝmˈɑr# | 166 : [+strid,+ant] > [+cont,0delrel] 
-#ðˌiθe̯ʝmˈɑr# | 170 : s > θ / __ [-cons]
-Final form : #ðˌiθe̯ʝmˈɑr#
+#d̪ˌelˈikt̪um# >>> #ðˌiljˈet͡ʃo# ( GOLD : #d̪elˈit̪o#) :
+d̪ ˌe l ˈi k t̪ u m 
+#d̪ˌelˈikt̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#d̪ˌelˈixt̪u# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#d̪ˌɛlˈixt̪u# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#d̪ˌɛlˈext̪o# | 43 : [+syl,-long] > [-hi] 
+#ðˌɛlˈext̪o# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ðˌɛlˈejt̪o# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ðˌelˈejt̪o# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ðˌelˈejt͡ʃo# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ðˌeljˈet͡ʃo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ðˌiljˈet͡ʃo# | 148 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+Final form : #ðˌiljˈet͡ʃo#

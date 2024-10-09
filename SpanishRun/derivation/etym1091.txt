@@ -1,25 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1091:
-#wˌin̪kˈikulum# >>> #βˌiθˈeɡlo# ( GOLD : #ben̪θˈexo#) :
-w ˌi n̪ k ˈi k u l u m 
-#wˌiːn̪kˈikulum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#wˌiːŋkˈikulum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ɣʷˌiːŋkˈikulum# | 17 : w > ɣʷ / __ [+syl]
-#ɣʷˌiːŋkˈikulu# | 25 : [+nas] > ∅ / [-stres] __ #
-#βˌiːŋkˈikulu# | 30 : ɣʷ > β 
-#βˌiːŋkˈekolo# | 43 : [+syl,-long] > [-hi] 
-#βˌiŋkˈekolo# | 44 : [+syl,+long] > [-long,-splng] 
-#βˌiŋkjˈekolo# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌiŋt͡ʃjˈekolo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌiŋt͡sjˈekolo# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#vˌiŋt͡sjˈekolo# | 96 : β > v 
-#vˌijt͡sjˈekolo# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#vˌijt͡sʝˈekolo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βˌijt͡sʝˈekolo# | 113 : {v;f} > {β;ɸ} 
-#βˌijt͡sʝˈeklo# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#βˌijt͡sçˈeklo# | 126 : [-son] > [-voi] / [-voi] __ 
-#βˌit͡sçˈeklo# | 132 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#βˌit͡sˈeklo# | 152 : [-son] > ∅ / [+delrel] __ 
-#βˌisˈeklo# | 166 : [+strid,+ant] > [+cont,0delrel] 
-#βˌiθˈeklo# | 170 : s > θ / __ [-cons]
-#βˌiθˈeɡlo# | 173 : [-voi] > [+voi] / [-cons] __ l
-Final form : #βˌiθˈeɡlo#
+#ˈorsum# >>> #wθo# ( GOLD : #ˈoso#) :
+ˈo r s u m 
+#ˈorsu# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˈossu# | 32 : r > s / __ s
+#ˈɔssu# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɔsso# | 43 : [+syl,-long] > [-hi] 
+#wesso# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ɣʷesso# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɣʷeso# | 123 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ɣʷso# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#wso# | 163 : [+lab,+cons] > w / __ [-son]
+#wθo# | 170 : s > θ / __ [-cons]
+Final form : #wθo#

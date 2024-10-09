@@ -1,7 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :915:
-#sˈik# >>> #θˈe# ( GOLD : #sˈi#) :
-s ˈi k 
-#sˈi# | 27 : [+cons,-cont] > ∅ / __ #
-#sˈe# | 43 : [+syl,-long] > [-hi] 
-#θˈe# | 170 : s > θ / __ [-cons]
-Final form : #θˈe#
+#sˌuspˈekt̪ɑ# >>> #θˌuspjˈet͡ʃɑ# ( GOLD : #sospˈet͡ʃɑ#) :
+s ˌu s p ˈe k t̪ ɑ 
+#sˌuspˈext̪ɑ# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#sˌuspˈɛxt̪ɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˌospˈɛxt̪ɑ# | 43 : [+syl,-long] > [-hi] 
+#sˌospˈɛjt̪ɑ# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#sˌuspˈɛjt̪ɑ# | 100 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [-son]
+#sˌuspˈejt̪ɑ# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#sˌuspˈejt͡ʃɑ# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#sˌuspjˈet͡ʃɑ# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#θˌuspjˈet͡ʃɑ# | 170 : s > θ / __ [-cons]
+Final form : #θˌuspjˈet͡ʃɑ#

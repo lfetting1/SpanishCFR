@@ -1,14 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :187:
-#fˌollikˈɑːre# >>> #fwˌelkˈɑr# ( GOLD : #olɡˈɑɾ#) :
-f ˌo l l i k ˈɑː r e 
-#fˌɔllikˈɑːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#fˌɔllekˈɑːre# | 43 : [+syl,-long] > [-hi] 
-#fˌɔllekˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#fˌɔjlekˈɑre# | 91 : [+lat] > j / [+back] __ [+cons]
-#fˌojlekˈɑre# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ɸˌojlekˈɑre# | 113 : {v;f} > {β;ɸ} 
-#ɸˌojlkˈɑre# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ɸwˌelkˈɑre# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ɸwˌelkˈɑr# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#fwˌelkˈɑr# | 157 : ɸ > f 
-Final form : #fwˌelkˈɑr#
+#hˈed̪erɑ# >>> #ʝeerɑ# ( GOLD : #ʝˈed̪ɾɑ#) :
+h ˈe d̪ e r ɑ 
+#ˈed̪erɑ# | 0 : h > ∅ 
+#ˈɛd̪erɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɛðerɑ# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˈɛerɑ# | 88 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#jeerɑ# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ʝeerɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+Final form : #ʝeerɑ#

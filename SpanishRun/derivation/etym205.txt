@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :205:
-#hˈod̪ie# >>> #wˈe# ( GOLD : #ˈoj#) :
-h ˈo d̪ i e 
-#ˈod̪ie# | 0 : h > ∅ 
-#ˈɔd̪ie# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˈɔd̪ee# | 43 : [+syl,-long] > [-hi] 
-#ˈɔd̪e# | 61 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#ˈɔðe# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˈɔe# | 88 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#ˈɔj# | 95 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-#ˈoj# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#wˈe# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-Final form : #wˈe#
+#hˈerbɑm# >>> #ʝrβɑ# ( GOLD : #ʝˈeɾbɑ#) :
+h ˈe r b ɑ m 
+#ˈerbɑm# | 0 : h > ∅ 
+#ˈerbɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#ˈɛrbɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɛɾbɑ# | 46 : r > ɾ / __ [+cons]
+#ˈɛrβɑ# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#ˈɛrvɑ# | 96 : β > v 
+#jervɑ# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ʝervɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʝerβɑ# | 113 : {v;f} > {β;ɸ} 
+#ʝrβɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+Final form : #ʝrβɑ#

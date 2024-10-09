@@ -1,13 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :544:
-#lˌɑlˈumn̪iɑ# >>> #ʎˈuɲʝɑ# ( GOLD : #kɑlˈoɲɑ#) :
-l ˌɑ l ˈu m n̪ i ɑ 
-#lˌɑlˈun̪n̪iɑ# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#llˈun̪n̪iɑ# | 23 : [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas]
-#llˈon̪n̪eɑ# | 43 : [+syl,-long] > [-hi] 
-#llˈon̪n̪ejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#llˈon̪n̪ijɑ# | 53 : e > i / __ j
-#llˈun̪n̪ijɑ# | 99 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [+syl]
-#llˈun̪n̪iʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʎˈuɲiʝɑ# | 122 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#ʎˈuɲʝɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-Final form : #ʎˈuɲʝɑ#
+#mˈun̪d̪um# >>> #mˈun̪ðo# ( GOLD : #mˈon̪d̪o#) :
+m ˈu n̪ d̪ u m 
+#mˈuːn̪d̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#mˈuːn̪d̪u# | 25 : [+nas] > ∅ / [-stres] __ #
+#mˈuːn̪d̪o# | 43 : [+syl,-long] > [-hi] 
+#mˈun̪d̪o# | 44 : [+syl,+long] > [-long,-splng] 
+#mˈun̪ðo# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+Final form : #mˈun̪ðo#

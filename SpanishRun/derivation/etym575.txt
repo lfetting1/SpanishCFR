@@ -1,9 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :575:
-#mˈolɑ# >>> #wɣʷlɑ# ( GOLD : #mwˈelɑ#) :
-m ˈo l ɑ 
-#mˈɔlɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mwelɑ# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#mɣʷelɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mɣʷlɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#wɣʷlɑ# | 128 : [+cons,+lab] > w / __ [+back,+cons]
-Final form : #wɣʷlɑ#
+#mˌed̪iˈɑːliɑ# >>> #mˌeʝˈɑlʝɑ# ( GOLD : #meˈɑxɑ#) :
+m ˌe d̪ i ˈɑː l i ɑ 
+#mˌɛd̪iˈɑːliɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˌɛd̪eˈɑːleɑ# | 43 : [+syl,-long] > [-hi] 
+#mˌɛd̪eˈɑleɑ# | 44 : [+syl,+long] > [-long,-splng] 
+#mˌɛd̪ejˈɑlejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#mˌɛd̪ijˈɑlijɑ# | 53 : e > i / __ j
+#mˌɛðijˈɑlijɑ# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
+#mˌɛijˈɑlijɑ# | 88 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#mˌeijˈɑlijɑ# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#mˌejjˈɑlijɑ# | 110 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
+#mˌejʝˈɑliʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#mˌejʝˈɑlʝɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#mˌeʝˈɑlʝɑ# | 133 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+Final form : #mˌeʝˈɑlʝɑ#

@@ -1,15 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :323:
-#kˈoːɡit̪ɑt̪# >>> #kˈuxʝt̪ɑ# ( GOLD : #kwˈid̪ɑ#) :
-k ˈoː ɡ i t̪ ɑ t̪ 
-#kˈoːɡit̪ɑ# | 27 : [+cons,-cont] > ∅ / __ #
-#kˈoːɡet̪ɑ# | 43 : [+syl,-long] > [-hi] 
-#kˈoɡet̪ɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#kˈoɡjet̪ɑ# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#kˈod͡ʒjet̪ɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˈoʒjet̪ɑ# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#kˈuʒjet̪ɑ# | 99 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [+syl]
-#kˈuʒʝet̪ɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kˈuʒʝt̪ɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kˈuʃʝt̪ɑ# | 167 : [+strid] > [-voi] 
-#kˈuxʝt̪ɑ# | 169 : ʃ > x 
-Final form : #kˈuxʝt̪ɑ#
+#kˈɑmpum# >>> #kˈɑwpo# ( GOLD : #kˈɑmpo#) :
+k ˈɑ m p u m 
+#kˈɑːmpum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˈɑːmpu# | 25 : [+nas] > ∅ / [-stres] __ #
+#kˈɑːmpo# | 43 : [+syl,-long] > [-hi] 
+#kˈɑmpo# | 44 : [+syl,+long] > [-long,-splng] 
+#kˈɑwpo# | 163 : [+lab,+cons] > w / __ [-son]
+Final form : #kˈɑwpo#

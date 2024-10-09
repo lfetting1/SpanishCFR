@@ -1,22 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :152:
-#fˈurn̪ɑkeum# >>> #ˈurn̪ɑθe̯xo# ( GOLD : #oɾn̪ˈɑθo#) :
-f ˈu r n̪ ɑ k e u m 
-#fˈurn̪ɑkeu# | 25 : [+nas] > ∅ / [-stres] __ #
-#fˈurn̪ɑkju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#fˈorn̪ɑkjo# | 43 : [+syl,-long] > [-hi] 
-#fˈoɾn̪ɑkjo# | 46 : r > ɾ / __ [+cons]
-#fˈoɾn̪ɑt͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#fˈoɾn̪ɑt͡ʃe̯jo# | 82 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#fˈorn̪ɑt͡ʃe̯jo# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#fˈorn̪ɑt͡se̯jo# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#fˈurn̪ɑt͡se̯jo# | 99 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back] [+syl]
-#fˈurn̪ɑt͡se̯ʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɸˈurn̪ɑt͡se̯ʝo# | 113 : {v;f} > {β;ɸ} 
-#ɸˈurn̪ɑt͡se̯ʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
-#hˈurn̪ɑt͡se̯ʒo# | 156 : ɸ > h / __ [+syl]
-#ˈurn̪ɑt͡se̯ʒo# | 158 : h > ∅ 
-#ˈurn̪ɑse̯ʒo# | 166 : [+strid,+ant] > [+cont,0delrel] 
-#ˈurn̪ɑse̯ʃo# | 167 : [+strid] > [-voi] 
-#ˈurn̪ɑse̯xo# | 169 : ʃ > x 
-#ˈurn̪ɑθe̯xo# | 170 : s > θ / __ [-cons]
-Final form : #ˈurn̪ɑθe̯xo#
+#fˈɑlsum# >>> #ˈoθo# ( GOLD : #fˈɑlso#) :
+f ˈɑ l s u m 
+#fˈɑlsu# | 25 : [+nas] > ∅ / [-stres] __ #
+#fˈɑlso# | 43 : [+syl,-long] > [-hi] 
+#fˈɑwso# | 90 : [+lat] > w / [+lo] __ [+cons]
+#ɸˈɑwso# | 113 : {v;f} > {β;ɸ} 
+#ɸˈowso# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɸˈoso# | 131 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+#hˈoso# | 156 : ɸ > h / __ [+syl]
+#ˈoso# | 158 : h > ∅ 
+#ˈoθo# | 170 : s > θ / __ [-cons]
+Final form : #ˈoθo#

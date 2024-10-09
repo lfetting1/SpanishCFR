@@ -1,13 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :209:
-#hˈospit̪em# >>> #wθwt̪e# ( GOLD : #wˈesped̪#) :
-h ˈo s p i t̪ e m 
-#ˈospit̪em# | 0 : h > ∅ 
-#ˈospit̪e# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˈɔspit̪e# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˈɔspet̪e# | 43 : [+syl,-long] > [-hi] 
-#wespet̪e# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ɣʷespet̪e# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɣʷspt̪e# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#wswt̪e# | 163 : [+lab,+cons] > w / __ [-son]
-#wθwt̪e# | 170 : s > θ / __ [-cons]
-Final form : #wθwt̪e#
+#jˈun̪kt̪ɑm# >>> #xwˈit͡ʃɑ# ( GOLD : #xˈun̪t̪ɑ#) :
+j ˈu n̪ k t̪ ɑ m  
+#jˈuːn̪kt̪ɑm# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#jˈuːŋkt̪ɑm# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#jˈuːŋt̪ɑm# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#jˈuːŋt̪ɑ# | 25 : [+nas] > ∅ / [-stres] __ #
+#jˈuŋt̪ɑ# | 44 : [+syl,+long] > [-long,-splng] 
+#jˈujt̪ɑ# | 56 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#ʝˈujt̪ɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʒˈujt̪ɑ# | 116 : ʝ > ʒ / # __ [+round]
+#ʒˈujt͡ʃɑ# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ʒwˈit͡ʃɑ# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ʃwˈit͡ʃɑ# | 167 : [+strid] > [-voi] 
+#xwˈit͡ʃɑ# | 169 : ʃ > x 
+Final form : #xwˈit͡ʃɑ#

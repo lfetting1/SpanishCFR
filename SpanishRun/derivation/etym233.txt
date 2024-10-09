@@ -1,13 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :233:
-#jˈɑkt̪um# >>> #ʝˈet͡ʃo# ( GOLD : #ˈet͡ʃo#) :
-j ˈɑ k t̪ u m 
-#jˈɑkt̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#jˈɑxt̪u# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#jˈɑxt̪o# | 43 : [+syl,-long] > [-hi] 
-#jˈɑjt̪o# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ʝˈɑjt̪o# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʝˈejt̪o# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ʝˈejt͡ʃo# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#ʝjˈet͡ʃo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ʝˈet͡ʃo# | 161 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-Final form : #ʝˈet͡ʃo#
+#krˌeskˈeːre# >>> #krˌeθˈer# ( GOLD : #kɾeθˈeɾ#) :
+k r ˌe s k ˈeː r e 
+#krˌɛskˈeːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#krˌɛskˈere# | 44 : [+syl,+long] > [-long,-splng] 
+#krˌɛskjˈere# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#krˌɛst͡ʃjˈere# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#krˌɛst͡sjˈere# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#krˌest͡sjˈere# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#krˌest͡sʝˈere# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#krˌest͡sçˈere# | 126 : [-son] > [-voi] / [-voi] __ 
+#krˌest͡sçˈer# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#krˌet͡sçˈer# | 151 : [-son] > ∅ / __ [+delrel]
+#krˌet͡sˈer# | 152 : [-son] > ∅ / [+delrel] __ 
+#krˌesˈer# | 166 : [+strid,+ant] > [+cont,0delrel] 
+#krˌeθˈer# | 170 : s > θ / __ [-cons]
+Final form : #krˌeθˈer#
