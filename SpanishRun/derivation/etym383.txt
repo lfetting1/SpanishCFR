@@ -3,14 +3,14 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :383:
 k ˌo n̪ t̪ r ˈɑ k t̪ u m 
 #kˌon̪t̪ɾˈɑkt̪um# | 1 : r > ɾ / @ __ @
 #kˌoːn̪t̪ɾˈɑkt̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˌoːn̪t̪ɾˈɑkt̪u# | 26 : [+nas] > ∅ / [-stres] __ #
-#kˌoːn̪t̪ɾˈɑxt̪u# | 32 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#kˌoːn̪t̪ɾˈɑxt̪o# | 44 : [+syl,-long] > [-hi] 
-#kˌon̪t̪ɾˈɑxt̪o# | 45 : [+syl,+long] > [-long,-splng] 
-#kˌon̪t̪ɾˈɑjt̪o# | 93 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#kˌun̪t̪ɾˈɑjt̪o# | 96 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-#kˌun̪t̪ɾˈejt̪o# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#kˌun̪t̪ɾˈejt͡ʃo# | 126 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#kˌun̪t̪ɾjˈet͡ʃo# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#kun̪t̪ɾjˈet͡ʃo# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#kˌoːn̪t̪ɾˈɑkt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌoːn̪t̪ɾˈɑxt̪u# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#kˌoːn̪t̪ɾˈɑxt̪o# | 50 : [+syl,-long] > [-hi] 
+#kˌon̪t̪ɾˈɑxt̪o# | 51 : [+syl,+long] > [-long,-splng] 
+#kˌon̪t̪ɾˈɑjt̪o# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kˌun̪t̪ɾˈɑjt̪o# | 102 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#kˌun̪t̪ɾˈejt̪o# | 129 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#kˌun̪t̪ɾˈejt͡ʃo# | 132 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#kˌun̪t̪ɾjˈet͡ʃo# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kun̪t̪ɾjˈet͡ʃo# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #kun̪t̪ɾjˈet͡ʃo#

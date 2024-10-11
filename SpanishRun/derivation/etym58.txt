@@ -1,13 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :58:
-#d̪ˈomin̪ɑm# >>> #zɣʷmbɾɑ# ( GOLD : #d̪wˈeɲɑ#) :
+#d̪ˈomin̪ɑm# >>> #d̪ɣʷɲɑ# ( GOLD : #d̪wˈeɲɑ#) :
 d̪ ˈo m i n̪ ɑ m 
-#d̪ˈomin̪ɑ# | 26 : [+nas] > ∅ / [-stres] __ #
-#d̪ˈɔmin̪ɑ# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#d̪ˈɔmen̪ɑ# | 44 : [+syl,-long] > [-hi] 
-#d̪wemen̪ɑ# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#d̪ɣʷemen̪ɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#d̪ɣʷmn̪ɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#d̪ɣʷmɾɑ# | 160 : n̪ > ɾ / [+nas] __ 
-#d̪ɣʷmbɾɑ# | 161 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-#zɣʷmbɾɑ# | 164 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #zɣʷmbɾɑ#
+#d̪ˈomn̪ɑm# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
+#d̪ˈomn̪ɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#d̪ˈɔmn̪ɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#d̪ˈɔn̪n̪ɑ# | 65 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
+#d̪wen̪n̪ɑ# | 106 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#d̪ɣʷen̪n̪ɑ# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#d̪ɣʷeɲɑ# | 124 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#d̪ɣʷɲɑ# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+Final form : #d̪ɣʷɲɑ#

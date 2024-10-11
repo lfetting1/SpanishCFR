@@ -1,9 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :401:
-#kˌubˈikulum# >>> #kobˈeɡlo# ( GOLD : #kobˈiʝo#) :
+#kˌubˈikulum# >>> #kubjˈel# ( GOLD : #kobˈiʝo#) :
 k ˌu b ˈi k u l u m 
-#kˌubˈikulu# | 26 : [+nas] > ∅ / [-stres] __ #
-#kˌobˈekolo# | 44 : [+syl,-long] > [-hi] 
-#kˌobˈeɡolo# | 85 : [-son] > [+voi] / [-cons] __ [+son]
-#kˌobˈeɡlo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kobˈeɡlo# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kobˈeɡlo#
+#kˌubˈiklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#kˌubˈiklu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌubˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#kˌobˈexlo# | 50 : [+syl,-long] > [-hi] 
+#kˌobˈeɣlo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
+#kˌobˈejlo# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kˌobjˈelo# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kˌobjˈel# | 148 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#kˌubjˈel# | 150 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#kubjˈel# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kubjˈel#

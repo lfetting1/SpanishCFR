@@ -1,9 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :766:
-#rˈeɡulɑ# >>> #rʝɡlɑ# ( GOLD : #rˈexɑ#) :
+#rˈeɡulɑ# >>> #rˈexɑ# ( GOLD : #rˈexɑ#) :
 r ˈe ɡ u l ɑ 
-#rˈɛɡulɑ# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#rˈɛɡolɑ# | 44 : [+syl,-long] > [-hi] 
-#rjeɡolɑ# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#rʝeɡolɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#rʝɡlɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-Final form : #rʝɡlɑ#
+#rˈeɡlɑ# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#rˈeɣlɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#rˈɛɣlɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#rˈɛjlɑ# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#rˈɛjʎɑ# | 62 : [+lat] > ʎ / j __ 
+#rˈɛʎɑ# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+#rˈeʎɑ# | 103 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#rˈed͡ʒɑ# | 116 : ʎ > d͡ʒ 
+#rˈeʒɑ# | 117 : d͡ʒ > ʒ 
+#rˈeʃɑ# | 170 : [+strid] > [-voi] 
+#rˈexɑ# | 171 : ʃ > x 
+Final form : #rˈexɑ#

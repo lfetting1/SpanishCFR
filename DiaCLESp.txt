@@ -50,6 +50,18 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 
 [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
 
+[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] $syncope_early (pretonic; sib __ nonvelar) 
+
+[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+son,+cons] __ [+cons,-back] [+prim] $syncope_early (pretonic; liq __ nonvel)
+
+[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [-syl] __ [+son,+cons] [+prim] $syncope_early  (pretonic; C/J __ liq)
+
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+syl,-prim] $syncope_early (posttonic; sib __ nonvelar)
+
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+son,+cons] __ [+cons,-back] [+syl,-prim] $syncope_early (posttonic; liq __ nonvel)
+
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons] [+syl,-prim] $syncope_early (posttonic; C/J __ liq)
+
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion, does not get deleted after stressed final syllables, effectively only monosyllabic words such as tam > tan or cum > con
 
 [+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 
@@ -337,9 +349,9 @@ $[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress -- CM(@Aug31) -- was t
 
 [+strid,+ant] > [+cont] $deaffrication
 
-[+strid] > [-voi] $ unvoice,the great sibilant merger
+[-son,+cor,+ant] > [+strid,+cont] / [+syl] __ [-son] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.) (However ,this had to be changed from the default direct translation of his features use dodesnțt capture hat, apparently, ʃ is not targeted by "+obstr +cor". Also bizarre that he had +delrel... anyhow.) TODO look at this again. TODO also -- it apparently effects /t/ as well? That is probably not intended but is it too generous to attribute removal of this to Hartmann? 10/11 - made into dentals
 
-[-son,+cor,+ant] > [+strid,+cont,-distr] / __ [-son] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.) (However ,this had to be changed from the default direct translation of his features use dodesnțt capture hat, apparently, ʃ is not targeted by "+obstr +cor". Also bizarre that he had +delrel... anyhow.) TODO look at this again. TODO also -- it apparently effects /t/ as well? That is probably not intended but is it too generous to attribute removal of this to Hartmann? 
+[+strid] > [-voi] $ unvoice,the great sibilant merger
 
 ʃ > x $ palatal velarization
 
@@ -347,7 +359,7 @@ $(see below for reformulation) [+strid,+cor,+ant] > [-strid,-distr] / __ [-cons]
 
 s > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
 
-s > θ / __ # $part two of interdental reformulation?
+s̪ > θ / __ # $part two of interdental reformulation?
 
 s > z / [-cons] __ [+cons,+voi] $regressive_voicing -- s aspect. 
 

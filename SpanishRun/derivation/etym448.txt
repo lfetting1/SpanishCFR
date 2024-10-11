@@ -2,10 +2,11 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :448:
 #lˈeporem# >>> #lʝbɾe# ( GOLD : #ljˈebɾe#) :
 l ˈe p o r e m 
 #lˈepoɾem# | 1 : r > ɾ / @ __ @
-#lˈepoɾe# | 26 : [+nas] > ∅ / [-stres] __ #
-#lˈɛpoɾe# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#lˈɛboɾe# | 85 : [-son] > [+voi] / [-cons] __ [+son]
-#ljeboɾe# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#lʝeboɾe# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#lʝbɾe# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#lˈepɾem# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#lˈepɾe# | 32 : [+nas] > ∅ / [-stres] __ #
+#lˈɛpɾe# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#lˈɛbɾe# | 91 : [-son] > [+voi] / [-cons] __ [+son]
+#ljebɾe# | 106 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#lʝebɾe# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#lʝbɾe# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
 Final form : #lʝbɾe#

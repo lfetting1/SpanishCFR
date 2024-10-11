@@ -1,18 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :802:
-#rˌoːbˈiːɡin̪e# >>> #robˈizn̪e# ( GOLD : #robˈin̪#) :
+#rˌoːbˈiːɡin̪e# >>> #robˈeɲi# ( GOLD : #robˈin̪#) :
 r ˌoː b ˈiː ɡ i n̪ e 
-#rˌoːbˈiːɡen̪e# | 44 : [+syl,-long] > [-hi] 
-#rˌobˈiɡen̪e# | 45 : [+syl,+long] > [-long,-splng] 
-#rˌobˈiɡjen̪e# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#rˌobˈid͡ʒjen̪e# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#rˌobˈid͡zjen̪e# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#rˌubˈid͡zjen̪e# | 95 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#rˌubˈid͡zʝen̪e# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#rˌubˈid͡zʝn̪e# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#rˌobˈid͡zʝn̪e# | 146 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#rˌobˈid͡zn̪e# | 148 : [-son] > ∅ / [+delrel] __ 
-#rˌobˈizn̪e# | 162 : [+strid,+ant] > [+cont,0delrel] 
-#rˌobˈisn̪e# | 163 : [+strid] > [-voi] 
-#rˌobˈizn̪e# | 168 : s > z / [-cons] __ [+cons,+voi]
-#robˈizn̪e# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #robˈizn̪e#
+#rˌoːbˈiːɡn̪e# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#rˌoːbˈiːɣn̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#rˌobˈiɣn̪e# | 51 : [+syl,+long] > [-long,-splng] 
+#rˌobˈijn̪e# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#rˌobˈijɲe# | 60 : [+nas,+cor] > ɲ / j __ 
+#rˌobˈiɲe# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+#rˌobˈiɲi# | 105 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+#rˌobˈeɲi# | 152 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#robˈeɲi# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #robˈeɲi#

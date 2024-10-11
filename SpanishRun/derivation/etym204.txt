@@ -1,11 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :204:
-#hˈed̪erɑm# >>> #ʝeeɾɑ# ( GOLD : #ʝˈed̪ɾɑ#) :
+#hˈed̪erɑm# >>> #ʝd̪ɾɑ# ( GOLD : #ʝˈed̪ɾɑ#) :
 h ˈe d̪ e r ɑ m 
 #ˈed̪erɑm# | 0 : h > ∅ 
 #ˈed̪eɾɑm# | 1 : r > ɾ / @ __ @
-#ˈed̪eɾɑ# | 26 : [+nas] > ∅ / [-stres] __ #
-#ˈɛd̪eɾɑ# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˈɛeɾɑ# | 84 : [-son,+voi,-strid,-front,βlab,-delrel] > ∅ / [-cons] __ [+syl,βlab]
-#jeeɾɑ# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ʝeeɾɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-Final form : #ʝeeɾɑ#
+#ˈed̪ɾɑm# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#ˈed̪ɾɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˈɛd̪ɾɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#jed̪ɾɑ# | 106 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ʝed̪ɾɑ# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ʝd̪ɾɑ# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+Final form : #ʝd̪ɾɑ#

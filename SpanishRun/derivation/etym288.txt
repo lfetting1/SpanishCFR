@@ -1,10 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :288:
-#kˈon̪kʰulɑm# >>> #kˈoŋkʰlɑ# ( GOLD : #kon̪t͡ʃɑ#) :
+#kˈon̪kʰulɑm# >>> #kˈoŋt͡ʃɑ# ( GOLD : #kon̪t͡ʃɑ#) :
 k ˈo n̪ kʰ u l ɑ m 
 #kˈoːn̪kʰulɑm# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #kˈoːŋkʰulɑm# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#kˈoːŋkʰulɑ# | 26 : [+nas] > ∅ / [-stres] __ #
-#kˈoːŋkʰolɑ# | 44 : [+syl,-long] > [-hi] 
-#kˈoŋkʰolɑ# | 45 : [+syl,+long] > [-long,-splng] 
-#kˈoŋkʰlɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-Final form : #kˈoŋkʰlɑ#
+#kˈoːŋkʰlɑm# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#kˈoːŋkʰlɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˈoŋkʰlɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#kˈoŋkʰʎɑ# | 120 : [+lat] > ʎ / [-son] __ 
+#kˈoŋt͡ʃɑ# | 122 : [-voi] [+lat] > t͡ʃ
+Final form : #kˈoŋt͡ʃɑ#

@@ -1,14 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :26:
-#bˌurrˈɑɡin̪em# >>> #borɾjˈen̪# ( GOLD : #borˈen̪#) :
+#bˌurrˈɑɡin̪em# >>> #borɾˈɑɲi# ( GOLD : #borˈen̪#) :
 b ˌu r r ˈɑ ɡ i n̪ e m 
 #bˌuɾɾˈɑɡin̪em# | 1 : r > ɾ / @ __ @
-#bˌuɾɾˈɑɡin̪e# | 26 : [+nas] > ∅ / [-stres] __ #
-#bˌuɾɾˈɑin̪e# | 39 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#bˌoɾɾˈɑen̪e# | 44 : [+syl,-long] > [-hi] 
-#bˌorɾˈɑen̪e# | 50 : ɾ > r / __ ɾ
-#bˌorɾˈɑjn̪e# | 91 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-#bˌorɾˈejn̪e# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#bˌorɾjˈen̪e# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#bˌorɾjˈen̪# | 142 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#borɾjˈen̪# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #borɾjˈen̪#
+#bˌuɾɾˈɑɡn̪em# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#bˌuɾɾˈɑɡn̪e# | 32 : [+nas] > ∅ / [-stres] __ #
+#bˌuɾɾˈɑɣn̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#bˌoɾɾˈɑɣn̪e# | 50 : [+syl,-long] > [-hi] 
+#bˌorɾˈɑɣn̪e# | 56 : ɾ > r / __ ɾ
+#bˌorɾˈɑjn̪e# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#bˌorɾˈɑjɲe# | 60 : [+nas,+cor] > ɲ / j __ 
+#bˌorɾˈɑɲe# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+#bˌorɾˈɑɲi# | 105 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+#borɾˈɑɲi# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #borɾˈɑɲi#

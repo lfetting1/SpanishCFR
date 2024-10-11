@@ -2,12 +2,11 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :477:
 #lˈɑkrimɑm# >>> #ljˈeɾmɑ# ( GOLD : #lˈɑɡɾimɑ#) :
 l ˈɑ k r i m ɑ m 
 #lˈɑkɾimɑm# | 1 : r > ɾ / @ __ @
-#lˈɑkɾimɑ# | 26 : [+nas] > ∅ / [-stres] __ #
-#lˈɑxɾimɑ# | 32 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#lˈɑxɾemɑ# | 44 : [+syl,-long] > [-hi] 
-#lˈɑɣɾemɑ# | 85 : [-son] > [+voi] / [-cons] __ [+son]
-#lˈɑjɾemɑ# | 93 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#lˈɑjɾmɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#lˈejɾmɑ# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ljˈeɾmɑ# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#lˈɑkɾmɑm# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
+#lˈɑkɾmɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#lˈɑxɾmɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#lˈɑɣɾmɑ# | 91 : [-son] > [+voi] / [-cons] __ [+son]
+#lˈɑjɾmɑ# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#lˈejɾmɑ# | 129 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ljˈeɾmɑ# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
 Final form : #ljˈeɾmɑ#

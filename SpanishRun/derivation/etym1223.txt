@@ -1,19 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1223:
-#ˌɑppˈosit̪um# >>> #ɑwzd̪o# ( GOLD : #ɑpwˈest̪o#) :
+#ˌɑppˈosit̪um# >>> #ɑwst̪o# ( GOLD : #ɑpwˈest̪o#) :
 ˌɑ p p ˈo s i t̪ u m 
-#ˌɑppˈosit̪u# | 26 : [+nas] > ∅ / [-stres] __ #
-#ˌɑppˈɔsit̪u# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑppˈɔset̪o# | 44 : [+syl,-long] > [-hi] 
-#ˌɑppˈɔzed̪o# | 85 : [-son] > [+voi] / [-cons] __ [+son]
-#ˌɑppwezed̪o# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ˌɑppɣʷezed̪o# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑpɣʷezed̪o# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌɑpɣʷzd̪o# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌɑpxʷzd̪o# | 122 : [-son] > [-voi] / [-voi] __ 
-#ˌɑwxʷzd̪o# | 124 : [+cons,+lab] > w / __ [+back,+cons]
-#ˌɑxʷzd̪o# | 127 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-#ˌɑwzd̪o# | 159 : [+lab,+cons] > w / __ [-son]
-#ˌɑwsd̪o# | 163 : [+strid] > [-voi] 
-#ˌɑwzd̪o# | 168 : s > z / [-cons] __ [+cons,+voi]
-#ɑwzd̪o# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑwzd̪o#
+#ˌɑppˈost̪um# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] [+syl,-prim]
+#ˌɑppˈost̪u# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌɑppˈɔst̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑppˈɔst̪o# | 50 : [+syl,-long] > [-hi] 
+#ˌɑppwest̪o# | 106 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ˌɑppɣʷest̪o# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌɑpɣʷest̪o# | 125 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˌɑpɣʷst̪o# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌɑpxʷst̪o# | 128 : [-son] > [-voi] / [-voi] __ 
+#ˌɑwxʷst̪o# | 130 : [+cons,+lab] > w / __ [+back,+cons]
+#ˌɑxʷst̪o# | 133 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#ˌɑwst̪o# | 165 : [+lab,+cons] > w / __ [-son]
+#ɑwst̪o# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑwst̪o#

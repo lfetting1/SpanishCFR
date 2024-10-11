@@ -3,11 +3,11 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1114:
 ˈɑ l t̪ e r u m 
 #ˈɑlt̪eɾum# | 1 : r > ɾ / @ __ @
 #ˈɑl̪t̪eɾum# | 14 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
-#ˈɑl̪t̪eɾu# | 26 : [+nas] > ∅ / [-stres] __ #
-#ˈɑl̪t̪eɾo# | 44 : [+syl,-long] > [-hi] 
-#ˈɑwt̪eɾo# | 86 : [+lat] > w / [+lo] __ [+cons]
-#ˈɑwt̪ɾo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˈowt̪ɾo# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ˈot̪ɾo# | 128 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#ˈod̪ɾo# | 170 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
+#ˈɑl̪t̪ɾum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#ˈɑl̪t̪ɾu# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˈɑl̪t̪ɾo# | 50 : [+syl,-long] > [-hi] 
+#ˈɑwt̪ɾo# | 92 : [+lat] > w / [+lo] __ [+cons]
+#ˈowt̪ɾo# | 129 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ˈot̪ɾo# | 134 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+#ˈod̪ɾo# | 176 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
 Final form : #ˈod̪ɾo#

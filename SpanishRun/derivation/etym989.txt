@@ -3,12 +3,13 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :989:
 w ˈe s p e r ɑ 
 #wˈespeɾɑ# | 1 : r > ɾ / @ __ @
 #ɣʷˈespeɾɑ# | 18 : w > ɣʷ / __ [+syl]
-#βˈespeɾɑ# | 31 : ɣʷ > β 
-#βˈɛspeɾɑ# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#vˈɛspeɾɑ# | 92 : β > v 
-#vjespeɾɑ# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#vʝespeɾɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βʝespeɾɑ# | 109 : {v;f} > {β;ɸ} 
-#βʝspɾɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#wʝspɾɑ# | 159 : [+lab,+cons] > w / __ [-son]
+#ɣʷˈespɾɑ# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#βˈespɾɑ# | 37 : ɣʷ > β 
+#βˈɛspɾɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#vˈɛspɾɑ# | 98 : β > v 
+#vjespɾɑ# | 106 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#vʝespɾɑ# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βʝespɾɑ# | 115 : {v;f} > {β;ɸ} 
+#βʝspɾɑ# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#wʝspɾɑ# | 165 : [+lab,+cons] > w / __ [-son]
 Final form : #wʝspɾɑ#

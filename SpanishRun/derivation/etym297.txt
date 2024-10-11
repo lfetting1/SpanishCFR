@@ -1,9 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :297:
-#kˈoːlupum# >>> #kˈolbo# ( GOLD : #ɡˈolpe#) :
+#kˈoːlupum# >>> #kwˈipo# ( GOLD : #ɡˈolpe#) :
 k ˈoː l u p u m 
-#kˈoːlupu# | 26 : [+nas] > ∅ / [-stres] __ #
-#kˈoːlopo# | 44 : [+syl,-long] > [-hi] 
-#kˈolopo# | 45 : [+syl,+long] > [-long,-splng] 
-#kˈolobo# | 85 : [-son] > [+voi] / [-cons] __ [+son]
-#kˈolbo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-Final form : #kˈolbo#
+#kˈoːlpum# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
+#kˈoːlpu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˈoːlpo# | 50 : [+syl,-long] > [-hi] 
+#kˈolpo# | 51 : [+syl,+long] > [-long,-splng] 
+#kˈojpo# | 93 : [+lat] > j / [+back] __ [+cons]
+#kˈujpo# | 102 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#kwˈipo# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #kwˈipo#
