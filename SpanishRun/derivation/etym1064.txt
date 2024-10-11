@@ -1,14 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1064:
-#ɡˌyːrˈɑːre# >>> #xˌyrˈɑr# ( GOLD : #xiɾˈɑɾ#) :
+#ɡˌyːrˈɑːre# >>> #θyɾˈɑɾ# ( GOLD : #xiɾˈɑɾ#) :
 ɡ ˌyː r ˈɑː r e 
-#ɡˌyrˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#ɡjˌyrˈɑre# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˌyrˈɑre# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ʒjˌyrˈɑre# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ʒʝˌyrˈɑre# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʒʒˌyrˈɑre# | 117 : ʝ > ʒ / [-syl] __ [+round]
-#ʒˌyrˈɑre# | 123 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ʒˌyrˈɑr# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ʃˌyrˈɑr# | 167 : [+strid] > [-voi] 
-#xˌyrˈɑr# | 169 : ʃ > x 
-Final form : #xˌyrˈɑr#
+#ɡˌyːɾˈɑːɾe# | 1 : r > ɾ / @ __ @
+#ɡˌyɾˈɑɾe# | 45 : [+syl,+long] > [-long,-splng] 
+#ɡjˌyɾˈɑɾe# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˌyɾˈɑɾe# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d͡zjˌyɾˈɑɾe# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#d͡zʝˌyɾˈɑɾe# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#d͡zʒˌyɾˈɑɾe# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#d͡zʒˌyɾˈɑɾ# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#d͡zˌyɾˈɑɾ# | 148 : [-son] > ∅ / [+delrel] __ 
+#zˌyɾˈɑɾ# | 162 : [+strid,+ant] > [+cont,0delrel] 
+#sˌyɾˈɑɾ# | 163 : [+strid] > [-voi] 
+#θˌyɾˈɑɾ# | 166 : s > θ / __ [-cons]
+#θyɾˈɑɾ# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #θyɾˈɑɾ#

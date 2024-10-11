@@ -1,17 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :352:
-#kˌen̪t̪ˈeːn̪um# >>> #θˌen̪t̪ˈen̪# ( GOLD : #θen̪t̪ˈen̪o#) :
+#kˌen̪t̪ˈeːn̪um# >>> #θen̪t̪ˈen̪# ( GOLD : #θen̪t̪ˈen̪o#) :
 k ˌe n̪ t̪ ˈeː n̪ u m 
-#kˌeːn̪t̪ˈeːn̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˌeːn̪t̪ˈeːn̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#kˌeːn̪t̪ˈeːn̪o# | 43 : [+syl,-long] > [-hi] 
-#kˌen̪t̪ˈen̪o# | 44 : [+syl,+long] > [-long,-splng] 
-#kjˌen̪t̪ˈen̪o# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌen̪t̪ˈen̪o# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡sjˌen̪t̪ˈen̪o# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sʝˌen̪t̪ˈen̪o# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sçˌen̪t̪ˈen̪o# | 126 : [-son] > [-voi] / [-voi] __ 
-#t͡sçˌen̪t̪ˈen̪# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#t͡sˌen̪t̪ˈen̪# | 152 : [-son] > ∅ / [+delrel] __ 
-#sˌen̪t̪ˈen̪# | 166 : [+strid,+ant] > [+cont,0delrel] 
-#θˌen̪t̪ˈen̪# | 170 : s > θ / __ [-cons]
-Final form : #θˌen̪t̪ˈen̪#
+#kˌeːn̪t̪ˈeːn̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˌeːn̪t̪ˈeːn̪u# | 26 : [+nas] > ∅ / [-stres] __ #
+#kˌeːn̪t̪ˈeːn̪o# | 44 : [+syl,-long] > [-hi] 
+#kˌen̪t̪ˈen̪o# | 45 : [+syl,+long] > [-long,-splng] 
+#kjˌen̪t̪ˈen̪o# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌen̪t̪ˈen̪o# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡sjˌen̪t̪ˈen̪o# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sʝˌen̪t̪ˈen̪o# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sçˌen̪t̪ˈen̪o# | 122 : [-son] > [-voi] / [-voi] __ 
+#t͡sçˌen̪t̪ˈen̪# | 142 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#t͡sˌen̪t̪ˈen̪# | 148 : [-son] > ∅ / [+delrel] __ 
+#sˌen̪t̪ˈen̪# | 162 : [+strid,+ant] > [+cont,0delrel] 
+#θˌen̪t̪ˈen̪# | 166 : s > θ / __ [-cons]
+#θen̪t̪ˈen̪# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #θen̪t̪ˈen̪#

@@ -1,20 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1127:
-#ˈɑrkiˈoːn̪em# >>> #ˈɑrsʝˈon̪# ( GOLD : #ɑɾθˈon̪#) :
+#ˈɑrkiˈoːn̪em# >>> #ˈɑθˈon̪# ( GOLD : #ɑɾθˈon̪#) :
 ˈɑ r k i ˈoː n̪ e m 
-#ˈɑrkiˈoːn̪e# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˈɑrkeˈoːn̪e# | 43 : [+syl,-long] > [-hi] 
-#ˈɑrkeˈon̪e# | 44 : [+syl,+long] > [-long,-splng] 
-#ˈɑɾkeˈon̪e# | 46 : r > ɾ / __ [+cons]
-#ˈɑɾkejˈon̪e# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˈɑɾkijˈon̪e# | 53 : e > i / __ j
-#ˈɑɾkjijˈon̪e# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˈɑɾt͡ʃjijˈon̪e# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˈɑrt͡ʃjijˈon̪e# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˈɑrt͡sjijˈon̪e# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˈɑrt͡sʝiʝˈon̪e# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˈɑrt͡sʝʝˈon̪e# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˈɑrt͡sçʝˈon̪e# | 126 : [-son] > [-voi] / [-voi] __ 
-#ˈɑrt͡sçʝˈon̪# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ˈɑrt͡sʝˈon̪# | 152 : [-son] > ∅ / [+delrel] __ 
-#ˈɑrsʝˈon̪# | 166 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #ˈɑrsʝˈon̪#
+#ˈɑɾkiˈoːn̪em# | 1 : r > ɾ / @ __ @
+#ˈɑɾkiˈoːn̪e# | 26 : [+nas] > ∅ / [-stres] __ #
+#ˈɑɾkjˈoːn̪e# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#ˈɑɾkjˈon̪e# | 45 : [+syl,+long] > [-long,-splng] 
+#ˈɑɾt͡ʃjˈon̪e# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˈɑɾt͡sjˈon̪e# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˈɑɾt͡sʝˈon̪e# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˈɑɾt͡sʒˈon̪e# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#ˈɑt͡sʒˈon̪e# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˈɑt͡sʃˈon̪e# | 122 : [-son] > [-voi] / [-voi] __ 
+#ˈɑt͡sʃˈon̪# | 142 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˈɑt͡sˈon̪# | 148 : [-son] > ∅ / [+delrel] __ 
+#ˈɑsˈon̪# | 162 : [+strid,+ant] > [+cont,0delrel] 
+#ˈɑθˈon̪# | 166 : s > θ / __ [-cons]
+Final form : #ˈɑθˈon̪#

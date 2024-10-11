@@ -1,9 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :433:
-#kˌɑrrikˈɑːre# >>> #kˌɑrkˈɑr# ( GOLD : #kɑɾɡˈɑɾ#) :
+#kˌɑrrikˈɑːre# >>> #kɑrɾɡˈɑɾ# ( GOLD : #kɑɾɡˈɑɾ#) :
 k ˌɑ r r i k ˈɑː r e 
-#kˌɑrrekˈɑːre# | 43 : [+syl,-long] > [-hi] 
-#kˌɑrrekˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#kˌɑrekˈɑre# | 45 : r r > r 
-#kˌɑrkˈɑre# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kˌɑrkˈɑr# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #kˌɑrkˈɑr#
+#kˌɑɾɾikˈɑːɾe# | 1 : r > ɾ / @ __ @
+#kˌɑɾɾekˈɑːɾe# | 44 : [+syl,-long] > [-hi] 
+#kˌɑɾɾekˈɑɾe# | 45 : [+syl,+long] > [-long,-splng] 
+#kˌɑrɾekˈɑɾe# | 50 : ɾ > r / __ ɾ
+#kˌɑrɾeɡˈɑɾe# | 85 : [-son] > [+voi] / [-cons] __ [+son]
+#kˌɑrɾɡˈɑɾe# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kˌɑrɾɡˈɑɾ# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#kɑrɾɡˈɑɾ# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kɑrɾɡˈɑɾ#

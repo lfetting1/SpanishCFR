@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :836:
-#st̪rˈikt̪um# >>> #est̪rjˈet͡ʃo# ( GOLD : #est̪ɾˈet͡ʃo#) :
+#st̪rˈikt̪um# >>> #est̪ɾjˈet͡ʃo# ( GOLD : #est̪ɾˈet͡ʃo#) :
 s t̪ r ˈi k t̪ u m 
-#s̪t̪rˈikt̪um# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#s̪t̪rˈikt̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#s̪t̪rˈixt̪u# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#s̪t̪rˈext̪o# | 43 : [+syl,-long] > [-hi] 
-#s̪t̪rˈejt̪o# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#s̪t̪rˈejt͡ʃo# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#s̪t̪rjˈet͡ʃo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#st̪rjˈet͡ʃo# | 168 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#est̪rjˈet͡ʃo# | 175 : ∅ > e / # __ s [+cons]
-Final form : #est̪rjˈet͡ʃo#
+#st̪ɾˈikt̪um# | 1 : r > ɾ / @ __ @
+#s̪t̪ɾˈikt̪um# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#s̪t̪ɾˈikt̪u# | 26 : [+nas] > ∅ / [-stres] __ #
+#s̪t̪ɾˈixt̪u# | 32 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#s̪t̪ɾˈext̪o# | 44 : [+syl,-long] > [-hi] 
+#s̪t̪ɾˈejt̪o# | 93 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#s̪t̪ɾˈejt͡ʃo# | 126 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#s̪t̪ɾjˈet͡ʃo# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#st̪ɾjˈet͡ʃo# | 164 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#est̪ɾjˈet͡ʃo# | 171 : ∅ > e / # __ s [+cons]
+Final form : #est̪ɾjˈet͡ʃo#

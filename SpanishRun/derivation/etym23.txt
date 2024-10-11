@@ -1,11 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :23:
-#bˈɑt̪t̪uoː# >>> #βˈɑt̪o# ( GOLD : #bˈɑt̪o#) :
+#bˈɑt̪t̪uoː# >>> #bˈɑsxʷo# ( GOLD : #bˈɑt̪o#) :
 b ˈɑ t̪ t̪ u oː 
-#bˈɑt̪t̪ooː# | 43 : [+syl,-long] > [-hi] 
-#bˈɑt̪t̪oo# | 44 : [+syl,+long] > [-long,-splng] 
-#bˈɑt̪t̪o# | 61 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#βˈɑt̪t̪o# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#vˈɑt̪t̪o# | 96 : β > v 
-#βˈɑt̪t̪o# | 113 : {v;f} > {β;ɸ} 
-#βˈɑt̪o# | 123 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-Final form : #βˈɑt̪o#
+#bˈɑt̪t̪woː# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#bˈɑt̪t̪wo# | 45 : [+syl,+long] > [-long,-splng] 
+#bˈɑt̪t̪ɣʷo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#bˈɑt̪ɣʷo# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#bˈɑt̪xʷo# | 122 : [-son] > [-voi] / [-voi] __ 
+#bˈɑsxʷo# | 164 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+Final form : #bˈɑsxʷo#

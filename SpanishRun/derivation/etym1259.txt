@@ -1,10 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1259:
-#ˌɑwɡˈust̪um# >>> #ˌɑɣˈost̪o# ( GOLD : #ɑɡˈost̪o#) :
+#ˌɑwɡˈust̪um# >>> #ɑˈost̪o# ( GOLD : #ɑɡˈost̪o#) :
 ˌɑ w ɡ ˈu s t̪ u m 
-#ˌɑɡˈust̪um# | 16 : w > ∅ / [+back,+syl] __ 
-#ˌɑɡˈus̪t̪um# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ˌɑɡˈus̪t̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑɡˈos̪t̪o# | 43 : [+syl,-long] > [-hi] 
-#ˌɑɣˈos̪t̪o# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌɑɣˈost̪o# | 168 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #ˌɑɣˈost̪o#
+#ˌɑwɡˈus̪t̪um# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#ˌɑwɡˈus̪t̪u# | 26 : [+nas] > ∅ / [-stres] __ #
+#ˌɑwɡˈos̪t̪o# | 44 : [+syl,-long] > [-hi] 
+#ˌɑwɡʷˈos̪t̪o# | 65 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
+#ˌɑɡʷˈos̪t̪o# | 66 : [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons]
+#ˌɑˈos̪t̪o# | 84 : [-son,+voi,-strid,-front,βlab,-delrel] > ∅ / [-cons] __ [+syl,βlab]
+#ˌɑˈost̪o# | 164 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#ɑˈost̪o# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑˈost̪o#

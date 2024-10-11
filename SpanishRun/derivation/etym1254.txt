@@ -1,8 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1254:
-#ˌɑwrˈikulɑ# >>> #ˌɑrˈeɡlɑ# ( GOLD : #oɾˈexɑ#) :
+#ˌɑwrˈikulɑ# >>> #oɾˈeɡlɑ# ( GOLD : #oɾˈexɑ#) :
 ˌɑ w r ˈi k u l ɑ 
-#ˌɑrˈikulɑ# | 16 : w > ∅ / [+back,+syl] __ 
-#ˌɑrˈekolɑ# | 43 : [+syl,-long] > [-hi] 
-#ˌɑrˈeklɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌɑrˈeɡlɑ# | 173 : [-voi] > [+voi] / [-cons] __ l
-Final form : #ˌɑrˈeɡlɑ#
+#ˌɑwɾˈikulɑ# | 1 : r > ɾ / @ __ @
+#ˌɑwɾˈekolɑ# | 44 : [+syl,-long] > [-hi] 
+#ˌɑwɾˈeɡolɑ# | 85 : [-son] > [+voi] / [-cons] __ [+son]
+#ˌɑwɾˈeɡlɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌowɾˈeɡlɑ# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ˌoɾˈeɡlɑ# | 128 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+#oɾˈeɡlɑ# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #oɾˈeɡlɑ#

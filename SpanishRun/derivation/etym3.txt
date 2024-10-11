@@ -1,21 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :3:
-#brˈɑkkʰium# >>> #βrjˈeθo# ( GOLD : #bɾˈɑθo#) :
+#brˈɑkkʰium# >>> #bɾjˈeθo# ( GOLD : #bɾˈɑθo#) :
 b r ˈɑ k kʰ i u m 
-#brˈɑkkʰiu# | 25 : [+nas] > ∅ / [-stres] __ #
-#brˈɑkkʰju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#brˈɑkkʰjo# | 43 : [+syl,-long] > [-hi] 
-#brˈɑkt͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βrˈɑkt͡ʃjo# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#βrˈɑkt͡sjo# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#vrˈɑkt͡sjo# | 96 : β > v 
-#vrˈɑjt͡sjo# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#vrˈɑjt͡sʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βrˈɑjt͡sʝo# | 113 : {v;f} > {β;ɸ} 
-#βrˈɑjt͡sʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
-#βrˈɑjt͡sʃo# | 126 : [-son] > [-voi] / [-voi] __ 
-#βrˈejt͡sʃo# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#βrjˈet͡sʃo# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#βrjˈet͡so# | 152 : [-son] > ∅ / [+delrel] __ 
-#βrjˈeso# | 166 : [+strid,+ant] > [+cont,0delrel] 
-#βrjˈeθo# | 170 : s > θ / __ [-cons]
-Final form : #βrjˈeθo#
+#bɾˈɑkkʰium# | 1 : r > ɾ / @ __ @
+#bɾˈɑkkʰiu# | 26 : [+nas] > ∅ / [-stres] __ #
+#bɾˈɑkkʰju# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#bɾˈɑkkʰjo# | 44 : [+syl,-long] > [-hi] 
+#bɾˈɑkt͡ʃjo# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#bɾˈɑkt͡sjo# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#bɾˈɑjt͡sjo# | 93 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#bɾˈɑjt͡sʝo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#bɾˈɑjt͡sʒo# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#bɾˈɑjt͡sʃo# | 122 : [-son] > [-voi] / [-voi] __ 
+#bɾˈejt͡sʃo# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#bɾjˈet͡sʃo# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#bɾjˈet͡so# | 148 : [-son] > ∅ / [+delrel] __ 
+#bɾjˈeso# | 162 : [+strid,+ant] > [+cont,0delrel] 
+#bɾjˈeθo# | 166 : s > θ / __ [-cons]
+Final form : #bɾjˈeθo#

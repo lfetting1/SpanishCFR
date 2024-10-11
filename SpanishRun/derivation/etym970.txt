@@ -1,16 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :970:
-#t̪ˌen̪ˈebrɑːs# >>> #esçn̪ʝβrɑθ# ( GOLD : #t̪in̪jˈeblɑs#) :
+#t̪ˌen̪ˈebrɑːs# >>> #esçn̪ʝbɾɑθ# ( GOLD : #t̪in̪jˈeblɑs#) :
 t̪ ˌe n̪ ˈe b r ɑː s 
-#t̪ˌɛn̪ˈɛbrɑːs# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#t̪ˌɛn̪ˈɛbrɑs# | 44 : [+syl,+long] > [-long,-splng] 
-#t̪ˌɛn̪ˈɛβrɑs# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#t̪ˌɛn̪ˈɛvrɑs# | 96 : β > v 
-#t̪jen̪jevrɑs# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#t̪ʝen̪ʝevrɑs# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t̪ʝen̪ʝeβrɑs# | 113 : {v;f} > {β;ɸ} 
-#t̪ʝn̪ʝβrɑs# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#t̪çn̪ʝβrɑs# | 126 : [-son] > [-voi] / [-voi] __ 
-#sçn̪ʝβrɑs# | 168 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#sçn̪ʝβrɑθ# | 171 : s > θ / __ #
-#esçn̪ʝβrɑθ# | 175 : ∅ > e / # __ s [+cons]
-Final form : #esçn̪ʝβrɑθ#
+#t̪ˌen̪ˈebɾɑːs# | 1 : r > ɾ / @ __ @
+#t̪ˌɛn̪ˈɛbɾɑːs# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#t̪ˌɛn̪ˈɛbɾɑs# | 45 : [+syl,+long] > [-long,-splng] 
+#t̪jen̪jebɾɑs# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#t̪ʝen̪ʝebɾɑs# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t̪ʝn̪ʝbɾɑs# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t̪çn̪ʝbɾɑs# | 122 : [-son] > [-voi] / [-voi] __ 
+#sçn̪ʝbɾɑs# | 164 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#sçn̪ʝbɾɑθ# | 167 : s > θ / __ #
+#esçn̪ʝbɾɑθ# | 171 : ∅ > e / # __ s [+cons]
+Final form : #esçn̪ʝbɾɑθ#

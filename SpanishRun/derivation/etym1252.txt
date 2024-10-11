@@ -1,16 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1252:
-#ˌɑwkt̪orikˈɑːre# >>> #ˌit͡ʃrkˈɑr# ( GOLD : #ot̪oɾɡˈɑɾ#) :
+#ˌɑwkt̪orikˈɑːre# >>> #okt̪ɾɡˈɑɾ# ( GOLD : #ot̪oɾɡˈɑɾ#) :
 ˌɑ w k t̪ o r i k ˈɑː r e 
-#ˌɑkt̪orikˈɑːre# | 16 : w > ∅ / [+back,+syl] __ 
-#ˌɑxt̪orikˈɑːre# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɑxt̪orekˈɑːre# | 43 : [+syl,-long] > [-hi] 
-#ˌɑxt̪orekˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɑjt̪orekˈɑre# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌɑjt̪rkˈɑre# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌejt̪rkˈɑre# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌejt͡ʃrkˈɑre# | 130 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#jˌet͡ʃrkˈɑre# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#jˌet͡ʃrkˈɑr# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#jˌit͡ʃrkˈɑr# | 160 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
-#ˌit͡ʃrkˈɑr# | 162 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-Final form : #ˌit͡ʃrkˈɑr#
+#ˌɑwkt̪oɾikˈɑːɾe# | 1 : r > ɾ / @ __ @
+#ˌɑwkt̪oɾekˈɑːɾe# | 44 : [+syl,-long] > [-hi] 
+#ˌɑwkt̪oɾekˈɑɾe# | 45 : [+syl,+long] > [-long,-splng] 
+#ˌɑwkt̪oɾeɡˈɑɾe# | 85 : [-son] > [+voi] / [-cons] __ [+son]
+#ˌɑwkt̪ɾɡˈɑɾe# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌowkt̪ɾɡˈɑɾe# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ˌokt̪ɾɡˈɑɾe# | 128 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+#ˌokt̪ɾɡˈɑɾ# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#okt̪ɾɡˈɑɾ# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #okt̪ɾɡˈɑɾ#

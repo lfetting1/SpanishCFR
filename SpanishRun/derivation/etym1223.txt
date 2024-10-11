@@ -1,16 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1223:
-#ˌɑppˈosit̪um# >>> #ˌɑwwst̪o# ( GOLD : #ɑpwˈest̪o#) :
+#ˌɑppˈosit̪um# >>> #ɑwzd̪o# ( GOLD : #ɑpwˈest̪o#) :
 ˌɑ p p ˈo s i t̪ u m 
-#ˌɑppˈosit̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑppˈɔsit̪u# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑppˈɔset̪o# | 43 : [+syl,-long] > [-hi] 
-#ˌɑppˈɔzet̪o# | 89 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌɑppwezet̪o# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ˌɑppɣʷezet̪o# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑpɣʷezet̪o# | 123 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌɑpɣʷzt̪o# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌɑpxʷzt̪o# | 126 : [-son] > [-voi] / [-voi] __ 
-#ˌɑwxʷzt̪o# | 128 : [+cons,+lab] > w / __ [+back,+cons]
-#ˌɑwwzt̪o# | 163 : [+lab,+cons] > w / __ [-son]
-#ˌɑwwst̪o# | 167 : [+strid] > [-voi] 
-Final form : #ˌɑwwst̪o#
+#ˌɑppˈosit̪u# | 26 : [+nas] > ∅ / [-stres] __ #
+#ˌɑppˈɔsit̪u# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑppˈɔset̪o# | 44 : [+syl,-long] > [-hi] 
+#ˌɑppˈɔzed̪o# | 85 : [-son] > [+voi] / [-cons] __ [+son]
+#ˌɑppwezed̪o# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ˌɑppɣʷezed̪o# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌɑpɣʷezed̪o# | 119 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˌɑpɣʷzd̪o# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌɑpxʷzd̪o# | 122 : [-son] > [-voi] / [-voi] __ 
+#ˌɑwxʷzd̪o# | 124 : [+cons,+lab] > w / __ [+back,+cons]
+#ˌɑxʷzd̪o# | 127 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#ˌɑwzd̪o# | 159 : [+lab,+cons] > w / __ [-son]
+#ˌɑwsd̪o# | 163 : [+strid] > [-voi] 
+#ˌɑwzd̪o# | 168 : s > z / [-cons] __ [+cons,+voi]
+#ɑwzd̪o# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑwzd̪o#

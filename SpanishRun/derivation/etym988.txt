@@ -1,17 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :988:
-#wˈerbum# >>> #wʝrβo# ( GOLD : #bˈeɾbo#) :
+#wˈerbum# >>> #wʝɾbo# ( GOLD : #bˈeɾbo#) :
 w ˈe r b u m 
-#ɣʷˈerbum# | 17 : w > ɣʷ / __ [+syl]
-#ɣʷˈerbu# | 25 : [+nas] > ∅ / [-stres] __ #
-#βˈerbu# | 30 : ɣʷ > β 
-#βˈɛrbu# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#βˈɛrbo# | 43 : [+syl,-long] > [-hi] 
-#βˈɛɾbo# | 46 : r > ɾ / __ [+cons]
-#βˈɛrβo# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#vˈɛrvo# | 96 : β > v 
-#vjervo# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#vʝervo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βʝerβo# | 113 : {v;f} > {β;ɸ} 
-#βʝrβo# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#wʝrβo# | 163 : [+lab,+cons] > w / __ [-son]
-Final form : #wʝrβo#
+#wˈeɾbum# | 1 : r > ɾ / @ __ @
+#ɣʷˈeɾbum# | 18 : w > ɣʷ / __ [+syl]
+#ɣʷˈeɾbu# | 26 : [+nas] > ∅ / [-stres] __ #
+#βˈeɾbu# | 31 : ɣʷ > β 
+#βˈɛɾbu# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#βˈɛɾbo# | 44 : [+syl,-long] > [-hi] 
+#vˈɛɾbo# | 92 : β > v 
+#vjeɾbo# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#vʝeɾbo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#βʝeɾbo# | 109 : {v;f} > {β;ɸ} 
+#βʝɾbo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#wʝɾbo# | 159 : [+lab,+cons] > w / __ [-son]
+Final form : #wʝɾbo#

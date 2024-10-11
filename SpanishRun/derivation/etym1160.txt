@@ -1,19 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1160:
-#ˌin̪lˈɑkweɑ# >>> #ˌenljˈewʝɑ# ( GOLD : #en̪lɑθˈɑɾ#) :
+#ˌin̪lˈɑkweɑ# >>> #inljˈewʝɑ# ( GOLD : #en̪lɑθˈɑɾ#) :
 ˌi n̪ l ˈɑ k w e ɑ 
-#ˌinlˈɑkweɑ# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ˌinlˈɑkɣʷeɑ# | 17 : w > ɣʷ / __ [+syl]
-#ˌinlˈɑkβeɑ# | 30 : ɣʷ > β 
-#ˌinlˈɑxβeɑ# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌenlˈɑxβeɑ# | 43 : [+syl,-long] > [-hi] 
-#ˌenlˈɑxβejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˌenlˈɑxβijɑ# | 53 : e > i / __ j
-#ˌenlˈɑxvijɑ# | 96 : β > v 
-#ˌenlˈɑjvijɑ# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌenlˈɑjviʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌenlˈɑjβiʝɑ# | 113 : {v;f} > {β;ɸ} 
-#ˌenlˈɑjβʝɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌenlˈejβʝɑ# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌenljˈeβʝɑ# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ˌenljˈewʝɑ# | 163 : [+lab,+cons] > w / __ [-son]
-Final form : #ˌenljˈewʝɑ#
+#ˌinlˈɑkweɑ# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ˌinlˈɑkɣʷeɑ# | 18 : w > ɣʷ / __ [+syl]
+#ˌinlˈɑkβeɑ# | 31 : ɣʷ > β 
+#ˌinlˈɑxβeɑ# | 32 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌinlˈɑxβjɑ# | 42 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌenlˈɑxβjɑ# | 44 : [+syl,-long] > [-hi] 
+#ˌenlˈɑxvjɑ# | 92 : β > v 
+#ˌenlˈɑjvjɑ# | 93 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˌinlˈɑjvjɑ# | 94 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#ˌinlˈɑjvʝɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌinlˈɑjβʝɑ# | 109 : {v;f} > {β;ɸ} 
+#ˌinlˈejβʝɑ# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ˌinljˈeβʝɑ# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ˌinljˈewʝɑ# | 159 : [+lab,+cons] > w / __ [-son]
+#inljˈewʝɑ# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #inljˈewʝɑ#

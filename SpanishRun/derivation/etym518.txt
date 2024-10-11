@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :518:
-#mˈelior# >>> #mˈelʝr# ( GOLD : #mexˈoɾ#) :
+#mˈelior# >>> #mˈexr# ( GOLD : #mexˈoɾ#) :
 m ˈe l i o r 
-#mˈɛlior# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˈɛleor# | 43 : [+syl,-long] > [-hi] 
-#mˈɛleoɾ# | 47 : r > ɾ / __ #
-#mˈɛlejoɾ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#mˈɛlijoɾ# | 53 : e > i / __ j
-#mˈɛlijor# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#mˈelijor# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#mˈeliʝor# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mˈelʝr# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-Final form : #mˈelʝr#
+#mˈeljor# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#mˈɛljor# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˈɛʎjor# | 57 : [+lat] > ʎ / __ j
+#mˈɛʎor# | 68 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#mˈeʎor# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#mˈed͡ʒor# | 110 : ʎ > d͡ʒ 
+#mˈeʒor# | 111 : d͡ʒ > ʒ 
+#mˈeʒr# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#mˈeʃr# | 163 : [+strid] > [-voi] 
+#mˈexr# | 165 : ʃ > x 
+Final form : #mˈexr#

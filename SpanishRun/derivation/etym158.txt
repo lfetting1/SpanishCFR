@@ -1,23 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :158:
-#fˌebruˈɑːrium# >>> #wçβrɣʷˈɑrxo# ( GOLD : #febɾˈeɾo#) :
+#fˌebruˈɑːrium# >>> #ebɾɣʷˈɑɾxo# ( GOLD : #febɾˈeɾo#) :
 f ˌe b r u ˈɑː r i u m 
-#fˌebruˈɑːriu# | 25 : [+nas] > ∅ / [-stres] __ #
-#fˌebruˈɑːrju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#fˌɛbruˈɑːrju# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#fˌɛbroˈɑːrjo# | 43 : [+syl,-long] > [-hi] 
-#fˌɛbroˈɑrjo# | 44 : [+syl,+long] > [-long,-splng] 
-#fˌɛβroˈɑrjo# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#fˌɛvroˈɑrjo# | 96 : β > v 
-#fˌɛvruˈɑrjo# | 99 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#fjevruˈɑrjo# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#fjevrwˈɑrjo# | 109 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / __ [+syl]
-#fʝevrɣʷˈɑrʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɸʝeβrɣʷˈɑrʝo# | 113 : {v;f} > {β;ɸ} 
-#ɸʝeβrɣʷˈɑrʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
-#ɸʝβrɣʷˈɑrʒo# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ɸçβrɣʷˈɑrʒo# | 126 : [-son] > [-voi] / [-voi] __ 
-#fçβrɣʷˈɑrʒo# | 157 : ɸ > f 
-#wçβrɣʷˈɑrʒo# | 163 : [+lab,+cons] > w / __ [-son]
-#wçβrɣʷˈɑrʃo# | 167 : [+strid] > [-voi] 
-#wçβrɣʷˈɑrxo# | 169 : ʃ > x 
-Final form : #wçβrɣʷˈɑrxo#
+#fˌebɾuˈɑːɾium# | 1 : r > ɾ / @ __ @
+#fˌebɾuˈɑːɾiu# | 26 : [+nas] > ∅ / [-stres] __ #
+#fˌebɾwˈɑːɾju# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#fˌɛbɾwˈɑːɾju# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#fˌɛbɾwˈɑːɾjo# | 44 : [+syl,-long] > [-hi] 
+#fˌɛbɾwˈɑɾjo# | 45 : [+syl,+long] > [-long,-splng] 
+#fˌebɾwˈɑɾjo# | 98 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [-cons,-syl]
+#fˌebɾɣʷˈɑɾʝo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɸˌebɾɣʷˈɑɾʝo# | 109 : {v;f} > {β;ɸ} 
+#ɸˌebɾɣʷˈɑɾʒo# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#hˌebɾɣʷˈɑɾʒo# | 152 : ɸ > h / __ [+syl]
+#ˌebɾɣʷˈɑɾʒo# | 154 : h > ∅ 
+#ˌebɾɣʷˈɑɾʃo# | 163 : [+strid] > [-voi] 
+#ˌebɾɣʷˈɑɾxo# | 165 : ʃ > x 
+#ebɾɣʷˈɑɾxo# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ebɾɣʷˈɑɾxo#

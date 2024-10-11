@@ -1,19 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :2:
-#blˌɑn̪d̪ˈit̪iɑ# >>> #βlˌɑn̪ðˈisçɑ# ( GOLD : #blɑn̪d̪ˈeθɑ#) :
+#blˌɑn̪d̪ˈit̪iɑ# >>> #blɑn̪d̪ˈiθe̯ʝɑ# ( GOLD : #blɑn̪d̪ˈeθɑ#) :
 b l ˌɑ n̪ d̪ ˈi t̪ i ɑ 
-#blˌɑːn̪d̪ˈit̪iɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#blˌɑːn̪d̪ˈet̪eɑ# | 43 : [+syl,-long] > [-hi] 
-#blˌɑn̪d̪ˈet̪eɑ# | 44 : [+syl,+long] > [-long,-splng] 
-#blˌɑn̪d̪ˈet̪ejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#blˌɑn̪d̪ˈet̪ijɑ# | 53 : e > i / __ j
-#βlˌɑn̪ðˈet̪ijɑ# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#vlˌɑn̪ðˈet̪ijɑ# | 96 : β > v 
-#vlˌɑn̪ðˈit̪ijɑ# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#vlˌɑn̪ðˈit̪iʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βlˌɑn̪ðˈit̪iʝɑ# | 113 : {v;f} > {β;ɸ} 
-#βʎˌɑn̪ðˈit̪iʝɑ# | 118 : [+lat] > ʎ / [-son] __ 
-#βlˌɑn̪ðˈit̪iʝɑ# | 124 : ʎ > l / [+cons,+voi] __ 
-#βlˌɑn̪ðˈit̪ʝɑ# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#βlˌɑn̪ðˈit̪çɑ# | 126 : [-son] > [-voi] / [-voi] __ 
-#βlˌɑn̪ðˈisçɑ# | 168 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #βlˌɑn̪ðˈisçɑ#
+#blˌɑːn̪d̪ˈit̪iɑ# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#blˌɑːn̪d̪ˈit̪jɑ# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#blˌɑːn̪d̪ˈet̪jɑ# | 44 : [+syl,-long] > [-hi] 
+#blˌɑn̪d̪ˈet̪jɑ# | 45 : [+syl,+long] > [-long,-splng] 
+#blˌɑn̪d̪ˈet͡ʃjɑ# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#blˌɑn̪d̪ˈet͡ʃe̯jɑ# | 79 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#blˌɑn̪d̪ˈed͡ʒe̯jɑ# | 85 : [-son] > [+voi] / [-cons] __ [+son]
+#blˌɑn̪d̪ˈed͡ze̯jɑ# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#blˌɑn̪d̪ˈid͡ze̯jɑ# | 94 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#blˌɑn̪d̪ˈid͡ze̯ʝɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#bʎˌɑn̪d̪ˈid͡ze̯ʝɑ# | 114 : [+lat] > ʎ / [-son] __ 
+#blˌɑn̪d̪ˈid͡ze̯ʝɑ# | 120 : ʎ > l / [+cons,+voi] __ 
+#blˌɑn̪d̪ˈize̯ʝɑ# | 162 : [+strid,+ant] > [+cont,0delrel] 
+#blˌɑn̪d̪ˈise̯ʝɑ# | 163 : [+strid] > [-voi] 
+#blˌɑn̪d̪ˈiθe̯ʝɑ# | 166 : s > θ / __ [-cons]
+#blɑn̪d̪ˈiθe̯ʝɑ# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #blɑn̪d̪ˈiθe̯ʝɑ#

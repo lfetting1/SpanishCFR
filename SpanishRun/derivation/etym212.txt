@@ -1,14 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :212:
-#hˈɑbeɑm# >>> #ˈeʝɑ# ( GOLD : #ˈɑʝɑ#) :
+#hˈɑbeɑm# >>> #ˈɑwʝɑ# ( GOLD : #ˈɑʝɑ#) :
 h ˈɑ b e ɑ m 
 #ˈɑbeɑm# | 0 : h > ∅ 
-#ˈɑbeɑ# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˈɑbejɑ# | 49 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˈɑbijɑ# | 53 : e > i / __ j
-#ˈɑβijɑ# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˈɑijɑ# | 88 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#ˈɑjjɑ# | 95 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-#ˈɑjʝɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˈejʝɑ# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˈeʝɑ# | 133 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-Final form : #ˈeʝɑ#
+#ˈɑbeɑ# | 26 : [+nas] > ∅ / [-stres] __ #
+#ˈɑbjɑ# | 42 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˈɑbʝɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˈɑwʝɑ# | 159 : [+lab,+cons] > w / __ [-son]
+Final form : #ˈɑwʝɑ#

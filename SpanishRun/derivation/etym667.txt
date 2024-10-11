@@ -1,26 +1,29 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :667:
-#prˌin̪kˈipium# >>> #prˌeθˈipe̯xo# ( GOLD : #pɾin̪θˈipjo#) :
+#prˌin̪kˈipium# >>> #pɾeθˈibe̯xo# ( GOLD : #pɾin̪θˈipjo#) :
 p r ˌi n̪ k ˈi p i u m 
-#prˌiːn̪kˈipium# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#prˌiːŋkˈipium# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#prˌiːŋkˈipiu# | 25 : [+nas] > ∅ / [-stres] __ #
-#prˌiːŋkˈipju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#prˌiːŋkˈepjo# | 43 : [+syl,-long] > [-hi] 
-#prˌiŋkˈepjo# | 44 : [+syl,+long] > [-long,-splng] 
-#prˌiŋkjˈepjo# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#prˌiŋt͡ʃjˈepjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#prˌiŋt͡ʃjˈepe̯jo# | 82 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#prˌiŋt͡sjˈepe̯jo# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#prˌijt͡sjˈepe̯jo# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#prˌijt͡sjˈipe̯jo# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#prˌijt͡sʝˈipe̯ʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#prˌijt͡sʝˈipe̯ʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
-#prˌijt͡sçˈipe̯ʒo# | 126 : [-son] > [-voi] / [-voi] __ 
-#prˌit͡sçˈipe̯ʒo# | 132 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#prˌet͡sçˈipe̯ʒo# | 150 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#prˌet͡sˈipe̯ʒo# | 152 : [-son] > ∅ / [+delrel] __ 
-#prˌesˈipe̯ʒo# | 166 : [+strid,+ant] > [+cont,0delrel] 
-#prˌesˈipe̯ʃo# | 167 : [+strid] > [-voi] 
-#prˌesˈipe̯xo# | 169 : ʃ > x 
-#prˌeθˈipe̯xo# | 170 : s > θ / __ [-cons]
-Final form : #prˌeθˈipe̯xo#
+#pɾˌin̪kˈipium# | 1 : r > ɾ / @ __ @
+#pɾˌiːn̪kˈipium# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#pɾˌiːŋkˈipium# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#pɾˌiːŋkˈipiu# | 26 : [+nas] > ∅ / [-stres] __ #
+#pɾˌiːŋkˈipju# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#pɾˌiːŋkˈepjo# | 44 : [+syl,-long] > [-hi] 
+#pɾˌiŋkˈepjo# | 45 : [+syl,+long] > [-long,-splng] 
+#pɾˌiŋkjˈepjo# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#pɾˌiŋt͡ʃjˈepjo# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#pɾˌiŋt͡ʃjˈepe̯jo# | 79 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#pɾˌiŋt͡ʃjˈebe̯jo# | 85 : [-son] > [+voi] / [-cons] __ [+son]
+#pɾˌiŋt͡sjˈebe̯jo# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#pɾˌijt͡sjˈebe̯jo# | 93 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#pɾˌijt͡sjˈibe̯jo# | 94 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#pɾˌijt͡sʝˈibe̯ʝo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pɾˌijt͡sʝˈibe̯ʒo# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#pɾˌijt͡sçˈibe̯ʒo# | 122 : [-son] > [-voi] / [-voi] __ 
+#pɾˌit͡sçˈibe̯ʒo# | 129 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#pɾˌet͡sçˈibe̯ʒo# | 146 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#pɾˌet͡sˈibe̯ʒo# | 148 : [-son] > ∅ / [+delrel] __ 
+#pɾˌesˈibe̯ʒo# | 162 : [+strid,+ant] > [+cont,0delrel] 
+#pɾˌesˈibe̯ʃo# | 163 : [+strid] > [-voi] 
+#pɾˌesˈibe̯xo# | 165 : ʃ > x 
+#pɾˌeθˈibe̯xo# | 166 : s > θ / __ [-cons]
+#pɾeθˈibe̯xo# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #pɾeθˈibe̯xo#

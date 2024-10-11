@@ -1,16 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1172:
-#ˌoperˈɑːrium# >>> #ˌoprˈɑrxo# ( GOLD : #obɾˈeɾo#) :
+#ˌoperˈɑːrium# >>> #obɾˈɑɾxo# ( GOLD : #obɾˈeɾo#) :
 ˌo p e r ˈɑː r i u m 
-#ˌoperˈɑːriu# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌoperˈɑːrju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#ˌɔperˈɑːrju# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɔperˈɑːrjo# | 43 : [+syl,-long] > [-hi] 
-#ˌɔperˈɑrjo# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɔpirˈɑrjo# | 98 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#ˌopirˈɑrjo# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌopirˈɑrʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌopirˈɑrʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
-#ˌoprˈɑrʒo# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌoprˈɑrʃo# | 167 : [+strid] > [-voi] 
-#ˌoprˈɑrxo# | 169 : ʃ > x 
-Final form : #ˌoprˈɑrxo#
+#ˌopeɾˈɑːɾium# | 1 : r > ɾ / @ __ @
+#ˌopeɾˈɑːɾiu# | 26 : [+nas] > ∅ / [-stres] __ #
+#ˌopeɾˈɑːɾju# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#ˌɔpeɾˈɑːɾju# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɔpeɾˈɑːɾjo# | 44 : [+syl,-long] > [-hi] 
+#ˌɔpeɾˈɑɾjo# | 45 : [+syl,+long] > [-long,-splng] 
+#ˌɔbeɾˈɑɾjo# | 85 : [-son] > [+voi] / [-cons] __ [+son]
+#ˌɔbiɾˈɑɾjo# | 94 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#ˌobiɾˈɑɾjo# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ˌobiɾˈɑɾʝo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌobiɾˈɑɾʒo# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#ˌobɾˈɑɾʒo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌobɾˈɑɾʃo# | 163 : [+strid] > [-voi] 
+#ˌobɾˈɑɾxo# | 165 : ʃ > x 
+#obɾˈɑɾxo# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #obɾˈɑɾxo#

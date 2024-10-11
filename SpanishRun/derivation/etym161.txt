@@ -1,20 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :161:
-#fˌerwˈen̪t̪em# >>> #wçrβˈen̪t̪e# ( GOLD : #iɾbjˈen̪t̪e#) :
+#fˌerwˈen̪t̪em# >>> #wʝɾβˈen̪t̪e# ( GOLD : #iɾbjˈen̪t̪e#) :
 f ˌe r w ˈe n̪ t̪ e m 
-#fˌerwˈeːn̪t̪em# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#fˌerɣʷˈeːn̪t̪em# | 17 : w > ɣʷ / __ [+syl]
-#fˌerɣʷˈeːn̪t̪e# | 25 : [+nas] > ∅ / [-stres] __ #
-#fˌerβˈeːn̪t̪e# | 30 : ɣʷ > β 
-#fˌɛrβˈeːn̪t̪e# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#fˌɛrβˈen̪t̪e# | 44 : [+syl,+long] > [-long,-splng] 
-#fˌɛɾβˈen̪t̪e# | 46 : r > ɾ / __ [+cons]
-#fˌɛrβˈen̪t̪e# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#fˌɛrvˈen̪t̪e# | 96 : β > v 
-#fjervˈen̪t̪e# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#fʝervˈen̪t̪e# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɸʝerβˈen̪t̪e# | 113 : {v;f} > {β;ɸ} 
-#ɸʝrβˈen̪t̪e# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ɸçrβˈen̪t̪e# | 126 : [-son] > [-voi] / [-voi] __ 
-#fçrβˈen̪t̪e# | 157 : ɸ > f 
-#wçrβˈen̪t̪e# | 163 : [+lab,+cons] > w / __ [-son]
-Final form : #wçrβˈen̪t̪e#
+#fˌeɾwˈen̪t̪em# | 1 : r > ɾ / @ __ @
+#fˌeɾwˈeːn̪t̪em# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#fˌeɾɣʷˈeːn̪t̪em# | 18 : w > ɣʷ / __ [+syl]
+#fˌeɾɣʷˈeːn̪t̪e# | 26 : [+nas] > ∅ / [-stres] __ #
+#fˌeɾβˈeːn̪t̪e# | 31 : ɣʷ > β 
+#fˌɛɾβˈeːn̪t̪e# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#fˌɛɾβˈen̪t̪e# | 45 : [+syl,+long] > [-long,-splng] 
+#fˌɛɾvˈen̪t̪e# | 92 : β > v 
+#fjeɾvˈen̪t̪e# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#fʝeɾvˈen̪t̪e# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɸʝeɾβˈen̪t̪e# | 109 : {v;f} > {β;ɸ} 
+#ɸʝɾβˈen̪t̪e# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ɸçɾβˈen̪t̪e# | 122 : [-son] > [-voi] / [-voi] __ 
+#fçɾβˈen̪t̪e# | 153 : ɸ > f 
+#wçɾβˈen̪t̪e# | 159 : [+lab,+cons] > w / __ [-son]
+#wʝɾβˈen̪t̪e# | 170 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
+Final form : #wʝɾβˈen̪t̪e#

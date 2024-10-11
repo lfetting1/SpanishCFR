@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :353:
-#kˌepˈullɑ# >>> #θˌipwˈelɑ# ( GOLD : #θebˈoʝɑ#) :
+#kˌepˈullɑ# >>> #θibwˈelɑ# ( GOLD : #θebˈoʝɑ#) :
 k ˌe p ˈu l l ɑ 
-#kˌɛpˈullɑ# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɛpˈollɑ# | 43 : [+syl,-long] > [-hi] 
-#kjˌɛpˈollɑ# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌɛpˈollɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˌɛpˈojlɑ# | 91 : [+lat] > j / [+back] __ [+cons]
-#t͡sjˌɛpˈojlɑ# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sjˌepˈojlɑ# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#t͡sʝˌepˈojlɑ# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sçˌepˈojlɑ# | 126 : [-son] > [-voi] / [-voi] __ 
-#t͡sçˌepwˈelɑ# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#t͡sçˌipwˈelɑ# | 148 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#t͡sˌipwˈelɑ# | 152 : [-son] > ∅ / [+delrel] __ 
-#sˌipwˈelɑ# | 166 : [+strid,+ant] > [+cont,0delrel] 
-#θˌipwˈelɑ# | 170 : s > θ / __ [-cons]
-Final form : #θˌipwˈelɑ#
+#kˌɛpˈullɑ# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɛpˈollɑ# | 44 : [+syl,-long] > [-hi] 
+#kjˌɛpˈollɑ# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌɛpˈollɑ# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˌɛbˈollɑ# | 85 : [-son] > [+voi] / [-cons] __ [+son]
+#t͡ʃjˌɛbˈojlɑ# | 87 : [+lat] > j / [+back] __ [+cons]
+#t͡sjˌɛbˈojlɑ# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjˌebˈojlɑ# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#t͡sʝˌebˈojlɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sçˌebˈojlɑ# | 122 : [-son] > [-voi] / [-voi] __ 
+#t͡sçˌebwˈelɑ# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#t͡sçˌibwˈelɑ# | 144 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#t͡sˌibwˈelɑ# | 148 : [-son] > ∅ / [+delrel] __ 
+#sˌibwˈelɑ# | 162 : [+strid,+ant] > [+cont,0delrel] 
+#θˌibwˈelɑ# | 166 : s > θ / __ [-cons]
+#θibwˈelɑ# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #θibwˈelɑ#

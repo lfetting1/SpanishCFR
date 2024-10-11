@@ -1,21 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :256:
-#kwˌiet̪ˈɑːre# >>> #kwçt̪ˈɑr# ( GOLD : #ked̪ˈɑɾ#) :
+#kwˌiet̪ˈɑːre# >>> #kwʝd̪ˈɑɾ# ( GOLD : #ked̪ˈɑɾ#) :
 k w ˌi e t̪ ˈɑː r e 
-#kɣʷˌiet̪ˈɑːre# | 17 : w > ɣʷ / __ [+syl]
-#kβˌiet̪ˈɑːre# | 30 : ɣʷ > β 
-#kβiˈet̪ˈɑːre# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#kβiˈɛt̪ˈɑːre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kβeˈɛt̪ˈɑːre# | 43 : [+syl,-long] > [-hi] 
-#kβeˈɛt̪ˈɑre# | 44 : [+syl,+long] > [-long,-splng] 
-#kβˈɛt̪ˈɑre# | 61 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#kvˈɛt̪ˈɑre# | 96 : β > v 
-#kvjet̪ˈɑre# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#kvʝet̪ˈɑre# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kβʝet̪ˈɑre# | 113 : {v;f} > {β;ɸ} 
-#kβʝt̪ˈɑre# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kɸʝt̪ˈɑre# | 126 : [-son] > [-voi] / [-voi] __ 
-#kɸʝt̪ˈɑr# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#kfʝt̪ˈɑr# | 157 : ɸ > f 
-#kwʝt̪ˈɑr# | 163 : [+lab,+cons] > w / __ [-son]
-#kwçt̪ˈɑr# | 174 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
-Final form : #kwçt̪ˈɑr#
+#kwˌiet̪ˈɑːɾe# | 1 : r > ɾ / @ __ @
+#kɣʷˌiet̪ˈɑːɾe# | 18 : w > ɣʷ / __ [+syl]
+#kβˌiet̪ˈɑːɾe# | 31 : ɣʷ > β 
+#kβiˈet̪ˈɑːɾe# | 36 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kβjˈet̪ˈɑːɾe# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#kβjˈɛt̪ˈɑːɾe# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kβjˈɛt̪ˈɑɾe# | 45 : [+syl,+long] > [-long,-splng] 
+#kβjˈɛd̪ˈɑɾe# | 85 : [-son] > [+voi] / [-cons] __ [+son]
+#kvjˈɛd̪ˈɑɾe# | 92 : β > v 
+#kvjjed̪ˈɑɾe# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#kvjʝed̪ˈɑɾe# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kβjʝed̪ˈɑɾe# | 109 : {v;f} > {β;ɸ} 
+#kβjʝd̪ˈɑɾe# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kɸjʝd̪ˈɑɾe# | 122 : [-son] > [-voi] / [-voi] __ 
+#kɸʝd̪ˈɑɾe# | 130 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#kɸʝd̪ˈɑɾ# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#kfʝd̪ˈɑɾ# | 153 : ɸ > f 
+#kwʝd̪ˈɑɾ# | 159 : [+lab,+cons] > w / __ [-son]
+Final form : #kwʝd̪ˈɑɾ#

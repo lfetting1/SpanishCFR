@@ -1,14 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :748:
-#pˌulˈeɡium# >>> #pˌolˈiʝo# ( GOLD : #polˈeo#) :
+#pˌulˈeɡium# >>> #polˈiʝo# ( GOLD : #polˈeo#) :
 p ˌu l ˈe ɡ i u m 
-#pˌulˈeɡiu# | 25 : [+nas] > ∅ / [-stres] __ #
-#pˌulˈeiu# | 38 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#pˌulˈeju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#pˌulˈɛju# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌolˈɛjo# | 43 : [+syl,-long] > [-hi] 
-#pˌolˈejo# | 51 : ˈɛ > ˈe / __ j
-#pˌolˈijo# | 55 : ˈe > ˈi / __ j
-#pˌulˈijo# | 99 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#pˌulˈiʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pˌolˈiʝo# | 150 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-Final form : #pˌolˈiʝo#
+#pˌulˈeɡiu# | 26 : [+nas] > ∅ / [-stres] __ #
+#pˌulˈeiu# | 39 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+#pˌulˈeju# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#pˌulˈɛju# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˌolˈɛjo# | 44 : [+syl,-long] > [-hi] 
+#pˌolˈejo# | 52 : {ɛ;ˈɛ;ˌɛ;e;ˌe;ˈe} > {e;ˈe;ˌe;i;ˌi;ˈi} / __ j
+#pˌolˈijo# | 94 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#pˌulˈijo# | 95 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+#pˌulˈiʝo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#pˌolˈiʝo# | 146 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#polˈiʝo# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #polˈiʝo#

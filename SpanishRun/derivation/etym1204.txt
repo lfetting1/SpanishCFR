@@ -1,17 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1204:
-#ˌɑllˈium# >>> #ˌolxˈo# ( GOLD : #ˈɑxo#) :
+#ˌɑllˈium# >>> #olxˈo# ( GOLD : #ˈɑxo#) :
 ˌɑ l l ˈi u m 
-#ˌɑllˈiu# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑlliˈu# | 35 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌɑlljˈu# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#ˌɑlljˈo# | 43 : [+syl,-long] > [-hi] 
-#ˌɑlʎjˈo# | 60 : [+lat] > ʎ / __ j
-#ˌɑlljˈo# | 64 : ʎ > l / [+cons,+voi] __ 
-#ˌɑwljˈo# | 90 : [+lat] > w / [+lo] __ [+cons]
-#ˌɑwlʝˈo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑwlʒˈo# | 117 : ʝ > ʒ / [-syl] __ [+round]
-#ˌowlʒˈo# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌolʒˈo# | 131 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#ˌolʃˈo# | 167 : [+strid] > [-voi] 
-#ˌolxˈo# | 169 : ʃ > x 
-Final form : #ˌolxˈo#
+#ˌɑllˈiu# | 26 : [+nas] > ∅ / [-stres] __ #
+#ˌɑlliˈu# | 36 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌɑlljˈu# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#ˌɑlljˈo# | 44 : [+syl,-long] > [-hi] 
+#ˌɑlʎjˈo# | 57 : [+lat] > ʎ / __ j
+#ˌɑlljˈo# | 61 : ʎ > l / [+cons,+voi] __ 
+#ˌɑwljˈo# | 86 : [+lat] > w / [+lo] __ [+cons]
+#ˌɑwlʝˈo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌɑwlʒˈo# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#ˌowlʒˈo# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ˌolʒˈo# | 128 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+#ˌolʃˈo# | 163 : [+strid] > [-voi] 
+#ˌolxˈo# | 165 : ʃ > x 
+#olxˈo# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #olxˈo#

@@ -1,12 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :346:
-#kˈɑwt̪ɑrium# >>> #kˈɑt̪ɑrxo# ( GOLD : #kot̪ˈeɾo#) :
+#kˈɑwt̪ɑrium# >>> #kˈod̪ɑɾxo# ( GOLD : #kot̪ˈeɾo#) :
 k ˈɑ w t̪ ɑ r i u m 
-#kˈɑt̪ɑrium# | 16 : w > ∅ / [+back,+syl] __ 
-#kˈɑt̪ɑriu# | 25 : [+nas] > ∅ / [-stres] __ #
-#kˈɑt̪ɑrju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#kˈɑt̪ɑrjo# | 43 : [+syl,-long] > [-hi] 
-#kˈɑt̪ɑrʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kˈɑt̪ɑrʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
-#kˈɑt̪ɑrʃo# | 167 : [+strid] > [-voi] 
-#kˈɑt̪ɑrxo# | 169 : ʃ > x 
-Final form : #kˈɑt̪ɑrxo#
+#kˈɑwt̪ɑɾium# | 1 : r > ɾ / @ __ @
+#kˈɑwt̪ɑɾiu# | 26 : [+nas] > ∅ / [-stres] __ #
+#kˈɑwt̪ɑɾju# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#kˈɑwt̪ɑɾjo# | 44 : [+syl,-long] > [-hi] 
+#kˈɑwd̪ɑɾjo# | 85 : [-son] > [+voi] / [-cons] __ [+son]
+#kˈɑwd̪ɑɾʝo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kˈɑwd̪ɑɾʒo# | 113 : ʝ > ʒ / [-syl] __ [+round]
+#kˈowd̪ɑɾʒo# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#kˈod̪ɑɾʒo# | 128 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+#kˈod̪ɑɾʃo# | 163 : [+strid] > [-voi] 
+#kˈod̪ɑɾxo# | 165 : ʃ > x 
+Final form : #kˈod̪ɑɾxo#
