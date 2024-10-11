@@ -23,10 +23,12 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 [+syl] j > [+syl,+long] ∅ $ monophthongization,(formatting?)
 [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
 [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
-$PRETONIC A: [+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim]
-$PRETONIC B: [+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [βvoi,βcons] __ [-βvoi,+cons,-back] [+prim]
-$POSTTONIC A: [+syl,-prim] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+syl,-prim]
-$POSTTONIC A: [+syl,-prim] > ∅ / [+prim] ([-syl])* [βvoi,βcons] __ [-βvoi,+cons,-back] [+syl,-prim]
+[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] $syncope_early (pretonic; sib __ nonvelar) 
+[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+son,+cons] __ [+cons,-back] [+prim] $syncope_early (pretonic; liq __ nonvel)
+[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [-syl] __ [+son,+cons] [+prim] $syncope_early  (pretonic; C/J __ liq)
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+syl,-prim] $syncope_early (posttonic; sib __ nonvelar)
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+son,+cons] __ [+cons,-back] [+syl,-prim] $syncope_early (posttonic; liq __ nonvel)
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons] [+syl,-prim] $syncope_early (posttonic; C/J __ liq)
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion
 [+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 
 [+cons,-cont] > ∅ / __ # $final stop deletion
