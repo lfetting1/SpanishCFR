@@ -49,11 +49,12 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 [+syl,-long,+stres,-hi,-lo] > [-tense] $ mid lowering
 [+syl,-long] > [-hi] $ hi_lowering
 [+syl,+long] > [-long] $recurrent rule,unlong, shorten long vowels
-r r > r $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
+r > ɾ
+ɾ ɾ > r $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
 $[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] 
-r > ɾ / __ [+cons] $unlong,syllable final trill > tap
-r > ɾ / __ # $unlong,syllable final trill > tap
-ɾ > r / __ r $(above change applied to all consonants so we revert it before r. "r r" for us = "long r" for hartman)
+$r > ɾ / __ [+cons] $unlong,syllable final trill > tap
+$r > ɾ / __ # $unlong,syllable final trill > tap
+$ɾ > r / __ r $(above change applied to all consonants so we revert it before r. "r r" for us = "long r" for hartman)
 ∅ > j / [+syl,-back] __ [+syl,+back] $ "antihiatus"
 ɛ > e / __ j $front raising
 ˈɛ > ˈe / __ j $front raising
@@ -93,7 +94,7 @@ w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify ru
 ∅ > e̯ / [+syl] [-cor,-cons] __ [-syl,+front,-cons] $ glide metathesis
 [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅ $ glide metathesis
 [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons] $ o-raising $(87) 
-[+cons,-cont,+voi] > [+cont] $spirantization $(88) works.
+[+cons,-cont,+voi,-son] > [+cont] $spirantization $(88) works.
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization $(89) !No effect. Possibly related to diff treatment of sibilants. Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑɾe -> koʝetˈɑɾe
 [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround] $ delete bdg (reformulated by KS) - prior should be changed in diaclesp
 [-son] > [+voi] / [-cons] __ [+son] $voicing $(97) good.
@@ -156,8 +157,8 @@ t̪ l > l t̪ $sonorant metathesis. This one may be vacuous (was for Hartmann's 
 ð n̪ > n̪ ð $sonorant metathesis. This one may be vacuous (was for Hartmann's OG set.) 
 [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? TODO check later in second runthrough -- currently bled. 
 $[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happens at the same time. TODO suppressed (CM) @Aug 30, as this appears unnecessary and has bad side effects -- was there a copy-paste here? 
-[+cons,-cont,+voi,-delrel] > [+cont] $spirantization. TODO check later in second runthrough -- currently bled. 
-[+hi,-back,+delrel] > [-strid,-delrel] $spirantization. TODO check later in second runthrough -- currently bled. 
+[+cons,-cont,+voi,-delrel,-son] > [+cont] $spirantization.
+[+hi,-back,+delrel] > [-strid,-delrel] $spirantization.
 [+syl,-lo,-hi] > ∅ / [+syl] {[+ant,+delrel];ɾ;[+cont,-strid,+cor]} __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant". CM @Aug30:  Although his documentation says "delayed-release", the actual behavior of this rule deletes -e after ɾ, ð, l -- as well as dz, ts -- so coronal sonorants, tap ɾ, and alveolar affricates, it seems. Previous form [+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # 
 [-hi,-stres] [+hi,+stres] > [+stres] [-stres] $ restress
 [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl] $raising-by_diphthong
@@ -192,3 +193,5 @@ s > z / [-cons] __ [+cons,+voi] $regressive_voicing -- s aspect.
 ∅ > e / # __ s [+cons] $ prothesis
 $kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w . CM @Aug31 - suppressed. No reason for this.
 ɾ > r / # __ $ initial trill. CM @Aug31 -- weirdly this semes to by accident effect #fr initials in Hartmann's Phono output but I don't think this is intended, nor desired, so let's not put it in. As of present this appears to bled -- reexamine.
+
+{β;ð;ɣ} > {b;d;ɡ} $AUXILIARY - rectify lexicon's representation of bdg
