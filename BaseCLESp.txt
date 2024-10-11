@@ -14,7 +14,7 @@ h > ∅ $ h_deletion
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi] $implosion
 ð > d̪ / l __ $ recurrent rule,stopping
 [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
-w > ∅ / [+back,+syl] __ $ back monophthongization
+w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply on low-back vowel.)
 w > [+cons,-son] / __ [+syl] $ glide fortition,recurrent rule
 j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug 12, made into fricative
 [+ant,-distr,+strid] > [+ant,+distr,+strid] / __ [+ant,+distr] $ recurrent rule,dental_s
@@ -23,6 +23,10 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 [+syl] j > [+syl,+long] ∅ $ monophthongization,(formatting?)
 [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
 [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
+$PRETONIC A: [+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim]
+$PRETONIC B: [+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [βvoi,βcons] __ [-βvoi,+cons,-back] [+prim]
+$POSTTONIC A: [+syl,-prim] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+syl,-prim]
+$POSTTONIC A: [+syl,-prim] > ∅ / [+prim] ([-syl])* [βvoi,βcons] __ [-βvoi,+cons,-back] [+syl,-prim]
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion
 [+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 
 [+cons,-cont] > ∅ / __ # $final stop deletion
@@ -90,7 +94,7 @@ w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify ru
 [+cons,-cont,+voi] > [+cont] $spirantization $(88) works.
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization $(89) !No effect. Possibly related to diff treatment of sibilants. Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑɾe -> koʝetˈɑɾe
 [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround] $ delete bdg (reformulated by KS) - prior should be changed in diaclesp
-[+cont] > [+voi] / [-cons] __ [+son] $voicing $(97) good.
+[-son] > [+voi] / [-cons] __ [+son] $voicing $(97) good.
 [+lat] > w / [+lo] __ [+cons] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good.
 [+lat] > j / [+back] __ [+cons] $ lateral vocalization for molto > mojto type cases. $(99) seems good although there are -ll- being affected which are not in his version?
 {t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disj
