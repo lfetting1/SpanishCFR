@@ -2,13 +2,14 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :510:
 #lˌɑt̪erˈellum# >>> #lɑd̪ɾʝʎo# ( GOLD : #lɑd̪ɾˈiʝo#) :
 l ˌɑ t̪ e r ˈe l l u m 
 #lˌɑt̪eɾˈellum# | 1 : r > ɾ / @ __ @
-#lˌɑt̪eɾˈellu# | 26 : [+nas] > ∅ / [-stres] __ #
-#lˌɑt̪eɾˈɛllu# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#lˌɑt̪eɾˈɛllo# | 44 : [+syl,-long] > [-hi] 
-#lˌɑd̪eɾˈɛllo# | 85 : [-son] > [+voi] / [-cons] __ [+son]
-#lˌɑd̪eɾjello# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#lˌɑd̪eɾʝello# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#lˌɑd̪eɾʝeʎo# | 118 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#lˌɑd̪ɾʝʎo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#lɑd̪ɾʝʎo# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#lˌɑt̪ɾˈellum# | 28 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [-syl] __ [+son,+cons] [+prim]
+#lˌɑt̪ɾˈellu# | 32 : [+nas] > ∅ / [-stres] __ #
+#lˌɑt̪ɾˈɛllu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#lˌɑt̪ɾˈɛllo# | 50 : [+syl,-long] > [-hi] 
+#lˌɑd̪ɾˈɛllo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
+#lˌɑd̪ɾjello# | 106 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#lˌɑd̪ɾʝello# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#lˌɑd̪ɾʝeʎo# | 124 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#lˌɑd̪ɾʝʎo# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#lɑd̪ɾʝʎo# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #lɑd̪ɾʝʎo#

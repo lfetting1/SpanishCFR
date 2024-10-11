@@ -1,10 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :429:
 #kˌɑpˈit̪ulum# >>> #kɑbˈeld̪o# ( GOLD : #kɑbˈild̪o#) :
 k ˌɑ p ˈi t̪ u l u m 
-#kˌɑpˈit̪ulu# | 26 : [+nas] > ∅ / [-stres] __ #
-#kˌɑpˈet̪olo# | 44 : [+syl,-long] > [-hi] 
-#kˌɑbˈed̪olo# | 85 : [-son] > [+voi] / [-cons] __ [+son]
-#kˌɑbˈed̪lo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kˌɑbˈeld̪o# | 133 : d̪ l > l d̪ 
-#kɑbˈeld̪o# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#kˌɑpˈit̪lum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#kˌɑpˈit̪lu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌɑpˈet̪lo# | 50 : [+syl,-long] > [-hi] 
+#kˌɑbˈed̪lo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
+#kˌɑbˈed̪ʎo# | 120 : [+lat] > ʎ / [-son] __ 
+#kˌɑbˈed̪lo# | 126 : ʎ > l / [+cons,+voi] __ 
+#kˌɑbˈeld̪o# | 139 : d̪ l > l d̪ 
+#kɑbˈeld̪o# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #kɑbˈeld̪o#

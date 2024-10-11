@@ -1,20 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1173:
-#ˌorˈiːɡin̪em# >>> #oɾˈizn̪e# ( GOLD : #oɾˈixen̪#) :
+#ˌorˈiːɡin̪em# >>> #oɾˈeɲi# ( GOLD : #oɾˈixen̪#) :
 ˌo r ˈiː ɡ i n̪ e m 
 #ˌoɾˈiːɡin̪em# | 1 : r > ɾ / @ __ @
-#ˌoɾˈiːɡin̪e# | 26 : [+nas] > ∅ / [-stres] __ #
-#ˌɔɾˈiːɡin̪e# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɔɾˈiːɡen̪e# | 44 : [+syl,-long] > [-hi] 
-#ˌɔɾˈiɡen̪e# | 45 : [+syl,+long] > [-long,-splng] 
-#ˌɔɾˈiɡjen̪e# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌɔɾˈid͡ʒjen̪e# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɔɾˈid͡zjen̪e# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌoɾˈid͡zjen̪e# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌoɾˈid͡zʝen̪e# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌoɾˈid͡zʝn̪e# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌoɾˈid͡zn̪e# | 148 : [-son] > ∅ / [+delrel] __ 
-#ˌoɾˈizn̪e# | 162 : [+strid,+ant] > [+cont,0delrel] 
-#ˌoɾˈisn̪e# | 163 : [+strid] > [-voi] 
-#ˌoɾˈizn̪e# | 168 : s > z / [-cons] __ [+cons,+voi]
-#oɾˈizn̪e# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #oɾˈizn̪e#
+#ˌoɾˈiːɡn̪em# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#ˌoɾˈiːɡn̪e# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌoɾˈiːɣn̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌɔɾˈiːɣn̪e# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɔɾˈiɣn̪e# | 51 : [+syl,+long] > [-long,-splng] 
+#ˌɔɾˈijn̪e# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#ˌɔɾˈijɲe# | 60 : [+nas,+cor] > ɲ / j __ 
+#ˌɔɾˈiɲe# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+#ˌoɾˈiɲe# | 103 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ˌoɾˈiɲi# | 105 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+#ˌoɾˈeɲi# | 152 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#oɾˈeɲi# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #oɾˈeɲi#

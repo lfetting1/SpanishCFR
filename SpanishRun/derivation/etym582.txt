@@ -1,10 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :582:
-#mˌin̪imˈɑːre# >>> #men̪mˈɑɾ# ( GOLD : #meɾmˈɑɾ#) :
+#mˌin̪imˈɑːre# >>> #memˈɑɾ# ( GOLD : #meɾmˈɑɾ#) :
 m ˌi n̪ i m ˈɑː r e 
 #mˌin̪imˈɑːɾe# | 1 : r > ɾ / @ __ @
-#mˌen̪emˈɑːɾe# | 44 : [+syl,-long] > [-hi] 
-#mˌen̪emˈɑɾe# | 45 : [+syl,+long] > [-long,-splng] 
-#mˌen̪mˈɑɾe# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#mˌen̪mˈɑɾ# | 141 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#men̪mˈɑɾ# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #men̪mˈɑɾ#
+#mˌin̪mˈɑːɾe# | 27 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+prim]
+#mˌen̪mˈɑːɾe# | 50 : [+syl,-long] > [-hi] 
+#mˌen̪mˈɑɾe# | 51 : [+syl,+long] > [-long,-splng] 
+#mˌemmˈɑɾe# | 66 : [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#mˌemˈɑɾe# | 125 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#mˌemˈɑɾ# | 147 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#memˈɑɾ# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #memˈɑɾ#

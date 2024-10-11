@@ -1,16 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :48:
-#d̪ˈeus# >>> #θˈoθ# ( GOLD : #d̪jˈos#) :
+#d̪ˈeus# >>> #θˈos# ( GOLD : #d̪jˈos#) :
 d̪ ˈe u s 
-#d̪eˈus# | 36 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#d̪jˈus# | 42 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#d̪jˈos# | 44 : [+syl,-long] > [-hi] 
-#d͡ʒjˈos# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d͡zjˈos# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#d͡zʝˈos# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#d͡zʒˈos# | 113 : ʝ > ʒ / [-syl] __ [+round]
-#d͡zˈos# | 148 : [-son] > ∅ / [+delrel] __ 
-#zˈos# | 162 : [+strid,+ant] > [+cont,0delrel] 
-#sˈos# | 163 : [+strid] > [-voi] 
-#θˈos# | 166 : s > θ / __ [-cons]
-#θˈoθ# | 167 : s > θ / __ #
-Final form : #θˈoθ#
+#d̪eˈus# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#d̪jˈus# | 48 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#d̪jˈos# | 50 : [+syl,-long] > [-hi] 
+#d͡ʒjˈos# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d͡zjˈos# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#d͡zʝˈos# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#d͡zʒˈos# | 119 : ʝ > ʒ / [-syl] __ [+round]
+#d͡zˈos# | 154 : [-son] > ∅ / [+delrel] __ 
+#zˈos# | 168 : [+strid,+ant] > [+cont,0delrel] 
+#sˈos# | 170 : [+strid] > [-voi] 
+#θˈos# | 172 : s > θ / __ [-cons]
+Final form : #θˈos#

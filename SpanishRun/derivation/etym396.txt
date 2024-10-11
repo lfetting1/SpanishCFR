@@ -1,12 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :396:
-#kˌoˈɑːɡulum# >>> #kxʷeˈɑɡlo# ( GOLD : #kwˈɑxo#) :
+#kˌoˈɑːɡulum# >>> #koˈɑxo# ( GOLD : #kwˈɑxo#) :
 k ˌo ˈɑː ɡ u l u m 
-#kˌoˈɑːɡulu# | 26 : [+nas] > ∅ / [-stres] __ #
-#kˌɔˈɑːɡulu# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔˈɑːɡolo# | 44 : [+syl,-long] > [-hi] 
-#kˌɔˈɑɡolo# | 45 : [+syl,+long] > [-long,-splng] 
-#kweˈɑɡolo# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#kɣʷeˈɑɡolo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kɣʷeˈɑɡlo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kxʷeˈɑɡlo# | 122 : [-son] > [-voi] / [-voi] __ 
-Final form : #kxʷeˈɑɡlo#
+#kˌoˈɑːɡlum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#kˌoˈɑːɡlu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌoˈɑːɣlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#kˌɔˈɑːɣlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔˈɑːɣlo# | 50 : [+syl,-long] > [-hi] 
+#kˌɔˈɑɣlo# | 51 : [+syl,+long] > [-long,-splng] 
+#kˌɔˈɑjlo# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#kˌɔˈɑjʎo# | 62 : [+lat] > ʎ / j __ 
+#kˌɔˈɑʎo# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+#kˌoˈɑʎo# | 103 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#kˌoˈɑd͡ʒo# | 116 : ʎ > d͡ʒ 
+#kˌoˈɑʒo# | 117 : d͡ʒ > ʒ 
+#kˌoˈɑʃo# | 170 : [+strid] > [-voi] 
+#kˌoˈɑxo# | 171 : ʃ > x 
+#koˈɑxo# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #koˈɑxo#

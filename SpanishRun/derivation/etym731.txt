@@ -1,15 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :731:
-#pˌerˈikulum# >>> #wʝɾˈeɡlo# ( GOLD : #pelˈiɡɾo#) :
+#pˌerˈikulum# >>> #piɾjˈel# ( GOLD : #pelˈiɡɾo#) :
 p ˌe r ˈi k u l u m 
 #pˌeɾˈikulum# | 1 : r > ɾ / @ __ @
-#pˌeɾˈikulu# | 26 : [+nas] > ∅ / [-stres] __ #
-#pˌɛɾˈikulu# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌɛɾˈekolo# | 44 : [+syl,-long] > [-hi] 
-#pˌɛɾˈeɡolo# | 85 : [-son] > [+voi] / [-cons] __ [+son]
-#pjeɾˈeɡolo# | 100 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#pʝeɾˈeɡolo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pʝɾˈeɡlo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pçɾˈeɡlo# | 122 : [-son] > [-voi] / [-voi] __ 
-#wçɾˈeɡlo# | 159 : [+lab,+cons] > w / __ [-son]
-#wʝɾˈeɡlo# | 170 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
-Final form : #wʝɾˈeɡlo#
+#pˌeɾˈiklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#pˌeɾˈiklu# | 32 : [+nas] > ∅ / [-stres] __ #
+#pˌeɾˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#pˌɛɾˈixlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˌɛɾˈexlo# | 50 : [+syl,-long] > [-hi] 
+#pˌɛɾˈeɣlo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
+#pˌɛɾˈejlo# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#pˌeɾˈejlo# | 103 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pˌeɾjˈelo# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#pˌeɾjˈel# | 148 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#pˌiɾjˈel# | 150 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#piɾjˈel# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #piɾjˈel#

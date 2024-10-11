@@ -2,17 +2,17 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :900:
 #sˌen̪t̪ˈen̪t̪iɑm# >>> #θen̪t̪ˈin̪θɑ# ( GOLD : #sen̪t̪ˈen̪θjɑ#) :
 s ˌe n̪ t̪ ˈe n̪ t̪ i ɑ m 
 #sˌeːn̪t̪ˈeːn̪t̪iɑm# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#sˌeːn̪t̪ˈeːn̪t̪iɑ# | 26 : [+nas] > ∅ / [-stres] __ #
-#sˌeːn̪t̪ˈeːn̪t̪jɑ# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#sˌen̪t̪ˈen̪t̪jɑ# | 45 : [+syl,+long] > [-long,-splng] 
-#sˌen̪t̪ˈen̪t͡ʃjɑ# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#sˌen̪t̪ˈen̪t͡sjɑ# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#sˌin̪t̪ˈin̪t͡sjɑ# | 94 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#sˌin̪t̪ˈin̪t͡sʝɑ# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#sˌin̪t̪ˈin̪t͡sçɑ# | 122 : [-son] > [-voi] / [-voi] __ 
-#sˌen̪t̪ˈin̪t͡sçɑ# | 146 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#sˌen̪t̪ˈin̪t͡sɑ# | 148 : [-son] > ∅ / [+delrel] __ 
-#sˌen̪t̪ˈin̪sɑ# | 162 : [+strid,+ant] > [+cont,0delrel] 
-#θˌen̪t̪ˈin̪θɑ# | 166 : s > θ / __ [-cons]
-#θen̪t̪ˈin̪θɑ# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#sˌeːn̪t̪ˈeːn̪t̪iɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#sˌeːn̪t̪ˈeːn̪t̪jɑ# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#sˌen̪t̪ˈen̪t̪jɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#sˌen̪t̪ˈen̪t͡ʃjɑ# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#sˌen̪t̪ˈen̪t͡sjɑ# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#sˌin̪t̪ˈin̪t͡sjɑ# | 100 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#sˌin̪t̪ˈin̪t͡sʝɑ# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#sˌin̪t̪ˈin̪t͡sçɑ# | 128 : [-son] > [-voi] / [-voi] __ 
+#sˌen̪t̪ˈin̪t͡sçɑ# | 152 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#sˌen̪t̪ˈin̪t͡sɑ# | 154 : [-son] > ∅ / [+delrel] __ 
+#sˌen̪t̪ˈin̪sɑ# | 168 : [+strid,+ant] > [+cont,0delrel] 
+#θˌen̪t̪ˈin̪θɑ# | 172 : s > θ / __ [-cons]
+#θen̪t̪ˈin̪θɑ# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #θen̪t̪ˈin̪θɑ#

@@ -1,9 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :406:
-#kˌun̪ˈikulum# >>> #kon̪ˈeɡlo# ( GOLD : #kon̪ˈexo#) :
+#kˌun̪ˈikulum# >>> #kun̪jˈel# ( GOLD : #kon̪ˈexo#) :
 k ˌu n̪ ˈi k u l u m 
-#kˌun̪ˈikulu# | 26 : [+nas] > ∅ / [-stres] __ #
-#kˌon̪ˈekolo# | 44 : [+syl,-long] > [-hi] 
-#kˌon̪ˈeɡolo# | 85 : [-son] > [+voi] / [-cons] __ [+son]
-#kˌon̪ˈeɡlo# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kon̪ˈeɡlo# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kon̪ˈeɡlo#
+#kˌun̪ˈiklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#kˌun̪ˈiklu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌun̪ˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#kˌon̪ˈexlo# | 50 : [+syl,-long] > [-hi] 
+#kˌon̪ˈeɣlo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
+#kˌon̪ˈejlo# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kˌon̪jˈelo# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kˌon̪jˈel# | 148 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#kˌun̪jˈel# | 150 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#kun̪jˈel# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kun̪jˈel#

@@ -2,18 +2,18 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :727:
 #pˌekt̪orˈɑːlem# >>> #pid͡ʒɾˈɑl# ( GOLD : #pet̪ɾˈɑl#) :
 p ˌe k t̪ o r ˈɑː l e m 
 #pˌekt̪oɾˈɑːlem# | 1 : r > ɾ / @ __ @
-#pˌekt̪oɾˈɑːle# | 26 : [+nas] > ∅ / [-stres] __ #
-#pˌext̪oɾˈɑːle# | 32 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˌɛxt̪oɾˈɑːle# | 43 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌɛxt̪oɾˈɑle# | 45 : [+syl,+long] > [-long,-splng] 
-#pˌɛjt̪oɾˈɑle# | 93 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#pˌejt̪oɾˈɑle# | 97 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#pˌejt̪ɾˈɑle# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pˌejt͡ʃɾˈɑle# | 126 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#pjˌet͡ʃɾˈɑle# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#pjˌet͡ʃɾˈɑl# | 142 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#pjˌit͡ʃɾˈɑl# | 156 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
-#pˌit͡ʃɾˈɑl# | 158 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#pˌid͡ʒɾˈɑl# | 170 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
-#pid͡ʒɾˈɑl# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#pˌekt̪ɾˈɑːlem# | 28 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [-syl] __ [+son,+cons] [+prim]
+#pˌekt̪ɾˈɑːle# | 32 : [+nas] > ∅ / [-stres] __ #
+#pˌext̪ɾˈɑːle# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#pˌɛxt̪ɾˈɑːle# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˌɛxt̪ɾˈɑle# | 51 : [+syl,+long] > [-long,-splng] 
+#pˌɛjt̪ɾˈɑle# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#pˌejt̪ɾˈɑle# | 103 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pˌejt͡ʃɾˈɑle# | 132 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#pjˌet͡ʃɾˈɑle# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#pjˌet͡ʃɾˈɑl# | 148 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#pjˌit͡ʃɾˈɑl# | 162 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#pˌit͡ʃɾˈɑl# | 164 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#pˌid͡ʒɾˈɑl# | 176 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
+#pid͡ʒɾˈɑl# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #pid͡ʒɾˈɑl#

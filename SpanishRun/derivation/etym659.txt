@@ -1,20 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :659:
-#plˌɑn̪t̪ˈɑːɡin̪em# >>> #ʎɑn̪t̪ˈɑzn̪e# ( GOLD : #ʝɑn̪t̪ˈen̪#) :
+#plˌɑn̪t̪ˈɑːɡin̪em# >>> #ʎɑn̪t̪ˈɑɲi# ( GOLD : #ʝɑn̪t̪ˈen̪#) :
 p l ˌɑ n̪ t̪ ˈɑː ɡ i n̪ e m 
 #plˌɑːn̪t̪ˈɑːɡin̪em# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#plˌɑːn̪t̪ˈɑːɡin̪e# | 26 : [+nas] > ∅ / [-stres] __ #
-#plˌɑːn̪t̪ˈɑːɡen̪e# | 44 : [+syl,-long] > [-hi] 
-#plˌɑn̪t̪ˈɑɡen̪e# | 45 : [+syl,+long] > [-long,-splng] 
-#plˌɑn̪t̪ˈɑɡjen̪e# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#plˌɑn̪t̪ˈɑd͡ʒjen̪e# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#plˌɑn̪t̪ˈɑd͡zjen̪e# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#plˌɑn̪t̪ˈɑd͡zʝen̪e# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pʎˌɑn̪t̪ˈɑd͡zʝen̪e# | 114 : [+lat] > ʎ / [-son] __ 
-#ʎˌɑn̪t̪ˈɑd͡zʝen̪e# | 115 : [+cons,-voi] > ∅ / # __ [+lat]
-#ʎˌɑn̪t̪ˈɑd͡zʝn̪e# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ʎˌɑn̪t̪ˈɑd͡zn̪e# | 148 : [-son] > ∅ / [+delrel] __ 
-#ʎˌɑn̪t̪ˈɑzn̪e# | 162 : [+strid,+ant] > [+cont,0delrel] 
-#ʎˌɑn̪t̪ˈɑsn̪e# | 163 : [+strid] > [-voi] 
-#ʎˌɑn̪t̪ˈɑzn̪e# | 168 : s > z / [-cons] __ [+cons,+voi]
-#ʎɑn̪t̪ˈɑzn̪e# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ʎɑn̪t̪ˈɑzn̪e#
+#plˌɑːn̪t̪ˈɑːɡn̪em# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#plˌɑːn̪t̪ˈɑːɡn̪e# | 32 : [+nas] > ∅ / [-stres] __ #
+#plˌɑːn̪t̪ˈɑːɣn̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#plˌɑn̪t̪ˈɑɣn̪e# | 51 : [+syl,+long] > [-long,-splng] 
+#plˌɑn̪t̪ˈɑjn̪e# | 59 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#plˌɑn̪t̪ˈɑjɲe# | 60 : [+nas,+cor] > ɲ / j __ 
+#plˌɑn̪t̪ˈɑɲe# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+#plˌɑn̪t̪ˈɑɲi# | 105 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+#pʎˌɑn̪t̪ˈɑɲi# | 120 : [+lat] > ʎ / [-son] __ 
+#ʎˌɑn̪t̪ˈɑɲi# | 121 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʎɑn̪t̪ˈɑɲi# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ʎɑn̪t̪ˈɑɲi#

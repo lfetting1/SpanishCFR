@@ -3,26 +3,26 @@ Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :380:
 k ˌo n̪ k ˈi l i u m 
 #kˌoːn̪kˈilium# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #kˌoːŋkˈilium# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#kˌoːŋkˈiliu# | 26 : [+nas] > ∅ / [-stres] __ #
-#kˌoːŋkˈilju# | 40 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#kˌoːŋkˈeljo# | 44 : [+syl,-long] > [-hi] 
-#kˌoŋkˈeljo# | 45 : [+syl,+long] > [-long,-splng] 
-#kˌoŋkˈeʎjo# | 57 : [+lat] > ʎ / __ j
-#kˌoŋkjˈeʎjo# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#kˌoŋt͡ʃjˈeʎjo# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˌoŋt͡ʃjˈeʎo# | 68 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
-#kˌoŋt͡sjˈeʎo# | 88 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kˌojt͡sjˈeʎo# | 93 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#kˌujt͡sjˈeʎo# | 95 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#kˌujt͡sʝˈeʎo# | 107 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kˌujt͡sʝˈed͡ʒo# | 110 : ʎ > d͡ʒ 
-#kˌujt͡sʝˈeʒo# | 111 : d͡ʒ > ʒ 
-#kˌujt͡sçˈeʒo# | 122 : [-son] > [-voi] / [-voi] __ 
-#kwˌit͡sçˈeʒo# | 138 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#kwˌit͡sˈeʒo# | 148 : [-son] > ∅ / [+delrel] __ 
-#kwˌisˈeʒo# | 162 : [+strid,+ant] > [+cont,0delrel] 
-#kwˌisˈeʃo# | 163 : [+strid] > [-voi] 
-#kwˌisˈexo# | 165 : ʃ > x 
-#kwˌiθˈexo# | 166 : s > θ / __ [-cons]
-#kwiθˈexo# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#kˌoːŋkˈiliu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌoːŋkˈilju# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+#kˌoːŋkˈeljo# | 50 : [+syl,-long] > [-hi] 
+#kˌoŋkˈeljo# | 51 : [+syl,+long] > [-long,-splng] 
+#kˌoŋkˈeʎjo# | 63 : [+lat] > ʎ / __ j
+#kˌoŋkjˈeʎjo# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#kˌoŋt͡ʃjˈeʎjo# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌoŋt͡ʃjˈeʎo# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#kˌoŋt͡sjˈeʎo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌojt͡sjˈeʎo# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kˌujt͡sjˈeʎo# | 101 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+#kˌujt͡sʝˈeʎo# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#kˌujt͡sʝˈed͡ʒo# | 116 : ʎ > d͡ʒ 
+#kˌujt͡sʝˈeʒo# | 117 : d͡ʒ > ʒ 
+#kˌujt͡sçˈeʒo# | 128 : [-son] > [-voi] / [-voi] __ 
+#kwˌit͡sçˈeʒo# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kwˌit͡sˈeʒo# | 154 : [-son] > ∅ / [+delrel] __ 
+#kwˌisˈeʒo# | 168 : [+strid,+ant] > [+cont,0delrel] 
+#kwˌisˈeʃo# | 170 : [+strid] > [-voi] 
+#kwˌisˈexo# | 171 : ʃ > x 
+#kwˌiθˈexo# | 172 : s > θ / __ [-cons]
+#kwiθˈexo# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #kwiθˈexo#

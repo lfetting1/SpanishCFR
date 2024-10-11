@@ -1,11 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :413:
-#kˌɑllˈikulɑ# >>> #kolˈeɡlɑ# ( GOLD : #kɑʝˈexɑ#) :
+#kˌɑllˈikulɑ# >>> #kuljˈelɑ# ( GOLD : #kɑʝˈexɑ#) :
 k ˌɑ l l ˈi k u l ɑ 
-#kˌɑllˈekolɑ# | 44 : [+syl,-long] > [-hi] 
-#kˌɑllˈeɡolɑ# | 85 : [-son] > [+voi] / [-cons] __ [+son]
-#kˌɑwlˈeɡolɑ# | 86 : [+lat] > w / [+lo] __ [+cons]
-#kˌɑwlˈeɡlɑ# | 121 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kˌowlˈeɡlɑ# | 123 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#kˌolˈeɡlɑ# | 128 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#kolˈeɡlɑ# | 173 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kolˈeɡlɑ#
+#kˌɑllˈiklɑ# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#kˌɑllˈixlɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#kˌɑllˈexlɑ# | 50 : [+syl,-long] > [-hi] 
+#kˌɑllˈeɣlɑ# | 91 : [-son] > [+voi] / [-cons] __ [+son]
+#kˌɑwlˈeɣlɑ# | 92 : [+lat] > w / [+lo] __ [+cons]
+#kˌɑwlˈejlɑ# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kˌowlˈejlɑ# | 129 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#kˌolˈejlɑ# | 134 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+#kˌoljˈelɑ# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kˌuljˈelɑ# | 150 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#kuljˈelɑ# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kuljˈelɑ#
