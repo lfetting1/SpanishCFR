@@ -1,10 +1,8 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :623:
-#n̪ˈokt̪e# >>> #n̪wˈet͡ʃe# ( GOLD : #n̪ˈot͡ʃe#) :
-n̪ ˈo k t̪ e 
-#n̪ˈoxt̪e# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#n̪ˈɔxt̪e# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#n̪ˈɔjt̪e# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#n̪ˈojt̪e# | 105 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#n̪ˈojt͡ʃe# | 134 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#n̪wˈet͡ʃe# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-Final form : #n̪wˈet͡ʃe#
+#plˈuːmɑm# >>> #ʎˈumɑ# ( GOLD : #plˈumɑ#) :
+p l ˈuː m ɑ m 
+#plˈuːmɑ# | 31 : [+nas] > ∅ / [-stres] __ #
+#plˈumɑ# | 50 : [+syl,+long] > [-long,-splng] 
+#pʎˈumɑ# | 122 : [+lat] > ʎ / [-son] __ 
+#ʎˈumɑ# | 123 : [+cons,-voi] > ∅ / # __ [+lat]
+Final form : #ʎˈumɑ#

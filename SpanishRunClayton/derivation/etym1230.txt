@@ -1,9 +1,26 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1230:
-#ˌɑrmˈɑːrium# >>> #ˌɑɾmˈɑɾjo# ( GOLD : #ɑɾmˈeɾo#) :
-ˌɑ r m ˈɑː r i u m 
-#ˌɑrmˈɑːriu# | 31 : [+nas] > ∅ / [-stres] __ #
-#ˌɑrmˈɑːrju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#ˌɑrmˈɑːrjo# | 49 : [+syl,-long] > [-hi] 
-#ˌɑrmˈɑrjo# | 50 : [+syl,+long] > [-long,-splng] 
-#ˌɑɾmˈɑɾjo# | 51 : r > ɾ 
-Final form : #ˌɑɾmˈɑɾjo#
+#ˌae̯ɡyptiˈɑːkum# >>> #ˌixwtiˈɑɡo# ( GOLD : #ɑθjˈɑɡo#) :
+ˌa e̯ ɡ y p t i ˈɑː k u m
+#ˌae̯ɡyptiˈɑːku# | 31 : [+nas] > ∅ / [-stres] __ #
+#ˌae̯ɡøpteˈɑːko# | 49 : [+syl,-long] > [-hi] 
+#ˌae̯ɡøpteˈɑko# | 50 : [+syl,+long] > [-long,-splng] 
+#ˌae̯ɡøptejˈɑko# | 53 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#ˌae̯ɡøptijˈɑko# | 57 : e > i / __ j
+#ˌae̯ɡjøptijˈɑko# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌae̯d͡ʒjøptijˈɑko# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌajd͡ʒøptijˈɑko# | 88 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#ˌajʒøptijˈɑko# | 90 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ˌajʒøptijˈɑɡo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
+#ˌajʒyptijˈɑɡo# | 102 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#ˌajʒptijˈɑɡo# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌejʒptijˈɑɡo# | 131 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ˌejʒptiˈɑɡo# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#jˌeʒptiˈɑɡo# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#jˌeʒptiˈɑɣo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#jˌiʒptiˈɑɣo# | 164 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#ˌiʒptiˈɑɣo# | 166 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ˌiʒwtiˈɑɣo# | 167 : [+lab,+cons] > w / __ [-son]
+#ˌiʃwtiˈɑɣo# | 171 : [+strid] > [-voi] 
+#ˌixwtiˈɑɣo# | 173 : ʃ > x 
+#ˌixwtiˈɑɡo# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
+Final form : #ˌixwtiˈɑɡo#

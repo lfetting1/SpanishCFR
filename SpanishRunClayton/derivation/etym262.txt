@@ -1,17 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :262:
-#kˈae̯kum# >>> #θˈie̯ɡo# ( GOLD : #θjˈeɡo#) :
-k ˈa e̯ k u m 
-#kˈae̯ku# | 31 : [+nas] > ∅ / [-stres] __ #
-#kˈae̯ko# | 49 : [+syl,-long] > [-hi] 
-#kjˈae̯ko# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈae̯ko# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˈae̯ɡo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#t͡sjˈae̯ɡo# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sjˈee̯ɡo# | 131 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#t͡sjˈee̯ɣo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#t͡sjˈie̯ɣo# | 164 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
-#t͡sˈie̯ɣo# | 166 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#s̪ˈie̯ɣo# | 170 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#θˈie̯ɣo# | 174 : s̪ > θ / __ [-cons]
-#θˈie̯ɡo# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
-Final form : #θˈie̯ɡo#
+#kˈin̪kt̪um# >>> #θˈid# ( GOLD : #θˈin̪t̪o#) :
+k ˈi n̪ k t̪ u m 
+#kˈiːn̪kt̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˈiːŋkt̪um# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#kˈiːŋt̪um# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#kˈiːŋt̪u# | 31 : [+nas] > ∅ / [-stres] __ #
+#kˈiːŋt̪o# | 49 : [+syl,-long] > [-hi] 
+#kˈiŋt̪o# | 50 : [+syl,+long] > [-long,-splng] 
+#kˈijt̪o# | 60 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#kjˈijt̪o# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈijt̪o# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˈijd̪o# | 93 : [-son] > [+voi] / [-cons] __ [+son]
+#t͡sjˈijd̪o# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjˈid̪o# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#t͡sˈid̪o# | 137 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#t͡sˈiðo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#t͡sˈið# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#s̪ˈið# | 170 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θˈið# | 174 : s̪ > θ / __ [-cons]
+#θˈid# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
+Final form : #θˈid#

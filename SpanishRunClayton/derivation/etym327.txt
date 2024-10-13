@@ -1,8 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :327:
-#kˈɑn̪t̪um# >>> #kˈɑn̪t̪o# ( GOLD : #kˈɑn̪t̪o#) :
-k ˈɑ n̪ t̪ u m 
-#kˈɑːn̪t̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˈɑːn̪t̪u# | 31 : [+nas] > ∅ / [-stres] __ #
-#kˈɑːn̪t̪o# | 49 : [+syl,-long] > [-hi] 
-#kˈɑn̪t̪o# | 50 : [+syl,+long] > [-long,-splng] 
-Final form : #kˈɑn̪t̪o#
+#kˈɑwet̪# >>> #kjˈe# ( GOLD : #kˈɑbe#) :
+k ˈɑ w e t̪ 
+#kˈɑɣʷet̪# | 17 : w > ɣʷ / __ [+syl]
+#kˈɑɣʷe# | 33 : [+cons,-cont] > ∅ / __ #
+#kˈɑβe# | 36 : ɣʷ > β 
+#kˈɑe# | 92 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#kˈɑj# | 99 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#kˈej# | 131 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#kjˈe# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #kjˈe#

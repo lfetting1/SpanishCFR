@@ -1,19 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :980:
-#wˌeksˈiːkɑ# >>> #bjˌexˈiɡɑ# ( GOLD : #bexˈiɡɑ#) :
-w ˌe k s ˈiː k ɑ 
-#ɣʷˌeksˈiːkɑ# | 17 : w > ɣʷ / __ [+syl]
-#βˌeksˈiːkɑ# | 36 : ɣʷ > β 
-#βˌexsˈiːkɑ# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#βˌɛxsˈiːkɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#βˌɛxsˈikɑ# | 50 : [+syl,+long] > [-long,-splng] 
-#βˌɛxsˈiɡɑ# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#vˌɛxsˈiɡɑ# | 100 : β > v 
-#vˌɛjsˈiɡɑ# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#vˌejsˈiɡɑ# | 105 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#βˌejsˈiɡɑ# | 117 : {v;f} > {β;ɸ} 
-#βˌejʃˈiɡɑ# | 134 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#βjˌeʃˈiɡɑ# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#βjˌeʃˈiɣɑ# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#βjˌexˈiɣɑ# | 173 : ʃ > x 
-#bjˌexˈiɡɑ# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
-Final form : #bjˌexˈiɡɑ#
+#wˌermˈikulum# >>> #bjˌeɾmjˈel# ( GOLD : #beɾmˈexo#) :
+w ˌe r m ˈi k u l u m 
+#ɣʷˌermˈikulum# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷˌermˈiklum# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#ɣʷˌermˈiklu# | 31 : [+nas] > ∅ / [-stres] __ #
+#βˌermˈiklu# | 36 : ɣʷ > β 
+#βˌermˈixlu# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#βˌɛrmˈixlu# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#βˌɛrmˈexlo# | 49 : [+syl,-long] > [-hi] 
+#βˌɛɾmˈexlo# | 51 : r > ɾ 
+#βˌɛɾmˈeɣlo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
+#vˌɛɾmˈeɣlo# | 100 : β > v 
+#vˌɛɾmˈejlo# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#vˌɛeɾmˈejlo# | 108 : ∅ > e / [-tense] __ 
+#vjˌeɾmˈejlo# | 109 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#βjˌeɾmˈejlo# | 117 : {v;f} > {β;ɸ} 
+#βjˌeɾmjˈelo# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#βjˌeɾmjˈel# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#bjˌeɾmjˈel# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
+Final form : #bjˌeɾmjˈel#

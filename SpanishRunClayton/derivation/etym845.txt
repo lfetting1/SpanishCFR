@@ -1,14 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :845:
-#sˈed̪eɑt̪# >>> #sjˈeɑ# ( GOLD : #sˈeɑ#) :
-s ˈe d̪ e ɑ t̪ 
-#sˈed̪eɑ# | 33 : [+cons,-cont] > ∅ / __ #
-#sˈɛd̪eɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sˈɛd̪ejɑ# | 53 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#sˈɛd̪ijɑ# | 57 : e > i / __ j
-#sˈɛðijɑ# | 90 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#sˈɛijɑ# | 92 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#sˈeijɑ# | 105 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#sˈejjɑ# | 115 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
-#sˈejɑ# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#sjˈeɑ# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-Final form : #sjˈeɑ#
+#sˈuːkum# >>> #sˈuɡo# ( GOLD : #sˈuɡo#) :
+s ˈuː k u m 
+#sˈuːku# | 31 : [+nas] > ∅ / [-stres] __ #
+#sˈuːko# | 49 : [+syl,-long] > [-hi] 
+#sˈuko# | 50 : [+syl,+long] > [-long,-splng] 
+#sˈuɡo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
+#sˈuɣo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#sˈuɡo# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
+Final form : #sˈuɡo#

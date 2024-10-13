@@ -1,11 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :131:
-#fˈormɑm# >>> #fwˈeɾmɑ# ( GOLD : #fˈoɾmɑ#) :
-f ˈo r m ɑ m 
-#fˈormɑ# | 31 : [+nas] > ∅ / [-stres] __ #
-#fˈɔrmɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#fˈɔɾmɑ# | 51 : r > ɾ 
-#fˈɔeɾmɑ# | 108 : ∅ > e / [-tense] __ 
-#fwˈeɾmɑ# | 109 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ɸwˈeɾmɑ# | 117 : {v;f} > {β;ɸ} 
-#fwˈeɾmɑ# | 161 : ɸ > f 
-Final form : #fwˈeɾmɑ#
+#fˈoːweɑ# >>> #fwie̯jˈɑ# ( GOLD : #oʝɑ#) :
+f ˈoː w e ɑ 
+#fˈoːeɑ# | 16 : w > ∅ / [+round,+syl] __ 
+#foːˈeɑ# | 41 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#foːeˈɑ# | 43 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#foeˈɑ# | 50 : [+syl,+long] > [-long,-splng] 
+#foejˈɑ# | 53 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#foijˈɑ# | 57 : e > i / __ j
+#foie̯jˈɑ# | 87 : ∅ > e̯ / [+syl] [-cor,-cons] __ [-syl,+front,-cons]
+#foje̯jˈɑ# | 99 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#fuje̯jˈɑ# | 103 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+#ɸuje̯jˈɑ# | 117 : {v;f} > {β;ɸ} 
+#ɸwie̯jˈɑ# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#fwie̯jˈɑ# | 161 : ɸ > f 
+Final form : #fwie̯jˈɑ#

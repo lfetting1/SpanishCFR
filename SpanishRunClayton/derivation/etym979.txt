@@ -1,13 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :979:
-#t̪ʰˌeːsˈɑwrum# >>> #t̪ʰˌesˈoɾ# ( GOLD : #t̪esoɾo#) :
-t̪ʰ ˌeː s ˈɑ w r u m 
-#t̪ʰˌeːsˈɑwru# | 31 : [+nas] > ∅ / [-stres] __ #
-#t̪ʰˌeːsˈɑwro# | 49 : [+syl,-long] > [-hi] 
-#t̪ʰˌesˈɑwro# | 50 : [+syl,+long] > [-long,-splng] 
-#t̪ʰˌesˈɑwɾo# | 51 : r > ɾ 
-#t̪ʰˌezˈɑwɾo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#t̪ʰˌezˈowɾo# | 131 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#t̪ʰˌezˈoɾo# | 135 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#t̪ʰˌezˈoɾ# | 149 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#t̪ʰˌesˈoɾ# | 171 : [+strid] > [-voi] 
-Final form : #t̪ʰˌesˈoɾ#
+#wˌerekˈun̪d̪iɑm# >>> #bjˌeɾɡˈon̪diɑ# ( GOLD : #beɾɡwˈen̪θɑ#) :
+w ˌe r e k ˈu n̪ d̪ i ɑ m 
+#wˌerekˈuːn̪d̪iɑm# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ɣʷˌerekˈuːn̪d̪iɑm# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷˌerekˈuːn̪d̪iɑ# | 31 : [+nas] > ∅ / [-stres] __ #
+#βˌerekˈuːn̪d̪iɑ# | 36 : ɣʷ > β 
+#βˌɛrekˈuːn̪d̪iɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#βˌɛrekˈuːn̪d̪eɑ# | 49 : [+syl,-long] > [-hi] 
+#βˌɛrekˈun̪d̪eɑ# | 50 : [+syl,+long] > [-long,-splng] 
+#βˌɛɾekˈun̪d̪eɑ# | 51 : r > ɾ 
+#βˌɛɾekˈun̪d̪ejɑ# | 53 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#βˌɛɾekˈun̪d̪ijɑ# | 57 : e > i / __ j
+#βˌɛɾekˈun̪ðijɑ# | 90 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#βˌɛɾeɡˈun̪ðijɑ# | 93 : [-son] > [+voi] / [-cons] __ [+son]
+#vˌɛɾeɡˈun̪ðijɑ# | 100 : β > v 
+#vˌɛeɾeɡˈun̪ðijɑ# | 108 : ∅ > e / [-tense] __ 
+#vjˌeɾeɡˈun̪ðijɑ# | 109 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#βjˌeɾeɡˈun̪ðijɑ# | 117 : {v;f} > {β;ɸ} 
+#βjˌeɾɡˈun̪ðijɑ# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#βjˌeɾɡˈun̪ðiɑ# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#βjˌeɾɣˈun̪ðiɑ# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#βjˌeɾɣˈon̪ðiɑ# | 154 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#bjˌeɾɡˈon̪diɑ# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
+Final form : #bjˌeɾɡˈon̪diɑ#

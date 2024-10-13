@@ -1,12 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :505:
-#lˌukrˈɑːri# >>> #lwˌeɾˈɑɾ# ( GOLD : #loɡɾˈɑɾ#) :
-l ˌu k r ˈɑː r i 
-#lˌuxrˈɑːri# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#lˌoxrˈɑːre# | 49 : [+syl,-long] > [-hi] 
-#lˌoxrˈɑre# | 50 : [+syl,+long] > [-long,-splng] 
-#lˌoxɾˈɑɾe# | 51 : r > ɾ 
-#lˌoɣɾˈɑɾe# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#lˌojɾˈɑɾe# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#lwˌeɾˈɑɾe# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#lwˌeɾˈɑɾ# | 149 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-Final form : #lwˌeɾˈɑɾ#
+#mˈerulum# >>> #mjˈeɾlo# ( GOLD : #mˈiɾlo#) :
+m ˈe r u l u m 
+#mˈerlum# | 23 : [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas]
+#mˈerlu# | 31 : [+nas] > ∅ / [-stres] __ #
+#mˈɛrlu# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˈɛrlo# | 49 : [+syl,-long] > [-hi] 
+#mˈɛɾlo# | 51 : r > ɾ 
+#mˈɛeɾlo# | 108 : ∅ > e / [-tense] __ 
+#mjˈeɾlo# | 109 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+Final form : #mjˈeɾlo#

@@ -1,14 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1155:
-#ˌin̪d̪ˈikulɑ# >>> #ˌin̪djˈelɑ# ( GOLD : #en̪d̪ˈexɑ#) :
-ˌi n̪ d̪ ˈi k u l ɑ 
-#ˌiːn̪d̪ˈikulɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌiːn̪d̪ˈiklɑ# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#ˌiːn̪d̪ˈixlɑ# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌiːn̪d̪ˈexlɑ# | 49 : [+syl,-long] > [-hi] 
-#ˌin̪d̪ˈexlɑ# | 50 : [+syl,+long] > [-long,-splng] 
-#ˌin̪ðˈexlɑ# | 90 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ˌin̪ðˈeɣlɑ# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#ˌin̪ðˈejlɑ# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌin̪ðjˈelɑ# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ˌin̪djˈelɑ# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
-Final form : #ˌin̪djˈelɑ#
+#ˌɑffˌikt̪iˈoːn̪em# >>> #ˌɑˌet͡ʃiˈon̪# ( GOLD : #ɑfiθjˈon̪#) :
+ˌɑ f f ˌi k t̪ i ˈoː n̪ e m 
+#ˌɑffˌikt̪iˈoːn̪e# | 31 : [+nas] > ∅ / [-stres] __ #
+#ˌɑffˌixt̪iˈoːn̪e# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌɑffˌext̪eˈoːn̪e# | 49 : [+syl,-long] > [-hi] 
+#ˌɑffˌext̪eˈon̪e# | 50 : [+syl,+long] > [-long,-splng] 
+#ˌɑffˌext̪ejˈon̪e# | 53 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#ˌɑffˌext̪ijˈon̪e# | 57 : e > i / __ j
+#ˌɑffˌejt̪ijˈon̪e# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˌɑffˌijt̪ijˈon̪e# | 102 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#ˌɑɸɸˌijt̪ijˈon̪e# | 117 : {v;f} > {β;ɸ} 
+#ˌɑɸˌijt̪ijˈon̪e# | 127 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˌɑɸˌijt͡ʃijˈon̪e# | 134 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ˌɑɸˌit͡ʃiˈon̪e# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ˌɑɸˌit͡ʃiˈon̪# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌɑɸˌet͡ʃiˈon̪# | 154 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#ˌɑhˌet͡ʃiˈon̪# | 160 : ɸ > h / __ [+syl]
+#ˌɑˌet͡ʃiˈon̪# | 162 : h > ∅ 
+Final form : #ˌɑˌet͡ʃiˈon̪#

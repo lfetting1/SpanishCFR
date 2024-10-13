@@ -1,11 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :465:
-#lˈukt̪ɑm# >>> #lwˈit͡ʃɑ# ( GOLD : #lˈut͡ʃɑ#) :
-l ˈu k t̪ ɑ m 
-#lˈukt̪ɑ# | 31 : [+nas] > ∅ / [-stres] __ #
-#lˈuxt̪ɑ# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#lˈoxt̪ɑ# | 49 : [+syl,-long] > [-hi] 
-#lˈojt̪ɑ# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#lˈujt̪ɑ# | 104 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-#lˈujt͡ʃɑ# | 134 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#lwˈit͡ʃɑ# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-Final form : #lwˈit͡ʃɑ#
+#lˈɑkweum# >>> #lˈibjo# ( GOLD : #lˈɑθo#) :
+l ˈɑ k w e u m 
+#lˈɑkɣʷeum# | 17 : w > ɣʷ / __ [+syl]
+#lˈɑkɣʷeu# | 31 : [+nas] > ∅ / [-stres] __ #
+#lˈɑkβeu# | 36 : ɣʷ > β 
+#lˈɑxβeu# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#lˈɑxβju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#lˈɑxβjo# | 49 : [+syl,-long] > [-hi] 
+#lˈɑxvjo# | 100 : β > v 
+#lˈɑjvjo# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#lˈɑjβjo# | 117 : {v;f} > {β;ɸ} 
+#lˈejβjo# | 131 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ljˈeβjo# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ljˈiβjo# | 152 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#lˈiβjo# | 166 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#lˈibjo# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
+Final form : #lˈibjo#

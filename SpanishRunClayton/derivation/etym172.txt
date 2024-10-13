@@ -1,15 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :172:
-#fˌormˈiːkɑm# >>> #ˌoɾmˈiɡɑ# ( GOLD : #oɾmˈiɡɑ#) :
-f ˌo r m ˈiː k ɑ m 
-#fˌormˈiːkɑ# | 31 : [+nas] > ∅ / [-stres] __ #
-#fˌɔrmˈiːkɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#fˌɔrmˈikɑ# | 50 : [+syl,+long] > [-long,-splng] 
-#fˌɔɾmˈikɑ# | 51 : r > ɾ 
-#fˌɔɾmˈiɡɑ# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#fˌoɾmˈiɡɑ# | 105 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ɸˌoɾmˈiɡɑ# | 117 : {v;f} > {β;ɸ} 
-#ɸˌoɾmˈiɣɑ# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#hˌoɾmˈiɣɑ# | 160 : ɸ > h / __ [+syl]
-#ˌoɾmˈiɣɑ# | 162 : h > ∅ 
-#ˌoɾmˈiɡɑ# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
-Final form : #ˌoɾmˈiɡɑ#
+#fˌɑkt̪ˈiːkium# >>> #fjˌet͡ʃˈiθe̯jo# ( GOLD : #et͡ʃˈiθo#) :
+f ˌɑ k t̪ ˈiː k i u m 
+#fˌɑkt̪ˈiːkiu# | 31 : [+nas] > ∅ / [-stres] __ #
+#fˌɑxt̪ˈiːkiu# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#fˌɑxt̪ˈiːkju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#fˌɑxt̪ˈiːkjo# | 49 : [+syl,-long] > [-hi] 
+#fˌɑxt̪ˈikjo# | 50 : [+syl,+long] > [-long,-splng] 
+#fˌɑxt̪ˈit͡ʃjo# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fˌɑxt̪ˈit͡ʃe̯jo# | 86 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
+#fˌɑxt̪ˈid͡ʒe̯jo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
+#fˌɑxt̪ˈid͡ze̯jo# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#fˌɑjt̪ˈid͡ze̯jo# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ɸˌɑjt̪ˈid͡ze̯jo# | 117 : {v;f} > {β;ɸ} 
+#ɸˌejt̪ˈid͡ze̯jo# | 131 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɸˌejt͡ʃˈid͡ze̯jo# | 134 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ɸjˌet͡ʃˈid͡ze̯jo# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#fjˌet͡ʃˈid͡ze̯jo# | 161 : ɸ > f 
+#fjˌet͡ʃˈiz̪e̯jo# | 170 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#fjˌet͡ʃˈis̪e̯jo# | 171 : [+strid] > [-voi] 
+#fjˌet͡ʃˈiθe̯jo# | 174 : s̪ > θ / __ [-cons]
+Final form : #fjˌet͡ʃˈiθe̯jo#

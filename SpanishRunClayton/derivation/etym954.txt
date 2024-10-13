@@ -1,11 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :954:
-#t̪ˈoːt̪um# >>> #t̪ˈod# ( GOLD : #t̪ˈod̪o#) :
-t̪ ˈoː t̪ u m 
-#t̪ˈoːt̪u# | 31 : [+nas] > ∅ / [-stres] __ #
-#t̪ˈoːt̪o# | 49 : [+syl,-long] > [-hi] 
-#t̪ˈot̪o# | 50 : [+syl,+long] > [-long,-splng] 
-#t̪ˈod̪o# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#t̪ˈoðo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#t̪ˈoð# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#t̪ˈod# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
-Final form : #t̪ˈod#
+#wˈet̪ulum# >>> #bjˈeldo# ( GOLD : #bjˈexo#) :
+w ˈe t̪ u l u m 
+#ɣʷˈet̪ulum# | 17 : w > ɣʷ / __ [+syl]
+#ɣʷˈet̪lum# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#ɣʷˈet̪lu# | 31 : [+nas] > ∅ / [-stres] __ #
+#βˈet̪lu# | 36 : ɣʷ > β 
+#βˈɛt̪lu# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#βˈɛt̪lo# | 49 : [+syl,-long] > [-hi] 
+#βˈɛd̪lo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
+#vˈɛd̪lo# | 100 : β > v 
+#vˈɛed̪lo# | 108 : ∅ > e / [-tense] __ 
+#vjˈed̪lo# | 109 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#βjˈed̪lo# | 117 : {v;f} > {β;ɸ} 
+#βjˈed̪ʎo# | 122 : [+lat] > ʎ / [-son] __ 
+#βjˈed̪lo# | 128 : ʎ > l / [+cons,+voi] __ 
+#βjˈeld̪o# | 140 : d̪ l > l d̪ 
+#βjˈelðo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#bjˈeldo# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
+Final form : #bjˈeldo#

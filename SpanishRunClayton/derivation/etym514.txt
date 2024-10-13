@@ -1,10 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :514:
-#lˌɑːt̪rˈɑːre# >>> #lˌɑdɾˈɑɾ# ( GOLD : #lɑd̪ɾˈɑɾ#) :
-l ˌɑː t̪ r ˈɑː r e 
-#lˌɑt̪rˈɑre# | 50 : [+syl,+long] > [-long,-splng] 
-#lˌɑt̪ɾˈɑɾe# | 51 : r > ɾ 
-#lˌɑd̪ɾˈɑɾe# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#lˌɑðɾˈɑɾe# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#lˌɑðɾˈɑɾ# | 149 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#lˌɑdɾˈɑɾ# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
-Final form : #lˌɑdɾˈɑɾ#
+#mˈobilem# >>> #mwˈeble# ( GOLD : #mwˈeble#) :
+m ˈo b i l e m 
+#mˈoblem# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#mˈoble# | 31 : [+nas] > ∅ / [-stres] __ #
+#mˈɔble# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˈɔβle# | 90 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#mˈɔvle# | 100 : β > v 
+#mˈɔevle# | 108 : ∅ > e / [-tense] __ 
+#mwˈevle# | 109 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#mwˈeβle# | 117 : {v;f} > {β;ɸ} 
+#mwˈeβʎe# | 122 : [+lat] > ʎ / [-son] __ 
+#mwˈeβle# | 128 : ʎ > l / [+cons,+voi] __ 
+#mwˈeble# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
+Final form : #mwˈeble#

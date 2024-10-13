@@ -1,14 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :901:
-#sˌen̪ˈɑːt̪um# >>> #sjˌen̪ˈɑd# ( GOLD : #sen̪ˈɑd̪o#) :
-s ˌe n̪ ˈɑː t̪ u m 
-#sˌen̪ˈɑːt̪u# | 31 : [+nas] > ∅ / [-stres] __ #
-#sˌɛn̪ˈɑːt̪u# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sˌɛn̪ˈɑːt̪o# | 49 : [+syl,-long] > [-hi] 
-#sˌɛn̪ˈɑt̪o# | 50 : [+syl,+long] > [-long,-splng] 
-#sˌɛn̪ˈɑd̪o# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#sˌɛen̪ˈɑd̪o# | 108 : ∅ > e / [-tense] __ 
-#sjˌen̪ˈɑd̪o# | 109 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#sjˌen̪ˈɑðo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#sjˌen̪ˈɑð# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#sjˌen̪ˈɑd# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
-Final form : #sjˌen̪ˈɑd#
+#t̪rˈun̪kum# >>> #t̪ɾˈuŋko# ( GOLD : #t̪ɾon̪ko#) :
+t̪ r ˈu n̪ k u m 
+#t̪rˈuːn̪kum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#t̪rˈuːŋkum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#t̪rˈuːŋku# | 31 : [+nas] > ∅ / [-stres] __ #
+#t̪rˈuːŋko# | 49 : [+syl,-long] > [-hi] 
+#t̪rˈuŋko# | 50 : [+syl,+long] > [-long,-splng] 
+#t̪ɾˈuŋko# | 51 : r > ɾ 
+Final form : #t̪ɾˈuŋko#

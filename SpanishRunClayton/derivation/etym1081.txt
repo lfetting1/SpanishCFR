@@ -1,8 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1081:
-#ˈist̪ud̪# >>> #ˈest̪o# ( GOLD : #ˈest̪o#) :
-ˈi s t̪ u d̪ 
-#ˈis̪t̪ud̪# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ˈis̪t̪u# | 33 : [+cons,-cont] > ∅ / __ #
-#ˈes̪t̪o# | 49 : [+syl,-long] > [-hi] 
-#ˈest̪o# | 172 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #ˈest̪o#
+#ˈɑmplum# >>> #ˈɑwt͡ʃo# ( GOLD : #ˈɑn̪t͡ʃo#) :
+ˈɑ m p l u m 
+#ˈɑːmplum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ˈɑːmplu# | 31 : [+nas] > ∅ / [-stres] __ #
+#ˈɑːmplo# | 49 : [+syl,-long] > [-hi] 
+#ˈɑmplo# | 50 : [+syl,+long] > [-long,-splng] 
+#ˈɑmpʎo# | 122 : [+lat] > ʎ / [-son] __ 
+#ˈɑmt͡ʃo# | 124 : [-voi] [+lat] > t͡ʃ
+#ˈɑwt͡ʃo# | 167 : [+lab,+cons] > w / __ [-son]
+Final form : #ˈɑwt͡ʃo#

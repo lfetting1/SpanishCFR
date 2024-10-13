@@ -1,16 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1176:
-#ˌumbˈilikum# >>> #ˌuwbˈelɡo# ( GOLD : #omblˈiɡo#) :
-ˌu m b ˈi l i k u m 
-#ˌuːmbˈilikum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌuːmbˈiliku# | 31 : [+nas] > ∅ / [-stres] __ #
-#ˌuːmbˈeleko# | 49 : [+syl,-long] > [-hi] 
-#ˌumbˈeleko# | 50 : [+syl,+long] > [-long,-splng] 
-#ˌumβˈeleko# | 90 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ˌumβˈeleɡo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#ˌumvˈeleɡo# | 100 : β > v 
-#ˌumβˈeleɡo# | 117 : {v;f} > {β;ɸ} 
-#ˌumβˈelɡo# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌumβˈelɣo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ˌuwβˈelɣo# | 167 : [+lab,+cons] > w / __ [-son]
-#ˌuwbˈelɡo# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
-Final form : #ˌuwbˈelɡo#
+#ˌɑmɑrˈellum# >>> #ˌɑmɑɾˈiʎo# ( GOLD : #ɑmɑɾˈiʝo#) :
+ˌɑ m ɑ r ˈe l l u m 
+#ˌɑmɑrˈellu# | 31 : [+nas] > ∅ / [-stres] __ #
+#ˌɑmɑrˈɛllu# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑmɑrˈɛllo# | 49 : [+syl,-long] > [-hi] 
+#ˌɑmɑɾˈɛllo# | 51 : r > ɾ 
+#ˌɑmɑɾˈɛello# | 108 : ∅ > e / [-tense] __ 
+#ˌɑmɑɾjˈello# | 109 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ˌɑmɑɾjˈeʎo# | 126 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#ˌɑmɑɾjˈiʎo# | 163 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#ˌɑmɑɾˈiʎo# | 166 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+Final form : #ˌɑmɑɾˈiʎo#

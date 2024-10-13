@@ -1,14 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :346:
-#kˈɑwt̪ɑrium# >>> #kˈodɾjo# ( GOLD : #kot̪ˈeɾo#) :
-k ˈɑ w t̪ ɑ r i u m 
-#kˈɑwt̪rium# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#kˈɑwt̪riu# | 31 : [+nas] > ∅ / [-stres] __ #
-#kˈɑwt̪rju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#kˈɑwt̪rjo# | 49 : [+syl,-long] > [-hi] 
-#kˈɑwt̪ɾjo# | 51 : r > ɾ 
-#kˈɑwd̪ɾjo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#kˈowd̪ɾjo# | 131 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#kˈod̪ɾjo# | 135 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#kˈoðɾjo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kˈodɾjo# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
-Final form : #kˈodɾjo#
+#kˌin̪kt̪uːrˈɑːt̪um# >>> #θˌidɾˈɑd# ( GOLD : #θin̪t̪ɾˈɑd̪o#) :
+k ˌi n̪ k t̪ uː r ˈɑː t̪ u m 
+#kˌiːn̪kt̪uːrˈɑːt̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˌiːŋkt̪uːrˈɑːt̪um# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#kˌiːŋt̪uːrˈɑːt̪um# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#kˌiːŋt̪rˈɑːt̪um# | 27 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [-syl] __ [+son,+cons] [+prim]
+#kˌiːŋt̪rˈɑːt̪u# | 31 : [+nas] > ∅ / [-stres] __ #
+#kˌiːŋt̪rˈɑːt̪o# | 49 : [+syl,-long] > [-hi] 
+#kˌiŋt̪rˈɑt̪o# | 50 : [+syl,+long] > [-long,-splng] 
+#kˌiŋt̪ɾˈɑt̪o# | 51 : r > ɾ 
+#kˌijt̪ɾˈɑt̪o# | 60 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#kjˌijt̪ɾˈɑt̪o# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌijt̪ɾˈɑt̪o# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃjˌijd̪ɾˈɑd̪o# | 93 : [-son] > [+voi] / [-cons] __ [+son]
+#t͡sjˌijd̪ɾˈɑd̪o# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjˌid̪ɾˈɑd̪o# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#t͡sˌid̪ɾˈɑd̪o# | 137 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#t͡sˌiðɾˈɑðo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#t͡sˌiðɾˈɑð# | 150 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#s̪ˌiðɾˈɑð# | 170 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θˌiðɾˈɑð# | 174 : s̪ > θ / __ [-cons]
+#θˌidɾˈɑd# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
+Final form : #θˌidɾˈɑd#

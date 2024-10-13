@@ -1,15 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1046:
-#ɡˈemmɑm# >>> #xjˈemɑ# ( GOLD : #ʝˈemɑ#) :
-ɡ ˈe m m ɑ m 
-#ɡˈemmɑ# | 31 : [+nas] > ∅ / [-stres] __ #
-#ɡˈɛmmɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ɡjˈɛmmɑ# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˈɛmmɑ# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ʒjˈɛmmɑ# | 90 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ʒjˈɛemmɑ# | 108 : ∅ > e / [-tense] __ 
-#ʒjjˈemmɑ# | 109 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ʒjjˈemɑ# | 127 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ʒjˈemɑ# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ʃjˈemɑ# | 171 : [+strid] > [-voi] 
-#xjˈemɑ# | 173 : ʃ > x 
-Final form : #xjˈemɑ#
+#ˈiːn̪sulɑm# >>> #ˈizlɑ# ( GOLD : #ˈislɑ#) :
+ˈiː n̪ s u l ɑ m 
+#ˈiːnsulɑm# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ˈiːnslɑm# | 24 : [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas]
+#ˈiːnslɑ# | 31 : [+nas] > ∅ / [-stres] __ #
+#ˈiːslɑ# | 32 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+#ˈislɑ# | 50 : [+syl,+long] > [-long,-splng] 
+#ˈizlɑ# | 93 : [-son] > [+voi] / [-cons] __ [+son]
+#ˈizʎɑ# | 122 : [+lat] > ʎ / [-son] __ 
+#ˈizlɑ# | 128 : ʎ > l / [+cons,+voi] __ 
+#ˈislɑ# | 171 : [+strid] > [-voi] 
+#ˈizlɑ# | 176 : s > z / [-cons] __ [+cons,+voi]
+Final form : #ˈizlɑ#

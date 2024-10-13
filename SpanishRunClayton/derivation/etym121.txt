@@ -1,15 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :121:
-#fˈiːksum# >>> #ˈixo# ( GOLD : #fˈixo#) :
-f ˈiː k s u m 
-#fˈiːksu# | 31 : [+nas] > ∅ / [-stres] __ #
-#fˈiːxsu# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#fˈiːxso# | 49 : [+syl,-long] > [-hi] 
-#fˈixso# | 50 : [+syl,+long] > [-long,-splng] 
-#fˈijso# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ɸˈijso# | 117 : {v;f} > {β;ɸ} 
-#ɸˈijʃo# | 134 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#ɸˈiʃo# | 136 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#hˈiʃo# | 160 : ɸ > h / __ [+syl]
-#ˈiʃo# | 162 : h > ∅ 
+#fˈiːlium# >>> #ˈixo# ( GOLD : #ˈixo#) :
+f ˈiː l i u m 
+#fˈiːliu# | 31 : [+nas] > ∅ / [-stres] __ #
+#fˈiːlju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#fˈiːljo# | 49 : [+syl,-long] > [-hi] 
+#fˈiljo# | 50 : [+syl,+long] > [-long,-splng] 
+#fˈiʎjo# | 64 : [+lat] > ʎ / __ j
+#fˈiʎo# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#ɸˈiʎo# | 117 : {v;f} > {β;ɸ} 
+#ɸˈid͡ʒo# | 118 : ʎ > d͡ʒ 
+#ɸˈiʒo# | 119 : d͡ʒ > ʒ 
+#hˈiʒo# | 160 : ɸ > h / __ [+syl]
+#ˈiʒo# | 162 : h > ∅ 
+#ˈiʃo# | 171 : [+strid] > [-voi] 
 #ˈixo# | 173 : ʃ > x 
 Final form : #ˈixo#

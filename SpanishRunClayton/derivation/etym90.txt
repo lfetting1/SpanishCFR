@@ -1,14 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :90:
-#d̪ˌomˈiːn̪ikum# >>> #dˌomˈin̪ɡo# ( GOLD : #d̪omˈin̪ɡo#) :
-d̪ ˌo m ˈiː n̪ i k u m 
-#d̪ˌomˈiːn̪iku# | 31 : [+nas] > ∅ / [-stres] __ #
-#d̪ˌɔmˈiːn̪iku# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#d̪ˌɔmˈiːn̪eko# | 49 : [+syl,-long] > [-hi] 
-#d̪ˌɔmˈin̪eko# | 50 : [+syl,+long] > [-long,-splng] 
-#ðˌɔmˈin̪eko# | 90 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ðˌɔmˈin̪eɡo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#ðˌomˈin̪eɡo# | 105 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ðˌomˈin̪ɡo# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ðˌomˈin̪ɣo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#dˌomˈin̪ɡo# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
-Final form : #dˌomˈin̪ɡo#
+#d̪ˌubit̪ˈɑːre# >>> #dwˌidˈɑɾ# ( GOLD : #d̪ud̪ˈɑɾ#) :
+d̪ ˌu b i t̪ ˈɑː r e 
+#d̪ˌobet̪ˈɑːre# | 49 : [+syl,-long] > [-hi] 
+#d̪ˌobet̪ˈɑre# | 50 : [+syl,+long] > [-long,-splng] 
+#d̪ˌobet̪ˈɑɾe# | 51 : r > ɾ 
+#ðˌoβet̪ˈɑɾe# | 90 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˌoet̪ˈɑɾe# | 92 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#ðˌoed̪ˈɑɾe# | 93 : [-son] > [+voi] / [-cons] __ [+son]
+#ðˌojd̪ˈɑɾe# | 99 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#ðˌujd̪ˈɑɾe# | 104 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#ðwˌid̪ˈɑɾe# | 145 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ðwˌiðˈɑɾe# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ðwˌiðˈɑɾ# | 149 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#dwˌidˈɑɾ# | 181 : {β;ð;ɣ} > {b;d;ɡ} 
+Final form : #dwˌidˈɑɾ#
