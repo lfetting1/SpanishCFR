@@ -1,3 +1,4 @@
+[+lo] e̯ > [+back,-front] j $fix ae diphthong to what Hartmann treats it as. 
 h > ∅ $ h_deletion
 [+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
 [+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depilatalization
@@ -20,7 +21,7 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 [+ant,-distr,+strid] > [+ant,+distr,+strid] / __ [+ant,+distr] $ recurrent rule,dental_s
 {ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} $ fronting
 [-lo,-hi,-tense,+syl,-prim,+front] > [+tense] $atonic-epsilon, "no unstressed ɛ," Hartman's rule seems to only leave ɛ with primary stress, as his model does not have secondary stress
-[+syl] j > [+syl,+long] ∅ $ monophthongization,(formatting?)
+[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
 [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
 [+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] $syncope_early (pretonic; sib __ nonvelar) 

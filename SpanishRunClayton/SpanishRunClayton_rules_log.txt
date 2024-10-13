@@ -1,3 +1,4 @@
+[+lo] e̯ > [+back,-front] j
 h > ∅ 
 [+lat,+front,+hi] > [+lat,-front,-hi,+cons,0tense] / __ [-cor]
 [+lat,+front,+hi] > [+lat,-front,-hi,+cons,0tense] / __ [-cor]
@@ -20,7 +21,7 @@ j > ʝ / [+syl] __ [+syl]
 [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
 {ɑ e̯;o e̯;ˈɑ e̯;ˈo e̯;ˌɑ e̯;ˌo e̯} > {ɛ j;e j;ˈɛ j;ˈe j;ˌɛ j;ˌe j} 
 [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
-[+syl] j > [+syl,+long,+son,0delrel] ∅
+[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
 [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas]
 [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas]
 [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] [+prim]
