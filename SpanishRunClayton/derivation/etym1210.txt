@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1210:
-#ˌɑst̪ˈellɑ# >>> #ˌɑst̪ˈiʎɑ# ( GOLD : #ɑst̪ˈiʝɑ#) :
+#ˌɑst̪ˈellɑ# >>> #ɑst̪ˈiʎɑ# ( GOLD : #ɑst̪ˈiʝɑ#) :
 ˌɑ s t̪ ˈe l l ɑ 
 #ˌɑs̪t̪ˈellɑ# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
 #ˌɑs̪t̪ˈɛllɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -9,4 +9,5 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1210:
 #ˌɑs̪t̪jˈiʎɑ# | 163 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
 #ˌɑs̪t̪ˈiʎɑ# | 166 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
 #ˌɑst̪ˈiʎɑ# | 172 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #ˌɑst̪ˈiʎɑ#
+#ɑst̪ˈiʎɑ# | 182 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑst̪ˈiʎɑ#
