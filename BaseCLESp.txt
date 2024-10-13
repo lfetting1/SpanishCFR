@@ -84,15 +84,23 @@ e > i / __ j $ front raising
 w > ∅ / [+cons,+back] __ [-lo,+syl,-stres] $[+cons] > [-round] / # __ [-lo,+syl,-stres] $ unround $(76) !No effect.
 w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify rule UNROUND. Will affect /a/ when it shouldn't - symb def differences.
 [+cons,+back,+voi,-cont] > ∅ / # __ [+lat] $ pl>ll early $(77) Fixed.
-∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis $(78-86) !Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
-∅ > o̯ / [+syl] [-voi]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
-∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
-∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
-∅ > o̯ / [+syl] [-voi]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
-∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
-∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons] $ glide metathesis
-∅ > e̯ / [+syl] [-cor,-cons] __ [-syl,+front,-cons] $ glide metathesis
-[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅ $ glide metathesis
+
+$new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has no examples with w yet clearly implied it should effect w with his "G:  ant (*) = back (*+1) «...»". 
+∅ > o̯ / [+syl] __ {[+ant];[-voi];[+cor,+cont]} w {[+back];[+hi]}  $ glide metathesis, beginning stage. Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
+∅ > e̯ / [+syl] __ {[-voi];[+cor,+cont]} j {[+back];[+hi]}
+[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅
+
+$old glide metathesis rules commented out below.
+$∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis $(78-86) !Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
+$∅ > o̯ / [+syl] [-voi]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
+$∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
+$∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
+$∅ > o̯ / [+syl] [-voi]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
+$∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
+$∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons] $ glide metathesis
+$∅ > e̯ / [+syl] [-cor,-cons] __ [-syl,+front,-cons] $ glide metathesis
+$[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅ $ glide metathesis
+
 [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons] $ o-raising $(87) 
 [+cons,-cont,+voi,-son] > [+cont] $spirantization $(88) works.
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization $(89) !No effect. Possibly related to diff treatment of sibilants. Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑɾe -> koʝetˈɑɾe

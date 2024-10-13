@@ -1,14 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :21:
-#bˈɑsium# >>> #bˈɑse̯jo# ( GOLD : #bˈeso#) :
+#bˈɑsium# >>> #bjˈeso# ( GOLD : #bˈeso#) :
 b ˈɑ s i u m 
 #bˈɑsiu# | 31 : [+nas] > ∅ / [-stres] __ #
 #bˈɑsju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #bˈɑsjo# | 49 : [+syl,-long] > [-hi] 
-#bˈɑse̯jo# | 86 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#βˈɑse̯jo# | 90 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#βˈɑze̯jo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#vˈɑze̯jo# | 100 : β > v 
-#βˈɑze̯jo# | 117 : {v;f} > {β;ɸ} 
-#βˈɑse̯jo# | 171 : [+strid] > [-voi] 
-#bˈɑse̯jo# | 181 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #bˈɑse̯jo#
+#bˈɑe̯sjo# | 86 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#bˈɑjso# | 90 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#βˈɑjso# | 92 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#βˈɑjzo# | 95 : [-son] > [+voi] / [-cons] __ [+son]
+#vˈɑjzo# | 102 : β > v 
+#βˈɑjzo# | 119 : {v;f} > {β;ɸ} 
+#βˈejzo# | 133 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#βjˈezo# | 147 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#βjˈeso# | 173 : [+strid] > [-voi] 
+#bjˈeso# | 183 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #bjˈeso#

@@ -1,11 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1087:
-#ˈɑpium# >>> #ˈɑbe̯jo# ( GOLD : #ˈɑpjo#) :
+#ˈɑpium# >>> #jˈebo# ( GOLD : #ˈɑpjo#) :
 ˈɑ p i u m 
 #ˈɑpiu# | 31 : [+nas] > ∅ / [-stres] __ #
 #ˈɑpju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #ˈɑpjo# | 49 : [+syl,-long] > [-hi] 
-#ˈɑpe̯jo# | 86 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#ˈɑbe̯jo# | 93 : [-son] > [+voi] / [-cons] __ [+son]
-#ˈɑβe̯jo# | 146 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ˈɑbe̯jo# | 181 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #ˈɑbe̯jo#
+#ˈɑe̯pjo# | 86 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#ˈɑjpo# | 90 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#ˈɑjbo# | 95 : [-son] > [+voi] / [-cons] __ [+son]
+#ˈejbo# | 133 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#jˈebo# | 147 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#jˈeβo# | 148 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#jˈebo# | 183 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #jˈebo#
