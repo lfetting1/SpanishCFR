@@ -3,10 +3,11 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1124:
 ˌi n̪ t̪ e r ˈɑː n̪ e ɑ 
 #ˌiːn̪t̪erˈɑːn̪eɑ# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ˌiːn̪t̪rˈɑːn̪eɑ# | 28 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [-syl] __ [+son,+cons] [+prim]
-#ˌin̪t̪rˈɑn̪eɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#ˌin̪t̪rˈɑn̪eɑ# | 51 : [+syl] > [-long,-splng] 
 #ˌin̪t̪ɾˈɑn̪eɑ# | 52 : r > ɾ 
 #ˌin̪t̪ɾˈɑn̪ejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #ˌin̪t̪ɾˈɑn̪ijɑ# | 58 : e > i / __ j
-#ˌin̪t̪ɾˈɑn̪iɑ# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#in̪t̪ɾˈɑn̪iɑ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌin̪t̪ɾˈɑn̪iːɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌin̪t̪ɾˈɑn̪iɑ# | 150 : [+syl] > [-long,-splng] 
+#in̪t̪ɾˈɑn̪iɑ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #in̪t̪ɾˈɑn̪iɑ#

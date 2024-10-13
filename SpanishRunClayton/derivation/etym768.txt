@@ -3,14 +3,15 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :768:
 r ˌiː p ˈɑː r i ɑ m 
 #rˌiːpˈɑːriɑ# | 32 : [+nas] > ∅ / [-stres] __ #
 #rˌiːpˈɑːreɑ# | 50 : [+syl,-long] > [-hi] 
-#rˌipˈɑreɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#rˌipˈɑreɑ# | 51 : [+syl] > [-long,-splng] 
 #ɾˌipˈɑɾeɑ# | 52 : r > ɾ 
 #ɾˌipˈɑɾejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #ɾˌipˈɑɾijɑ# | 58 : e > i / __ j
 #ɾˌibˈɑɾijɑ# | 96 : [-son] > [+voi] / [-cons] __ [+son]
-#ɾˌibˈɑɾiɑ# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ɾˌiβˈɑɾiɑ# | 149 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#rˌiβˈɑɾiɑ# | 183 : ɾ > r / # __ 
-#rˌibˈɑɾiɑ# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#ribˈɑɾiɑ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ɾˌibˈɑɾiːɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɾˌibˈɑɾiɑ# | 150 : [+syl] > [-long,-splng] 
+#ɾˌiβˈɑɾiɑ# | 164 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#rˌiβˈɑɾiɑ# | 198 : ɾ > r / # __ 
+#rˌibˈɑɾiɑ# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ribˈɑɾiɑ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ribˈɑɾiɑ#

@@ -3,13 +3,14 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1005:
 ɡ r ˈɑː t̪ i ɑ m 
 #ɡrˈɑːt̪iɑ# | 32 : [+nas] > ∅ / [-stres] __ #
 #ɡrˈɑːt̪eɑ# | 50 : [+syl,-long] > [-hi] 
-#ɡrˈɑt̪eɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#ɡrˈɑt̪eɑ# | 51 : [+syl] > [-long,-splng] 
 #ɡɾˈɑt̪eɑ# | 52 : r > ɾ 
 #ɡɾˈɑt̪ejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #ɡɾˈɑt̪ijɑ# | 58 : e > i / __ j
 #ɣɾˈɑt̪ijɑ# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
 #ɣɾˈɑd̪ijɑ# | 96 : [-son] > [+voi] / [-cons] __ [+son]
-#ɣɾˈɑd̪iɑ# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ɣɾˈɑðiɑ# | 149 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ɡɾˈɑd̪iɑ# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ɣɾˈɑd̪iːɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɣɾˈɑd̪iɑ# | 150 : [+syl] > [-long,-splng] 
+#ɣɾˈɑðiɑ# | 164 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ɡɾˈɑd̪iɑ# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
 Final form : #ɡɾˈɑd̪iɑ#

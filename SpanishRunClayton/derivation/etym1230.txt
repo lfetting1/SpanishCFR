@@ -1,10 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1230:
-#ˌae̯ɡyptiˈɑːkum# >>> #jexøwtiˈɑɡo# ( GOLD : #ɑθjˈɑɡo#) :
+#ˌae̯ɡyptiˈɑːkum# >>> #exøwtiˈɑɡo# ( GOLD : #ɑθjˈɑɡo#) :
 ˌa e̯ ɡ y p t i ˈɑː k u m
 #ˌɑjɡyptiˈɑːkum# | 0 : [+lo] e̯ > [+back,-front] j
 #ˌɑjɡyptiˈɑːku# | 32 : [+nas] > ∅ / [-stres] __ #
 #ˌɑjɡøpteˈɑːko# | 50 : [+syl,-long] > [-hi] 
-#ˌɑjɡøpteˈɑko# | 51 : [+syl,+long] > [-long,-splng] 
+#ˌɑjɡøpteˈɑko# | 51 : [+syl] > [-long,-splng] 
 #ˌɑjɡøptejˈɑko# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #ˌɑjɡøptijˈɑko# | 58 : e > i / __ j
 #ˌɑjɡjøptijˈɑko# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
@@ -13,14 +13,14 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1230:
 #ˌɑjʒjøptijˈɑɡo# | 96 : [-son] > [+voi] / [-cons] __ [+son]
 #ˌɑjʒjyptijˈɑɡo# | 105 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
 #ˌejʒjyptijˈɑɡo# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌejʒjyptiˈɑɡo# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌejʒyptiˈɑɡo# | 140 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#jˌeʒyptiˈɑɡo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#jˌeʒyptiˈɑɣo# | 149 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#jˌeʒøptiˈɑɣo# | 157 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#jˌeʒøwtiˈɑɣo# | 170 : [+lab,+cons] > w / __ [-son]
-#jˌeʃøwtiˈɑɣo# | 174 : [+strid] > [-voi] 
-#jˌexøwtiˈɑɣo# | 176 : ʃ > x 
-#jˌexøwtiˈɑɡo# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#jexøwtiˈɑɡo# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #jexøwtiˈɑɡo#
+#ˌeːʒjyptiːˈɑɡo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌeʒjyptiˈɑɡo# | 150 : [+syl] > [-long,-splng] 
+#ˌeʒyptiˈɑɡo# | 154 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ˌeʒyptiˈɑɣo# | 164 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌeʒøptiˈɑɣo# | 172 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#ˌeʒøwtiˈɑɣo# | 185 : [+lab,+cons] > w / __ [-son]
+#ˌeʃøwtiˈɑɣo# | 189 : [+strid] > [-voi] 
+#ˌexøwtiˈɑɣo# | 191 : ʃ > x 
+#ˌexøwtiˈɑɡo# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#exøwtiˈɑɡo# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #exøwtiˈɑɡo#

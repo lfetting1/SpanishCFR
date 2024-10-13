@@ -6,7 +6,7 @@ f r ˌiː k s ˈe o l u m
 #frˌiːxseˈolu# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
 #frˌiːxseˈɔlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #frˌiːxseˈɔlo# | 50 : [+syl,-long] > [-hi] 
-#frˌixseˈɔlo# | 51 : [+syl,+long] > [-long,-splng] 
+#frˌixseˈɔlo# | 51 : [+syl] > [-long,-splng] 
 #fɾˌixseˈɔlo# | 52 : r > ɾ 
 #fɾˌixsejˈɔlo# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #fɾˌixsijˈɔlo# | 58 : e > i / __ j
@@ -14,11 +14,12 @@ f r ˌiː k s ˈe o l u m
 #fɾˌijsijˈɔelo# | 111 : ∅ > e / [-tense] __ 
 #fɾˌijsijwˈelo# | 112 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
 #ɸɾˌijsijwˈelo# | 120 : {v;f} > {β;ɸ} 
-#ɸɾˌijʃijwˈelo# | 137 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#ɸɾˌiʃiwˈelo# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ɸɾˌiʃjuˈelo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ɸɾˌiʃjuˈel# | 153 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#fɾˌiʃjuˈel# | 164 : ɸ > f 
-#fɾˌixjuˈel# | 176 : ʃ > x 
-#fɾixjuˈel# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ɸɾˌijʃijwˈelo# | 147 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ɸɾˌiːʃiːwˈelo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɸɾˌiʃiwˈelo# | 150 : [+syl] > [-long,-splng] 
+#ɸɾˌiʃjuˈelo# | 163 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ɸɾˌiʃjuˈel# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#fɾˌiʃjuˈel# | 179 : ɸ > f 
+#fɾˌixjuˈel# | 191 : ʃ > x 
+#fɾixjuˈel# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #fɾixjuˈel#

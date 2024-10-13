@@ -5,13 +5,14 @@ l ˌi k s ˈiː w ɑ
 #lˌiksˈiːβɑ# | 37 : ɣʷ > β 
 #lˌixsˈiːβɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #lˌexsˈiːβɑ# | 50 : [+syl,-long] > [-hi] 
-#lˌexsˈiβɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#lˌexsˈiβɑ# | 51 : [+syl] > [-long,-splng] 
 #lˌexsˈiɑ# | 95 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
 #lˌejsˈiɑ# | 104 : [+cons,+back] > j / [+syl] __ [-back,+cons]
 #lˌijsˈiɑ# | 105 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#lˌijʃˈiɑ# | 137 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#lˌiʃˈiɑ# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#lˌeʃˈiɑ# | 157 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#lˌexˈiɑ# | 176 : ʃ > x 
-#lexˈiɑ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#lˌijʃˈiɑ# | 147 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#lˌiːʃˈiɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˌiʃˈiɑ# | 150 : [+syl] > [-long,-splng] 
+#lˌeʃˈiɑ# | 172 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#lˌexˈiɑ# | 191 : ʃ > x 
+#lexˈiɑ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #lexˈiɑ#

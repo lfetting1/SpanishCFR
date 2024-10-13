@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :941:
-#t̪ˌɑksˈoːn̪e# >>> #t̪jexˈon̪# ( GOLD : #t̪exˈon̪#) :
+#t̪ˌɑksˈoːn̪e# >>> #t̪exˈon̪# ( GOLD : #t̪exˈon̪#) :
 t̪ ˌɑ k s ˈoː n̪ e 
 #t̪ˌɑxsˈoːn̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#t̪ˌɑxsˈon̪e# | 51 : [+syl,+long] > [-long,-splng] 
+#t̪ˌɑxsˈon̪e# | 51 : [+syl] > [-long,-splng] 
 #t̪ˌɑjsˈon̪e# | 104 : [+cons,+back] > j / [+syl] __ [-back,+cons]
 #t̪ˌejsˈon̪e# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#t̪ˌejʃˈon̪e# | 137 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#t̪jˌeʃˈon̪e# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#t̪jˌeʃˈon̪# | 153 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#t̪jˌexˈon̪# | 176 : ʃ > x 
-#t̪jexˈon̪# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #t̪jexˈon̪#
+#t̪ˌejʃˈon̪e# | 147 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#t̪ˌeːʃˈon̪e# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#t̪ˌeʃˈon̪e# | 150 : [+syl] > [-long,-splng] 
+#t̪ˌeʃˈon̪# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#t̪ˌexˈon̪# | 191 : ʃ > x 
+#t̪exˈon̪# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #t̪exˈon̪#

@@ -3,16 +3,17 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :574:
 m ˌɑ i oː r ˈiː n̪ u m 
 #mˌɑioːrˈiːn̪u# | 32 : [+nas] > ∅ / [-stres] __ #
 #mˌɑeoːrˈiːn̪o# | 50 : [+syl,-long] > [-hi] 
-#mˌɑeorˈin̪o# | 51 : [+syl,+long] > [-long,-splng] 
+#mˌɑeorˈin̪o# | 51 : [+syl] > [-long,-splng] 
 #mˌɑeoɾˈin̪o# | 52 : r > ɾ 
 #mˌɑejoɾˈin̪o# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #mˌɑijoɾˈin̪o# | 58 : e > i / __ j
 #mˌɑjjoɾˈin̪o# | 102 : [+front,+syl,-stres] > j / [+syl,+back] __ 
 #mˌejjoɾˈin̪o# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#mˌejoɾˈin̪o# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#mjˌeoɾˈin̪o# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#mjˌeoɾˈin̪# | 153 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#mjˌioɾˈin̪# | 167 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
-#mˌioɾˈin̪# | 169 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#mioɾˈin̪# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#mˌeːjoɾˈin̪o# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌejoɾˈin̪o# | 150 : [+syl] > [-long,-splng] 
+#mjˌeoɾˈin̪o# | 163 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#mjˌeoɾˈin̪# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#mjˌioɾˈin̪# | 182 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#mˌioɾˈin̪# | 184 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#mioɾˈin̪# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #mioɾˈin̪#

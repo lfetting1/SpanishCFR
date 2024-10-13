@@ -2,13 +2,14 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :822:
 #sˈeːpiɑ# >>> #sˈebiɑ# ( GOLD : #xˈibjɑ#) :
 s ˈeː p i ɑ 
 #sˈeːpeɑ# | 50 : [+syl,-long] > [-hi] 
-#sˈepeɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#sˈepeɑ# | 51 : [+syl] > [-long,-splng] 
 #sˈepejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #sˈepijɑ# | 58 : e > i / __ j
 #sˈebijɑ# | 96 : [-son] > [+voi] / [-cons] __ [+son]
 #sˈibijɑ# | 105 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#sˈibiɑ# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#sˈiβiɑ# | 149 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#sˈeβiɑ# | 157 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#sˈebiɑ# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#sˈibiːɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#sˈibiɑ# | 150 : [+syl] > [-long,-splng] 
+#sˈiβiɑ# | 164 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#sˈeβiɑ# | 172 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#sˈebiɑ# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
 Final form : #sˈebiɑ#

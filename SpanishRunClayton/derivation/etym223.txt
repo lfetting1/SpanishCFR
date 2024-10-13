@@ -3,13 +3,14 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :223:
 k r ˌe ɑ t̪ i ˈoː n̪ e 
 #kreˈɑt̪iˈoːn̪e# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
 #kreˈɑt̪eˈoːn̪e# | 50 : [+syl,-long] > [-hi] 
-#kreˈɑt̪eˈon̪e# | 51 : [+syl,+long] > [-long,-splng] 
+#kreˈɑt̪eˈon̪e# | 51 : [+syl] > [-long,-splng] 
 #kɾeˈɑt̪eˈon̪e# | 52 : r > ɾ 
 #kɾejˈɑt̪ejˈon̪e# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #kɾijˈɑt̪ijˈon̪e# | 58 : e > i / __ j
 #kɾijˈɑd̪ijˈon̪e# | 96 : [-son] > [+voi] / [-cons] __ [+son]
-#kɾiˈɑd̪iˈon̪e# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#kɾiˈɑðiˈon̪e# | 149 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kɾiˈɑðiˈon̪# | 153 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#kɾiˈɑd̪iˈon̪# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#kɾiːˈɑd̪iːˈon̪e# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kɾiˈɑd̪iˈon̪e# | 150 : [+syl] > [-long,-splng] 
+#kɾiˈɑðiˈon̪e# | 164 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#kɾiˈɑðiˈon̪# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#kɾiˈɑd̪iˈon̪# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
 Final form : #kɾiˈɑd̪iˈon̪#

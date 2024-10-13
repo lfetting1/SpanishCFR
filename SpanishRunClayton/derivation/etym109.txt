@@ -1,7 +1,7 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :109:
-#fˈeːkiː# >>> #fjˈeθi# ( GOLD : #ˈiθe#) :
+#fˈeːkiː# >>> #ˈeθi# ( GOLD : #ˈiθe#) :
 f ˈeː k iː 
-#fˈeki# | 51 : [+syl,+long] > [-long,-splng] 
+#fˈeki# | 51 : [+syl] > [-long,-splng] 
 #fˈekji# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #fˈet͡ʃji# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
 #fˈee̯t͡ʃji# | 88 : ∅ > e̯ / [+syl] __ [-voi] j [+hi]
@@ -9,9 +9,11 @@ f ˈeː k iː
 #fˈejd͡ʒi# | 96 : [-son] > [+voi] / [-cons] __ [+son]
 #fˈejd͡zi# | 99 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
 #ɸˈejd͡zi# | 120 : {v;f} > {β;ɸ} 
-#ɸjˈed͡zi# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#fjˈed͡zi# | 164 : ɸ > f 
-#fjˈez̪i# | 173 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#fjˈes̪i# | 174 : [+strid] > [-voi] 
-#fjˈeθi# | 177 : s̪ > θ / __ [-cons]
-Final form : #fjˈeθi#
+#ɸˈeːd͡zi# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɸˈed͡zi# | 150 : [+syl] > [-long,-splng] 
+#hˈed͡zi# | 178 : ɸ > h / __ [+syl]
+#ˈed͡zi# | 180 : h > ∅ 
+#ˈez̪i# | 188 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˈes̪i# | 189 : [+strid] > [-voi] 
+#ˈeθi# | 192 : s̪ > θ / __ [-cons]
+Final form : #ˈeθi#

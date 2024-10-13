@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :252:
-#kˈae̯spit̪e# >>> #kˈixwt̪e# ( GOLD : #θˈesped̪#) :
+#kˈae̯spit̪e# >>> #kˈexwt̪e# ( GOLD : #θˈesped̪#) :
 k ˈa e̯ s p i t̪ e 
 #kˈɑjspit̪e# | 0 : [+lo] e̯ > [+back,-front] j
 #kˈɑjspet̪e# | 50 : [+syl,-long] > [-hi] 
@@ -7,10 +7,9 @@ k ˈa e̯ s p i t̪ e
 #kˈɑjspd̪e# | 132 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
 #kˈɑjspt̪e# | 133 : [-son] > [-voi] / [-voi] __ 
 #kˈejspt̪e# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#kˈejʃpt̪e# | 137 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#kjˈeʃpt̪e# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#kjˈiʃpt̪e# | 167 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
-#kˈiʃpt̪e# | 169 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#kˈiʃwt̪e# | 170 : [+lab,+cons] > w / __ [-son]
-#kˈixwt̪e# | 176 : ʃ > x 
-Final form : #kˈixwt̪e#
+#kˈejʃpt̪e# | 147 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#kˈeːʃpt̪e# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˈeʃpt̪e# | 150 : [+syl] > [-long,-splng] 
+#kˈeʃwt̪e# | 185 : [+lab,+cons] > w / __ [-son]
+#kˈexwt̪e# | 191 : ʃ > x 
+Final form : #kˈexwt̪e#

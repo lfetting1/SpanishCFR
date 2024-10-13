@@ -4,7 +4,7 @@ s p ˈo n̪ ɡ i ɑ
 #spˈoːn̪ɡiɑ# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #spˈoːŋɡiɑ# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #spˈoːŋɡeɑ# | 50 : [+syl,-long] > [-hi] 
-#spˈoŋɡeɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#spˈoŋɡeɑ# | 51 : [+syl] > [-long,-splng] 
 #spˈoŋɡejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #spˈoŋɡijɑ# | 58 : e > i / __ j
 #spˈoŋɡjijɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
@@ -12,11 +12,12 @@ s p ˈo n̪ ɡ i ɑ
 #spˈoŋʒjijɑ# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
 #spˈojʒjijɑ# | 104 : [+cons,+back] > j / [+syl] __ [-back,+cons]
 #spˈujʒjijɑ# | 106 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#spˈujʒjiɑ# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#spˈujʒiɑ# | 140 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#spwˈiʒiɑ# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#spwˈeʒiɑ# | 157 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#spwˈeʃiɑ# | 174 : [+strid] > [-voi] 
-#spwˈexiɑ# | 176 : ʃ > x 
-#espwˈexiɑ# | 182 : ∅ > e / # __ s [+cons]
+#spˈujʒjiːɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#spˈujʒjiɑ# | 150 : [+syl] > [-long,-splng] 
+#spˈujʒiɑ# | 154 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#spwˈiʒiɑ# | 163 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#spwˈeʒiɑ# | 172 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#spwˈeʃiɑ# | 189 : [+strid] > [-voi] 
+#spwˈexiɑ# | 191 : ʃ > x 
+#espwˈexiɑ# | 197 : ∅ > e / # __ s [+cons]
 Final form : #espwˈexiɑ#

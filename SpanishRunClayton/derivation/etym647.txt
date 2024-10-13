@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :647:
-#pˈekt̪um# >>> #pjˈet͡ʃo# ( GOLD : #pˈet͡ʃo#) :
+#pˈekt̪um# >>> #pˈet͡ʃo# ( GOLD : #pˈet͡ʃo#) :
 p ˈe k t̪ u m 
 #pˈekt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
 #pˈext̪u# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
@@ -7,6 +7,7 @@ p ˈe k t̪ u m
 #pˈɛxt̪o# | 50 : [+syl,-long] > [-hi] 
 #pˈɛjt̪o# | 104 : [+cons,+back] > j / [+syl] __ [-back,+cons]
 #pˈejt̪o# | 108 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#pˈejt͡ʃo# | 137 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#pjˈet͡ʃo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-Final form : #pjˈet͡ʃo#
+#pˈejt͡ʃo# | 147 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#pˈeːt͡ʃo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#pˈet͡ʃo# | 150 : [+syl] > [-long,-splng] 
+Final form : #pˈet͡ʃo#

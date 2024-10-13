@@ -5,13 +5,14 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1106:
 #ˌeskɑrt̪iˈɑːre# | 36 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
 #ˌɛskɑrt̪iˈɑːre# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˌɛskɑrt̪eˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#ˌɛskɑrt̪eˈɑre# | 51 : [+syl,+long] > [-long,-splng] 
+#ˌɛskɑrt̪eˈɑre# | 51 : [+syl] > [-long,-splng] 
 #ˌɛskɑɾt̪eˈɑɾe# | 52 : r > ɾ 
 #ˌɛskɑɾt̪ejˈɑɾe# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #ˌɛskɑɾt̪ijˈɑɾe# | 58 : e > i / __ j
 #ˌɛeskɑɾt̪ijˈɑɾe# | 111 : ∅ > e / [-tense] __ 
 #jˌeskɑɾt̪ijˈɑɾe# | 112 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#jˌeskɑɾt̪iˈɑɾe# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#jˌeskɑɾt̪iˈɑɾ# | 152 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#jeskɑɾt̪iˈɑɾ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#jˌeskɑɾt̪iːˈɑɾe# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#jˌeskɑɾt̪iˈɑɾe# | 150 : [+syl] > [-long,-splng] 
+#jˌeskɑɾt̪iˈɑɾ# | 167 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#jeskɑɾt̪iˈɑɾ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #jeskɑɾt̪iˈɑɾ#

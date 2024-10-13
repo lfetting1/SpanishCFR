@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :152:
-#fˈɑːɡeɑm# >>> #ˈɑxiɑ# ( GOLD : #ˈɑʝɑ#) :
+#fˈɑːɡeɑm# >>> #ˈɑjxiɑ# ( GOLD : #ˈɑʝɑ#) :
 f ˈɑː ɡ e ɑ m 
 #fˈɑːɡeɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#fˈɑɡeɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#fˈɑɡeɑ# | 51 : [+syl] > [-long,-splng] 
 #fˈɑɡejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #fˈɑɡijɑ# | 58 : e > i / __ j
 #fˈɑɡjijɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #fˈɑd͡ʒjijɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
 #fˈɑʒjijɑ# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
 #ɸˈɑʒjijɑ# | 120 : {v;f} > {β;ɸ} 
-#ɸˈɑʒjiɑ# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ɸˈɑʒiɑ# | 140 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#hˈɑʒiɑ# | 163 : ɸ > h / __ [+syl]
-#ˈɑʒiɑ# | 165 : h > ∅ 
-#ˈɑʃiɑ# | 174 : [+strid] > [-voi] 
-#ˈɑxiɑ# | 176 : ʃ > x 
-Final form : #ˈɑxiɑ#
+#ɸˈɑe̯ʒjijɑ# | 145 : ∅ > e̯ / [+syl] __ [+cor,+cont] j [+hi]
+#ɸˈɑjʒijɑ# | 146 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#ɸˈɑjʒiːɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɸˈɑjʒiɑ# | 150 : [+syl] > [-long,-splng] 
+#hˈɑjʒiɑ# | 178 : ɸ > h / __ [+syl]
+#ˈɑjʒiɑ# | 180 : h > ∅ 
+#ˈɑjʃiɑ# | 189 : [+strid] > [-voi] 
+#ˈɑjxiɑ# | 191 : ʃ > x 
+Final form : #ˈɑjxiɑ#

@@ -9,7 +9,7 @@ w ˌi n̪ k ˈi k u l u m
 #βˌiːŋkˈiklu# | 37 : ɣʷ > β 
 #βˌiːŋkˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #βˌiːŋkˈexlo# | 50 : [+syl,-long] > [-hi] 
-#βˌiŋkˈexlo# | 51 : [+syl,+long] > [-long,-splng] 
+#βˌiŋkˈexlo# | 51 : [+syl] > [-long,-splng] 
 #βˌiŋkjˈexlo# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #βˌiŋt͡ʃjˈexlo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
 #βˌiŋt͡ʃjˈeɣlo# | 96 : [-son] > [+voi] / [-cons] __ [+son]
@@ -17,12 +17,11 @@ w ˌi n̪ k ˈi k u l u m
 #vˌiŋt͡sjˈeɣlo# | 103 : β > v 
 #vˌijt͡sjˈejlo# | 104 : [+cons,+back] > j / [+syl] __ [-back,+cons]
 #βˌijt͡sjˈejlo# | 120 : {v;f} > {β;ɸ} 
-#βˌit͡sjˈejlo# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#βˌit͡sjjˈelo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#βˌit͡sjjˈel# | 153 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#βˌit͡sjˈel# | 168 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#βˌis̪jˈel# | 173 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#βˌiθjˈel# | 177 : s̪ > θ / __ [-cons]
-#bˌiθjˈel# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#biθjˈel# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#βˌiːt͡sjˈeːlo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βˌit͡sjˈelo# | 150 : [+syl] > [-long,-splng] 
+#βˌit͡sjˈel# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#βˌis̪jˈel# | 188 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#βˌiθjˈel# | 192 : s̪ > θ / __ [-cons]
+#bˌiθjˈel# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#biθjˈel# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #biθjˈel#

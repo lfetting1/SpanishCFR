@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :28:
-#bˌɑrbˈɑkulɑ# >>> #bɑɾbjˈelɑ# ( GOLD : #bɑɾbˈɑxɑ#) :
+#bˌɑrbˈɑkulɑ# >>> #bɑɾbˈelɑ# ( GOLD : #bɑɾbˈɑxɑ#) :
 b ˌɑ r b ˈɑ k u l ɑ 
 #bˌɑrbˈɑklɑ# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
 #bˌɑrbˈɑxlɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
@@ -10,7 +10,8 @@ b ˌɑ r b ˈɑ k u l ɑ
 #vˌɑɾvˈɑjlɑ# | 104 : [+cons,+back] > j / [+syl] __ [-back,+cons]
 #βˌɑɾβˈɑjlɑ# | 120 : {v;f} > {β;ɸ} 
 #βˌɑɾβˈejlɑ# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#βˌɑɾβjˈelɑ# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#bˌɑɾbjˈelɑ# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#bɑɾbjˈelɑ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bɑɾbjˈelɑ#
+#βˌɑɾβˈeːlɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βˌɑɾβˈelɑ# | 150 : [+syl] > [-long,-splng] 
+#bˌɑɾbˈelɑ# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#bɑɾbˈelɑ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bɑɾbˈelɑ#

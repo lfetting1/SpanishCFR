@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1096:
-#ˈɑwersum# >>> #jˈexo# ( GOLD : #ɑbjˈeso#) :
+#ˈɑwersum# >>> #ˈexo# ( GOLD : #ɑbjˈeso#) :
 ˈɑ w e r s u m 
 #ˈɑɣʷersum# | 18 : w > ɣʷ / __ [+syl]
 #ˈɑɣʷersu# | 32 : [+nas] > ∅ / [-stres] __ #
@@ -10,7 +10,8 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1096:
 #ˈɑjsso# | 102 : [+front,+syl,-stres] > j / [+syl,+back] __ 
 #ˈɑjso# | 130 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
 #ˈejso# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˈejʃo# | 137 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#jˈeʃo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#jˈexo# | 176 : ʃ > x 
-Final form : #jˈexo#
+#ˈejʃo# | 147 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ˈeːʃo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˈeʃo# | 150 : [+syl] > [-long,-splng] 
+#ˈexo# | 191 : ʃ > x 
+Final form : #ˈexo#

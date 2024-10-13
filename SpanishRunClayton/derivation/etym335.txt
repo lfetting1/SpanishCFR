@@ -1,12 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :335:
-#kˌae̯mˈen̪t̪um# >>> #kjemˈen̪t̪o# ( GOLD : #θimjˈen̪t̪o#) :
+#kˌae̯mˈen̪t̪um# >>> #kemˈen̪t̪o# ( GOLD : #θimjˈen̪t̪o#) :
 k ˌa e̯ m ˈe n̪ t̪ u m 
 #kˌɑjmˈen̪t̪um# | 0 : [+lo] e̯ > [+back,-front] j
 #kˌɑjmˈeːn̪t̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #kˌɑjmˈeːn̪t̪u# | 32 : [+nas] > ∅ / [-stres] __ #
 #kˌɑjmˈeːn̪t̪o# | 50 : [+syl,-long] > [-hi] 
-#kˌɑjmˈen̪t̪o# | 51 : [+syl,+long] > [-long,-splng] 
+#kˌɑjmˈen̪t̪o# | 51 : [+syl] > [-long,-splng] 
 #kˌejmˈen̪t̪o# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#kjˌemˈen̪t̪o# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#kjemˈen̪t̪o# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kjemˈen̪t̪o#
+#kˌeːmˈen̪t̪o# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˌemˈen̪t̪o# | 150 : [+syl] > [-long,-splng] 
+#kemˈen̪t̪o# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kemˈen̪t̪o#

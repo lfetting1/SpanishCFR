@@ -12,11 +12,12 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1207:
 #ˌɑst͡sjijˈɔlɑ# | 99 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
 #ˌɑst͡sjijˈɔelɑ# | 111 : ∅ > e / [-tense] __ 
 #ˌɑst͡sjijwˈelɑ# | 112 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ˌɑst͡sjiwˈelɑ# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌɑst͡siwˈelɑ# | 140 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ˌɑst͡sjuˈelɑ# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ˌɑt͡sjuˈelɑ# | 158 : [-son] > ∅ / __ [+delrel]
-#ˌɑs̪juˈelɑ# | 173 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌɑθjuˈelɑ# | 177 : s̪ > θ / __ [-cons]
-#ɑθjuˈelɑ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌɑst͡sjiːwˈelɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌɑst͡sjiwˈelɑ# | 150 : [+syl] > [-long,-splng] 
+#ˌɑst͡siwˈelɑ# | 154 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ˌɑst͡sjuˈelɑ# | 163 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ˌɑt͡sjuˈelɑ# | 173 : [-son] > ∅ / __ [+delrel]
+#ˌɑs̪juˈelɑ# | 188 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌɑθjuˈelɑ# | 192 : s̪ > θ / __ [-cons]
+#ɑθjuˈelɑ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ɑθjuˈelɑ#

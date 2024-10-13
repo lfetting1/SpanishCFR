@@ -7,8 +7,9 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1217:
 #ˌɑwskˈojt̪ɑ# | 98 : [+lat] > j / [+back] __ [+cons]
 #ˌɑwskˈujt̪ɑ# | 107 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
 #ˌowskˈujt̪ɑ# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌowskˈujt͡ʃɑ# | 137 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#ˌoskˈujt͡ʃɑ# | 138 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#ˌoskwˈit͡ʃɑ# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#oskwˈit͡ʃɑ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌowskˈujt͡ʃɑ# | 147 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ˌoːskˈujt͡ʃɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌoskˈujt͡ʃɑ# | 150 : [+syl] > [-long,-splng] 
+#ˌoskwˈit͡ʃɑ# | 163 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#oskwˈit͡ʃɑ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #oskwˈit͡ʃɑ#

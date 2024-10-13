@@ -10,10 +10,11 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1028:
 #ɣˌɑwljˈello# | 112 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
 #ɣˌɑwljˈeʎo# | 129 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
 #ɣˌowljˈeʎo# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ɣˌoljˈeʎo# | 138 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#ɣˌuljˈeʎo# | 155 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#ɣˌuljˈiʎo# | 166 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-#ɣˌulˈiʎo# | 169 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ɡˌulˈiʎo# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#ɡulˈiʎo# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ɣˌoːljˈeʎo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɣˌoljˈeʎo# | 150 : [+syl] > [-long,-splng] 
+#ɣˌuljˈeʎo# | 170 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ɣˌuljˈiʎo# | 181 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#ɣˌulˈiʎo# | 184 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ɡˌulˈiʎo# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ɡulˈiʎo# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ɡulˈiʎo#

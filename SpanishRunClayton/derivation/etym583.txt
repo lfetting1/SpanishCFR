@@ -2,10 +2,11 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :583:
 #mˌɑt̪t̪iˈɑːn̪ɑ# >>> #mɑt̪iˈɑn̪ɑ# ( GOLD : #mɑθˈɑn̪ɑ#) :
 m ˌɑ t̪ t̪ i ˈɑː n̪ ɑ 
 #mˌɑt̪t̪eˈɑːn̪ɑ# | 50 : [+syl,-long] > [-hi] 
-#mˌɑt̪t̪eˈɑn̪ɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#mˌɑt̪t̪eˈɑn̪ɑ# | 51 : [+syl] > [-long,-splng] 
 #mˌɑt̪t̪ejˈɑn̪ɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #mˌɑt̪t̪ijˈɑn̪ɑ# | 58 : e > i / __ j
 #mˌɑt̪ijˈɑn̪ɑ# | 130 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#mˌɑt̪iˈɑn̪ɑ# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#mɑt̪iˈɑn̪ɑ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#mˌɑt̪iːˈɑn̪ɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌɑt̪iˈɑn̪ɑ# | 150 : [+syl] > [-long,-splng] 
+#mɑt̪iˈɑn̪ɑ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #mɑt̪iˈɑn̪ɑ#

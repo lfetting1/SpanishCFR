@@ -1,25 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :856:
-#sˌae̯t̪ˈɑːkeum# >>> #sid̪jˈeθ# ( GOLD : #θed̪ˈɑθo#) :
+#sˌae̯t̪ˈɑːkeum# >>> #sed̪ˈeθ# ( GOLD : #θed̪ˈɑθo#) :
 s ˌa e̯ t̪ ˈɑː k e u m 
 #sˌɑjt̪ˈɑːkeum# | 0 : [+lo] e̯ > [+back,-front] j
 #sˌɑjt̪ˈɑːkeu# | 32 : [+nas] > ∅ / [-stres] __ #
 #sˌɑjt̪ˈɑːkju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #sˌɑjt̪ˈɑːkjo# | 50 : [+syl,-long] > [-hi] 
-#sˌɑjt̪ˈɑkjo# | 51 : [+syl,+long] > [-long,-splng] 
+#sˌɑjt̪ˈɑkjo# | 51 : [+syl] > [-long,-splng] 
 #sˌɑjt̪ˈɑt͡ʃjo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
 #sˌɑjt̪ˈɑe̯t͡ʃjo# | 87 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
 #sˌɑjt̪ˈɑjt͡ʃo# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
 #sˌɑjd̪ˈɑjd͡ʒo# | 96 : [-son] > [+voi] / [-cons] __ [+son]
 #sˌɑjd̪ˈɑjd͡zo# | 99 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
 #sˌejd̪ˈejd͡zo# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#sjˌed̪jˈed͡zo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#sjˌeðjˈed͡zo# | 149 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#sjˌeðjˈed͡z# | 151 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
-#sjˌiðjˈed͡z# | 155 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#sˌiðjˈed͡z# | 169 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#sˌiðjˈez̪# | 173 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#sˌiðjˈes̪# | 174 : [+strid] > [-voi] 
-#sˌiðjˈeθ# | 178 : s̪ > θ / __ #
-#sˌid̪jˈeθ# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#sid̪jˈeθ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #sid̪jˈeθ#
+#sˌeːd̪ˈeːd͡zo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#sˌed̪ˈed͡zo# | 150 : [+syl] > [-long,-splng] 
+#sˌeðˈed͡zo# | 164 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#sˌeðˈed͡z# | 166 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#sˌeðˈez̪# | 188 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#sˌeðˈes̪# | 189 : [+strid] > [-voi] 
+#sˌeðˈeθ# | 193 : s̪ > θ / __ #
+#sˌed̪ˈeθ# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#sed̪ˈeθ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #sed̪ˈeθ#

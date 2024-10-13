@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :980:
-#wˌermˈikulum# >>> #bjeɾmjˈel# ( GOLD : #beɾmˈexo#) :
+#wˌermˈikulum# >>> #bjeɾmˈel# ( GOLD : #beɾmˈexo#) :
 w ˌe r m ˈi k u l u m 
 #ɣʷˌermˈikulum# | 18 : w > ɣʷ / __ [+syl]
 #ɣʷˌermˈiklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
@@ -15,8 +15,9 @@ w ˌe r m ˈi k u l u m
 #vˌɛeɾmˈejlo# | 111 : ∅ > e / [-tense] __ 
 #vjˌeɾmˈejlo# | 112 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
 #βjˌeɾmˈejlo# | 120 : {v;f} > {β;ɸ} 
-#βjˌeɾmjˈelo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#βjˌeɾmjˈel# | 153 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#bjˌeɾmjˈel# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#bjeɾmjˈel# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bjeɾmjˈel#
+#βjˌeɾmˈeːlo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βjˌeɾmˈelo# | 150 : [+syl] > [-long,-splng] 
+#βjˌeɾmˈel# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#bjˌeɾmˈel# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#bjeɾmˈel# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bjeɾmˈel#

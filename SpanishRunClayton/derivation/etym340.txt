@@ -5,7 +5,7 @@ k ˌeː r ˈe o l u m
 #kˌeːreˈolu# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
 #kˌeːreˈɔlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #kˌeːreˈɔlo# | 50 : [+syl,-long] > [-hi] 
-#kˌereˈɔlo# | 51 : [+syl,+long] > [-long,-splng] 
+#kˌereˈɔlo# | 51 : [+syl] > [-long,-splng] 
 #kˌeɾeˈɔlo# | 52 : r > ɾ 
 #kˌeɾejˈɔlo# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #kˌeɾijˈɔlo# | 58 : e > i / __ j
@@ -15,11 +15,12 @@ k ˌeː r ˈe o l u m
 #t͡sjˌiɾijˈɔlo# | 105 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
 #t͡sjˌiɾijˈɔelo# | 111 : ∅ > e / [-tense] __ 
 #t͡sjˌiɾijwˈelo# | 112 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#t͡sjˌiɾiwˈelo# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#t͡sˌiɾiwˈelo# | 140 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#t͡sˌiɾjuˈelo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#t͡sˌiɾjuˈel# | 153 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#s̪ˌiɾjuˈel# | 173 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#θˌiɾjuˈel# | 177 : s̪ > θ / __ [-cons]
-#θiɾjuˈel# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#t͡sjˌiɾiːwˈelo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#t͡sjˌiɾiwˈelo# | 150 : [+syl] > [-long,-splng] 
+#t͡sˌiɾiwˈelo# | 154 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#t͡sˌiɾjuˈelo# | 163 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#t͡sˌiɾjuˈel# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#s̪ˌiɾjuˈel# | 188 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θˌiɾjuˈel# | 192 : s̪ > θ / __ [-cons]
+#θiɾjuˈel# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #θiɾjuˈel#

@@ -1,24 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1101:
-#ˌae̯kwɑlit̪ˈɑːt̪em# >>> #jekot̪ˈɑd̪# ( GOLD : #iɡwɑld̪ˈɑd̪#) :
+#ˌae̯kwɑlit̪ˈɑːt̪em# >>> #ekot̪ˈɑd̪# ( GOLD : #iɡwɑld̪ˈɑd̪#) :
 ˌa e̯ k w ɑ l i t̪ ˈɑː t̪ e m 
 #ˌɑjkwɑlit̪ˈɑːt̪em# | 0 : [+lo] e̯ > [+back,-front] j
 #ˌɑjkɣʷɑlit̪ˈɑːt̪em# | 18 : w > ɣʷ / __ [+syl]
 #ˌɑjkɣʷɑlt̪ˈɑːt̪em# | 27 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+prim]
 #ˌɑjkɣʷɑlt̪ˈɑːt̪e# | 32 : [+nas] > ∅ / [-stres] __ #
 #ˌɑjkβɑlt̪ˈɑːt̪e# | 37 : ɣʷ > β 
-#ˌɑjkβɑlt̪ˈɑt̪e# | 51 : [+syl,+long] > [-long,-splng] 
+#ˌɑjkβɑlt̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
 #ˌɑjkβɑlt̪ˈɑd̪e# | 96 : [-son] > [+voi] / [-cons] __ [+son]
 #ˌɑjkβɑwt̪ˈɑd̪e# | 97 : [+lat] > w / [+lo] __ [+cons]
 #ˌɑjkvɑwt̪ˈɑd̪e# | 103 : β > v 
 #ˌɑjkβɑwt̪ˈɑd̪e# | 120 : {v;f} > {β;ɸ} 
 #ˌɑjkɸɑwt̪ˈɑd̪e# | 133 : [-son] > [-voi] / [-voi] __ 
 #ˌejkɸowt̪ˈɑd̪e# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌejkɸot̪ˈɑd̪e# | 138 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#jˌekɸot̪ˈɑd̪e# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#jˌekɸot̪ˈɑðe# | 149 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#jˌekɸot̪ˈɑð# | 153 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#jˌekhot̪ˈɑð# | 163 : ɸ > h / __ [+syl]
-#jˌekot̪ˈɑð# | 165 : h > ∅ 
-#jˌekot̪ˈɑd̪# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#jekot̪ˈɑd̪# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #jekot̪ˈɑd̪#
+#ˌeːkɸoːt̪ˈɑd̪e# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌekɸot̪ˈɑd̪e# | 150 : [+syl] > [-long,-splng] 
+#ˌekɸot̪ˈɑðe# | 164 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌekɸot̪ˈɑð# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌekhot̪ˈɑð# | 178 : ɸ > h / __ [+syl]
+#ˌekot̪ˈɑð# | 180 : h > ∅ 
+#ˌekot̪ˈɑd̪# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ekot̪ˈɑd̪# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ekot̪ˈɑd̪#

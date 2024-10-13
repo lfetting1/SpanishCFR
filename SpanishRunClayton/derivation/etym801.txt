@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :801:
-#spˈɑt̪ium# >>> #espjˈeθ# ( GOLD : #espˈɑθjo#) :
+#spˈɑt̪ium# >>> #espˈeθ# ( GOLD : #espˈɑθjo#) :
 s p ˈɑ t̪ i u m 
 #spˈɑt̪iu# | 32 : [+nas] > ∅ / [-stres] __ #
 #spˈɑt̪ju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
@@ -10,10 +10,11 @@ s p ˈɑ t̪ i u m
 #spˈɑjd͡ʒo# | 96 : [-son] > [+voi] / [-cons] __ [+son]
 #spˈɑjd͡zo# | 99 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
 #spˈejd͡zo# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#spjˈed͡zo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#spjˈed͡z# | 151 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
-#spjˈez̪# | 173 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#spjˈes̪# | 174 : [+strid] > [-voi] 
-#spjˈeθ# | 178 : s̪ > θ / __ #
-#espjˈeθ# | 182 : ∅ > e / # __ s [+cons]
-Final form : #espjˈeθ#
+#spˈeːd͡zo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#spˈed͡zo# | 150 : [+syl] > [-long,-splng] 
+#spˈed͡z# | 166 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#spˈez̪# | 188 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#spˈes̪# | 189 : [+strid] > [-voi] 
+#spˈeθ# | 193 : s̪ > θ / __ #
+#espˈeθ# | 197 : ∅ > e / # __ s [+cons]
+Final form : #espˈeθ#

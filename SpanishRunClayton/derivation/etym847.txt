@@ -1,12 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :847:
-#sˈɑksum# >>> #sjˈexo# ( GOLD : #sˈɑxo#) :
+#sˈɑksum# >>> #sˈexo# ( GOLD : #sˈɑxo#) :
 s ˈɑ k s u m 
 #sˈɑksu# | 32 : [+nas] > ∅ / [-stres] __ #
 #sˈɑxsu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #sˈɑxso# | 50 : [+syl,-long] > [-hi] 
 #sˈɑjso# | 104 : [+cons,+back] > j / [+syl] __ [-back,+cons]
 #sˈejso# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#sˈejʃo# | 137 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#sjˈeʃo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#sjˈexo# | 176 : ʃ > x 
-Final form : #sjˈexo#
+#sˈejʃo# | 147 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#sˈeːʃo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#sˈeʃo# | 150 : [+syl] > [-long,-splng] 
+#sˈexo# | 191 : ʃ > x 
+Final form : #sˈexo#

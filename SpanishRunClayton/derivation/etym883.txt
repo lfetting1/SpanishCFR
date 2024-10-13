@@ -1,10 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :883:
-#sˌɑːn̪kt̪ifikˈɑːre# >>> #sid̪wɡˈɑɾ# ( GOLD : #sɑn̪t̪iɡwˈɑɾ#) :
+#sˌɑːn̪kt̪ifikˈɑːre# >>> #sezɣʷˈɑɾ# ( GOLD : #sɑn̪t̪iɡwˈɑɾ#) :
 s ˌɑː n̪ k t̪ i f i k ˈɑː r e 
 #sˌɑːŋkt̪ifikˈɑːre# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #sˌɑːŋt̪ifikˈɑːre# | 10 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
 #sˌɑːŋt̪efekˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#sˌɑŋt̪efekˈɑre# | 51 : [+syl,+long] > [-long,-splng] 
+#sˌɑŋt̪efekˈɑre# | 51 : [+syl] > [-long,-splng] 
 #sˌɑŋt̪efekˈɑɾe# | 52 : r > ɾ 
 #sˌɑjt̪efekˈɑɾe# | 61 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
 #sˌɑjd̪eveɡˈɑɾe# | 96 : [-son] > [+voi] / [-cons] __ [+son]
@@ -12,11 +12,12 @@ s ˌɑː n̪ k t̪ i f i k ˈɑː r e
 #sˌɑjd̪βɡˈɑɾe# | 132 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
 #sˌejd̪βɡˈɑɾe# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
 #sˌejd̪wɡˈɑɾe# | 135 : [+cons,+lab] > w / __ [+back,+cons]
-#sjˌed̪wɡˈɑɾe# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#sjˌeðwɣˈɑɾe# | 149 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#sjˌeðwɣˈɑɾ# | 152 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#sjˌiðwɣˈɑɾ# | 155 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#sˌiðwɣˈɑɾ# | 169 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#sˌid̪wɡˈɑɾ# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#sid̪wɡˈɑɾ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #sid̪wɡˈɑɾ#
+#sˌejd̪wɡʷˈɑɾe# | 148 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
+#sˌeːd̪wɡʷˈɑɾe# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#sˌed̪wɡʷˈɑɾe# | 150 : [+syl] > [-long,-splng] 
+#sˌed̪ɡʷˈɑɾe# | 151 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#sˌeðɣʷˈɑɾe# | 164 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#sˌeðɣʷˈɑɾ# | 167 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#sˌezɣʷˈɑɾ# | 190 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#sezɣʷˈɑɾ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #sezɣʷˈɑɾ#

@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1103:
-#ˌae̯st̪ˈiːwum# >>> #jest̪ˈibo# ( GOLD : #est̪ˈio#) :
+#ˌae̯st̪ˈiːwum# >>> #est̪ˈibo# ( GOLD : #est̪ˈio#) :
 ˌa e̯ s t̪ ˈiː w u m 
 #ˌɑjst̪ˈiːwum# | 0 : [+lo] e̯ > [+back,-front] j
 #ˌɑjst̪ˈiːɣʷum# | 18 : w > ɣʷ / __ [+syl]
@@ -7,12 +7,13 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1103:
 #ˌɑjs̪t̪ˈiːɣʷu# | 32 : [+nas] > ∅ / [-stres] __ #
 #ˌɑjs̪t̪ˈiːβu# | 37 : ɣʷ > β 
 #ˌɑjs̪t̪ˈiːβo# | 50 : [+syl,-long] > [-hi] 
-#ˌɑjs̪t̪ˈiβo# | 51 : [+syl,+long] > [-long,-splng] 
+#ˌɑjs̪t̪ˈiβo# | 51 : [+syl] > [-long,-splng] 
 #ˌɑjs̪t̪ˈivo# | 103 : β > v 
 #ˌɑjs̪t̪ˈiβo# | 120 : {v;f} > {β;ɸ} 
 #ˌejs̪t̪ˈiβo# | 134 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#jˌes̪t̪ˈiβo# | 148 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#jˌest̪ˈiβo# | 175 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#jˌest̪ˈibo# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#jest̪ˈibo# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #jest̪ˈibo#
+#ˌeːs̪t̪ˈiβo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌes̪t̪ˈiβo# | 150 : [+syl] > [-long,-splng] 
+#ˌest̪ˈiβo# | 190 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#ˌest̪ˈibo# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#est̪ˈibo# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #est̪ˈibo#

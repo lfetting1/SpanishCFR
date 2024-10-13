@@ -6,11 +6,12 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1181:
 #ˌɑːn̪t̪ˈiːkɣʷɑ# | 32 : [+nas] > ∅ / [-stres] __ #
 #ˌɑːn̪t̪ˈiːkβɑ# | 37 : ɣʷ > β 
 #ˌɑːn̪t̪ˈiːxβɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɑn̪t̪ˈixβɑ# | 51 : [+syl,+long] > [-long,-splng] 
+#ˌɑn̪t̪ˈixβɑ# | 51 : [+syl] > [-long,-splng] 
 #ˌɑn̪t̪ˈixvɑ# | 103 : β > v 
 #ˌɑn̪t̪ˈijvɑ# | 104 : [+cons,+back] > j / [+syl] __ [-back,+cons]
 #ˌɑn̪t̪ˈijβɑ# | 120 : {v;f} > {β;ɸ} 
-#ˌɑn̪t̪ˈiβɑ# | 139 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌɑn̪t̪ˈibɑ# | 184 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#ɑn̪t̪ˈibɑ# | 185 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌɑn̪t̪ˈiːβɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌɑn̪t̪ˈiβɑ# | 150 : [+syl] > [-long,-splng] 
+#ˌɑn̪t̪ˈibɑ# | 199 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ɑn̪t̪ˈibɑ# | 200 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ɑn̪t̪ˈibɑ#

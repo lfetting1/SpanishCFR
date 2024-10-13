@@ -49,7 +49,7 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 [+syl,-stres,-lo,-back] > [-syl,-long,+hi,-back] / __ [+syl,+hi,-back] $ syneresis early
 [+syl,-long,+stres,-hi,-lo] > [-tense] $ mid lowering
 [+syl,-long] > [-hi] $ hi_lowering
-[+syl,+long] > [-long] $recurrent rule,unlong, shorten long vowels
+[+syl] > [-long] $recurrent rule,unlong, shorten long vowels
 r > ɾ
 ɾ ɾ > r $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
 $[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] 
@@ -77,7 +77,7 @@ e > i / __ j $ front raising
 {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j $"affrication". Combination of the two below, generously including the aspirates of t and k. $(70) Works. 
     $[-cont,+cor] > [-ant,+distr,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $dental affrication
     $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $ velar affrication,affrication rules may not be accurate to original phono
-{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive rounding $(71) Works. Could remove the gamma portions.
+{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
 [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons] $ recurrent rule,waw absorption $(72) Fixed to specifically apply to consonants.
 [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ $ recurrent rule,waw absorption $(73) Fixed. No effect (reasonable)
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ $ recurrent rule,yod absorption $(74) Fixed.
@@ -152,11 +152,33 @@ r r > rː $ trilling. TODO check this -- was missing in one version.
 [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront] $ a coloring. TODO check later in second runthrough -- currently bled. 
 [+cons,+lab] > w / __ [+back,+cons] $wawism_early. vocalization of syllable-final labial
 $metaphony_late. [+cons,-voi] > j . Seems vacuous. 
-[+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round] $ ew > iw
-{s;t̪} > {ʃ;t͡ʃ} / j __ $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
+
+$second occurrence of "glide metathesis" -- after wawisim early and before progressive hushing
+$new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has no examples with w yet clearly implied it should effect w with his "G:  ant (*) = back (*+1) «...»". 
+∅ > o̯ / [+syl] __ {[+ant];[-voi];[+cor,+cont]} w {[+back];[+hi]}  $ glide metathesis, beginning stage. Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
+∅ > e̯ / [+syl] __ {[-voi];[+cor,+cont]} j {[+back];[+hi]}
+[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅
+
+
+{s;t̪} > {ʃ;t͡ʃ} / j __ $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+
+$CM 10/13: apparently the second recurrence of progressive rounding was missed -- unless this reflects the web version?
+{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
+
+$CM 10/13: apparently the second recurrence of "monophthong" was missed -- unless this reflects the web version? 
+[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
+
+$CM 10/13: assert persistent rule -- unlong
+[+syl] > [-long] 
+
+[-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
+
+$apparently this (ew_iw) was errantly placed before progressive_hushing -- unless that reflects the online version? 
+[+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round] $ ew_iw
+
 d̪ n̪ > n̪ d̪ $sonorant metathesis
 d̪ m > m d̪ $sonorant metathesis. 
 d̪ l > l d̪ $sonorant metathesis. This one may be vacuous (was for Hartmann's OG set.) 
