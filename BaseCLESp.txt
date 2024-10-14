@@ -106,7 +106,10 @@ $[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅ $ glide metathesi
 [+cons,-cont,+voi,-son] > [+cont] $spirantization $(88) works.
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization $(89) !No effect. Possibly related to diff treatment of sibilants. Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑɾe -> koʝetˈɑɾe
 [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround] $ delete bdg (reformulated by KS) - prior should be changed in diaclesp
-[-son] > [+voi] / [-cons] __ [+son] $voicing $(97) good.
+
+[-son,+cont] > [+voi] / [-cons] __ [+son] $voicing part 1 $(97) good. CM 10/13 -- fixed for greater faithfulness. For stops, boicing happens only after proper vowels; for fricatives, it can happen after glides as well; explicit in the branching of D to F or G, and G representing the fricative condition. Continued in part 2 below.
+[-cont] > [+voi] / [+syl] __ [+son] $ voicing part 2 -- see above. 
+
 [+lat] > w / [+lo] __ [+cons] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good.
 [+lat] > j / [+back] __ [+cons] $ lateral vocalization for molto > mojto type cases. $(99) seems good although there are -ll- being affected which are not in his version?
 {t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disj
