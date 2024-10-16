@@ -1,10 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :603:
-#n̪ˈoweːn̪um# >>> #n̪oˈen̪# ( GOLD : #n̪obˈen̪o#) :
-n̪ ˈo w eː n̪ u m 
-#n̪ˈoeːn̪um# | 17 : w > ∅ / [+round,+syl] __ 
-#n̪ˈoeːn̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#n̪oˈeːn̪u# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#n̪oˈeːn̪o# | 50 : [+syl,-long] > [-hi] 
-#n̪oˈen̪o# | 51 : [+syl] > [-long,-splng] 
-#n̪oˈen̪# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #n̪oˈen̪#
+#n̪ˌowˈeːn̪um# >>> #n̪weˈen̪# ( GOLD : #n̪obˈen̪o#) :
+n̪ ˌo w ˈeː n̪ u m 
+#n̪ˌoˈeːn̪um# | 17 : w > ∅ / [+round,+syl] __ 
+#n̪ˌoˈeːn̪u# | 32 : [+nas] > ∅ / [-stres] __ #
+#n̪ˌɔˈeːn̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#n̪ˌɔˈeːn̪o# | 50 : [+syl,-long] > [-hi] 
+#n̪ˌɔˈen̪o# | 51 : [+syl] > [-long,-splng] 
+#n̪ˌɔeˈen̪o# | 112 : ∅ > e / [-tense] __ 
+#n̪wˌeˈen̪o# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#n̪wˌeˈen̪# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#n̪weˈen̪# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #n̪weˈen̪#

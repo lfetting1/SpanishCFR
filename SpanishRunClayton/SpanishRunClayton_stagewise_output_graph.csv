@@ -42,7 +42,7 @@ etID  | Input | Output {GOLD}
 40     | #d̪ˈein̪d̪e# | #xˈin̪d̪e# {GOLD: #d̪ˈen̪d̪e#}
 41     | #d̪ˈein̪t̪ro# | #xˈin̪t̪ɾo# {GOLD: #d̪ˈen̪t̪ɾo#}
 42     | #d̪ˈekem# | #d̪ˈiθje# {GOLD: #d̪jˈeθ#}
-43     | #d̪ˈekembrem# | #d̪ˈiθjewbɾe# {GOLD: #d̪iθjˈembɾe#}
+43     | #d̪ˌekˈembrem# | #d̪iθjˈewbɾe# {GOLD: #d̪iθjˈembɾe#}
 44     | #d̪ˈekst̪rum# | #d̪jˈest̪ɾo# {GOLD: #d̪jˈest̪ɾo#}
 45     | #d̪ˈekst̪rɑm# | #d̪jˈest̪ɾɑ# {GOLD: #d̪jˈest̪ɾɑ#}
 46     | #d̪ˈen̪t̪em# | #d̪ˈen̪t̪e# {GOLD: #d̪jˈen̪t̪e#}
@@ -376,7 +376,7 @@ etID  | Input | Output {GOLD}
 374    | #kˌorˈoːn̪ɑm# | #kweɾˈon̪ɑ# {GOLD: #koɾˈon̪ɑ#}
 375    | #kˌorˈɑmin̪e# | #kweɾˈɑɲe# {GOLD: #koɾˈɑmbɾe#}
 376    | #kˌoriˈɑːkeɑm# | #koɾiˈeθiɑ# {GOLD: #koɾˈɑθɑ#}
-377    | #kˌoˈopert̪um# | #kweˈobɾt̪o# {GOLD: #kubjˈeɾt̪o#}
+377    | #kˌoˌopˈert̪um# | #kweubjˈeɾt̪o# {GOLD: #kubjˈeɾt̪o#}
 378    | #kˌoˈɑːɡulum# | #koˈɑxo# {GOLD: #kwˈɑxo#}
 379    | #kˌoːn̪sˈilium# | #kosˈexo# {GOLD: #kon̪sˈexo#}
 380    | #kˌoːperˈiːre# | #kobɾˈiɾ# {GOLD: #kobɾˈiɾ#}
@@ -457,7 +457,7 @@ etID  | Input | Output {GOLD}
 455    | #lˈuːmin̪em# | #lˈuɲe# {GOLD: #lˈumbɾe#}
 456    | #lˈuːn̪ɑm# | #lˈun̪ɑ# {GOLD: #lˈun̪ɑ#}
 457    | #lˈɑbium# | #lˈɑbjo# {GOLD: #lˈɑbjo#}
-458    | #lˈɑiːkum# | #lˈeɡo# {GOLD: #lˈeɡo#}
+458    | #lˌɑˈiːkum# | #lɑˈiɡo# {GOLD: #lˈeɡo#}
 459    | #lˈɑkrimɑm# | #lˈeɾmɑ# {GOLD: #lˈɑɡɾimɑ#}
 460    | #lˈɑksius# | #lˈixjos# {GOLD: #lˈexos#}
 461    | #lˈɑksos# | #lˈexs# {GOLD: #lˈexos#}
@@ -529,7 +529,7 @@ etID  | Input | Output {GOLD}
 527    | #mˈust̪um# | #mˈost̪o# {GOLD: #mˈost̪o#}
 528    | #mˈut̪ilum# | #mˈold̪o# {GOLD: #mˈot͡ʃo#}
 529    | #mˈut̪ium# | #mwˈiθ# {GOLD: #mˈoθo#}
-530    | #mˈuːlɑ# | #mˈulɑ# {GOLD: #mulɑ#}
+530    | #mˈuːlɑm# | #mˈulɑ# {GOLD: #mulɑ#}
 531    | #mˈuːrum# | #mˈuɾ# {GOLD: #mˈuɾo#}
 532    | #mˈuːskulum# | #mˈut͡ʃo# {GOLD: #mˈuslo#}
 533    | #mˈɑium# | #mˈeo# {GOLD: #mˈɑʝo#}
@@ -540,7 +540,7 @@ etID  | Input | Output {GOLD}
 538    | #mˈɑn̪iɑ# | #mˈɑn̪iɑ# {GOLD: #mˈɑɲɑ#}
 539    | #mˈɑn̪kulɑ# | #mˈɑŋt͡ʃɑ# {GOLD: #mˈɑn̪t͡ʃɑ#}
 540    | #mˈɑn̪kum# | #mˈɑŋko# {GOLD: #mˈɑn̪ko#}
-541    | #mˈɑn̪sioːn̪ɑːt̪ɑ# | #mˈɑsion̪ɑd̪ɑ# {GOLD: #mesn̪ˈɑd̪ɑ#}
+541    | #mˌɑn̪sioːn̪ˈɑːt̪ɑm# | #mɑsion̪ˈɑd̪ɑ# {GOLD: #mesn̪ˈɑd̪ɑ#}
 542    | #mˈɑn̪um# | #mˈɑn̪# {GOLD: #mˈɑn̪o#}
 543    | #mˈɑn̪uːs# | #mˈɑn̪s# {GOLD: #mˈɑn̪os#}
 544    | #mˈɑppɑ# | #mˈɑpɑ# {GOLD: #mˈɑpɑ#}
@@ -602,7 +602,7 @@ etID  | Input | Output {GOLD}
 600    | #n̪ˈokt̪e# | #n̪wˈet͡ʃe# {GOLD: #n̪ˈot͡ʃe#}
 601    | #n̪ˈost̪rum# | #n̪wˈest̪ɾo# {GOLD: #n̪wˈest̪ɾo#}
 602    | #n̪ˈowem# | #n̪weˈe# {GOLD: #n̪wˈebe#}
-603    | #n̪ˈoweːn̪um# | #n̪oˈen̪# {GOLD: #n̪obˈen̪o#}
+603    | #n̪ˌowˈeːn̪um# | #n̪weˈen̪# {GOLD: #n̪obˈen̪o#}
 604    | #n̪ˈowium# | #n̪wˈio# {GOLD: #n̪ˈobjo#}
 605    | #n̪ˈowum# | #n̪ˈu# {GOLD: #n̪wˈebo#}
 606    | #n̪ˈoːmin̪e# | #n̪ˈoɲe# {GOLD: #n̪ˈombɾe#}
@@ -872,7 +872,7 @@ etID  | Input | Output {GOLD}
 870    | #sˈolt̪um# | #swˈet͡ʃo# {GOLD: #swˈelt̪o#}
 871    | #sˌon̪ˈoːrum# | #swen̪ˈoɾ# {GOLD: #son̪ˈoɾo#}
 872    | #sˌoːlit̪ˈɑːrium# | #ʎd̪ˈɑɾjo# {GOLD: #solt̪ˈeɾo#}
-873    | #sˌubkɑwˈɑːre# | #sokɑˈɑɾ# {GOLD: #sokɑbˈɑɾ#}
+873    | #sˌubkˌɑwˈɑːre# | #sokɑˈɑɾ# {GOLD: #sokɑbˈɑɾ#}
 874    | #sˌufferˈiːre# | #sovɾˈiɾ# {GOLD: #sufɾˈiɾ#}
 875    | #sˌufflˈɑːre# | #sot͡ʃˈɑɾ# {GOLD: #soplˈɑɾ#}
 876    | #sˌupˈerbiɑm# | #sobˈeɾbiɑ# {GOLD: #sobˈeɾbjɑ#}
@@ -1090,7 +1090,7 @@ etID  | Input | Output {GOLD}
 1088   | #ˈɑst̪rum# | #ˈɑst̪ɾo# {GOLD: #ˈɑst̪ɾo#}
 1089   | #ˈɑst̪ʰmɑm# | #ˈɑzmɑ# {GOLD: #ˈɑsmɑ#}
 1090   | #ˈɑwem# | #ˈe# {GOLD: #ˈɑbe#}
-1091   | #ˈɑwersum# | #ˈexo# {GOLD: #ɑbjˈeso#}
+1091   | #ˌɑːwˈersum# | #eˈeso# {GOLD: #ɑbjˈeso#}
 1092   | #ˈɑwrid̪iˈɑːre# | #ˈoɾd̪iˈɑɾ# {GOLD: #oɾeˈɑɾ#}
 1093   | #ˈɑwrum# | #ˈoɾ# {GOLD: #ˈoɾo#}
 1094   | #ˈɑwrˈikulɑ# | #ˈoɾˈelɑ# {GOLD: #oɾˈexɑ#}
@@ -1100,7 +1100,7 @@ etID  | Input | Output {GOLD}
 1098   | #ˌae̯st̪ˈiːwum# | #est̪ˈibo# {GOLD: #est̪ˈio#}
 1099   | #ˌae̯t̪ˈɑːt̪em# | #et͡ʃˈɑd̪# {GOLD: #ed̪ˈɑd̪#}
 1100   | #ˌekklˈeːsiɑm# | #jet͡ʃˈesiɑ# {GOLD: #iɡlˈesjɑ#}
-1101   | #ˌekskɑrpt̪iˈɑːre# | #jeskɑɾt̪iˈɑɾ# {GOLD: #eskɑɾθˈɑɾ#}
+1101   | #ˌekskˌɑrpt̪iˈɑːre# | #jeskɑɾt̪iˈɑɾ# {GOLD: #eskɑɾθˈɑɾ#}
 1102   | #ˌeksˈemplum# | #exˈewt͡ʃo# {GOLD: #exˈemplo#}
 1103   | #ˌeksˈiːt̪um# | #exˈid̪# {GOLD: #exˈid̪o#}
 1104   | #ˌerrˈoːrem# | #jerˈoɾ# {GOLD: #erˈoɾ#}
