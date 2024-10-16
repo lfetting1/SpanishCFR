@@ -1,24 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :161:
-#fˌiːlˈiolum# >>> #ilwˈel# ( GOLD : #ixwˈelo#) :
+#fˌiːlˈiolum# >>> #ixwˈel# ( GOLD : #ixwˈelo#) :
 f ˌiː l ˈi o l u m 
 #fˌiːlˈiolu# | 32 : [+nas] > ∅ / [-stres] __ #
 #fˌiːliˈolu# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#fˌiːliˈɔlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#fˌiːleˈɔlo# | 50 : [+syl,-long] > [-hi] 
-#fˌileˈɔlo# | 51 : [+syl] > [-long,-splng] 
-#fˌilejˈɔlo# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#fˌilijˈɔlo# | 58 : e > i / __ j
-#fˌiliˈɔlo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#fˌiljˈɔlo# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#fˌiljˈɔelo# | 114 : ∅ > e / [-tense] __ 
-#fˌiljwˈelo# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ɸˌiljwˈelo# | 123 : {v;f} > {β;ɸ} 
-#ɸˌie̯ljwˈelo# | 147 : ∅ > e̯ / [+syl] __ [+cor,+cont] j [+back]
-#ɸˌijlwˈelo# | 149 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#ɸˌiːlwˈelo# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɸˌilwˈelo# | 153 : [+syl] > [-long,-splng] 
-#ɸˌilwˈel# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#hˌilwˈel# | 183 : ɸ > h / __ [+syl]
-#ˌilwˈel# | 185 : h > ∅ 
-#ilwˈel# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ilwˈel#
+#fˌiːljˈolu# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#fˌiːljˈɔlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#fˌiːljˈɔlo# | 50 : [+syl,-long] > [-hi] 
+#fˌiljˈɔlo# | 51 : [+syl] > [-long,-splng] 
+#fˌiʎjˈɔlo# | 65 : [+lat] > ʎ / __ j
+#fˌiʎˈɔlo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#fˌiʎˈɔelo# | 114 : ∅ > e / [-tense] __ 
+#fˌiʎwˈelo# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ɸˌiʎwˈelo# | 123 : {v;f} > {β;ɸ} 
+#ɸˌid͡ʒwˈelo# | 124 : ʎ > d͡ʒ 
+#ɸˌiʒwˈelo# | 125 : d͡ʒ > ʒ 
+#ɸˌiʒwˈel# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#hˌiʒwˈel# | 183 : ɸ > h / __ [+syl]
+#ˌiʒwˈel# | 185 : h > ∅ 
+#ˌiʃwˈel# | 196 : [+strid] > [-voi] 
+#ˌixwˈel# | 198 : ʃ > x 
+#ixwˈel# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ixwˈel#

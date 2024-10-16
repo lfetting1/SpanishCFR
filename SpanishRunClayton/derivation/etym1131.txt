@@ -1,26 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1131:
-#ˌɑbbrˌɑkʰiˈɑːre# >>> #ɑbɾɑθjˈɑɾ# ( GOLD : #ɑbɾɑθˈɑɾ#) :
+#ˌɑbbrˌɑkʰiˈɑːre# >>> #ɑbɾɑθˈɑɾ# ( GOLD : #ɑbɾɑθˈɑɾ#) :
 ˌɑ b b r ˌɑ kʰ i ˈɑː r e 
-#ˌɑbbrˌɑkʰeˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#ˌɑbbrˌɑkʰeˈɑre# | 51 : [+syl] > [-long,-splng] 
-#ˌɑbbɾˌɑkʰeˈɑɾe# | 52 : r > ɾ 
-#ˌɑbbɾˌɑkʰejˈɑɾe# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˌɑbbɾˌɑkʰijˈɑɾe# | 58 : e > i / __ j
-#ˌɑbbɾˌɑkʰjijˈɑɾe# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌɑbbɾˌɑt͡ʃjijˈɑɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑbbɾˌɑt͡ʃijˈɑɾe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɑbbɾˌɑt͡ʃiˈɑɾe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌɑββɾˌɑt͡ʃiˈɑɾe# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ˌɑββɾˌɑd͡ʒiˈɑɾe# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑββɾˌɑd͡ziˈɑɾe# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑββɾˌɑd͡zjˈɑɾe# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#ˌɑvvɾˌɑd͡zjˈɑɾe# | 106 : β > v 
-#ˌɑββɾˌɑd͡zjˈɑɾe# | 123 : {v;f} > {β;ɸ} 
-#ˌɑβɾˌɑd͡zjˈɑɾe# | 133 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌɑβɾˌɑd͡zjˈɑɾ# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#ˌɑβɾˌɑz̪jˈɑɾ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌɑβɾˌɑs̪jˈɑɾ# | 196 : [+strid] > [-voi] 
-#ˌɑβɾˌɑθjˈɑɾ# | 199 : s̪ > θ / __ [-cons]
-#ˌɑbɾˌɑθjˈɑɾ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#ɑbɾɑθjˈɑɾ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑbɾɑθjˈɑɾ#
+#ˌɑbbrˌɑkʰjˈɑːre# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɑbbrˌɑkʰjˈɑre# | 51 : [+syl] > [-long,-splng] 
+#ˌɑbbɾˌɑkʰjˈɑɾe# | 52 : r > ɾ 
+#ˌɑbbɾˌɑt͡ʃjˈɑɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑbbɾˌɑt͡ʃˈɑɾe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɑββɾˌɑt͡ʃˈɑɾe# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ˌɑββɾˌɑd͡ʒˈɑɾe# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑββɾˌɑd͡zˈɑɾe# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑvvɾˌɑd͡zˈɑɾe# | 106 : β > v 
+#ˌɑββɾˌɑd͡zˈɑɾe# | 123 : {v;f} > {β;ɸ} 
+#ˌɑβɾˌɑd͡zˈɑɾe# | 133 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˌɑβɾˌɑd͡zˈɑɾ# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#ˌɑβɾˌɑz̪ˈɑɾ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌɑβɾˌɑs̪ˈɑɾ# | 196 : [+strid] > [-voi] 
+#ˌɑβɾˌɑθˈɑɾ# | 199 : s̪ > θ / __ [-cons]
+#ˌɑbɾˌɑθˈɑɾ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ɑbɾɑθˈɑɾ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑbɾɑθˈɑɾ#

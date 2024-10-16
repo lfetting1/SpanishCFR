@@ -1,25 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1100:
-#ˌekklˈeːsiɑm# >>> #jet͡ʃˈisɑ# ( GOLD : #iɡlˈesjɑ#) :
+#ˌekklˈeːsiɑm# >>> #jet͡ʃˈesɑ# ( GOLD : #iɡlˈesjɑ#) :
 ˌe k k l ˈeː s i ɑ m 
 #ˌekklˈeːsiɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌɛkklˈeːsiɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɛkklˈeːseɑ# | 50 : [+syl,-long] > [-hi] 
-#ˌɛkklˈeseɑ# | 51 : [+syl] > [-long,-splng] 
-#ˌɛkklˈesejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˌɛkklˈesijɑ# | 58 : e > i / __ j
-#ˌɛkklˈesiɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌɛkklˈeziɑ# | 98 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#ˌɛkklˈezjɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#ˌɛkklˈizjɑ# | 108 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#ˌɛekklˈizjɑ# | 114 : ∅ > e / [-tense] __ 
-#jˌekklˈizjɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#jˌekkʎˈizjɑ# | 128 : [+lat] > ʎ / [-son] __ 
-#jˌekt͡ʃˈizjɑ# | 130 : [-voi] [+lat] > t͡ʃ
-#jˌekt͡ʃˈie̯zjɑ# | 147 : ∅ > e̯ / [+syl] __ [+cor,+cont] j [+back]
-#jˌekt͡ʃˈijzɑ# | 149 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#jˌekt͡ʃˈiːzɑ# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#jˌekt͡ʃˈizɑ# | 153 : [+syl] > [-long,-splng] 
-#jˌet͡ʃˈizɑ# | 178 : [-son] > ∅ / __ [+delrel]
-#jˌet͡ʃˈisɑ# | 196 : [+strid] > [-voi] 
-#jet͡ʃˈisɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #jet͡ʃˈisɑ#
+#ˌekklˈeːsjɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɛkklˈeːsjɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɛkklˈesjɑ# | 51 : [+syl] > [-long,-splng] 
+#ˌɛkklˈee̯sjɑ# | 89 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#ˌɛkklˈejsɑ# | 93 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#ˌɛkklˈejzɑ# | 98 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#ˌɛekklˈejzɑ# | 114 : ∅ > e / [-tense] __ 
+#jˌekklˈejzɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#jˌekkʎˈejzɑ# | 128 : [+lat] > ʎ / [-son] __ 
+#jˌekt͡ʃˈejzɑ# | 130 : [-voi] [+lat] > t͡ʃ
+#jˌekt͡ʃˈeːzɑ# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#jˌekt͡ʃˈezɑ# | 153 : [+syl] > [-long,-splng] 
+#jˌet͡ʃˈezɑ# | 178 : [-son] > ∅ / __ [+delrel]
+#jˌet͡ʃˈesɑ# | 196 : [+strid] > [-voi] 
+#jet͡ʃˈesɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #jet͡ʃˈesɑ#

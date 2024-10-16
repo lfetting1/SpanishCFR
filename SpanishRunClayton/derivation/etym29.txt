@@ -1,21 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :29:
-#bˌɑːsiˈɑːre# >>> #bɑjsˈɑɾ# ( GOLD : #besˈɑɾ#) :
+#bˌɑːsiˈɑːre# >>> #besˈɑɾ# ( GOLD : #besˈɑɾ#) :
 b ˌɑː s i ˈɑː r e 
-#bˌɑːseˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#bˌɑseˈɑre# | 51 : [+syl] > [-long,-splng] 
-#bˌɑseˈɑɾe# | 52 : r > ɾ 
-#bˌɑsejˈɑɾe# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#bˌɑsijˈɑɾe# | 58 : e > i / __ j
-#bˌɑsiˈɑɾe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#βˌɑsiˈɑɾe# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#βˌɑziˈɑɾe# | 98 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#βˌɑzjˈɑɾe# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#vˌɑzjˈɑɾe# | 106 : β > v 
-#βˌɑzjˈɑɾe# | 123 : {v;f} > {β;ɸ} 
-#βˌɑe̯zjˈɑɾe# | 147 : ∅ > e̯ / [+syl] __ [+cor,+cont] j [+back]
-#βˌɑjzˈɑɾe# | 149 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#βˌɑjzˈɑɾ# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#βˌɑjsˈɑɾ# | 196 : [+strid] > [-voi] 
-#bˌɑjsˈɑɾ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#bɑjsˈɑɾ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bɑjsˈɑɾ#
+#bˌɑːsjˈɑːre# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#bˌɑsjˈɑre# | 51 : [+syl] > [-long,-splng] 
+#bˌɑsjˈɑɾe# | 52 : r > ɾ 
+#bˌɑe̯sjˈɑɾe# | 89 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#bˌɑjsˈɑɾe# | 93 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#βˌɑjsˈɑɾe# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#βˌɑjzˈɑɾe# | 98 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#vˌɑjzˈɑɾe# | 106 : β > v 
+#βˌɑjzˈɑɾe# | 123 : {v;f} > {β;ɸ} 
+#βˌejzˈɑɾe# | 137 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#βˌeːzˈɑɾe# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βˌezˈɑɾe# | 153 : [+syl] > [-long,-splng] 
+#βˌezˈɑɾ# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#βˌesˈɑɾ# | 196 : [+strid] > [-voi] 
+#bˌesˈɑɾ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#besˈɑɾ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #besˈɑɾ#

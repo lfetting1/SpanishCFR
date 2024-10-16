@@ -3,19 +3,13 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :794:
 s p ˈo n̪ ɡ i ɑ 
 #spˈoːn̪ɡiɑ# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #spˈoːŋɡiɑ# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#spˈoːŋɡeɑ# | 50 : [+syl,-long] > [-hi] 
-#spˈoŋɡeɑ# | 51 : [+syl] > [-long,-splng] 
-#spˈoŋɡejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#spˈoŋɡijɑ# | 58 : e > i / __ j
-#spˈoŋɡjijɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#spˈoŋd͡ʒjijɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#spˈoŋd͡ʒijɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#spˈoŋd͡ʒiɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#spˈoŋʒiɑ# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#spˈoŋʒjɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#spˈojʒjɑ# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#spˈujʒjɑ# | 109 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#spˈujʒɑ# | 156 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#spˈoːŋɡjɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#spˈoŋɡjɑ# | 51 : [+syl] > [-long,-splng] 
+#spˈoŋd͡ʒjɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#spˈoŋd͡ʒɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#spˈoŋʒɑ# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#spˈojʒɑ# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#spˈujʒɑ# | 110 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
 #spˈuʒɑ# | 158 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
 #spˈuʃɑ# | 196 : [+strid] > [-voi] 
 #spˈuxɑ# | 198 : ʃ > x 

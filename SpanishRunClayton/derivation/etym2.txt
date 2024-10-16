@@ -1,21 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :2:
-#blˌɑn̪d̪ˈit̪iɑ# >>> #blɑn̪d̪ˈid̪jɑ# ( GOLD : #blɑn̪d̪ˈeθɑ#) :
+#blˌɑn̪d̪ˈit̪iɑ# >>> #blɑn̪d̪ˈeθɑ# ( GOLD : #blɑn̪d̪ˈeθɑ#) :
 b l ˌɑ n̪ d̪ ˈi t̪ i ɑ 
 #blˌɑːn̪d̪ˈit̪iɑ# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#blˌɑːn̪d̪ˈet̪eɑ# | 50 : [+syl,-long] > [-hi] 
-#blˌɑn̪d̪ˈet̪eɑ# | 51 : [+syl] > [-long,-splng] 
-#blˌɑn̪d̪ˈet̪ejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#blˌɑn̪d̪ˈet̪ijɑ# | 58 : e > i / __ j
-#blˌɑn̪d̪ˈet̪iɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#βlˌɑn̪ðˈet̪iɑ# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#βlˌɑn̪ðˈed̪iɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
-#βlˌɑn̪ðˈed̪jɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#vlˌɑn̪ðˈed̪jɑ# | 106 : β > v 
-#vlˌɑn̪ðˈid̪jɑ# | 108 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#βlˌɑn̪ðˈid̪jɑ# | 123 : {v;f} > {β;ɸ} 
-#βʎˌɑn̪ðˈid̪jɑ# | 128 : [+lat] > ʎ / [-son] __ 
-#βlˌɑn̪ðˈid̪jɑ# | 134 : ʎ > l / [+cons,+voi] __ 
-#βlˌɑn̪ðˈiðjɑ# | 169 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#blˌɑn̪d̪ˈid̪jɑ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#blɑn̪d̪ˈid̪jɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #blɑn̪d̪ˈid̪jɑ#
+#blˌɑːn̪d̪ˈit̪jɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#blˌɑːn̪d̪ˈet̪jɑ# | 50 : [+syl,-long] > [-hi] 
+#blˌɑn̪d̪ˈet̪jɑ# | 51 : [+syl] > [-long,-splng] 
+#blˌɑn̪d̪ˈet͡ʃjɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#blˌɑn̪d̪ˈet͡ʃɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#βlˌɑn̪ðˈet͡ʃɑ# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#βlˌɑn̪ðˈed͡ʒɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#βlˌɑn̪ðˈed͡zɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vlˌɑn̪ðˈed͡zɑ# | 106 : β > v 
+#βlˌɑn̪ðˈed͡zɑ# | 123 : {v;f} > {β;ɸ} 
+#βʎˌɑn̪ðˈed͡zɑ# | 128 : [+lat] > ʎ / [-son] __ 
+#βlˌɑn̪ðˈed͡zɑ# | 134 : ʎ > l / [+cons,+voi] __ 
+#βlˌɑn̪ðˈez̪ɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#βlˌɑn̪ðˈes̪ɑ# | 196 : [+strid] > [-voi] 
+#βlˌɑn̪ðˈeθɑ# | 199 : s̪ > θ / __ [-cons]
+#blˌɑn̪d̪ˈeθɑ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#blɑn̪d̪ˈeθɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #blɑn̪d̪ˈeθɑ#

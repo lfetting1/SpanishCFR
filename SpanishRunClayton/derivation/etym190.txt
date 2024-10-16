@@ -1,21 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :190:
-#hˌord̪ˈeolum# >>> #oɾd̪jwˈel# ( GOLD : #oɾθwˈelo#) :
+#hˌord̪ˈeolum# >>> #weɾxwˈel# ( GOLD : #oɾθwˈelo#) :
 h ˌo r d̪ ˈe o l u m 
 #ˌord̪ˈeolum# | 1 : h > ∅ 
 #ˌord̪ˈeolu# | 32 : [+nas] > ∅ / [-stres] __ #
 #ˌord̪eˈolu# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌɔrd̪eˈɔlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɔrd̪eˈɔlo# | 50 : [+syl,-long] > [-hi] 
-#ˌɔɾd̪eˈɔlo# | 52 : r > ɾ 
-#ˌɔɾd̪ejˈɔlo# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˌɔɾd̪ijˈɔlo# | 58 : e > i / __ j
-#ˌɔɾd̪iˈɔlo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌɔɾðiˈɔlo# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ˌɔɾðjˈɔlo# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#ˌoɾðjˈɔlo# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌoɾðjˈɔelo# | 114 : ∅ > e / [-tense] __ 
-#ˌoɾðjwˈelo# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ˌoɾðjwˈel# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ˌoɾd̪jwˈel# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#oɾd̪jwˈel# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #oɾd̪jwˈel#
+#ˌord̪jˈolu# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɔrd̪jˈɔlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɔrd̪jˈɔlo# | 50 : [+syl,-long] > [-hi] 
+#ˌɔɾd̪jˈɔlo# | 52 : r > ɾ 
+#ˌɔɾd͡ʒjˈɔlo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɔɾd͡ʒˈɔlo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɔɾʒˈɔlo# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ˌɔeɾʒˈɔelo# | 114 : ∅ > e / [-tense] __ 
+#wˌeɾʒwˈelo# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#wˌeɾʒwˈel# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#wˌeɾʃwˈel# | 196 : [+strid] > [-voi] 
+#wˌeɾxwˈel# | 198 : ʃ > x 
+#weɾxwˈel# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #weɾxwˈel#

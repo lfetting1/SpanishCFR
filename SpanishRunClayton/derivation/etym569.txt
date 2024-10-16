@@ -1,19 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :569:
-#mˌort̪uˈɑliɑm# >>> #mweɾt̪wˈɑjlɑ# ( GOLD : #moɾt̪ˈɑxɑ#) :
+#mˌort̪uˈɑliɑm# >>> #mweɾt̪oˈɑxɑ# ( GOLD : #moɾt̪ˈɑxɑ#) :
 m ˌo r t̪ u ˈɑ l i ɑ m 
 #mˌort̪uˈɑliɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#mˌɔrt̪uˈɑliɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˌɔrt̪oˈɑleɑ# | 50 : [+syl,-long] > [-hi] 
-#mˌɔɾt̪oˈɑleɑ# | 52 : r > ɾ 
-#mˌɔɾt̪oˈɑlejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#mˌɔɾt̪oˈɑlijɑ# | 58 : e > i / __ j
-#mˌɔɾt̪oˈɑliɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#mˌɔɾt̪oˈɑljɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#mˌɔɾt̪uˈɑljɑ# | 109 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#mˌɔeɾt̪uˈɑljɑ# | 114 : ∅ > e / [-tense] __ 
-#mwˌeɾt̪uˈɑljɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#mwˌeɾt̪wˈɑljɑ# | 120 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / __ [+syl]
-#mwˌeɾt̪wˈɑe̯ljɑ# | 147 : ∅ > e̯ / [+syl] __ [+cor,+cont] j [+back]
-#mwˌeɾt̪wˈɑjlɑ# | 149 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#mweɾt̪wˈɑjlɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mweɾt̪wˈɑjlɑ#
+#mˌort̪uˈɑljɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#mˌɔrt̪uˈɑljɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˌɔrt̪oˈɑljɑ# | 50 : [+syl,-long] > [-hi] 
+#mˌɔɾt̪oˈɑljɑ# | 52 : r > ɾ 
+#mˌɔɾt̪oˈɑʎjɑ# | 65 : [+lat] > ʎ / __ j
+#mˌɔɾt̪oˈɑʎɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#mˌɔeɾt̪oˈɑʎɑ# | 114 : ∅ > e / [-tense] __ 
+#mwˌeɾt̪oˈɑʎɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#mwˌeɾt̪oˈɑd͡ʒɑ# | 124 : ʎ > d͡ʒ 
+#mwˌeɾt̪oˈɑʒɑ# | 125 : d͡ʒ > ʒ 
+#mwˌeɾt̪oˈɑʃɑ# | 196 : [+strid] > [-voi] 
+#mwˌeɾt̪oˈɑxɑ# | 198 : ʃ > x 
+#mweɾt̪oˈɑxɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #mweɾt̪oˈɑxɑ#

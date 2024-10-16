@@ -45,8 +45,8 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 [+stres,-lo,-hi,-back] [-stres,+back] > [-stres] [+prim] $ progressive_stress (combine?)
 [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front] $ velar deletion
 [+syl,-stres,-lo] > [-syl,-long,+hi] / __ [+syl,+hi] $ syneresis early
-[+syl,-stres,-lo,+back] > [-syl,-long,+hi,+back] / __ [+syl,+hi,-back] $ syneresis early
-[+syl,-stres,-lo,-back] > [-syl,-long,+hi,-back] / __ [+syl,+hi,-back] $ syneresis early
+[+syl,-stres,-lo,+back] > [-syl,-long,+hi] / __ [+syl,-back] $ syneresis early
+[+syl,-stres,-lo,-back] > [-syl,-long,+hi] / __ [+syl,+back] $ syneresis early
 [+syl,-long,+stres,-hi,-lo] > [-tense] $ mid lowering
 [+syl,-long] > [-hi] $ hi_lowering
 [+syl] > [-long] $recurrent rule,unlong, shorten long vowels

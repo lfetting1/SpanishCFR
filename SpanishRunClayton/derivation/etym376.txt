@@ -1,24 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :376:
-#kˌoriˈɑːkeɑm# >>> #kuɾjˈɑθjɑ# ( GOLD : #koɾˈɑθɑ#) :
+#kˌoriˈɑːkeɑm# >>> #kuɾjˈɑθɑ# ( GOLD : #koɾˈɑθɑ#) :
 k ˌo r i ˈɑː k e ɑ m 
 #kˌoriˈɑːkeɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌɔriˈɑːkeɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔreˈɑːkeɑ# | 50 : [+syl,-long] > [-hi] 
-#kˌɔreˈɑkeɑ# | 51 : [+syl] > [-long,-splng] 
-#kˌɔɾeˈɑkeɑ# | 52 : r > ɾ 
-#kˌɔɾejˈɑkejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#kˌɔɾijˈɑkijɑ# | 58 : e > i / __ j
-#kˌɔɾijˈɑkjijɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#kˌɔɾijˈɑt͡ʃjijɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˌɔɾijˈɑt͡ʃijɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#kˌɔɾiˈɑt͡ʃiɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#kˌɔɾiˈɑd͡ʒiɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌɔɾiˈɑd͡ziɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kˌɔɾjˈɑd͡zjɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#kˌoɾjˈɑd͡zjɑ# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#kˌuɾjˈɑd͡zjɑ# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#kˌuɾjˈɑz̪jɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#kˌuɾjˈɑs̪jɑ# | 196 : [+strid] > [-voi] 
-#kˌuɾjˈɑθjɑ# | 199 : s̪ > θ / __ [-cons]
-#kuɾjˈɑθjɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kuɾjˈɑθjɑ#
+#kˌorjˈɑːkjɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#kˌɔrjˈɑːkjɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔrjˈɑkjɑ# | 51 : [+syl] > [-long,-splng] 
+#kˌɔɾjˈɑkjɑ# | 52 : r > ɾ 
+#kˌɔɾjˈɑt͡ʃjɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌɔɾjˈɑt͡ʃɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#kˌɔɾjˈɑd͡ʒɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˌɔɾjˈɑd͡zɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌoɾjˈɑd͡zɑ# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#kˌuɾjˈɑd͡zɑ# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#kˌuɾjˈɑz̪ɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kˌuɾjˈɑs̪ɑ# | 196 : [+strid] > [-voi] 
+#kˌuɾjˈɑθɑ# | 199 : s̪ > θ / __ [-cons]
+#kuɾjˈɑθɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kuɾjˈɑθɑ#

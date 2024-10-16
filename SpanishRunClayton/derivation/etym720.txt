@@ -1,20 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :720:
-#pˌun̪kt̪iˈɑːre# >>> #put͡ʃˈɑɾ# ( GOLD : #pun̪θˈɑɾ#) :
+#pˌun̪kt̪iˈɑːre# >>> #puθˈɑɾ# ( GOLD : #pun̪θˈɑɾ#) :
 p ˌu n̪ k t̪ i ˈɑː r e 
 #pˌuːn̪kt̪iˈɑːre# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #pˌuːŋkt̪iˈɑːre# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #pˌuːŋt̪iˈɑːre# | 10 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#pˌuːŋt̪eˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#pˌuŋt̪eˈɑre# | 51 : [+syl] > [-long,-splng] 
-#pˌuŋt̪eˈɑɾe# | 52 : r > ɾ 
-#pˌuŋt̪ejˈɑɾe# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#pˌuŋt̪ijˈɑɾe# | 58 : e > i / __ j
-#pˌujt̪ijˈɑɾe# | 61 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#pˌujt̪iˈɑɾe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#pˌujt̪jˈɑɾe# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#pˌujt͡ʃjˈɑɾe# | 150 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#pˌujt͡ʃˈɑɾe# | 156 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#pˌut͡ʃˈɑɾe# | 158 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#pˌut͡ʃˈɑɾ# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#put͡ʃˈɑɾ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #put͡ʃˈɑɾ#
+#pˌuːŋt̪jˈɑːre# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#pˌuŋt̪jˈɑre# | 51 : [+syl] > [-long,-splng] 
+#pˌuŋt̪jˈɑɾe# | 52 : r > ɾ 
+#pˌujt̪jˈɑɾe# | 61 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#pˌujt͡ʃjˈɑɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#pˌujt͡ʃˈɑɾe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#pˌut͡ʃˈɑɾe# | 78 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#pˌud͡ʒˈɑɾe# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#pˌud͡zˈɑɾe# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#pˌud͡zˈɑɾ# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#pˌuz̪ˈɑɾ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#pˌus̪ˈɑɾ# | 196 : [+strid] > [-voi] 
+#pˌuθˈɑɾ# | 199 : s̪ > θ / __ [-cons]
+#puθˈɑɾ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #puθˈɑɾ#

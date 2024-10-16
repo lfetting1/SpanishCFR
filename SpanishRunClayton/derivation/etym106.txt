@@ -1,21 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :106:
-#frˌiːkt̪iˈɑːre# >>> #fɾit͡ʃˈɑɾ# ( GOLD : #fɾiθˈɑɾ#) :
+#frˌiːkt̪iˈɑːre# >>> #fɾiθˈɑɾ# ( GOLD : #fɾiθˈɑɾ#) :
 f r ˌiː k t̪ i ˈɑː r e 
 #frˌiːxt̪iˈɑːre# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#frˌiːxt̪eˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#frˌixt̪eˈɑre# | 51 : [+syl] > [-long,-splng] 
-#fɾˌixt̪eˈɑɾe# | 52 : r > ɾ 
-#fɾˌixt̪ejˈɑɾe# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#fɾˌixt̪ijˈɑɾe# | 58 : e > i / __ j
-#fɾˌixt̪iˈɑɾe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#fɾˌixt̪jˈɑɾe# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#fɾˌijt̪jˈɑɾe# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ɸɾˌijt̪jˈɑɾe# | 123 : {v;f} > {β;ɸ} 
-#ɸɾˌijt͡ʃjˈɑɾe# | 150 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#ɸɾˌiːt͡ʃjˈɑɾe# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɸɾˌit͡ʃjˈɑɾe# | 153 : [+syl] > [-long,-splng] 
-#ɸɾˌit͡ʃˈɑɾe# | 156 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ɸɾˌit͡ʃˈɑɾ# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#fɾˌit͡ʃˈɑɾ# | 184 : ɸ > f 
-#fɾit͡ʃˈɑɾ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #fɾit͡ʃˈɑɾ#
+#frˌiːxt̪jˈɑːre# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#frˌixt̪jˈɑre# | 51 : [+syl] > [-long,-splng] 
+#fɾˌixt̪jˈɑɾe# | 52 : r > ɾ 
+#fɾˌixt͡ʃjˈɑɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fɾˌixt͡ʃˈɑɾe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#fɾˌixt͡sˈɑɾe# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#fɾˌijt͡sˈɑɾe# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ɸɾˌijt͡sˈɑɾe# | 123 : {v;f} > {β;ɸ} 
+#ɸɾˌiːt͡sˈɑɾe# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɸɾˌit͡sˈɑɾe# | 153 : [+syl] > [-long,-splng] 
+#ɸɾˌit͡sˈɑɾ# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#fɾˌit͡sˈɑɾ# | 184 : ɸ > f 
+#fɾˌis̪ˈɑɾ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#fɾˌiθˈɑɾ# | 199 : s̪ > θ / __ [-cons]
+#fɾiθˈɑɾ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #fɾiθˈɑɾ#

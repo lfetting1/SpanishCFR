@@ -3,17 +3,13 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :371:
 k ˌo r r ˈi ɡ i ɑ m 
 #kˌorrˈiɡiɑ# | 32 : [+nas] > ∅ / [-stres] __ #
 #kˌorrˈiiɑ# | 45 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#kˌɔrrˈiiɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔrrˈeeɑ# | 50 : [+syl,-long] > [-hi] 
-#kˌɔɾɾˈeeɑ# | 52 : r > ɾ 
-#kˌɔrˈeeɑ# | 53 : ɾ ɾ > r 
-#kˌɔrˈeejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#kˌɔrˈeijɑ# | 58 : e > i / __ j
-#kˌɔrˈeiɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#kˌɔrˈejɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#kˌɔrˈijɑ# | 108 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#kˌorˈijɑ# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#kˌorˈiːɑ# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˌorˈiɑ# | 153 : [+syl] > [-long,-splng] 
+#kˌorrˈijɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#kˌɔrrˈijɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔrrˈejɑ# | 50 : [+syl,-long] > [-hi] 
+#kˌɔɾɾˈejɑ# | 52 : r > ɾ 
+#kˌɔrˈejɑ# | 53 : ɾ ɾ > r 
+#kˌɔrˈijɑ# | 60 : ˈe > ˈi / __ j
+#kˌɔrˈiɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#kˌorˈiɑ# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
 #korˈiɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #korˈiɑ#

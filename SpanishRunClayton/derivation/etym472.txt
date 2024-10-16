@@ -1,21 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :472:
-#lˌemikˈɑn̪eɑ# >>> #leɣʷˈɑjn̪ɑ# ( GOLD : #leɡˈɑɲɑ#) :
+#lˌemikˈɑn̪eɑ# >>> #ljeɣʷˈɑɲɑ# ( GOLD : #leɡˈɑɲɑ#) :
 l ˌe m i k ˈɑ n̪ e ɑ 
-#lˌɛmikˈɑn̪eɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#lˌɛmekˈɑn̪eɑ# | 50 : [+syl,-long] > [-hi] 
-#lˌɛmekˈɑn̪ejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#lˌɛmekˈɑn̪ijɑ# | 58 : e > i / __ j
-#lˌɛmekˈɑn̪iɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#lˌɛmeɡˈɑn̪iɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
-#lˌɛmeɡˈɑn̪jɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#lˌɛmiɡˈɑn̪jɑ# | 108 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#lˌemiɡˈɑn̪jɑ# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#lˌemɡˈɑn̪jɑ# | 135 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#lˌewɡˈɑn̪jɑ# | 138 : [+cons,+lab] > w / __ [+back,+cons]
-#lˌewɡˈɑe̯n̪jɑ# | 147 : ∅ > e̯ / [+syl] __ [+cor,+cont] j [+back]
-#lˌewɡˈɑjn̪ɑ# | 149 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#lˌewɡʷˈɑjn̪ɑ# | 151 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
-#lˌeɡʷˈɑjn̪ɑ# | 154 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-#lˌeɣʷˈɑjn̪ɑ# | 169 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#leɣʷˈɑjn̪ɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #leɣʷˈɑjn̪ɑ#
+#lˌemikˈɑn̪jɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#lˌɛmikˈɑn̪jɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#lˌɛmekˈɑn̪jɑ# | 50 : [+syl,-long] > [-hi] 
+#lˌɛmekˈɑɲjɑ# | 63 : [+nas,+cor] > ɲ / __ j
+#lˌɛmekˈɑɲɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#lˌɛmeɡˈɑɲɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#lˌɛemeɡˈɑɲɑ# | 114 : ∅ > e / [-tense] __ 
+#ljˌemeɡˈɑɲɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ljˌemɡˈɑɲɑ# | 135 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ljˌewɡˈɑɲɑ# | 138 : [+cons,+lab] > w / __ [+back,+cons]
+#ljˌewɡʷˈɑɲɑ# | 151 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
+#ljˌeɡʷˈɑɲɑ# | 154 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#ljˌeɣʷˈɑɲɑ# | 169 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ljeɣʷˈɑɲɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ljeɣʷˈɑɲɑ#

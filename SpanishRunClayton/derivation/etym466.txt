@@ -1,23 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :466:
-#lˈɑn̪keɑm# >>> #lˈiθjɑ# ( GOLD : #lˈɑn̪θɑ#) :
+#lˈɑn̪keɑm# >>> #lˈeθɑ# ( GOLD : #lˈɑn̪θɑ#) :
 l ˈɑ n̪ k e ɑ m 
 #lˈɑːn̪keɑm# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #lˈɑːŋkeɑm# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #lˈɑːŋkeɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#lˈɑŋkeɑ# | 51 : [+syl] > [-long,-splng] 
-#lˈɑŋkejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#lˈɑŋkijɑ# | 58 : e > i / __ j
-#lˈɑŋkjijɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#lˈɑŋt͡ʃjijɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#lˈɑŋt͡ʃijɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#lˈɑŋt͡ʃiɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#lˈɑŋt͡siɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#lˈɑŋt͡sjɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#lˈɑjt͡sjɑ# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#lˈejt͡sjɑ# | 137 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#lˈeːt͡sjɑ# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˈet͡sjɑ# | 153 : [+syl] > [-long,-splng] 
-#lˈit͡sjɑ# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#lˈis̪jɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#lˈiθjɑ# | 199 : s̪ > θ / __ [-cons]
-Final form : #lˈiθjɑ#
+#lˈɑːŋkjɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#lˈɑŋkjɑ# | 51 : [+syl] > [-long,-splng] 
+#lˈɑŋt͡ʃjɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˈɑŋt͡ʃɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#lˈɑŋt͡sɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lˈɑjt͡sɑ# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#lˈejt͡sɑ# | 137 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#lˈeːt͡sɑ# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˈet͡sɑ# | 153 : [+syl] > [-long,-splng] 
+#lˈes̪ɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#lˈeθɑ# | 199 : s̪ > θ / __ [-cons]
+Final form : #lˈeθɑ#

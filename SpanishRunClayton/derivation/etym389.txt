@@ -1,21 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :389:
-#kˌupid̪ˈit̪iɑm# >>> #kobˈid̪jɑ# ( GOLD : #kod̪ˈiθjɑ#) :
+#kˌupid̪ˈit̪iɑm# >>> #kobeˈeθɑ# ( GOLD : #kod̪ˈiθjɑ#) :
 k ˌu p i d̪ ˈi t̪ i ɑ m 
 #kˌupid̪ˈit̪iɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌoped̪ˈet̪eɑ# | 50 : [+syl,-long] > [-hi] 
-#kˌoped̪ˈet̪ejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#kˌoped̪ˈet̪ijɑ# | 58 : e > i / __ j
-#kˌoped̪ˈet̪iɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#kˌopeðˈet̪iɑ# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#kˌopeˈet̪iɑ# | 97 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#kˌobeˈed̪iɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌobeˈed̪jɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#kˌobiˈid̪jɑ# | 108 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#kˌubiˈid̪jɑ# | 109 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#kˌubjˈid̪jɑ# | 120 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / __ [+syl]
-#kˌubˈid̪jɑ# | 159 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#kˌuβˈiðjɑ# | 169 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kˌoβˈiðjɑ# | 177 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#kˌobˈid̪jɑ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#kobˈid̪jɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kobˈid̪jɑ#
+#kˌupid̪ˈit̪jɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#kˌoped̪ˈet̪jɑ# | 50 : [+syl,-long] > [-hi] 
+#kˌoped̪ˈet͡ʃjɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌoped̪ˈet͡ʃɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#kˌopeðˈet͡ʃɑ# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#kˌopeˈet͡ʃɑ# | 97 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#kˌobeˈed͡ʒɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˌobeˈed͡zɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌoβeˈed͡zɑ# | 169 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#kˌoβeˈez̪ɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kˌoβeˈes̪ɑ# | 196 : [+strid] > [-voi] 
+#kˌoβeˈeθɑ# | 199 : s̪ > θ / __ [-cons]
+#kˌobeˈeθɑ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#kobeˈeθɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kobeˈeθɑ#

@@ -1,20 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :578:
-#mˌɑn̪siˈoːn̪em# >>> #mɑjsˈon̪# ( GOLD : #mesˈon̪#) :
+#mˌɑn̪siˈoːn̪em# >>> #mesˈon̪# ( GOLD : #mesˈon̪#) :
 m ˌɑ n̪ s i ˈoː n̪ e m 
 #mˌɑːn̪siˈoːn̪em# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #mˌɑːnsiˈoːn̪em# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #mˌɑːnsiˈoːn̪e# | 32 : [+nas] > ∅ / [-stres] __ #
 #mˌɑːsiˈoːn̪e# | 33 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
-#mˌɑːseˈoːn̪e# | 50 : [+syl,-long] > [-hi] 
-#mˌɑseˈon̪e# | 51 : [+syl] > [-long,-splng] 
-#mˌɑsejˈon̪e# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#mˌɑsijˈon̪e# | 58 : e > i / __ j
-#mˌɑsiˈon̪e# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#mˌɑziˈon̪e# | 98 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#mˌɑzjˈon̪e# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#mˌɑe̯zjˈon̪e# | 147 : ∅ > e̯ / [+syl] __ [+cor,+cont] j [+back]
-#mˌɑjzˈon̪e# | 149 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#mˌɑjzˈon̪# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#mˌɑjsˈon̪# | 196 : [+strid] > [-voi] 
-#mɑjsˈon̪# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mɑjsˈon̪#
+#mˌɑːsjˈoːn̪e# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#mˌɑsjˈon̪e# | 51 : [+syl] > [-long,-splng] 
+#mˌɑe̯sjˈon̪e# | 89 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#mˌɑjsˈon̪e# | 93 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#mˌɑjzˈon̪e# | 98 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#mˌejzˈon̪e# | 137 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#mˌeːzˈon̪e# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌezˈon̪e# | 153 : [+syl] > [-long,-splng] 
+#mˌezˈon̪# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#mˌesˈon̪# | 196 : [+strid] > [-voi] 
+#mesˈon̪# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #mesˈon̪#

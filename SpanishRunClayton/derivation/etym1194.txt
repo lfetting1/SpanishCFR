@@ -1,22 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1194:
-#ˌɑskˈiolɑm# >>> #ɑθjwˈelɑ# ( GOLD : #ɑθwˈelɑ#) :
+#ˌɑskˈiolɑm# >>> #ɑθwˈelɑ# ( GOLD : #ɑθwˈelɑ#) :
 ˌɑ s k ˈi o l ɑ m 
 #ˌɑskˈiolɑ# | 32 : [+nas] > ∅ / [-stres] __ #
 #ˌɑskiˈolɑ# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌɑskiˈɔlɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑskeˈɔlɑ# | 50 : [+syl,-long] > [-hi] 
-#ˌɑskejˈɔlɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ˌɑskijˈɔlɑ# | 58 : e > i / __ j
-#ˌɑskjijˈɔlɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌɑst͡ʃjijˈɔlɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑst͡ʃijˈɔlɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɑst͡ʃiˈɔlɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌɑst͡siˈɔlɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑst͡sjˈɔlɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
-#ˌɑst͡sjˈɔelɑ# | 114 : ∅ > e / [-tense] __ 
-#ˌɑst͡sjwˈelɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ˌɑt͡sjwˈelɑ# | 178 : [-son] > ∅ / __ [+delrel]
-#ˌɑs̪jwˈelɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌɑθjwˈelɑ# | 199 : s̪ > θ / __ [-cons]
-#ɑθjwˈelɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑθjwˈelɑ#
+#ˌɑskjˈolɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɑskjˈɔlɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑst͡ʃjˈɔlɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑst͡ʃˈɔlɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɑst͡sˈɔlɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑst͡sˈɔelɑ# | 114 : ∅ > e / [-tense] __ 
+#ˌɑst͡swˈelɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ˌɑt͡swˈelɑ# | 178 : [-son] > ∅ / __ [+delrel]
+#ˌɑs̪wˈelɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌɑθwˈelɑ# | 199 : s̪ > θ / __ [-cons]
+#ɑθwˈelɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑθwˈelɑ#
