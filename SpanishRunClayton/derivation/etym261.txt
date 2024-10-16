@@ -1,17 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :261:
-#kˈiliɑ# >>> #θˈeliɑ# ( GOLD : #θˈexɑ#) :
-k ˈi l i ɑ 
-#kˈeleɑ# | 50 : [+syl,-long] > [-hi] 
-#kˈelejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#kˈelijɑ# | 58 : e > i / __ j
-#kjˈelijɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈelijɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡sjˈelijɑ# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sjˈilijɑ# | 106 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#t͡sjˈiliːɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#t͡sjˈiliɑ# | 151 : [+syl] > [-long,-splng] 
-#t͡sˈiliɑ# | 155 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#t͡sˈeliɑ# | 173 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#s̪ˈeliɑ# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#θˈeliɑ# | 193 : s̪ > θ / __ [-cons]
-Final form : #θˈeliɑ#
+#kˈin̪kt̪um# >>> #θˈit͡ʃo# ( GOLD : #θˈin̪t̪o#) :
+k ˈi n̪ k t̪ u m 
+#kˈiːn̪kt̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˈiːŋkt̪um# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#kˈiːŋt̪um# | 10 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#kˈiːŋt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˈiːŋt̪o# | 50 : [+syl,-long] > [-hi] 
+#kˈiŋt̪o# | 51 : [+syl] > [-long,-splng] 
+#kˈijt̪o# | 61 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#kjˈijt̪o# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈijt̪o# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡sjˈijt̪o# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjˈijt͡ʃo# | 148 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#t͡sjˈiːt͡ʃo# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#t͡sjˈit͡ʃo# | 151 : [+syl] > [-long,-splng] 
+#t͡sˈit͡ʃo# | 155 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#s̪ˈit͡ʃo# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θˈit͡ʃo# | 193 : s̪ > θ / __ [-cons]
+Final form : #θˈit͡ʃo#

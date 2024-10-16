@@ -1,15 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :418:
-#kˌɑst̪ˈellum# >>> #kɑst̪ˈiʎo# ( GOLD : #kɑst̪ˈiʝo#) :
-k ˌɑ s t̪ ˈe l l u m 
-#kˌɑs̪t̪ˈellum# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#kˌɑs̪t̪ˈellu# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌɑs̪t̪ˈɛllu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɑs̪t̪ˈɛllo# | 50 : [+syl,-long] > [-hi] 
-#kˌɑs̪t̪ˈɛello# | 112 : ∅ > e / [-tense] __ 
-#kˌɑs̪t̪jˈello# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#kˌɑs̪t̪jˈeʎo# | 130 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#kˌɑs̪t̪jˈiʎo# | 182 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-#kˌɑs̪t̪ˈiʎo# | 185 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#kˌɑst̪ˈiʎo# | 191 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#kɑst̪ˈiʎo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kɑst̪ˈiʎo#
+#kˌɑst̪ˈiːkeum# >>> #kɑst̪ˈiθ# ( GOLD : #kɑst̪ˈiθo#) :
+k ˌɑ s t̪ ˈiː k e u m 
+#kˌɑs̪t̪ˈiːkeum# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#kˌɑs̪t̪ˈiːkeu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌɑs̪t̪ˈiːkju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˌɑs̪t̪ˈiːkjo# | 50 : [+syl,-long] > [-hi] 
+#kˌɑs̪t̪ˈikjo# | 51 : [+syl] > [-long,-splng] 
+#kˌɑs̪t̪ˈit͡ʃjo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌɑs̪t̪ˈie̯t͡ʃjo# | 87 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#kˌɑs̪t̪ˈijt͡ʃo# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#kˌɑs̪t̪ˈijt͡so# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌɑs̪t̪ˈiːt͡so# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˌɑs̪t̪ˈit͡so# | 151 : [+syl] > [-long,-splng] 
+#kˌɑs̪t̪ˈit͡s# | 167 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#kˌɑs̪t̪ˈis̪# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kˌɑst̪ˈis̪# | 191 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#kˌɑst̪ˈiθ# | 194 : s̪ > θ / __ #
+#kɑst̪ˈiθ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kɑst̪ˈiθ#

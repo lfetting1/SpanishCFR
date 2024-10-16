@@ -1,19 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :245:
-#kwˌiˈeːt̪um# >>> #keˈed̪# ( GOLD : #kˈed̪o#) :
-k w ˌi ˈeː t̪ u m 
-#kɣʷˌiˈeːt̪um# | 18 : w > ɣʷ / __ [+syl]
-#kɣʷˌiˈeːt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#kβˌiˈeːt̪u# | 37 : ɣʷ > β 
-#kβˌeˈeːt̪o# | 50 : [+syl,-long] > [-hi] 
-#kβˌeˈet̪o# | 51 : [+syl] > [-long,-splng] 
-#kβˌeˈed̪o# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#kvˌeˈed̪o# | 104 : β > v 
-#kβˌeˈed̪o# | 121 : {v;f} > {β;ɸ} 
-#kɸˌeˈed̪o# | 134 : [-son] > [-voi] / [-voi] __ 
-#kɸˌeˈeðo# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kɸˌeˈeð# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#khˌeˈeð# | 179 : ɸ > h / __ [+syl]
-#kˌeˈeð# | 181 : h > ∅ 
-#kˌeˈed̪# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#keˈed̪# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #keˈed̪#
+#kwˌiːn̪ɡˈen̪t̪oːs# >>> #kixjˈen̪ss# ( GOLD : #kin̪jˈen̪t̪os#) :
+k w ˌiː n̪ ɡ ˈe n̪ t̪ oː s 
+#kwˌiːn̪ɡˈeːn̪t̪oːs# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kwˌiːŋɡˈeːn̪t̪oːs# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#kɣʷˌiːŋɡˈeːn̪t̪oːs# | 18 : w > ɣʷ / __ [+syl]
+#kβˌiːŋɡˈeːn̪t̪oːs# | 37 : ɣʷ > β 
+#kβˌiŋɡˈen̪t̪os# | 51 : [+syl] > [-long,-splng] 
+#kβˌiŋɡjˈen̪t̪os# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#kβˌiŋd͡ʒjˈen̪t̪os# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kβˌiŋʒjˈen̪t̪os# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#kvˌiŋʒjˈen̪t̪os# | 104 : β > v 
+#kvˌijʒjˈen̪t̪os# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kβˌijʒjˈen̪t̪os# | 121 : {v;f} > {β;ɸ} 
+#kβˌijʒjˈen̪t̪s# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kɸˌijʒjˈen̪t̪s# | 134 : [-son] > [-voi] / [-voi] __ 
+#kɸˌiːʒjˈen̪t̪s# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kɸˌiʒjˈen̪t̪s# | 151 : [+syl] > [-long,-splng] 
+#khˌiʒjˈen̪t̪s# | 179 : ɸ > h / __ [+syl]
+#kˌiʒjˈen̪t̪s# | 181 : h > ∅ 
+#kˌiʃjˈen̪t̪s# | 190 : [+strid] > [-voi] 
+#kˌiʃjˈen̪ss# | 191 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#kˌixjˈen̪ss# | 192 : ʃ > x 
+#kixjˈen̪ss# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kixjˈen̪ss#

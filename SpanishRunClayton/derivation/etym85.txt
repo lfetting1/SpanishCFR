@@ -1,20 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :85:
-#d̪ˌiːkˈiːre# >>> #d̪eθˈiɾ# ( GOLD : #d̪eθˈiɾ#) :
-d̪ ˌiː k ˈiː r e 
-#d̪ˌikˈire# | 51 : [+syl] > [-long,-splng] 
-#d̪ˌikˈiɾe# | 52 : r > ɾ 
-#d̪ˌikjˈiɾe# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d̪ˌit͡ʃjˈiɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d̪ˌie̯t͡ʃjˈiɾe# | 88 : ∅ > e̯ / [+syl] __ [-voi] j [+hi]
-#d̪ˌijt͡ʃˈiɾe# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#ðˌijt͡ʃˈiɾe# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ðˌijt͡sˈiɾe# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ðˌiːt͡sˈiɾe# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ðˌit͡sˈiɾe# | 151 : [+syl] > [-long,-splng] 
-#ðˌit͡sˈiɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#ðˌet͡sˈiɾ# | 173 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#ðˌes̪ˈiɾ# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ðˌeθˈiɾ# | 193 : s̪ > θ / __ [-cons]
-#d̪ˌeθˈiɾ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#d̪eθˈiɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #d̪eθˈiɾ#
+#d̪ˌiːrˈekt̪um# >>> #d̪iɾˈet͡ʃo# ( GOLD : #d̪eɾˈet͡ʃo#) :
+d̪ ˌiː r ˈe k t̪ u m 
+#d̪ˌiːrˈekt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
+#d̪ˌiːrˈext̪u# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#d̪ˌiːrˈɛxt̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#d̪ˌiːrˈɛxt̪o# | 50 : [+syl,-long] > [-hi] 
+#d̪ˌirˈɛxt̪o# | 51 : [+syl] > [-long,-splng] 
+#d̪ˌiɾˈɛxt̪o# | 52 : r > ɾ 
+#ðˌiɾˈɛxt̪o# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˌiɾˈɛjt̪o# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ðˌiɾˈejt̪o# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ðˌiɾˈejt͡ʃo# | 148 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ðˌiɾˈeːt͡ʃo# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ðˌiɾˈet͡ʃo# | 151 : [+syl] > [-long,-splng] 
+#d̪ˌiɾˈet͡ʃo# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#d̪iɾˈet͡ʃo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #d̪iɾˈet͡ʃo#

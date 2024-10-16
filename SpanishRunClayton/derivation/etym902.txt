@@ -1,18 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :902:
-#t̪rˌin̪it̪iˈɑːre# >>> #t̪ɾen̪d̪iˈɑɾ# ( GOLD : #t̪ɾen̪θˈɑɾ#) :
-t̪ r ˌi n̪ i t̪ i ˈɑː r e 
-#t̪rˌen̪et̪eˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#t̪rˌen̪et̪eˈɑre# | 51 : [+syl] > [-long,-splng] 
-#t̪ɾˌen̪et̪eˈɑɾe# | 52 : r > ɾ 
-#t̪ɾˌen̪et̪ejˈɑɾe# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#t̪ɾˌen̪et̪ijˈɑɾe# | 58 : e > i / __ j
-#t̪ɾˌen̪ed̪ijˈɑɾe# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#t̪ɾˌen̪id̪ijˈɑɾe# | 106 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#t̪ɾˌen̪d̪ijˈɑɾe# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#t̪ɾˌen̪d̪iːˈɑɾe# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#t̪ɾˌen̪d̪iˈɑɾe# | 151 : [+syl] > [-long,-splng] 
-#t̪ɾˌen̪ðiˈɑɾe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#t̪ɾˌen̪ðiˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#t̪ɾˌen̪d̪iˈɑɾ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#t̪ɾen̪d̪iˈɑɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #t̪ɾen̪d̪iˈɑɾ#
+#t̪rˌɑːd̪it̪ˈoːrem# >>> #t̪ɾed̪ˈoɾ# ( GOLD : #t̪ɾɑjd̪ˈoɾ#) :
+t̪ r ˌɑː d̪ i t̪ ˈoː r e m 
+#t̪rˌɑːd̪it̪ˈoːre# | 32 : [+nas] > ∅ / [-stres] __ #
+#t̪rˌɑːd̪et̪ˈoːre# | 50 : [+syl,-long] > [-hi] 
+#t̪rˌɑd̪et̪ˈore# | 51 : [+syl] > [-long,-splng] 
+#t̪ɾˌɑd̪et̪ˈoɾe# | 52 : r > ɾ 
+#t̪ɾˌɑðet̪ˈoɾe# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#t̪ɾˌɑet̪ˈoɾe# | 95 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#t̪ɾˌɑed̪ˈoɾe# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
+#t̪ɾˌɑjd̪ˈoɾe# | 103 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#t̪ɾˌejd̪ˈoɾe# | 135 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#t̪ɾˌeːd̪ˈoɾe# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#t̪ɾˌed̪ˈoɾe# | 151 : [+syl] > [-long,-splng] 
+#t̪ɾˌeðˈoɾe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#t̪ɾˌeðˈoɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#t̪ɾˌed̪ˈoɾ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#t̪ɾed̪ˈoɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #t̪ɾed̪ˈoɾ#

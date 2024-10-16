@@ -1,15 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1113:
-#ˌimperɑːt̪ˈoːre# >>> #iwbɾɑd̪ˈoɾ# ( GOLD : #empeɾɑd̪ˈoɾ#) :
-ˌi m p e r ɑː t̪ ˈoː r e 
-#ˌiːmperɑːt̪ˈoːre# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌimperɑt̪ˈore# | 51 : [+syl] > [-long,-splng] 
-#ˌimpeɾɑt̪ˈoɾe# | 52 : r > ɾ 
-#ˌimpeɾɑd̪ˈoɾe# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌimpɾɑd̪ˈoɾe# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌimpɾɑðˈoɾe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ˌimpɾɑðˈoɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#ˌiwpɾɑðˈoɾ# | 186 : [+lab,+cons] > w / __ [-son]
-#ˌiwbɾɑðˈoɾ# | 197 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
-#ˌiwbɾɑd̪ˈoɾ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#iwbɾɑd̪ˈoɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #iwbɾɑd̪ˈoɾ#
+#ˌin̪kˈert̪um# >>> #iθjˈeɾt̪o# ( GOLD : #in̪θjˈeɾt̪o#) :
+ˌi n̪ k ˈe r t̪ u m 
+#ˌiːn̪kˈert̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ˌiːŋkˈert̪um# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ˌiːŋkˈert̪u# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌiːŋkˈɛrt̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌiːŋkˈɛrt̪o# | 50 : [+syl,-long] > [-hi] 
+#ˌiŋkˈɛrt̪o# | 51 : [+syl] > [-long,-splng] 
+#ˌiŋkˈɛɾt̪o# | 52 : r > ɾ 
+#ˌiŋkjˈɛɾt̪o# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌiŋt͡ʃjˈɛɾt̪o# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌiŋt͡sjˈɛɾt̪o# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌijt͡sjˈɛɾt̪o# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˌijt͡sjˈɛeɾt̪o# | 112 : ∅ > e / [-tense] __ 
+#ˌijt͡sjjˈeɾt̪o# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ˌiːt͡sjjˈeɾt̪o# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌit͡sjjˈeɾt̪o# | 151 : [+syl] > [-long,-splng] 
+#ˌit͡sjˈeɾt̪o# | 154 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ˌis̪jˈeɾt̪o# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌiθjˈeɾt̪o# | 193 : s̪ > θ / __ [-cons]
+#iθjˈeɾt̪o# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #iθjˈeɾt̪o#

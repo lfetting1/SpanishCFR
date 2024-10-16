@@ -1,27 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :979:
-#wˌerekˈun̪d̪iɑm# >>> #bjeɾɡˈon̪d̪iɑ# ( GOLD : #beɾɡwˈen̪θɑ#) :
-w ˌe r e k ˈu n̪ d̪ i ɑ m 
-#wˌerekˈuːn̪d̪iɑm# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ɣʷˌerekˈuːn̪d̪iɑm# | 18 : w > ɣʷ / __ [+syl]
-#ɣʷˌerekˈuːn̪d̪iɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#βˌerekˈuːn̪d̪iɑ# | 37 : ɣʷ > β 
-#βˌɛrekˈuːn̪d̪iɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#βˌɛrekˈuːn̪d̪eɑ# | 50 : [+syl,-long] > [-hi] 
-#βˌɛrekˈun̪d̪eɑ# | 51 : [+syl] > [-long,-splng] 
-#βˌɛɾekˈun̪d̪eɑ# | 52 : r > ɾ 
-#βˌɛɾekˈun̪d̪ejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#βˌɛɾekˈun̪d̪ijɑ# | 58 : e > i / __ j
-#βˌɛɾekˈun̪ðijɑ# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#βˌɛɾeɡˈun̪ðijɑ# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#vˌɛɾeɡˈun̪ðijɑ# | 104 : β > v 
-#vˌɛeɾeɡˈun̪ðijɑ# | 112 : ∅ > e / [-tense] __ 
-#vjˌeɾeɡˈun̪ðijɑ# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#βjˌeɾeɡˈun̪ðijɑ# | 121 : {v;f} > {β;ɸ} 
-#βjˌeɾɡˈun̪ðijɑ# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#βjˌeɾɡˈun̪ðiːɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#βjˌeɾɡˈun̪ðiɑ# | 151 : [+syl] > [-long,-splng] 
-#βjˌeɾɣˈun̪ðiɑ# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#βjˌeɾɣˈon̪ðiɑ# | 173 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#bjˌeɾɡˈon̪d̪iɑ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#bjeɾɡˈon̪d̪iɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bjeɾɡˈon̪d̪iɑ#
+#wˌikˈiːn̪um# >>> #beθˈin̪# ( GOLD : #beθˈin̪o#) :
+w ˌi k ˈiː n̪ u m 
+#ɣʷˌikˈiːn̪um# | 18 : w > ɣʷ / __ [+syl]
+#ɣʷˌikˈiːn̪u# | 32 : [+nas] > ∅ / [-stres] __ #
+#βˌikˈiːn̪u# | 37 : ɣʷ > β 
+#βˌekˈiːn̪o# | 50 : [+syl,-long] > [-hi] 
+#βˌekˈin̪o# | 51 : [+syl] > [-long,-splng] 
+#βˌekjˈin̪o# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βˌet͡ʃjˈin̪o# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˌee̯t͡ʃjˈin̪o# | 88 : ∅ > e̯ / [+syl] __ [-voi] j [+hi]
+#βˌejt͡ʃˈin̪o# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#βˌejt͡sˈin̪o# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˌejt͡sˈin̪o# | 104 : β > v 
+#βˌejt͡sˈin̪o# | 121 : {v;f} > {β;ɸ} 
+#βˌeːt͡sˈin̪o# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βˌet͡sˈin̪o# | 151 : [+syl] > [-long,-splng] 
+#βˌet͡sˈin̪# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#βˌes̪ˈin̪# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#βˌeθˈin̪# | 193 : s̪ > θ / __ [-cons]
+#bˌeθˈin̪# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#beθˈin̪# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #beθˈin̪#

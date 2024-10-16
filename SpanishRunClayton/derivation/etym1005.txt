@@ -1,16 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1005:
-#ɡrˈɑːt̪iɑm# >>> #ɡɾˈɑd̪iɑ# ( GOLD : #ɡɾˈɑθjɑ#) :
-ɡ r ˈɑː t̪ i ɑ m 
-#ɡrˈɑːt̪iɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ɡrˈɑːt̪eɑ# | 50 : [+syl,-long] > [-hi] 
-#ɡrˈɑt̪eɑ# | 51 : [+syl] > [-long,-splng] 
-#ɡɾˈɑt̪eɑ# | 52 : r > ɾ 
-#ɡɾˈɑt̪ejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#ɡɾˈɑt̪ijɑ# | 58 : e > i / __ j
-#ɣɾˈɑt̪ijɑ# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ɣɾˈɑd̪ijɑ# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#ɣɾˈɑd̪iːɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɣɾˈɑd̪iɑ# | 151 : [+syl] > [-long,-splng] 
-#ɣɾˈɑðiɑ# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ɡɾˈɑd̪iɑ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #ɡɾˈɑd̪iɑ#
+#ɡˈemmɑm# >>> #xjˈemɑ# ( GOLD : #ʝˈemɑ#) :
+ɡ ˈe m m ɑ m 
+#ɡˈemmɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#ɡˈɛmmɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ɡjˈɛmmɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˈɛmmɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ʒjˈɛmmɑ# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ʒjˈɛemmɑ# | 112 : ∅ > e / [-tense] __ 
+#ʒjjˈemmɑ# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ʒjjˈemɑ# | 131 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ʒjˈemɑ# | 154 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ʃjˈemɑ# | 190 : [+strid] > [-voi] 
+#xjˈemɑ# | 192 : ʃ > x 
+Final form : #xjˈemɑ#

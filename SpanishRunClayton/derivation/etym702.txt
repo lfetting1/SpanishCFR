@@ -1,21 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :702:
-#pˌellˈiːkeɑ# >>> #peʎˈeθiɑ# ( GOLD : #peʝˈiθɑ#) :
-p ˌe l l ˈiː k e ɑ 
-#pˌɛllˈiːkeɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌɛllˈikeɑ# | 51 : [+syl] > [-long,-splng] 
-#pˌɛllˈikejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#pˌɛllˈikijɑ# | 58 : e > i / __ j
-#pˌɛllˈikjijɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#pˌɛllˈit͡ʃjijɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˌɛllˈie̯t͡ʃjijɑ# | 88 : ∅ > e̯ / [+syl] __ [-voi] j [+hi]
-#pˌɛllˈijt͡ʃijɑ# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#pˌɛllˈijt͡sijɑ# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#pˌellˈijt͡sijɑ# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#pˌeʎˈijt͡sijɑ# | 130 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#pˌeʎˈiːt͡siːɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#pˌeʎˈit͡siɑ# | 151 : [+syl] > [-long,-splng] 
-#pˌeʎˈet͡siɑ# | 173 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#pˌeʎˈes̪iɑ# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#pˌeʎˈeθiɑ# | 193 : s̪ > θ / __ [-cons]
-#peʎˈeθiɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #peʎˈeθiɑ#
+#pˌerˈikulum# >>> #peɾˈel# ( GOLD : #pelˈiɡɾo#) :
+p ˌe r ˈi k u l u m 
+#pˌerˈiklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#pˌerˈiklu# | 32 : [+nas] > ∅ / [-stres] __ #
+#pˌerˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#pˌɛrˈixlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˌɛrˈexlo# | 50 : [+syl,-long] > [-hi] 
+#pˌɛɾˈexlo# | 52 : r > ɾ 
+#pˌɛɾˈeɣlo# | 96 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#pˌɛɾˈejlo# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#pˌeɾˈejlo# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pˌeɾˈeːlo# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#pˌeɾˈelo# | 151 : [+syl] > [-long,-splng] 
+#pˌeɾˈel# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#peɾˈel# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #peɾˈel#

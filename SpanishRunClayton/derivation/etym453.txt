@@ -1,17 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :453:
-#lˈuːkid̪um# >>> #lˈuθjed̪# ( GOLD : #lˈuθjo#) :
-l ˈuː k i d̪ u m 
-#lˈuːkid̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#lˈuːked̪o# | 50 : [+syl,-long] > [-hi] 
-#lˈuked̪o# | 51 : [+syl] > [-long,-splng] 
-#lˈukjed̪o# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#lˈut͡ʃjed̪o# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#lˈut͡ʃjeðo# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#lˈud͡ʒjeðo# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#lˈud͡zjeðo# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#lˈud͡zjeð# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#lˈuz̪jeð# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#lˈus̪jeð# | 190 : [+strid] > [-voi] 
-#lˈuθjeð# | 193 : s̪ > θ / __ [-cons]
-#lˈuθjed̪# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #lˈuθjed̪#
+#lˈuːkium# >>> #lwˈiθ# ( GOLD : #lˈuθjo#) :
+l ˈuː k i u m 
+#lˈuːkiu# | 32 : [+nas] > ∅ / [-stres] __ #
+#lˈuːkju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#lˈuːkjo# | 50 : [+syl,-long] > [-hi] 
+#lˈukjo# | 51 : [+syl] > [-long,-splng] 
+#lˈut͡ʃjo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˈue̯t͡ʃjo# | 87 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#lˈujt͡ʃo# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#lˈujt͡so# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lwˈit͡so# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#lwˈit͡s# | 167 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#lwˈis̪# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#lwˈiθ# | 194 : s̪ > θ / __ #
+Final form : #lwˈiθ#

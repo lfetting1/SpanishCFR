@@ -1,15 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :857:
-#sˌed̪ˈeːre# >>> #siˈeɾ# ( GOLD : #sˈeɾ#) :
-s ˌe d̪ ˈeː r e 
-#sˌɛd̪ˈeːre# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sˌɛd̪ˈere# | 51 : [+syl] > [-long,-splng] 
-#sˌɛd̪ˈeɾe# | 52 : r > ɾ 
-#sˌɛðˈeɾe# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#sˌɛˈeɾe# | 95 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#sˌɛeˈeɾe# | 112 : ∅ > e / [-tense] __ 
-#sjˌeˈeɾe# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#sjˌeˈeɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#sjˌiˈeɾ# | 183 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
-#sˌiˈeɾ# | 185 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#siˈeɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #siˈeɾ#
+#sˌekuːrit̪ˈɑːt̪em# >>> #siɡɾt̪ˈɑd̪# ( GOLD : #seɡuɾid̪ˈɑd̪#) :
+s ˌe k uː r i t̪ ˈɑː t̪ e m 
+#sˌekuːrt̪ˈɑːt̪em# | 27 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+prim]
+#sˌekuːrt̪ˈɑːt̪e# | 32 : [+nas] > ∅ / [-stres] __ #
+#sˌɛkuːrt̪ˈɑːt̪e# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˌɛkurt̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
+#sˌɛkuɾt̪ˈɑt̪e# | 52 : r > ɾ 
+#sˌɛɡuɾt̪ˈɑd̪e# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
+#sˌɛeɡuɾt̪ˈɑd̪e# | 112 : ∅ > e / [-tense] __ 
+#sjˌeɡuɾt̪ˈɑd̪e# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#sjˌeɡɾt̪ˈɑd̪e# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#sjˌeɣɾt̪ˈɑðe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#sjˌeɣɾt̪ˈɑð# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#sjˌiɣɾt̪ˈɑð# | 183 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#sˌiɣɾt̪ˈɑð# | 185 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#sˌiɡɾt̪ˈɑd̪# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#siɡɾt̪ˈɑd̪# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #siɡɾt̪ˈɑd̪#

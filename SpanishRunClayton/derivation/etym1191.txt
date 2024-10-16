@@ -1,14 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1191:
-#ˌɑpˈert̪um# >>> #ɑbjˈeɾt̪o# ( GOLD : #ɑbjˈeɾt̪o#) :
-ˌɑ p ˈe r t̪ u m 
-#ˌɑpˈert̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌɑpˈɛrt̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑpˈɛrt̪o# | 50 : [+syl,-long] > [-hi] 
-#ˌɑpˈɛɾt̪o# | 52 : r > ɾ 
-#ˌɑbˈɛɾt̪o# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑbˈɛeɾt̪o# | 112 : ∅ > e / [-tense] __ 
-#ˌɑbjˈeɾt̪o# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ˌɑβjˈeɾt̪o# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ˌɑbjˈeɾt̪o# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#ɑbjˈeɾt̪o# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑbjˈeɾt̪o#
+#ˌɑsin̪ˈɑːlem# >>> #ɑzn̪ˈɑl# ( GOLD : #ɑsn̪ˈɑl#) :
+ˌɑ s i n̪ ˈɑː l e m 
+#ˌɑsn̪ˈɑːlem# | 26 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] [+prim]
+#ˌɑsn̪ˈɑːle# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌɑsn̪ˈɑle# | 51 : [+syl] > [-long,-splng] 
+#ˌɑzn̪ˈɑle# | 96 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#ˌɑzn̪ˈɑl# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌɑsn̪ˈɑl# | 190 : [+strid] > [-voi] 
+#ˌɑzn̪ˈɑl# | 195 : s > z / [-cons] __ [+cons,+voi]
+#ɑzn̪ˈɑl# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑzn̪ˈɑl#

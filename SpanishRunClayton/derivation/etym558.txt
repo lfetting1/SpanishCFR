@@ -1,13 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :558:
-#mˌemorˈɑːre# >>> #mjembɾˈɑɾ# ( GOLD : #membɾˈɑɾ#) :
-m ˌe m o r ˈɑː r e 
-#mˌemrˈɑːre# | 27 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+prim]
-#mˌɛmrˈɑːre# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˌɛmrˈɑre# | 51 : [+syl] > [-long,-splng] 
-#mˌɛmɾˈɑɾe# | 52 : r > ɾ 
-#mˌɛemɾˈɑɾe# | 112 : ∅ > e / [-tense] __ 
-#mjˌemɾˈɑɾe# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#mjˌemɾˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#mjˌembɾˈɑɾ# | 188 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-#mjembɾˈɑɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mjembɾˈɑɾ#
+#mˌikst̪ˈiːkium# >>> #mest̪ˈiθ# ( GOLD : #mest̪ˈiθo#) :
+m ˌi k s t̪ ˈiː k i u m 
+#mˌiks̪t̪ˈiːkium# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#mˌiks̪t̪ˈiːkiu# | 32 : [+nas] > ∅ / [-stres] __ #
+#mˌis̪t̪ˈiːkiu# | 36 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
+#mˌis̪t̪ˈiːkju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#mˌes̪t̪ˈiːkjo# | 50 : [+syl,-long] > [-hi] 
+#mˌes̪t̪ˈikjo# | 51 : [+syl] > [-long,-splng] 
+#mˌes̪t̪ˈit͡ʃjo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˌes̪t̪ˈie̯t͡ʃjo# | 87 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#mˌes̪t̪ˈijt͡ʃo# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#mˌes̪t̪ˈijt͡so# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mˌes̪t̪ˈiːt͡so# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌes̪t̪ˈit͡so# | 151 : [+syl] > [-long,-splng] 
+#mˌes̪t̪ˈit͡s# | 167 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#mˌes̪t̪ˈis̪# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#mˌest̪ˈis̪# | 191 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#mˌest̪ˈiθ# | 194 : s̪ > θ / __ #
+#mest̪ˈiθ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #mest̪ˈiθ#

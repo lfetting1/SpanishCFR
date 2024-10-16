@@ -1,19 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1103:
-#ˌae̯st̪ˈiːwum# >>> #est̪ˈibo# ( GOLD : #est̪ˈio#) :
-ˌa e̯ s t̪ ˈiː w u m 
-#ˌɑjst̪ˈiːwum# | 0 : [+lo] e̯ > [+back,-front] j
-#ˌɑjst̪ˈiːɣʷum# | 18 : w > ɣʷ / __ [+syl]
-#ˌɑjs̪t̪ˈiːɣʷum# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ˌɑjs̪t̪ˈiːɣʷu# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌɑjs̪t̪ˈiːβu# | 37 : ɣʷ > β 
-#ˌɑjs̪t̪ˈiːβo# | 50 : [+syl,-long] > [-hi] 
-#ˌɑjs̪t̪ˈiβo# | 51 : [+syl] > [-long,-splng] 
-#ˌɑjs̪t̪ˈivo# | 104 : β > v 
-#ˌɑjs̪t̪ˈiβo# | 121 : {v;f} > {β;ɸ} 
-#ˌejs̪t̪ˈiβo# | 135 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌeːs̪t̪ˈiβo# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌes̪t̪ˈiβo# | 151 : [+syl] > [-long,-splng] 
-#ˌest̪ˈiβo# | 191 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#ˌest̪ˈibo# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#est̪ˈibo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #est̪ˈibo#
+#ˌeksˈiːt̪um# >>> #exˈid̪# ( GOLD : #exˈid̪o#) :
+ˌe k s ˈiː t̪ u m 
+#ˌeksˈiːt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌexsˈiːt̪u# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌɛxsˈiːt̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɛxsˈiːt̪o# | 50 : [+syl,-long] > [-hi] 
+#ˌɛxsˈit̪o# | 51 : [+syl] > [-long,-splng] 
+#ˌɛxsˈid̪o# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɛjsˈid̪o# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˌejsˈid̪o# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ˌejʃˈid̪o# | 148 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ˌeːʃˈid̪o# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌeʃˈid̪o# | 151 : [+syl] > [-long,-splng] 
+#ˌeʃˈiðo# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌeʃˈið# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌexˈið# | 192 : ʃ > x 
+#ˌexˈid̪# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#exˈid̪# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #exˈid̪#

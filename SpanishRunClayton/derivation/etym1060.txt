@@ -1,18 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1060:
-#ˈun̪d̪ekim# >>> #ˈun̪θje# ( GOLD : #ˈon̪θe#) :
-ˈu n̪ d̪ e k i m 
-#ˈuːn̪d̪ekim# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˈuːn̪d̪eki# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˈuːn̪d̪eke# | 50 : [+syl,-long] > [-hi] 
-#ˈun̪d̪eke# | 51 : [+syl] > [-long,-splng] 
-#ˈun̪d̪ekje# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˈun̪d̪et͡ʃje# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˈun̪ðet͡ʃje# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ˈun̪ðed͡ʒje# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˈun̪ðed͡zje# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˈun̪ðd͡zje# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˈun̪d͡zje# | 174 : [-son] > ∅ / __ [+delrel]
-#ˈun̪z̪je# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˈun̪s̪je# | 190 : [+strid] > [-voi] 
-#ˈun̪θje# | 193 : s̪ > θ / __ [-cons]
-Final form : #ˈun̪θje#
+#ˈuːberem# >>> #ˈubɾe# ( GOLD : #ubɾe#) :
+ˈuː b e r e m 
+#ˈuːbrem# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#ˈuːbre# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˈubre# | 51 : [+syl] > [-long,-splng] 
+#ˈubɾe# | 52 : r > ɾ 
+#ˈuβɾe# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ˈuvɾe# | 104 : β > v 
+#ˈuβɾe# | 121 : {v;f} > {β;ɸ} 
+#ˈubɾe# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #ˈubɾe#

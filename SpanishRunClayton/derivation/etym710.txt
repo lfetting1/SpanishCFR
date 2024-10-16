@@ -1,18 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :710:
-#pˌiɡrˈit̪iɑ# >>> #peɾˈed̪iɑ# ( GOLD : #peɾˈeθɑ#) :
-p ˌi ɡ r ˈi t̪ i ɑ 
-#pˌiɣrˈit̪iɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˌeɣrˈet̪eɑ# | 50 : [+syl,-long] > [-hi] 
-#pˌeɣɾˈet̪eɑ# | 52 : r > ɾ 
-#pˌeɣɾˈet̪ejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#pˌeɣɾˈet̪ijɑ# | 58 : e > i / __ j
-#pˌejɾˈet̪ijɑ# | 61 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#pˌejɾˈed̪ijɑ# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#pˌejɾˈid̪ijɑ# | 106 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#pˌeːɾˈid̪iːɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#pˌeɾˈid̪iɑ# | 151 : [+syl] > [-long,-splng] 
-#pˌeɾˈiðiɑ# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#pˌeɾˈeðiɑ# | 173 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#pˌeɾˈed̪iɑ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#peɾˈed̪iɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #peɾˈed̪iɑ#
+#pˌollikˈɑːrem# >>> #pwelɡˈɑɾ# ( GOLD : #pulɡˈɑɾ#) :
+p ˌo l l i k ˈɑː r e m 
+#pˌollikˈɑːre# | 32 : [+nas] > ∅ / [-stres] __ #
+#pˌɔllikˈɑːre# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˌɔllekˈɑːre# | 50 : [+syl,-long] > [-hi] 
+#pˌɔllekˈɑre# | 51 : [+syl] > [-long,-splng] 
+#pˌɔllekˈɑɾe# | 52 : r > ɾ 
+#pˌɔlleɡˈɑɾe# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
+#pˌɔjleɡˈɑɾe# | 99 : [+lat] > j / [+back] __ [+cons]
+#pˌojleɡˈɑɾe# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pˌojlɡˈɑɾe# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#pwˌelɡˈɑɾe# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#pwˌelɣˈɑɾe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#pwˌelɣˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#pwˌelɡˈɑɾ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#pwelɡˈɑɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #pwelɡˈɑɾ#

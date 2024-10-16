@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :378:
-#kˌoˈopert̪um# >>> #kweˈobɾt̪o# ( GOLD : #kubjˈeɾt̪o#) :
-k ˌo ˈo p e r t̪ u m 
-#kˌoˈopert̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌoˈoːpert̪u# | 40 : [+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ 
-#kˌɔˈoːpert̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔˈoːpert̪o# | 50 : [+syl,-long] > [-hi] 
-#kˌɔˈopert̪o# | 51 : [+syl] > [-long,-splng] 
-#kˌɔˈopeɾt̪o# | 52 : r > ɾ 
-#kˌɔˈobeɾt̪o# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌɔeˈobeɾt̪o# | 112 : ∅ > e / [-tense] __ 
-#kwˌeˈobeɾt̪o# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#kwˌeˈobɾt̪o# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kwˌeˈoβɾt̪o# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kwˌeˈobɾt̪o# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#kweˈobɾt̪o# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kweˈobɾt̪o#
+#kˌoˈɑːɡulum# >>> #koˈɑxo# ( GOLD : #kwˈɑxo#) :
+k ˌo ˈɑː ɡ u l u m 
+#kˌoˈɑːɡlum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#kˌoˈɑːɡlu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌoˈɑːɣlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#kˌɔˈɑːɣlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔˈɑːɣlo# | 50 : [+syl,-long] > [-hi] 
+#kˌɔˈɑɣlo# | 51 : [+syl] > [-long,-splng] 
+#kˌɔˈɑjlo# | 61 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#kˌɔˈɑjʎo# | 64 : [+lat] > ʎ / j __ 
+#kˌɔˈɑʎo# | 77 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+#kˌoˈɑʎo# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#kˌoˈɑd͡ʒo# | 122 : ʎ > d͡ʒ 
+#kˌoˈɑʒo# | 123 : d͡ʒ > ʒ 
+#kˌoˈɑʃo# | 190 : [+strid] > [-voi] 
+#kˌoˈɑxo# | 192 : ʃ > x 
+#koˈɑxo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #koˈɑxo#

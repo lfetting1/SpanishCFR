@@ -1,20 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :981:
-#wˌest̪ˈiːt̪um# >>> #best̪ˈid̪# ( GOLD : #best̪ˈid̪o#) :
-w ˌe s t̪ ˈiː t̪ u m 
-#ɣʷˌest̪ˈiːt̪um# | 18 : w > ɣʷ / __ [+syl]
-#ɣʷˌes̪t̪ˈiːt̪um# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ɣʷˌes̪t̪ˈiːt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#βˌes̪t̪ˈiːt̪u# | 37 : ɣʷ > β 
-#βˌɛs̪t̪ˈiːt̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#βˌɛs̪t̪ˈiːt̪o# | 50 : [+syl,-long] > [-hi] 
-#βˌɛs̪t̪ˈit̪o# | 51 : [+syl] > [-long,-splng] 
-#βˌɛs̪t̪ˈid̪o# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#vˌɛs̪t̪ˈid̪o# | 104 : β > v 
-#vˌes̪t̪ˈid̪o# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#βˌes̪t̪ˈid̪o# | 121 : {v;f} > {β;ɸ} 
-#βˌes̪t̪ˈiðo# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#βˌes̪t̪ˈið# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#βˌest̪ˈið# | 191 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#bˌest̪ˈid̪# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#best̪ˈid̪# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #best̪ˈid̪#
+#wˌin̪d̪ˈeːmiɑ# >>> #ben̪d̪ˈemiɑ# ( GOLD : #ben̪d̪ˈimjɑ#) :
+w ˌi n̪ d̪ ˈeː m i ɑ 
+#wˌiːn̪d̪ˈeːmiɑ# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#ɣʷˌiːn̪d̪ˈeːmiɑ# | 18 : w > ɣʷ / __ [+syl]
+#βˌiːn̪d̪ˈeːmiɑ# | 37 : ɣʷ > β 
+#βˌiːn̪d̪ˈeːmeɑ# | 50 : [+syl,-long] > [-hi] 
+#βˌin̪d̪ˈemeɑ# | 51 : [+syl] > [-long,-splng] 
+#βˌin̪d̪ˈemejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#βˌin̪d̪ˈemijɑ# | 58 : e > i / __ j
+#βˌin̪ðˈemijɑ# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#vˌin̪ðˈemijɑ# | 104 : β > v 
+#vˌin̪ðˈimijɑ# | 106 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#βˌin̪ðˈimijɑ# | 121 : {v;f} > {β;ɸ} 
+#βˌin̪ðˈimiːɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βˌin̪ðˈimiɑ# | 151 : [+syl] > [-long,-splng] 
+#βˌen̪ðˈemiɑ# | 173 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#bˌen̪d̪ˈemiɑ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ben̪d̪ˈemiɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ben̪d̪ˈemiɑ#

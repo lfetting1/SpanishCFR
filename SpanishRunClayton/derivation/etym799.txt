@@ -1,7 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :799:
-#spˈuːmɑm# >>> #espˈumɑ# ( GOLD : #espˈumɑ#) :
-s p ˈuː m ɑ m 
-#spˈuːmɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#spˈumɑ# | 51 : [+syl] > [-long,-splng] 
-#espˈumɑ# | 198 : ∅ > e / # __ s [+cons]
-Final form : #espˈumɑ#
+#spˈɑt̪ium# >>> #espˈeθ# ( GOLD : #espˈɑθjo#) :
+s p ˈɑ t̪ i u m 
+#spˈɑt̪iu# | 32 : [+nas] > ∅ / [-stres] __ #
+#spˈɑt̪ju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#spˈɑt̪jo# | 50 : [+syl,-long] > [-hi] 
+#spˈɑt͡ʃjo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#spˈɑe̯t͡ʃjo# | 87 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#spˈɑjt͡ʃo# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#spˈɑjt͡so# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#spˈejt͡so# | 135 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#spˈeːt͡so# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#spˈet͡so# | 151 : [+syl] > [-long,-splng] 
+#spˈet͡s# | 167 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#spˈes̪# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#spˈeθ# | 194 : s̪ > θ / __ #
+#espˈeθ# | 198 : ∅ > e / # __ s [+cons]
+Final form : #espˈeθ#

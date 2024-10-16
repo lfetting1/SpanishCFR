@@ -1,15 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :484:
-#lˌiːt̪iɡˈɑːre# >>> #lid̪jˈɑɾ# ( GOLD : #lid̪jˈɑɾ#) :
-l ˌiː t̪ i ɡ ˈɑː r e 
-#lˌiːt̪eɡˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#lˌit̪eɡˈɑre# | 51 : [+syl] > [-long,-splng] 
-#lˌit̪eɡˈɑɾe# | 52 : r > ɾ 
-#lˌit̪eɣˈɑɾe# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#lˌit̪eˈɑɾe# | 95 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#lˌid̪eˈɑɾe# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#lˌid̪jˈɑɾe# | 102 : [+front,+syl,-stres] > j / __ [+syl,+back]
-#lˌiðjˈɑɾe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#lˌiðjˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#lˌid̪jˈɑɾ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#lid̪jˈɑɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #lid̪jˈɑɾ#
+#lˌokˈellum# >>> #luθˈiʎo# ( GOLD : #luθˈiʝo#) :
+l ˌo k ˈe l l u m 
+#lˌokˈellu# | 32 : [+nas] > ∅ / [-stres] __ #
+#lˌɔkˈɛllu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#lˌɔkˈɛllo# | 50 : [+syl,-long] > [-hi] 
+#lˌɔkjˈɛllo# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#lˌɔt͡ʃjˈɛllo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˌɔd͡ʒjˈɛllo# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
+#lˌɔd͡zjˈɛllo# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lˌod͡zjˈɛllo# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#lˌod͡zjˈɛello# | 112 : ∅ > e / [-tense] __ 
+#lˌod͡zjjˈello# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#lˌod͡zjjˈeʎo# | 130 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#lˌod͡zjˈeʎo# | 154 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#lˌud͡zjˈeʎo# | 171 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#lˌud͡zjˈiʎo# | 182 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#lˌud͡zˈiʎo# | 185 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#lˌuz̪ˈiʎo# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#lˌus̪ˈiʎo# | 190 : [+strid] > [-voi] 
+#lˌuθˈiʎo# | 193 : s̪ > θ / __ [-cons]
+#luθˈiʎo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #luθˈiʎo#

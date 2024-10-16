@@ -1,21 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :370:
-#kˌord̪ˈolium# >>> #kweɾd̪ˈoxo# ( GOLD : #koɾd̪ˈoxo#) :
-k ˌo r d̪ ˈo l i u m 
-#kˌord̪ˈoliu# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌord̪ˈolju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#kˌɔrd̪ˈɔlju# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔrd̪ˈɔljo# | 50 : [+syl,-long] > [-hi] 
-#kˌɔɾd̪ˈɔljo# | 52 : r > ɾ 
-#kˌɔɾd̪ˈɔʎjo# | 65 : [+lat] > ʎ / __ j
-#kˌɔɾd̪ˈɔʎo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
-#kˌɔɾðˈɔʎo# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#kˌɔɾðˈoʎo# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#kˌɔeɾðˈoʎo# | 112 : ∅ > e / [-tense] __ 
-#kwˌeɾðˈoʎo# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#kwˌeɾðˈod͡ʒo# | 122 : ʎ > d͡ʒ 
-#kwˌeɾðˈoʒo# | 123 : d͡ʒ > ʒ 
-#kwˌeɾðˈoʃo# | 190 : [+strid] > [-voi] 
-#kwˌeɾðˈoxo# | 192 : ʃ > x 
-#kwˌeɾd̪ˈoxo# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#kweɾd̪ˈoxo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kweɾd̪ˈoxo#
+#kˌorn̪ˈikulɑm# >>> #kweɾn̪ˈelɑ# ( GOLD : #koɾn̪ˈexɑ#) :
+k ˌo r n̪ ˈi k u l ɑ m 
+#kˌorn̪ˈiklɑm# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#kˌorn̪ˈiklɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌorn̪ˈixlɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#kˌɔrn̪ˈixlɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔrn̪ˈexlɑ# | 50 : [+syl,-long] > [-hi] 
+#kˌɔɾn̪ˈexlɑ# | 52 : r > ɾ 
+#kˌɔɾn̪ˈeɣlɑ# | 96 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#kˌɔɾn̪ˈejlɑ# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kˌɔeɾn̪ˈejlɑ# | 112 : ∅ > e / [-tense] __ 
+#kwˌeɾn̪ˈejlɑ# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#kwˌeɾn̪ˈeːlɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kwˌeɾn̪ˈelɑ# | 151 : [+syl] > [-long,-splng] 
+#kweɾn̪ˈelɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kweɾn̪ˈelɑ#

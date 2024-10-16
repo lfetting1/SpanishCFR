@@ -1,15 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1137:
-#ˌowˈikulɑ# >>> #oˈelɑ# ( GOLD : #obˈexɑ#) :
-ˌo w ˈi k u l ɑ 
-#ˌoˈikulɑ# | 17 : w > ∅ / [+round,+syl] __ 
-#ˌoˈiklɑ# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#ˌoˈixlɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɔˈixlɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɔˈexlɑ# | 50 : [+syl,-long] > [-hi] 
-#ˌɔˈeɣlɑ# | 96 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#ˌɔˈejlɑ# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌoˈejlɑ# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌoˈeːlɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌoˈelɑ# | 151 : [+syl] > [-long,-splng] 
-#oˈelɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #oˈelɑ#
+#ˌɑd̪wˌokɑt̪ˈoːrem# >>> #ɑzbweɡɑd̪ˈoɾ# ( GOLD : #ɑboɡɑd̪ˈoɾ#) :
+ˌɑ d̪ w ˌo k ɑ t̪ ˈoː r e m 
+#ˌɑd̪ɣʷˌokɑt̪ˈoːrem# | 18 : w > ɣʷ / __ [+syl]
+#ˌɑd̪ɣʷˌokɑt̪ˈoːre# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌɑd̪βˌokɑt̪ˈoːre# | 37 : ɣʷ > β 
+#ˌɑd̪βˌɔkɑt̪ˈoːre# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑd̪βˌɔkɑt̪ˈore# | 51 : [+syl] > [-long,-splng] 
+#ˌɑd̪βˌɔkɑt̪ˈoɾe# | 52 : r > ɾ 
+#ˌɑðβˌɔkɑt̪ˈoɾe# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ˌɑðβˌɔɡɑd̪ˈoɾe# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑðvˌɔɡɑd̪ˈoɾe# | 104 : β > v 
+#ˌɑðvˌɔeɡɑd̪ˈoɾe# | 112 : ∅ > e / [-tense] __ 
+#ˌɑðvwˌeɡɑd̪ˈoɾe# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ˌɑðβwˌeɡɑd̪ˈoɾe# | 121 : {v;f} > {β;ɸ} 
+#ˌɑðβwˌeɣɑðˈoɾe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌɑðβwˌeɣɑðˈoɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#ˌɑzβwˌeɣɑðˈoɾ# | 191 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#ˌɑzbwˌeɡɑd̪ˈoɾ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ɑzbweɡɑd̪ˈoɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑzbweɡɑd̪ˈoɾ#

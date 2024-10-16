@@ -1,8 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1045:
-#ˈist̪ud̪# >>> #ˈest̪o# ( GOLD : #ˈest̪o#) :
-ˈi s t̪ u d̪ 
-#ˈis̪t̪ud̪# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ˈis̪t̪u# | 34 : [+cons,-cont] > ∅ / __ #
-#ˈes̪t̪o# | 50 : [+syl,-long] > [-hi] 
-#ˈest̪o# | 191 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #ˈest̪o#
+#ˈokt̪oː# >>> #wˈet͡ʃo# ( GOLD : #ˈot͡ʃo#) :
+ˈo k t̪ oː 
+#ˈoxt̪oː# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˈɔxt̪oː# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɔxt̪o# | 51 : [+syl] > [-long,-splng] 
+#ˈɔjt̪o# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˈojt̪o# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ˈojt͡ʃo# | 148 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#wˈet͡ʃo# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+Final form : #wˈet͡ʃo#

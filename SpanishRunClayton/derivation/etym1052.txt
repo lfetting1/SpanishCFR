@@ -1,13 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1052:
-#ˈoperɑm# >>> #wˈebɾɑ# ( GOLD : #wˈebɾɑ#) :
-ˈo p e r ɑ m 
-#ˈoprɑm# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#ˈoprɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˈɔprɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˈɔpɾɑ# | 52 : r > ɾ 
-#ˈɔbɾɑ# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˈɔebɾɑ# | 112 : ∅ > e / [-tense] __ 
-#wˈebɾɑ# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#wˈeβɾɑ# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#wˈebɾɑ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #wˈebɾɑ#
+#ˈoːwum# >>> #ˈo# ( GOLD : #wˈebo#) :
+ˈoː w u m 
+#ˈoːum# | 17 : w > ∅ / [+round,+syl] __ 
+#ˈoːu# | 32 : [+nas] > ∅ / [-stres] __ #
+#oːˈu# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#wˈu# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#wˈo# | 50 : [+syl,-long] > [-hi] 
+#ˈo# | 152 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+Final form : #ˈo#

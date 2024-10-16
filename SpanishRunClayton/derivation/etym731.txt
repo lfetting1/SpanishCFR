@@ -1,14 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :731:
-#pˌɑt̪ˈellɑ# >>> #pɑd̪ˈiʎɑ# ( GOLD : #pɑd̪ˈiʝɑ#) :
-p ˌɑ t̪ ˈe l l ɑ 
-#pˌɑt̪ˈɛllɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌɑd̪ˈɛllɑ# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#pˌɑd̪ˈɛellɑ# | 112 : ∅ > e / [-tense] __ 
-#pˌɑd̪jˈellɑ# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#pˌɑd̪jˈeʎɑ# | 130 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#pˌɑðjˈeʎɑ# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#pˌɑðjˈiʎɑ# | 182 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-#pˌɑðˈiʎɑ# | 185 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#pˌɑd̪ˈiʎɑ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#pɑd̪ˈiʎɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pɑd̪ˈiʎɑ#
+#pˌɑːn̪ˈikulɑ# >>> #pɑn̪ˈelɑ# ( GOLD : #pɑn̪ˈot͡ʃɑ#) :
+p ˌɑː n̪ ˈi k u l ɑ 
+#pˌɑːn̪ˈiklɑ# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#pˌɑːn̪ˈixlɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#pˌɑːn̪ˈexlɑ# | 50 : [+syl,-long] > [-hi] 
+#pˌɑn̪ˈexlɑ# | 51 : [+syl] > [-long,-splng] 
+#pˌɑn̪ˈeɣlɑ# | 96 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#pˌɑn̪ˈejlɑ# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#pˌɑn̪ˈeːlɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#pˌɑn̪ˈelɑ# | 151 : [+syl] > [-long,-splng] 
+#pɑn̪ˈelɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #pɑn̪ˈelɑ#

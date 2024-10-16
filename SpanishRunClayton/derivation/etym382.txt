@@ -1,21 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :382:
-#kˌoːt̪urn̪ˈiːkem# >>> #kud̪ɾn̪ˈiθje# ( GOLD : #kod̪oɾn̪ˈiθ#) :
-k ˌoː t̪ u r n̪ ˈiː k e m 
-#kˌoːt̪urn̪ˈiːke# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌoːt̪orn̪ˈiːke# | 50 : [+syl,-long] > [-hi] 
-#kˌot̪orn̪ˈike# | 51 : [+syl] > [-long,-splng] 
-#kˌot̪oɾn̪ˈike# | 52 : r > ɾ 
-#kˌot̪oɾn̪ˈikje# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#kˌot̪oɾn̪ˈit͡ʃje# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˌod̪oɾn̪ˈid͡ʒje# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌod̪oɾn̪ˈid͡zje# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kˌod̪uɾn̪ˈid͡zje# | 107 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#kˌud̪uɾn̪ˈid͡zje# | 108 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-#kˌud̪ɾn̪ˈid͡zje# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kˌuðɾn̪ˈid͡zje# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kˌuðɾn̪ˈiz̪je# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#kˌuðɾn̪ˈis̪je# | 190 : [+strid] > [-voi] 
-#kˌuðɾn̪ˈiθje# | 193 : s̪ > θ / __ [-cons]
-#kˌud̪ɾn̪ˈiθje# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#kud̪ɾn̪ˈiθje# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kud̪ɾn̪ˈiθje#
+#kˌoːɡit̪ˈɑːre# >>> #kuxjed̪ˈɑɾ# ( GOLD : #kwid̪ˈɑɾ#) :
+k ˌoː ɡ i t̪ ˈɑː r e 
+#kˌoːɡet̪ˈɑːre# | 50 : [+syl,-long] > [-hi] 
+#kˌoɡet̪ˈɑre# | 51 : [+syl] > [-long,-splng] 
+#kˌoɡet̪ˈɑɾe# | 52 : r > ɾ 
+#kˌoɡjet̪ˈɑɾe# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#kˌod͡ʒjet̪ˈɑɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌoʒjet̪ˈɑɾe# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#kˌoʒjed̪ˈɑɾe# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˌuʒjed̪ˈɑɾe# | 107 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+#kˌuʒjeðˈɑɾe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#kˌuʒjeðˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#kˌuʃjeðˈɑɾ# | 190 : [+strid] > [-voi] 
+#kˌuxjeðˈɑɾ# | 192 : ʃ > x 
+#kˌuxjed̪ˈɑɾ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#kuxjed̪ˈɑɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kuxjed̪ˈɑɾ#

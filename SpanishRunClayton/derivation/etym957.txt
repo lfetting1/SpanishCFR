@@ -1,19 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :957:
-#wˈikem# >>> #bˈiθje# ( GOLD : #bˈeθ#) :
-w ˈi k e m 
-#ɣʷˈikem# | 18 : w > ɣʷ / __ [+syl]
-#ɣʷˈike# | 32 : [+nas] > ∅ / [-stres] __ #
-#βˈike# | 37 : ɣʷ > β 
-#βˈeke# | 50 : [+syl,-long] > [-hi] 
-#βˈekje# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˈet͡ʃje# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˈed͡ʒje# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#βˈed͡zje# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#vˈed͡zje# | 104 : β > v 
-#βˈed͡zje# | 121 : {v;f} > {β;ɸ} 
-#βˈid͡zje# | 171 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#βˈiz̪je# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#βˈis̪je# | 190 : [+strid] > [-voi] 
-#βˈiθje# | 193 : s̪ > θ / __ [-cons]
-#bˈiθje# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #bˈiθje#
+#wˈit̪ium# >>> #bˈeθ# ( GOLD : #bˈeθo#) :
+w ˈi t̪ i u m 
+#ɣʷˈit̪ium# | 18 : w > ɣʷ / __ [+syl]
+#ɣʷˈit̪iu# | 32 : [+nas] > ∅ / [-stres] __ #
+#βˈit̪iu# | 37 : ɣʷ > β 
+#βˈit̪ju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#βˈet̪jo# | 50 : [+syl,-long] > [-hi] 
+#βˈet͡ʃjo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˈee̯t͡ʃjo# | 87 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#βˈejt͡ʃo# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#βˈejt͡so# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˈejt͡so# | 104 : β > v 
+#βˈejt͡so# | 121 : {v;f} > {β;ɸ} 
+#βˈeːt͡so# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βˈet͡so# | 151 : [+syl] > [-long,-splng] 
+#βˈet͡s# | 167 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#βˈes̪# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#βˈeθ# | 194 : s̪ > θ / __ #
+#bˈeθ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #bˈeθ#

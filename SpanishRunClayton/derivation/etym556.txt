@@ -1,15 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :556:
-#mˌeiˈɑːre# >>> #mˈiˈɑɾ# ( GOLD : #meˈɑɾ#) :
-m ˌe i ˈɑː r e 
-#meˈiˈɑːre# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#mjˈiˈɑːre# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#mjˈeˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#mjˈeˈɑre# | 51 : [+syl] > [-long,-splng] 
-#mjˈeˈɑɾe# | 52 : r > ɾ 
-#mjˈejˈɑɾe# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#mjˈijˈɑɾe# | 60 : ˈe > ˈi / __ j
-#mjˈiːˈɑɾe# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#mjˈiˈɑɾe# | 151 : [+syl] > [-long,-splng] 
-#mˈiˈɑɾe# | 155 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#mˈiˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-Final form : #mˈiˈɑɾ#
+#mˌelˈoːn̪em# >>> #mjelˈon̪# ( GOLD : #melˈon̪#) :
+m ˌe l ˈoː n̪ e m 
+#mˌelˈoːn̪e# | 32 : [+nas] > ∅ / [-stres] __ #
+#mˌɛlˈoːn̪e# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˌɛlˈon̪e# | 51 : [+syl] > [-long,-splng] 
+#mˌɛelˈon̪e# | 112 : ∅ > e / [-tense] __ 
+#mjˌelˈon̪e# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#mjˌelˈon̪# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#mjelˈon̪# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #mjelˈon̪#

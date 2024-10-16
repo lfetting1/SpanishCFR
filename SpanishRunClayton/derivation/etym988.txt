@@ -1,17 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :988:
-#wˌirt̪ˈuːt̪em# >>> #beɾt̪ˈud̪# ( GOLD : #biɾt̪ˈud̪#) :
-w ˌi r t̪ ˈuː t̪ e m 
-#ɣʷˌirt̪ˈuːt̪em# | 18 : w > ɣʷ / __ [+syl]
-#ɣʷˌirt̪ˈuːt̪e# | 32 : [+nas] > ∅ / [-stres] __ #
-#βˌirt̪ˈuːt̪e# | 37 : ɣʷ > β 
-#βˌert̪ˈuːt̪e# | 50 : [+syl,-long] > [-hi] 
-#βˌert̪ˈut̪e# | 51 : [+syl] > [-long,-splng] 
-#βˌeɾt̪ˈut̪e# | 52 : r > ɾ 
-#βˌeɾt̪ˈud̪e# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#vˌeɾt̪ˈud̪e# | 104 : β > v 
-#βˌeɾt̪ˈud̪e# | 121 : {v;f} > {β;ɸ} 
-#βˌeɾt̪ˈuðe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#βˌeɾt̪ˈuð# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#bˌeɾt̪ˈud̪# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#beɾt̪ˈud̪# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #beɾt̪ˈud̪#
+#wˌɑkˈiːwum# >>> #beθˈibo# ( GOLD : #bɑθˈio#) :
+w ˌɑ k ˈiː w u m 
+#ɣʷˌɑkˈiːɣʷum# | 18 : w > ɣʷ / __ [+syl]
+#ɣʷˌɑkˈiːɣʷu# | 32 : [+nas] > ∅ / [-stres] __ #
+#βˌɑkˈiːβu# | 37 : ɣʷ > β 
+#βˌɑkˈiːβo# | 50 : [+syl,-long] > [-hi] 
+#βˌɑkˈiβo# | 51 : [+syl] > [-long,-splng] 
+#βˌɑkjˈiβo# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βˌɑt͡ʃjˈiβo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˌɑe̯t͡ʃjˈiβo# | 88 : ∅ > e̯ / [+syl] __ [-voi] j [+hi]
+#βˌɑjt͡ʃˈiβo# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#βˌɑjt͡sˈiβo# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˌɑjt͡sˈivo# | 104 : β > v 
+#βˌɑjt͡sˈiβo# | 121 : {v;f} > {β;ɸ} 
+#βˌejt͡sˈiβo# | 135 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#βˌeːt͡sˈiβo# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βˌet͡sˈiβo# | 151 : [+syl] > [-long,-splng] 
+#βˌes̪ˈiβo# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#βˌeθˈiβo# | 193 : s̪ > θ / __ [-cons]
+#bˌeθˈibo# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#beθˈibo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #beθˈibo#

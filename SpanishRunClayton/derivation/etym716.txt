@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :716:
-#pˌot̪ˈen̪t̪e# >>> #pwed̪ˈen̪t̪e# ( GOLD : #pud̪jˈen̪t̪e#) :
-p ˌo t̪ ˈe n̪ t̪ e 
-#pˌot̪ˈeːn̪t̪e# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#pˌɔt̪ˈeːn̪t̪e# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˌɔt̪ˈen̪t̪e# | 51 : [+syl] > [-long,-splng] 
-#pˌɔd̪ˈen̪t̪e# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#pˌɔed̪ˈen̪t̪e# | 112 : ∅ > e / [-tense] __ 
-#pwˌed̪ˈen̪t̪e# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#pwˌeðˈen̪t̪e# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#pwˌed̪ˈen̪t̪e# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#pwed̪ˈen̪t̪e# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pwed̪ˈen̪t̪e#
+#pˌulsˈɑːre# >>> #pwixˈɑɾ# ( GOLD : #puxˈɑɾ#) :
+p ˌu l s ˈɑː r e 
+#pˌolsˈɑːre# | 50 : [+syl,-long] > [-hi] 
+#pˌolsˈɑre# | 51 : [+syl] > [-long,-splng] 
+#pˌolsˈɑɾe# | 52 : r > ɾ 
+#pˌojsˈɑɾe# | 99 : [+lat] > j / [+back] __ [+cons]
+#pˌujsˈɑɾe# | 108 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#pˌujʃˈɑɾe# | 148 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#pwˌiʃˈɑɾe# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#pwˌiʃˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#pwˌixˈɑɾ# | 192 : ʃ > x 
+#pwixˈɑɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #pwixˈɑɾ#

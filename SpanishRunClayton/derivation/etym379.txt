@@ -1,19 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :379:
-#kˌoˈɑːɡulum# >>> #koˈɑxo# ( GOLD : #kwˈɑxo#) :
-k ˌo ˈɑː ɡ u l u m 
-#kˌoˈɑːɡlum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#kˌoˈɑːɡlu# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌoˈɑːɣlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#kˌɔˈɑːɣlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔˈɑːɣlo# | 50 : [+syl,-long] > [-hi] 
-#kˌɔˈɑɣlo# | 51 : [+syl] > [-long,-splng] 
-#kˌɔˈɑjlo# | 61 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
-#kˌɔˈɑjʎo# | 64 : [+lat] > ʎ / j __ 
-#kˌɔˈɑʎo# | 77 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
-#kˌoˈɑʎo# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#kˌoˈɑd͡ʒo# | 122 : ʎ > d͡ʒ 
-#kˌoˈɑʒo# | 123 : d͡ʒ > ʒ 
-#kˌoˈɑʃo# | 190 : [+strid] > [-voi] 
-#kˌoˈɑxo# | 192 : ʃ > x 
-#koˈɑxo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #koˈɑxo#
+#kˌoːn̪sˈilium# >>> #kosˈexo# ( GOLD : #kon̪sˈexo#) :
+k ˌoː n̪ s ˈi l i u m 
+#kˌoːnsˈilium# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#kˌoːnsˈiliu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌoːsˈiliu# | 33 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+#kˌoːsˈilju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˌoːsˈeljo# | 50 : [+syl,-long] > [-hi] 
+#kˌosˈeljo# | 51 : [+syl] > [-long,-splng] 
+#kˌosˈeʎjo# | 65 : [+lat] > ʎ / __ j
+#kˌosˈeʎo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
+#kˌozˈeʎo# | 96 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#kˌozˈed͡ʒo# | 122 : ʎ > d͡ʒ 
+#kˌozˈeʒo# | 123 : d͡ʒ > ʒ 
+#kˌosˈeʃo# | 190 : [+strid] > [-voi] 
+#kˌosˈexo# | 192 : ʃ > x 
+#kosˈexo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kosˈexo#

@@ -1,14 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :352:
-#kˌollokˈɑt̪# >>> #kwelɡˈɑ# ( GOLD : #kwˈelɡɑ#) :
-k ˌo l l o k ˈɑ t̪ 
-#kˌollokˈɑ# | 34 : [+cons,-cont] > ∅ / __ #
-#kˌɔllokˈɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔlloɡˈɑ# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌɔjloɡˈɑ# | 99 : [+lat] > j / [+back] __ [+cons]
-#kˌojloɡˈɑ# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#kˌojlɡˈɑ# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kwˌelɡˈɑ# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#kwˌelɣˈɑ# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kwˌelɡˈɑ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#kwelɡˈɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kwelɡˈɑ#
+#kˌollokˈɑːre# >>> #kwelɡˈɑɾ# ( GOLD : #kolɡˈɑɾ#) :
+k ˌo l l o k ˈɑː r e 
+#kˌɔllokˈɑːre# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔllokˈɑre# | 51 : [+syl] > [-long,-splng] 
+#kˌɔllokˈɑɾe# | 52 : r > ɾ 
+#kˌɔlloɡˈɑɾe# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˌɔjloɡˈɑɾe# | 99 : [+lat] > j / [+back] __ [+cons]
+#kˌojloɡˈɑɾe# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#kˌojlɡˈɑɾe# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kwˌelɡˈɑɾe# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kwˌelɣˈɑɾe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#kwˌelɣˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#kwˌelɡˈɑɾ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#kwelɡˈɑɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kwelɡˈɑɾ#

@@ -1,13 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :806:
-#st̪ˈerkorem# >>> #est̪jˈeɾkɾe# ( GOLD : #est̪jˈeɾkol#) :
-s t̪ ˈe r k o r e m 
-#s̪t̪ˈerkorem# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#s̪t̪ˈerkrem# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#s̪t̪ˈerkre# | 32 : [+nas] > ∅ / [-stres] __ #
-#s̪t̪ˈɛrkre# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#s̪t̪ˈɛɾkɾe# | 52 : r > ɾ 
-#s̪t̪ˈɛeɾkɾe# | 112 : ∅ > e / [-tense] __ 
-#s̪t̪jˈeɾkɾe# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#st̪jˈeɾkɾe# | 191 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#est̪jˈeɾkɾe# | 198 : ∅ > e / # __ s [+cons]
-Final form : #est̪jˈeɾkɾe#
+#st̪ˈɑbulum# >>> #est̪ˈɑblo# ( GOLD : #est̪ˈɑblo#) :
+s t̪ ˈɑ b u l u m 
+#s̪t̪ˈɑbulum# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#s̪t̪ˈɑblum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#s̪t̪ˈɑblu# | 32 : [+nas] > ∅ / [-stres] __ #
+#s̪t̪ˈɑblo# | 50 : [+syl,-long] > [-hi] 
+#s̪t̪ˈɑβlo# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#s̪t̪ˈɑvlo# | 104 : β > v 
+#s̪t̪ˈɑβlo# | 121 : {v;f} > {β;ɸ} 
+#s̪t̪ˈɑβʎo# | 126 : [+lat] > ʎ / [-son] __ 
+#s̪t̪ˈɑβlo# | 132 : ʎ > l / [+cons,+voi] __ 
+#st̪ˈɑβlo# | 191 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#est̪ˈɑβlo# | 198 : ∅ > e / # __ s [+cons]
+#est̪ˈɑblo# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #est̪ˈɑblo#

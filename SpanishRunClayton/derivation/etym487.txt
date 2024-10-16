@@ -1,13 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :487:
-#lˌukrˈɑːri# >>> #lweɾˈɑɾ# ( GOLD : #loɡɾˈɑɾ#) :
-l ˌu k r ˈɑː r i 
-#lˌuxrˈɑːri# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#lˌoxrˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#lˌoxrˈɑre# | 51 : [+syl] > [-long,-splng] 
-#lˌoxɾˈɑɾe# | 52 : r > ɾ 
-#lˌoɣɾˈɑɾe# | 96 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#lˌojɾˈɑɾe# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#lwˌeɾˈɑɾe# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#lwˌeɾˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#lweɾˈɑɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #lweɾˈɑɾ#
+#lˌumbrˈiːkem# >>> #luwbɾˈiθje# ( GOLD : #lombɾˈiθ#) :
+l ˌu m b r ˈiː k e m 
+#lˌuːmbrˈiːkem# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#lˌuːmbrˈiːke# | 32 : [+nas] > ∅ / [-stres] __ #
+#lˌumbrˈike# | 51 : [+syl] > [-long,-splng] 
+#lˌumbɾˈike# | 52 : r > ɾ 
+#lˌumbɾˈikje# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#lˌumbɾˈit͡ʃje# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˌumβɾˈit͡ʃje# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#lˌumβɾˈid͡ʒje# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
+#lˌumβɾˈid͡zje# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lˌumvɾˈid͡zje# | 104 : β > v 
+#lˌumβɾˈid͡zje# | 121 : {v;f} > {β;ɸ} 
+#lˌuwβɾˈid͡zje# | 186 : [+lab,+cons] > w / __ [-son]
+#lˌuwβɾˈiz̪je# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#lˌuwβɾˈis̪je# | 190 : [+strid] > [-voi] 
+#lˌuwβɾˈiθje# | 193 : s̪ > θ / __ [-cons]
+#lˌuwbɾˈiθje# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#luwbɾˈiθje# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #luwbɾˈiθje#

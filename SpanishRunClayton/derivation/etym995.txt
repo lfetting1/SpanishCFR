@@ -1,21 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :995:
-#wˌɑrˈiolɑ# >>> #bɑɾjuˈelɑ# ( GOLD : #biɾwˈelɑ#) :
-w ˌɑ r ˈi o l ɑ 
-#ɣʷˌɑrˈiolɑ# | 18 : w > ɣʷ / __ [+syl]
-#βˌɑrˈiolɑ# | 37 : ɣʷ > β 
-#βˌɑriˈolɑ# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#βˌɑriˈɔlɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#βˌɑreˈɔlɑ# | 50 : [+syl,-long] > [-hi] 
-#βˌɑɾeˈɔlɑ# | 52 : r > ɾ 
-#βˌɑɾejˈɔlɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
-#βˌɑɾijˈɔlɑ# | 58 : e > i / __ j
-#vˌɑɾijˈɔlɑ# | 104 : β > v 
-#vˌɑɾijˈɔelɑ# | 112 : ∅ > e / [-tense] __ 
-#vˌɑɾijwˈelɑ# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#βˌɑɾijwˈelɑ# | 121 : {v;f} > {β;ɸ} 
-#βˌɑɾiːwˈelɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#βˌɑɾiwˈelɑ# | 151 : [+syl] > [-long,-splng] 
-#βˌɑɾjuˈelɑ# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#bˌɑɾjuˈelɑ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#bɑɾjuˈelɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bɑɾjuˈelɑ#
+#ɡrˈae̯kum# >>> #ɡɾˈeko# ( GOLD : #ɡɾjˈeɡo#) :
+ɡ r ˈa e̯ k u m 
+#ɡrˈɑjkum# | 0 : [+lo] e̯ > [+back,-front] j
+#ɡrˈɑjku# | 32 : [+nas] > ∅ / [-stres] __ #
+#ɡrˈɑjko# | 50 : [+syl,-long] > [-hi] 
+#ɡɾˈɑjko# | 52 : r > ɾ 
+#ɣɾˈɑjko# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ɣɾˈejko# | 135 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɣɾˈeːko# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɣɾˈeko# | 151 : [+syl] > [-long,-splng] 
+#ɡɾˈeko# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #ɡɾˈeko#

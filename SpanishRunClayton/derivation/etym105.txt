@@ -1,14 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :105:
-#frˌikˈɑːre# >>> #fɾeɡˈɑɾ# ( GOLD : #fɾeɡˈɑɾ#) :
-f r ˌi k ˈɑː r e 
-#frˌekˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#frˌekˈɑre# | 51 : [+syl] > [-long,-splng] 
-#fɾˌekˈɑɾe# | 52 : r > ɾ 
-#fɾˌeɡˈɑɾe# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#ɸɾˌeɡˈɑɾe# | 121 : {v;f} > {β;ɸ} 
-#ɸɾˌeɣˈɑɾe# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ɸɾˌeɣˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#fɾˌeɣˈɑɾ# | 180 : ɸ > f 
-#fɾˌeɡˈɑɾ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#fɾeɡˈɑɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #fɾeɡˈɑɾ#
+#frˌiːksˈeolum# >>> #fɾixjuˈel# ( GOLD : #fɾiswˈelo#) :
+f r ˌiː k s ˈe o l u m 
+#frˌiːksˈeolu# | 32 : [+nas] > ∅ / [-stres] __ #
+#frˌiːxsˈeolu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#frˌiːxseˈolu# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#frˌiːxseˈɔlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#frˌiːxseˈɔlo# | 50 : [+syl,-long] > [-hi] 
+#frˌixseˈɔlo# | 51 : [+syl] > [-long,-splng] 
+#fɾˌixseˈɔlo# | 52 : r > ɾ 
+#fɾˌixsejˈɔlo# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#fɾˌixsijˈɔlo# | 58 : e > i / __ j
+#fɾˌijsijˈɔlo# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#fɾˌijsijˈɔelo# | 112 : ∅ > e / [-tense] __ 
+#fɾˌijsijwˈelo# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ɸɾˌijsijwˈelo# | 121 : {v;f} > {β;ɸ} 
+#ɸɾˌijʃijwˈelo# | 148 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ɸɾˌiːʃiːwˈelo# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɸɾˌiʃiwˈelo# | 151 : [+syl] > [-long,-splng] 
+#ɸɾˌiʃjuˈelo# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ɸɾˌiʃjuˈel# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#fɾˌiʃjuˈel# | 180 : ɸ > f 
+#fɾˌixjuˈel# | 192 : ʃ > x 
+#fɾixjuˈel# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #fɾixjuˈel#

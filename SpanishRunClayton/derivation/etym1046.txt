@@ -1,14 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1046:
-#ˈiːn̪sulɑm# >>> #ˈizlɑ# ( GOLD : #ˈislɑ#) :
-ˈiː n̪ s u l ɑ m 
-#ˈiːnsulɑm# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ˈiːnslɑm# | 25 : [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas]
-#ˈiːnslɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˈiːslɑ# | 33 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
-#ˈislɑ# | 51 : [+syl] > [-long,-splng] 
-#ˈizlɑ# | 96 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#ˈizʎɑ# | 126 : [+lat] > ʎ / [-son] __ 
-#ˈizlɑ# | 132 : ʎ > l / [+cons,+voi] __ 
-#ˈislɑ# | 190 : [+strid] > [-voi] 
-#ˈizlɑ# | 195 : s > z / [-cons] __ [+cons,+voi]
-Final form : #ˈizlɑ#
+#ˈokulum# >>> #wˈel# ( GOLD : #ˈoxo#) :
+ˈo k u l u m 
+#ˈoklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#ˈoklu# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˈoxlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˈɔxlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɔxlo# | 50 : [+syl,-long] > [-hi] 
+#ˈɔɣlo# | 96 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#ˈɔjlo# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˈojlo# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#wˈelo# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#wˈel# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+Final form : #wˈel#

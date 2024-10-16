@@ -1,7 +1,27 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1215:
-#ˈɑwkɑ# >>> #ˈokɑ# ( GOLD : #ˈokɑ#) :
-ˈɑ w k ɑ 
-#ˈowkɑ# | 135 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˈoːkɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˈokɑ# | 151 : [+syl] > [-long,-splng] 
-Final form : #ˈokɑ#
+#ˌae̯ɡypt̪iˈɑːkum# >>> #exøt̪iˈɑɡo# ( GOLD : #ɑθjˈɑɡo#) :
+ˌa e̯ ɡ y p t̪ i ˈɑː k u m
+#ˌɑjɡypt̪iˈɑːkum# | 0 : [+lo] e̯ > [+back,-front] j
+#ˌɑjɡypt̪iˈɑːku# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌɑjɡøpt̪eˈɑːko# | 50 : [+syl,-long] > [-hi] 
+#ˌɑjɡøpt̪eˈɑko# | 51 : [+syl] > [-long,-splng] 
+#ˌɑjɡøpt̪ejˈɑko# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
+#ˌɑjɡøpt̪ijˈɑko# | 58 : e > i / __ j
+#ˌɑjɡøt̪t̪ijˈɑko# | 67 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
+#ˌɑjɡjøt̪t̪ijˈɑko# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌɑjd͡ʒjøt̪t̪ijˈɑko# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑjʒjøt̪t̪ijˈɑko# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ˌɑjʒjøt̪t̪ijˈɑɡo# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑjʒjyt̪t̪ijˈɑɡo# | 106 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#ˌɑjʒjyt̪ijˈɑɡo# | 131 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˌejʒjyt̪ijˈɑɡo# | 135 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ˌeːʒjyt̪iːˈɑɡo# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌeʒjyt̪iˈɑɡo# | 151 : [+syl] > [-long,-splng] 
+#ˌeʒyt̪iˈɑɡo# | 155 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ˌeʒyt̪iˈɑɣo# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌeʒøt̪iˈɑɣo# | 173 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#ˌeʃøt̪iˈɑɣo# | 190 : [+strid] > [-voi] 
+#ˌexøt̪iˈɑɣo# | 192 : ʃ > x 
+#ˌexøt̪iˈɑɡo# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#exøt̪iˈɑɡo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #exøt̪iˈɑɡo#

@@ -1,10 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :620:
-#plˈeːn̪um# >>> #ʎˈen̪# ( GOLD : #ʝˈen̪o#) :
-p l ˈeː n̪ u m 
-#plˈeːn̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#plˈeːn̪o# | 50 : [+syl,-long] > [-hi] 
-#plˈen̪o# | 51 : [+syl] > [-long,-splng] 
-#pʎˈen̪o# | 126 : [+lat] > ʎ / [-son] __ 
-#ʎˈen̪o# | 127 : [+cons,-voi] > ∅ / # __ [+lat]
-#ʎˈen̪# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #ʎˈen̪#
+#plˈumbum# >>> #ʎˈuwbo# ( GOLD : #plˈomo#) :
+p l ˈu m b u m 
+#plˈuːmbum# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#plˈuːmbu# | 32 : [+nas] > ∅ / [-stres] __ #
+#plˈuːmbo# | 50 : [+syl,-long] > [-hi] 
+#plˈumbo# | 51 : [+syl] > [-long,-splng] 
+#plˈumβo# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#plˈumvo# | 104 : β > v 
+#plˈumβo# | 121 : {v;f} > {β;ɸ} 
+#pʎˈumβo# | 126 : [+lat] > ʎ / [-son] __ 
+#ʎˈumβo# | 127 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʎˈuwβo# | 186 : [+lab,+cons] > w / __ [-son]
+#ʎˈuwbo# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #ʎˈuwbo#
