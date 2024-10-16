@@ -210,7 +210,7 @@ h > ∅ $ h_deletion
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO largely bled in first runthrough -- check again in second.
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
-[+lab,+cons] > w / __ [-son] $wawism_late
+[+lab,-son] > w / __ [-son] $wawism_late
 n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation. TODO seems good but currently this rule is bled for most of its domain so check again. 
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas] $epenthetic b d -- occurs before r, ɾ; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
 $[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress -- CM(@Aug31) -- was this rule inserted by accident here? It has no effect currently and has already been realized.

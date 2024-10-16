@@ -184,7 +184,7 @@ h > ∅
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-[+lab,+cons] > w / __ [-son]
+[+lab,-son] > w / __ [-son]
 n̪ > ɾ / [+nas] __ 
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
 [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
