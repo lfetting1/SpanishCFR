@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1194:
-#ˌɑskˈiolɑm# >>> #ɑθjuˈelɑ# ( GOLD : #ɑθwˈelɑ#) :
+#ˌɑskˈiolɑm# >>> #ɑθjwˈelɑ# ( GOLD : #ɑθwˈelɑ#) :
 ˌɑ s k ˈi o l ɑ m 
 #ˌɑskˈiolɑ# | 32 : [+nas] > ∅ / [-stres] __ #
 #ˌɑskiˈolɑ# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
@@ -9,15 +9,14 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1194:
 #ˌɑskijˈɔlɑ# | 58 : e > i / __ j
 #ˌɑskjijˈɔlɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #ˌɑst͡ʃjijˈɔlɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑst͡sjijˈɔlɑ# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑst͡sjijˈɔelɑ# | 112 : ∅ > e / [-tense] __ 
-#ˌɑst͡sjijwˈelɑ# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ˌɑst͡sjiːwˈelɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌɑst͡sjiwˈelɑ# | 151 : [+syl] > [-long,-splng] 
-#ˌɑst͡siwˈelɑ# | 155 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ˌɑst͡sjuˈelɑ# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ˌɑt͡sjuˈelɑ# | 174 : [-son] > ∅ / __ [+delrel]
-#ˌɑs̪juˈelɑ# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌɑθjuˈelɑ# | 193 : s̪ > θ / __ [-cons]
-#ɑθjuˈelɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑθjuˈelɑ#
+#ˌɑst͡ʃijˈɔlɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɑst͡ʃiˈɔlɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#ˌɑst͡siˈɔlɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑst͡sjˈɔlɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
+#ˌɑst͡sjˈɔelɑ# | 114 : ∅ > e / [-tense] __ 
+#ˌɑst͡sjwˈelɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ˌɑt͡sjwˈelɑ# | 178 : [-son] > ∅ / __ [+delrel]
+#ˌɑs̪jwˈelɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌɑθjwˈelɑ# | 199 : s̪ > θ / __ [-cons]
+#ɑθjwˈelɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑθjwˈelɑ#

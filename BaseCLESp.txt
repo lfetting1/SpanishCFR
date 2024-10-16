@@ -80,8 +80,8 @@ e > i / __ j $ front raising
 {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
 [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons] $ recurrent rule,waw absorption $(72) Fixed to specifically apply to consonants.
 [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ $ recurrent rule,waw absorption $(73) Fixed. No effect (reasonable)
-[-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ $ recurrent rule,yod absorption $(74) Fixed.
-[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons] $ recurrent rule,yod absorption $(75) Fixed.
+[-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
+[-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
 w > ∅ / [+cons,+back] __ [-lo,+syl,-stres] $[+cons] > [-round] / # __ [-lo,+syl,-stres] $ unround $(76) !No effect.
 w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify rule UNROUND. Will affect /a/ when it shouldn't - symb def differences.
 [+cons,+back,+voi,-cont] > ∅ / # __ [+lat] $ pl>ll early $(77) Fixed.
@@ -176,8 +176,8 @@ $CM 10/13: assert persistent rule -- unlong
 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
-[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
-[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
+[-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
+[-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
 
 $apparently this (ew_iw) was errantly placed before progressive_hushing -- unless that reflects the online version? 
 [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round] $ ew_iw
@@ -208,8 +208,8 @@ $[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happe
 h > ∅ $ h_deletion
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO also, largely bled in first runthrough -- check again in second.
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO largely bled in first runthrough -- check again in second.
-[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
-[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
+[-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
+[-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
 [+lab,-son] > w / __ [-son] $wawism_late
 n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation. TODO seems good but currently this rule is bled for most of its domain so check again. 
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas] $epenthetic b d -- occurs before r, ɾ; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 

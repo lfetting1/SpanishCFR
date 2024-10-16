@@ -74,8 +74,10 @@ e > i / __ j
 {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons]
 [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ 
-[-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
-[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons]
+[-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+[-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
 w > ∅ / [+cons,+back] __ [-lo,+syl,-stres]
 w > ∅ / [+cons,+back] __ [+syl,+front]
 [+cons,+back,+voi,-cont] > ∅ / # __ [+lat]
@@ -152,7 +154,9 @@ r r > rː
 [+syl] > [-long,-splng] 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round]
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+[-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+[-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
 [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round]
 d̪ n̪ > n̪ d̪ 
@@ -182,7 +186,9 @@ t̪ l > l t̪
 h > ∅ 
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+[-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+[-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
 [+lab,-son] > w / __ [-son]
 n̪ > ɾ / [+nas] __ 

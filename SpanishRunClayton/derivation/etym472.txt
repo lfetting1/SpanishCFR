@@ -1,19 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :472:
-#lˌemikˈɑn̪eɑ# >>> #ljeɣʷˈɑn̪iɑ# ( GOLD : #leɡˈɑɲɑ#) :
+#lˌemikˈɑn̪eɑ# >>> #leɣʷˈɑjn̪ɑ# ( GOLD : #leɡˈɑɲɑ#) :
 l ˌe m i k ˈɑ n̪ e ɑ 
 #lˌɛmikˈɑn̪eɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #lˌɛmekˈɑn̪eɑ# | 50 : [+syl,-long] > [-hi] 
 #lˌɛmekˈɑn̪ejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #lˌɛmekˈɑn̪ijɑ# | 58 : e > i / __ j
-#lˌɛmeɡˈɑn̪ijɑ# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#lˌɛemeɡˈɑn̪ijɑ# | 112 : ∅ > e / [-tense] __ 
-#ljˌemeɡˈɑn̪ijɑ# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ljˌemɡˈɑn̪ijɑ# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ljˌewɡˈɑn̪ijɑ# | 136 : [+cons,+lab] > w / __ [+back,+cons]
-#ljˌewɡʷˈɑn̪ijɑ# | 149 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
-#ljˌewɡʷˈɑn̪iːɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ljˌewɡʷˈɑn̪iɑ# | 151 : [+syl] > [-long,-splng] 
-#ljˌeɡʷˈɑn̪iɑ# | 152 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-#ljˌeɣʷˈɑn̪iɑ# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ljeɣʷˈɑn̪iɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ljeɣʷˈɑn̪iɑ#
+#lˌɛmekˈɑn̪iɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#lˌɛmeɡˈɑn̪iɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#lˌɛmeɡˈɑn̪jɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
+#lˌɛmiɡˈɑn̪jɑ# | 108 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#lˌemiɡˈɑn̪jɑ# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#lˌemɡˈɑn̪jɑ# | 135 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#lˌewɡˈɑn̪jɑ# | 138 : [+cons,+lab] > w / __ [+back,+cons]
+#lˌewɡˈɑe̯n̪jɑ# | 147 : ∅ > e̯ / [+syl] __ [+cor,+cont] j [+back]
+#lˌewɡˈɑjn̪ɑ# | 149 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#lˌewɡʷˈɑjn̪ɑ# | 151 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
+#lˌeɡʷˈɑjn̪ɑ# | 154 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#lˌeɣʷˈɑjn̪ɑ# | 169 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#leɣʷˈɑjn̪ɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #leɣʷˈɑjn̪ɑ#

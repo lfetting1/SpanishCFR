@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :363:
-#kˌon̪kˈilium# >>> #kwiθjˈexo# ( GOLD : #kon̪θˈexo#) :
+#kˌon̪kˈilium# >>> #kwiθˈexo# ( GOLD : #kon̪θˈexo#) :
 k ˌo n̪ k ˈi l i u m 
 #kˌoːn̪kˈilium# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #kˌoːŋkˈilium# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
@@ -10,16 +10,16 @@ k ˌo n̪ k ˈi l i u m
 #kˌoŋkˈeʎjo# | 65 : [+lat] > ʎ / __ j
 #kˌoŋkjˈeʎjo# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #kˌoŋt͡ʃjˈeʎjo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˌoŋt͡ʃjˈeʎo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ 
-#kˌoŋt͡sjˈeʎo# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kˌojt͡sjˈeʎo# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#kˌujt͡sjˈeʎo# | 107 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#kˌujt͡sjˈed͡ʒo# | 122 : ʎ > d͡ʒ 
-#kˌujt͡sjˈeʒo# | 123 : d͡ʒ > ʒ 
-#kwˌit͡sjˈeʒo# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#kwˌis̪jˈeʒo# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#kwˌis̪jˈeʃo# | 190 : [+strid] > [-voi] 
-#kwˌis̪jˈexo# | 192 : ʃ > x 
-#kwˌiθjˈexo# | 193 : s̪ > θ / __ [-cons]
-#kwiθjˈexo# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kwiθjˈexo#
+#kˌoŋt͡ʃˈeʎo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#kˌoŋt͡sˈeʎo# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌojt͡sˈeʎo# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kˌujt͡sˈeʎo# | 110 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#kˌujt͡sˈed͡ʒo# | 124 : ʎ > d͡ʒ 
+#kˌujt͡sˈeʒo# | 125 : d͡ʒ > ʒ 
+#kwˌit͡sˈeʒo# | 168 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#kwˌis̪ˈeʒo# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kwˌis̪ˈeʃo# | 196 : [+strid] > [-voi] 
+#kwˌis̪ˈexo# | 198 : ʃ > x 
+#kwˌiθˈexo# | 199 : s̪ > θ / __ [-cons]
+#kwiθˈexo# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kwiθˈexo#

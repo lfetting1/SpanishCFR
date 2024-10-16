@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :254:
-#kˈen̪t̪um# >>> #θjˈen̪t̪o# ( GOLD : #θjˈen̪t̪o#) :
+#kˈen̪t̪um# >>> #θˈen̪t̪o# ( GOLD : #θjˈen̪t̪o#) :
 k ˈe n̪ t̪ u m 
 #kˈeːn̪t̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #kˈeːn̪t̪u# | 32 : [+nas] > ∅ / [-stres] __ #
@@ -7,7 +7,8 @@ k ˈe n̪ t̪ u m
 #kˈen̪t̪o# | 51 : [+syl] > [-long,-splng] 
 #kjˈen̪t̪o# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #t͡ʃjˈen̪t̪o# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡sjˈen̪t̪o# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#s̪jˈen̪t̪o# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#θjˈen̪t̪o# | 193 : s̪ > θ / __ [-cons]
-Final form : #θjˈen̪t̪o#
+#t͡ʃˈen̪t̪o# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡sˈen̪t̪o# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#s̪ˈen̪t̪o# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θˈen̪t̪o# | 199 : s̪ > θ / __ [-cons]
+Final form : #θˈen̪t̪o#

@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :974:
-#wˌerekˈun̪d̪iɑm# >>> #bjeɾɡˈon̪d̪iɑ# ( GOLD : #beɾɡwˈen̪θɑ#) :
+#wˌerekˈun̪d̪iɑm# >>> #beɾɡˈun̪d̪jɑ# ( GOLD : #beɾɡwˈen̪θɑ#) :
 w ˌe r e k ˈu n̪ d̪ i ɑ m 
 #wˌerekˈuːn̪d̪iɑm# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ɣʷˌerekˈuːn̪d̪iɑm# | 18 : w > ɣʷ / __ [+syl]
@@ -11,17 +11,16 @@ w ˌe r e k ˈu n̪ d̪ i ɑ m
 #βˌɛɾekˈun̪d̪eɑ# | 52 : r > ɾ 
 #βˌɛɾekˈun̪d̪ejɑ# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #βˌɛɾekˈun̪d̪ijɑ# | 58 : e > i / __ j
-#βˌɛɾekˈun̪ðijɑ# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#βˌɛɾeɡˈun̪ðijɑ# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#vˌɛɾeɡˈun̪ðijɑ# | 104 : β > v 
-#vˌɛeɾeɡˈun̪ðijɑ# | 112 : ∅ > e / [-tense] __ 
-#vjˌeɾeɡˈun̪ðijɑ# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#βjˌeɾeɡˈun̪ðijɑ# | 121 : {v;f} > {β;ɸ} 
-#βjˌeɾɡˈun̪ðijɑ# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#βjˌeɾɡˈun̪ðiːɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#βjˌeɾɡˈun̪ðiɑ# | 151 : [+syl] > [-long,-splng] 
-#βjˌeɾɣˈun̪ðiɑ# | 165 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#βjˌeɾɣˈon̪ðiɑ# | 173 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#bjˌeɾɡˈon̪d̪iɑ# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#bjeɾɡˈon̪d̪iɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bjeɾɡˈon̪d̪iɑ#
+#βˌɛɾekˈun̪d̪iɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#βˌɛɾekˈun̪ðiɑ# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#βˌɛɾeɡˈun̪ðiɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#βˌɛɾeɡˈun̪ðjɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
+#vˌɛɾeɡˈun̪ðjɑ# | 106 : β > v 
+#vˌɛɾiɡˈun̪ðjɑ# | 108 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#vˌeɾiɡˈun̪ðjɑ# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#βˌeɾiɡˈun̪ðjɑ# | 123 : {v;f} > {β;ɸ} 
+#βˌeɾɡˈun̪ðjɑ# | 135 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#βˌeɾɣˈun̪ðjɑ# | 169 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#bˌeɾɡˈun̪d̪jɑ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#beɾɡˈun̪d̪jɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #beɾɡˈun̪d̪jɑ#

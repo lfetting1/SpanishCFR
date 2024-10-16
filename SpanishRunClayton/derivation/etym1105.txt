@@ -7,13 +7,12 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1105:
 #ˌerˈikjo# | 51 : [+syl] > [-long,-splng] 
 #ˌeɾˈikjo# | 52 : r > ɾ 
 #ˌeɾˈit͡ʃjo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌeɾˈie̯t͡ʃjo# | 87 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
-#ˌeɾˈijt͡ʃo# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#ˌeɾˈijt͡so# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌeɾˈiːt͡so# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌeɾˈit͡so# | 151 : [+syl] > [-long,-splng] 
-#ˌeɾˈit͡s# | 167 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
-#ˌeɾˈis̪# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌeɾˈiθ# | 194 : s̪ > θ / __ #
-#eɾˈiθ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌeɾˈit͡ʃo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌeɾˈid͡ʒo# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌeɾˈid͡zo# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌeɾˈid͡z# | 171 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#ˌeɾˈiz̪# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌeɾˈis̪# | 196 : [+strid] > [-voi] 
+#ˌeɾˈiθ# | 200 : s̪ > θ / __ #
+#eɾˈiθ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #eɾˈiθ#

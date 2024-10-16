@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :161:
-#fˌiːlˈiolum# >>> #iljuˈel# ( GOLD : #ixwˈelo#) :
+#fˌiːlˈiolum# >>> #ilwˈel# ( GOLD : #ixwˈelo#) :
 f ˌiː l ˈi o l u m 
 #fˌiːlˈiolu# | 32 : [+nas] > ∅ / [-stres] __ #
 #fˌiːliˈolu# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
@@ -8,14 +8,17 @@ f ˌiː l ˈi o l u m
 #fˌileˈɔlo# | 51 : [+syl] > [-long,-splng] 
 #fˌilejˈɔlo# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #fˌilijˈɔlo# | 58 : e > i / __ j
-#fˌilijˈɔelo# | 112 : ∅ > e / [-tense] __ 
-#fˌilijwˈelo# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ɸˌilijwˈelo# | 121 : {v;f} > {β;ɸ} 
-#ɸˌiliːwˈelo# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɸˌiliwˈelo# | 151 : [+syl] > [-long,-splng] 
-#ɸˌiljuˈelo# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ɸˌiljuˈel# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#hˌiljuˈel# | 179 : ɸ > h / __ [+syl]
-#ˌiljuˈel# | 181 : h > ∅ 
-#iljuˈel# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #iljuˈel#
+#fˌiliˈɔlo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#fˌiljˈɔlo# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
+#fˌiljˈɔelo# | 114 : ∅ > e / [-tense] __ 
+#fˌiljwˈelo# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ɸˌiljwˈelo# | 123 : {v;f} > {β;ɸ} 
+#ɸˌie̯ljwˈelo# | 147 : ∅ > e̯ / [+syl] __ [+cor,+cont] j [+back]
+#ɸˌijlwˈelo# | 149 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#ɸˌiːlwˈelo# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɸˌilwˈelo# | 153 : [+syl] > [-long,-splng] 
+#ɸˌilwˈel# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#hˌilwˈel# | 183 : ɸ > h / __ [+syl]
+#ˌilwˈel# | 185 : h > ∅ 
+#ilwˈel# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ilwˈel#

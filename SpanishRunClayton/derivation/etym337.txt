@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :337:
-#kˌerˈeolɑ# >>> #θiɾjuˈelɑ# ( GOLD : #θiɾwˈelɑ#) :
+#kˌerˈeolɑ# >>> #θiɾjwˈelɑ# ( GOLD : #θiɾwˈelɑ#) :
 k ˌe r ˈe o l ɑ 
 #kˌereˈolɑ# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
 #kˌɛreˈɔlɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -8,16 +8,15 @@ k ˌe r ˈe o l ɑ
 #kˌɛɾijˈɔlɑ# | 58 : e > i / __ j
 #kjˌɛɾijˈɔlɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #t͡ʃjˌɛɾijˈɔlɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡sjˌɛɾijˈɔlɑ# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sjˌeɾijˈɔlɑ# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#t͡sjˌeɾijˈɔelɑ# | 112 : ∅ > e / [-tense] __ 
-#t͡sjˌeɾijwˈelɑ# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#t͡sjˌeɾiːwˈelɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#t͡sjˌeɾiwˈelɑ# | 151 : [+syl] > [-long,-splng] 
-#t͡sjˌeɾjuˈelɑ# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#t͡sjˌiɾjuˈelɑ# | 171 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#t͡sˌiɾjuˈelɑ# | 185 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#s̪ˌiɾjuˈelɑ# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#θˌiɾjuˈelɑ# | 193 : s̪ > θ / __ [-cons]
-#θiɾjuˈelɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #θiɾjuˈelɑ#
+#t͡ʃˌɛɾijˈɔlɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡ʃˌɛɾiˈɔlɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#t͡sˌɛɾiˈɔlɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sˌɛɾjˈɔlɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
+#t͡sˌeɾjˈɔlɑ# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#t͡sˌeɾjˈɔelɑ# | 114 : ∅ > e / [-tense] __ 
+#t͡sˌeɾjwˈelɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#t͡sˌiɾjwˈelɑ# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#s̪ˌiɾjwˈelɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θˌiɾjwˈelɑ# | 199 : s̪ > θ / __ [-cons]
+#θiɾjwˈelɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #θiɾjwˈelɑ#

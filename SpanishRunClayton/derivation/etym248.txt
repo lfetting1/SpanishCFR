@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :248:
-#kwˌɑt̪t̪uˈord̪ekim# >>> #kɑt̪wˈeɾθje# ( GOLD : #kɑt̪ˈoɾθe#) :
+#kwˌɑt̪t̪uˈord̪ekim# >>> #kɑt̪wˈeɾθe# ( GOLD : #kɑt̪ˈoɾθe#) :
 k w ˌɑ t̪ t̪ u ˈo r d̪ e k i m 
 #kɣʷˌɑt̪t̪uˈord̪ekim# | 18 : w > ɣʷ / __ [+syl]
 #kɣʷˌɑt̪t̪uˈord̪eki# | 32 : [+nas] > ∅ / [-stres] __ #
@@ -10,21 +10,22 @@ k w ˌɑ t̪ t̪ u ˈo r d̪ e k i m
 #kβˌɑt̪t̪ˈɔɾd̪eke# | 66 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
 #kβˌɑt̪t̪ˈɔɾd̪ekje# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #kβˌɑt̪t̪ˈɔɾd̪et͡ʃje# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kβˌɑt̪t̪ˈɔɾðet͡ʃje# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#kβˌɑt̪t̪ˈɔɾðed͡ʒje# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#kβˌɑt̪t̪ˈɔɾðed͡zje# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kvˌɑt̪t̪ˈɔɾðed͡zje# | 104 : β > v 
-#kvˌɑt̪t̪ˈɔeɾðed͡zje# | 112 : ∅ > e / [-tense] __ 
-#kvˌɑt̪t̪wˈeɾðed͡zje# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#kβˌɑt̪t̪wˈeɾðed͡zje# | 121 : {v;f} > {β;ɸ} 
-#kβˌɑt̪wˈeɾðed͡zje# | 131 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#kβˌɑt̪wˈeɾðd͡zje# | 133 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kɸˌɑt̪wˈeɾðd͡zje# | 134 : [-son] > [-voi] / [-voi] __ 
-#kɸˌɑt̪wˈeɾd͡zje# | 174 : [-son] > ∅ / __ [+delrel]
-#khˌɑt̪wˈeɾd͡zje# | 179 : ɸ > h / __ [+syl]
-#kˌɑt̪wˈeɾd͡zje# | 181 : h > ∅ 
-#kˌɑt̪wˈeɾz̪je# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#kˌɑt̪wˈeɾs̪je# | 190 : [+strid] > [-voi] 
-#kˌɑt̪wˈeɾθje# | 193 : s̪ > θ / __ [-cons]
-#kɑt̪wˈeɾθje# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kɑt̪wˈeɾθje#
+#kβˌɑt̪t̪ˈɔɾd̪et͡ʃe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#kβˌɑt̪t̪ˈɔɾðet͡ʃe# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#kβˌɑt̪t̪ˈɔɾðed͡ʒe# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#kβˌɑt̪t̪ˈɔɾðed͡ze# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kvˌɑt̪t̪ˈɔɾðed͡ze# | 106 : β > v 
+#kvˌɑt̪t̪ˈɔeɾðed͡ze# | 114 : ∅ > e / [-tense] __ 
+#kvˌɑt̪t̪wˈeɾðed͡ze# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#kβˌɑt̪t̪wˈeɾðed͡ze# | 123 : {v;f} > {β;ɸ} 
+#kβˌɑt̪wˈeɾðed͡ze# | 133 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#kβˌɑt̪wˈeɾðd͡ze# | 135 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kɸˌɑt̪wˈeɾðd͡ze# | 136 : [-son] > [-voi] / [-voi] __ 
+#kɸˌɑt̪wˈeɾd͡ze# | 178 : [-son] > ∅ / __ [+delrel]
+#khˌɑt̪wˈeɾd͡ze# | 183 : ɸ > h / __ [+syl]
+#kˌɑt̪wˈeɾd͡ze# | 185 : h > ∅ 
+#kˌɑt̪wˈeɾz̪e# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kˌɑt̪wˈeɾs̪e# | 196 : [+strid] > [-voi] 
+#kˌɑt̪wˈeɾθe# | 199 : s̪ > θ / __ [-cons]
+#kɑt̪wˈeɾθe# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kɑt̪wˈeɾθe#

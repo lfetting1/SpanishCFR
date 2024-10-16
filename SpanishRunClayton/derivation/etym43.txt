@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :43:
-#d̪ˌekˈembrem# >>> #d̪iθjˈembɾe# ( GOLD : #d̪iθjˈembɾe#) :
+#d̪ˌekˈembrem# >>> #d̪jeθˈembɾe# ( GOLD : #d̪iθjˈembɾe#) :
 d̪ ˌe k ˈe m b r e m
 #d̪ˌekˈeːmbrem# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #d̪ˌekˈeːmbre# | 32 : [+nas] > ∅ / [-stres] __ #
@@ -8,16 +8,17 @@ d̪ ˌe k ˈe m b r e m
 #d̪ˌɛkˈembɾe# | 52 : r > ɾ 
 #d̪ˌɛkjˈembɾe# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #d̪ˌɛt͡ʃjˈembɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ðˌɛt͡ʃjˈemβɾe# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ðˌɛd͡ʒjˈemβɾe# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#ðˌɛd͡zjˈemβɾe# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ðˌɛd͡zjˈemvɾe# | 104 : β > v 
-#ðˌed͡zjˈemvɾe# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ðˌed͡zjˈemβɾe# | 121 : {v;f} > {β;ɸ} 
-#ðˌid͡zjˈemβɾe# | 171 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#ðˌiz̪jˈemβɾe# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ðˌis̪jˈemβɾe# | 190 : [+strid] > [-voi] 
-#ðˌiθjˈemβɾe# | 193 : s̪ > θ / __ [-cons]
-#d̪ˌiθjˈembɾe# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#d̪iθjˈembɾe# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #d̪iθjˈembɾe#
+#d̪ˌɛt͡ʃˈembɾe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ðˌɛt͡ʃˈemβɾe# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˌɛd͡ʒˈemβɾe# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#ðˌɛd͡zˈemβɾe# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ðˌɛd͡zˈemvɾe# | 106 : β > v 
+#ðˌɛed͡zˈemvɾe# | 114 : ∅ > e / [-tense] __ 
+#ðjˌed͡zˈemvɾe# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ðjˌed͡zˈemβɾe# | 123 : {v;f} > {β;ɸ} 
+#ðjˌez̪ˈemβɾe# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ðjˌes̪ˈemβɾe# | 196 : [+strid] > [-voi] 
+#ðjˌeθˈemβɾe# | 199 : s̪ > θ / __ [-cons]
+#d̪jˌeθˈembɾe# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#d̪jeθˈembɾe# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #d̪jeθˈembɾe#

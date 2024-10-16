@@ -1,16 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :50:
-#d̪ˈiːkit̪# >>> #d̪ˈiθje# ( GOLD : #d̪ˈiθe#) :
+#d̪ˈiːkit̪# >>> #d̪ˈiθ# ( GOLD : #d̪ˈiθe#) :
 d̪ ˈiː k i t̪ 
 #d̪ˈiːki# | 34 : [+cons,-cont] > ∅ / __ #
 #d̪ˈiːke# | 50 : [+syl,-long] > [-hi] 
 #d̪ˈike# | 51 : [+syl] > [-long,-splng] 
 #d̪ˈikje# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #d̪ˈit͡ʃje# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ðˈit͡ʃje# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ðˈid͡ʒje# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#ðˈid͡zje# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ðˈiz̪je# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ðˈis̪je# | 190 : [+strid] > [-voi] 
-#ðˈiθje# | 193 : s̪ > θ / __ [-cons]
-#d̪ˈiθje# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #d̪ˈiθje#
+#d̪ˈit͡ʃe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ðˈit͡ʃe# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˈid͡ʒe# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#ðˈid͡ze# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ðˈid͡z# | 171 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#ðˈiz̪# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ðˈis̪# | 196 : [+strid] > [-voi] 
+#ðˈiθ# | 200 : s̪ > θ / __ #
+#d̪ˈiθ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #d̪ˈiθ#

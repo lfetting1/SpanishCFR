@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :12:
-#bˈukkeum# >>> #bwˈiθjo# ( GOLD : #bˈoθo#) :
+#bˈukkeum# >>> #bwˈiθ# ( GOLD : #bˈoθo#) :
 b ˈu k k e u m 
 #bˈukkeu# | 32 : [+nas] > ∅ / [-stres] __ #
 #bˈukkju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #bˈokkjo# | 50 : [+syl,-long] > [-hi] 
 #bˈokt͡ʃjo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˈokt͡ʃjo# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#βˈokt͡sjo# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#vˈokt͡sjo# | 104 : β > v 
-#vˈojt͡sjo# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#vˈujt͡sjo# | 107 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#βˈujt͡sjo# | 121 : {v;f} > {β;ɸ} 
-#βwˈit͡sjo# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#βwˈis̪jo# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#βwˈiθjo# | 193 : s̪ > θ / __ [-cons]
-#bwˈiθjo# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #bwˈiθjo#
+#bˈokt͡ʃo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#βˈokt͡ʃo# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#βˈokt͡so# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˈokt͡so# | 106 : β > v 
+#vˈojt͡so# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#vˈujt͡so# | 110 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#βˈujt͡so# | 123 : {v;f} > {β;ɸ} 
+#βwˈit͡so# | 168 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#βwˈit͡s# | 171 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#βwˈis̪# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#βwˈiθ# | 200 : s̪ > θ / __ #
+#bwˈiθ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #bwˈiθ#

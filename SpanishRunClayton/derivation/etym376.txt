@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :376:
-#kˌoriˈɑːkeɑm# >>> #koɾiˈeθiɑ# ( GOLD : #koɾˈɑθɑ#) :
+#kˌoriˈɑːkeɑm# >>> #kuɾjˈɑθjɑ# ( GOLD : #koɾˈɑθɑ#) :
 k ˌo r i ˈɑː k e ɑ m 
 #kˌoriˈɑːkeɑ# | 32 : [+nas] > ∅ / [-stres] __ #
 #kˌɔriˈɑːkeɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -10,14 +10,15 @@ k ˌo r i ˈɑː k e ɑ m
 #kˌɔɾijˈɑkijɑ# | 58 : e > i / __ j
 #kˌɔɾijˈɑkjijɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #kˌɔɾijˈɑt͡ʃjijɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˌɔɾijˈɑe̯t͡ʃjijɑ# | 88 : ∅ > e̯ / [+syl] __ [-voi] j [+hi]
-#kˌɔɾijˈɑjt͡ʃijɑ# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#kˌɔɾijˈɑjt͡sijɑ# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kˌoɾijˈɑjt͡sijɑ# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#kˌoɾijˈejt͡sijɑ# | 135 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#kˌoɾiːˈeːt͡siːɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˌoɾiˈet͡siɑ# | 151 : [+syl] > [-long,-splng] 
-#kˌoɾiˈes̪iɑ# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#kˌoɾiˈeθiɑ# | 193 : s̪ > θ / __ [-cons]
-#koɾiˈeθiɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #koɾiˈeθiɑ#
+#kˌɔɾijˈɑt͡ʃijɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#kˌɔɾiˈɑt͡ʃiɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#kˌɔɾiˈɑd͡ʒiɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˌɔɾiˈɑd͡ziɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌɔɾjˈɑd͡zjɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
+#kˌoɾjˈɑd͡zjɑ# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#kˌuɾjˈɑd͡zjɑ# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#kˌuɾjˈɑz̪jɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kˌuɾjˈɑs̪jɑ# | 196 : [+strid] > [-voi] 
+#kˌuɾjˈɑθjɑ# | 199 : s̪ > θ / __ [-cons]
+#kuɾjˈɑθjɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kuɾjˈɑθjɑ#

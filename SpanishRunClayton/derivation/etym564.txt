@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :564:
-#mˌolliˈɑːre# >>> #mweliˈɑɾ# ( GOLD : #moxˈɑɾ#) :
+#mˌolliˈɑːre# >>> #mwiljˈɑɾ# ( GOLD : #moxˈɑɾ#) :
 m ˌo l l i ˈɑː r e 
 #mˌɔlliˈɑːre# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #mˌɔlleˈɑːre# | 50 : [+syl,-long] > [-hi] 
@@ -7,11 +7,12 @@ m ˌo l l i ˈɑː r e
 #mˌɔlleˈɑɾe# | 52 : r > ɾ 
 #mˌɔllejˈɑɾe# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #mˌɔllijˈɑɾe# | 58 : e > i / __ j
-#mˌɔjlijˈɑɾe# | 99 : [+lat] > j / [+back] __ [+cons]
-#mˌojlijˈɑɾe# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#mˌojliːˈɑɾe# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#mˌojliˈɑɾe# | 151 : [+syl] > [-long,-splng] 
-#mwˌeliˈɑɾe# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#mwˌeliˈɑɾ# | 168 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#mweliˈɑɾ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mweliˈɑɾ#
+#mˌɔlliˈɑɾe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#mˌɔjliˈɑɾe# | 101 : [+lat] > j / [+back] __ [+cons]
+#mˌɔjljˈɑɾe# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
+#mˌojljˈɑɾe# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#mwˌeljˈɑɾe# | 168 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#mwˌeljˈɑɾ# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#mwˌiljˈɑɾ# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#mwiljˈɑɾ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #mwiljˈɑɾ#

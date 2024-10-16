@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :754:
-#rˈɑn̪kid̪um# >>> #rˈiθjed̪# ( GOLD : #rˈɑn̪θjo#) :
+#rˈɑn̪kid̪um# >>> #rˈeθo# ( GOLD : #rˈɑn̪θjo#) :
 r ˈɑ n̪ k i d̪ u m 
 #rˈɑːn̪kid̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #rˈɑːŋkid̪um# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
@@ -9,16 +9,17 @@ r ˈɑ n̪ k i d̪ u m
 #ɾˈɑŋked̪o# | 52 : r > ɾ 
 #ɾˈɑŋkjed̪o# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #ɾˈɑŋt͡ʃjed̪o# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ɾˈɑŋt͡ʃjeðo# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ɾˈɑŋt͡sjeðo# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ɾˈɑjt͡sjeðo# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ɾˈejt͡sjeðo# | 135 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ɾˈeːt͡sjeðo# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɾˈet͡sjeðo# | 151 : [+syl] > [-long,-splng] 
-#ɾˈet͡sjeð# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ɾˈit͡sjeð# | 171 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#ɾˈis̪jeð# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ɾˈiθjeð# | 193 : s̪ > θ / __ [-cons]
-#rˈiθjeð# | 199 : ɾ > r / # __ 
-#rˈiθjed̪# | 200 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #rˈiθjed̪#
+#ɾˈɑŋt͡ʃed̪o# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ɾˈɑŋt͡ʃeðo# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ɾˈɑŋt͡seðo# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ɾˈɑjt͡seðo# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ɾˈɑjt͡sðo# | 135 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ɾˈɑjt͡sθo# | 136 : [-son] > [-voi] / [-voi] __ 
+#ɾˈejt͡sθo# | 137 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɾˈeːt͡sθo# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɾˈet͡sθo# | 153 : [+syl] > [-long,-splng] 
+#ɾˈet͡so# | 179 : [-son] > ∅ / [+delrel] __ 
+#ɾˈes̪o# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ɾˈeθo# | 199 : s̪ > θ / __ [-cons]
+#rˈeθo# | 205 : ɾ > r / # __ 
+Final form : #rˈeθo#

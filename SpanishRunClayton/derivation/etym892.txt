@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :892:
-#t̪rˈed̪ekim# >>> #t̪ɾˈeiθje# ( GOLD : #t̪ɾˈeθe#) :
+#t̪rˈed̪ekim# >>> #t̪ɾˈieθ# ( GOLD : #t̪ɾˈeθe#) :
 t̪ r ˈe d̪ e k i m 
 #t̪rˈed̪eki# | 32 : [+nas] > ∅ / [-stres] __ #
 #t̪rˈɛd̪eki# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -7,13 +7,17 @@ t̪ r ˈe d̪ e k i m
 #t̪ɾˈɛd̪eke# | 52 : r > ɾ 
 #t̪ɾˈɛd̪ekje# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #t̪ɾˈɛd̪et͡ʃje# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t̪ɾˈɛðet͡ʃje# | 93 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#t̪ɾˈɛet͡ʃje# | 95 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#t̪ɾˈɛed͡ʒje# | 97 : [-cont] > [+voi] / [+syl] __ [+son]
-#t̪ɾˈɛed͡zje# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t̪ɾˈeed͡zje# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#t̪ɾˈeid͡zje# | 171 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#t̪ɾˈeiz̪je# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#t̪ɾˈeis̪je# | 190 : [+strid] > [-voi] 
-#t̪ɾˈeiθje# | 193 : s̪ > θ / __ [-cons]
-Final form : #t̪ɾˈeiθje#
+#t̪ɾˈɛd̪et͡ʃe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t̪ɾˈɛðet͡ʃe# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#t̪ɾˈɛet͡ʃe# | 97 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#t̪ɾˈɛed͡ʒe# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#t̪ɾˈɛed͡ze# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t̪ɾˈɛeed͡ze# | 114 : ∅ > e / [-tense] __ 
+#t̪ɾjˈeed͡ze# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#t̪ɾjˈeed͡z# | 171 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#t̪ɾjˈied͡z# | 187 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#t̪ɾˈied͡z# | 191 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#t̪ɾˈiez̪# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#t̪ɾˈies̪# | 196 : [+strid] > [-voi] 
+#t̪ɾˈieθ# | 200 : s̪ > θ / __ #
+Final form : #t̪ɾˈieθ#

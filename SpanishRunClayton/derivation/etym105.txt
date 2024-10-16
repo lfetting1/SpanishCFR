@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :105:
-#frˌiːksˈeolum# >>> #fɾixjuˈel# ( GOLD : #fɾiswˈelo#) :
+#frˌiːksˈeolum# >>> #fɾixwˈel# ( GOLD : #fɾiswˈelo#) :
 f r ˌiː k s ˈe o l u m 
 #frˌiːksˈeolu# | 32 : [+nas] > ∅ / [-stres] __ #
 #frˌiːxsˈeolu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
@@ -10,16 +10,18 @@ f r ˌiː k s ˈe o l u m
 #fɾˌixseˈɔlo# | 52 : r > ɾ 
 #fɾˌixsejˈɔlo# | 54 : ∅ > j / [+syl,-back] __ [+syl,+back]
 #fɾˌixsijˈɔlo# | 58 : e > i / __ j
-#fɾˌijsijˈɔlo# | 105 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#fɾˌijsijˈɔelo# | 112 : ∅ > e / [-tense] __ 
-#fɾˌijsijwˈelo# | 113 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ɸɾˌijsijwˈelo# | 121 : {v;f} > {β;ɸ} 
-#ɸɾˌijʃijwˈelo# | 148 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#ɸɾˌiːʃiːwˈelo# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɸɾˌiʃiwˈelo# | 151 : [+syl] > [-long,-splng] 
-#ɸɾˌiʃjuˈelo# | 164 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ɸɾˌiʃjuˈel# | 169 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#fɾˌiʃjuˈel# | 180 : ɸ > f 
-#fɾˌixjuˈel# | 192 : ʃ > x 
-#fɾixjuˈel# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #fɾixjuˈel#
+#fɾˌixsiˈɔlo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#fɾˌixsjˈɔlo# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
+#fɾˌijsjˈɔlo# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#fɾˌijsjˈɔelo# | 114 : ∅ > e / [-tense] __ 
+#fɾˌijsjwˈelo# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ɸɾˌijsjwˈelo# | 123 : {v;f} > {β;ɸ} 
+#ɸɾˌijʃjwˈelo# | 150 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#ɸɾˌiːʃjwˈelo# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɸɾˌiʃjwˈelo# | 153 : [+syl] > [-long,-splng] 
+#ɸɾˌiʃwˈelo# | 156 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ɸɾˌiʃwˈel# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#fɾˌiʃwˈel# | 184 : ɸ > f 
+#fɾˌixwˈel# | 198 : ʃ > x 
+#fɾixwˈel# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #fɾixwˈel#

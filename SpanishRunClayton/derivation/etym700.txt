@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :700:
-#pˌellˈiːkeɑ# >>> #peʎˈeθiɑ# ( GOLD : #peʝˈiθɑ#) :
+#pˌellˈiːkeɑ# >>> #peʎˈiθjɑ# ( GOLD : #peʝˈiθɑ#) :
 p ˌe l l ˈiː k e ɑ 
 #pˌɛllˈiːkeɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #pˌɛllˈikeɑ# | 51 : [+syl] > [-long,-splng] 
@@ -7,15 +7,15 @@ p ˌe l l ˈiː k e ɑ
 #pˌɛllˈikijɑ# | 58 : e > i / __ j
 #pˌɛllˈikjijɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #pˌɛllˈit͡ʃjijɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˌɛllˈie̯t͡ʃjijɑ# | 88 : ∅ > e̯ / [+syl] __ [-voi] j [+hi]
-#pˌɛllˈijt͡ʃijɑ# | 91 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#pˌɛllˈijt͡sijɑ# | 100 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#pˌellˈijt͡sijɑ# | 109 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#pˌeʎˈijt͡sijɑ# | 130 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#pˌeʎˈiːt͡siːɑ# | 150 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#pˌeʎˈit͡siɑ# | 151 : [+syl] > [-long,-splng] 
-#pˌeʎˈet͡siɑ# | 173 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#pˌeʎˈes̪iɑ# | 189 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#pˌeʎˈeθiɑ# | 193 : s̪ > θ / __ [-cons]
-#peʎˈeθiɑ# | 201 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #peʎˈeθiɑ#
+#pˌɛllˈit͡ʃijɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#pˌɛllˈit͡ʃiɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#pˌɛllˈid͡ʒiɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
+#pˌɛllˈid͡ziɑ# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#pˌɛllˈid͡zjɑ# | 103 : [+front,+syl,-stres,+hi] > j / __ [+syl]
+#pˌellˈid͡zjɑ# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pˌeʎˈid͡zjɑ# | 132 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#pˌeʎˈiz̪jɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#pˌeʎˈis̪jɑ# | 196 : [+strid] > [-voi] 
+#pˌeʎˈiθjɑ# | 199 : s̪ > θ / __ [-cons]
+#peʎˈiθjɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #peʎˈiθjɑ#
