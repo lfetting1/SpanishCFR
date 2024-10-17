@@ -1,16 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :930:
-#t̪ˌempt̪ɑːt̪iˈoːn̪em# >>> #t̪emt̪ɑz̪ˈon̪# ( GOLD : #t̪en̪t̪ɑθjˈon̪#) :
+#t̪ˌempt̪ɑːt̪iˈoːn̪em# >>> #t̪en̪t̪ɑz̪ˈon̪# ( GOLD : #t̪en̪t̪ɑθjˈon̪#) :
 t̪ ˌe m p t̪ ɑː t̪ i ˈoː n̪ e m 
 #t̪ˌeːmpt̪ɑːt̪iˈoːn̪em# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #t̪ˌeːmt̪ɑːt̪iˈoːn̪em# | 7 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#t̪ˌeːmt̪ɑːt̪iˈoːn̪e# | 29 : [+nas] > ∅ / [-stres] __ #
-#t̪ˌeːmt̪ɑːt̪jˈoːn̪e# | 45 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#t̪ˌemt̪ɑt̪jˈon̪e# | 48 : [+syl] > [-long,-splng] 
-#t̪ˌemt̪ɑt͡ʃjˈon̪e# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t̪ˌemt̪ɑt͡ʃˈon̪e# | 68 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t̪ˌemt̪ɑd͡ʒˈon̪e# | 90 : [-cont] > [+voi] / [+syl] __ [+son]
-#t̪ˌemt̪ɑd͡zˈon̪e# | 93 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t̪ˌemt̪ɑd͡zˈon̪# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#t̪ˌemt̪ɑz̪ˈon̪# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#t̪emt̪ɑz̪ˈon̪# | 205 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #t̪emt̪ɑz̪ˈon̪#
+#t̪ˌeːn̪t̪ɑːt̪iˈoːn̪em# | 12 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#t̪ˌeːn̪t̪ɑːt̪iˈoːn̪e# | 31 : [+nas] > ∅ / [-stres] __ #
+#t̪ˌeːn̪t̪ɑːt̪jˈoːn̪e# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#t̪ˌen̪t̪ɑt̪jˈon̪e# | 50 : [+syl] > [-long,-splng] 
+#t̪ˌen̪t̪ɑt͡ʃjˈon̪e# | 66 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t̪ˌen̪t̪ɑt͡ʃˈon̪e# | 70 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t̪ˌen̪t̪ɑd͡ʒˈon̪e# | 92 : [-cont] > [+voi] / [+syl] __ [+son]
+#t̪ˌen̪t̪ɑd͡zˈon̪e# | 95 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t̪ˌen̪t̪ɑd͡zˈon̪# | 175 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#t̪ˌen̪t̪ɑz̪ˈon̪# | 197 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#t̪en̪t̪ɑz̪ˈon̪# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #t̪en̪t̪ɑz̪ˈon̪#

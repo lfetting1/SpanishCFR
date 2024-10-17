@@ -1,17 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1115:
-#ˌin̪lˈɑkweɑ# >>> #en̪lˈibjɑ# ( GOLD : #en̪lˈɑθɑ#) :
+#ˌin̪lˈɑkweɑ# >>> #enlˈibjɑ# ( GOLD : #en̪lˈɑθɑ#) :
 ˌi n̪ l ˈɑ k w e ɑ 
-#ˌin̪lˈɑkɣʷeɑ# | 15 : w > ɣʷ / __ [+syl]
-#ˌin̪lˈɑkbeɑ# | 34 : ɣʷ > b 
-#ˌin̪lˈɑxbeɑ# | 35 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌin̪lˈɑxbjɑ# | 45 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌen̪lˈɑxbjɑ# | 47 : [+syl,-long] > [-hi] 
-#ˌen̪lˈɑjbjɑ# | 98 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌin̪lˈɑjbjɑ# | 99 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#ˌin̪lˈejbjɑ# | 132 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ˌin̪lˈeːbjɑ# | 147 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌin̪lˈebjɑ# | 148 : [+syl] > [-long,-splng] 
-#ˌin̪lˈibjɑ# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#ˌen̪lˈibjɑ# | 177 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#en̪lˈibjɑ# | 205 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #en̪lˈibjɑ#
+#ˌinlˈɑkweɑ# | 12 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ˌinlˈɑkɣʷeɑ# | 17 : w > ɣʷ / __ [+syl]
+#ˌinlˈɑkbeɑ# | 36 : ɣʷ > b 
+#ˌinlˈɑxbeɑ# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌinlˈɑxbjɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌenlˈɑxbjɑ# | 49 : [+syl,-long] > [-hi] 
+#ˌenlˈɑjbjɑ# | 100 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˌinlˈɑjbjɑ# | 101 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#ˌinlˈejbjɑ# | 134 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ˌinlˈeːbjɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌinlˈebjɑ# | 150 : [+syl] > [-long,-splng] 
+#ˌinlˈibjɑ# | 177 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ˌenlˈibjɑ# | 179 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#enlˈibjɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #enlˈibjɑ#

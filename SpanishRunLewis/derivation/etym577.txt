@@ -1,20 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :577:
-#mˌɑn̪kˈipium# >>> #mɑn̪θˈepo# ( GOLD : #mɑn̪θˈebo#) :
+#mˌɑn̪kˈipium# >>> #meθˈepo# ( GOLD : #mɑn̪θˈebo#) :
 m ˌɑ n̪ k ˈi p i u m 
 #mˌɑːn̪kˈipium# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#mˌɑːn̪kˈipiu# | 29 : [+nas] > ∅ / [-stres] __ #
-#mˌɑːn̪kˈipju# | 43 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#mˌɑːn̪kˈepjo# | 47 : [+syl,-long] > [-hi] 
-#mˌɑn̪kˈepjo# | 48 : [+syl] > [-long,-splng] 
-#mˌɑn̪kjˈepjo# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#mˌɑn̪t͡ʃjˈepjo# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#mˌɑn̪t͡ʃˈepjo# | 68 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#mˌɑn̪t͡ʃˈee̯pjo# | 81 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
-#mˌɑn̪t͡ʃˈejpo# | 85 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#mˌɑn̪t͡sˈejpo# | 93 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#mˌɑn̪t͡sˈeːpo# | 147 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#mˌɑn̪t͡sˈepo# | 148 : [+syl] > [-long,-splng] 
-#mˌɑn̪s̪ˈepo# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#mˌɑn̪θˈepo# | 198 : s̪ > θ / __ [-cons]
-#mɑn̪θˈepo# | 205 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mɑn̪θˈepo#
+#mˌɑːŋkˈipium# | 12 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#mˌɑːŋkˈipiu# | 31 : [+nas] > ∅ / [-stres] __ #
+#mˌɑːŋkˈipju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#mˌɑːŋkˈepjo# | 49 : [+syl,-long] > [-hi] 
+#mˌɑŋkˈepjo# | 50 : [+syl] > [-long,-splng] 
+#mˌɑŋkjˈepjo# | 65 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#mˌɑŋt͡ʃjˈepjo# | 66 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˌɑŋt͡ʃˈepjo# | 70 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#mˌɑŋt͡ʃˈee̯pjo# | 83 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#mˌɑŋt͡ʃˈejpo# | 87 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#mˌɑŋt͡sˈejpo# | 95 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mˌɑjt͡sˈejpo# | 100 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#mˌejt͡sˈejpo# | 134 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#mˌeːt͡sˈeːpo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌet͡sˈepo# | 150 : [+syl] > [-long,-splng] 
+#mˌes̪ˈepo# | 197 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#mˌeθˈepo# | 200 : s̪ > θ / __ [-cons]
+#meθˈepo# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #meθˈepo#
