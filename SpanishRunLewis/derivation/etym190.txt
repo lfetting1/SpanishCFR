@@ -1,20 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :190:
-#hˌord̪ˈeolum# >>> #weɾxwˈel# ( GOLD : #oɾθwˈelo#) :
+#hˌord̪ˈeolum# >>> #wiz̪wˈel# ( GOLD : #oɾθwˈelo#) :
 h ˌo r d̪ ˈe o l u m 
 #ˌord̪ˈeolum# | 0 : h > ∅ 
-#ˌord̪ˈeolu# | 31 : [+nas] > ∅ / [-stres] __ #
-#ˌord̪eˈolu# | 41 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌord̪jˈolu# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌɔrd̪jˈɔlu# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɔrd̪jˈɔlo# | 49 : [+syl,-long] > [-hi] 
-#ˌɔɾd̪jˈɔlo# | 51 : r > ɾ 
-#ˌɔɾd͡ʒjˈɔlo# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɔɾd͡ʒˈɔlo# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɔɾʒˈɔlo# | 94 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ˌɔeɾʒˈɔelo# | 113 : ∅ > e / [-tense] __ 
-#wˌeɾʒwˈelo# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#wˌeɾʒwˈel# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#wˌeɾʃwˈel# | 195 : [+strid] > [-voi] 
-#wˌeɾxwˈel# | 197 : ʃ > x 
-#weɾxwˈel# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #weɾxwˈel#
+#ˌord̪ˈeolu# | 29 : [+nas] > ∅ / [-stres] __ #
+#ˌord̪eˈolu# | 39 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌord̪jˈolu# | 45 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɔrd̪jˈɔlu# | 46 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɔrd̪jˈɔlo# | 47 : [+syl,-long] > [-hi] 
+#ˌɔɾd̪jˈɔlo# | 49 : r > ɾ 
+#ˌɔɾd͡ʒjˈɔlo# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɔɾd͡ʒˈɔlo# | 68 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɔɾd͡zˈɔlo# | 93 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɔɾd͡zwˈelo# | 109 : ˈɔ > w ˈe 
+#wˌeɾd͡zwˈelo# | 110 : ˌɔ > w ˌe 
+#wˌed͡zwˈelo# | 128 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#wˌed͡zwˈel# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#wˌid͡zwˈel# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#wˌiz̪wˈel# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#wiz̪wˈel# | 205 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #wiz̪wˈel#

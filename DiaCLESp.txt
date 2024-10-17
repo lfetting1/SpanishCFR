@@ -24,9 +24,6 @@ h > ∅ $ h_deletion
 
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi] $implosion
 
-[+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @ $ nasal assimilation 10/04 moved after implosion. This matches online version of phono, but not the offline one.
-
-[+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation 10/04 moved after implosion, which matches the online version of phono, but not the offline one.
 
 ð > d̪ / l __ $ recurrent rule,stopping
 
@@ -90,7 +87,7 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front] $ velar deletion
 
-[+syl,-prim,-lo,+hi] > [-syl,-long] / __ [+syl] $ syneresis early
+[+syl,-stres,-lo] > [-syl,-long,+hi] / __ [+syl,+hi] $ syneresis early
 
 [+syl,-stres,-lo,+back] > [-syl,-long,+hi] / __ [+syl,-back] $ syneresis early
 
@@ -100,7 +97,7 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 [+syl,-long] > [-hi] $ hi_lowering
 
-[+syl,+long] > [-long] $recurrent rule,unlong, shorten long vowels
+[+syl] > [-long] $recurrent rule,unlong, shorten long vowels
 
 r > ɾ
 
@@ -228,14 +225,14 @@ $[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is
 
 [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ $ progressive raising (e>i / V ʝ __ ) $(111) Fixed. Context is / V ʝ __ 
 
-$ɛ > j e $ diphthongization
-$ˈɛ > j ˈe $ diphthongization
-$ˌɛ > j ˌe $ diphthongization
-$ɔ > w e $ diphthongization
-$ˈɔ > w ˈe $ diphthongization
-$ˌɔ > w ˌe $ diphthongization
+ɛ > j e $ diphthongization
+ˈɛ > j ˈe $ diphthongization
+ˌɛ > j ˌe $ diphthongization
+ɔ > w e $ diphthongization
+ˈɔ > w ˈe $ diphthongization
+ˌɔ > w ˌe $ diphthongization
 
-[-tense] ∅ > [+tense,+hi,-syl] e $!test this
+$[-tense] ∅ > [+tense,+hi,-syl] e $!test this
 
 ʝ > ∅ / # __ [+syl,-stres,+front] $recurrent, palatal deletion $(118) all good
 
@@ -249,7 +246,7 @@ $ˌɔ > w ˌe $ diphthongization
 
 [+hi,-stres,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis
 
-[-cons,-syl,+hi] > [+cons,-son] / __ [+syl] $recurrent,modern glide fortition
+$[-cons,-syl,+hi] > [+cons,-son] / __ [+syl] $recurrent,modern glide fortition $!TODO fix
 
 [+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 
@@ -299,14 +296,28 @@ $CM 10/13: apparently the second recurrence of "monophthong" was missed -- unles
 $CM 10/13: assert persistent rule -- unlong
 [+syl] > [-long] 
 
+[-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
+
+{s;t̪} > {ʃ;t͡ʃ} / j __ $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+
+$CM 10/13: apparently the second recurrence of progressive rounding was missed -- unless this reflects the web version?
+{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
+
+$CM 10/13: apparently the second recurrence of "monophthong" was missed -- unless this reflects the web version? 
+[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
+
+$CM 10/13: assert persistent rule -- unlong
+[+syl] > [-long] 
+
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled.
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 
-[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
+[-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
 
-[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
+[-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
+
 
 $apparently this (ew_iw) was errantly placed before progressive_hushing -- unless that reflects the online version? 
 [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round] $ ew_iw
@@ -363,9 +374,10 @@ h > ∅ $ h_deletion
 
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO largely bled in first runthrough -- check again in second.
 
-[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
+[-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
 
-[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
+[-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
+
 
 [+lab,-son] > w / __ [-son] $wawism_late
 
@@ -375,17 +387,15 @@ n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation. TODO seems good but c
 
 $[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress -- CM(@Aug31) -- was this rule inserted by accident here? It has no effect currently and has already been realized.
 
-[+strid,+ant] > [+cont] $deaffrication
+[+strid,+ant,+delrel] > [+cont,+distr] $deaffrication
 
 [-son,+cor,+ant] > [+strid,+cont] / [+syl] __ [-son] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.) (However ,this had to be changed from the default direct translation of his features use dodesnțt capture hat, apparently, ʃ is not targeted by "+obstr +cor". Also bizarre that he had +delrel... anyhow.) TODO look at this again. TODO also -- it apparently effects /t/ as well? That is probably not intended but is it too generous to attribute removal of this to Hartmann? 10/11 - made into dentals
-
-[+strid] > [-voi] $ unvoice,the great sibilant merger
 
 ʃ > x $ palatal velarization
 
 $(see below for reformulation) [+strid,+cor,+ant] > [-strid,-distr] / __ [-cons] $ interdental
 
-s > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
+s̪ > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
 
 s̪ > θ / __ # $part two of interdental reformulation?
 
@@ -402,5 +412,4 @@ $kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original forma
 ɾ > r / # __ $ initial trill. CM @Aug31 -- weirdly this semes to by accident effect #fr initials in Hartmann's Phono output but I don't think this is intended, nor desired, so let's not put it in. As of present this appears to bled -- reexamine.
 
 [-prim] > [-stres] $ Deletion of secondary stress. TODO - Move back in the cascade
-{β;ð;ɣ} > {b;d̪;ɡ} $AUXILIARY - rectify lexicon's representation of bdg
 ʎ > ʝ $Yeismo. Relatively modern change not reflected in Hartmann's rules but which is apparent in most modern Spanish.

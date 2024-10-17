@@ -1,26 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :245:
-#kwˌiːn̪ɡˈen̪t̪oːs# >>> #kixˈen̪ss# ( GOLD : #kin̪jˈen̪t̪os#) :
+#kwˌiːn̪ɡˈen̪t̪oːs# >>> #kpin̪z̪ˈen̪t̪s# ( GOLD : #kin̪jˈen̪t̪os#) :
 k w ˌiː n̪ ɡ ˈe n̪ t̪ oː s 
 #kwˌiːn̪ɡˈeːn̪t̪oːs# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kwˌiːŋɡˈeːn̪t̪oːs# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#kɣʷˌiːŋɡˈeːn̪t̪oːs# | 17 : w > ɣʷ / __ [+syl]
-#kβˌiːŋɡˈeːn̪t̪oːs# | 36 : ɣʷ > β 
-#kβˌiŋɡˈen̪t̪os# | 50 : [+syl] > [-long,-splng] 
-#kβˌiŋɡjˈen̪t̪os# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#kβˌiŋd͡ʒjˈen̪t̪os# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kβˌiŋd͡ʒˈen̪t̪os# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#kβˌiŋʒˈen̪t̪os# | 94 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#kvˌiŋʒˈen̪t̪os# | 105 : β > v 
-#kvˌijʒˈen̪t̪os# | 106 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#kβˌijʒˈen̪t̪os# | 122 : {v;f} > {β;ɸ} 
-#kβˌijʒˈen̪t̪s# | 134 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kɸˌijʒˈen̪t̪s# | 135 : [-son] > [-voi] / [-voi] __ 
-#kɸˌiːʒˈen̪t̪s# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kɸˌiʒˈen̪t̪s# | 152 : [+syl] > [-long,-splng] 
-#khˌiʒˈen̪t̪s# | 182 : ɸ > h / __ [+syl]
-#kˌiʒˈen̪t̪s# | 184 : h > ∅ 
-#kˌiʃˈen̪t̪s# | 195 : [+strid] > [-voi] 
-#kˌiʃˈen̪ss# | 196 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#kˌixˈen̪ss# | 197 : ʃ > x 
-#kixˈen̪ss# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kixˈen̪ss#
+#kɣʷˌiːn̪ɡˈeːn̪t̪oːs# | 15 : w > ɣʷ / __ [+syl]
+#kbˌiːn̪ɡˈeːn̪t̪oːs# | 34 : ɣʷ > b 
+#kbˌin̪ɡˈen̪t̪os# | 48 : [+syl] > [-long,-splng] 
+#kbˌin̪ɡjˈen̪t̪os# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#kbˌin̪d͡ʒjˈen̪t̪os# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kbˌin̪d͡ʒˈen̪t̪os# | 68 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#kbˌin̪d͡zˈen̪t̪os# | 93 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kbˌin̪d͡zˈen̪t̪s# | 130 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#kpˌin̪d͡zˈen̪t̪s# | 131 : [-son] > [-voi] / [-voi] __ 
+#kpˌin̪z̪ˈen̪t̪s# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kpin̪z̪ˈen̪t̪s# | 205 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kpin̪z̪ˈen̪t̪s#

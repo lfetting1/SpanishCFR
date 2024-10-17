@@ -1,26 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :974:
-#wˌerekˈun̪d̪iɑm# >>> #bjeɾɡˈun̪xɑ# ( GOLD : #beɾɡwˈen̪θɑ#) :
+#wˌerekˈun̪d̪iɑm# >>> #bjeɾɡˈun̪z̪ɑ# ( GOLD : #beɾɡwˈen̪θɑ#) :
 w ˌe r e k ˈu n̪ d̪ i ɑ m 
 #wˌerekˈuːn̪d̪iɑm# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ɣʷˌerekˈuːn̪d̪iɑm# | 17 : w > ɣʷ / __ [+syl]
-#ɣʷˌerekˈuːn̪d̪iɑ# | 31 : [+nas] > ∅ / [-stres] __ #
-#βˌerekˈuːn̪d̪iɑ# | 36 : ɣʷ > β 
-#βˌerekˈuːn̪d̪jɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#βˌɛrekˈuːn̪d̪jɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#βˌɛrekˈun̪d̪jɑ# | 50 : [+syl] > [-long,-splng] 
-#βˌɛɾekˈun̪d̪jɑ# | 51 : r > ɾ 
-#βˌɛɾekˈun̪d͡ʒjɑ# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌɛɾekˈun̪d͡ʒɑ# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#βˌɛɾekˈun̪ʒɑ# | 94 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#βˌɛɾeɡˈun̪ʒɑ# | 98 : [-cont] > [+voi] / [+syl] __ [+son]
-#vˌɛɾeɡˈun̪ʒɑ# | 105 : β > v 
-#vˌɛeɾeɡˈun̪ʒɑ# | 113 : ∅ > e / [-tense] __ 
-#vjˌeɾeɡˈun̪ʒɑ# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#βjˌeɾeɡˈun̪ʒɑ# | 122 : {v;f} > {β;ɸ} 
-#βjˌeɾɡˈun̪ʒɑ# | 134 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#βjˌeɾɣˈun̪ʒɑ# | 168 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#βjˌeɾɣˈun̪ʃɑ# | 195 : [+strid] > [-voi] 
-#βjˌeɾɣˈun̪xɑ# | 197 : ʃ > x 
-#bjˌeɾɡˈun̪xɑ# | 205 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#bjeɾɡˈun̪xɑ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bjeɾɡˈun̪xɑ#
+#ɣʷˌerekˈuːn̪d̪iɑm# | 15 : w > ɣʷ / __ [+syl]
+#ɣʷˌerekˈuːn̪d̪iɑ# | 29 : [+nas] > ∅ / [-stres] __ #
+#bˌerekˈuːn̪d̪iɑ# | 34 : ɣʷ > b 
+#bˌerekˈuːn̪d̪jɑ# | 45 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#bˌɛrekˈuːn̪d̪jɑ# | 46 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#bˌɛrekˈun̪d̪jɑ# | 48 : [+syl] > [-long,-splng] 
+#bˌɛɾekˈun̪d̪jɑ# | 49 : r > ɾ 
+#bˌɛɾekˈun̪d͡ʒjɑ# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#bˌɛɾekˈun̪d͡ʒɑ# | 68 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#bˌɛɾeɡˈun̪d͡ʒɑ# | 90 : [-cont] > [+voi] / [+syl] __ [+son]
+#bˌɛɾeɡˈun̪d͡zɑ# | 93 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#bjˌeɾeɡˈun̪d͡zɑ# | 107 : ˌɛ > j ˌe 
+#bjˌeɾɡˈun̪d͡zɑ# | 130 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#bjˌeɾɡˈun̪z̪ɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#bjeɾɡˈun̪z̪ɑ# | 205 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bjeɾɡˈun̪z̪ɑ#

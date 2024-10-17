@@ -1,16 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :806:
-#st̪ˈɑbulum# >>> #est̪ˈɑblo# ( GOLD : #est̪ˈɑblo#) :
+#st̪ˈɑbulum# >>> #s̪t̪ˈɑblo# ( GOLD : #est̪ˈɑblo#) :
 s t̪ ˈɑ b u l u m 
-#s̪t̪ˈɑbulum# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#s̪t̪ˈɑblum# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#s̪t̪ˈɑblu# | 31 : [+nas] > ∅ / [-stres] __ #
-#s̪t̪ˈɑblo# | 49 : [+syl,-long] > [-hi] 
-#s̪t̪ˈɑβlo# | 94 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#s̪t̪ˈɑvlo# | 105 : β > v 
-#s̪t̪ˈɑβlo# | 122 : {v;f} > {β;ɸ} 
-#s̪t̪ˈɑβʎo# | 127 : [+lat] > ʎ / [-son] __ 
-#s̪t̪ˈɑβlo# | 133 : ʎ > l / [+cons,+voi] __ 
-#st̪ˈɑβlo# | 196 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#est̪ˈɑβlo# | 203 : ∅ > e / # __ s [+cons]
-#est̪ˈɑblo# | 205 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #est̪ˈɑblo#
+#s̪t̪ˈɑbulum# | 17 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#s̪t̪ˈɑblum# | 28 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#s̪t̪ˈɑblu# | 29 : [+nas] > ∅ / [-stres] __ #
+#s̪t̪ˈɑblo# | 47 : [+syl,-long] > [-hi] 
+#s̪t̪ˈɑbʎo# | 123 : [+lat] > ʎ / [-son] __ 
+#s̪t̪ˈɑblo# | 129 : ʎ > l / [+cons,+voi] __ 
+Final form : #s̪t̪ˈɑblo#

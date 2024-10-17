@@ -1,19 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1016:
-#ɡˌen̪ˈest̪ɑm# >>> #xin̪jˈest̪ɑ# ( GOLD : #in̪jˈest̪ɑ#) :
+#ɡˌen̪ˈest̪ɑm# >>> #z̪in̪jˈes̪t̪ɑ# ( GOLD : #in̪jˈest̪ɑ#) :
 ɡ ˌe n̪ ˈe s t̪ ɑ m 
-#ɡˌen̪ˈes̪t̪ɑm# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ɡˌen̪ˈes̪t̪ɑ# | 31 : [+nas] > ∅ / [-stres] __ #
-#ɡˌɛn̪ˈɛs̪t̪ɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ɡjˌɛn̪ˈɛs̪t̪ɑ# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˌɛn̪ˈɛs̪t̪ɑ# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d͡ʒˌɛn̪ˈɛs̪t̪ɑ# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ʒˌɛn̪ˈɛs̪t̪ɑ# | 94 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ʒˌɛen̪ˈɛes̪t̪ɑ# | 113 : ∅ > e / [-tense] __ 
-#ʒjˌen̪jˈes̪t̪ɑ# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ʒˌen̪jˈes̪t̪ɑ# | 155 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ʒˌin̪jˈes̪t̪ɑ# | 174 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#ʃˌin̪jˈes̪t̪ɑ# | 195 : [+strid] > [-voi] 
-#ʃˌin̪jˈest̪ɑ# | 196 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#xˌin̪jˈest̪ɑ# | 197 : ʃ > x 
-#xin̪jˈest̪ɑ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #xin̪jˈest̪ɑ#
+#ɡˌen̪ˈes̪t̪ɑm# | 17 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#ɡˌen̪ˈes̪t̪ɑ# | 29 : [+nas] > ∅ / [-stres] __ #
+#ɡˌɛn̪ˈɛs̪t̪ɑ# | 46 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ɡjˌɛn̪ˈɛs̪t̪ɑ# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˌɛn̪ˈɛs̪t̪ɑ# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d͡ʒˌɛn̪ˈɛs̪t̪ɑ# | 68 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#d͡zˌɛn̪ˈɛs̪t̪ɑ# | 93 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#d͡zˌɛn̪jˈes̪t̪ɑ# | 106 : ˈɛ > j ˈe 
+#d͡zjˌen̪jˈes̪t̪ɑ# | 107 : ˌɛ > j ˌe 
+#d͡zjˌin̪jˈes̪t̪ɑ# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#d͡zˌin̪jˈes̪t̪ɑ# | 191 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#z̪ˌin̪jˈes̪t̪ɑ# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#z̪in̪jˈes̪t̪ɑ# | 205 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #z̪in̪jˈes̪t̪ɑ#

@@ -1,19 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1006:
-#ɡˈen̪erum# >>> #xˈen̪d̪ɾo# ( GOLD : #ʝˈeɾn̪o#) :
+#ɡˈen̪erum# >>> #z̪jˈen̪d̪ɾo# ( GOLD : #ʝˈeɾn̪o#) :
 ɡ ˈe n̪ e r u m 
-#ɡˈen̪rum# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
-#ɡˈen̪ru# | 31 : [+nas] > ∅ / [-stres] __ #
-#ɡˈɛn̪ru# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ɡˈɛn̪ro# | 49 : [+syl,-long] > [-hi] 
-#ɡˈɛn̪ɾo# | 51 : r > ɾ 
-#ɡjˈɛn̪ɾo# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˈɛn̪ɾo# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d͡ʒˈɛn̪ɾo# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ʒˈɛn̪ɾo# | 94 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ʒˈɛen̪ɾo# | 113 : ∅ > e / [-tense] __ 
-#ʒjˈen̪ɾo# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ʒˈen̪ɾo# | 155 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ʒˈen̪d̪ɾo# | 193 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-#ʃˈen̪d̪ɾo# | 195 : [+strid] > [-voi] 
-#xˈen̪d̪ɾo# | 197 : ʃ > x 
-Final form : #xˈen̪d̪ɾo#
+#ɡˈen̪rum# | 27 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
+#ɡˈen̪ru# | 29 : [+nas] > ∅ / [-stres] __ #
+#ɡˈɛn̪ru# | 46 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ɡˈɛn̪ro# | 47 : [+syl,-long] > [-hi] 
+#ɡˈɛn̪ɾo# | 49 : r > ɾ 
+#ɡjˈɛn̪ɾo# | 63 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˈɛn̪ɾo# | 64 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d͡ʒˈɛn̪ɾo# | 68 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#d͡zˈɛn̪ɾo# | 93 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#d͡zjˈen̪ɾo# | 106 : ˈɛ > j ˈe 
+#d͡zjˈen̪d̪ɾo# | 194 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
+#z̪jˈen̪d̪ɾo# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Final form : #z̪jˈen̪d̪ɾo#
