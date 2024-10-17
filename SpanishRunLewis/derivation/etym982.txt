@@ -1,29 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :982:
-#wˌin̪kˈikulum# >>> #βiθjˈel# ( GOLD : #ben̪θˈexo#) :
+#wˌin̪kˈikulum# >>> #biθˈel# ( GOLD : #ben̪θˈexo#) :
 w ˌi n̪ k ˈi k u l u m 
 #wˌiːn̪kˈikulum# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #wˌiːŋkˈikulum# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #ɣʷˌiːŋkˈikulum# | 18 : w > ɣʷ / __ [+syl]
 #ɣʷˌiːŋkˈiklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
 #ɣʷˌiːŋkˈiklu# | 32 : [+nas] > ∅ / [-stres] __ #
-#βˌiːŋkˈiklu# | 37 : ɣʷ > β 
-#βˌiːŋkˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#βˌiːŋkˈexlo# | 50 : [+syl,-long] > [-hi] 
-#βˌiŋkˈexlo# | 51 : [+syl,+long] > [-long,-splng] 
-#βˌiŋkjˈexlo# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌiŋt͡ʃjˈexlo# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌiŋt͡ʃjˈeɣlo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#βˌiŋt͡sjˈeɣlo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#vˌiŋt͡sjˈeɣlo# | 98 : β > v 
-#vˌijt͡sjˈejlo# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#vˌijt͡sʝˈejlo# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#βˌijt͡sʝˈejlo# | 115 : {v;f} > {β;ɸ} 
-#βˌijt͡sçˈejlo# | 128 : [-son] > [-voi] / [-voi] __ 
-#βˌit͡sçˈejlo# | 135 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#βˌit͡sçjˈelo# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#βˌit͡sçjˈel# | 148 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#βˌit͡sjˈel# | 154 : [-son] > ∅ / [+delrel] __ 
-#βˌisjˈel# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#βˌiθjˈel# | 172 : s > θ / __ [-cons]
-#βiθjˈel# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #βiθjˈel#
+#bˌiːŋkˈiklu# | 37 : ɣʷ > b 
+#bˌiːŋkˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#bˌiːŋkˈexlo# | 50 : [+syl,-long] > [-hi] 
+#bˌiŋkˈexlo# | 51 : [+syl,+long] > [-long,-splng] 
+#bˌiŋkjˈexlo# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#bˌiŋt͡ʃjˈexlo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#bˌiŋt͡ʃˈexlo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#bˌiŋt͡ʃˈeɣlo# | 92 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#bˌiŋt͡sˈeɣlo# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#bˌijt͡sˈejlo# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#bˌiːt͡sˈeːlo# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#bˌit͡sˈelo# | 147 : [+syl] > [-long,-splng] 
+#bˌit͡sˈel# | 165 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#bˌisˈel# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#bˌiθˈel# | 189 : s > θ / __ [-cons]
+#biθˈel# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #biθˈel#

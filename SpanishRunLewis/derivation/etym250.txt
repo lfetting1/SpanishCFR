@@ -1,14 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :250:
-#kˈae̯lum# >>> #θˈae̯lo# ( GOLD : #θjˈelo#) :
+#kˈae̯lum# >>> #eslo# ( GOLD : #θjˈelo#) :
 k ˈa e̯ l u m 
-#kˈae̯lu# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˈae̯lo# | 50 : [+syl,-long] > [-hi] 
-#kjˈae̯lo# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈae̯lo# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡sjˈae̯lo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sʝˈae̯lo# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sçˈae̯lo# | 128 : [-son] > [-voi] / [-voi] __ 
-#t͡sˈae̯lo# | 154 : [-son] > ∅ / [+delrel] __ 
-#sˈae̯lo# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#θˈae̯lo# | 172 : s > θ / __ [-cons]
-Final form : #θˈae̯lo#
+#kˈɛjlum# | 21 : {a e̯;o e̯;ˈa e̯;ˈo e̯;ˌa e̯;ˌo e̯} > {ɛ j;e j;ˈɛ j;ˈe j;ˌɛ j;ˌe j} 
+#kˈɛːlum# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˈɛːlu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˈɛːlo# | 50 : [+syl,-long] > [-hi] 
+#kˈɛlo# | 51 : [+syl,+long] > [-long,-splng] 
+#kjˈɛlo# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈɛlo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃˈɛlo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡sˈɛlo# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjelo# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#t͡sʝelo# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sʝlo# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t͡sçlo# | 130 : [-son] > [-voi] / [-voi] __ 
+#t͡slo# | 171 : [-son] > ∅ / [+delrel] __ 
+#slo# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#eslo# | 194 : ∅ > e / # __ s [+cons]
+Final form : #eslo#

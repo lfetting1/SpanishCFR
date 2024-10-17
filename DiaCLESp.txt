@@ -1,3 +1,5 @@
+$[+lo] e̯ > [+back,-front] j $fix ae diphthong to what Hartmann treats it as. Commented out of diaclesp because it is less historically accurate
+
 h > ∅ $ h_deletion
 
 r > ɾ / @ __ @ $ tapping. Based on hartman's orthographic tapping rule. 
@@ -40,11 +42,11 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 
 [+ant,-distr,+strid] > [+ant,+distr,+strid] / __ [+ant,+distr] $ recurrent rule,dental_s
 
-{ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} $ fronting
+{a e̯ ; o e̯; ˈa e̯ ; ˈo e̯;ˌa e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} $ fronting
 
 [-lo,-hi,-tense,+syl,-prim,+front] > [+tense] $atonic-epsilon, "no unstressed ɛ," Hartman's rule seems to only leave ɛ with primary stress, as his model does not have secondary stress
 
-[+syl] j > [+syl,+long] ∅ $ monophthongization,(formatting?)
+[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
 [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
 
@@ -72,7 +74,7 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 
 [+cons] > ∅ / __ [+strid,+cor] [+cons] $ reduction of cluster containing a sibilant
 
-ɣʷ > β $ w_beta
+ɣʷ > b $ w_beta
 
 [+back,+cons,-cont] > [+cont] / [+syl] __ [+cons,-back] $velar spirantization
 
@@ -92,9 +94,9 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 [+syl,-prim,-lo,+hi] > [-syl,-long] / __ [+syl] $ syneresis early
 
-[+syl,-prim,-lo,+back] > [-syl,-long,+hi] / __ [+syl,-back] $ syneresis early
+[+syl,-stres,-lo,+back] > [-syl,-long,+hi] / __ [+syl,-back] $ syneresis early
 
-[+syl,-prim,-lo,-back] > [-syl,-long,+hi] / __ [+syl,+back] $ syneresis early
+[+syl,-stres,-lo,-back] > [-syl,-long,+hi] / __ [+syl,+back] $ syneresis early
 
 [+syl,-long,+stres,-hi,-lo] > [-tense] $ mid lowering
 
@@ -102,17 +104,17 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 [+syl,+long] > [-long] $recurrent rule,unlong, shorten long vowels
 
-r r > r $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain). 
+r > ɾ
+
+ɾ ɾ > r $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
 
 $[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] Part of unlong rule, Seemingly intended to delete geminates, but Hartman's rule does not do this, so it is commented out as of 9/13
 
-r > ɾ / __ [+cons] $unlong,syllable final trill > tap
-
-r > ɾ / [+cons] __ $ "unlong"/tapping new rule as of 10/04. Happens at some point in the cascade, but may not be here. As of now there is no rule, so it was placed by the other trill rules. Could be moved somewhere else. Meant as a starting point. Come back to this.
+$r > ɾ / [+cons] __ $ "unlong"/tapping new rule as of 10/04. Happens at some point in the cascade, but may not be here. As of now there is no rule, so it was placed by the other trill rules. Could be moved somewhere else. Meant as a starting point. Come back to this.
 
 $r > ɾ / [+syl] __ $unlong,syllable final trill > tap
 
-ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it before r. "r r" for us = "long r" for hartman)
+$ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it before r. "r r" for us = "long r" for hartman)
 
 ∅ > j / [+syl,-back] __ [+syl,+back] $ "antihiatus"
 
@@ -152,9 +154,9 @@ $r > ɾ / [+syl] __ $unlong,syllable final trill > tap
 
 [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ $ recurrent rule,waw absorption $(73) Fixed. No effect (reasonable)
 
-[-syl,-cons,+hi,+front] > ∅ / [+hi,+front,+cons] __ $ recurrent rule,yod absorption $(74) Fixed.
+[-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
 
-[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front,+cons] $ recurrent rule,yod absorption $(75) Fixed.
+[-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
 
 w > ∅ / [+cons,+back] __ [-lo,+syl,-stres] $[+cons] > [-round] / # __ [-lo,+syl,-stres] $ unround $(76) !No effect.
 
@@ -162,23 +164,31 @@ w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify ru
 
 [+cons,+back,+voi,-cont] > ∅ / # __ [+lat] $ pl>ll early $(77) Fixed.
 
-∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis $(78-86) !Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
+$new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has no examples with w yet clearly implied it should effect w with his "G:  ant (*) = back (*+1) «...»". 
+∅ > o̯ / [+syl] __ {[+ant];[-voi];[+cor,+cont]} w {[+back];[+hi]}  $ glide metathesis, beginning stage. Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
 
-∅ > o̯ / [+syl] [-voi]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
+∅ > e̯ / [+syl] __ {[-voi];[+cor,+cont]} j {[+back];[+hi]}
 
-∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
+[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅
 
-∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
+$old glide metathesis rules commented out below.
+$∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis $(78-86) !Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
 
-∅ > o̯ / [+syl] [-voi]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
+$∅ > o̯ / [+syl] [-voi]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
 
-∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
+$∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,+back,-cons] [+syl,+back] $ glide metathesis
 
-∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons] $ glide metathesis
+$∅ > o̯ / [+syl] [+ant]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
 
-∅ > e̯ / [+syl] [-cor,-cons] __ [-syl,+front,-cons] $ glide metathesis
+$∅ > o̯ / [+syl] [-voi]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
 
-[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅ $ glide metathesis
+$∅ > o̯ / [+syl] [+cor,+cons]__ [-syl,+back,-cons] [+syl,+hi] $ glide metathesis
+
+$∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons] $ glide metathesis
+
+$∅ > e̯ / [+syl] [-cor,-cons] __ [-syl,+front,-cons] $ glide metathesis
+
+$[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅ $ glide metathesis
 
 [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons] $ o-raising $(87) 
 
@@ -188,7 +198,9 @@ $[+cons,-cont,+voi] > [+cont] $spirantization $(88) works.
 
 [-son,+voi,-strid,-front,βlab,-delrel] > ∅ / [-cons] __ [+syl,βlab] $ delete bdg (reformulated by KS) - 9/20 changed prior context from [+syl] to [-cons], changed βround to βlab.
 
-[-son] > [+voi] / [-cons] __ [+son] $voicing $(97) good.
+[-son,+cont] > [+voi] / [-cons] __ [+son] $voicing part 1 $(97) good. CM 10/13 -- fixed for greater faithfulness. For stops, boicing happens only after proper vowels; for fricatives, it can happen after glides as well; explicit in the branching of D to F or G, and G representing the fricative condition. Continued in part 2 below.
+
+[-cont] > [+voi] / [+syl] __ [+son] $ voicing part 2 -- see above.
 
 [+lat] > w / [+lo] __ [+cons] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good.
 
@@ -243,7 +255,7 @@ $ˌɔ > w ˌe $ diphthongization
 
 [+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 
-{v; f} > {β; ɸ} $ "betacism"
+{v; f} > {b; ɸ} $ "betacism"
 
 ʎ > d͡ʒ $ lateral affrication
 
@@ -262,7 +274,7 @@ r r > rː $ trilling. TODO check this -- was missing in one version.
 [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] $ degemination. TODO check again with second run-through. 
 
 ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
-[-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] $ syncope late,may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 
+[-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] $ syncope late,may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare eŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 
 
 [-son] > [-voi] / [-voi] __ $ progressive_voicing
 
@@ -271,10 +283,25 @@ r r > rː $ trilling. TODO check this -- was missing in one version.
 [+cons,+lab] > w / __ [+back,+cons] $wawism_early. vocalization of syllable-final labial
 $metaphony_late. [+cons,-voi] > j . Seems vacuous. 
 
-[+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round] $ ew > iw
+$second occurrence of "glide metathesis" -- after wawisim early and before progressive hushing
+$new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has no examples with w yet clearly implied it should effect w with his "G:  ant (*) = back (*+1) «...»". 
+∅ > o̯ / [+syl] __ {[+ant];[-voi];[+cor,+cont]} w {[+back];[+hi]}  $ glide metathesis, beginning stage. Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
+∅ > e̯ / [+syl] __ {[-voi];[+cor,+cont]} j {[+back];[+hi]}
+[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅
 
-{s;t̪} > {ʃ;t͡ʃ} / j __ $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ 
 
+{s;t̪} > {ʃ;t͡ʃ} / j __ $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+
+$CM 10/13: apparently the second recurrence of progressive rounding was missed -- unless this reflects the web version?
+{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
+
+$CM 10/13: apparently the second recurrence of "monophthong" was missed -- unless this reflects the web version? 
+[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
+
+$CM 10/13: assert persistent rule -- unlong
+[+syl] > [-long] 
+
+[-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled.
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
@@ -282,6 +309,9 @@ $metaphony_late. [+cons,-voi] > j . Seems vacuous.
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
 
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
+
+$apparently this (ew_iw) was errantly placed before progressive_hushing -- unless that reflects the online version? 
+[+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round] $ ew_iw
 
 d̪ n̪ > n̪ d̪ $sonorant metathesis
 
@@ -339,7 +369,7 @@ h > ∅ $ h_deletion
 
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front] $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
 
-[+lab,+cons] > w / __ [-son] $wawism_late
+[+lab,-son] > w / __ [-son] $wawism_late
 
 n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation. TODO seems good but currently this rule is bled for most of its domain so check again. 
 
@@ -374,3 +404,5 @@ $kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original forma
 ɾ > r / # __ $ initial trill. CM @Aug31 -- weirdly this semes to by accident effect #fr initials in Hartmann's Phono output but I don't think this is intended, nor desired, so let's not put it in. As of present this appears to bled -- reexamine.
 
 [-prim] > [-stres] $ Deletion of secondary stress. TODO - Move back in the cascade
+{β;ð;ɣ} > {b;d̪;ɡ} $AUXILIARY - rectify lexicon's representation of bdg
+ʎ > ʝ $Yeismo. Relatively modern change not reflected in Hartmann's rules but which is apparent in most modern Spanish.

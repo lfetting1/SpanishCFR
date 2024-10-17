@@ -1,20 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :5:
-#brˌɑkkʰiˈɑːlem# >>> #bɾjeθˈɑl# ( GOLD : #bɾɑθˈɑl#) :
+#brˌɑkkʰiˈɑːlem# >>> #bɾeθˈɑl# ( GOLD : #bɾɑθˈɑl#) :
 b r ˌɑ k kʰ i ˈɑː l e m 
 #bɾˌɑkkʰiˈɑːlem# | 1 : r > ɾ / @ __ @
 #bɾˌɑkkʰiˈɑːle# | 32 : [+nas] > ∅ / [-stres] __ #
 #bɾˌɑkkʰjˈɑːle# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #bɾˌɑkkʰjˈɑle# | 51 : [+syl,+long] > [-long,-splng] 
-#bɾˌɑkt͡ʃjˈɑle# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#bɾˌɑkt͡sjˈɑle# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#bɾˌɑjt͡sjˈɑle# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#bɾˌɑjt͡sʝˈɑle# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#bɾˌɑjt͡sçˈɑle# | 128 : [-son] > [-voi] / [-voi] __ 
-#bɾˌejt͡sçˈɑle# | 129 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#bɾjˌet͡sçˈɑle# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#bɾjˌet͡sçˈɑl# | 148 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#bɾjˌet͡sˈɑl# | 154 : [-son] > ∅ / [+delrel] __ 
-#bɾjˌesˈɑl# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#bɾjˌeθˈɑl# | 172 : s > θ / __ [-cons]
-#bɾjeθˈɑl# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bɾjeθˈɑl#
+#bɾˌɑkt͡ʃjˈɑle# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#bɾˌɑkt͡ʃˈɑle# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#bɾˌɑkt͡sˈɑle# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#bɾˌɑjt͡sˈɑle# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#bɾˌejt͡sˈɑle# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#bɾˌeːt͡sˈɑle# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#bɾˌet͡sˈɑle# | 147 : [+syl] > [-long,-splng] 
+#bɾˌet͡sˈɑl# | 165 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#bɾˌesˈɑl# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#bɾˌeθˈɑl# | 189 : s > θ / __ [-cons]
+#bɾeθˈɑl# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bɾeθˈɑl#

@@ -5,17 +5,16 @@ f r ˌiː k t̪ i ˈɑː r e
 #fɾˌiːxt̪iˈɑːɾe# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #fɾˌiːxt̪jˈɑːɾe# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #fɾˌixt̪jˈɑɾe# | 51 : [+syl,+long] > [-long,-splng] 
-#fɾˌixt͡ʃjˈɑɾe# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#fɾˌixt͡sjˈɑɾe# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#fɾˌijt͡sjˈɑɾe# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#fɾˌijt͡sʝˈɑɾe# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɸɾˌijt͡sʝˈɑɾe# | 115 : {v;f} > {β;ɸ} 
-#ɸɾˌijt͡sçˈɑɾe# | 128 : [-son] > [-voi] / [-voi] __ 
-#ɸɾˌit͡sçˈɑɾe# | 135 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ɸɾˌit͡sçˈɑɾ# | 147 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#ɸɾˌit͡sˈɑɾ# | 154 : [-son] > ∅ / [+delrel] __ 
-#fɾˌit͡sˈɑɾ# | 159 : ɸ > f 
-#fɾˌisˈɑɾ# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#fɾˌiθˈɑɾ# | 172 : s > θ / __ [-cons]
-#fɾiθˈɑɾ# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#fɾˌixt͡ʃjˈɑɾe# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fɾˌixt͡ʃˈɑɾe# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#fɾˌixt͡sˈɑɾe# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#fɾˌijt͡sˈɑɾe# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ɸɾˌijt͡sˈɑɾe# | 117 : {v;f} > {b;ɸ} 
+#ɸɾˌiːt͡sˈɑɾe# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɸɾˌit͡sˈɑɾe# | 147 : [+syl] > [-long,-splng] 
+#ɸɾˌit͡sˈɑɾ# | 164 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#fɾˌit͡sˈɑɾ# | 176 : ɸ > f 
+#fɾˌisˈɑɾ# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#fɾˌiθˈɑɾ# | 189 : s > θ / __ [-cons]
+#fɾiθˈɑɾ# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #fɾiθˈɑɾ#

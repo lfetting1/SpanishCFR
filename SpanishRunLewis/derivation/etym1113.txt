@@ -8,17 +8,19 @@ Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1113:
 #ˌiːŋkˈɛɾt̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˌiːŋkˈɛɾt̪o# | 50 : [+syl,-long] > [-hi] 
 #ˌiŋkˈɛɾt̪o# | 51 : [+syl,+long] > [-long,-splng] 
-#ˌiŋkjˈɛɾt̪o# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌiŋt͡ʃjˈɛɾt̪o# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌiŋt͡sjˈɛɾt̪o# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌijt͡sjˈɛɾt̪o# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌijt͡sjjeɾt̪o# | 106 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ˌijt͡sjʝeɾt̪o# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌijt͡sjʝɾt̪o# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌit͡sjʝɾt̪o# | 135 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ˌit͡sʝɾt̪o# | 136 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ˌit͡sɾt̪o# | 154 : [-son] > ∅ / [+delrel] __ 
-#ˌisɾt̪o# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#ˌizɾt̪o# | 174 : s > z / [-cons] __ [+cons,+voi]
-#izɾt̪o# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌiŋkjˈɛɾt̪o# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌiŋt͡ʃjˈɛɾt̪o# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌiŋt͡ʃˈɛɾt̪o# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌiŋt͡sˈɛɾt̪o# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌijt͡sˈɛɾt̪o# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˌijt͡sjeɾt̪o# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#ˌijt͡sʝeɾt̪o# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ˌijt͡sʝɾt̪o# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌijt͡sçɾt̪o# | 130 : [-son] > [-voi] / [-voi] __ 
+#ˌiːt͡sçɾt̪o# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌit͡sçɾt̪o# | 147 : [+syl] > [-long,-splng] 
+#ˌit͡sɾt̪o# | 171 : [-son] > ∅ / [+delrel] __ 
+#ˌisɾt̪o# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#ˌizɾt̪o# | 191 : s > z / [-cons] __ [+cons,+voi]
+#izɾt̪o# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #izɾt̪o#

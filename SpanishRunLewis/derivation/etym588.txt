@@ -1,15 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :588:
-#mˌɑːksˈillɑm# >>> #mjexˈeʎɑ# ( GOLD : #mexˈiʝɑ#) :
+#mˌɑːksˈillɑm# >>> #mexˈeʝɑ# ( GOLD : #mexˈiʝɑ#) :
 m ˌɑː k s ˈi l l ɑ m 
 #mˌɑːksˈillɑ# | 32 : [+nas] > ∅ / [-stres] __ #
 #mˌɑːxsˈillɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #mˌɑːxsˈellɑ# | 50 : [+syl,-long] > [-hi] 
 #mˌɑxsˈellɑ# | 51 : [+syl,+long] > [-long,-splng] 
-#mˌɑjsˈellɑ# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#mˌɑjsˈeʎɑ# | 124 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#mˌejsˈeʎɑ# | 129 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#mˌejʃˈeʎɑ# | 132 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#mjˌeʃˈeʎɑ# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#mjˌexˈeʎɑ# | 171 : ʃ > x 
-#mjexˈeʎɑ# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mjexˈeʎɑ#
+#mˌɑjsˈellɑ# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#mˌɑjsˈeʎɑ# | 126 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#mˌejsˈeʎɑ# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#mˌejʃˈeʎɑ# | 144 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#mˌeːʃˈeʎɑ# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌeʃˈeʎɑ# | 147 : [+syl] > [-long,-splng] 
+#mˌexˈeʎɑ# | 188 : ʃ > x 
+#mexˈeʎɑ# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#mexˈeʝɑ# | 198 : ʎ > ʝ 
+Final form : #mexˈeʝɑ#

@@ -1,19 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :129:
-#fˈort̪iɑ# >>> #ˈoθɑ# ( GOLD : #fwˈeɾθɑ#) :
+#fˈort̪iɑ# >>> #θɑ# ( GOLD : #fwˈeɾθɑ#) :
 f ˈo r t̪ i ɑ 
 #fˈoɾt̪iɑ# | 1 : r > ɾ / @ __ @
 #fˈoɾt̪jɑ# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #fˈɔɾt̪jɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#fˈɔɾt͡ʃjɑ# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#fˈɔɾt͡sjɑ# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#fˈoɾt͡sjɑ# | 103 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#fˈoɾt͡sʝɑ# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ɸˈoɾt͡sʝɑ# | 115 : {v;f} > {β;ɸ} 
-#ɸˈot͡sʝɑ# | 125 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ɸˈot͡sçɑ# | 128 : [-son] > [-voi] / [-voi] __ 
-#ɸˈot͡sɑ# | 154 : [-son] > ∅ / [+delrel] __ 
-#hˈot͡sɑ# | 158 : ɸ > h / __ [+syl]
-#ˈot͡sɑ# | 160 : h > ∅ 
-#ˈosɑ# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#ˈoθɑ# | 172 : s > θ / __ [-cons]
-Final form : #ˈoθɑ#
+#fˈɔɾt͡ʃjɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fˈɔɾt͡ʃɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#fˈɔɾt͡sɑ# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#fweɾt͡sɑ# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#fɣʷeɾt͡sɑ# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#ɸɣʷeɾt͡sɑ# | 117 : {v;f} > {b;ɸ} 
+#ɸɣʷet͡sɑ# | 127 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ɸɣʷt͡sɑ# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ɸxʷt͡sɑ# | 130 : [-son] > [-voi] / [-voi] __ 
+#wxʷt͡sɑ# | 132 : [+cons,+lab] > w / __ [+back,+cons]
+#xʷt͡sɑ# | 148 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#t͡sɑ# | 170 : [-son] > ∅ / __ [+delrel]
+#sɑ# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#θɑ# | 189 : s > θ / __ [-cons]
+Final form : #θɑ#

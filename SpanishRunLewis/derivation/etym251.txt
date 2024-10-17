@@ -1,16 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :251:
-#kˈae̯spit̪e# >>> #θˈae̯θwt̪e# ( GOLD : #θˈesped̪#) :
+#kˈae̯spit̪e# >>> #esθwt̪e# ( GOLD : #θˈesped̪#) :
 k ˈa e̯ s p i t̪ e 
-#kˈae̯spet̪e# | 50 : [+syl,-long] > [-hi] 
-#kjˈae̯spet̪e# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈae̯spet̪e# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃjˈae̯sped̪e# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#t͡sjˈae̯sped̪e# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sʝˈae̯sped̪e# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sʝˈae̯spd̪e# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#t͡sçˈae̯spt̪e# | 128 : [-son] > [-voi] / [-voi] __ 
-#t͡sˈae̯spt̪e# | 154 : [-son] > ∅ / [+delrel] __ 
-#t͡sˈae̯swt̪e# | 165 : [+lab,+cons] > w / __ [-son]
-#sˈae̯swt̪e# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#θˈae̯θwt̪e# | 172 : s > θ / __ [-cons]
-Final form : #θˈae̯θwt̪e#
+#kˈɛjspit̪e# | 21 : {a e̯;o e̯;ˈa e̯;ˈo e̯;ˌa e̯;ˌo e̯} > {ɛ j;e j;ˈɛ j;ˈe j;ˌɛ j;ˌe j} 
+#kˈɛːspit̪e# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˈɛːspet̪e# | 50 : [+syl,-long] > [-hi] 
+#kˈɛspet̪e# | 51 : [+syl,+long] > [-long,-splng] 
+#kjˈɛspet̪e# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈɛspet̪e# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃˈɛspet̪e# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡ʃˈɛsped̪e# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
+#t͡sˈɛsped̪e# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sjesped̪e# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#t͡sʝesped̪e# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#t͡sʝspd̪e# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t͡sçspt̪e# | 130 : [-son] > [-voi] / [-voi] __ 
+#t͡sspt̪e# | 171 : [-son] > ∅ / [+delrel] __ 
+#t͡sswt̪e# | 182 : [+lab,-son] > w / __ [-son]
+#sswt̪e# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#sθwt̪e# | 189 : s > θ / __ [-cons]
+#esθwt̪e# | 194 : ∅ > e / # __ s [+cons]
+Final form : #esθwt̪e#

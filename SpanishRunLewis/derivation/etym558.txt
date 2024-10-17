@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :558:
-#mˌikst̪ˈiːkium# >>> #mes̪t̪ˈiθe̯xo# ( GOLD : #mest̪ˈiθo#) :
+#mˌikst̪ˈiːkium# >>> #mes̪t̪ˈis# ( GOLD : #mest̪ˈiθo#) :
 m ˌi k s t̪ ˈiː k i u m 
 #mˌiks̪t̪ˈiːkium# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
 #mˌiks̪t̪ˈiːkiu# | 32 : [+nas] > ∅ / [-stres] __ #
@@ -7,17 +7,12 @@ m ˌi k s t̪ ˈiː k i u m
 #mˌis̪t̪ˈiːkju# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #mˌes̪t̪ˈiːkjo# | 50 : [+syl,-long] > [-hi] 
 #mˌes̪t̪ˈikjo# | 51 : [+syl,+long] > [-long,-splng] 
-#mˌes̪t̪ˈit͡ʃjo# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#mˌes̪t̪ˈit͡ʃe̯jo# | 85 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#mˌes̪t̪ˈid͡ʒe̯jo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#mˌes̪t̪ˈid͡ze̯jo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#mˌis̪t̪ˈid͡ze̯jo# | 100 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#mˌis̪t̪ˈid͡ze̯ʝo# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mˌis̪t̪ˈid͡ze̯ʒo# | 119 : ʝ > ʒ / [-syl] __ [+round]
-#mˌes̪t̪ˈid͡ze̯ʒo# | 152 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#mˌes̪t̪ˈize̯ʒo# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#mˌes̪t̪ˈise̯ʃo# | 170 : [+strid] > [-voi] 
-#mˌes̪t̪ˈise̯xo# | 171 : ʃ > x 
-#mˌes̪t̪ˈiθe̯xo# | 172 : s > θ / __ [-cons]
-#mes̪t̪ˈiθe̯xo# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mes̪t̪ˈiθe̯xo#
+#mˌes̪t̪ˈit͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˌes̪t̪ˈit͡ʃo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#mˌes̪t̪ˈid͡ʒo# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
+#mˌes̪t̪ˈid͡zo# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mˌes̪t̪ˈid͡z# | 163 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#mˌes̪t̪ˈiz# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#mˌes̪t̪ˈis# | 187 : [+strid] > [-voi] 
+#mes̪t̪ˈis# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #mes̪t̪ˈis#

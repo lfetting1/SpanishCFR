@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :845:
-#sˈɑksum# >>> #θjˈexo# ( GOLD : #sˈɑxo#) :
+#sˈɑksum# >>> #θˈexo# ( GOLD : #sˈɑxo#) :
 s ˈɑ k s u m 
 #sˈɑksu# | 32 : [+nas] > ∅ / [-stres] __ #
 #sˈɑxsu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #sˈɑxso# | 50 : [+syl,-long] > [-hi] 
-#sˈɑjso# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#sˈejso# | 129 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#sˈejʃo# | 132 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#sjˈeʃo# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#sjˈexo# | 171 : ʃ > x 
-#θjˈexo# | 172 : s > θ / __ [-cons]
-Final form : #θjˈexo#
+#sˈɑjso# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#sˈejso# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#sˈejʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#sˈeːʃo# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#sˈeʃo# | 147 : [+syl] > [-long,-splng] 
+#sˈexo# | 188 : ʃ > x 
+#θˈexo# | 189 : s > θ / __ [-cons]
+Final form : #θˈexo#

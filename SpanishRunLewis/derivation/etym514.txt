@@ -1,17 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :514:
-#mˈod̪ium# >>> #mˈoθo# ( GOLD : #mˈoʝo#) :
+#mˈod̪ium# >>> #θo# ( GOLD : #mˈoʝo#) :
 m ˈo d̪ i u m 
 #mˈod̪iu# | 32 : [+nas] > ∅ / [-stres] __ #
 #mˈod̪ju# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #mˈɔd̪ju# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #mˈɔd̪jo# | 50 : [+syl,-long] > [-hi] 
-#mˈɔd͡ʒjo# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#mˈɔd͡zjo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#mˈod͡zjo# | 103 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#mˈod͡zʝo# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mˈod͡zʒo# | 119 : ʝ > ʒ / [-syl] __ [+round]
-#mˈod͡zo# | 154 : [-son] > ∅ / [+delrel] __ 
-#mˈozo# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#mˈoso# | 170 : [+strid] > [-voi] 
-#mˈoθo# | 172 : s > θ / __ [-cons]
-Final form : #mˈoθo#
+#mˈɔd͡ʒjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˈɔd͡ʒo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#mˈɔd͡zo# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mwed͡zo# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#mɣʷed͡zo# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#mɣʷd͡zo# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#wɣʷd͡zo# | 132 : [+cons,+lab] > w / __ [+back,+cons]
+#ɣʷd͡zo# | 148 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#d͡zo# | 170 : [-son] > ∅ / __ [+delrel]
+#zo# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#so# | 187 : [+strid] > [-voi] 
+#θo# | 189 : s > θ / __ [-cons]
+Final form : #θo#

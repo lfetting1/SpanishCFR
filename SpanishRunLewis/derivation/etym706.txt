@@ -1,21 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :706:
-#pˌit̪ˈɑkkium# >>> #pid̪jˈeθo# ( GOLD : #ped̪ˈɑθo#) :
+#pˌit̪ˈɑkkium# >>> #ped̪ˈes# ( GOLD : #ped̪ˈɑθo#) :
 p ˌi t̪ ˈɑ k k i u m 
 #pˌit̪ˈɑkkiu# | 32 : [+nas] > ∅ / [-stres] __ #
 #pˌit̪ˈɑkkju# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #pˌet̪ˈɑkkjo# | 50 : [+syl,-long] > [-hi] 
-#pˌet̪ˈɑkt͡ʃjo# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˌed̪ˈɑkt͡ʃjo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#pˌed̪ˈɑkt͡sjo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#pˌed̪ˈɑjt͡sjo# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#pˌid̪ˈɑjt͡sjo# | 100 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#pˌid̪ˈɑjt͡sʝo# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pˌid̪ˈɑjt͡sʒo# | 119 : ʝ > ʒ / [-syl] __ [+round]
-#pˌid̪ˈɑjt͡sʃo# | 128 : [-son] > [-voi] / [-voi] __ 
-#pˌid̪ˈejt͡sʃo# | 129 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#pˌid̪jˈet͡sʃo# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#pˌid̪jˈet͡so# | 154 : [-son] > ∅ / [+delrel] __ 
-#pˌid̪jˈeso# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#pˌid̪jˈeθo# | 172 : s > θ / __ [-cons]
-#pid̪jˈeθo# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pid̪jˈeθo#
+#pˌet̪ˈɑkt͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#pˌet̪ˈɑkt͡ʃo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#pˌed̪ˈɑkt͡ʃo# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
+#pˌed̪ˈɑkt͡so# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#pˌed̪ˈɑjt͡so# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#pˌed̪ˈejt͡so# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#pˌed̪ˈeːt͡so# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#pˌed̪ˈet͡so# | 147 : [+syl] > [-long,-splng] 
+#pˌed̪ˈet͡s# | 163 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#pˌed̪ˈes# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#ped̪ˈes# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ped̪ˈes#

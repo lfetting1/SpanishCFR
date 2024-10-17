@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :570:
-#mˌowˈeːbile# >>> #ɣʷˈeble# ( GOLD : #mwˈeble#) :
+#mˌowˈeːbile# >>> #ɣʷeˈeble# ( GOLD : #mwˈeble#) :
 m ˌo w ˈeː b i l e 
 #mˌoˈeːbile# | 17 : w > ∅ / [+round,+syl] __ 
 #mˌoˈeːble# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#mwˈeːble# | 47 : [+syl,-prim,-lo,+back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,-back]
-#mwˈeble# | 51 : [+syl,+long] > [-long,-splng] 
-#mɣʷˈeble# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mɣʷˈebʎe# | 120 : [+lat] > ʎ / [-son] __ 
-#mɣʷˈeble# | 126 : ʎ > l / [+cons,+voi] __ 
-#wɣʷˈeble# | 130 : [+cons,+lab] > w / __ [+back,+cons]
-#ɣʷˈeble# | 133 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-Final form : #ɣʷˈeble#
+#mˌɔˈeːble# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˌɔˈeble# | 51 : [+syl,+long] > [-long,-splng] 
+#mweˈeble# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#mɣʷeˈeble# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#mɣʷeˈebʎe# | 122 : [+lat] > ʎ / [-son] __ 
+#mɣʷeˈeble# | 128 : ʎ > l / [+cons,+voi] __ 
+#wɣʷeˈeble# | 132 : [+cons,+lab] > w / __ [+back,+cons]
+#ɣʷeˈeble# | 148 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+Final form : #ɣʷeˈeble#

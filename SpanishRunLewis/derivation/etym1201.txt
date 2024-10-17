@@ -4,10 +4,11 @@ Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1201:
 #ˌɑwkt̪oɾikˈɑːɾe# | 1 : r > ɾ / @ __ @
 #ˌɑwkt̪oɾekˈɑːɾe# | 50 : [+syl,-long] > [-hi] 
 #ˌɑwkt̪oɾekˈɑɾe# | 51 : [+syl,+long] > [-long,-splng] 
-#ˌɑwkt̪oɾeɡˈɑɾe# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#ˌɑwkt̪ɾɡˈɑɾe# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌowkt̪ɾɡˈɑɾe# | 129 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ˌokt̪ɾɡˈɑɾe# | 134 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#ˌokt̪ɾɡˈɑɾ# | 147 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#okt̪ɾɡˈɑɾ# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌɑwkt̪oɾeɡˈɑɾe# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑwkt̪ɾɡˈɑɾe# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌowkt̪ɾɡˈɑɾe# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ˌoːkt̪ɾɡˈɑɾe# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌokt̪ɾɡˈɑɾe# | 147 : [+syl] > [-long,-splng] 
+#ˌokt̪ɾɡˈɑɾ# | 164 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#okt̪ɾɡˈɑɾ# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #okt̪ɾɡˈɑɾ#

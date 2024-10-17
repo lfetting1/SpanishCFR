@@ -1,14 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :285:
-#kˈoːn̪suoː# >>> #kˈuθo̯ɣʷo# ( GOLD : #koso#) :
+#kˈoːn̪suoː# >>> #kˈoθo# ( GOLD : #koso#) :
 k ˈoː n̪ s u oː 
 #kˈoːnsuoː# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #kˈoːsuoː# | 33 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
 #kˈoːswoː# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #kˈoswo# | 51 : [+syl,+long] > [-long,-splng] 
-#kˈoso̯wo# | 79 : ∅ > o̯ / [+syl] [+ant] __ [-syl,+back,-cons] [+syl,+back]
-#kˈozo̯wo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#kˈozo̯ɣʷo# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kˈuzo̯ɣʷo# | 150 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#kˈuso̯ɣʷo# | 170 : [+strid] > [-voi] 
-#kˈuθo̯ɣʷo# | 172 : s > θ / __ [-cons]
-Final form : #kˈuθo̯ɣʷo#
+#kˈoo̯swo# | 78 : ∅ > o̯ / [+syl] __ [+ant] w [+back]
+#kˈowso# | 88 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#kˈowzo# | 92 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#kˈoːzo# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˈozo# | 147 : [+syl] > [-long,-splng] 
+#kˈoso# | 187 : [+strid] > [-voi] 
+#kˈoθo# | 189 : s > θ / __ [-cons]
+Final form : #kˈoθo#

@@ -1,12 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :811:
-#sˈeks# >>> #θjˈex# ( GOLD : #sˈejs#) :
+#sˈeks# >>> #θˈex# ( GOLD : #sˈejs#) :
 s ˈe k s 
 #sˈexs# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #sˈɛxs# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sˈɛjs# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#sˈejs# | 103 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#sˈejʃ# | 132 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#sjˈeʃ# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#sjˈex# | 171 : ʃ > x 
-#θjˈex# | 172 : s > θ / __ [-cons]
-Final form : #θjˈex#
+#sˈɛjs# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#sˈejs# | 105 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#sˈejʃ# | 144 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#sˈeːʃ# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#sˈeʃ# | 147 : [+syl] > [-long,-splng] 
+#sˈex# | 188 : ʃ > x 
+#θˈex# | 189 : s > θ / __ [-cons]
+Final form : #θˈex#

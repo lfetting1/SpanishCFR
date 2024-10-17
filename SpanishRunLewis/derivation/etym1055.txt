@@ -1,19 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1055:
-#ˈun̪d̪ekim# >>> #ˈun̪θe̯ʝe# ( GOLD : #ˈon̪θe#) :
+#ˈun̪d̪ekim# >>> #ˈun̪θe# ( GOLD : #ˈon̪θe#) :
 ˈu n̪ d̪ e k i m 
 #ˈuːn̪d̪ekim# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ˈuːn̪d̪eki# | 32 : [+nas] > ∅ / [-stres] __ #
 #ˈuːn̪d̪eke# | 50 : [+syl,-long] > [-hi] 
 #ˈun̪d̪eke# | 51 : [+syl,+long] > [-long,-splng] 
-#ˈun̪d̪ekje# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˈun̪d̪et͡ʃje# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˈun̪d̪et͡ʃe̯je# | 85 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#ˈun̪d̪ed͡ʒe̯je# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#ˈun̪d̪ed͡ze̯je# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˈun̪d̪ed͡ze̯ʝe# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˈun̪d̪d͡ze̯ʝe# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˈun̪d͡ze̯ʝe# | 153 : [-son] > ∅ / __ [+delrel]
-#ˈun̪ze̯ʝe# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#ˈun̪se̯ʝe# | 170 : [+strid] > [-voi] 
-#ˈun̪θe̯ʝe# | 172 : s > θ / __ [-cons]
-Final form : #ˈun̪θe̯ʝe#
+#ˈun̪d̪ekje# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˈun̪d̪et͡ʃje# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˈun̪d̪et͡ʃe# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˈun̪d̪ed͡ʒe# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˈun̪d̪ed͡ze# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˈun̪d̪d͡ze# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˈun̪d͡ze# | 170 : [-son] > ∅ / __ [+delrel]
+#ˈun̪ze# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#ˈun̪se# | 187 : [+strid] > [-voi] 
+#ˈun̪θe# | 189 : s > θ / __ [-cons]
+Final form : #ˈun̪θe#

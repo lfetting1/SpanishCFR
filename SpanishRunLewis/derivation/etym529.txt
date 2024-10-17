@@ -1,18 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :529:
-#mˈut̪ium# >>> #mˈuθe̯xo# ( GOLD : #mˈoθo#) :
+#mˈut̪ium# >>> #mˈos# ( GOLD : #mˈoθo#) :
 m ˈu t̪ i u m 
 #mˈut̪iu# | 32 : [+nas] > ∅ / [-stres] __ #
 #mˈut̪ju# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #mˈot̪jo# | 50 : [+syl,-long] > [-hi] 
-#mˈot͡ʃjo# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#mˈot͡ʃe̯jo# | 85 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#mˈod͡ʒe̯jo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#mˈod͡ze̯jo# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#mˈud͡ze̯jo# | 101 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#mˈud͡ze̯ʝo# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mˈud͡ze̯ʒo# | 119 : ʝ > ʒ / [-syl] __ [+round]
-#mˈuze̯ʒo# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#mˈuse̯ʃo# | 170 : [+strid] > [-voi] 
-#mˈuse̯xo# | 171 : ʃ > x 
-#mˈuθe̯xo# | 172 : s > θ / __ [-cons]
-Final form : #mˈuθe̯xo#
+#mˈot͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˈot͡ʃo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#mˈod͡ʒo# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
+#mˈod͡zo# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mˈod͡z# | 163 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#mˈoz# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#mˈos# | 187 : [+strid] > [-voi] 
+Final form : #mˈos#

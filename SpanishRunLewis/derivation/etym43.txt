@@ -1,22 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :43:
-#d̪ˌekˈembrem# >>> #d̪iθe̯ʝˈewbɾe# ( GOLD : #d̪iθjˈembɾe#) :
+#d̪ˌekˈembrem# >>> #d̪θˈembɾe# ( GOLD : #d̪iθjˈembɾe#) :
 d̪ ˌe k ˈe m b r e m
 #d̪ˌekˈembɾem# | 1 : r > ɾ / @ __ @
 #d̪ˌekˈeːmbɾem# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #d̪ˌekˈeːmbɾe# | 32 : [+nas] > ∅ / [-stres] __ #
 #d̪ˌɛkˈeːmbɾe# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #d̪ˌɛkˈembɾe# | 51 : [+syl,+long] > [-long,-splng] 
-#d̪ˌɛkjˈembɾe# | 69 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d̪ˌɛt͡ʃjˈembɾe# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d̪ˌɛt͡ʃe̯jˈembɾe# | 85 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#d̪ˌɛd͡ʒe̯jˈembɾe# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#d̪ˌɛd͡ze̯jˈembɾe# | 94 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#d̪ˌed͡ze̯jˈembɾe# | 103 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#d̪ˌed͡ze̯ʝˈembɾe# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#d̪ˌid͡ze̯ʝˈembɾe# | 150 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#d̪ˌid͡ze̯ʝˈewbɾe# | 165 : [+lab,+cons] > w / __ [-son]
-#d̪ˌize̯ʝˈewbɾe# | 168 : [+strid,+ant] > [+cont,0delrel] 
-#d̪ˌise̯ʝˈewbɾe# | 170 : [+strid] > [-voi] 
-#d̪ˌiθe̯ʝˈewbɾe# | 172 : s > θ / __ [-cons]
-#d̪iθe̯ʝˈewbɾe# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #d̪iθe̯ʝˈewbɾe#
+#d̪ˌɛkjˈembɾe# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d̪ˌɛt͡ʃjˈembɾe# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d̪ˌɛt͡ʃˈembɾe# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#d̪ˌɛd͡ʒˈembɾe# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
+#d̪ˌɛd͡zˈembɾe# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#d̪jed͡zˈembɾe# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
+#d̪ʝed͡zˈembɾe# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
+#d̪ʝd͡zˈembɾe# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#d̪d͡zˈembɾe# | 170 : [-son] > ∅ / __ [+delrel]
+#d̪zˈembɾe# | 185 : [+strid,+ant] > [+cont,0delrel] 
+#d̪sˈembɾe# | 187 : [+strid] > [-voi] 
+#d̪θˈembɾe# | 189 : s > θ / __ [-cons]
+Final form : #d̪θˈembɾe#

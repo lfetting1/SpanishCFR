@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :541:
-#mˌɑn̪sioːn̪ˈɑːt̪ɑm# >>> #mɑθe̯xn̪ˈɑd̪ɑ# ( GOLD : #mesn̪ˈɑd̪ɑ#) :
+#mˌɑn̪sioːn̪ˈɑːt̪ɑm# >>> #mezn̪ˈɑd̪ɑ# ( GOLD : #mesn̪ˈɑd̪ɑ#) :
 m ˌɑ n̪ s i oː n̪ ˈɑː t̪ ɑ m 
 #mˌɑːn̪sioːn̪ˈɑːt̪ɑm# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #mˌɑːnsioːn̪ˈɑːt̪ɑm# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
@@ -7,13 +7,15 @@ m ˌɑ n̪ s i oː n̪ ˈɑː t̪ ɑ m
 #mˌɑːsioːn̪ˈɑːt̪ɑ# | 33 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
 #mˌɑːsjoːn̪ˈɑːt̪ɑ# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
 #mˌɑsjon̪ˈɑt̪ɑ# | 51 : [+syl,+long] > [-long,-splng] 
-#mˌɑse̯jon̪ˈɑt̪ɑ# | 85 : ∅ > e̯ / [+syl] [-voi] __ [-syl,+front,-cons]
-#mˌɑze̯jon̪ˈɑd̪ɑ# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#mˌɑze̯ʝon̪ˈɑd̪ɑ# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mˌɑze̯ʒon̪ˈɑd̪ɑ# | 119 : ʝ > ʒ / [-syl] __ [+round]
-#mˌɑze̯ʒn̪ˈɑd̪ɑ# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#mˌɑse̯ʃn̪ˈɑd̪ɑ# | 170 : [+strid] > [-voi] 
-#mˌɑse̯xn̪ˈɑd̪ɑ# | 171 : ʃ > x 
-#mˌɑθe̯xn̪ˈɑd̪ɑ# | 172 : s > θ / __ [-cons]
-#mɑθe̯xn̪ˈɑd̪ɑ# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mɑθe̯xn̪ˈɑd̪ɑ#
+#mˌɑe̯sjon̪ˈɑt̪ɑ# | 84 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#mˌɑjson̪ˈɑt̪ɑ# | 88 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#mˌɑjzon̪ˈɑt̪ɑ# | 92 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#mˌɑjzon̪ˈɑd̪ɑ# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
+#mˌɑjzn̪ˈɑd̪ɑ# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#mˌejzn̪ˈɑd̪ɑ# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#mˌeːzn̪ˈɑd̪ɑ# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌezn̪ˈɑd̪ɑ# | 147 : [+syl] > [-long,-splng] 
+#mˌesn̪ˈɑd̪ɑ# | 187 : [+strid] > [-voi] 
+#mˌezn̪ˈɑd̪ɑ# | 191 : s > z / [-cons] __ [+cons,+voi]
+#mezn̪ˈɑd̪ɑ# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #mezn̪ˈɑd̪ɑ#

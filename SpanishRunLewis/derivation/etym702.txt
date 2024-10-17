@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :702:
-#pˌerˈikulum# >>> #piɾjˈel# ( GOLD : #pelˈiɡɾo#) :
+#pˌerˈikulum# >>> #peɾˈel# ( GOLD : #pelˈiɡɾo#) :
 p ˌe r ˈi k u l u m 
 #pˌeɾˈikulum# | 1 : r > ɾ / @ __ @
 #pˌeɾˈiklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
@@ -7,11 +7,11 @@ p ˌe r ˈi k u l u m
 #pˌeɾˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #pˌɛɾˈixlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #pˌɛɾˈexlo# | 50 : [+syl,-long] > [-hi] 
-#pˌɛɾˈeɣlo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#pˌɛɾˈejlo# | 99 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#pˌeɾˈejlo# | 103 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#pˌeɾjˈelo# | 144 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#pˌeɾjˈel# | 148 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#pˌiɾjˈel# | 150 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#piɾjˈel# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #piɾjˈel#
+#pˌɛɾˈeɣlo# | 92 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#pˌɛɾˈejlo# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#pˌeɾˈejlo# | 105 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pˌeɾˈeːlo# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#pˌeɾˈelo# | 147 : [+syl] > [-long,-splng] 
+#pˌeɾˈel# | 165 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#peɾˈel# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #peɾˈel#
