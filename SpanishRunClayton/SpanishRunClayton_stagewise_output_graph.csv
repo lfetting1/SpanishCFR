@@ -98,7 +98,7 @@ etID  | Input | Output {GOLD}
 96     | #flˈɑmmɑm# | #ʝˈɑmɑ# {GOLD: #ʝˈɑmɑ#}
 97     | #frˈiːkt̪um# | #fɾˈit͡ʃo# {GOLD: #fɾˈit̪o#}
 98     | #frˈiːɡid̪um# | #fɾˈixd̪o# {GOLD: #fɾˈio#}
-99     | #frˈiːɡus# | #fɾˈiɡs# {GOLD: #fɾˈio#}
+99     | #frˈiːɡum# | #fɾˈiɡo# {GOLD: #fɾˈio#}
 100    | #frˈon̪t̪e# | #fɾˈon̪t̪e# {GOLD: #fɾˈen̪t̪e#}
 101    | #frˈuːkt̪um# | #fɾˈut͡ʃo# {GOLD: #fɾˈut͡ʃo#}
 102    | #frˈɑbikɑ# | #fɾˈeɡɑ# {GOLD: #fɾˈɑɡwɑ#}
@@ -262,7 +262,7 @@ etID  | Input | Output {GOLD}
 260    | #kˈiliɑ# | #θˈexɑ# {GOLD: #θˈexɑ#}
 261    | #kˈin̪kt̪um# | #θˈid̪# {GOLD: #θˈin̪t̪o#}
 262    | #kˈin̪kt̪ɑm# | #θˈid̪ɑ# {GOLD: #θˈin̪t̪ɑ#}
-263    | #kˈippus# | #θˈews# {GOLD: #θˈepo#}
+263    | #kˈippum# | #θˈepo# {GOLD: #θˈepo#}
 264    | #kˈirkulum# | #θˈeɾt͡ʃo# {GOLD: #θˈeɾt͡ʃo#}
 265    | #kˈirkum# | #θˈeɾko# {GOLD: #θˈeɾko#}
 266    | #kˈirkɑm# | #θˈeɾkɑ# {GOLD: #θˈeɾkɑ#}
@@ -347,7 +347,7 @@ etID  | Input | Output {GOLD}
 345    | #kˌin̪kt̪uːrˈɑːt̪um# | #θid̪ɾˈɑd̪# {GOLD: #θin̪t̪ɾˈɑd̪o#}
 346    | #kˌin̪kt̪ˈuːrɑ# | #θid̪ˈuɾɑ# {GOLD: #θin̪t̪ˈuɾɑ#}
 347    | #kˌiːwit̪ˈɑːt̪em# | #θied̪ˈɑd̪# {GOLD: #θjud̪ˈɑd̪#}
-348    | #kˌokwiːn̪ˈɑːrius# | #kwebn̪ˈɑɾjos# {GOLD: #koθin̪ˈeɾo#}
+348    | #kˌokwiːn̪ˈɑːrium# | #kwebn̪ˈɑɾjo# {GOLD: #koθin̪ˈeɾo#}
 349    | #kˌokwˈiːn̪ɑ# | #kwebˈin̪ɑ# {GOLD: #koθˈin̪ɑ#}
 350    | #kˌokʰleˈɑːrɑm# | #koxˈɑɾɑ# {GOLD: #kut͡ʃˈɑɾɑ#}
 351    | #kˌollokˈɑt̪# | #kwelɡˈɑ# {GOLD: #kwˈelɡɑ#}
@@ -467,7 +467,7 @@ etID  | Input | Output {GOLD}
 465    | #lˈɑmboː# | #lˈɑmbo# {GOLD: #lˈɑmo#}
 466    | #lˈɑn̪keɑm# | #lˈeθɑ# {GOLD: #lˈɑn̪θɑ#}
 467    | #lˈɑrɡum# | #lˈɑɾɡo# {GOLD: #lˈɑɾɡo#}
-468    | #lˈɑt̪us# | #lˈɑzs# {GOLD: #lˈɑd̪o#}
+468    | #lˈɑt̪um# | #lˈɑd̪# {GOLD: #lˈɑd̪o#}
 469    | #lˈɑwsiɑm# | #lˈusjɑ# {GOLD: #lˈosɑ#}
 470    | #lˈɑwt̪iɑm# | #lˈoθɑ# {GOLD: #lˈoθɑ#}
 471    | #lˌae̯siˈoːn̪em# | #lisjˈon̪# {GOLD: #lesjˈon̪#}
@@ -479,7 +479,7 @@ etID  | Input | Output {GOLD}
 477    | #lˌeːɡˈit̪imum# | #lexˈemd̪o# {GOLD: #lˈin̪d̪o#}
 478    | #lˌiːbert̪ˈɑːt̪em# | #lieɾt̪ˈɑd̪# {GOLD: #libeɾt̪ˈɑd̪#}
 479    | #lˌiksˈiːwɑ# | #lexˈiɑ# {GOLD: #lexˈiɑ#}
-480    | #lˌit̪t̪erˈɑːt̪us# | #led̪ɾˈɑzs# {GOLD: #let̪ɾˈɑd̪o#}
+480    | #lˌit̪t̪erˈɑːt̪um# | #led̪ɾˈɑd̪# {GOLD: #let̪ɾˈɑd̪o#}
 481    | #lˌiɡˈɑːre# | #leˈɑɾ# {GOLD: #liˈɑɾ#}
 482    | #lˌiːmit̪ˈɑːre# | #limt̪ˈɑɾ# {GOLD: #lin̪d̪ˈɑɾ#}
 483    | #lˌiːt̪iɡˈɑːre# | #lid̪jˈɑɾ# {GOLD: #lid̪jˈɑɾ#}
@@ -704,7 +704,7 @@ etID  | Input | Output {GOLD}
 702    | #pˌerˈikulum# | #peɾˈel# {GOLD: #pelˈiɡɾo#}
 703    | #pˌeːn̪sˈɑːre# | #pesˈɑɾ# {GOLD: #pesˈɑɾ#}
 704    | #pˌiet̪ˈɑːt̪em# | #pˈed̪ˈɑd̪# {GOLD: #pjed̪ˈɑd̪#}
-705    | #pˌiskˈɑːt̪us# | #peskˈɑzs# {GOLD: #peskˈɑd̪o#}
+705    | #pˌiskˈɑːt̪um# | #peskˈɑd̪# {GOLD: #peskˈɑd̪o#}
 706    | #pˌit̪ˈɑkkium# | #ped̪ˈeθ# {GOLD: #ped̪ˈɑθo#}
 707    | #pˌiɡmˈen̪t̪um# | #pemˈen̪t̪o# {GOLD: #pimjˈen̪t̪o#}
 708    | #pˌiɡrˈit̪iɑ# | #peɾˈeθɑ# {GOLD: #peɾˈeθɑ#}
@@ -903,7 +903,7 @@ etID  | Input | Output {GOLD}
 901    | #t̪rˌist̪ˈit̪iɑm# | #t̪ɾest̪ˈeθɑ# {GOLD: #t̪ɾist̪ˈeθɑ#}
 902    | #t̪rˌɑːd̪it̪ˈoːrem# | #t̪ɾed̪ˈoɾ# {GOLD: #t̪ɾɑjd̪ˈoɾ#}
 903    | #t̪ˈekt̪um# | #t̪ˈet͡ʃo# {GOLD: #t̪ˈet͡ʃo#}
-904    | #t̪ˈempus# | #t̪ˈemws# {GOLD: #t̪jˈempo#}
+904    | #t̪ˈempum# | #t̪ˈempo# {GOLD: #t̪jˈempo#}
 905    | #t̪ˈen̪erum# | #t̪jˈen̪d̪ɾo# {GOLD: #t̪jˈeɾn̪o#}
 906    | #t̪ˈepid̪um# | #t̪jˈewd̪o# {GOLD: #t̪ˈibjo#}
 907    | #t̪ˈepid̪ɑm# | #t̪ˈibjɑ# {GOLD: #t̪ˈibjɑ#}
