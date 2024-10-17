@@ -1,15 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :346:
-#kˌin̪kt̪ˈuːrɑ# >>> #θin̪t̪ˈuɾɑ# ( GOLD : #θin̪t̪ˈuɾɑ#) :
+#kˌin̪kt̪ˈuːrɑ# >>> #θid̪ˈuɾɑ# ( GOLD : #θin̪t̪ˈuɾɑ#) :
 k ˌi n̪ k t̪ ˈuː r ɑ 
-#kˌin̪kt̪ˈuːɾɑ# | 1 : r > ɾ / @ __ @
-#kˌiːn̪kt̪ˈuːɾɑ# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˌiːn̪t̪ˈuːɾɑ# | 8 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#kˌin̪t̪ˈuɾɑ# | 51 : [+syl,+long] > [-long,-splng] 
-#kjˌin̪t̪ˈuɾɑ# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌin̪t̪ˈuɾɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃˌin̪t̪ˈuɾɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t͡sˌin̪t̪ˈuɾɑ# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#sˌin̪t̪ˈuɾɑ# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#θˌin̪t̪ˈuɾɑ# | 189 : s > θ / __ [-cons]
-#θin̪t̪ˈuɾɑ# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #θin̪t̪ˈuɾɑ#
+#kˌiːn̪kt̪ˈuːrɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˌiːŋkt̪ˈuːrɑ# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#kˌiːŋt̪ˈuːrɑ# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#kˌiŋt̪ˈurɑ# | 50 : [+syl] > [-long,-splng] 
+#kˌiŋt̪ˈuɾɑ# | 51 : r > ɾ 
+#kˌijt̪ˈuɾɑ# | 60 : [+cons,+hi,+voi] > j / [+syl] __ [+cons,-back]
+#kjˌijt̪ˈuɾɑ# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌijt̪ˈuɾɑ# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃˌijt̪ˈuɾɑ# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡ʃˌit̪ˈuɾɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#t͡ʃˌid̪ˈuɾɑ# | 98 : [-cont] > [+voi] / [+syl] __ [+son]
+#t͡sˌid̪ˈuɾɑ# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sˌiðˈuɾɑ# | 168 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#s̪ˌiðˈuɾɑ# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θˌiðˈuɾɑ# | 198 : s̪ > θ / __ [-cons]
+#θˌid̪ˈuɾɑ# | 205 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#θid̪ˈuɾɑ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #θid̪ˈuɾɑ#

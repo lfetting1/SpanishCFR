@@ -1,13 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1187:
-#ˌɑrˈeolɑm# >>> #ɑɾjɣʷlɑ# ( GOLD : #iɾwˈelɑ#) :
+#ˌɑrˈeolɑm# >>> #ɑɾjwˈelɑ# ( GOLD : #iɾwˈelɑ#) :
 ˌɑ r ˈe o l ɑ m 
-#ˌɑɾˈeolɑm# | 1 : r > ɾ / @ __ @
-#ˌɑɾˈeolɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌɑɾeˈolɑ# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌɑɾjˈolɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌɑɾjˈɔlɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑɾjwelɑ# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ˌɑɾjɣʷelɑ# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑɾjɣʷlɑ# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ɑɾjɣʷlɑ# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑɾjɣʷlɑ#
+#ˌɑrˈeolɑ# | 31 : [+nas] > ∅ / [-stres] __ #
+#ˌɑreˈolɑ# | 41 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌɑrjˈolɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɑrjˈɔlɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑɾjˈɔlɑ# | 51 : r > ɾ 
+#ˌɑɾjˈɔelɑ# | 113 : ∅ > e / [-tense] __ 
+#ˌɑɾjwˈelɑ# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ɑɾjwˈelɑ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑɾjwˈelɑ#

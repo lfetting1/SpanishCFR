@@ -1,18 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :794:
-#spˈon̪ɡiɑ# >>> #espwˈiθɑ# ( GOLD : #espˈon̪xɑ#) :
+#spˈon̪ɡiɑ# >>> #espˈuxɑ# ( GOLD : #espˈon̪xɑ#) :
 s p ˈo n̪ ɡ i ɑ 
-#spˈoːn̪ɡiɑ# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#spˈoːŋɡiɑ# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#spˈoːŋɡjɑ# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#spˈoŋɡjɑ# | 51 : [+syl,+long] > [-long,-splng] 
-#spˈoŋd͡ʒjɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#spˈoŋd͡ʒɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#spˈoŋd͡zɑ# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#spˈojd͡zɑ# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#spˈujd͡zɑ# | 104 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-#spwˈid͡zɑ# | 161 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#spwˈizɑ# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#spwˈisɑ# | 187 : [+strid] > [-voi] 
-#spwˈiθɑ# | 189 : s > θ / __ [-cons]
-#espwˈiθɑ# | 194 : ∅ > e / # __ s [+cons]
-Final form : #espwˈiθɑ#
+#spˈoːn̪ɡiɑ# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#spˈoːŋɡiɑ# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#spˈoːŋɡjɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#spˈoŋɡjɑ# | 50 : [+syl] > [-long,-splng] 
+#spˈoŋd͡ʒjɑ# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#spˈoŋd͡ʒɑ# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#spˈoŋʒɑ# | 94 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#spˈojʒɑ# | 106 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#spˈujʒɑ# | 109 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#spˈuʒɑ# | 157 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#spˈuʃɑ# | 195 : [+strid] > [-voi] 
+#spˈuxɑ# | 197 : ʃ > x 
+#espˈuxɑ# | 203 : ∅ > e / # __ s [+cons]
+Final form : #espˈuxɑ#

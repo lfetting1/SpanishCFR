@@ -1,19 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :471:
-#lˌae̯siˈoːn̪em# >>> #leθˈon̪# ( GOLD : #lesjˈon̪#) :
+#lˌae̯siˈoːn̪em# >>> #lesˈon̪# ( GOLD : #lesjˈon̪#) :
 l ˌa e̯ s i ˈoː n̪ e m 
-#lˌɛjsiˈoːn̪em# | 21 : {a e̯;o e̯;ˈa e̯;ˈo e̯;ˌa e̯;ˌo e̯} > {ɛ j;e j;ˈɛ j;ˈe j;ˌɛ j;ˌe j} 
-#lˌejsiˈoːn̪em# | 22 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
-#lˌeːsiˈoːn̪em# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˌeːsiˈoːn̪e# | 32 : [+nas] > ∅ / [-stres] __ #
-#lˌeːsjˈoːn̪e# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#lˌesjˈon̪e# | 51 : [+syl,+long] > [-long,-splng] 
-#lˌee̯sjˈon̪e# | 84 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
-#lˌejsˈon̪e# | 88 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#lˌejzˈon̪e# | 92 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#lˌeːzˈon̪e# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˌezˈon̪e# | 147 : [+syl] > [-long,-splng] 
-#lˌezˈon̪# | 165 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#lˌesˈon̪# | 187 : [+strid] > [-voi] 
-#lˌeθˈon̪# | 189 : s > θ / __ [-cons]
-#leθˈon̪# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #leθˈon̪#
+#lˌaːsiˈoːn̪em# | 22 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˌaːsiˈoːn̪e# | 31 : [+nas] > ∅ / [-stres] __ #
+#lˌaːsjˈoːn̪e# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#lˌasjˈon̪e# | 50 : [+syl] > [-long,-splng] 
+#lˌae̯sjˈon̪e# | 88 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#lˌajsˈon̪e# | 92 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#lˌajzˈon̪e# | 97 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#lˌejzˈon̪e# | 136 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#lˌeːzˈon̪e# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˌezˈon̪e# | 152 : [+syl] > [-long,-splng] 
+#lˌezˈon̪# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#lˌesˈon̪# | 195 : [+strid] > [-voi] 
+#lesˈon̪# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #lesˈon̪#

@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :418:
-#kˌɑst̪ˈiːkeum# >>> #kɑs̪t̪ˈis# ( GOLD : #kɑst̪ˈiθo#) :
+#kˌɑst̪ˈiːkeum# >>> #kɑst̪ˈiθ# ( GOLD : #kɑst̪ˈiθo#) :
 k ˌɑ s t̪ ˈiː k e u m 
-#kˌɑs̪t̪ˈiːkeum# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#kˌɑs̪t̪ˈiːkeu# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌɑs̪t̪ˈiːkju# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#kˌɑs̪t̪ˈiːkjo# | 50 : [+syl,-long] > [-hi] 
-#kˌɑs̪t̪ˈikjo# | 51 : [+syl,+long] > [-long,-splng] 
-#kˌɑs̪t̪ˈit͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˌɑs̪t̪ˈit͡ʃo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#kˌɑs̪t̪ˈid͡ʒo# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌɑs̪t̪ˈid͡zo# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kˌɑs̪t̪ˈid͡z# | 163 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
-#kˌɑs̪t̪ˈiz# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#kˌɑs̪t̪ˈis# | 187 : [+strid] > [-voi] 
-#kɑs̪t̪ˈis# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kɑs̪t̪ˈis#
+#kˌɑs̪t̪ˈiːkeum# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#kˌɑs̪t̪ˈiːkeu# | 31 : [+nas] > ∅ / [-stres] __ #
+#kˌɑs̪t̪ˈiːkju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˌɑs̪t̪ˈiːkjo# | 49 : [+syl,-long] > [-hi] 
+#kˌɑs̪t̪ˈikjo# | 50 : [+syl] > [-long,-splng] 
+#kˌɑs̪t̪ˈit͡ʃjo# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌɑs̪t̪ˈit͡ʃo# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#kˌɑs̪t̪ˈid͡ʒo# | 98 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˌɑs̪t̪ˈid͡zo# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌɑs̪t̪ˈid͡z# | 170 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#kˌɑs̪t̪ˈiz̪# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kˌɑs̪t̪ˈis̪# | 195 : [+strid] > [-voi] 
+#kˌɑst̪ˈis̪# | 196 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#kˌɑst̪ˈiθ# | 199 : s̪ > θ / __ #
+#kɑst̪ˈiθ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kɑst̪ˈiθ#

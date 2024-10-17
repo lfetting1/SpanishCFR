@@ -1,22 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :251:
-#kˈae̯spit̪e# >>> #esθwt̪e# ( GOLD : #θˈesped̪#) :
+#kˈae̯spit̪e# >>> #θˈaswt̪e# ( GOLD : #θˈesped̪#) :
 k ˈa e̯ s p i t̪ e 
-#kˈɛjspit̪e# | 21 : {a e̯;o e̯;ˈa e̯;ˈo e̯;ˌa e̯;ˌo e̯} > {ɛ j;e j;ˈɛ j;ˈe j;ˌɛ j;ˌe j} 
-#kˈɛːspit̪e# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˈɛːspet̪e# | 50 : [+syl,-long] > [-hi] 
-#kˈɛspet̪e# | 51 : [+syl,+long] > [-long,-splng] 
-#kjˈɛspet̪e# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈɛspet̪e# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃˈɛspet̪e# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t͡ʃˈɛsped̪e# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
-#t͡sˈɛsped̪e# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sjesped̪e# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#t͡sʝesped̪e# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#t͡sʝspd̪e# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#t͡sçspt̪e# | 130 : [-son] > [-voi] / [-voi] __ 
-#t͡sspt̪e# | 171 : [-son] > ∅ / [+delrel] __ 
-#t͡sswt̪e# | 182 : [+lab,-son] > w / __ [-son]
-#sswt̪e# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#sθwt̪e# | 189 : s > θ / __ [-cons]
-#esθwt̪e# | 194 : ∅ > e / # __ s [+cons]
-Final form : #esθwt̪e#
+#kˈaːspit̪e# | 22 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˈaːspet̪e# | 49 : [+syl,-long] > [-hi] 
+#kˈaspet̪e# | 50 : [+syl] > [-long,-splng] 
+#kjˈaspet̪e# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈaspet̪e# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃˈaspet̪e# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡ʃˈasped̪e# | 98 : [-cont] > [+voi] / [+syl] __ [+son]
+#t͡sˈasped̪e# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sˈaspd̪e# | 134 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#t͡sˈaspt̪e# | 135 : [-son] > [-voi] / [-voi] __ 
+#t͡sˈaswt̪e# | 191 : [+lab,-son] > w / __ [-son]
+#s̪ˈaswt̪e# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θˈaswt̪e# | 198 : s̪ > θ / __ [-cons]
+Final form : #θˈaswt̪e#

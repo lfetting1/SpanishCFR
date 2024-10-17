@@ -1,12 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1012:
 #ɡˈɑllikum# >>> #ɡˈolɡo# ( GOLD : #ɡˈɑlɡo#) :
 ɡ ˈɑ l l i k u m 
-#ɡˈɑlliku# | 32 : [+nas] > ∅ / [-stres] __ #
-#ɡˈɑlleko# | 50 : [+syl,-long] > [-hi] 
-#ɡˈɑlleɡo# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
-#ɡˈɑwleɡo# | 94 : [+lat] > w / [+lo] __ [+cons]
-#ɡˈɑwlɡo# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ɡˈowlɡo# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ɡˈoːlɡo# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɡˈolɡo# | 147 : [+syl] > [-long,-splng] 
+#ɡˈɑlliku# | 31 : [+nas] > ∅ / [-stres] __ #
+#ɡˈɑlleko# | 49 : [+syl,-long] > [-hi] 
+#ɣˈɑlleko# | 94 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ɣˈɑlleɡo# | 98 : [-cont] > [+voi] / [+syl] __ [+son]
+#ɣˈɑwleɡo# | 99 : [+lat] > w / [+lo] __ [+cons]
+#ɣˈɑwlɡo# | 134 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ɣˈowlɡo# | 136 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɣˈoːlɡo# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɣˈolɡo# | 152 : [+syl] > [-long,-splng] 
+#ɣˈolɣo# | 168 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ɡˈolɡo# | 205 : {β;ð;ɣ} > {b;d̪;ɡ} 
 Final form : #ɡˈolɡo#

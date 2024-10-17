@@ -1,20 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1194:
-#ˌɑskˈiolɑm# >>> #ɑzlɑ# ( GOLD : #ɑθwˈelɑ#) :
+#ˌɑskˈiolɑm# >>> #ɑθwˈelɑ# ( GOLD : #ɑθwˈelɑ#) :
 ˌɑ s k ˈi o l ɑ m 
-#ˌɑskˈiolɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌɑskiˈolɑ# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌɑskjˈolɑ# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#ˌɑskjˈɔlɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑst͡ʃjˈɔlɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑst͡ʃˈɔlɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɑst͡sˈɔlɑ# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑst͡swelɑ# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ˌɑst͡sɣʷelɑ# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑst͡sɣʷlɑ# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌɑst͡sxʷlɑ# | 130 : [-son] > [-voi] / [-voi] __ 
-#ˌɑt͡sxʷlɑ# | 170 : [-son] > ∅ / __ [+delrel]
-#ˌɑt͡slɑ# | 171 : [-son] > ∅ / [+delrel] __ 
-#ˌɑslɑ# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#ˌɑzlɑ# | 191 : s > z / [-cons] __ [+cons,+voi]
-#ɑzlɑ# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑzlɑ#
+#ˌɑskˈiolɑ# | 31 : [+nas] > ∅ / [-stres] __ #
+#ˌɑskiˈolɑ# | 41 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌɑskjˈolɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɑskjˈɔlɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑst͡ʃjˈɔlɑ# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑst͡ʃˈɔlɑ# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɑst͡sˈɔlɑ# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑst͡sˈɔelɑ# | 113 : ∅ > e / [-tense] __ 
+#ˌɑst͡swˈelɑ# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ˌɑt͡swˈelɑ# | 177 : [-son] > ∅ / __ [+delrel]
+#ˌɑs̪wˈelɑ# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌɑθwˈelɑ# | 198 : s̪ > θ / __ [-cons]
+#ɑθwˈelɑ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑθwˈelɑ#

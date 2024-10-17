@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :489:
-#lˌɑkweˈɑːre# >>> #lewʝˈɑɾ# ( GOLD : #lɑθˈɑɾ#) :
+#lˌɑkweˈɑːre# >>> #libjˈɑɾ# ( GOLD : #lɑθˈɑɾ#) :
 l ˌɑ k w e ˈɑː r e 
-#lˌɑkweˈɑːɾe# | 1 : r > ɾ / @ __ @
-#lˌɑkɣʷeˈɑːɾe# | 18 : w > ɣʷ / __ [+syl]
-#lˌɑkbeˈɑːɾe# | 37 : ɣʷ > b 
-#lˌɑxbeˈɑːɾe# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#lˌɑxbjˈɑːɾe# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#lˌɑxbjˈɑɾe# | 51 : [+syl,+long] > [-long,-splng] 
-#lˌɑjbjˈɑɾe# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#lˌɑjbʝˈɑɾe# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#lˌejbʝˈɑɾe# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#lˌeːbʝˈɑɾe# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˌebʝˈɑɾe# | 147 : [+syl] > [-long,-splng] 
-#lˌebʝˈɑɾ# | 164 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
-#lˌewʝˈɑɾ# | 182 : [+lab,-son] > w / __ [-son]
-#lewʝˈɑɾ# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #lewʝˈɑɾ#
+#lˌɑkɣʷeˈɑːre# | 17 : w > ɣʷ / __ [+syl]
+#lˌɑkβeˈɑːre# | 36 : ɣʷ > β 
+#lˌɑxβeˈɑːre# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#lˌɑxβjˈɑːre# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#lˌɑxβjˈɑre# | 50 : [+syl] > [-long,-splng] 
+#lˌɑxβjˈɑɾe# | 51 : r > ɾ 
+#lˌɑxvjˈɑɾe# | 105 : β > v 
+#lˌɑjvjˈɑɾe# | 106 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#lˌɑjβjˈɑɾe# | 122 : {v;f} > {β;ɸ} 
+#lˌejβjˈɑɾe# | 136 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#lˌeːβjˈɑɾe# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˌeβjˈɑɾe# | 152 : [+syl] > [-long,-splng] 
+#lˌeβjˈɑɾ# | 171 : [+syl,-lo,-hi] > ∅ / [+syl] ɾ __ #
+#lˌiβjˈɑɾ# | 174 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#lˌibjˈɑɾ# | 205 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#libjˈɑɾ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #libjˈɑɾ#

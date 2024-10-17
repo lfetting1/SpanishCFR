@@ -1,17 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :366:
 #kˌon̪t̪rˈɑkt̪um# >>> #kun̪t̪ɾˈet͡ʃo# ( GOLD : #kon̪t̪ɾˈet͡ʃo#) :
 k ˌo n̪ t̪ r ˈɑ k t̪ u m 
-#kˌon̪t̪ɾˈɑkt̪um# | 1 : r > ɾ / @ __ @
-#kˌoːn̪t̪ɾˈɑkt̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˌoːn̪t̪ɾˈɑkt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌoːn̪t̪ɾˈɑxt̪u# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#kˌoːn̪t̪ɾˈɑxt̪o# | 50 : [+syl,-long] > [-hi] 
-#kˌon̪t̪ɾˈɑxt̪o# | 51 : [+syl,+long] > [-long,-splng] 
-#kˌon̪t̪ɾˈɑjt̪o# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#kˌun̪t̪ɾˈɑjt̪o# | 104 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-#kˌun̪t̪ɾˈejt̪o# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#kˌun̪t̪ɾˈejt͡ʃo# | 144 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#kˌun̪t̪ɾˈeːt͡ʃo# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˌun̪t̪ɾˈet͡ʃo# | 147 : [+syl] > [-long,-splng] 
-#kun̪t̪ɾˈet͡ʃo# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#kˌoːn̪t̪rˈɑkt̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#kˌoːn̪t̪rˈɑkt̪u# | 31 : [+nas] > ∅ / [-stres] __ #
+#kˌoːn̪t̪rˈɑxt̪u# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#kˌoːn̪t̪rˈɑxt̪o# | 49 : [+syl,-long] > [-hi] 
+#kˌon̪t̪rˈɑxt̪o# | 50 : [+syl] > [-long,-splng] 
+#kˌon̪t̪ɾˈɑxt̪o# | 51 : r > ɾ 
+#kˌon̪t̪ɾˈɑjt̪o# | 106 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#kˌun̪t̪ɾˈɑjt̪o# | 109 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#kˌun̪t̪ɾˈejt̪o# | 136 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#kˌun̪t̪ɾˈejt͡ʃo# | 149 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#kˌun̪t̪ɾˈeːt͡ʃo# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˌun̪t̪ɾˈet͡ʃo# | 152 : [+syl] > [-long,-splng] 
+#kun̪t̪ɾˈet͡ʃo# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #kun̪t̪ɾˈet͡ʃo#

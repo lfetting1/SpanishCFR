@@ -1,14 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :937:
 #t̪ˌɑksˈoːn̪e# >>> #t̪exˈon̪# ( GOLD : #t̪exˈon̪#) :
 t̪ ˌɑ k s ˈoː n̪ e 
-#t̪ˌɑxsˈoːn̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#t̪ˌɑxsˈon̪e# | 51 : [+syl,+long] > [-long,-splng] 
-#t̪ˌɑjsˈon̪e# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#t̪ˌejsˈon̪e# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#t̪ˌejʃˈon̪e# | 144 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#t̪ˌeːʃˈon̪e# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#t̪ˌeʃˈon̪e# | 147 : [+syl] > [-long,-splng] 
-#t̪ˌeʃˈon̪# | 165 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#t̪ˌexˈon̪# | 188 : ʃ > x 
-#t̪exˈon̪# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˌɑxsˈoːn̪e# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#t̪ˌɑxsˈon̪e# | 50 : [+syl] > [-long,-splng] 
+#t̪ˌɑjsˈon̪e# | 106 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#t̪ˌejsˈon̪e# | 136 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#t̪ˌejʃˈon̪e# | 149 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#t̪ˌeːʃˈon̪e# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#t̪ˌeʃˈon̪e# | 152 : [+syl] > [-long,-splng] 
+#t̪ˌeʃˈon̪# | 172 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#t̪ˌexˈon̪# | 197 : ʃ > x 
+#t̪exˈon̪# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪exˈon̪#

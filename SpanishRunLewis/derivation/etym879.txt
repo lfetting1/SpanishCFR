@@ -1,13 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :879:
-#sˌɑlmˈuriɑ# >>> #ʝmˈuɾʝɑ# ( GOLD : #sɑlmwˈeɾɑ#) :
+#sˌɑlmˈuriɑ# >>> #ʝmˈuɾjɑ# ( GOLD : #sɑlmwˈeɾɑ#) :
 s ˌɑ l m ˈu r i ɑ  
-#sˌɑlmˈuɾiɑ# | 1 : r > ɾ / @ __ @
-#slmˈuɾiɑ# | 25 : [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas]
-#slmˈuɾjɑ# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#slmˈoɾjɑ# | 50 : [+syl,-long] > [-hi] 
-#slmˈuɾjɑ# | 103 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#slmˈuɾʝɑ# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#sʎmˈuɾʝɑ# | 122 : [+lat] > ʎ / [-son] __ 
-#ʎmˈuɾʝɑ# | 123 : [+cons,-voi] > ∅ / # __ [+lat]
-#ʝmˈuɾʝɑ# | 198 : ʎ > ʝ 
-Final form : #ʝmˈuɾʝɑ#
+#slmˈuriɑ# | 24 : [+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas]
+#slmˈurjɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#slmˈorjɑ# | 49 : [+syl,-long] > [-hi] 
+#slmˈoɾjɑ# | 51 : r > ɾ 
+#slmˈuɾjɑ# | 108 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+#sʎmˈuɾjɑ# | 127 : [+lat] > ʎ / [-son] __ 
+#ʎmˈuɾjɑ# | 128 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʝmˈuɾjɑ# | 207 : ʎ > ʝ 
+Final form : #ʝmˈuɾjɑ#

@@ -1,25 +1,27 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :585:
-#mˌɑwrikˈellum# >>> #moɾsʝo# ( GOLD : #moɾθˈiʝo#) :
+#mˌɑwrikˈellum# >>> #moɾθˈiʝo# ( GOLD : #moɾθˈiʝo#) :
 m ˌɑ w r i k ˈe l l u m 
-#mˌɑwɾikˈellum# | 1 : r > ɾ / @ __ @
-#mˌɑwɾikˈellu# | 32 : [+nas] > ∅ / [-stres] __ #
-#mˌɑwɾikˈɛllu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˌɑwɾekˈɛllo# | 50 : [+syl,-long] > [-hi] 
-#mˌɑwɾekjˈɛllo# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#mˌɑwɾet͡ʃjˈɛllo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#mˌɑwɾet͡ʃˈɛllo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#mˌɑwɾed͡ʒˈɛllo# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
-#mˌɑwɾed͡zˈɛllo# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#mˌɑwɾed͡zjello# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#mˌɑwɾed͡zʝello# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#mˌɑwɾed͡zʝeʎo# | 126 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#mˌɑwɾd͡zʝʎo# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#mˌowɾd͡zʝʎo# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#mˌoːɾd͡zʝʎo# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#mˌoɾd͡zʝʎo# | 147 : [+syl] > [-long,-splng] 
-#mˌoɾd͡zʎo# | 171 : [-son] > ∅ / [+delrel] __ 
-#mˌoɾzʎo# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#mˌoɾsʎo# | 187 : [+strid] > [-voi] 
-#moɾsʎo# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-#moɾsʝo# | 198 : ʎ > ʝ 
-Final form : #moɾsʝo#
+#mˌɑwrikˈellu# | 31 : [+nas] > ∅ / [-stres] __ #
+#mˌɑwrikˈɛllu# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˌɑwrekˈɛllo# | 49 : [+syl,-long] > [-hi] 
+#mˌɑwɾekˈɛllo# | 51 : r > ɾ 
+#mˌɑwɾekjˈɛllo# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#mˌɑwɾet͡ʃjˈɛllo# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˌɑwɾet͡ʃˈɛllo# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#mˌɑwɾed͡ʒˈɛllo# | 98 : [-cont] > [+voi] / [+syl] __ [+son]
+#mˌɑwɾed͡zˈɛllo# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mˌɑwɾed͡zˈɛello# | 113 : ∅ > e / [-tense] __ 
+#mˌɑwɾed͡zjˈello# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#mˌɑwɾed͡zjˈeʎo# | 131 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#mˌɑwɾd͡zjˈeʎo# | 134 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#mˌowɾd͡zjˈeʎo# | 136 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#mˌoːɾd͡zjˈeʎo# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌoɾd͡zjˈeʎo# | 152 : [+syl] > [-long,-splng] 
+#mˌoɾd͡zjˈiʎo# | 185 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#mˌoɾd͡zˈiʎo# | 190 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#mˌoɾz̪ˈiʎo# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#mˌoɾs̪ˈiʎo# | 195 : [+strid] > [-voi] 
+#mˌoɾθˈiʎo# | 198 : s̪ > θ / __ [-cons]
+#moɾθˈiʎo# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#moɾθˈiʝo# | 207 : ʎ > ʝ 
+Final form : #moɾθˈiʝo#

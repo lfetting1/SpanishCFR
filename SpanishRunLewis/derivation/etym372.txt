@@ -1,21 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :372:
-#kˌorrˈupt̪ium# >>> #kxʷrˈoθo# ( GOLD : #korˈoθo#) :
+#kˌorrˈupt̪ium# >>> #kwerˈoθo# ( GOLD : #korˈoθo#) :
 k ˌo r r ˈu p t̪ i u m 
-#kˌoɾɾˈupt̪ium# | 1 : r > ɾ / @ __ @
-#kˌoɾɾˈupt̪iu# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌoɾɾˈupt̪ju# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#kˌɔɾɾˈupt̪ju# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔɾɾˈopt̪jo# | 50 : [+syl,-long] > [-hi] 
-#kˌɔrˈopt̪jo# | 53 : ɾ ɾ > r 
-#kˌɔrˈot̪t̪jo# | 62 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
-#kˌɔrˈot̪t͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˌɔrˈot̪t͡ʃo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#kˌɔrˈot̪t͡so# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kwerˈot̪t͡so# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#kɣʷerˈot̪t͡so# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kɣʷrˈot̪t͡so# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kxʷrˈot̪t͡so# | 130 : [-son] > [-voi] / [-voi] __ 
-#kxʷrˈot͡so# | 170 : [-son] > ∅ / __ [+delrel]
-#kxʷrˈoso# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#kxʷrˈoθo# | 189 : s > θ / __ [-cons]
-Final form : #kxʷrˈoθo#
+#kˌorrˈupt̪iu# | 31 : [+nas] > ∅ / [-stres] __ #
+#kˌorrˈupt̪ju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˌɔrrˈupt̪ju# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔrrˈopt̪jo# | 49 : [+syl,-long] > [-hi] 
+#kˌɔɾɾˈopt̪jo# | 51 : r > ɾ 
+#kˌɔrˈopt̪jo# | 52 : ɾ ɾ > r 
+#kˌɔrˈot̪t̪jo# | 66 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
+#kˌɔrˈot̪t͡ʃjo# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌɔrˈot̪t͡ʃo# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#kˌɔrˈot̪t͡so# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌɔerˈot̪t͡so# | 113 : ∅ > e / [-tense] __ 
+#kwˌerˈot̪t͡so# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#kwˌerˈot͡so# | 177 : [-son] > ∅ / __ [+delrel]
+#kwˌerˈos̪o# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kwˌerˈoθo# | 198 : s̪ > θ / __ [-cons]
+#kwerˈoθo# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kwerˈoθo#

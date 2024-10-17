@@ -1,21 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1150:
 #ˌɑkwˈɑkeɑm# >>> #ebˈɑθɑ# ( GOLD : #ɑɡwˈɑθɑ#) :
 ˌɑ k w ˈɑ k e ɑ m 
-#ˌɑkɣʷˈɑkeɑm# | 18 : w > ɣʷ / __ [+syl]
-#ˌɑkɣʷˈɑkeɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌɑkbˈɑkeɑ# | 37 : ɣʷ > b 
-#ˌɑxbˈɑkeɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɑxbˈɑkjɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌɑxbˈɑt͡ʃjɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑxbˈɑt͡ʃɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɑxbˈɑd͡ʒɑ# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑxbˈɑd͡zɑ# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑjbˈɑd͡zɑ# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌejbˈɑd͡zɑ# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ˌeːbˈɑd͡zɑ# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌebˈɑd͡zɑ# | 147 : [+syl] > [-long,-splng] 
-#ˌebˈɑzɑ# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#ˌebˈɑsɑ# | 187 : [+strid] > [-voi] 
-#ˌebˈɑθɑ# | 189 : s > θ / __ [-cons]
-#ebˈɑθɑ# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌɑkɣʷˈɑkeɑm# | 17 : w > ɣʷ / __ [+syl]
+#ˌɑkɣʷˈɑkeɑ# | 31 : [+nas] > ∅ / [-stres] __ #
+#ˌɑkβˈɑkeɑ# | 36 : ɣʷ > β 
+#ˌɑxβˈɑkeɑ# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌɑxβˈɑkjɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɑxβˈɑt͡ʃjɑ# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑxβˈɑt͡ʃɑ# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɑxβˈɑd͡ʒɑ# | 98 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑxβˈɑd͡zɑ# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑxvˈɑd͡zɑ# | 105 : β > v 
+#ˌɑjvˈɑd͡zɑ# | 106 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#ˌɑjβˈɑd͡zɑ# | 122 : {v;f} > {β;ɸ} 
+#ˌejβˈɑd͡zɑ# | 136 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ˌeːβˈɑd͡zɑ# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌeβˈɑd͡zɑ# | 152 : [+syl] > [-long,-splng] 
+#ˌeβˈɑz̪ɑ# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌeβˈɑs̪ɑ# | 195 : [+strid] > [-voi] 
+#ˌeβˈɑθɑ# | 198 : s̪ > θ / __ [-cons]
+#ˌebˈɑθɑ# | 205 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ebˈɑθɑ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ebˈɑθɑ#

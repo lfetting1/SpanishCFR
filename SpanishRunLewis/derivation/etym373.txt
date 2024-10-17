@@ -1,19 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :373:
-#kˌort̪ˈikeɑ# >>> #kxʷɾt̪ˈeθɑ# ( GOLD : #koɾt̪ˈeθɑ#) :
+#kˌort̪ˈikeɑ# >>> #kweɾt̪ˈeθɑ# ( GOLD : #koɾt̪ˈeθɑ#) :
 k ˌo r t̪ ˈi k e ɑ 
-#kˌoɾt̪ˈikeɑ# | 1 : r > ɾ / @ __ @
-#kˌoɾt̪ˈikjɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#kˌɔɾt̪ˈikjɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔɾt̪ˈekjɑ# | 50 : [+syl,-long] > [-hi] 
-#kˌɔɾt̪ˈet͡ʃjɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˌɔɾt̪ˈet͡ʃɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#kˌɔɾt̪ˈed͡ʒɑ# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌɔɾt̪ˈed͡zɑ# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kweɾt̪ˈed͡zɑ# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#kɣʷeɾt̪ˈed͡zɑ# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#kɣʷɾt̪ˈed͡zɑ# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kxʷɾt̪ˈed͡zɑ# | 130 : [-son] > [-voi] / [-voi] __ 
-#kxʷɾt̪ˈezɑ# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#kxʷɾt̪ˈesɑ# | 187 : [+strid] > [-voi] 
-#kxʷɾt̪ˈeθɑ# | 189 : s > θ / __ [-cons]
-Final form : #kxʷɾt̪ˈeθɑ#
+#kˌort̪ˈikjɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#kˌɔrt̪ˈikjɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɔrt̪ˈekjɑ# | 49 : [+syl,-long] > [-hi] 
+#kˌɔɾt̪ˈekjɑ# | 51 : r > ɾ 
+#kˌɔɾt̪ˈet͡ʃjɑ# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌɔɾt̪ˈet͡ʃɑ# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#kˌɔɾt̪ˈed͡ʒɑ# | 98 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˌɔɾt̪ˈed͡zɑ# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌɔeɾt̪ˈed͡zɑ# | 113 : ∅ > e / [-tense] __ 
+#kwˌeɾt̪ˈed͡zɑ# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#kwˌeɾt̪ˈez̪ɑ# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kwˌeɾt̪ˈes̪ɑ# | 195 : [+strid] > [-voi] 
+#kwˌeɾt̪ˈeθɑ# | 198 : s̪ > θ / __ [-cons]
+#kweɾt̪ˈeθɑ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kweɾt̪ˈeθɑ#

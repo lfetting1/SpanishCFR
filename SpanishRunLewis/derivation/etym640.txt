@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :640:
-#prˌehˈen̪sum# >>> #pɾʝeˈeθo# ( GOLD : #pɾˈeso#) :
+#prˌehˈen̪sum# >>> #pɾiˈeso# ( GOLD : #pɾˈeso#) :
 p r ˌe h ˈe n̪ s u m 
 #prˌeˈen̪sum# | 0 : h > ∅ 
-#pɾˌeˈen̪sum# | 1 : r > ɾ / @ __ @
-#pɾˌeˈeːn̪sum# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#pɾˌeˈeːnsum# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#pɾˌeˈeːnsu# | 32 : [+nas] > ∅ / [-stres] __ #
-#pɾˌeˈeːsu# | 33 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
-#pɾˌɛˈeːsu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pɾˌɛˈeːso# | 50 : [+syl,-long] > [-hi] 
-#pɾˌɛˈeso# | 51 : [+syl,+long] > [-long,-splng] 
-#pɾˌɛˈezo# | 92 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#pɾjeˈezo# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#pɾʝeˈezo# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#pɾʝeˈeso# | 187 : [+strid] > [-voi] 
-#pɾʝeˈeθo# | 189 : s > θ / __ [-cons]
-Final form : #pɾʝeˈeθo#
+#prˌeˈeːn̪sum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
+#prˌeˈeːnsum# | 4 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#prˌeˈeːnsu# | 31 : [+nas] > ∅ / [-stres] __ #
+#prˌeˈeːsu# | 32 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+#prˌɛˈeːsu# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#prˌɛˈeːso# | 49 : [+syl,-long] > [-hi] 
+#prˌɛˈeso# | 50 : [+syl] > [-long,-splng] 
+#pɾˌɛˈeso# | 51 : r > ɾ 
+#pɾˌɛˈezo# | 97 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#pɾˌɛeˈezo# | 113 : ∅ > e / [-tense] __ 
+#pɾjˌeˈezo# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#pɾjˌiˈezo# | 186 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#pɾˌiˈezo# | 190 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#pɾˌiˈeso# | 195 : [+strid] > [-voi] 
+#pɾiˈeso# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #pɾiˈeso#

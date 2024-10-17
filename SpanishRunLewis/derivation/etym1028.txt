@@ -1,12 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1028:
-#ˈeremum# >>> #ʝɾmo# ( GOLD : #ʝˈeɾmo#) :
+#ˈeremum# >>> #jˈeɾmo# ( GOLD : #ʝˈeɾmo#) :
 ˈe r e m u m 
-#ˈeɾemum# | 1 : r > ɾ / @ __ @
-#ˈeɾmum# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
-#ˈeɾmu# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˈɛɾmu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˈɛɾmo# | 50 : [+syl,-long] > [-hi] 
-#jeɾmo# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ʝeɾmo# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʝɾmo# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-Final form : #ʝɾmo#
+#ˈermum# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
+#ˈermu# | 31 : [+nas] > ∅ / [-stres] __ #
+#ˈɛrmu# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɛrmo# | 49 : [+syl,-long] > [-hi] 
+#ˈɛɾmo# | 51 : r > ɾ 
+#ˈɛeɾmo# | 113 : ∅ > e / [-tense] __ 
+#jˈeɾmo# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+Final form : #jˈeɾmo#

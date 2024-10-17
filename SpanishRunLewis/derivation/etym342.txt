@@ -1,18 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :342:
-#kˌikɑːt̪rˈiːkem# >>> #θeɡɑd̪ɾˈis# ( GOLD : #θikɑt̪ɾˈiθ#) :
+#kˌikɑːt̪rˈiːkem# >>> #θeɡɑd̪ɾˈiθ# ( GOLD : #θikɑt̪ɾˈiθ#) :
 k ˌi k ɑː t̪ r ˈiː k e m 
-#kˌikɑːt̪ɾˈiːkem# | 1 : r > ɾ / @ __ @
-#kˌikɑːt̪ɾˈiːke# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌekɑːt̪ɾˈiːke# | 50 : [+syl,-long] > [-hi] 
-#kˌekɑt̪ɾˈike# | 51 : [+syl,+long] > [-long,-splng] 
-#kjˌekɑt̪ɾˈikje# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˌekɑt̪ɾˈit͡ʃje# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃˌekɑt̪ɾˈit͡ʃe# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t͡ʃˌeɡɑd̪ɾˈid͡ʒe# | 93 : [-cont] > [+voi] / [+syl] __ [+son]
-#t͡sˌeɡɑd̪ɾˈid͡ze# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sˌeɡɑd̪ɾˈid͡z# | 163 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
-#sˌeɡɑd̪ɾˈiz# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#sˌeɡɑd̪ɾˈis# | 187 : [+strid] > [-voi] 
-#θˌeɡɑd̪ɾˈis# | 189 : s > θ / __ [-cons]
-#θeɡɑd̪ɾˈis# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #θeɡɑd̪ɾˈis#
+#kˌikɑːt̪rˈiːke# | 31 : [+nas] > ∅ / [-stres] __ #
+#kˌekɑːt̪rˈiːke# | 49 : [+syl,-long] > [-hi] 
+#kˌekɑt̪rˈike# | 50 : [+syl] > [-long,-splng] 
+#kˌekɑt̪ɾˈike# | 51 : r > ɾ 
+#kjˌekɑt̪ɾˈikje# | 70 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˌekɑt̪ɾˈit͡ʃje# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃˌekɑt̪ɾˈit͡ʃe# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡ʃˌeɡɑd̪ɾˈid͡ʒe# | 98 : [-cont] > [+voi] / [+syl] __ [+son]
+#t͡sˌeɡɑd̪ɾˈid͡ze# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sˌeɣɑðɾˈid͡ze# | 168 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#t͡sˌeɣɑðɾˈid͡z# | 170 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#s̪ˌeɣɑðɾˈiz̪# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#s̪ˌeɣɑðɾˈis̪# | 195 : [+strid] > [-voi] 
+#θˌeɣɑðɾˈis̪# | 198 : s̪ > θ / __ [-cons]
+#θˌeɣɑðɾˈiθ# | 199 : s̪ > θ / __ #
+#θˌeɡɑd̪ɾˈiθ# | 205 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#θeɡɑd̪ɾˈiθ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #θeɡɑd̪ɾˈiθ#

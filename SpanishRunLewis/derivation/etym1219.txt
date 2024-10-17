@@ -1,13 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1219:
 #lˈɑwt̪iɑ# >>> #lˈoθɑ# ( GOLD : #lˈoθɑ#) :
 l ˈɑ w t̪ i ɑ 
-#lˈɑwt̪jɑ# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#lˈɑwt͡ʃjɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#lˈɑwt͡ʃɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#lˈɑwt͡sɑ# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#lˈowt͡sɑ# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#lˈoːt͡sɑ# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˈot͡sɑ# | 147 : [+syl] > [-long,-splng] 
-#lˈosɑ# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#lˈoθɑ# | 189 : s > θ / __ [-cons]
+#lˈɑwt̪jɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#lˈɑwt͡ʃjɑ# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˈɑwt͡ʃɑ# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#lˈɑwt͡sɑ# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lˈowt͡sɑ# | 136 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#lˈoːt͡sɑ# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˈot͡sɑ# | 152 : [+syl] > [-long,-splng] 
+#lˈos̪ɑ# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#lˈoθɑ# | 198 : s̪ > θ / __ [-cons]
 Final form : #lˈoθɑ#

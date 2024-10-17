@@ -1,21 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :75:
-#d̪ˌeːsˈed̪ium# >>> #d̪esθo# ( GOLD : #d̪esˈeo#) :
+#d̪ˌeːsˈed̪ium# >>> #d̪isjˈexo# ( GOLD : #d̪esˈeo#) :
 d̪ ˌeː s ˈe d̪ i u m 
-#d̪ˌeːsˈed̪iu# | 32 : [+nas] > ∅ / [-stres] __ #
-#d̪ˌeːsˈed̪ju# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#d̪ˌeːsˈɛd̪ju# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#d̪ˌeːsˈɛd̪jo# | 50 : [+syl,-long] > [-hi] 
-#d̪ˌesˈɛd̪jo# | 51 : [+syl,+long] > [-long,-splng] 
-#d̪ˌesˈɛd͡ʒjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d̪ˌesˈɛd͡ʒo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#d̪ˌezˈɛd͡ʒo# | 92 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#d̪ˌezˈɛd͡zo# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#d̪ˌezjed͡zo# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#d̪ˌezʝed͡zo# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#d̪ˌezʝd͡zo# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#d̪ˌezd͡zo# | 170 : [-son] > ∅ / __ [+delrel]
-#d̪ˌezzo# | 185 : [+strid,+ant] > [+cont,0delrel] 
-#d̪ˌesso# | 187 : [+strid] > [-voi] 
-#d̪ˌesθo# | 189 : s > θ / __ [-cons]
-#d̪esθo# | 196 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #d̪esθo#
+#d̪ˌeːsˈed̪iu# | 31 : [+nas] > ∅ / [-stres] __ #
+#d̪ˌeːsˈed̪ju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#d̪ˌeːsˈɛd̪ju# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#d̪ˌeːsˈɛd̪jo# | 49 : [+syl,-long] > [-hi] 
+#d̪ˌesˈɛd̪jo# | 50 : [+syl] > [-long,-splng] 
+#d̪ˌesˈɛd͡ʒjo# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d̪ˌesˈɛd͡ʒo# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ðˌesˈɛʒo# | 94 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˌezˈɛʒo# | 97 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#ðˌezˈɛeʒo# | 113 : ∅ > e / [-tense] __ 
+#ðˌezjˈeʒo# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#ðˌizjˈeʒo# | 174 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ðˌisjˈeʃo# | 195 : [+strid] > [-voi] 
+#ðˌisjˈexo# | 197 : ʃ > x 
+#d̪ˌisjˈexo# | 205 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#d̪isjˈexo# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #d̪isjˈexo#

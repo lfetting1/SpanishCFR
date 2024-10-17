@@ -1,17 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :3:
-#brˈɑkkʰium# >>> #bɾˈes# ( GOLD : #bɾˈɑθo#) :
+#brˈɑkkʰium# >>> #bɾˈeθ# ( GOLD : #bɾˈɑθo#) :
 b r ˈɑ k kʰ i u m 
-#bɾˈɑkkʰium# | 1 : r > ɾ / @ __ @
-#bɾˈɑkkʰiu# | 32 : [+nas] > ∅ / [-stres] __ #
-#bɾˈɑkkʰju# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#bɾˈɑkkʰjo# | 50 : [+syl,-long] > [-hi] 
-#bɾˈɑkt͡ʃjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#bɾˈɑkt͡ʃo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#bɾˈɑkt͡so# | 96 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#bɾˈɑjt͡so# | 101 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#bɾˈejt͡so# | 131 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#bɾˈeːt͡so# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#bɾˈet͡so# | 147 : [+syl] > [-long,-splng] 
-#bɾˈet͡s# | 163 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
-#bɾˈes# | 185 : [+strid,+ant] > [+cont,0delrel] 
-Final form : #bɾˈes#
+#brˈɑkkʰiu# | 31 : [+nas] > ∅ / [-stres] __ #
+#brˈɑkkʰju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#brˈɑkkʰjo# | 49 : [+syl,-long] > [-hi] 
+#bɾˈɑkkʰjo# | 51 : r > ɾ 
+#bɾˈɑkt͡ʃjo# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#bɾˈɑkt͡ʃo# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#βɾˈɑkt͡ʃo# | 94 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#βɾˈɑkt͡so# | 101 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vɾˈɑkt͡so# | 105 : β > v 
+#vɾˈɑjt͡so# | 106 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#βɾˈɑjt͡so# | 122 : {v;f} > {β;ɸ} 
+#βɾˈejt͡so# | 136 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#βɾˈeːt͡so# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βɾˈet͡so# | 152 : [+syl] > [-long,-splng] 
+#βɾˈet͡s# | 170 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
+#βɾˈes̪# | 194 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#βɾˈeθ# | 199 : s̪ > θ / __ #
+#bɾˈeθ# | 205 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #bɾˈeθ#

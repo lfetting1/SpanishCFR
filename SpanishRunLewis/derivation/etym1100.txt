@@ -1,21 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1100:
-#ˌekklˈeːsiɑm# >>> #ʝt͡ʃˈeθɑ# ( GOLD : #iɡlˈesjɑ#) :
+#ˌekklˈeːsiɑm# >>> #jet͡ʃˈesɑ# ( GOLD : #iɡlˈesjɑ#) :
 ˌe k k l ˈeː s i ɑ m 
-#ˌekklˈeːsiɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌekklˈeːsjɑ# | 46 : [+syl,-prim,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-#ˌɛkklˈeːsjɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɛkklˈesjɑ# | 51 : [+syl,+long] > [-long,-splng] 
-#ˌɛkklˈee̯sjɑ# | 84 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
-#ˌɛkklˈejsɑ# | 88 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#ˌɛkklˈejzɑ# | 92 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#jekklˈejzɑ# | 108 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ʝekklˈejzɑ# | 115 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ʝekkʎˈejzɑ# | 122 : [+lat] > ʎ / [-son] __ 
-#ʝekt͡ʃˈejzɑ# | 124 : [-voi] [+lat] > t͡ʃ
-#ʝkt͡ʃˈejzɑ# | 129 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ʝkt͡ʃˈeːzɑ# | 146 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ʝkt͡ʃˈezɑ# | 147 : [+syl] > [-long,-splng] 
-#ʝt͡ʃˈezɑ# | 170 : [-son] > ∅ / __ [+delrel]
-#ʝt͡ʃˈesɑ# | 187 : [+strid] > [-voi] 
-#ʝt͡ʃˈeθɑ# | 189 : s > θ / __ [-cons]
-Final form : #ʝt͡ʃˈeθɑ#
+#ˌekklˈeːsiɑ# | 31 : [+nas] > ∅ / [-stres] __ #
+#ˌekklˈeːsjɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɛkklˈeːsjɑ# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɛkklˈesjɑ# | 50 : [+syl] > [-long,-splng] 
+#ˌɛkklˈee̯sjɑ# | 88 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#ˌɛkklˈejsɑ# | 92 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#ˌɛkklˈejzɑ# | 97 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#ˌɛekklˈejzɑ# | 113 : ∅ > e / [-tense] __ 
+#jˌekklˈejzɑ# | 114 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#jˌekkʎˈejzɑ# | 127 : [+lat] > ʎ / [-son] __ 
+#jˌekt͡ʃˈejzɑ# | 129 : [-voi] [+lat] > t͡ʃ
+#jˌekt͡ʃˈeːzɑ# | 151 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#jˌekt͡ʃˈezɑ# | 152 : [+syl] > [-long,-splng] 
+#jˌet͡ʃˈezɑ# | 177 : [-son] > ∅ / __ [+delrel]
+#jˌet͡ʃˈesɑ# | 195 : [+strid] > [-voi] 
+#jet͡ʃˈesɑ# | 206 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #jet͡ʃˈesɑ#
