@@ -47,7 +47,7 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 [+syl,-stres,-lo] > [-syl,-long,+hi] / __ [+syl,+hi] $ syneresis early
 [+syl,-stres,-lo,+back] > [-syl,-long,+hi] / __ [+syl,-back] $ syneresis early
 [+syl,-stres,-lo,-back] > [-syl,-long,+hi] / __ [+syl,+back] $ syneresis early
-[+syl,-long,+stres,-hi,-lo] > [-tense] $ mid lowering
+[+syl,-long,+prim,-hi,-lo] > [-tense] $ mid lowering
 [+syl,-long] > [-hi] $ hi_lowering
 [+syl] > [-long] $recurrent rule,unlong, shorten long vowels
 r > ɾ
@@ -63,7 +63,7 @@ $ɾ > r / __ r $(above change applied to all consonants so we revert it before r
 e > i / __ j $ front raising
 ˌe > ˌi / __ j $ front raising
 ˈe > ˈi / __ j $ front raising
-[+cons,+hi,+voi] > j / [+syl] __ [+cons,-back] $ velar yod early
+[+cons,+hi] > j / [+syl] __ [+cons,-back] $ velar yod early
 [+nas,+cor] > ɲ / j __ $ nasal palatal
 [+nas,+cor] > ɲ / __ j $ nasal palatal (combine?)
 [+lat] > ʎ / j __ $ lateral palatalization (combine with nasal?) $(62) Has desired effect. Gemination mismatch in some forms but rule is good.
@@ -111,7 +111,7 @@ $[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅ $ glide metathesi
 [-cont] > [+voi] / [+syl] __ [+son] $ voicing part 2 -- see above. 
 
 [+lat] > w / [+lo] __ [+cons] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good.
-[+lat] > j / [+back] __ [+cons] $ lateral vocalization for molto > mojto type cases. $(99) seems good although there are -ll- being affected which are not in his version?
+[+lat] > j / [+back] __ [+cons,-lat] $ lateral vocalization for molto > mojto type cases. $(99) seems good although there are -ll- being affected which are not in his version?
 {t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disj
 [+front,+syl,-stres,+hi] > j / __ [+syl] $ syneresis_late $(101) !no context
 [+front,+syl,-stres] > j / __ [+syl,+back] $ syneresis_late $(102)
@@ -129,8 +129,8 @@ $[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is
 [+syl,-tense] > [+tense] / __ (@) (@) [+hi,+front] $ low raising,palatal can be 1st 2nd or 3rd phoneme following $(110) good - added below
 [+syl,-tense] > [+tense] / __ (@) (@) [-cons,-syl] $ low raising,glide can be 1st 2nd or 3rd phoneme following
 [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ $ progressive raising (e>i / V ʝ __ ) $(111) Fixed. Context is / V ʝ __ 
-∅ > e / [-tense] __ $diphthongization (part a)
-[-tense,αstres,βprim] e > [+tense,+hi,-syl] [αstres,βprim] $diphthongization (part b)
+∅ > e / [-tense,+prim] __ $diphthongization (part a)
+[-tense,+prim] e > [+tense,+hi,-syl] [+prim] $diphthongization (part b)
 ʝ > ∅ / # __ [+syl,-stres,+front] $recurrent, palatal deletion $(118) all good
 ʝ > ∅ / [+lat] __ [+syl,+front] $recurrent, palatal deletion
 ʝ > ∅ / [+lat] __ [+syl,+front] $recurrent, palatal deletion
@@ -193,7 +193,7 @@ t̪ l > l t̪ $sonorant metathesis. This one may be vacuous (was for Hartmann's 
 $[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happens at the same time. TODO suppressed (CM) @Aug 30, as this appears unnecessary and has bad side effects -- was there a copy-paste here? 
 [+cons,-cont,+voi,-delrel,-son] > [+cont] $spirantization.
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization.
-[+syl,-lo,-hi] > ∅ / [+syl] {[+ant,+delrel];ɾ;[+cont,-strid,+cor]} __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant". CM @Aug30:  Although his documentation says "delayed-release", the actual behavior of this rule deletes -e after ɾ, ð, l -- as well as dz, ts -- so coronal sonorants, tap ɾ, and alveolar affricates, it seems. Previous form [+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # 
+e > ∅ / [+syl] {[+ant,+delrel];ɾ;[+cont,-strid,+cor]} __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant". CM @Aug30:  Although his documentation says "delayed-release", the actual behavior of this rule deletes -e after ɾ, ð, l -- as well as dz, ts -- so coronal sonorants, tap ɾ, and alveolar affricates, it seems. Previous form [+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # 
 [-hi,-stres] [+hi,+stres] > [+stres] [-stres] $ restress
 [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl] $raising-by_diphthong
 [+syl,-lo,-stres] > [+hi] / __ [+cons] ([+cons]) [-cons,-syl] $raising_by_diphthong extra effect on unstressed vowels two Cs away from glide 
