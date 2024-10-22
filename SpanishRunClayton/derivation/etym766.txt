@@ -1,13 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :766:
-#rˌiːpˈɑːriɑm# >>> #ribˈɑɾjɑ# ( GOLD : #ribˈeɾɑ#) :
+#rˌiːpˈɑːriɑm# >>> #ribˈeɾɑ# ( GOLD : #ribˈeɾɑ#) :
 r ˌiː p ˈɑː r i ɑ m 
 #rˌiːpˈɑːriɑ# | 32 : [+nas] > ∅ / [-stres] __ #
 #rˌiːpˈɑːrjɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
 #rˌipˈɑrjɑ# | 51 : [+syl] > [-long,-splng] 
 #ɾˌipˈɑɾjɑ# | 52 : r > ɾ 
-#ɾˌibˈɑɾjɑ# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
-#ɾˌiβˈɑɾjɑ# | 169 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#rˌiβˈɑɾjɑ# | 205 : ɾ > r / # __ 
-#rˌibˈɑɾjɑ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#ribˈɑɾjɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ribˈɑɾjɑ#
+#ɾˌipˈɑe̯ɾjɑ# | 95 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+#ɾˌipˈɑjɾɑ# | 97 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#ɾˌibˈɑjɾɑ# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#ɾˌibˈejɾɑ# | 141 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɾˌibˈeːɾɑ# | 156 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɾˌibˈeɾɑ# | 157 : [+syl] > [-long,-splng] 
+#ɾˌiβˈeɾɑ# | 173 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#rˌiβˈeɾɑ# | 209 : ɾ > r / # __ 
+#rˌibˈeɾɑ# | 210 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ribˈeɾɑ# | 211 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ribˈeɾɑ#

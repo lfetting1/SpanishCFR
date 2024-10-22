@@ -1,13 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :506:
-#mˈet̪um# >>> #mjˈed̪# ( GOLD : #mjˈed̪o#) :
+#mˈet̪um# >>> #mjˈed̪o# ( GOLD : #mjˈed̪o#) :
 m ˈe t̪ u m 
 #mˈet̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#mˈɛt̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˈɛt̪u# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #mˈɛt̪o# | 50 : [+syl,-long] > [-hi] 
-#mˈɛd̪o# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
-#mˈɛed̪o# | 114 : ∅ > e / [-tense] __ 
-#mjˈed̪o# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#mjˈeðo# | 169 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#mjˈeð# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#mjˈed̪# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-Final form : #mjˈed̪#
+#mˈɛd̪o# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#mˈɛed̪o# | 118 : ∅ > e / [-tense,+prim] __ 
+#mjˈed̪o# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#mjˈeðo# | 173 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#mjˈed̪o# | 210 : {β;ð;ɣ} > {b;d̪;ɡ} 
+Final form : #mjˈed̪o#

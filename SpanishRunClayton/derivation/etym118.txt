@@ -1,16 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :118:
-#fˈiːksum# >>> #ˈixo# ( GOLD : #fˈixo#) :
+#fˈiːksum# >>> #ˈiso# ( GOLD : #fˈixo#) :
 f ˈiː k s u m 
 #fˈiːksu# | 32 : [+nas] > ∅ / [-stres] __ #
 #fˈiːxsu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #fˈiːxso# | 50 : [+syl,-long] > [-hi] 
 #fˈixso# | 51 : [+syl] > [-long,-splng] 
-#fˈijso# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ɸˈijso# | 123 : {v;f} > {β;ɸ} 
-#ɸˈijʃo# | 150 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#ɸˈiːʃo# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɸˈiʃo# | 153 : [+syl] > [-long,-splng] 
-#hˈiʃo# | 183 : ɸ > h / __ [+syl]
-#ˈiʃo# | 185 : h > ∅ 
-#ˈixo# | 198 : ʃ > x 
-Final form : #ˈixo#
+#fˈijso# | 61 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
+#fˈiso# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#fˈizo# | 102 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#ɸˈizo# | 127 : {v;f} > {β;ɸ} 
+#hˈizo# | 187 : ɸ > h / __ [+syl]
+#ˈizo# | 189 : h > ∅ 
+#ˈiso# | 200 : [+strid] > [-voi] 
+Final form : #ˈiso#

@@ -1,23 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :975:
-#wˌermˈikulum# >>> #bjeɾmˈel# ( GOLD : #beɾmˈexo#) :
+#wˌermˈikulum# >>> #beɾmˈexo# ( GOLD : #beɾmˈexo#) :
 w ˌe r m ˈi k u l u m 
 #ɣʷˌermˈikulum# | 18 : w > ɣʷ / __ [+syl]
 #ɣʷˌermˈiklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
 #ɣʷˌermˈiklu# | 32 : [+nas] > ∅ / [-stres] __ #
 #βˌermˈiklu# | 37 : ɣʷ > β 
 #βˌermˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#βˌɛrmˈixlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#βˌɛrmˈexlo# | 50 : [+syl,-long] > [-hi] 
-#βˌɛɾmˈexlo# | 52 : r > ɾ 
-#βˌɛɾmˈeɣlo# | 98 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#vˌɛɾmˈeɣlo# | 106 : β > v 
-#vˌɛɾmˈejlo# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#vˌɛeɾmˈejlo# | 114 : ∅ > e / [-tense] __ 
-#vjˌeɾmˈejlo# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#βjˌeɾmˈejlo# | 123 : {v;f} > {β;ɸ} 
-#βjˌeɾmˈeːlo# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#βjˌeɾmˈelo# | 153 : [+syl] > [-long,-splng] 
-#βjˌeɾmˈel# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#bjˌeɾmˈel# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#bjeɾmˈel# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bjeɾmˈel#
+#βˌermˈexlo# | 50 : [+syl,-long] > [-hi] 
+#βˌeɾmˈexlo# | 52 : r > ɾ 
+#βˌeɾmˈejlo# | 61 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
+#βˌeɾmˈejʎo# | 64 : [+lat] > ʎ / j __ 
+#βˌeɾmˈeʎo# | 78 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#vˌeɾmˈeʎo# | 110 : β > v 
+#βˌeɾmˈeʎo# | 127 : {v;f} > {β;ɸ} 
+#βˌeɾmˈed͡ʒo# | 128 : ʎ > d͡ʒ 
+#βˌeɾmˈeʒo# | 129 : d͡ʒ > ʒ 
+#βˌeɾmˈeʃo# | 200 : [+strid] > [-voi] 
+#βˌeɾmˈexo# | 202 : ʃ > x 
+#bˌeɾmˈexo# | 210 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#beɾmˈexo# | 211 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #beɾmˈexo#

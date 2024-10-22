@@ -1,14 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1046:
-#ˈokulum# >>> #wˈel# ( GOLD : #ˈoxo#) :
+#ˈokulum# >>> #ˈoxo# ( GOLD : #ˈoxo#) :
 ˈo k u l u m 
 #ˈoklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
 #ˈoklu# | 32 : [+nas] > ∅ / [-stres] __ #
 #ˈoxlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˈɔxlu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɔxlu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˈɔxlo# | 50 : [+syl,-long] > [-hi] 
-#ˈɔɣlo# | 98 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#ˈɔjlo# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˈojlo# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#wˈelo# | 168 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#wˈel# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #wˈel#
+#ˈɔjlo# | 61 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
+#ˈɔjʎo# | 64 : [+lat] > ʎ / j __ 
+#ˈɔʎo# | 78 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#ˈoʎo# | 115 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ˈod͡ʒo# | 128 : ʎ > d͡ʒ 
+#ˈoʒo# | 129 : d͡ʒ > ʒ 
+#ˈoʃo# | 200 : [+strid] > [-voi] 
+#ˈoxo# | 202 : ʃ > x 
+Final form : #ˈoxo#

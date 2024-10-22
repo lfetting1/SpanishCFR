@@ -3,8 +3,8 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :672:
 p ˈo s t̪ 
 #pˈos̪t̪# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
 #pˈos̪# | 34 : [+cons,-cont] > ∅ / __ #
-#pˈɔs̪# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˈɔes̪# | 114 : ∅ > e / [-tense] __ 
-#pwˈes̪# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#pwˈeθ# | 200 : s̪ > θ / __ #
+#pˈɔs̪# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#pˈɔes̪# | 118 : ∅ > e / [-tense,+prim] __ 
+#pwˈes̪# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#pwˈeθ# | 204 : s̪ > θ / __ #
 Final form : #pwˈeθ#

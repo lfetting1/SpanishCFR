@@ -1,24 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :43:
-#d̪ˌekˈembrem# >>> #d̪jeθˈembɾe# ( GOLD : #d̪iθjˈembɾe#) :
+#d̪ˌekˈembrem# >>> #d̪eθˈembɾe# ( GOLD : #d̪iθjˈembɾe#) :
 d̪ ˌe k ˈe m b r e m
 #d̪ˌekˈeːmbrem# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #d̪ˌekˈeːmbre# | 32 : [+nas] > ∅ / [-stres] __ #
-#d̪ˌɛkˈeːmbre# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#d̪ˌɛkˈembre# | 51 : [+syl] > [-long,-splng] 
-#d̪ˌɛkˈembɾe# | 52 : r > ɾ 
-#d̪ˌɛkjˈembɾe# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d̪ˌɛt͡ʃjˈembɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d̪ˌɛt͡ʃˈembɾe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ðˌɛt͡ʃˈemβɾe# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ðˌɛd͡ʒˈemβɾe# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
-#ðˌɛd͡zˈemβɾe# | 102 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ðˌɛd͡zˈemvɾe# | 106 : β > v 
-#ðˌɛed͡zˈemvɾe# | 114 : ∅ > e / [-tense] __ 
-#ðjˌed͡zˈemvɾe# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ðjˌed͡zˈemβɾe# | 123 : {v;f} > {β;ɸ} 
-#ðjˌez̪ˈemβɾe# | 195 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ðjˌes̪ˈemβɾe# | 196 : [+strid] > [-voi] 
-#ðjˌeθˈemβɾe# | 199 : s̪ > θ / __ [-cons]
-#d̪jˌeθˈembɾe# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#d̪jeθˈembɾe# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #d̪jeθˈembɾe#
+#d̪ˌekˈembre# | 51 : [+syl] > [-long,-splng] 
+#d̪ˌekˈembɾe# | 52 : r > ɾ 
+#d̪ˌekjˈembɾe# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d̪ˌet͡ʃjˈembɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d̪ˌet͡ʃˈembɾe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ðˌet͡ʃˈemβɾe# | 99 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˌed͡ʒˈemβɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#ðˌed͡zˈemβɾe# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ðˌed͡zˈemvɾe# | 110 : β > v 
+#ðˌed͡zˈemβɾe# | 127 : {v;f} > {β;ɸ} 
+#ðˌez̪ˈemβɾe# | 199 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ðˌes̪ˈemβɾe# | 200 : [+strid] > [-voi] 
+#ðˌeθˈemβɾe# | 203 : s̪ > θ / __ [-cons]
+#d̪ˌeθˈembɾe# | 210 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#d̪eθˈembɾe# | 211 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #d̪eθˈembɾe#

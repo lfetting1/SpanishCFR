@@ -1,14 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :354:
-#kˌolˈobrɑ# >>> #kwilwˈebɾɑ# ( GOLD : #kulˈebɾɑ#) :
+#kˌolˈobrɑ# >>> #kulˈebɾɑ# ( GOLD : #kulˈebɾɑ#) :
 k ˌo l ˈo b r ɑ 
-#kˌɔlˈɔbrɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔlˈɔbɾɑ# | 52 : r > ɾ 
-#kˌɔlˈɔβɾɑ# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#kˌɔlˈɔvɾɑ# | 106 : β > v 
-#kˌɔelˈɔevɾɑ# | 114 : ∅ > e / [-tense] __ 
-#kwˌelwˈevɾɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#kwˌelwˈeβɾɑ# | 123 : {v;f} > {β;ɸ} 
-#kwˌilwˈeβɾɑ# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#kwˌilwˈebɾɑ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#kwilwˈebɾɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kwilwˈebɾɑ#
+#kˌolˈɔbrɑ# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌolˈɔbɾɑ# | 52 : r > ɾ 
+#kˌolˈɔβɾɑ# | 99 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#kˌolˈɔvɾɑ# | 110 : β > v 
+#kˌolˈɔevɾɑ# | 118 : ∅ > e / [-tense,+prim] __ 
+#kˌolwˈevɾɑ# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kˌolwˈeβɾɑ# | 127 : {v;f} > {β;ɸ} 
+#kˌulwˈeβɾɑ# | 179 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#kˌulˈeβɾɑ# | 186 : [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]
+#kˌulˈebɾɑ# | 210 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#kulˈebɾɑ# | 211 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kulˈebɾɑ#

@@ -1,16 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :383:
-#kˌubˈikulum# >>> #koˈel# ( GOLD : #kobˈixo#) :
+#kˌubˈikulum# >>> #koˈexo# ( GOLD : #kobˈixo#) :
 k ˌu b ˈi k u l u m 
 #kˌubˈiklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
 #kˌubˈiklu# | 32 : [+nas] > ∅ / [-stres] __ #
 #kˌubˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #kˌobˈexlo# | 50 : [+syl,-long] > [-hi] 
-#kˌoβˈexlo# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#kˌoˈexlo# | 97 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#kˌoˈeɣlo# | 98 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#kˌoˈejlo# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#kˌoˈeːlo# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˌoˈelo# | 153 : [+syl] > [-long,-splng] 
-#kˌoˈel# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#koˈel# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #koˈel#
+#kˌobˈejlo# | 61 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
+#kˌobˈejʎo# | 64 : [+lat] > ʎ / j __ 
+#kˌobˈeʎo# | 78 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#kˌoβˈeʎo# | 99 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#kˌoˈeʎo# | 101 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#kˌoˈed͡ʒo# | 128 : ʎ > d͡ʒ 
+#kˌoˈeʒo# | 129 : d͡ʒ > ʒ 
+#kˌoˈeʃo# | 200 : [+strid] > [-voi] 
+#kˌoˈexo# | 202 : ʃ > x 
+#koˈexo# | 211 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #koˈexo#

@@ -2,20 +2,20 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1023:
 #ɡˌɑllˈellum# >>> #ɡulˈiʝo# ( GOLD : #ɡɑlˈiʝo#) :
 ɡ ˌɑ l l ˈe l l u m 
 #ɡˌɑllˈellu# | 32 : [+nas] > ∅ / [-stres] __ #
-#ɡˌɑllˈɛllu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ɡˌɑllˈɛllu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ɡˌɑllˈɛllo# | 50 : [+syl,-long] > [-hi] 
-#ɣˌɑllˈɛllo# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ɣˌɑwlˈɛllo# | 100 : [+lat] > w / [+lo] __ [+cons]
-#ɣˌɑwlˈɛello# | 114 : ∅ > e / [-tense] __ 
-#ɣˌɑwljˈello# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ɣˌɑwljˈeʎo# | 132 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#ɣˌowljˈeʎo# | 137 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ɣˌoːljˈeʎo# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɣˌoljˈeʎo# | 153 : [+syl] > [-long,-splng] 
-#ɣˌuljˈeʎo# | 175 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#ɣˌuljˈiʎo# | 186 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-#ɣˌulˈiʎo# | 191 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ɡˌulˈiʎo# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#ɡulˈiʎo# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-#ɡulˈiʝo# | 208 : ʎ > ʝ 
+#ɣˌɑllˈɛllo# | 99 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ɣˌɑwlˈɛllo# | 104 : [+lat] > w / [+lo] __ [+cons]
+#ɣˌɑwlˈɛello# | 118 : ∅ > e / [-tense,+prim] __ 
+#ɣˌɑwljˈello# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ɣˌɑwljˈeʎo# | 136 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#ɣˌowljˈeʎo# | 141 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɣˌoːljˈeʎo# | 156 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɣˌoljˈeʎo# | 157 : [+syl] > [-long,-splng] 
+#ɣˌuljˈeʎo# | 179 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ɣˌuljˈiʎo# | 190 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#ɣˌulˈiʎo# | 195 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ɡˌulˈiʎo# | 210 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ɡulˈiʎo# | 211 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ɡulˈiʝo# | 212 : ʎ > ʝ 
 Final form : #ɡulˈiʝo#

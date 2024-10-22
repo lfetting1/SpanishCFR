@@ -3,11 +3,11 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :57:
 d̪ ˈo m i n̪ ɑ m 
 #d̪ˈomn̪ɑm# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
 #d̪ˈomn̪ɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#d̪ˈɔmn̪ɑ# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#d̪ˈɔmn̪ɑ# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #d̪ˈɔn̪n̪ɑ# | 67 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
-#ðˈɔn̪n̪ɑ# | 95 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ðˈɔen̪n̪ɑ# | 114 : ∅ > e / [-tense] __ 
-#ðwˈen̪n̪ɑ# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ðwˈeɲɑ# | 132 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#d̪wˈeɲɑ# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ðˈɔn̪n̪ɑ# | 99 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˈɔen̪n̪ɑ# | 118 : ∅ > e / [-tense,+prim] __ 
+#ðwˈen̪n̪ɑ# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ðwˈeɲɑ# | 136 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#d̪wˈeɲɑ# | 210 : {β;ð;ɣ} > {b;d̪;ɡ} 
 Final form : #d̪wˈeɲɑ#

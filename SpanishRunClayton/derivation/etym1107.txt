@@ -4,10 +4,10 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1107:
 #ˌiːmpˈosit̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
 #ˌiːmpˈost̪um# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] [+syl,-prim]
 #ˌiːmpˈost̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌiːmpˈɔst̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌiːmpˈɔst̪u# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˌiːmpˈɔst̪o# | 50 : [+syl,-long] > [-hi] 
 #ˌimpˈɔst̪o# | 51 : [+syl] > [-long,-splng] 
-#ˌimpˈɔest̪o# | 114 : ∅ > e / [-tense] __ 
-#ˌimpwˈest̪o# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#impwˈest̪o# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌimpˈɔest̪o# | 118 : ∅ > e / [-tense,+prim] __ 
+#ˌimpwˈest̪o# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#impwˈest̪o# | 211 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #impwˈest̪o#

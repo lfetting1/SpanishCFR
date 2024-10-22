@@ -3,16 +3,16 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :743:
 r ˈo t̪ u l u m 
 #rˈot̪lum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
 #rˈot̪lu# | 32 : [+nas] > ∅ / [-stres] __ #
-#rˈɔt̪lu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#rˈɔt̪lu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #rˈɔt̪lo# | 50 : [+syl,-long] > [-hi] 
 #ɾˈɔt̪lo# | 52 : r > ɾ 
-#ɾˈɔd̪lo# | 99 : [-cont] > [+voi] / [+syl] __ [+son]
-#ɾˈɔed̪lo# | 114 : ∅ > e / [-tense] __ 
-#ɾwˈed̪lo# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ɾwˈed̪ʎo# | 128 : [+lat] > ʎ / [-son] __ 
-#ɾwˈed̪lo# | 134 : ʎ > l / [+cons,+voi] __ 
-#ɾwˈeld̪o# | 163 : d̪ l > l d̪ 
-#ɾwˈelðo# | 169 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#rwˈelðo# | 205 : ɾ > r / # __ 
-#rwˈeld̪o# | 206 : {β;ð;ɣ} > {b;d̪;ɡ} 
+#ɾˈɔd̪lo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#ɾˈɔed̪lo# | 118 : ∅ > e / [-tense,+prim] __ 
+#ɾwˈed̪lo# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ɾwˈed̪ʎo# | 132 : [+lat] > ʎ / [-son] __ 
+#ɾwˈed̪lo# | 138 : ʎ > l / [+cons,+voi] __ 
+#ɾwˈeld̪o# | 167 : d̪ l > l d̪ 
+#ɾwˈelðo# | 173 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#rwˈelðo# | 209 : ɾ > r / # __ 
+#rwˈeld̪o# | 210 : {β;ð;ɣ} > {b;d̪;ɡ} 
 Final form : #rwˈeld̪o#

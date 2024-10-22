@@ -2,9 +2,9 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :914:
 #t̪ˈort̪um# >>> #t̪wˈeɾt̪o# ( GOLD : #t̪wˈeɾt̪o#) :
 t̪ ˈo r t̪ u m 
 #t̪ˈort̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#t̪ˈɔrt̪u# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#t̪ˈɔrt̪u# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #t̪ˈɔrt̪o# | 50 : [+syl,-long] > [-hi] 
 #t̪ˈɔɾt̪o# | 52 : r > ɾ 
-#t̪ˈɔeɾt̪o# | 114 : ∅ > e / [-tense] __ 
-#t̪wˈeɾt̪o# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
+#t̪ˈɔeɾt̪o# | 118 : ∅ > e / [-tense,+prim] __ 
+#t̪wˈeɾt̪o# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
 Final form : #t̪wˈeɾt̪o#

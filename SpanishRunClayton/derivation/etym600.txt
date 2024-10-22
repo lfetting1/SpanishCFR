@@ -2,9 +2,9 @@ Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :600:
 #n̪ˈokt̪e# >>> #n̪ˈot͡ʃe# ( GOLD : #n̪ˈot͡ʃe#) :
 n̪ ˈo k t̪ e 
 #n̪ˈoxt̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#n̪ˈɔxt̪e# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#n̪ˈɔjt̪e# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#n̪ˈojt̪e# | 111 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#n̪ˈojt͡ʃe# | 150 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#n̪ˈot͡ʃe# | 158 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#n̪ˈɔxt̪e# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#n̪ˈɔjt̪e# | 61 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
+#n̪ˈojt̪e# | 115 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#n̪ˈojt͡ʃe# | 154 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+#n̪ˈot͡ʃe# | 162 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
 Final form : #n̪ˈot͡ʃe#

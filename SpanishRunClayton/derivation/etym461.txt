@@ -1,12 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :461:
-#lˈɑksos# >>> #lˈexs# ( GOLD : #lˈexos#) :
+#lˈɑksos# >>> #lˈess# ( GOLD : #lˈexos#) :
 l ˈɑ k s o s 
 #lˈɑxsos# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#lˈɑjsos# | 107 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#lˈɑjss# | 135 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#lˈejss# | 137 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#lˈejʃs# | 150 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#lˈeːʃs# | 152 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˈeʃs# | 153 : [+syl] > [-long,-splng] 
-#lˈexs# | 198 : ʃ > x 
-Final form : #lˈexs#
+#lˈɑjsos# | 61 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
+#lˈɑjzos# | 102 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#lˈɑjzs# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#lˈejzs# | 141 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#lˈeːzs# | 156 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˈezs# | 157 : [+syl] > [-long,-splng] 
+#lˈess# | 200 : [+strid] > [-voi] 
+Final form : #lˈess#

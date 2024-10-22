@@ -1,14 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :110:
-#fˈerrum# >>> #fjˈer# ( GOLD : #ʝˈero#) :
+#fˈerrum# >>> #fjˈero# ( GOLD : #ʝˈero#) :
 f ˈe r r u m 
 #fˈerru# | 32 : [+nas] > ∅ / [-stres] __ #
-#fˈɛrru# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#fˈɛrru# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #fˈɛrro# | 50 : [+syl,-long] > [-hi] 
 #fˈɛɾɾo# | 52 : r > ɾ 
 #fˈɛro# | 53 : ɾ ɾ > r 
-#fˈɛero# | 114 : ∅ > e / [-tense] __ 
-#fjˈero# | 115 : [-tense,αstres,βprim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [αstres,βprim]
-#ɸjˈero# | 123 : {v;f} > {β;ɸ} 
-#ɸjˈer# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#fjˈer# | 184 : ɸ > f 
-Final form : #fjˈer#
+#fˈɛero# | 118 : ∅ > e / [-tense,+prim] __ 
+#fjˈero# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ɸjˈero# | 127 : {v;f} > {β;ɸ} 
+#fjˈero# | 188 : ɸ > f 
+Final form : #fjˈero#
