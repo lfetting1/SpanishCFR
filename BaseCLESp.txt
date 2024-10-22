@@ -1,4 +1,4 @@
-[+lo] e̯ > [+back,-front] j $fix ae diphthong to what Hartmann treats it as. 
+[-hi] e̯ > [+back,-front] j $fix ae and oe diphthongs to what Hartmann treats them as
 h > ∅ $ h_deletion
 [+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
 [+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depilatalization
@@ -16,10 +16,19 @@ h > ∅ $ h_deletion
 ð > d̪ / l __ $ recurrent rule,stopping
 [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
 w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply on low-back vowel.)
+
+$bandaid insertion -- hartmann has kʷ and gʷ not kw and gw 
+[-cont,+back,-round] w > [+lab,+round] ∅
+
 w > [+cons,-son] / __ [+syl] $ glide fortition,recurrent rule
 j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug 12, made into fricative
 [+ant,-distr,+strid] > [+ant,+distr,+strid] / __ [+ant,+distr] $ recurrent rule,dental_s
-{ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} $ fronting
+
+$fronting -- new version as of Oct22
+{ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j $ fronting
+$fronting -- old version
+${ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} $ fronting
+
 [-lo,-hi,-tense,+syl,-prim,+front] > [+tense] $atonic-epsilon, "no unstressed ɛ," Hartman's rule seems to only leave ɛ with primary stress, as his model does not have secondary stress
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
@@ -82,8 +91,14 @@ e > i / __ j $ front raising
 [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ $ recurrent rule,waw absorption $(73) Fixed. No effect (reasonable)
 [-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
 [-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
-w > ∅ / [+cons,+back] __ [-lo,+syl,-stres] $[+cons] > [-round] / # __ [-lo,+syl,-stres] $ unround $(76) !No effect.
-w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify rule UNROUND. Will affect /a/ when it shouldn't - symb def differences.
+
+$unround, fixed. CM 10/22
+[-son,+round] > [-round,-lab] / __ [+syl,-lo]
+[-son,+round] > [-round,-lab] / # __ [+lo,-prim]
+$previous version commented out before. 
+$w > ∅ / [+cons,+back] __ [-lo,+syl,-stres] $[+cons] > [-round] / # __ [-lo,+syl,-stres] $ unround $(76) !No effect.
+$w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify rule UNROUND. Will affect /a/ when it shouldn't - symb def differences.
+
 [+cons,+back,+voi,-cont] > ∅ / # __ [+lat] $ pl>ll early $(77) Fixed.
 
 $new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has no examples with w yet clearly implied it should effect w with his "G:  ant (*) = back (*+1) «...»". 
@@ -226,7 +241,7 @@ s > z / [-cons] __ [+cons,+voi] $regressive_voicing -- s aspect.
 [-voi] > [+voi] / [-cons] __ l $ regressive voicing, before /l/-- non /s/ aspect
 [-son] > [αvoi] / [-cons] __ [-cont,αvoi] $regressive voicing, assimilation aspect (for non-/s/). 
 ∅ > e / # __ s [+cons] $ prothesis
-$kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w . CM @Aug31 - suppressed. No reason for this.
+kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format: [+cons,+round,-voi,-cont] > [-round] w . CM @Aug31 - suppressed. No reason for this. Oct22 -- desuppressed. 
 ɾ > r / # __ $ initial trill. CM @Aug31 -- weirdly this semes to by accident effect #fr initials in Hartmann's Phono output but I don't think this is intended, nor desired, so let's not put it in. As of present this appears to bled -- reexamine.
 
 {β;ð;ɣ} > {b;d̪;ɡ} $AUXILIARY - rectify lexicon's representation of bdg

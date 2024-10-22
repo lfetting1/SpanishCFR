@@ -1,11 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1026:
-#ˈae̯rem# >>> #ˈeɾ# ( GOLD : #ˈɑjɾe#) :
+#ˈae̯rem# >>> #jˈeɾ# ( GOLD : #ˈɑjɾe#) :
 ˈa e̯ r e m 
-#ˈɑjrem# | 0 : [+lo] e̯ > [+back,-front] j
-#ˈɑjre# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˈɑjɾe# | 52 : r > ɾ 
-#ˈejɾe# | 141 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˈeːɾe# | 156 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˈeɾe# | 157 : [+syl] > [-long,-splng] 
-#ˈeɾ# | 176 : e > ∅ / [+syl] ɾ __ #
-Final form : #ˈeɾ#
+#ˈɑjrem# | 0 : [-hi] e̯ > [+back,-front] j
+#ˈɛjrem# | 22 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#ˈɛːrem# | 24 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˈɛːre# | 33 : [+nas] > ∅ / [-stres] __ #
+#ˈɛre# | 52 : [+syl] > [-long,-splng] 
+#ˈɛɾe# | 53 : r > ɾ 
+#ˈɛeɾe# | 119 : ∅ > e / [-tense,+prim] __ 
+#jˈeɾe# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#jˈeɾ# | 177 : e > ∅ / [+syl] ɾ __ #
+Final form : #jˈeɾ#

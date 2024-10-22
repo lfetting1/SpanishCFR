@@ -1,16 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :858:
-#sˌekwˈen̪t̪e# >>> #sebˈen̪t̪e# ( GOLD : #siɡjˈen̪t̪e#) :
+#sˌekwˈen̪t̪e# >>> #siɣʷjˈen̪t̪e# ( GOLD : #siɡjˈen̪t̪e#) :
 s ˌe k w ˈe n̪ t̪ e 
 #sˌekwˈeːn̪t̪e# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#sˌekɣʷˈeːn̪t̪e# | 18 : w > ɣʷ / __ [+syl]
-#sˌekβˈeːn̪t̪e# | 37 : ɣʷ > β 
-#sˌexβˈeːn̪t̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#sˌexβˈen̪t̪e# | 51 : [+syl] > [-long,-splng] 
-#sˌejβˈen̪t̪e# | 61 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#sˌejvˈen̪t̪e# | 110 : β > v 
-#sˌejβˈen̪t̪e# | 127 : {v;f} > {β;ɸ} 
-#sˌeːβˈen̪t̪e# | 156 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#sˌeβˈen̪t̪e# | 157 : [+syl] > [-long,-splng] 
-#sˌebˈen̪t̪e# | 210 : {β;ð;ɣ} > {b;d̪;ɡ} 
-#sebˈen̪t̪e# | 211 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #sebˈen̪t̪e#
+#sˌekʷˈeːn̪t̪e# | 18 : [-cont,+back,-round] w > [+lab,+round] ∅
+#sˌekʷˈen̪t̪e# | 52 : [+syl] > [-long,-splng] 
+#sˌekʷjˈen̪t̪e# | 72 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#sˌeɡʷjˈen̪t̪e# | 104 : [-cont] > [+voi] / [+syl] __ [+son]
+#sˌeɣʷjˈen̪t̪e# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#sˌiɣʷjˈen̪t̪e# | 180 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#siɣʷjˈen̪t̪e# | 213 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #siɣʷjˈen̪t̪e#

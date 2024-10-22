@@ -1,19 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :229:
-#kwˈae̯rit̪# >>> #kˈeɾ# ( GOLD : #kjˈeɾe#) :
+#kwˈae̯rit̪# >>> #kwjˈeɾ# ( GOLD : #kjˈeɾe#) :
 k w ˈa e̯ r i t̪ 
-#kwˈɑjrit̪# | 0 : [+lo] e̯ > [+back,-front] j
-#kɣʷˈɑjrit̪# | 18 : w > ɣʷ / __ [+syl]
-#kɣʷˈɑjri# | 34 : [+cons,-cont] > ∅ / __ #
-#kβˈɑjri# | 37 : ɣʷ > β 
-#kβˈɑjre# | 50 : [+syl,-long] > [-hi] 
-#kβˈɑjɾe# | 52 : r > ɾ 
-#kvˈɑjɾe# | 110 : β > v 
-#kβˈɑjɾe# | 127 : {v;f} > {β;ɸ} 
-#kɸˈɑjɾe# | 140 : [-son] > [-voi] / [-voi] __ 
-#kɸˈejɾe# | 141 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#kɸˈeːɾe# | 156 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kɸˈeɾe# | 157 : [+syl] > [-long,-splng] 
-#kɸˈeɾ# | 176 : e > ∅ / [+syl] ɾ __ #
-#khˈeɾ# | 187 : ɸ > h / __ [+syl]
-#kˈeɾ# | 189 : h > ∅ 
-Final form : #kˈeɾ#
+#kwˈɑjrit̪# | 0 : [-hi] e̯ > [+back,-front] j
+#kʷˈɑjrit̪# | 18 : [-cont,+back,-round] w > [+lab,+round] ∅
+#kʷˈɛjrit̪# | 22 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#kʷˈɛːrit̪# | 24 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kʷˈɛːri# | 35 : [+cons,-cont] > ∅ / __ #
+#kʷˈɛːre# | 51 : [+syl,-long] > [-hi] 
+#kʷˈɛre# | 52 : [+syl] > [-long,-splng] 
+#kʷˈɛɾe# | 53 : r > ɾ 
+#kʷjˈɛɾe# | 72 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#kʷjˈɛeɾe# | 119 : ∅ > e / [-tense,+prim] __ 
+#kʷjjˈeɾe# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kʷjˈeɾe# | 162 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#kʷjˈeɾ# | 177 : e > ∅ / [+syl] ɾ __ #
+#kwjˈeɾ# | 210 : kʷ > k w 
+Final form : #kwjˈeɾ#
