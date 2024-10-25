@@ -2,9 +2,7 @@
 h > ∅ $ h_deletion
 [+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
 [+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depilatalization
-[+syl,-long] > [+syl,+long] / __[+nas] [-son] $prenasal lengthening
-[+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @ $ nasal assimilation
-[+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation
+[+syl,-long] > [+syl,+long] / __ [+nas] {[+cont,-son];@ [-son]} $prenasal lengthening
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son] $implosion
 [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+cons,-son,αvoi] $implosion 
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi] __ [+cons,-son,-strid] $ implosion
@@ -13,6 +11,8 @@ h > ∅ $ h_deletion
 [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+nas,αvoi] $implosion
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons,αvoi] __ [+lat] $implosion
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi] $implosion
+[+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @ $ nasal assimilation
+[+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation
 ð > d̪ / l __ $ recurrent rule,stopping
 [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
 w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply on low-back vowel.)
@@ -78,7 +78,7 @@ e > i / __ j $ front raising
 [+lat] > ʎ / j __ $ lateral palatalization (combine with nasal?) $(62) Has desired effect. Gemination mismatch in some forms but rule is good.
 [+lat] > ʎ / __ j $ lateral palatalization (combine?) $(63) Good but see above.
 [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel" $(64) works on forms in our cascade, however all cases are ee/oo - no je/wo. according to rule spec that would work as well though.
-{p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} $[-cont] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
+[-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] / __ [-son,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
 [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(66) currently no etyma effected but this part should work adequately.
 ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work based on formulation
 [+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] r > r [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
@@ -245,5 +245,6 @@ kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original format
 ɾ > r / # __ $ initial trill. CM @Aug31 -- weirdly this semes to by accident effect #fr initials in Hartmann's Phono output but I don't think this is intended, nor desired, so let's not put it in. As of present this appears to bled -- reexamine.
 
 {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} $AUXILIARY - rectify lexicon's representation of bdg
+z>s $AUXILIARY - rectify lexicon's representation of z (we have phonemic s w/ z as an allophone pre-voiced obstr)
 [-prim] > [-stres] $AUXILIARY -- remove countertonics for error analysis 
 ʎ > ʝ $Yeismo. Relatively modern change not reflected in Hartmann's rules but which is apparent in most modern Spanish. 
