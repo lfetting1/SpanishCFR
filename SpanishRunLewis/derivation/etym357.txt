@@ -1,12 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :357:
-#kˌomit̪ˈɑːt̪um# >>> #kwemt̪ˈɑd̪o# ( GOLD : #kon̪d̪ˈɑd̪o#) :
+#kˌomit̪ˈɑːt̪um# >>> #komt̪ˈɑd̪o# ( GOLD : #kon̪d̪ˈɑd̪o#) :
 k ˌo m i t̪ ˈɑː t̪ u m 
-#kˌomt̪ˈɑːt̪um# | 26 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+prim]
-#kˌomt̪ˈɑːt̪u# | 31 : [+nas] > ∅ / [-stres] __ #
-#kˌɔmt̪ˈɑːt̪u# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɔmt̪ˈɑːt̪o# | 49 : [+syl,-long] > [-hi] 
-#kˌɔmt̪ˈɑt̪o# | 50 : [+syl] > [-long,-splng] 
-#kˌɔmt̪ˈɑd̪o# | 92 : [-cont] > [+voi] / [+syl] __ [+son]
-#kwˌemt̪ˈɑd̪o# | 112 : ˌɔ > w ˌe 
-#kwemt̪ˈɑd̪o# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kwemt̪ˈɑd̪o#
+#kˌoːmit̪ˈɑːt̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
+#kˌoːmt̪ˈɑːt̪um# | 27 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+prim]
+#kˌoːmt̪ˈɑːt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌoːmt̪ˈɑːt̪o# | 50 : [+syl,-long] > [-hi] 
+#kˌomt̪ˈɑt̪o# | 51 : [+syl] > [-long,-splng] 
+#kˌomt̪ˈɑd̪o# | 101 : [-cont] > [+voi] / [+syl] __ [+son]
+#komt̪ˈɑd̪o# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #komt̪ˈɑd̪o#

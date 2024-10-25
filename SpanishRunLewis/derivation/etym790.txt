@@ -1,19 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :790:
-#spˈekiem# >>> #espjˈez̪# ( GOLD : #espˈeθje#) :
+#spˈekiem# >>> #espjˈeθ# ( GOLD : #espˈeθje#) :
 s p ˈe k i e m 
-#spˈekie# | 31 : [+nas] > ∅ / [-stres] __ #
-#spˈekieː# | 39 : [+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ 
-#spˈɛkieː# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#spˈɛkeeː# | 49 : [+syl,-long] > [-hi] 
-#spˈɛkee# | 50 : [+syl] > [-long,-splng] 
-#spˈɛke# | 60 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#spˈɛkje# | 65 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#spˈɛt͡ʃje# | 66 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#spˈɛt͡ʃe# | 70 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#spˈɛd͡ʒe# | 92 : [-cont] > [+voi] / [+syl] __ [+son]
-#spˈɛd͡ze# | 95 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#spjˈed͡ze# | 108 : ˈɛ > j ˈe 
-#spjˈed͡z# | 173 : [+syl,-lo,-hi] > ∅ / [+syl] [+ant,+delrel] __ #
-#spjˈez̪# | 197 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#espjˈez̪# | 205 : ∅ > e / # __ s [+cons]
-Final form : #espjˈez̪#
+#spˈekie# | 32 : [+nas] > ∅ / [-stres] __ #
+#spˈekieː# | 40 : [+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ 
+#spˈɛkieː# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#spˈɛkeeː# | 50 : [+syl,-long] > [-hi] 
+#spˈɛkee# | 51 : [+syl] > [-long,-splng] 
+#spˈɛke# | 61 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
+#spˈɛkje# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#spˈɛt͡ʃje# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#spˈɛt͡ʃe# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#spˈɛd͡ʒe# | 101 : [-cont] > [+voi] / [+syl] __ [+son]
+#spˈɛd͡ze# | 104 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#spˈɛed͡ze# | 116 : ∅ > e / [-tense,+prim] __ 
+#spjˈed͡ze# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#spjˈed͡z# | 178 : e > ∅ / [+syl] [+ant,+delrel] __ #
+#spjˈez̪# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#spjˈes̪# | 203 : [+strid] > [-voi] 
+#spjˈeθ# | 206 : s̪ > θ 
+#espjˈeθ# | 207 : ∅ > e / # __ s [+cons]
+Final form : #espjˈeθ#

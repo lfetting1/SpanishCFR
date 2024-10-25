@@ -1,12 +1,10 @@
-$[+lo] e̯ > [+back,-front] j $fix ae diphthong to what Hartmann treats it as. Commented out of diaclesp because it is less historically accurate
-
 h > ∅ $ h_deletion 
 
 [+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
 
 [+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depilatalization
 
-[+syl,-long] > [+syl,+long] / __[+nas] [-son] $prenasal lengthening
+[+syl,-long] > [+syl,+long] / __ [+nas] {[+cont,-son];@ [-son]} $prenasal lengthening
 
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son] $implosion
 
@@ -40,7 +38,13 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 
 [+ant,-distr,+strid] > [+ant,+distr,+strid] / __ [+ant,+distr] $ recurrent rule,dental_s
 
-{a e̯ ; o e̯; ˈa e̯ ; ˈo e̯;ˌa e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} $ fronting
+$fronting -- new version as of Oct22
+
+{ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j $ fronting
+
+$fronting -- old version
+
+${ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} $ fronting
 
 [-lo,-hi,-tense,+syl,-prim,+front] > [+tense] $atonic-epsilon, "no unstressed ɛ," Hartman's rule seems to only leave ɛ with primary stress, as his model does not have secondary stress
 
@@ -130,7 +134,7 @@ $ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it be
 
 [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel" $(64) works on forms in our cascade, however all cases are ee/oo - no je/wo. according to rule spec that would work as well though.
 
-{p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} $[-cont] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
+[-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
 
 [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(66) currently no etyma effected but this part should work adequately.
 
@@ -156,14 +160,24 @@ $ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it be
 
 [-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
 
-w > ∅ / [+cons,+back] __ [-lo,+syl,-stres] $[+cons] > [-round] / # __ [-lo,+syl,-stres] $ unround $(76) !No effect.
+$unround, fixed. CM 10/22
 
-w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify rule UNROUND. Will affect /a/ when it shouldn't - symb def differences.
+[-son,+round] > [-round,-lab] / __ [+syl,-lo]
+
+[-son,+round] > [-round,-lab] / # __ [+lo,-prim]
+
+$previous version commented out before. 
+
+$w > ∅ / [+cons,+back] __ [-lo,+syl,-stres] $[+cons] > [-round] / # __ [-lo,+syl,-stres] $ unround $(76) !No effect.
+
+$w > ∅ / [+cons,+back] __ [+syl,+front] $ unround $() Added to fully specify rule UNROUND. Will affect /a/ when it shouldn't - symb def differences.
 
 [+cons,+back,+voi,-cont] > ∅ / # __ [+lat] $ pl>ll early $(77) Fixed.
 
 $new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has no examples with w yet clearly implied it should effect w with his "G:  ant (*) = back (*+1) «...»". 
-∅ > o̯ / [+syl] __ {[+ant];[-voi];[+cor,+cont]} w {[+back];[+hi]}  $ glide metathesis, beginning stage. Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
+$Hartmann treats [ɾ] as cont...
+∅ > o̯ / [+syl] __ {[+ant];[-voi];[+cor,+cont];ɾ} w {[+back];[+hi]}  $ glide metathesis, beginning stage. Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
+∅ > e̯ / [+syl] __ {[-voi];[+cor,+cont];ɾ} j {[+back];[+hi]}
 
 ∅ > e̯ / [+syl] __ {[-voi];[+cor,+cont]} j {[+back];[+hi]}
 
@@ -388,21 +402,23 @@ $[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress -- CM(@Aug31) -- was t
 
 [+strid,+ant,+delrel] > [+cont,+distr] $deaffrication
 
-[-son,+cor,+ant] > [+strid,+cont] / [+syl] __ [-son] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.) (However ,this had to be changed from the default direct translation of his features use dodesnțt capture hat, apparently, ʃ is not targeted by "+obstr +cor". Also bizarre that he had +delrel... anyhow.) TODO look at this again. TODO also -- it apparently effects /t/ as well? That is probably not intended but is it too generous to attribute removal of this to Hartmann? 10/11 - made into dentals
+[+strid] > [-voi] $ unvoice,the great sibilant merger
+
+[-son,+cor,+ant] > [+strid,+cont,-distr] / __ [-son] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.) (However ,this had to be changed from the default direct translation of his features use dodesnțt capture hat, apparently, ʃ is not targeted by "+obstr +cor". Also bizarre that he had +delrel... anyhow.) TODO look at this again. TODO also -- it apparently effects /t/ as well? That is probably not intended but is it too generous to attribute removal of this to Hartmann? 
 
 ʃ > x $ palatal velarization
 
 $(see below for reformulation) [+strid,+cor,+ant] > [-strid,-distr] / __ [-cons] $ interdental
 
-s̪ > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
+$s̪ > θ / __ [-cons] $ interdental - attempting to reformulate while staying faithful
 
-s̪ > θ / __ # $part two of interdental reformulation?
+s̪ > θ $part two of interdental reformulation?
 
-s > z / [-cons] __ [+cons,+voi] $regressive_voicing -- s aspect. 
+$s > z / [-cons] __ [+cons,+voi] $regressive_voicing -- s aspect. 
 
-[-voi] > [+voi] / [-cons] __ l $ regressive voicing, before /l/-- non /s/ aspect
+$[-voi] > [+voi] / [-cons] __ l $ regressive voicing, before /l/-- non /s/ aspect
 
-[-son] > [αvoi] / [-cons] __ [-cont,αvoi] $regressive voicing, assimilation aspect (for non-/s/). 
+$[-son] > [αvoi] / [-cons] __ [-cont,αvoi] $regressive voicing, assimilation aspect (for non-/s/). Commented out 10/25. Seems to be a synchronic change.
 
 ∅ > e / # __ s [+cons] $ prothesis
 

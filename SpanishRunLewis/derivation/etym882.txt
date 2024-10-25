@@ -1,15 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :882:
-#sˌɑn̪ɡwˈin̪eum# >>> #sɑŋɡbˈeɲo# ( GOLD : #sɑn̪ɡwˈeɲo#) :
+#sˌɑn̪ɡwˈin̪eum# >>> #sebˈeɲo# ( GOLD : #sɑn̪ɡʷˈeɲo#) :
 s ˌɑ n̪ ɡ w ˈi n̪ e u m 
-#sˌɑːn̪ɡwˈin̪eum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#sˌɑːŋɡwˈin̪eum# | 12 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#sˌɑːŋɡɣʷˈin̪eum# | 17 : w > ɣʷ / __ [+syl]
-#sˌɑːŋɡɣʷˈin̪eu# | 31 : [+nas] > ∅ / [-stres] __ #
-#sˌɑːŋɡbˈin̪eu# | 36 : ɣʷ > b 
-#sˌɑːŋɡbˈin̪ju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#sˌɑːŋɡbˈen̪jo# | 49 : [+syl,-long] > [-hi] 
-#sˌɑŋɡbˈen̪jo# | 50 : [+syl] > [-long,-splng] 
-#sˌɑŋɡbˈeɲjo# | 57 : [+nas,+cor] > ɲ / __ j
-#sˌɑŋɡbˈeɲo# | 70 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#sɑŋɡbˈeɲo# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #sɑŋɡbˈeɲo#
+#sˌɑŋɡwˈin̪eum# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#sˌɑŋɡɣʷˈin̪eum# | 18 : w > ɣʷ / __ [+syl]
+#sˌɑŋɡɣʷˈin̪eu# | 32 : [+nas] > ∅ / [-stres] __ #
+#sˌɑŋɡbˈin̪eu# | 37 : ɣʷ > b 
+#sˌɑŋɡbˈin̪ju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#sˌɑŋɡbˈen̪jo# | 50 : [+syl,-long] > [-hi] 
+#sˌɑŋɡbˈeɲjo# | 58 : [+nas,+cor] > ɲ / __ j
+#sˌɑŋbbˈeɲjo# | 62 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+#sˌɑŋbbˈeɲo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#sˌɑjbbˈeɲo# | 109 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#sˌɑjbˈeɲo# | 135 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#sˌejbˈeɲo# | 139 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#sˌeːbˈeɲo# | 154 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#sˌebˈeɲo# | 155 : [+syl] > [-long,-splng] 
+#sebˈeɲo# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #sebˈeɲo#
