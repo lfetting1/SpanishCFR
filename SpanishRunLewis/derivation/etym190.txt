@@ -1,21 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :190:
-#hˌord̪ˈeolum# >>> #wiz̪wˈel# ( GOLD : #oɾθwˈelo#) :
+#hˌord̪ˈeolum# >>> #uθwˈelo# ( GOLD : #oɾθwˈelo#) :
 h ˌo r d̪ ˈe o l u m 
 #ˌord̪ˈeolum# | 0 : h > ∅ 
-#ˌord̪ˈeolu# | 31 : [+nas] > ∅ / [-stres] __ #
-#ˌord̪eˈolu# | 41 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌord̪jˈolu# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌɔrd̪jˈɔlu# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɔrd̪jˈɔlo# | 49 : [+syl,-long] > [-hi] 
-#ˌɔɾd̪jˈɔlo# | 51 : r > ɾ 
-#ˌɔɾd͡ʒjˈɔlo# | 66 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɔɾd͡ʒˈɔlo# | 70 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɔɾd͡zˈɔlo# | 95 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɔɾd͡zwˈelo# | 111 : ˈɔ > w ˈe 
-#wˌeɾd͡zwˈelo# | 112 : ˌɔ > w ˌe 
-#wˌed͡zwˈelo# | 130 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#wˌed͡zwˈel# | 175 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#wˌid͡zwˈel# | 177 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#wˌiz̪wˈel# | 197 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#wiz̪wˈel# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #wiz̪wˈel#
+#ˌord̪ˈeolu# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌord̪eˈolu# | 42 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌord̪jˈolu# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌord̪jˈɔlu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌord̪jˈɔlo# | 50 : [+syl,-long] > [-hi] 
+#ˌoɾd̪jˈɔlo# | 52 : r > ɾ 
+#ˌoɾd͡ʒjˈɔlo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌoɾd͡ʒˈɔlo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌoɾd͡zˈɔlo# | 104 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌoɾd͡zˈɔelo# | 116 : ∅ > e / [-tense,+prim] __ 
+#ˌoɾd͡zwˈelo# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌod͡zwˈelo# | 135 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#ˌud͡zwˈelo# | 182 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ˌuz̪wˈelo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌus̪wˈelo# | 203 : [+strid] > [-voi] 
+#ˌuθwˈelo# | 206 : s̪ > θ 
+#uθwˈelo# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #uθwˈelo#

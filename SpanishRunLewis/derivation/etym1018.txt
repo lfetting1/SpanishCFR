@@ -1,20 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1018:
-#ɡˌin̪ɡˈiːwɑm# >>> #z̪ez̪ˈibɑ# ( GOLD : #en̪θˈiɑ#) :
+#ɡˌin̪ɡˈiːwɑm# >>> #θeθˈibɑ# ( GOLD : #en̪θˈiɑ#) :
 ɡ ˌi n̪ ɡ ˈiː w ɑ m 
-#ɡˌiːn̪ɡˈiːwɑm# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ɡˌiːŋɡˈiːwɑm# | 12 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ɡˌiːŋɡˈiːɣʷɑm# | 17 : w > ɣʷ / __ [+syl]
-#ɡˌiːŋɡˈiːɣʷɑ# | 31 : [+nas] > ∅ / [-stres] __ #
-#ɡˌiːŋɡˈiːbɑ# | 36 : ɣʷ > b 
-#ɡˌiŋɡˈibɑ# | 50 : [+syl] > [-long,-splng] 
-#ɡjˌiŋɡjˈibɑ# | 65 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˌiŋd͡ʒjˈibɑ# | 66 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d͡ʒˌiŋd͡ʒˈibɑ# | 70 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#d͡zˌiŋd͡zˈibɑ# | 95 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#d͡zˌijd͡zˈibɑ# | 100 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#d͡zˌiːd͡zˈibɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#d͡zˌid͡zˈibɑ# | 150 : [+syl] > [-long,-splng] 
-#d͡zˌed͡zˈibɑ# | 179 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#z̪ˌez̪ˈibɑ# | 197 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#z̪ez̪ˈibɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #z̪ez̪ˈibɑ#
+#ɡˌiŋɡˈiːwɑm# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ɡˌiŋɡˈiːɣʷɑm# | 18 : w > ɣʷ / __ [+syl]
+#ɡˌiŋɡˈiːɣʷɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#ɡˌiŋɡˈiːbɑ# | 37 : ɣʷ > b 
+#ɡˌeŋɡˈiːbɑ# | 50 : [+syl,-long] > [-hi] 
+#ɡˌeŋɡˈibɑ# | 51 : [+syl] > [-long,-splng] 
+#ɡjˌeŋɡjˈibɑ# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˌeŋd͡ʒjˈibɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d͡ʒˌeŋd͡ʒˈibɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#d͡zˌeŋd͡zˈibɑ# | 104 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#d͡zˌejd͡zˈibɑ# | 109 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#d͡zˌeːd͡zˈibɑ# | 154 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#d͡zˌed͡zˈibɑ# | 155 : [+syl] > [-long,-splng] 
+#z̪ˌez̪ˈibɑ# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#s̪ˌes̪ˈibɑ# | 203 : [+strid] > [-voi] 
+#θˌeθˈibɑ# | 206 : s̪ > θ 
+#θeθˈibɑ# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #θeθˈibɑ#

@@ -1,14 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :395:
-#kˌɑllˈikulɑ# >>> #kolˈelɑ# ( GOLD : #kɑʝˈexɑ#) :
+#kˌɑllˈikulɑ# >>> #kolˈexɑ# ( GOLD : #kɑʝˈexɑ#) :
 k ˌɑ l l ˈi k u l ɑ 
-#kˌɑllˈiklɑ# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#kˌɑllˈixlɑ# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#kˌɑllˈexlɑ# | 49 : [+syl,-long] > [-hi] 
-#kˌɑllˈeɣlɑ# | 91 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#kˌɑwlˈeɣlɑ# | 93 : [+lat] > w / [+lo] __ [+cons]
-#kˌɑwlˈejlɑ# | 100 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#kˌowlˈejlɑ# | 134 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#kˌoːlˈeːlɑ# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˌolˈelɑ# | 150 : [+syl] > [-long,-splng] 
-#kolˈelɑ# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kolˈelɑ#
+#kˌɑllˈiklɑ# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#kˌɑllˈixlɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#kˌɑllˈexlɑ# | 50 : [+syl,-long] > [-hi] 
+#kˌɑllˈejlɑ# | 56 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
+#kˌɑllˈejʎɑ# | 59 : [+lat] > ʎ / j __ 
+#kˌɑllˈeʎɑ# | 73 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#kˌɑwlˈeʎɑ# | 102 : [+lat] > w / [+lo] __ [+cons]
+#kˌɑwlˈed͡ʒɑ# | 126 : ʎ > d͡ʒ 
+#kˌɑwlˈeʒɑ# | 127 : d͡ʒ > ʒ 
+#kˌowlˈeʒɑ# | 139 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#kˌoːlˈeʒɑ# | 154 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˌolˈeʒɑ# | 155 : [+syl] > [-long,-splng] 
+#kˌolˈeʃɑ# | 203 : [+strid] > [-voi] 
+#kˌolˈexɑ# | 205 : ʃ > x 
+#kolˈexɑ# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kolˈexɑ#

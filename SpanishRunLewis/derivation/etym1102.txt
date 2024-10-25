@@ -1,19 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1102:
-#ˌeksˈemplum# >>> #exˈemt͡ʃo# ( GOLD : #exˈemplo#) :
+#ˌeksˈemplum# >>> #isjˈemt͡ʃo# ( GOLD : #exˈemplo#) :
 ˌe k s ˈe m p l u m 
-#ˌeksˈeːmplum# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌeksˈeːmplu# | 31 : [+nas] > ∅ / [-stres] __ #
-#ˌexsˈeːmplu# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɛxsˈeːmplu# | 48 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɛxsˈeːmplo# | 49 : [+syl,-long] > [-hi] 
-#ˌɛxsˈemplo# | 50 : [+syl] > [-long,-splng] 
-#ˌɛjsˈemplo# | 100 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌejsˈemplo# | 104 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌejsˈempʎo# | 125 : [+lat] > ʎ / [-son] __ 
-#ˌejsˈemt͡ʃo# | 127 : [-voi] [+lat] > t͡ʃ
-#ˌejʃˈemt͡ʃo# | 147 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#ˌeːʃˈemt͡ʃo# | 149 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌeʃˈemt͡ʃo# | 150 : [+syl] > [-long,-splng] 
-#ˌexˈemt͡ʃo# | 199 : ʃ > x 
-#exˈemt͡ʃo# | 207 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #exˈemt͡ʃo#
+#ˌeksˈemplu# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌexsˈemplu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌexsˈɛmplu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌexsˈɛmplo# | 50 : [+syl,-long] > [-hi] 
+#ˌejsˈɛmplo# | 56 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
+#ˌejzˈɛmplo# | 100 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#ˌejzˈɛemplo# | 116 : ∅ > e / [-tense,+prim] __ 
+#ˌejzjˈemplo# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌejzjˈempʎo# | 130 : [+lat] > ʎ / [-son] __ 
+#ˌejzjˈemt͡ʃo# | 132 : [-voi] [+lat] > t͡ʃ
+#ˌeːzjˈemt͡ʃo# | 154 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌezjˈemt͡ʃo# | 155 : [+syl] > [-long,-splng] 
+#ˌizjˈemt͡ʃo# | 182 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ˌisjˈemt͡ʃo# | 203 : [+strid] > [-voi] 
+#isjˈemt͡ʃo# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #isjˈemt͡ʃo#
