@@ -1,7 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1075:
 #ˈɑmit̪es# >>> #ˈɑmss# ( GOLD : #ˈɑn̪d̪es#) :
 ˈɑ m i t̪ e s 
-#ˈɑmt̪es# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
-#ˈɑmt̪s# | 140 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˈɑmss# | 202 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#ˈɑːmit̪es# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
+#ˈɑːmt̪es# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
+#ˈɑmt̪es# | 52 : [+syl] > [-long,-splng] 
+#ˈɑmt̪s# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˈɑmss# | 205 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
 Final form : #ˈɑmss#

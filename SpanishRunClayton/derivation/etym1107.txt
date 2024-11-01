@@ -1,13 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1107:
-#ˌimpˈosit̪um# >>> #impwˈest̪o# ( GOLD : #impwˈest̪o#) :
+#ˌimpˈosit̪um# >>> #empwˈest̪o# ( GOLD : #impwˈest̪o#) :
 ˌi m p ˈo s i t̪ u m 
-#ˌiːmpˈosit̪um# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#ˌiːmpˈost̪um# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] [+syl,-prim]
-#ˌiːmpˈost̪u# | 33 : [+nas] > ∅ / [-stres] __ #
-#ˌiːmpˈɔst̪u# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌiːmpˈɔst̪o# | 51 : [+syl,-long] > [-hi] 
-#ˌimpˈɔst̪o# | 52 : [+syl] > [-long,-splng] 
-#ˌimpˈɔest̪o# | 119 : ∅ > e / [-tense,+prim] __ 
-#ˌimpwˈest̪o# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#impwˈest̪o# | 213 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #impwˈest̪o#
+#ˌimpˈost̪um# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] [+syl,-prim]
+#ˌimpˈost̪u# | 33 : [+nas] > ∅ / [-stres] __ #
+#ˌimpˈɔst̪u# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌempˈɔst̪o# | 51 : [+syl,-long] > [-hi] 
+#ˌempˈɔest̪o# | 117 : ∅ > e / [-tense,+prim] __ 
+#ˌempwˈest̪o# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#empwˈest̪o# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #empwˈest̪o#

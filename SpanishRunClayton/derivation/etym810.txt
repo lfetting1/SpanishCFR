@@ -1,14 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :810:
-#sˈed̪eɑt̪# >>> #sjˈexɑ# ( GOLD : #sˈeɑ#) :
+#sˈed̪eɑt̪# >>> #sjˈeθɑ# ( GOLD : #sˈeɑ#) :
 s ˈe d̪ e ɑ t̪ 
 #sˈed̪eɑ# | 35 : [+cons,-cont] > ∅ / __ #
 #sˈed̪jɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
 #sˈɛd̪jɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sˈɛd͡ʒjɑ# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#sˈɛd͡ʒɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#sˈɛʒɑ# | 100 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#sˈɛeʒɑ# | 119 : ∅ > e / [-tense,+prim] __ 
-#sjˈeʒɑ# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#sjˈeʃɑ# | 201 : [+strid] > [-voi] 
-#sjˈexɑ# | 203 : ʃ > x 
-Final form : #sjˈexɑ#
+#sˈɛd͡ʒjɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#sˈɛd͡ʒɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#sˈɛd͡zɑ# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#sˈɛed͡zɑ# | 117 : ∅ > e / [-tense,+prim] __ 
+#sjˈed͡zɑ# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#sjˈez̪ɑ# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#sjˈes̪ɑ# | 204 : [+strid] > [-voi] 
+#sjˈeθɑ# | 207 : s̪ > θ 
+Final form : #sjˈeθɑ#

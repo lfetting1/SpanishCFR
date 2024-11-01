@@ -1,10 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :235:
-#kwˈoːmod̪o# >>> #kˈomd̪o# ( GOLD : #kˈomo#) :
+#kwˈoːmod̪o# >>> #bˈomd̪o# ( GOLD : #kˈomo#) :
 k w ˈoː m o d̪ o 
-#kʷˈoːmod̪o# | 18 : [-cont,+back,-round] w > [+lab,+round] ∅
-#kʷˈoːmd̪o# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
-#kʷˈomd̪o# | 52 : [+syl] > [-long,-splng] 
-#kˈomd̪o# | 81 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
-#kˈomðo# | 100 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#kˈomd̪o# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #kˈomd̪o#
+#kɣʷˈoːmod̪o# | 19 : w > ɣʷ / __ [+syl]
+#kɣʷˈoːmd̪o# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
+#kbˈoːmd̪o# | 38 : ɣʷ > b 
+#kbˈomd̪o# | 52 : [+syl] > [-long,-splng] 
+#bbˈomd̪o# | 63 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+#bˈomd̪o# | 136 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+Final form : #bˈomd̪o#

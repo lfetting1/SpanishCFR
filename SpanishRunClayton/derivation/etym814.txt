@@ -1,8 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :814:
-#sˈemper# >>> #sˈempɾ# ( GOLD : #sjˈempɾe#) :
+#sˈemper# >>> #sjˈempɾ# ( GOLD : #sjˈempɾe#) :
 s ˈe m p e r 
-#sˈeːmper# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#sˈemper# | 52 : [+syl] > [-long,-splng] 
-#sˈempeɾ# | 53 : r > ɾ 
-#sˈempɾ# | 140 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-Final form : #sˈempɾ#
+#sˈɛmper# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˈɛmpeɾ# | 53 : r > ɾ 
+#sˈɛempeɾ# | 117 : ∅ > e / [-tense,+prim] __ 
+#sjˈempeɾ# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#sjˈempɾ# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+Final form : #sjˈempɾ#

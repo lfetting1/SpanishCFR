@@ -1,9 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :100:
-#frˈon̪t̪e# >>> #fɾˈon̪t̪e# ( GOLD : #fɾˈen̪t̪e#) :
+#frˈon̪t̪e# >>> #fɾˈen̪t̪e# ( GOLD : #fɾˈen̪t̪e#) :
 f r ˈo n̪ t̪ e 
-#frˈoːn̪t̪e# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#frˈon̪t̪e# | 52 : [+syl] > [-long,-splng] 
-#fɾˈon̪t̪e# | 53 : r > ɾ 
-#ɸɾˈon̪t̪e# | 128 : {v;f} > {β;ɸ} 
-#fɾˈon̪t̪e# | 189 : ɸ > f 
-Final form : #fɾˈon̪t̪e#
+#frˈɔn̪t̪e# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#fɾˈɔn̪t̪e# | 53 : r > ɾ 
+#fɾˈɔen̪t̪e# | 117 : ∅ > e / [-tense,+prim] __ 
+#fɾwˈen̪t̪e# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ɸɾwˈen̪t̪e# | 126 : {v;f} > {b;ɸ} 
+#ɸɾˈen̪t̪e# | 190 : [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]
+#fɾˈen̪t̪e# | 192 : ɸ > f 
+Final form : #fɾˈen̪t̪e#

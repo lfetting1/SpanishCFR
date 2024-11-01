@@ -1,17 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1150:
-#ˌɑkwˈɑkeɑm# >>> #ɑɡʷˈɑθɑ# ( GOLD : #ɑɡʷˈɑθɑ#) :
+#ˌɑkwˈɑkeɑm# >>> #ebˈɑθɑ# ( GOLD : #ɑɡʷˈɑθɑ#) :
 ˌɑ k w ˈɑ k e ɑ m 
-#ˌɑkʷˈɑkeɑm# | 18 : [-cont,+back,-round] w > [+lab,+round] ∅
-#ˌɑkʷˈɑkeɑ# | 33 : [+nas] > ∅ / [-stres] __ #
-#ˌɑkʷˈɑkjɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌɑkʷˈɑt͡ʃjɑ# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑkʷˈɑt͡ʃɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɑɡʷˈɑd͡ʒɑ# | 104 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑɡʷˈɑd͡zɑ# | 107 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑɣʷˈɑd͡zɑ# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ˌɑɣʷˈɑz̪ɑ# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌɑɣʷˈɑs̪ɑ# | 201 : [+strid] > [-voi] 
-#ˌɑɣʷˈɑθɑ# | 204 : s̪ > θ / __ [-cons]
-#ˌɑɡʷˈɑθɑ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ɑɡʷˈɑθɑ# | 213 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑɡʷˈɑθɑ#
+#ˌɑkɣʷˈɑkeɑm# | 19 : w > ɣʷ / __ [+syl]
+#ˌɑkɣʷˈɑkeɑ# | 33 : [+nas] > ∅ / [-stres] __ #
+#ˌɑkbˈɑkeɑ# | 38 : ɣʷ > b 
+#ˌɑxbˈɑkeɑ# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌɑxbˈɑkjɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɑjbˈɑkjɑ# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
+#ˌɑjbˈɑt͡ʃjɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑjbˈɑt͡ʃɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɑjbˈɑd͡ʒɑ# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑjbˈɑd͡zɑ# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌejbˈɑd͡zɑ# | 140 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ˌeːbˈɑd͡zɑ# | 155 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌebˈɑd͡zɑ# | 156 : [+syl] > [-long,-splng] 
+#ˌebˈɑz̪ɑ# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌebˈɑs̪ɑ# | 204 : [+strid] > [-voi] 
+#ˌebˈɑθɑ# | 207 : s̪ > θ 
+#ebˈɑθɑ# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ebˈɑθɑ#

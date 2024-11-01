@@ -1,18 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :246:
-#kwˌɑn̪t̪it̪ˈɑːt̪em# >>> #kɑn̪st̪ˈɑd̪# ( GOLD : #kɑn̪t̪id̪ˈɑd̪#) :
+#kwˌɑn̪t̪it̪ˈɑːt̪em# >>> #bɑn̪st̪ˈɑd̪e# ( GOLD : #kɑn̪t̪id̪ˈɑd̪#) :
 k w ˌɑ n̪ t̪ i t̪ ˈɑː t̪ e m 
-#kwˌɑːn̪t̪it̪ˈɑːt̪em# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kʷˌɑːn̪t̪it̪ˈɑːt̪em# | 18 : [-cont,+back,-round] w > [+lab,+round] ∅
-#kʷˌɑːn̪t̪it̪ˈɑːt̪e# | 33 : [+nas] > ∅ / [-stres] __ #
-#kʷˌɑːn̪t̪et̪ˈɑːt̪e# | 51 : [+syl,-long] > [-hi] 
-#kʷˌɑn̪t̪et̪ˈɑt̪e# | 52 : [+syl] > [-long,-splng] 
-#kˌɑn̪t̪et̪ˈɑt̪e# | 82 : [-son,+round] > [-round,-lab] / # __ [+lo,-prim]
-#kˌɑn̪t̪ed̪ˈɑd̪e# | 104 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌɑn̪t̪d̪ˈɑd̪e# | 140 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#kˌɑn̪t̪t̪ˈɑd̪e# | 141 : [-son] > [-voi] / [-voi] __ 
-#kˌɑn̪t̪t̪ˈɑðe# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kˌɑn̪t̪t̪ˈɑð# | 178 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#kˌɑn̪st̪ˈɑð# | 202 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#kˌɑn̪st̪ˈɑd̪# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#kɑn̪st̪ˈɑd̪# | 213 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kɑn̪st̪ˈɑd̪#
+#kɣʷˌɑn̪t̪it̪ˈɑːt̪em# | 19 : w > ɣʷ / __ [+syl]
+#kɣʷˌɑn̪t̪it̪ˈɑːt̪e# | 33 : [+nas] > ∅ / [-stres] __ #
+#kbˌɑn̪t̪it̪ˈɑːt̪e# | 38 : ɣʷ > b 
+#kbˌɑn̪t̪et̪ˈɑːt̪e# | 51 : [+syl,-long] > [-hi] 
+#kbˌɑn̪t̪et̪ˈɑt̪e# | 52 : [+syl] > [-long,-splng] 
+#bbˌɑn̪t̪et̪ˈɑt̪e# | 63 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+#bbˌɑn̪t̪ed̪ˈɑd̪e# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
+#bˌɑn̪t̪ed̪ˈɑd̪e# | 136 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#bˌɑn̪t̪d̪ˈɑd̪e# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#bˌɑn̪t̪t̪ˈɑd̪e# | 139 : [-son] > [-voi] / [-voi] __ 
+#bˌɑn̪st̪ˈɑd̪e# | 205 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#bɑn̪st̪ˈɑd̪e# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bɑn̪st̪ˈɑd̪e#

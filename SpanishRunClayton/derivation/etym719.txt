@@ -6,10 +6,11 @@ p ˌu l ˈe ɡ i u m
 #pˌulˈeju# | 47 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #pˌulˈɛju# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #pˌolˈɛjo# | 51 : [+syl,-long] > [-hi] 
-#pˌolˈejo# | 57 : ˈɛ > ˈe / __ j
-#pˌolˈijo# | 61 : ˈe > ˈi / __ j
-#pˌolˈio# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#pˌulˈio# | 114 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#pˌolˈio# | 182 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#polˈio# | 213 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#pˌolˈejo# | 56 : {ɛ;ˈɛ;ˌɛ;e;ˌe;ˈe} > {e;ˈe;ˌe;i;ˌi;ˈi} / __ j
+#pˌolˈijo# | 111 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#pˌulˈijo# | 112 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+#pˌulˈiːo# | 155 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#pˌulˈio# | 156 : [+syl] > [-long,-splng] 
+#pˌolˈio# | 185 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#polˈio# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #polˈio#

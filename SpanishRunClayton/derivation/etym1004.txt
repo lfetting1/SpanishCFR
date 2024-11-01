@@ -1,15 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1004:
-#ɡˈeluː# >>> #xˈelu# ( GOLD : #ʝˈelo#) :
+#ɡˈeluː# >>> #θjˈelu# ( GOLD : #ʝˈelo#) :
 ɡ ˈe l uː 
 #ɡˈɛluː# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ɡˈɛlu# | 52 : [+syl] > [-long,-splng] 
-#ɡjˈɛlu# | 72 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˈɛlu# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d͡ʒˈɛlu# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ʒˈɛlu# | 100 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ʒˈɛelu# | 119 : ∅ > e / [-tense,+prim] __ 
-#ʒjˈelu# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ʒˈelu# | 161 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ʃˈelu# | 201 : [+strid] > [-voi] 
-#xˈelu# | 203 : ʃ > x 
-Final form : #xˈelu#
+#ɡjˈɛlu# | 67 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#d͡ʒjˈɛlu# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d͡ʒˈɛlu# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#d͡zˈɛlu# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#d͡zˈɛelu# | 117 : ∅ > e / [-tense,+prim] __ 
+#d͡zjˈelu# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#z̪jˈelu# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#s̪jˈelu# | 204 : [+strid] > [-voi] 
+#θjˈelu# | 207 : s̪ > θ 
+Final form : #θjˈelu#

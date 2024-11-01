@@ -1,9 +1,8 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :46:
-#d̪ˈen̪t̪em# >>> #d̪ˈen̪t̪e# ( GOLD : #d̪jˈen̪t̪e#) :
+#d̪ˈen̪t̪em# >>> #d̪jˈen̪t̪e# ( GOLD : #d̪jˈen̪t̪e#) :
 d̪ ˈe n̪ t̪ e m 
-#d̪ˈeːn̪t̪em# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#d̪ˈeːn̪t̪e# | 33 : [+nas] > ∅ / [-stres] __ #
-#d̪ˈen̪t̪e# | 52 : [+syl] > [-long,-splng] 
-#ðˈen̪t̪e# | 100 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#d̪ˈen̪t̪e# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #d̪ˈen̪t̪e#
+#d̪ˈen̪t̪e# | 33 : [+nas] > ∅ / [-stres] __ #
+#d̪ˈɛn̪t̪e# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#d̪ˈɛen̪t̪e# | 117 : ∅ > e / [-tense,+prim] __ 
+#d̪jˈen̪t̪e# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Final form : #d̪jˈen̪t̪e#

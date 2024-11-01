@@ -1,22 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :487:
 #lˌumbrˈiːkem# >>> #lumbɾˈiθ# ( GOLD : #lombɾˈiθ#) :
 l ˌu m b r ˈiː k e m 
-#lˌuːmbrˈiːkem# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#lˌuːmbrˈiːke# | 33 : [+nas] > ∅ / [-stres] __ #
-#lˌumbrˈike# | 52 : [+syl] > [-long,-splng] 
-#lˌumbɾˈike# | 53 : r > ɾ 
-#lˌumbɾˈikje# | 72 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#lˌumbɾˈit͡ʃje# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#lˌumbɾˈit͡ʃe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#lˌumβɾˈit͡ʃe# | 100 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#lˌumβɾˈid͡ʒe# | 104 : [-cont] > [+voi] / [+syl] __ [+son]
-#lˌumβɾˈid͡ze# | 107 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#lˌumvɾˈid͡ze# | 111 : β > v 
-#lˌumβɾˈid͡ze# | 128 : {v;f} > {β;ɸ} 
-#lˌumβɾˈid͡z# | 176 : e > ∅ / [+syl] [+ant,+delrel] __ #
-#lˌumβɾˈiz̪# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#lˌumβɾˈis̪# | 201 : [+strid] > [-voi] 
-#lˌumβɾˈiθ# | 205 : s̪ > θ / __ #
-#lˌumbɾˈiθ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#lumbɾˈiθ# | 213 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#lˌumbrˈiːke# | 33 : [+nas] > ∅ / [-stres] __ #
+#lˌombrˈiːke# | 51 : [+syl,-long] > [-hi] 
+#lˌombrˈike# | 52 : [+syl] > [-long,-splng] 
+#lˌombɾˈike# | 53 : r > ɾ 
+#lˌombɾˈikje# | 67 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#lˌombɾˈit͡ʃje# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˌombɾˈit͡ʃe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#lˌombɾˈid͡ʒe# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
+#lˌombɾˈid͡ze# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lˌumbɾˈid͡ze# | 113 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#lˌumbɾˈid͡z# | 179 : e > ∅ / [+syl] [+ant,+delrel] __ #
+#lˌumbɾˈiz̪# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#lˌumbɾˈis̪# | 204 : [+strid] > [-voi] 
+#lˌumbɾˈiθ# | 207 : s̪ > θ 
+#lumbɾˈiθ# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #lumbɾˈiθ#

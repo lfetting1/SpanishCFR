@@ -1,16 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :259:
-#kˈibum# >>> #θˈebo# ( GOLD : #θˈebo#) :
+#kˈibum# >>> #θˈeo# ( GOLD : #θˈebo#) :
 k ˈi b u m 
 #kˈibu# | 33 : [+nas] > ∅ / [-stres] __ #
 #kˈebo# | 51 : [+syl,-long] > [-hi] 
-#kjˈebo# | 72 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈebo# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃˈebo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t͡ʃˈeβo# | 100 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#t͡sˈeβo# | 107 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sˈevo# | 111 : β > v 
-#t͡sˈeβo# | 128 : {v;f} > {β;ɸ} 
-#s̪ˈeβo# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#θˈeβo# | 204 : s̪ > θ / __ [-cons]
-#θˈebo# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #θˈebo#
+#kjˈebo# | 67 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈebo# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃˈebo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡ʃˈeo# | 100 : [-son,+voi,-strid,-front,βlab,-delrel] > ∅ / [-cons] __ [+syl,βlab]
+#t͡sˈeo# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#s̪ˈeo# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θˈeo# | 207 : s̪ > θ 
+Final form : #θˈeo#

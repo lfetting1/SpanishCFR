@@ -1,12 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :180:
 #hˈomin̪em# >>> #wˈeɲe# ( GOLD : #ˈombɾe#) :
 h ˈo m i n̪ e m 
-#ˈomin̪em# | 1 : h > ∅ 
+#ˈomin̪em# | 0 : h > ∅ 
 #ˈomn̪em# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
 #ˈomn̪e# | 33 : [+nas] > ∅ / [-stres] __ #
 #ˈɔmn̪e# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˈɔn̪n̪e# | 68 : {p s;p t̪;m n̪} > {s s;t̪ t̪;n̪ n̪} 
-#ˈɔen̪n̪e# | 119 : ∅ > e / [-tense,+prim] __ 
-#wˈen̪n̪e# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#wˈeɲe# | 137 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#ˈɔn̪n̪e# | 64 : [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]
+#ˈɔen̪n̪e# | 117 : ∅ > e / [-tense,+prim] __ 
+#wˈen̪n̪e# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#wˈeɲe# | 135 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
 Final form : #wˈeɲe#

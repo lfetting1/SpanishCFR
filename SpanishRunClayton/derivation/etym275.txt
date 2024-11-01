@@ -1,11 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :275:
-#kˈon̪kʰulɑm# >>> #kˈoŋt͡ʃɑ# ( GOLD : #kon̪t͡ʃɑ#) :
+#kˈon̪kʰulɑm# >>> #kwˈeŋt͡ʃɑ# ( GOLD : #kon̪t͡ʃɑ#) :
 k ˈo n̪ kʰ u l ɑ m 
-#kˈoːn̪kʰulɑm# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son]
-#kˈoːŋkʰulɑm# | 5 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#kˈoːŋkʰlɑm# | 32 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#kˈoːŋkʰlɑ# | 33 : [+nas] > ∅ / [-stres] __ #
-#kˈoŋkʰlɑ# | 52 : [+syl] > [-long,-splng] 
-#kˈoŋkʰʎɑ# | 133 : [+lat] > ʎ / [-son] __ 
-#kˈoŋt͡ʃɑ# | 135 : [-voi] [+lat] > t͡ʃ
-Final form : #kˈoŋt͡ʃɑ#
+#kˈon̪kulɑm# | 1 : [-cont] > [-sg] 
+#kˈoŋkulɑm# | 14 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#kˈoŋklɑm# | 32 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#kˈoŋklɑ# | 33 : [+nas] > ∅ / [-stres] __ #
+#kˈɔŋklɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˈɔeŋklɑ# | 117 : ∅ > e / [-tense,+prim] __ 
+#kwˈeŋklɑ# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kwˈeŋkʎɑ# | 131 : [+lat] > ʎ / [-son] __ 
+#kwˈeŋt͡ʃɑ# | 133 : [-voi] [+lat] > t͡ʃ
+Final form : #kwˈeŋt͡ʃɑ#

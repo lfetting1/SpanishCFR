@@ -1,12 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :47:
-#d̪ˈeus# >>> #xˈos# ( GOLD : #d̪jˈos#) :
+#d̪ˈeus# >>> #θˈos# ( GOLD : #d̪jˈos#) :
 d̪ ˈe u s 
 #d̪eˈus# | 43 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
 #d̪jˈus# | 47 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
 #d̪jˈos# | 51 : [+syl,-long] > [-hi] 
-#d͡ʒjˈos# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d͡ʒˈos# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ʒˈos# | 100 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ʃˈos# | 201 : [+strid] > [-voi] 
-#xˈos# | 203 : ʃ > x 
-Final form : #xˈos#
+#d͡ʒjˈos# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d͡ʒˈos# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#d͡zˈos# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#z̪ˈos# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#s̪ˈos# | 204 : [+strid] > [-voi] 
+#θˈos# | 207 : s̪ > θ 
+Final form : #θˈos#
