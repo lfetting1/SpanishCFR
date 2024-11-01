@@ -1,12 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1159:
 #ˌɑmbit̪ˈɑːre# >>> #ɑmwd̪ˈɑɾ# ( GOLD : #ɑn̪d̪ˈɑɾ#) :
 ˌɑ m b i t̪ ˈɑː r e 
-#ˌɑmbet̪ˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#ˌɑmbet̪ˈɑre# | 51 : [+syl] > [-long,-splng] 
-#ˌɑmbet̪ˈɑɾe# | 52 : r > ɾ 
-#ˌɑmbed̪ˈɑɾe# | 101 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑmbd̪ˈɑɾe# | 137 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌɑmbd̪ˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#ˌɑmwd̪ˈɑɾ# | 199 : [+lab,-son] > w / __ [-son]
-#ɑmwd̪ˈɑɾ# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌɑmbet̪ˈɑːre# | 52 : [+syl,-long] > [-hi] 
+#ˌɑmbet̪ˈɑre# | 53 : [+syl] > [-long,-splng] 
+#ˌɑmbet̪ˈɑɾe# | 54 : r > ɾ 
+#ˌɑmβet̪ˈɑɾe# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ˌɑmβed̪ˈɑɾe# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑmved̪ˈɑɾe# | 112 : β > v 
+#ˌɑmβed̪ˈɑɾe# | 129 : {v;f} > {β;ɸ} 
+#ˌɑmβd̪ˈɑɾe# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
+#ˌɑmβðˈɑɾe# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌɑmβðˈɑɾ# | 178 : e > ∅ / [+syl] ɾ __ #
+#ˌɑmwðˈɑɾ# | 198 : [+lab,-son] > w / __ [-son]
+#ˌɑmwd̪ˈɑɾ# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ɑmwd̪ˈɑɾ# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ɑmwd̪ˈɑɾ#

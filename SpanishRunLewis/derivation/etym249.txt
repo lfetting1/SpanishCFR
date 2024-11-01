@@ -1,15 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :249:
-#kˈae̯kum# >>> #θˈaɡo# ( GOLD : #θjˈeɡo#) :
+#kˈae̯kum# >>> #θjˈeɡo# ( GOLD : #θjˈeɡo#) :
 k ˈa e̯ k u m 
-#kˈaːkum# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˈaːku# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˈaːko# | 50 : [+syl,-long] > [-hi] 
-#kˈako# | 51 : [+syl] > [-long,-splng] 
-#kjˈako# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈako# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃˈako# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t͡ʃˈaɡo# | 101 : [-cont] > [+voi] / [+syl] __ [+son]
-#t͡sˈaɡo# | 104 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#s̪ˈaɡo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#θˈaɡo# | 206 : s̪ > θ 
-Final form : #θˈaɡo#
+#kˈɑjkum# | 0 : [-hi] e̯ > [+back,-front] j
+#kˈɛjkum# | 23 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#kˈɛːkum# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˈɛːku# | 34 : [+nas] > ∅ / [-stres] __ #
+#kˈɛːko# | 52 : [+syl,-long] > [-hi] 
+#kˈɛko# | 53 : [+syl] > [-long,-splng] 
+#kjˈɛko# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈɛko# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃˈɛko# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡ʃˈɛɡo# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#t͡sˈɛɡo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sˈɛeɡo# | 120 : ∅ > e / [-tense,+prim] __ 
+#t͡sjˈeɡo# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#t͡sjˈeɣo# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#s̪jˈeɣo# | 201 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θjˈeɣo# | 205 : s̪ > θ / __ [-cons]
+#θjˈeɡo# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : #θjˈeɡo#

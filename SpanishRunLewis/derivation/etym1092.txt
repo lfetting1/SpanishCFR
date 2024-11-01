@@ -1,19 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1092:
-#ˈɑwrid̪iˈɑːre# >>> #ˈoθˈɑɾ# ( GOLD : #oɾeˈɑɾ#) :
+#ˈɑwrid̪iˈɑːre# >>> #ˈoɾxˈɑɾ# ( GOLD : #oɾeˈɑɾ#) :
 ˈɑ w r i d̪ i ˈɑː r e 
-#ˈɑwrd̪iˈɑːre# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
-#ˈɑwrd̪jˈɑːre# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˈɑwrd̪jˈɑre# | 51 : [+syl] > [-long,-splng] 
-#ˈɑwɾd̪jˈɑɾe# | 52 : r > ɾ 
-#ˈɑwɾd͡ʒjˈɑɾe# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˈɑwɾd͡ʒˈɑɾe# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˈɑwɾd͡zˈɑɾe# | 104 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˈɑwd͡zˈɑɾe# | 135 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˈowd͡zˈɑɾe# | 139 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ˈoːd͡zˈɑɾe# | 154 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˈod͡zˈɑɾe# | 155 : [+syl] > [-long,-splng] 
-#ˈod͡zˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#ˈoz̪ˈɑɾ# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˈos̪ˈɑɾ# | 203 : [+strid] > [-voi] 
-#ˈoθˈɑɾ# | 206 : s̪ > θ 
-Final form : #ˈoθˈɑɾ#
+#ˈɑwrd̪iˈɑːre# | 32 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
+#ˈɑwrd̪jˈɑːre# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˈɑwrd̪jˈɑre# | 53 : [+syl] > [-long,-splng] 
+#ˈɑwɾd̪jˈɑɾe# | 54 : r > ɾ 
+#ˈɑwɾd͡ʒjˈɑɾe# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˈɑwɾd͡ʒˈɑɾe# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˈɑwɾʒˈɑɾe# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ˈowɾʒˈɑɾe# | 143 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ˈoːɾʒˈɑɾe# | 158 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˈoɾʒˈɑɾe# | 159 : [+syl] > [-long,-splng] 
+#ˈoɾʒˈɑɾ# | 178 : e > ∅ / [+syl] ɾ __ #
+#ˈoɾʃˈɑɾ# | 202 : [+strid] > [-voi] 
+#ˈoɾxˈɑɾ# | 204 : ʃ > x 
+Final form : #ˈoɾxˈɑɾ#

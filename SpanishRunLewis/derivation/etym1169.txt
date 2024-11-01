@@ -1,19 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1169:
 #ˌɑn̪ɑt̪ˈikulɑm# >>> #ɑn̪ɑd̪ˈexɑ# ( GOLD : #ɑn̪ɑd̪ˈexɑ#) :
 ˌɑ n̪ ɑ t̪ ˈi k u l ɑ m 
-#ˌɑːn̪ɑt̪ˈikulɑm# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
-#ˌɑːn̪ɑt̪ˈiklɑm# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#ˌɑːn̪ɑt̪ˈiklɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌɑːn̪ɑt̪ˈixlɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɑːn̪ɑt̪ˈexlɑ# | 50 : [+syl,-long] > [-hi] 
-#ˌɑn̪ɑt̪ˈexlɑ# | 51 : [+syl] > [-long,-splng] 
-#ˌɑn̪ɑt̪ˈejlɑ# | 56 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#ˌɑn̪ɑt̪ˈejʎɑ# | 59 : [+lat] > ʎ / j __ 
-#ˌɑn̪ɑt̪ˈeʎɑ# | 73 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#ˌɑn̪ɑd̪ˈeʎɑ# | 101 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑn̪ɑd̪ˈed͡ʒɑ# | 126 : ʎ > d͡ʒ 
-#ˌɑn̪ɑd̪ˈeʒɑ# | 127 : d͡ʒ > ʒ 
-#ˌɑn̪ɑd̪ˈeʃɑ# | 203 : [+strid] > [-voi] 
-#ˌɑn̪ɑd̪ˈexɑ# | 205 : ʃ > x 
-#ɑn̪ɑd̪ˈexɑ# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌɑːn̪ɑt̪ˈikulɑm# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
+#ˌɑːn̪ɑt̪ˈiklɑm# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#ˌɑːn̪ɑt̪ˈiklɑ# | 34 : [+nas] > ∅ / [-stres] __ #
+#ˌɑːn̪ɑt̪ˈixlɑ# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌɑːn̪ɑt̪ˈexlɑ# | 52 : [+syl,-long] > [-hi] 
+#ˌɑn̪ɑt̪ˈexlɑ# | 53 : [+syl] > [-long,-splng] 
+#ˌɑn̪ɑt̪ˈejlɑ# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+#ˌɑn̪ɑt̪ˈejʎɑ# | 66 : [+lat] > ʎ / j __ 
+#ˌɑn̪ɑt̪ˈeʎɑ# | 80 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#ˌɑn̪ɑd̪ˈeʎɑ# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑn̪ɑd̪ˈed͡ʒɑ# | 130 : ʎ > d͡ʒ 
+#ˌɑn̪ɑd̪ˈeʒɑ# | 131 : d͡ʒ > ʒ 
+#ˌɑn̪ɑðˈeʒɑ# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌɑn̪ɑðˈeʃɑ# | 202 : [+strid] > [-voi] 
+#ˌɑn̪ɑðˈexɑ# | 204 : ʃ > x 
+#ˌɑn̪ɑd̪ˈexɑ# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ɑn̪ɑd̪ˈexɑ# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ɑn̪ɑd̪ˈexɑ#

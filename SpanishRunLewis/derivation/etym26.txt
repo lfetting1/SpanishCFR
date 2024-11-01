@@ -1,15 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :26:
 #bˌurrˈɑɡin̪em# >>> #borˈɑɲi# ( GOLD : #borˈen̪#) :
 b ˌu r r ˈɑ ɡ i n̪ e m 
-#bˌurrˈɑɡn̪em# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#bˌurrˈɑɡn̪e# | 32 : [+nas] > ∅ / [-stres] __ #
-#bˌurrˈɑɣn̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#bˌorrˈɑɣn̪e# | 50 : [+syl,-long] > [-hi] 
-#bˌoɾɾˈɑɣn̪e# | 52 : r > ɾ 
-#bˌorˈɑɣn̪e# | 53 : ɾ ɾ > r 
-#bˌorˈɑjn̪e# | 56 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#bˌorˈɑjɲe# | 57 : [+nas,+cor] > ɲ / j __ 
-#bˌorˈɑɲe# | 73 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#bˌorˈɑɲi# | 115 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-#borˈɑɲi# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#bˌurrˈɑɡn̪em# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#bˌurrˈɑɡn̪e# | 34 : [+nas] > ∅ / [-stres] __ #
+#bˌurrˈɑɣn̪e# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#bˌorrˈɑɣn̪e# | 52 : [+syl,-long] > [-hi] 
+#bˌoɾɾˈɑɣn̪e# | 54 : r > ɾ 
+#bˌorˈɑɣn̪e# | 55 : ɾ ɾ > r 
+#bˌorˈɑjn̪e# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+#bˌorˈɑjɲe# | 64 : [+nas,+cor] > ɲ / j __ 
+#bˌorˈɑɲe# | 80 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#βˌorˈɑɲe# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#vˌorˈɑɲe# | 112 : β > v 
+#vˌorˈɑɲi# | 119 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+#βˌorˈɑɲi# | 129 : {v;f} > {β;ɸ} 
+#bˌorˈɑɲi# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#borˈɑɲi# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #borˈɑɲi#

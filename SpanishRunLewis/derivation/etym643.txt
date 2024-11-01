@@ -1,19 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :643:
 #prˌoːfˈekt̪um# >>> #pɾubˈet͡ʃo# ( GOLD : #pɾobˈet͡ʃo#) :
 p r ˌoː f ˈe k t̪ u m 
-#prˌoːfˈekt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#prˌoːfˈext̪u# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#prˌoːfˈɛxt̪u# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#prˌoːfˈɛxt̪o# | 50 : [+syl,-long] > [-hi] 
-#prˌofˈɛxt̪o# | 51 : [+syl] > [-long,-splng] 
-#pɾˌofˈɛxt̪o# | 52 : r > ɾ 
-#pɾˌofˈɛjt̪o# | 56 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#pɾˌovˈɛjt̪o# | 100 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#pɾˌuvˈɛjt̪o# | 112 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-#pɾˌuvˈejt̪o# | 113 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#pɾˌubˈejt̪o# | 125 : {v;f} > {b;ɸ} 
-#pɾˌubˈejt͡ʃo# | 152 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#pɾˌubˈeːt͡ʃo# | 154 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#pɾˌubˈet͡ʃo# | 155 : [+syl] > [-long,-splng] 
-#pɾubˈet͡ʃo# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#prˌoːfˈekt̪u# | 34 : [+nas] > ∅ / [-stres] __ #
+#prˌoːfˈext̪u# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#prˌoːfˈɛxt̪u# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#prˌoːfˈɛxt̪o# | 52 : [+syl,-long] > [-hi] 
+#prˌofˈɛxt̪o# | 53 : [+syl] > [-long,-splng] 
+#pɾˌofˈɛxt̪o# | 54 : r > ɾ 
+#pɾˌovˈɛxt̪o# | 104 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#pɾˌovˈɛjt̪o# | 113 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#pɾˌuvˈɛjt̪o# | 116 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#pɾˌuvˈejt̪o# | 117 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pɾˌuβˈejt̪o# | 129 : {v;f} > {β;ɸ} 
+#pɾˌuβˈejt͡ʃo# | 156 : {s;t̪} > {ʃ;t͡ʃ} / j __ [+syl]
+#pɾˌuβˈeːt͡ʃo# | 158 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#pɾˌuβˈet͡ʃo# | 159 : [+syl] > [-long,-splng] 
+#pɾˌubˈet͡ʃo# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#pɾubˈet͡ʃo# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #pɾubˈet͡ʃo#

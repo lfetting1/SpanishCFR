@@ -72,7 +72,7 @@ $ɾ > r / __ r $(above change applied to all consonants so we revert it before r
 e > i / __ j $ front raising
 ˌe > ˌi / __ j $ front raising
 ˈe > ˈi / __ j $ front raising
-[+cons,+hi] > j / [+syl] __ [+cons,-back] $ velar yod early
+[+cons,+hi] > j / [+syl] __ [+cons,-back,+son] $ velar yod early
 [+nas,+cor] > ɲ / j __ $ nasal palatal
 [+nas,+cor] > ɲ / __ j $ nasal palatal (combine?)
 [+lat] > ʎ / j __ $ lateral palatalization (combine with nasal?) $(62) Has desired effect. Gemination mismatch in some forms but rule is good.
@@ -179,7 +179,7 @@ $new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has n
 [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅
 
 
-{s;t̪} > {ʃ;t͡ʃ} / j __ $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+{s;t̪} > {ʃ;t͡ʃ} / j __ [+syl] $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
 
 $CM 10/13: apparently the second recurrence of progressive rounding was missed -- unless this reflects the web version?
 {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.

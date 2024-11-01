@@ -1,21 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1150:
-#ˌɑkwˈɑkeɑm# >>> #ebˈɑθɑ# ( GOLD : #ɑɡʷˈɑθɑ#) :
+#ˌɑkwˈɑkeɑm# >>> #ɑɡʷˈɑθɑ# ( GOLD : #ɑɡʷˈɑθɑ#) :
 ˌɑ k w ˈɑ k e ɑ m 
-#ˌɑkɣʷˈɑkeɑm# | 18 : w > ɣʷ / __ [+syl]
-#ˌɑkɣʷˈɑkeɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌɑkbˈɑkeɑ# | 37 : ɣʷ > b 
-#ˌɑxbˈɑkeɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɑxbˈɑkjɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌɑjbˈɑkjɑ# | 56 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#ˌɑjbˈɑt͡ʃjɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑjbˈɑt͡ʃɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɑjbˈɑd͡ʒɑ# | 101 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑjbˈɑd͡zɑ# | 104 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌejbˈɑd͡zɑ# | 139 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ˌeːbˈɑd͡zɑ# | 154 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌebˈɑd͡zɑ# | 155 : [+syl] > [-long,-splng] 
-#ˌebˈɑz̪ɑ# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌebˈɑs̪ɑ# | 203 : [+strid] > [-voi] 
-#ˌebˈɑθɑ# | 206 : s̪ > θ 
-#ebˈɑθɑ# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ebˈɑθɑ#
+#ˌɑkʷˈɑkeɑm# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
+#ˌɑkʷˈɑkeɑ# | 34 : [+nas] > ∅ / [-stres] __ #
+#ˌɑkʷˈɑkjɑ# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɑkʷˈɑt͡ʃjɑ# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑkʷˈɑt͡ʃɑ# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɑɡʷˈɑd͡ʒɑ# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑɡʷˈɑd͡zɑ# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑɣʷˈɑd͡zɑ# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌɑɣʷˈɑz̪ɑ# | 201 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌɑɣʷˈɑs̪ɑ# | 202 : [+strid] > [-voi] 
+#ˌɑɣʷˈɑθɑ# | 205 : s̪ > θ / __ [-cons]
+#ˌɑɡʷˈɑθɑ# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ɑɡʷˈɑθɑ# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑɡʷˈɑθɑ#

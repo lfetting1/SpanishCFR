@@ -1,14 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1098:
-#ˌae̯st̪ˈiːwum# >>> #ast̪ˈio# ( GOLD : #est̪ˈio#) :
+#ˌae̯st̪ˈiːwum# >>> #est̪ˈibo# ( GOLD : #est̪ˈio#) :
 ˌa e̯ s t̪ ˈiː w u m 
-#ˌae̯st̪ˈiːɣʷum# | 18 : w > ɣʷ / __ [+syl]
-#ˌae̯s̪t̪ˈiːɣʷum# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ˌaːs̪t̪ˈiːɣʷum# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌaːs̪t̪ˈiːɣʷu# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌaːs̪t̪ˈiːbu# | 37 : ɣʷ > b 
-#ˌaːs̪t̪ˈiːbo# | 50 : [+syl,-long] > [-hi] 
-#ˌas̪t̪ˈibo# | 51 : [+syl] > [-long,-splng] 
-#ˌas̪t̪ˈio# | 99 : [-son,+voi,-strid,-front,βlab,-delrel] > ∅ / [-cons] __ [+syl,βlab]
-#ˌast̪ˈio# | 204 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#ast̪ˈio# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ast̪ˈio#
+#ˌɑjst̪ˈiːwum# | 0 : [-hi] e̯ > [+back,-front] j
+#ˌɑjst̪ˈiːɣʷum# | 20 : w > ɣʷ / __ [+syl]
+#ˌɑjs̪t̪ˈiːɣʷum# | 22 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#ˌɛjs̪t̪ˈiːɣʷum# | 23 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#ˌejs̪t̪ˈiːɣʷum# | 24 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
+#ˌeːs̪t̪ˈiːɣʷum# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌeːs̪t̪ˈiːɣʷu# | 34 : [+nas] > ∅ / [-stres] __ #
+#ˌeːs̪t̪ˈiːβu# | 39 : ɣʷ > β 
+#ˌeːs̪t̪ˈiːβo# | 52 : [+syl,-long] > [-hi] 
+#ˌes̪t̪ˈiβo# | 53 : [+syl] > [-long,-splng] 
+#ˌes̪t̪ˈivo# | 112 : β > v 
+#ˌes̪t̪ˈiβo# | 129 : {v;f} > {β;ɸ} 
+#ˌest̪ˈiβo# | 203 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#ˌest̪ˈibo# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#est̪ˈibo# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #est̪ˈibo#

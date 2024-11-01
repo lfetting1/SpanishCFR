@@ -1,13 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :34:
 #d̪ˈekimum# >>> #d̪ˈemo# ( GOLD : #d̪jˈeθmo#) :
 d̪ ˈe k i m u m 
-#d̪ˈekmum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#d̪ˈekmu# | 32 : [+nas] > ∅ / [-stres] __ #
-#d̪ˈexmu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#d̪ˈɛxmu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#d̪ˈɛxmo# | 50 : [+syl,-long] > [-hi] 
-#d̪ˈɛjmo# | 56 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#d̪ˈejmo# | 113 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#d̪ˈeːmo# | 154 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#d̪ˈemo# | 155 : [+syl] > [-long,-splng] 
+#d̪ˈekmum# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
+#d̪ˈekmu# | 34 : [+nas] > ∅ / [-stres] __ #
+#d̪ˈexmu# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#d̪ˈɛxmu# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#d̪ˈɛxmo# | 52 : [+syl,-long] > [-hi] 
+#d̪ˈɛjmo# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+#ðˈɛjmo# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˈejmo# | 117 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#ðˈeːmo# | 158 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ðˈemo# | 159 : [+syl] > [-long,-splng] 
+#d̪ˈemo# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
 Final form : #d̪ˈemo#

@@ -1,15 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :479:
-#lˌiksˈiːwɑ# >>> #lesˈibɑ# ( GOLD : #lexˈiɑ#) :
+#lˌiksˈiːwɑ# >>> #lexˈiɑ# ( GOLD : #lexˈiɑ#) :
 l ˌi k s ˈiː w ɑ 
-#lˌiksˈiːɣʷɑ# | 18 : w > ɣʷ / __ [+syl]
-#lˌiksˈiːbɑ# | 37 : ɣʷ > b 
-#lˌixsˈiːbɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#lˌexsˈiːbɑ# | 50 : [+syl,-long] > [-hi] 
-#lˌexsˈibɑ# | 51 : [+syl] > [-long,-splng] 
-#lˌejsˈibɑ# | 56 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#lˌejzˈibɑ# | 100 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#lˌeːzˈibɑ# | 154 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˌezˈibɑ# | 155 : [+syl] > [-long,-splng] 
-#lˌesˈibɑ# | 203 : [+strid] > [-voi] 
-#lesˈibɑ# | 209 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #lesˈibɑ#
+#lˌiksˈiːɣʷɑ# | 20 : w > ɣʷ / __ [+syl]
+#lˌiksˈiːβɑ# | 39 : ɣʷ > β 
+#lˌixsˈiːβɑ# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#lˌexsˈiːβɑ# | 52 : [+syl,-long] > [-hi] 
+#lˌexsˈiβɑ# | 53 : [+syl] > [-long,-splng] 
+#lˌexsˈiɑ# | 103 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#lˌejsˈiɑ# | 113 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#lˌijsˈiɑ# | 114 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#lˌijʃˈiɑ# | 156 : {s;t̪} > {ʃ;t͡ʃ} / j __ [+syl]
+#lˌiːʃˈiɑ# | 158 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˌiʃˈiɑ# | 159 : [+syl] > [-long,-splng] 
+#lˌeʃˈiɑ# | 183 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#lˌexˈiɑ# | 204 : ʃ > x 
+#lexˈiɑ# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #lexˈiɑ#

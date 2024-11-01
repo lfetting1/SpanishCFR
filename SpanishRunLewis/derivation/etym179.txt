@@ -1,12 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :179:
 #hˈod̪ie# >>> #wˈe# ( GOLD : #ˈoj#) :
 h ˈo d̪ i e 
-#ˈod̪ie# | 0 : h > ∅ 
-#ˈɔd̪ie# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˈɔd̪ee# | 50 : [+syl,-long] > [-hi] 
-#ˈɔd̪e# | 61 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#ˈɔe# | 99 : [-son,+voi,-strid,-front,βlab,-delrel] > ∅ / [-cons] __ [+syl,βlab]
-#ˈɔj# | 107 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-#ˈoj# | 113 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#wˈe# | 176 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#ˈod̪ie# | 1 : h > ∅ 
+#ˈɔd̪ie# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɔd̪ee# | 52 : [+syl,-long] > [-hi] 
+#ˈɔd̪e# | 68 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
+#ˈɔðe# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ˈɔe# | 103 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#ˈɔj# | 111 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#ˈoj# | 117 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#wˈe# | 174 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
 Final form : #wˈe#
