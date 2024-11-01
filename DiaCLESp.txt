@@ -124,7 +124,7 @@ $ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it be
 
 {ɛ; ˈɛ; ˌɛ; e; ˌe; ˈe} > {e; ˈe; ˌe; i; ˌi; ˈi} / __ j $front raising
 
-[+cons,+hi] > j / [+syl] __ [+cons,-back] $ velar yod early
+[+cons,+hi] > j / [+syl] __ [+cons,-back,+son] $ velar yod early
 
 [+nas,+cor] > ɲ / j __ $ nasal palatal
 
@@ -228,7 +228,7 @@ $[+cons,-cont,+voi] > [+cont] $spirantization $(88) works.
 
 β > v $ beta_vee $(104) definitely bled but works.
 
-[+cons,+back] > j / [+syl] __ [-back,+cons] $ velar yod late $(105) fixed posterior
+[+cons,+back,-nas] > j / [+syl] __ [-back,+cons] $ velar yod late $(105) fixed posterior
 
 [+front,+tense,+syl,-lo] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+hi,+front,-nas,-lat] [+syl,+back] $metaphony e. CM 10/8: fixed metaphony-e to one rule based on span15. OG version (bugged) is below. 
 $[+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels $(107) !come back to these
@@ -284,7 +284,8 @@ r r > rː $ trilling. TODO check this -- was missing in one version.
 [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] $ degemination. TODO check again with second run-through. 
 
 ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
-[-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] $ syncope late,may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare eŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 
+
+[-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @ $ syncope late,may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (TODO take another look at this rule). 
 
 [-son] > [-voi] / [-voi] __ $ progressive_voicing
 
@@ -300,7 +301,7 @@ $new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has n
 [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅
 
 
-{s;t̪} > {ʃ;t͡ʃ} / j __ $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+{s;t̪} > {ʃ;t͡ʃ} / j __ [-cons] $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
 
 $CM 10/13: apparently the second recurrence of progressive rounding was missed -- unless this reflects the web version?
 {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.

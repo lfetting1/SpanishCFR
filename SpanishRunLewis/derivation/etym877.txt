@@ -4,10 +4,10 @@ s ˌu s p ˈe k t̪ ɑ
 #sˌuspˈext̪ɑ# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 #sˌuspˈɛxt̪ɑ# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #sˌospˈɛxt̪ɑ# | 52 : [+syl,-long] > [-hi] 
-#sˌospˈɛjt̪ɑ# | 113 : [+cons,+back] > j / [+syl] __ [-back,+cons]
+#sˌospˈɛjt̪ɑ# | 113 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
 #sˌuspˈɛjt̪ɑ# | 116 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
 #sˌuspˈejt̪ɑ# | 117 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#sˌuspˈejt͡ʃɑ# | 156 : {s;t̪} > {ʃ;t͡ʃ} / j __ [+syl]
+#sˌuspˈejt͡ʃɑ# | 156 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
 #sˌuspˈeːt͡ʃɑ# | 158 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
 #sˌuspˈet͡ʃɑ# | 159 : [+syl] > [-long,-splng] 
 #suspˈet͡ʃɑ# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 

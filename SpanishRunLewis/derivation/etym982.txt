@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :982:
-#wˌin̪kˈikulum# >>> #beθˈexo# ( GOLD : #ben̪θˈexo#) :
+#wˌin̪kˈikulum# >>> #benθˈexo# ( GOLD : #ben̪θˈexo#) :
 w ˌi n̪ k ˈi k u l u m 
 #wˌiŋkˈikulum# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
 #ɣʷˌiŋkˈikulum# | 20 : w > ɣʷ / __ [+syl]
@@ -16,16 +16,14 @@ w ˌi n̪ k ˈi k u l u m
 #βˌeŋt͡ʃˈeʎo# | 80 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
 #βˌeŋt͡sˈeʎo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
 #vˌeŋt͡sˈeʎo# | 112 : β > v 
-#vˌejt͡sˈeʎo# | 113 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#βˌejt͡sˈeʎo# | 129 : {v;f} > {β;ɸ} 
-#βˌejt͡sˈed͡ʒo# | 130 : ʎ > d͡ʒ 
-#βˌejt͡sˈeʒo# | 131 : d͡ʒ > ʒ 
-#βˌeːt͡sˈeʒo# | 158 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#βˌet͡sˈeʒo# | 159 : [+syl] > [-long,-splng] 
-#βˌes̪ˈeʒo# | 201 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#βˌes̪ˈeʃo# | 202 : [+strid] > [-voi] 
-#βˌes̪ˈexo# | 204 : ʃ > x 
-#βˌeθˈexo# | 205 : s̪ > θ / __ [-cons]
-#bˌeθˈexo# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#beθˈexo# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #beθˈexo#
+#βˌeŋt͡sˈeʎo# | 129 : {v;f} > {β;ɸ} 
+#βˌeŋt͡sˈed͡ʒo# | 130 : ʎ > d͡ʒ 
+#βˌeŋt͡sˈeʒo# | 131 : d͡ʒ > ʒ 
+#βˌeŋs̪ˈeʒo# | 201 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#βˌeŋs̪ˈeʃo# | 202 : [+strid] > [-voi] 
+#βˌeŋs̪ˈexo# | 204 : ʃ > x 
+#βˌeŋθˈexo# | 205 : s̪ > θ / __ [-cons]
+#bˌeŋθˈexo# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#bˌenθˈexo# | 214 : ŋ > n 
+#benθˈexo# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #benθˈexo#
