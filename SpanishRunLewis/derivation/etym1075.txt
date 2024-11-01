@@ -1,7 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1075:
-#ˈɑmit̪es# >>> #ˈɑmt̪es# ( GOLD : #ˈɑn̪d̪es#) :
-ˈɑ m i t̪ e s 
-#ˈɑːmit̪es# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
-#ˈɑːmt̪es# | 32 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons] __ [+cons,-back] [+syl,-prim]
-#ˈɑmt̪es# | 53 : [+syl] > [-long,-splng] 
-Final form : #ˈɑmt̪es#
+#ˈɑmit̪eːs# >>> #ˈɑmd̪es# ( GOLD : #ˈɑn̪d̪es#) :
+ˈɑ m i t̪ eː s 
+#ˈɑːmit̪eːs# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
+#ˈɑːmet̪eːs# | 52 : [+syl,-long] > [-hi] 
+#ˈɑmet̪es# | 53 : [+syl] > [-long,-splng] 
+#ˈɑmed̪es# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˈɑmd̪es# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
+#ˈɑmðes# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˈɑmd̪es# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : #ˈɑmd̪es#

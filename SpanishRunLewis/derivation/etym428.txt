@@ -1,12 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :428:
 #lˈen̪d̪in̪em# >>> #ljˈen̪d̪ɾd̪e# ( GOLD : #ljˈen̪d̪ɾe#) :
 l ˈe n̪ d̪ i n̪ e m 
-#lˈen̪d̪n̪em# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#lˈen̪d̪n̪e# | 34 : [+nas] > ∅ / [-stres] __ #
-#lˈɛn̪d̪n̪e# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#lˈɛn̪ðn̪e# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#lˈɛen̪ðn̪e# | 120 : ∅ > e / [-tense,+prim] __ 
-#ljˈen̪ðn̪e# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#lˈen̪d̪in̪e# | 34 : [+nas] > ∅ / [-stres] __ #
+#lˈɛn̪d̪in̪e# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#lˈɛn̪d̪en̪e# | 52 : [+syl,-long] > [-hi] 
+#lˈɛn̪ðen̪e# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#lˈɛen̪ðen̪e# | 120 : ∅ > e / [-tense,+prim] __ 
+#ljˈen̪ðen̪e# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ljˈen̪ðn̪e# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
 #ljˈen̪n̪ðe# | 173 : ð n̪ > n̪ ð 
 #ljˈen̪ɾðe# | 199 : n̪ > ɾ / [+nas] __ 
 #ljˈen̪d̪ɾðe# | 200 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]

@@ -52,22 +52,14 @@ ${ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ;
 
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
-[+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] $syncope_early
-
-[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] $syncope_early
-
-[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] $syncope_early (pretonic; sib __ nonvelar) 
-
-[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+son,+cons] __ [+cons,-back] [+prim] $syncope_early (pretonic; liq __ nonvel)
-
-[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [-syl] __ [+son,+cons] [+prim] $syncope_early  (pretonic; C/J __ liq)
-
-[+syl,-prim] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+syl,-prim] $syncope_early (posttonic; sib __ nonvelar)
-
-[+syl,-prim] > ∅ / [+prim] ([-syl])* [+son,+cons] __ [+cons,-back] [+syl,-prim] $syncope_early (posttonic; liq __ nonvel)
-
-[+syl,-prim] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons] [+syl,-prim] $syncope_early (posttonic; C/J __ liq)
-
+[+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] @ $syncope_early
+[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $syncope_early
+[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] @ $syncope_early (pretonic; sib __ nonvelar) 
+[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back] [+prim] @ $syncope_early (pretonic; liq __ nonvel)
+[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [-syl] __ [+son,+cons,-nas] [+prim] @ $syncope_early  (pretonic; C/J __ liq)
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+syl,-prim] @ $syncope_early (posttonic; sib __ nonvelar)
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back] [+syl,-prim] @ $syncope_early (posttonic; liq __ nonvel)
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons,-nas] [+syl,-prim] @ $syncope_early (posttonic; C/J __ liq)
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion, does not get deleted after stressed final syllables, effectively only monosyllabic words such as tam > tan or cum > con
 
 [+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 

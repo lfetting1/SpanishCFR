@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :769:
-#rˌoːbˈiːɡin̪e# >>> #roˈeɲi# ( GOLD : #robˈin̪#) :
+#rˌoːbˈiːɡin̪e# >>> #roˈixn̪e# ( GOLD : #robˈin̪#) :
 r ˌoː b ˈiː ɡ i n̪ e 
-#rˌoːbˈiːɡn̪e# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#rˌoːbˈiːɣn̪e# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#rˌobˈiɣn̪e# | 53 : [+syl] > [-long,-splng] 
-#ɾˌobˈiɣn̪e# | 54 : r > ɾ 
-#ɾˌobˈijn̪e# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#ɾˌobˈijɲe# | 64 : [+nas,+cor] > ɲ / j __ 
-#ɾˌobˈiɲe# | 79 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#ɾˌoβˈiɲe# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ɾˌoˈiɲe# | 103 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#ɾˌoˈiɲi# | 119 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-#ɾˌoˈeɲi# | 183 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#rˌoˈeɲi# | 212 : ɾ > r / # __ 
-#roˈeɲi# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #roˈeɲi#
+#rˌoːbˈiːɡen̪e# | 52 : [+syl,-long] > [-hi] 
+#rˌobˈiɡen̪e# | 53 : [+syl] > [-long,-splng] 
+#ɾˌobˈiɡen̪e# | 54 : r > ɾ 
+#ɾˌobˈiɡjen̪e# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ɾˌobˈid͡ʒjen̪e# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ɾˌobˈid͡ʒen̪e# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ɾˌoβˈiʒen̪e# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ɾˌoˈiʒen̪e# | 103 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
+#ɾˌuˈiʒen̪e# | 116 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#ɾˌuˈiʒn̪e# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
+#ɾˌoˈiʒn̪e# | 183 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#ɾˌoˈiʃn̪e# | 202 : [+strid] > [-voi] 
+#ɾˌoˈixn̪e# | 204 : ʃ > x 
+#rˌoˈixn̪e# | 212 : ɾ > r / # __ 
+#roˈixn̪e# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #roˈixn̪e#

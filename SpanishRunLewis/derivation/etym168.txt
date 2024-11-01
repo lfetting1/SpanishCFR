@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :168:
-#fˌuːlˈiːɡin̪em# >>> #olˈeɲi# ( GOLD : #oʝˈin̪#) :
+#fˌuːlˈiːɡin̪em# >>> #olˈixn̪e# ( GOLD : #oʝˈin̪#) :
 f ˌuː l ˈiː ɡ i n̪ e m 
-#fˌuːlˈiːɡn̪em# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#fˌuːlˈiːɡn̪e# | 34 : [+nas] > ∅ / [-stres] __ #
-#fˌuːlˈiːɣn̪e# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#fˌulˈiɣn̪e# | 53 : [+syl] > [-long,-splng] 
-#fˌulˈijn̪e# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#fˌulˈijɲe# | 64 : [+nas,+cor] > ɲ / j __ 
-#fˌulˈiɲe# | 79 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-#fˌulˈiɲi# | 119 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-#ɸˌulˈiɲi# | 129 : {v;f} > {β;ɸ} 
-#ɸˌolˈeɲi# | 183 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#hˌolˈeɲi# | 189 : ɸ > h / __ [+syl]
-#ˌolˈeɲi# | 191 : h > ∅ 
-#olˈeɲi# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #olˈeɲi#
+#fˌuːlˈiːɡin̪e# | 34 : [+nas] > ∅ / [-stres] __ #
+#fˌuːlˈiːɡen̪e# | 52 : [+syl,-long] > [-hi] 
+#fˌulˈiɡen̪e# | 53 : [+syl] > [-long,-splng] 
+#fˌulˈiɡjen̪e# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#fˌulˈid͡ʒjen̪e# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fˌulˈid͡ʒen̪e# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#fˌulˈiʒen̪e# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ɸˌulˈiʒen̪e# | 129 : {v;f} > {β;ɸ} 
+#ɸˌulˈiʒn̪e# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
+#ɸˌolˈiʒn̪e# | 183 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#hˌolˈiʒn̪e# | 189 : ɸ > h / __ [+syl]
+#ˌolˈiʒn̪e# | 191 : h > ∅ 
+#ˌolˈiʃn̪e# | 202 : [+strid] > [-voi] 
+#ˌolˈixn̪e# | 204 : ʃ > x 
+#olˈixn̪e# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #olˈixn̪e#

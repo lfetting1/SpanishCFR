@@ -1,19 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :26:
-#bˌurrˈɑɡin̪em# >>> #borˈɑɲi# ( GOLD : #borˈen̪#) :
+#bˌurrˈɑɡin̪em# >>> #borˈen̪# ( GOLD : #borˈen̪#) :
 b ˌu r r ˈɑ ɡ i n̪ e m 
-#bˌurrˈɑɡn̪em# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#bˌurrˈɑɡn̪e# | 34 : [+nas] > ∅ / [-stres] __ #
-#bˌurrˈɑɣn̪e# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#bˌorrˈɑɣn̪e# | 52 : [+syl,-long] > [-hi] 
-#bˌoɾɾˈɑɣn̪e# | 54 : r > ɾ 
-#bˌorˈɑɣn̪e# | 55 : ɾ ɾ > r 
-#bˌorˈɑjn̪e# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#bˌorˈɑjɲe# | 64 : [+nas,+cor] > ɲ / j __ 
-#bˌorˈɑɲe# | 80 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#βˌorˈɑɲe# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#vˌorˈɑɲe# | 112 : β > v 
-#vˌorˈɑɲi# | 119 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-#βˌorˈɑɲi# | 129 : {v;f} > {β;ɸ} 
-#bˌorˈɑɲi# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#borˈɑɲi# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #borˈɑɲi#
+#bˌurrˈɑɡin̪e# | 34 : [+nas] > ∅ / [-stres] __ #
+#bˌurrˈɑin̪e# | 47 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+#bˌorrˈɑen̪e# | 52 : [+syl,-long] > [-hi] 
+#bˌoɾɾˈɑen̪e# | 54 : r > ɾ 
+#bˌorˈɑen̪e# | 55 : ɾ ɾ > r 
+#βˌorˈɑen̪e# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#βˌorˈɑjn̪e# | 111 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+#vˌorˈɑjn̪e# | 112 : β > v 
+#βˌorˈɑjn̪e# | 129 : {v;f} > {β;ɸ} 
+#βˌorˈejn̪e# | 143 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#βˌorˈeːn̪e# | 158 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βˌorˈen̪e# | 159 : [+syl] > [-long,-splng] 
+#βˌorˈen̪# | 179 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#bˌorˈen̪# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#borˈen̪# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #borˈen̪#
