@@ -7,13 +7,13 @@ d̪ ˈe k i m u m
 #d̪ˈɛkjemo# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #d̪ˈɛt͡ʃjemo# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
 #d̪ˈɛt͡ʃemo# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ðˈɛt͡ʃemo# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˈɛt͡ʃemo# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
 #ðˈɛd͡ʒemo# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
 #ðˈɛd͡zemo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
 #ðˈɛed͡zemo# | 120 : ∅ > e / [-tense,+prim] __ 
 #ðjˈed͡zemo# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ðjˈed͡zmo# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#ðjˈez̪mo# | 201 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ðjˈes̪mo# | 202 : [+strid] > [-voi] 
-#d̪jˈes̪mo# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ðjˈed͡zmo# | 142 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+#ðjˈez̪mo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ðjˈes̪mo# | 203 : [+strid] > [-voi] 
+#d̪jˈes̪mo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
 Final form : #d̪jˈes̪mo#

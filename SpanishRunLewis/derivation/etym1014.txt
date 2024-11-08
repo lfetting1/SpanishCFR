@@ -6,11 +6,13 @@ Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1014:
 #ɡˈɑwd̪jo# | 52 : [+syl,-long] > [-hi] 
 #ɡˈɑwd͡ʒjo# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
 #ɡˈɑwd͡ʒo# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ɣˈɑwʒo# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ɣˈowʒo# | 143 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ɣˈoːʒo# | 158 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɣˈoʒo# | 159 : [+syl] > [-long,-splng] 
-#ɣˈoʃo# | 202 : [+strid] > [-voi] 
-#ɣˈoxo# | 204 : ʃ > x 
-#ɡˈoxo# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ɣˈɑwd͡ʒo# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#ɣˈɑwʝo# | 102 : d͡ʒ > ʝ 
+#ɣˈɑwʒo# | 133 : ʝ > ʒ / [-syl] __ [+round]
+#ɣˈowʒo# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɣˈoːʒo# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɣˈoʒo# | 160 : [+syl] > [-long,-splng] 
+#ɣˈoʃo# | 203 : [+strid] > [-voi] 
+#ɣˈoxo# | 205 : ʃ > x 
+#ɡˈoxo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
 Final form : #ɡˈoxo#

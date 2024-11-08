@@ -4,7 +4,7 @@ h ˌɑ m i k ˈe o l u m
 #ˌɑmikˈeolum# | 1 : h > ∅ 
 #ˌɑːmikˈeolum# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
 #ˌɑːmikˈeolu# | 34 : [+nas] > ∅ / [-stres] __ #
-#ˌɑːmikeˈolu# | 44 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌɑːmikeˈolu# | 46 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
 #ˌɑːmikjˈolu# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
 #ˌɑːmikjˈɔlu# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #ˌɑːmekjˈɔlo# | 52 : [+syl,-long] > [-hi] 
@@ -15,9 +15,9 @@ h ˌɑ m i k ˈe o l u m
 #ˌɑmed͡zˈɔlo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
 #ˌɑmed͡zˈɔelo# | 120 : ∅ > e / [-tense,+prim] __ 
 #ˌɑmed͡zwˈelo# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌɑmd͡zwˈelo# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#ˌɑmz̪wˈelo# | 201 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌɑms̪wˈelo# | 202 : [+strid] > [-voi] 
-#ˌɑmθwˈelo# | 205 : s̪ > θ / __ [-cons]
-#ɑmθwˈelo# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌɑmd͡zwˈelo# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#ˌɑmz̪wˈelo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌɑms̪wˈelo# | 203 : [+strid] > [-voi] 
+#ˌɑmθwˈelo# | 206 : s̪ > θ / __ [-cons]
+#ɑmθwˈelo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ɑmθwˈelo#

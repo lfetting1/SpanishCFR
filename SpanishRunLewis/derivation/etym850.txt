@@ -3,10 +3,10 @@ Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :850:
 s ˈɑ p i d̪ u m 
 #sˈɑpid̪u# | 34 : [+nas] > ∅ / [-stres] __ #
 #sˈɑped̪o# | 52 : [+syl,-long] > [-hi] 
-#sˈɑpeðo# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#sˈɑpeðo# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
 #sˈɑbeðo# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#sˈɑbðo# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#sˈɑβðo# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#sˈɑwðo# | 198 : [+lab,-son] > w / __ [-son]
-#sˈɑwd̪o# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#sˈɑbðo# | 142 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+#sˈɑβðo# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#sˈɑwðo# | 199 : [+lab,-son] > w / __ [-son]
+#sˈɑwd̪o# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
 Final form : #sˈɑwd̪o#

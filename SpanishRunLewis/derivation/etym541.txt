@@ -11,14 +11,14 @@ m ˌɑ n̪ s i oː n̪ ˈɑː t̪ ɑ m
 #mˌɑjson̪ˈɑt̪ɑ# | 99 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
 #mˌɑjzon̪ˈɑt̪ɑ# | 104 : [-son,+cont] > [+voi] / [-cons] __ [+son]
 #mˌɑjzon̪ˈɑd̪ɑ# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#mˌɑjzn̪ˈɑd̪ɑ# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#mˌejzn̪ˈɑd̪ɑ# | 143 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#mˌeːzn̪ˈɑd̪ɑ# | 158 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#mˌezn̪ˈɑd̪ɑ# | 159 : [+syl] > [-long,-splng] 
-#mˌezn̪ˈɑðɑ# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#mˌesn̪ˈɑðɑ# | 202 : [+strid] > [-voi] 
-#mˌezn̪ˈɑðɑ# | 207 : s > z / [-cons] __ [+cons,+voi]
-#mˌezn̪ˈɑd̪ɑ# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#mˌesn̪ˈɑd̪ɑ# | 215 : z > s 
-#mesn̪ˈɑd̪ɑ# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#mˌɑjzn̪ˈɑd̪ɑ# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#mˌejzn̪ˈɑd̪ɑ# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#mˌeːzn̪ˈɑd̪ɑ# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌezn̪ˈɑd̪ɑ# | 160 : [+syl] > [-long,-splng] 
+#mˌezn̪ˈɑðɑ# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#mˌesn̪ˈɑðɑ# | 203 : [+strid] > [-voi] 
+#mˌezn̪ˈɑðɑ# | 208 : s > z / [-cons] __ [+cons,+voi]
+#mˌezn̪ˈɑd̪ɑ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#mˌesn̪ˈɑd̪ɑ# | 216 : z > s 
+#mesn̪ˈɑd̪ɑ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #mesn̪ˈɑd̪ɑ#

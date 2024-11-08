@@ -1,11 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :526:
-#mˈust̪id̪um# >>> #mˈossθo# ( GOLD : #mˈust̪jo#) :
+#mˈust̪id̪um# >>> #mˈost̪ed̪o# ( GOLD : #mˈust̪jo#) :
 m ˈu s t̪ i d̪ u m 
 #mˈus̪t̪id̪um# | 22 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
 #mˈus̪t̪id̪u# | 34 : [+nas] > ∅ / [-stres] __ #
 #mˈos̪t̪ed̪o# | 52 : [+syl,-long] > [-hi] 
-#mˈos̪t̪eðo# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#mˈos̪t̪ðo# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#mˈos̪t̪θo# | 142 : [-son] > [-voi] / [-voi] __ 
-#mˈossθo# | 203 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #mˈossθo#
+#mˈos̪t̪eðo# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#mˈost̪eðo# | 204 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#mˈost̪ed̪o# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : #mˈost̪ed̪o#

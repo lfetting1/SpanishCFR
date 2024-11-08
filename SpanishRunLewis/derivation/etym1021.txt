@@ -9,13 +9,13 @@ Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1021:
 #ɡˌoɾɡoʎjˈon̪e# | 67 : [+lat] > ʎ / __ j
 #ɡˌoɾɡoʎˈon̪e# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
 #ɡˌoɾɡuʎˈon̪e# | 100 : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]
-#ɣˌoɾɣuʎˈon̪e# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ɣˌoɾɣuʎˈon̪e# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
 #ɣˌoɾɣud͡ʒˈon̪e# | 130 : ʎ > d͡ʒ 
 #ɣˌoɾɣuʒˈon̪e# | 131 : d͡ʒ > ʒ 
-#ɣˌoɾɣʒˈon̪e# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#ɣˌoɾɣʒˈon̪# | 179 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ɣˌoɾɣʃˈon̪# | 202 : [+strid] > [-voi] 
-#ɣˌoɾɣxˈon̪# | 204 : ʃ > x 
-#ɡˌoɾɡxˈon̪# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ɡoɾɡxˈon̪# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ɣˌoɾɣʒˈon̪e# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#ɣˌoɾɣʒˈon̪# | 180 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ɣˌoɾɣʃˈon̪# | 203 : [+strid] > [-voi] 
+#ɣˌoɾɣxˈon̪# | 205 : ʃ > x 
+#ɡˌoɾɡxˈon̪# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ɡoɾɡxˈon̪# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ɡoɾɡxˈon̪#

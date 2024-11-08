@@ -1,13 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :593:
-#n̪ˈebulɑ# >>> #n̪jˈeblɑ# ( GOLD : #n̪jˈeblɑ#) :
+#n̪ˈebulɑ# >>> #n̪ˈiolɑ# ( GOLD : #n̪jˈeblɑ#) :
 n̪ ˈe b u l ɑ 
 #n̪ˈɛbulɑ# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
 #n̪ˈɛbolɑ# | 52 : [+syl,-long] > [-hi] 
-#n̪ˈɛβolɑ# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#n̪ˈɛvolɑ# | 112 : β > v 
-#n̪ˈɛevolɑ# | 120 : ∅ > e / [-tense,+prim] __ 
-#n̪jˈevolɑ# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#n̪jˈeβolɑ# | 129 : {v;f} > {β;ɸ} 
-#n̪jˈeβlɑ# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#n̪jˈeblɑ# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #n̪jˈeblɑ#
+#n̪ˈɛβolɑ# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#n̪ˈɛolɑ# | 103 : [-son,+voi,-strid,-front,βlab] > ∅ / [+syl] __ [+syl,βlab]
+#n̪ˈɛeolɑ# | 120 : ∅ > e / [-tense,+prim] __ 
+#n̪jˈeolɑ# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#n̪jˈiolɑ# | 194 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
+#n̪ˈiolɑ# | 198 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+Final form : #n̪ˈiolɑ#

@@ -5,9 +5,9 @@ Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1198:
 #ˌɑs̪t̪ˈorekɑ# | 52 : [+syl,-long] > [-hi] 
 #ˌɑs̪t̪ˈoɾekɑ# | 54 : r > ɾ 
 #ˌɑs̪t̪ˈoɾeɡɑ# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑs̪t̪ˈoɾɡɑ# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#ˌɑs̪t̪ˈoɾɣɑ# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ˌɑst̪ˈoɾɣɑ# | 203 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#ˌɑst̪ˈoɾɡɑ# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ɑst̪ˈoɾɡɑ# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌɑs̪t̪ˈoɾɡɑ# | 142 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+#ˌɑs̪t̪ˈoɾɣɑ# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌɑst̪ˈoɾɣɑ# | 204 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#ˌɑst̪ˈoɾɡɑ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ɑst̪ˈoɾɡɑ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ɑst̪ˈoɾɡɑ#

@@ -1,13 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :392:
-#kˌɑbˈɑllum# >>> #kɑˈolo# ( GOLD : #kɑbˈɑʝo#) :
+#kˌɑbˈɑllum# >>> #kɑbˈolo# ( GOLD : #kɑbˈɑʝo#) :
 k ˌɑ b ˈɑ l l u m 
 #kˌɑbˈɑllu# | 34 : [+nas] > ∅ / [-stres] __ #
 #kˌɑbˈɑllo# | 52 : [+syl,-long] > [-hi] 
-#kˌɑβˈɑllo# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#kˌɑˈɑllo# | 103 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#kˌɑˈɑwlo# | 106 : [+lat] > w / [+lo] __ [+cons]
-#kˌɑˈowlo# | 143 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#kˌɑˈoːlo# | 158 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˌɑˈolo# | 159 : [+syl] > [-long,-splng] 
-#kɑˈolo# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kɑˈolo#
+#kˌɑβˈɑllo# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#kˌɑβˈɑwlo# | 106 : [+lat] > w / [+lo] __ [+cons]
+#kˌɑvˈɑwlo# | 112 : β > v 
+#kˌɑβˈɑwlo# | 129 : {v;f} > {β;ɸ} 
+#kˌɑβˈowlo# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#kˌɑβˈoːlo# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˌɑβˈolo# | 160 : [+syl] > [-long,-splng] 
+#kˌɑbˈolo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#kɑbˈolo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kɑbˈolo#

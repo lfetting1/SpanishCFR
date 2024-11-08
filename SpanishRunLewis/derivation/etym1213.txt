@@ -3,13 +3,13 @@ Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1213:
 d̪ ˌeː k o l l ˈɑː r e
 #d̪ˌekollˈɑre# | 53 : [+syl] > [-long,-splng] 
 #d̪ˌekollˈɑɾe# | 54 : r > ɾ 
-#ðˌekollˈɑɾe# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˌekollˈɑɾe# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
 #ðˌeɡollˈɑɾe# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
 #ðˌeɡoʎˈɑɾe# | 138 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#ðˌeɡʎˈɑɾe# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#ðˌeɣʎˈɑɾe# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ðˌeɣʎˈɑɾ# | 178 : e > ∅ / [+syl] ɾ __ #
-#d̪ˌeɡʎˈɑɾ# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#d̪eɡʎˈɑɾ# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-#d̪eɡʝˈɑɾ# | 217 : ʎ > ʝ 
+#ðˌeɡʎˈɑɾe# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#ðˌeɣʎˈɑɾe# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ðˌeɣʎˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
+#d̪ˌeɡʎˈɑɾ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#d̪eɡʎˈɑɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#d̪eɡʝˈɑɾ# | 218 : ʎ > ʝ 
 Final form : #d̪eɡʝˈɑɾ#

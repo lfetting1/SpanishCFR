@@ -1,7 +1,7 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :222:
 #krˌeɑt̪iˈoːn̪e# >>> #kɾjˈɑθˈon̪# ( GOLD : #kɾjɑθˈon̪#) :
 k r ˌe ɑ t̪ i ˈoː n̪ e 
-#kreˈɑt̪iˈoːn̪e# | 44 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kreˈɑt̪iˈoːn̪e# | 46 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
 #krjˈɑt̪jˈoːn̪e# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
 #krjˈɑt̪jˈon̪e# | 53 : [+syl] > [-long,-splng] 
 #kɾjˈɑt̪jˈon̪e# | 54 : r > ɾ 
@@ -9,8 +9,8 @@ k r ˌe ɑ t̪ i ˈoː n̪ e
 #kɾjˈɑt͡ʃˈon̪e# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
 #kɾjˈɑd͡ʒˈon̪e# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
 #kɾjˈɑd͡zˈon̪e# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kɾjˈɑd͡zˈon̪# | 179 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#kɾjˈɑz̪ˈon̪# | 201 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#kɾjˈɑs̪ˈon̪# | 202 : [+strid] > [-voi] 
-#kɾjˈɑθˈon̪# | 205 : s̪ > θ / __ [-cons]
+#kɾjˈɑd͡zˈon̪# | 180 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#kɾjˈɑz̪ˈon̪# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kɾjˈɑs̪ˈon̪# | 203 : [+strid] > [-voi] 
+#kɾjˈɑθˈon̪# | 206 : s̪ > θ / __ [-cons]
 Final form : #kɾjˈɑθˈon̪#

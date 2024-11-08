@@ -8,12 +8,12 @@ d̪ ˌuː r ˈɑ k i n̪ u m
 #d̪ˌuɾˈɑkjen̪o# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #d̪ˌuɾˈɑt͡ʃjen̪o# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
 #d̪ˌuɾˈɑt͡ʃen̪o# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ðˌuɾˈɑt͡ʃen̪o# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
+#ðˌuɾˈɑt͡ʃen̪o# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
 #ðˌuɾˈɑd͡ʒen̪o# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
 #ðˌuɾˈɑd͡zen̪o# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ðˌuɾˈɑd͡zn̪o# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#ðˌuɾˈɑz̪n̪o# | 201 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ðˌuɾˈɑs̪n̪o# | 202 : [+strid] > [-voi] 
-#d̪ˌuɾˈɑs̪n̪o# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#d̪uɾˈɑs̪n̪o# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ðˌuɾˈɑd͡zn̪o# | 142 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+#ðˌuɾˈɑz̪n̪o# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ðˌuɾˈɑs̪n̪o# | 203 : [+strid] > [-voi] 
+#d̪ˌuɾˈɑs̪n̪o# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#d̪uɾˈɑs̪n̪o# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #d̪uɾˈɑs̪n̪o#

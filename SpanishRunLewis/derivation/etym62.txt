@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :62:
-#d̪ˈuːbit̪ɑ# >>> #d̪wˈid̪ɑ# ( GOLD : #d̪ˈud̪ɑ#) :
+#d̪ˈuːbit̪ɑ# >>> #d̪ˈuwd̪ɑ# ( GOLD : #d̪ˈud̪ɑ#) :
 d̪ ˈuː b i t̪ ɑ 
 #d̪ˈuːbet̪ɑ# | 52 : [+syl,-long] > [-hi] 
 #d̪ˈubet̪ɑ# | 53 : [+syl] > [-long,-splng] 
-#ðˈuβet̪ɑ# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ðˈuet̪ɑ# | 103 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#ðˈued̪ɑ# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#ðˈujd̪ɑ# | 111 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-#ðwˈid̪ɑ# | 174 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ðwˈiðɑ# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#d̪wˈid̪ɑ# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #d̪wˈid̪ɑ#
+#ðˈuβet̪ɑ# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#ðˈuβed̪ɑ# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#ðˈuved̪ɑ# | 112 : β > v 
+#ðˈuβed̪ɑ# | 129 : {v;f} > {β;ɸ} 
+#ðˈuβd̪ɑ# | 142 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+#ðˈuβðɑ# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ðˈuwðɑ# | 199 : [+lab,-son] > w / __ [-son]
+#d̪ˈuwd̪ɑ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : #d̪ˈuwd̪ɑ#

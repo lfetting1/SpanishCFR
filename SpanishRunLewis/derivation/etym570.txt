@@ -1,11 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :570:
-#mˌowˈeːbile# >>> #moˈeel# ( GOLD : #mwˈeble#) :
+#mˌowˈeːbile# >>> #moˈeble# ( GOLD : #mwˈeble#) :
 m ˌo w ˈeː b i l e 
 #mˌoˈeːbile# | 18 : w > ∅ / [+round,+syl] __ 
 #mˌoˈeːbele# | 52 : [+syl,-long] > [-hi] 
 #mˌoˈebele# | 53 : [+syl] > [-long,-splng] 
-#mˌoˈeβele# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#mˌoˈeele# | 103 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#mˌoˈeel# | 179 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#moˈeel# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #moˈeel#
+#mˌoˈeβele# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#mˌoˈevele# | 112 : β > v 
+#mˌoˈeβele# | 129 : {v;f} > {β;ɸ} 
+#mˌoˈeβle# | 142 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+#mˌoˈeble# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#moˈeble# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #moˈeble#

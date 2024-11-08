@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1215:
-#ˌae̯ɡypt̪iˈɑːkum# >>> #exθˈɑɡo# ( GOLD : #ɑθjˈɑɡo#) :
+#ˌae̯ɡypt̪iˈɑːkum# >>> #jøθˈɑɡo# ( GOLD : #ɑθjˈɑɡo#) :
 ˌa e̯ ɡ y p t̪ i ˈɑː k u m
 #ˌɑjɡypt̪iˈɑːkum# | 0 : [-hi] e̯ > [+back,-front] j
 #ˌɛjɡypt̪iˈɑːkum# | 23 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
@@ -13,16 +13,17 @@ Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1215:
 #ˌeɡjøt̪t̪jˈɑko# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
 #ˌed͡ʒjøt̪t͡ʃjˈɑko# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
 #ˌed͡ʒøt̪t͡ʃˈɑko# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌeʒøt̪t͡ʃˈɑko# | 101 : [+cons,-cont,+voi,-son] > [+cont,0delrel] 
-#ˌeʒøt̪t͡ʃˈɑɡo# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌeʒøt̪t͡sˈɑɡo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌeʒt̪t͡sˈɑɡo# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] @
-#ˌeʒt̪t͡sˈɑɣo# | 175 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ˌeʒt͡sˈɑɣo# | 184 : [-son] > ∅ / __ [+delrel]
-#ˌeʒs̪ˈɑɣo# | 201 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌeʃs̪ˈɑɣo# | 202 : [+strid] > [-voi] 
-#ˌexs̪ˈɑɣo# | 204 : ʃ > x 
-#ˌexθˈɑɣo# | 205 : s̪ > θ / __ [-cons]
-#ˌexθˈɑɡo# | 213 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#exθˈɑɡo# | 216 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #exθˈɑɡo#
+#ˌeʝøt̪t͡ʃˈɑko# | 102 : d͡ʒ > ʝ 
+#ˌeʝøt̪t͡ʃˈɑɡo# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌeʝøt̪t͡sˈɑɡo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌeʝyt̪t͡sˈɑɡo# | 119 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+#ˌeyt̪t͡sˈɑɡo# | 125 : ʝ > ∅ / [+syl,+front] __ [+syl]
+#ˌeɥt̪t͡sˈɑɡo# | 127 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
+#jˌøt̪t͡sˈɑɡo# | 175 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
+#jˌøt̪t͡sˈɑɣo# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#jˌøt͡sˈɑɣo# | 185 : [-son] > ∅ / __ [+delrel]
+#jˌøs̪ˈɑɣo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#jˌøθˈɑɣo# | 206 : s̪ > θ / __ [-cons]
+#jˌøθˈɑɡo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#jøθˈɑɡo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #jøθˈɑɡo#
