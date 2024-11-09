@@ -1,19 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :692:
-#pˌed̪ˈukulum# >>> #ped̪ˈuxo# ( GOLD : #pjˈoxo#) :
-p ˌe d̪ ˈu k u l u m 
-#pˌed̪ˈuklum# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+syl,-prim] @
-#pˌed̪ˈuklu# | 34 : [+nas] > ∅ / [-stres] __ #
-#pˌed̪ˈuxlu# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˌed̪ˈoxlo# | 52 : [+syl,-long] > [-hi] 
-#pˌed̪ˈojlo# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#pˌed̪ˈojʎo# | 66 : [+lat] > ʎ / j __ 
-#pˌed̪ˈoʎo# | 80 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#pˌed̪ˈuʎo# | 100 : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]
-#pˌeðˈuʎo# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#pˌeðˈud͡ʒo# | 130 : ʎ > d͡ʒ 
-#pˌeðˈuʒo# | 131 : d͡ʒ > ʒ 
-#pˌeðˈuʃo# | 203 : [+strid] > [-voi] 
-#pˌeðˈuxo# | 205 : ʃ > x 
-#pˌed̪ˈuxo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ped̪ˈuxo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ped̪ˈuxo#
+#pˌekkˈɑːt̪um# >>> #pekˈɑd̪o# ( GOLD : #pekˈɑd̪o#) :
+p ˌe k k ˈɑː t̪ u m 
+#pˌekkˈɑːt̪u# | 34 : [+nas] > ∅ / [-stres] __ #
+#pˌekkˈɑːt̪o# | 52 : [+syl,-long] > [-hi] 
+#pˌekkˈɑt̪o# | 53 : [+syl] > [-long,-splng] 
+#pˌekkˈɑd̪o# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#pˌekˈɑd̪o# | 139 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#pˌekˈɑðo# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#pˌekˈɑd̪o# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#pekˈɑd̪o# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #pekˈɑd̪o#

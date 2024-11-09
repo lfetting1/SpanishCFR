@@ -1,29 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :981:
-#wˌin̪kˈikulum# >>> #ben̪θˈexo# ( GOLD : #ben̪θˈexo#) :
-w ˌi n̪ k ˈi k u l u m 
-#wˌiŋkˈikulum# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ɣʷˌiŋkˈikulum# | 20 : w > ɣʷ / __ [+syl]
-#ɣʷˌiŋkˈiklum# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+syl,-prim] @
-#ɣʷˌiŋkˈiklu# | 34 : [+nas] > ∅ / [-stres] __ #
-#βˌiŋkˈiklu# | 39 : ɣʷ > β 
-#βˌiŋkˈixlu# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#βˌeŋkˈexlo# | 52 : [+syl,-long] > [-hi] 
-#βˌeŋkˈejlo# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#βˌeŋkˈejʎo# | 66 : [+lat] > ʎ / j __ 
-#βˌeŋkjˈejʎo# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌeŋt͡ʃjˈejʎo# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌeŋt͡ʃˈejʎo# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#βˌeŋt͡ʃˈeʎo# | 80 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#βˌeŋt͡sˈeʎo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#vˌeŋt͡sˈeʎo# | 112 : β > v 
-#βˌeŋt͡sˈeʎo# | 129 : {v;f} > {β;ɸ} 
-#βˌeŋt͡sˈed͡ʒo# | 130 : ʎ > d͡ʒ 
-#βˌeŋt͡sˈeʒo# | 131 : d͡ʒ > ʒ 
-#βˌeŋs̪ˈeʒo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#βˌeŋs̪ˈeʃo# | 203 : [+strid] > [-voi] 
-#βˌeŋs̪ˈexo# | 205 : ʃ > x 
-#βˌeŋθˈexo# | 206 : s̪ > θ / __ [-cons]
-#bˌeŋθˈexo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#bˌen̪θˈexo# | 215 : ŋ > n̪ 
-#ben̪θˈexo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ben̪θˈexo#
+#wˌɑlˈen̪t̪em# >>> #bɑljˈen̪t̪e# ( GOLD : #bɑljˈen̪t̪e#) :
+w ˌɑ l ˈe n̪ t̪ e m 
+#ɣʷˌɑlˈen̪t̪em# | 20 : w > ɣʷ / __ [+syl]
+#ɣʷˌɑlˈen̪t̪e# | 34 : [+nas] > ∅ / [-stres] __ #
+#βˌɑlˈen̪t̪e# | 39 : ɣʷ > β 
+#βˌɑlˈɛn̪t̪e# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#vˌɑlˈɛn̪t̪e# | 112 : β > v 
+#vˌɑlˈɛen̪t̪e# | 120 : ∅ > e / [-tense,+prim] __ 
+#vˌɑljˈen̪t̪e# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#βˌɑljˈen̪t̪e# | 129 : {v;f} > {β;ɸ} 
+#bˌɑljˈen̪t̪e# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#bɑljˈen̪t̪e# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bɑljˈen̪t̪e#

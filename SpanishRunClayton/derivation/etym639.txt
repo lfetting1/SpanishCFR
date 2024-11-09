@@ -1,15 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :639:
-#prˌehˈen̪sum# >>> #pɾeˈeso# ( GOLD : #pɾˈeso#) :
-p r ˌe h ˈe n̪ s u m 
-#prˌeˈen̪sum# | 1 : h > ∅ 
-#prˌeˈeːn̪sum# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cont,-son]
-#prˌeˈeːnsum# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#prˌeˈeːnsu# | 34 : [+nas] > ∅ / [-stres] __ #
-#prˌeˈeːsu# | 35 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
-#prˌeˈeːso# | 52 : [+syl,-long] > [-hi] 
-#prˌeˈeso# | 53 : [+syl] > [-long,-splng] 
-#pɾˌeˈeso# | 54 : r > ɾ 
-#pɾˌeˈezo# | 104 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#pɾˌeˈeso# | 203 : [+strid] > [-voi] 
-#pɾeˈeso# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pɾeˈeso#
+#prˌoːfˈekt̪um# >>> #pɾubˈet͡ʃo# ( GOLD : #pɾobˈet͡ʃo#) :
+p r ˌoː f ˈe k t̪ u m 
+#prˌoːfˈekt̪u# | 34 : [+nas] > ∅ / [-stres] __ #
+#prˌoːfˈext̪u# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#prˌoːfˈɛxt̪u# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#prˌoːfˈɛxt̪o# | 52 : [+syl,-long] > [-hi] 
+#prˌofˈɛxt̪o# | 53 : [+syl] > [-long,-splng] 
+#pɾˌofˈɛxt̪o# | 54 : r > ɾ 
+#pɾˌovˈɛxt̪o# | 104 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#pɾˌovˈɛjt̪o# | 113 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#pɾˌuvˈɛjt̪o# | 116 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#pɾˌuvˈejt̪o# | 117 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pɾˌuβˈejt̪o# | 129 : {v;f} > {β;ɸ} 
+#pɾˌuβˈejt͡ʃo# | 157 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+#pɾˌuβˈeːt͡ʃo# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#pɾˌuβˈet͡ʃo# | 160 : [+syl] > [-long,-splng] 
+#pɾˌubˈet͡ʃo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#pɾubˈet͡ʃo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #pɾubˈet͡ʃo#

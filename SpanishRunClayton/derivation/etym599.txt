@@ -1,10 +1,9 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :599:
-#n̪ˈokt̪e# >>> #n̪ˈot͡ʃe# ( GOLD : #n̪ˈot͡ʃe#) :
-n̪ ˈo k t̪ e 
-#n̪ˈoxt̪e# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#n̪ˈɔxt̪e# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#n̪ˈɔjt̪e# | 113 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-#n̪ˈojt̪e# | 117 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#n̪ˈojt͡ʃe# | 157 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-#n̪ˈot͡ʃe# | 165 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-Final form : #n̪ˈot͡ʃe#
+#n̪ˈowem# >>> #n̪we# ( GOLD : #n̪wˈebe#) :
+n̪ ˈo w e m 
+#n̪ˈoem# | 18 : w > ∅ / [+round,+syl] __ 
+#n̪ˈoe# | 34 : [+nas] > ∅ / [-stres] __ #
+#n̪oˌe# | 45 : [+stres,-lo,-hi,+back] [-stres,-back] > [-stres,-prim,+syl,+son,0delrel] [+stres,+syl,+son,0delrel]
+#n̪wˌe# | 49 : [+syl,-stres,-lo,+back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,-back]
+#n̪we# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #n̪we#

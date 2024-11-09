@@ -1,17 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :982:
-#wˌirt̪ˈuːt̪em# >>> #beɾt̪ˈud̪# ( GOLD : #biɾt̪ˈud̪#) :
-w ˌi r t̪ ˈuː t̪ e m 
-#ɣʷˌirt̪ˈuːt̪em# | 20 : w > ɣʷ / __ [+syl]
-#ɣʷˌirt̪ˈuːt̪e# | 34 : [+nas] > ∅ / [-stres] __ #
-#βˌirt̪ˈuːt̪e# | 39 : ɣʷ > β 
-#βˌert̪ˈuːt̪e# | 52 : [+syl,-long] > [-hi] 
-#βˌert̪ˈut̪e# | 53 : [+syl] > [-long,-splng] 
-#βˌeɾt̪ˈut̪e# | 54 : r > ɾ 
-#βˌeɾt̪ˈud̪e# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#vˌeɾt̪ˈud̪e# | 112 : β > v 
-#βˌeɾt̪ˈud̪e# | 129 : {v;f} > {β;ɸ} 
-#βˌeɾt̪ˈuðe# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#βˌeɾt̪ˈuð# | 180 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#bˌeɾt̪ˈud̪# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#beɾt̪ˈud̪# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #beɾt̪ˈud̪#
+#wˌɑrˈiolɑ# >>> #biɾwˈelɑ# ( GOLD : #biɾwˈelɑ#) :
+w ˌɑ r ˈi o l ɑ 
+#ɣʷˌɑrˈiolɑ# | 20 : w > ɣʷ / __ [+syl]
+#βˌɑrˈiolɑ# | 39 : ɣʷ > β 
+#βˌɑriˈolɑ# | 44 : [+stres,-lo,+hi] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#βˌɑrjˈolɑ# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#βˌɑrjˈɔlɑ# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#βˌɑɾjˈɔlɑ# | 54 : r > ɾ 
+#βˌɑe̯ɾjˈɔlɑ# | 97 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+#βˌɑjɾˈɔlɑ# | 99 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#vˌɑjɾˈɔlɑ# | 112 : β > v 
+#vˌɑjɾˈɔelɑ# | 120 : ∅ > e / [-tense,+prim] __ 
+#vˌɑjɾwˈelɑ# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#βˌɑjɾwˈelɑ# | 129 : {v;f} > {β;ɸ} 
+#βˌejɾwˈelɑ# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#βˌeːɾwˈelɑ# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βˌeɾwˈelɑ# | 160 : [+syl] > [-long,-splng] 
+#βˌiɾwˈelɑ# | 182 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#bˌiɾwˈelɑ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#biɾwˈelɑ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #biɾwˈelɑ#

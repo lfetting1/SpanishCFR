@@ -1,14 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :414:
-#kˌɑrrikˈɑːre# >>> #kɑrɡˈɑɾ# ( GOLD : #kɑɾɡˈɑɾ#) :
-k ˌɑ r r i k ˈɑː r e 
-#kˌɑrrekˈɑːre# | 52 : [+syl,-long] > [-hi] 
-#kˌɑrrekˈɑre# | 53 : [+syl] > [-long,-splng] 
-#kˌɑɾɾekˈɑɾe# | 54 : r > ɾ 
-#kˌɑrekˈɑɾe# | 55 : ɾ ɾ > r 
-#kˌɑreɡˈɑɾe# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌɑrɡˈɑɾe# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#kˌɑrɣˈɑɾe# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kˌɑrɣˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#kˌɑrɡˈɑɾ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#kɑrɡˈɑɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kɑrɡˈɑɾ#
+#kˌɑst̪ˈellum# >>> #kɑst̪ˈiʝo# ( GOLD : #kɑst̪ˈiʝo#) :
+k ˌɑ s t̪ ˈe l l u m 
+#kˌɑs̪t̪ˈellum# | 22 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#kˌɑs̪t̪ˈellu# | 34 : [+nas] > ∅ / [-stres] __ #
+#kˌɑs̪t̪ˈɛllu# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɑs̪t̪ˈɛllo# | 52 : [+syl,-long] > [-hi] 
+#kˌɑs̪t̪ˈɛello# | 120 : ∅ > e / [-tense,+prim] __ 
+#kˌɑs̪t̪jˈello# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kˌɑs̪t̪jˈeʎo# | 138 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#kˌɑs̪t̪jˈiʎo# | 193 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#kˌɑs̪t̪ˈiʎo# | 198 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#kˌɑst̪ˈiʎo# | 204 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#kɑst̪ˈiʎo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#kɑst̪ˈiʝo# | 218 : ʎ > ʝ 
+Final form : #kɑst̪ˈiʝo#

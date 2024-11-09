@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :574:
-#mˌɑkulˈɑːt̪ɑ# >>> #mɑxˈɑd̪ɑ# ( GOLD : #mɑxˈɑd̪ɑ#) :
-m ˌɑ k u l ˈɑː t̪ ɑ 
-#mˌɑklˈɑːt̪ɑ# | 30 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+prim] @
-#mˌɑxlˈɑːt̪ɑ# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#mˌɑxlˈɑt̪ɑ# | 53 : [+syl] > [-long,-splng] 
-#mˌɑjlˈɑt̪ɑ# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#mˌɑjʎˈɑt̪ɑ# | 66 : [+lat] > ʎ / j __ 
-#mˌɑʎˈɑt̪ɑ# | 80 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#mˌɑʎˈɑd̪ɑ# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#mˌɑd͡ʒˈɑd̪ɑ# | 130 : ʎ > d͡ʒ 
-#mˌɑʒˈɑd̪ɑ# | 131 : d͡ʒ > ʒ 
-#mˌɑʒˈɑðɑ# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#mˌɑʃˈɑðɑ# | 203 : [+strid] > [-voi] 
-#mˌɑxˈɑðɑ# | 205 : ʃ > x 
-#mˌɑxˈɑd̪ɑ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#mɑxˈɑd̪ɑ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mɑxˈɑd̪ɑ#
+#mˌɑn̪kˈipium# >>> #mɑn̪θˈepo# ( GOLD : #mɑn̪θˈebo#) :
+m ˌɑ n̪ k ˈi p i u m 
+#mˌɑŋkˈipium# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#mˌɑŋkˈipiu# | 34 : [+nas] > ∅ / [-stres] __ #
+#mˌɑŋkˈipju# | 48 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#mˌɑŋkˈepjo# | 52 : [+syl,-long] > [-hi] 
+#mˌɑŋkjˈepjo# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#mˌɑŋt͡ʃjˈepjo# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˌɑŋt͡ʃˈepjo# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#mˌɑŋt͡ʃˈee̯pjo# | 93 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#mˌɑŋt͡ʃˈejpo# | 99 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#mˌɑŋt͡sˈejpo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#mˌɑŋt͡sˈeːpo# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌɑŋt͡sˈepo# | 160 : [+syl] > [-long,-splng] 
+#mˌɑŋs̪ˈepo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#mˌɑŋθˈepo# | 206 : s̪ > θ / __ [-cons]
+#mˌɑn̪θˈepo# | 215 : ŋ > n̪ 
+#mɑn̪θˈepo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #mɑn̪θˈepo#

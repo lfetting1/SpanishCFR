@@ -1,25 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :768:
-#rˌoːbˈiːɡin̪e# >>> #robˈin̪# ( GOLD : #robˈin̪#) :
-r ˌoː b ˈiː ɡ i n̪ e 
-#rˌoːbˈiːɡen̪e# | 52 : [+syl,-long] > [-hi] 
-#rˌobˈiɡen̪e# | 53 : [+syl] > [-long,-splng] 
-#ɾˌobˈiɡen̪e# | 54 : r > ɾ 
-#ɾˌobˈiɡjen̪e# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ɾˌobˈid͡ʒjen̪e# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ɾˌobˈid͡ʒen̪e# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ɾˌoβˈid͡ʒen̪e# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#ɾˌoβˈiʝen̪e# | 102 : d͡ʒ > ʝ 
-#ɾˌovˈiʝen̪e# | 112 : β > v 
-#ɾˌuvˈiʝen̪e# | 115 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#ɾˌuvˈiʝin̪e# | 119 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-#ɾˌuvˈiin̪e# | 125 : ʝ > ∅ / [+syl,+front] __ [+syl]
-#ɾˌuvˈijn̪e# | 127 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
-#ɾˌuβˈijn̪e# | 129 : {v;f} > {β;ɸ} 
-#ɾˌuβˈiːn̪e# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɾˌuβˈin̪e# | 160 : [+syl] > [-long,-splng] 
-#ɾˌuβˈin̪# | 180 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ɾˌoβˈin̪# | 184 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#rˌoβˈin̪# | 213 : ɾ > r / # __ 
-#rˌobˈin̪# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#robˈin̪# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #robˈin̪#
+#rˌuɡˈiːt̪um# >>> #roˈid̪o# ( GOLD : #rwˈid̪o#) :
+r ˌu ɡ ˈiː t̪ u m 
+#rˌuɡˈiːt̪u# | 34 : [+nas] > ∅ / [-stres] __ #
+#rˌuˈiːt̪u# | 47 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+#rˌoˈiːt̪o# | 52 : [+syl,-long] > [-hi] 
+#rˌoˈit̪o# | 53 : [+syl] > [-long,-splng] 
+#ɾˌoˈit̪o# | 54 : r > ɾ 
+#ɾˌoˈid̪o# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#ɾˌuˈid̪o# | 116 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#ɾˌuˈiðo# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ɾˌoˈiðo# | 184 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#rˌoˈiðo# | 213 : ɾ > r / # __ 
+#rˌoˈid̪o# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#roˈid̪o# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #roˈid̪o#

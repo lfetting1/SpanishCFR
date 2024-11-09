@@ -1,14 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :617:
-#pˈet̪t̪iɑ# >>> #pjˈeθɑ# ( GOLD : #pjˈeθɑ#) :
-p ˈe t̪ t̪ i ɑ 
-#pˈet̪t̪jɑ# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#pˈɛt̪t̪jɑ# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#pˈɛt̪t͡ʃjɑ# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˈɛt̪t͡ʃɑ# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#pˈɛt̪t͡sɑ# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#pˈɛet̪t͡sɑ# | 120 : ∅ > e / [-tense,+prim] __ 
-#pjˈet̪t͡sɑ# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#pjˈet͡sɑ# | 185 : [-son] > ∅ / __ [+delrel]
-#pjˈes̪ɑ# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#pjˈeθɑ# | 206 : s̪ > θ / __ [-cons]
-Final form : #pjˈeθɑ#
+#plˈumbum# >>> #ʝˈombo# ( GOLD : #plˈomo#) :
+p l ˈu m b u m 
+#plˈumbu# | 34 : [+nas] > ∅ / [-stres] __ #
+#plˈombo# | 52 : [+syl,-long] > [-hi] 
+#plˈomβo# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#plˈomvo# | 112 : β > v 
+#plˈomβo# | 129 : {v;f} > {β;ɸ} 
+#pʎˈomβo# | 134 : [+lat] > ʎ / [-son] __ 
+#ʎˈomβo# | 135 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʎˈombo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ʝˈombo# | 218 : ʎ > ʝ 
+Final form : #ʝˈombo#

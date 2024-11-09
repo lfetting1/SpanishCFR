@@ -1,14 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :927:
-#t̪ˌeksˈeːre# >>> #t̪exˈeɾ# ( GOLD : #t̪exˈeɾ#) :
-t̪ ˌe k s ˈeː r e 
-#t̪ˌexsˈeːre# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#t̪ˌexsˈere# | 53 : [+syl] > [-long,-splng] 
-#t̪ˌexsˈeɾe# | 54 : r > ɾ 
-#t̪ˌejsˈeɾe# | 113 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-#t̪ˌejʃˈeɾe# | 157 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-#t̪ˌeːʃˈeɾe# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#t̪ˌeʃˈeɾe# | 160 : [+syl] > [-long,-splng] 
-#t̪ˌeʃˈeɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#t̪ˌexˈeɾ# | 205 : ʃ > x 
-#t̪exˈeɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #t̪exˈeɾ#
+#t̪ˌuːbˈellum# >>> #t̪ubˈiʝo# ( GOLD : #t̪obˈiʝo#) :
+t̪ ˌuː b ˈe l l u m 
+#t̪ˌuːbˈellu# | 34 : [+nas] > ∅ / [-stres] __ #
+#t̪ˌuːbˈɛllu# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#t̪ˌuːbˈɛllo# | 52 : [+syl,-long] > [-hi] 
+#t̪ˌubˈɛllo# | 53 : [+syl] > [-long,-splng] 
+#t̪ˌuβˈɛllo# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#t̪ˌuvˈɛllo# | 112 : β > v 
+#t̪ˌuvˈɛello# | 120 : ∅ > e / [-tense,+prim] __ 
+#t̪ˌuvjˈello# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#t̪ˌuβjˈello# | 129 : {v;f} > {β;ɸ} 
+#t̪ˌuβjˈeʎo# | 138 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#t̪ˌuβjˈiʎo# | 193 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#t̪ˌuβˈiʎo# | 198 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#t̪ˌubˈiʎo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#t̪ubˈiʎo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ubˈiʝo# | 218 : ʎ > ʝ 
+Final form : #t̪ubˈiʝo#

@@ -1,16 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :719:
-#pˌun̪kt̪iˈɑːre# >>> #pun̪θˈɑɾ# ( GOLD : #pun̪θˈɑɾ#) :
-p ˌu n̪ k t̪ i ˈɑː r e 
-#pˌuːn̪kt̪iˈɑːre# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
-#pˌuːn̪t̪iˈɑːre# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#pˌuːn̪t̪jˈɑːre# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#pˌun̪t̪jˈɑre# | 53 : [+syl] > [-long,-splng] 
-#pˌun̪t̪jˈɑɾe# | 54 : r > ɾ 
-#pˌun̪t͡ʃjˈɑɾe# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#pˌun̪t͡ʃˈɑɾe# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#pˌun̪t͡sˈɑɾe# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#pˌun̪t͡sˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#pˌun̪s̪ˈɑɾ# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#pˌun̪θˈɑɾ# | 206 : s̪ > θ / __ [-cons]
-#pun̪θˈɑɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pun̪θˈɑɾ#
+#pˌɑn̪ifikˈɑːre# >>> #pɑn̪iɡʷˈɑɾ# ( GOLD : #ɑpɑn̪iɡʷˈɑɾ#) :
+p ˌɑ n̪ i f i k ˈɑː r e 
+#pˌɑːn̪ifikˈɑːre# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
+#pˌɑːn̪efekˈɑːre# | 52 : [+syl,-long] > [-hi] 
+#pˌɑn̪efekˈɑre# | 53 : [+syl] > [-long,-splng] 
+#pˌɑn̪efekˈɑɾe# | 54 : r > ɾ 
+#pˌɑn̪evekˈɑɾe# | 104 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#pˌɑn̪eveɡˈɑɾe# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#pˌɑn̪eβeɡˈɑɾe# | 129 : {v;f} > {β;ɸ} 
+#pˌɑn̪eβɡˈɑɾe# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#pˌɑn̪ewɡˈɑɾe# | 145 : [+cons,+lab] > w / __ [+back,+cons]
+#pˌɑn̪ewɡʷˈɑɾe# | 158 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
+#pˌɑn̪eɡʷˈɑɾe# | 161 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#pˌɑn̪iɡʷˈɑɾe# | 167 : [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round]
+#pˌɑn̪iɣʷˈɑɾe# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#pˌɑn̪iɣʷˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
+#pˌɑn̪iɡʷˈɑɾ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#pɑn̪iɡʷˈɑɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #pɑn̪iɡʷˈɑɾ#

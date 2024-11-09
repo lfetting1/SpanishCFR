@@ -1,9 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :314:
-#kˈɑpit̪# >>> #kˈɑbe# ( GOLD : #kˈɑbe#) :
-k ˈɑ p i t̪ 
-#kˈɑpi# | 36 : [+cons,-cont] > ∅ / __ #
-#kˈɑpe# | 52 : [+syl,-long] > [-hi] 
-#kˈɑbe# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˈɑβe# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kˈɑbe# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #kˈɑbe#
+#kˈɑpiɑm# >>> #kˈepɑ# ( GOLD : #kˈepɑ#) :
+k ˈɑ p i ɑ m 
+#kˈɑpiɑ# | 34 : [+nas] > ∅ / [-stres] __ #
+#kˈɑpjɑ# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#kˈɑe̯pjɑ# | 93 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#kˈɑjpɑ# | 99 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#kˈejpɑ# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#kˈeːpɑ# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˈepɑ# | 160 : [+syl] > [-long,-splng] 
+Final form : #kˈepɑ#
