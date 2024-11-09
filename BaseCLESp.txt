@@ -126,9 +126,9 @@ d͡ʒ > ʝ $spirantization $(89) !No effect. Possibly related to diff treatment 
 [-son,+cont] > [+voi] / [-cons] __ [+son] $voicing part 1 $(97) good. CM 10/13 -- fixed for greater faithfulness. For stops, boicing happens only after proper vowels; for fricatives, it can happen after glides as well; explicit in the branching of D to F or G, and G representing the fricative condition. Continued in part 2 below.
 [-cont] > [+voi] / [+syl] __ [+son] $ voicing part 2 -- see above. 
 
-[+lat] > w / [+lo] __ [+cons] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good.
-[+lat] > j / [+back] __ [+cons,-lat] $ lateral vocalization for molto > mojto type cases. $(99) seems good although there are -ll- being affected which are not in his version?
-{t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disj
+[+lat] > w / [+lo] __ [-son] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good. CM 11/9 -- fixed to align with span15.pho
+[+lat] > j / [+back] __ [-son,+cor,-hi] $ lateral vocalization for molto > mojto type cases. CM 11/9 -- fixed to align with span15.pho
+{t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disjunction
 [+front,+syl,-stres,+hi] > j / __ [+syl] $ syneresis_late $(101) !no context
 [+front,+syl,-stres] > j / __ [+syl,+back] $ syneresis_late $(102)
 [+front,+syl,-stres] > j / [+syl,+back] __ $ syneresis_late $(103)
