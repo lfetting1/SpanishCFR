@@ -1,0 +1,33 @@
+syncope_early variants
+
+
+B H J K R Q
+
+[+syl,-prim,-lo] > ∅ / # ([-syl])* [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back] ([-syl])* [+prim]
+
+B H J K S Q
+
+[+syl,-prim,-lo] > ∅ / # ([-syl])* [+syl] ([-syl])* [+strid,+cor] __ [+cons,-back] ([-syl])* [+prim]
+
+B H J K O 
+[+syl,-prim,-lo] > ∅ / # ([-syl])* [+syl] ([-syl])* [+cons] __ [+cons,+son,-nas] ([-syl])* [+prim]
+
+B L M R Q
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+cons,-son,-nas] __ [+cons,-back] ([-syl])* [+syl]
+
+B L M S Q
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+strid,+cor] __ [+cons,-back] ([-syl])* [+syl]
+
+B L M O
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+cons] __ [+cons,+son,-nas] ([-syl])* [+syl]
+
+B:  +syll (*) -stress (*) +cons (*-1) +cons (*+1) «Mutand is vowel, unstressed, between consonants.»
+H:  -low (*) «Doesn't affect /a/.»
+J:  COUNT +syll (*) (+stress) = 2 «From focus to stress, inclusive, encompasses 2 vowels, no more, no less.» -- i.e. pretonic
+K:  COUNT +syll (1) (*) > 1 «From word-initial to focus, inclusive, encompasses more than 1 vowel.»
+L:  COUNT +syll (+stress) (*) = 2 «From stress to focus, inclusive, encompasses 2 vowels, no more, no less.» -- i.e. immediately posttonic
+M:  COUNT +syll (*) (-1) > 1 «From focus to word-final, inclusive, encompasses more than 1 vowel.» -- not last syllable. 
+O:  +cons (*+1) -obstr (*+1) -nas (*+1) «Liquid to right.»
+Q:  +cons (*+1) -back (*+1) «Nonvelar consonant to right.»
+R:  +cons (*-1) -obstr (*-1) -nas (*-1) «Liquid to left.»
+S:  +strid (*-1) +cor (*-1) «Sibilant to left.»
