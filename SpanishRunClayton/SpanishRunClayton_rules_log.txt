@@ -24,8 +24,6 @@ j > ʝ / [+syl] __ [+syl]
 {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
 [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-[+syl,-prim] > ∅ / [+cons,+son,-nas] __ [+cons,+cont,+son,-nas] @
-[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @
 [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [+syl] )* [+prim] @
 [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
 [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]

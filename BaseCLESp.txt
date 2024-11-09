@@ -32,8 +32,9 @@ ${ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ;
 [-lo,-hi,-tense,+syl,-prim,+front] > [+tense] $atonic-epsilon, "no unstressed ɛ," Hartman's rule seems to only leave ɛ with primary stress, as his model does not have secondary stress
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
-[+syl,-prim] > ∅ / [+cons,+son,-nas] __ [+cons,+cont,+son,-nas] @ $syncope_early
-[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $syncope_early
+$ CM 11/9 -- below suppressed. Accidental redundancy? 
+$[+syl,-prim] > ∅ / [+cons,+son,-nas] __ [+cons,+cont,+son,-nas] @ $syncope_early
+$[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $syncope_early
 
 [+syl,-prim,-lo] > ∅ / [+syl] ([-syl])* [+cor,+strid] __ [+cons,-back] ([+syl])* [+prim] @ $syncope_early (pretonic; sib __ nonvelar). Conditions B H J K S Q. CM fixed 11/9 
 [+syl,-prim,-lo] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back] ([-syl])* [+prim] $syncope_early (pretonic; liq __ nonvel). Conditions B H J K R Q. CM fixed 11/9 
