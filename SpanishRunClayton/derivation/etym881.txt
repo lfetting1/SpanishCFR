@@ -1,19 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :881:
-#sˌɑːn̪kt̪ifikˈɑːre# >>> #sɑn̪sɡʷˈɑɾ# ( GOLD : #sɑn̪t̪iɡʷˈɑɾ#) :
-s ˌɑː n̪ k t̪ i f i k ˈɑː r e 
-#sˌɑːn̪t̪ifikˈɑːre# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#sˌɑːn̪t̪efekˈɑːre# | 51 : [+syl,-long] > [-hi] 
-#sˌɑn̪t̪efekˈɑre# | 52 : [+syl] > [-long,-splng] 
-#sˌɑn̪t̪efekˈɑɾe# | 53 : r > ɾ 
-#sˌɑn̪t̪evekˈɑɾe# | 101 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#sˌɑn̪t̪eveɡˈɑɾe# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
-#sˌɑn̪t̪ebeɡˈɑɾe# | 126 : {v;f} > {b;ɸ} 
-#sˌɑn̪t̪bɡˈɑɾe# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#sˌɑn̪t̪pɡˈɑɾe# | 139 : [-son] > [-voi] / [-voi] __ 
-#sˌɑn̪t̪wɡˈɑɾe# | 141 : [+cons,+lab] > w / __ [+back,+cons]
-#sˌɑn̪t̪wɡʷˈɑɾe# | 154 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
-#sˌɑn̪t̪ɡʷˈɑɾe# | 157 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-#sˌɑn̪t̪ɡʷˈɑɾ# | 180 : e > ∅ / [+syl] ɾ __ #
-#sˌɑn̪sɡʷˈɑɾ# | 205 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#sɑn̪sɡʷˈɑɾ# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #sɑn̪sɡʷˈɑɾ#
+#sˌɑn̪ɡwˈin̪eum# >>> #sɑn̪ɡʷˈiɲo# ( GOLD : #sɑn̪ɡʷˈeɲo#) :
+s ˌɑ n̪ ɡ w ˈi n̪ e u m 
+#sˌɑŋɡwˈin̪eum# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#sˌɑŋɡʷˈin̪eum# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
+#sˌɑŋɡʷˈin̪eu# | 34 : [+nas] > ∅ / [-stres] __ #
+#sˌɑŋɡʷˈin̪ju# | 48 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#sˌɑŋɡʷˈen̪jo# | 52 : [+syl,-long] > [-hi] 
+#sˌɑŋɡʷˈeɲjo# | 65 : [+nas,+cor] > ɲ / __ j
+#sˌɑŋɡʷjˈeɲjo# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#sˌɑŋɡʷjˈeɲo# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#sˌɑŋɣʷjˈeɲo# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#sˌɑŋɣʷjˈiɲo# | 193 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#sˌɑŋɣʷˈiɲo# | 198 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#sˌɑŋɡʷˈiɲo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#sˌɑn̪ɡʷˈiɲo# | 215 : ŋ > n̪ 
+#sɑn̪ɡʷˈiɲo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #sɑn̪ɡʷˈiɲo#

@@ -1,14 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :697:
-#pˌekt̪in̪ˈɑːre# >>> #pet͡ʃn̪ˈɑɾ# ( GOLD : #pejn̪ˈɑɾ#) :
-p ˌe k t̪ i n̪ ˈɑː r e 
-#pˌekt̪n̪ˈɑːre# | 29 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [-syl] __ [+son,+cons] [+prim]
-#pˌext̪n̪ˈɑːre# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˌext̪n̪ˈɑre# | 52 : [+syl] > [-long,-splng] 
-#pˌext̪n̪ˈɑɾe# | 53 : r > ɾ 
-#pˌejt̪n̪ˈɑɾe# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#pˌejt͡ʃn̪ˈɑɾe# | 153 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#pˌeːt͡ʃn̪ˈɑɾe# | 155 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#pˌet͡ʃn̪ˈɑɾe# | 156 : [+syl] > [-long,-splng] 
-#pˌet͡ʃn̪ˈɑɾ# | 180 : e > ∅ / [+syl] ɾ __ #
-#pet͡ʃn̪ˈɑɾ# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pet͡ʃn̪ˈɑɾ#
+#pˌekt̪orˈɑːlem# >>> #ped̪ɾˈɑl# ( GOLD : #pet̪ɾˈɑl#) :
+p ˌe k t̪ o r ˈɑː l e m 
+#pˌekt̪rˈɑːlem# | 30 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+prim] @
+#pˌekt̪rˈɑːle# | 34 : [+nas] > ∅ / [-stres] __ #
+#pˌext̪rˈɑːle# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#pˌext̪rˈɑle# | 53 : [+syl] > [-long,-splng] 
+#pˌext̪ɾˈɑle# | 54 : r > ɾ 
+#pˌejt̪ɾˈɑle# | 113 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#pˌeːt̪ɾˈɑle# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#pˌet̪ɾˈɑle# | 160 : [+syl] > [-long,-splng] 
+#pˌet̪ɾˈɑl# | 180 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#pˌed̪ɾˈɑl# | 210 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
+#ped̪ɾˈɑl# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ped̪ɾˈɑl#

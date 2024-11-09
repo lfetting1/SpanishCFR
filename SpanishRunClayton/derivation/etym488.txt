@@ -1,14 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :488:
-#lˌɑkt̪ˈuːkɑm# >>> #let͡ʃˈuɡɑ# ( GOLD : #let͡ʃˈuɡɑ#) :
-l ˌɑ k t̪ ˈuː k ɑ m 
-#lˌɑkt̪ˈuːkɑ# | 33 : [+nas] > ∅ / [-stres] __ #
-#lˌɑxt̪ˈuːkɑ# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#lˌɑxt̪ˈukɑ# | 52 : [+syl] > [-long,-splng] 
-#lˌɑjt̪ˈukɑ# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#lˌɑjt̪ˈuɡɑ# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
-#lˌejt̪ˈuɡɑ# | 140 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#lˌejt͡ʃˈuɡɑ# | 153 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-#lˌeːt͡ʃˈuɡɑ# | 155 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˌet͡ʃˈuɡɑ# | 156 : [+syl] > [-long,-splng] 
-#let͡ʃˈuɡɑ# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #let͡ʃˈuɡɑ#
+#lˌɑkweˈɑːre# >>> #lekwˈɑɾ# ( GOLD : #lɑθˈɑɾ#) :
+l ˌɑ k w e ˈɑː r e 
+#lˌɑkʷeˈɑːre# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
+#lˌɑkʷjˈɑːre# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#lˌɑkʷjˈɑre# | 53 : [+syl] > [-long,-splng] 
+#lˌɑkʷjˈɑɾe# | 54 : r > ɾ 
+#lˌɑe̯kʷjˈɑɾe# | 93 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#lˌɑjkʷˈɑɾe# | 99 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#lˌejkʷˈɑɾe# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#lˌeːkʷˈɑɾe# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˌekʷˈɑɾe# | 160 : [+syl] > [-long,-splng] 
+#lˌekʷˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
+#lˌekwˈɑɾ# | 212 : kʷ > k w 
+#lekwˈɑɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #lekwˈɑɾ#

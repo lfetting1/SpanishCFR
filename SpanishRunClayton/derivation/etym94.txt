@@ -1,16 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :94:
-#flˈuksum# >>> #ʝwˈiso# ( GOLD : #flˈoxo#) :
-f l ˈu k s u m 
-#flˈuksu# | 33 : [+nas] > ∅ / [-stres] __ #
-#flˈuxsu# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#flˈoxso# | 51 : [+syl,-long] > [-hi] 
-#flˈojso# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#flˈojzo# | 101 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#flˈujzo# | 113 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-#ɸlˈujzo# | 126 : {v;f} > {b;ɸ} 
-#ɸʎˈujzo# | 131 : [+lat] > ʎ / [-son] __ 
-#ʎˈujzo# | 132 : [+cons,-voi] > ∅ / # __ [+lat]
-#ʎwˈizo# | 177 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ʎwˈiso# | 204 : [+strid] > [-voi] 
-#ʝwˈiso# | 211 : ʎ > ʝ 
-Final form : #ʝwˈiso#
+#flˈɑkkid̪um# >>> #ʝˈeθed̪o# ( GOLD : #lˈɑθjo#) :
+f l ˈɑ k k i d̪ u m 
+#flˈɑkkid̪u# | 34 : [+nas] > ∅ / [-stres] __ #
+#flˈɑkked̪o# | 52 : [+syl,-long] > [-hi] 
+#flˈɑkkjed̪o# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#flˈɑkt͡ʃjed̪o# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#flˈɑkt͡ʃed̪o# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#flˈɑkt͡ʃeðo# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#flˈɑkt͡seðo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#flˈɑjt͡seðo# | 113 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#ɸlˈɑjt͡seðo# | 129 : {v;f} > {β;ɸ} 
+#ɸʎˈɑjt͡seðo# | 134 : [+lat] > ʎ / [-son] __ 
+#ʎˈɑjt͡seðo# | 135 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʎˈejt͡seðo# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ʎˈeːt͡seðo# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ʎˈet͡seðo# | 160 : [+syl] > [-long,-splng] 
+#ʎˈes̪eðo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ʎˈeθeðo# | 206 : s̪ > θ / __ [-cons]
+#ʎˈeθed̪o# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ʝˈeθed̪o# | 218 : ʎ > ʝ 
+Final form : #ʝˈeθed̪o#

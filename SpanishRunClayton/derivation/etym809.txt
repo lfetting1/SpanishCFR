@@ -1,7 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :809:
-#sˈae̯t̪ɑ# >>> #sˈad̪ɑ# ( GOLD : #sˈed̪ɑ#) :
-s ˈa e̯ t̪ ɑ 
-#sˈaːt̪ɑ# | 24 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#sˈat̪ɑ# | 52 : [+syl] > [-long,-splng] 
-#sˈad̪ɑ# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
-Final form : #sˈad̪ɑ#
+#sˈed̪eɑt̪# >>> #sˈeɑ# ( GOLD : #sˈeɑ#) :
+s ˈe d̪ e ɑ t̪ 
+#sˈed̪eɑ# | 36 : [+cons,-cont] > ∅ / __ #
+#sˈed̪jɑ# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#sˈɛd̪jɑ# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˈɛd͡ʒjɑ# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#sˈɛd͡ʒɑ# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#sˈɛʝɑ# | 102 : d͡ʒ > ʝ 
+#sˈeʝɑ# | 117 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#sˈeɑ# | 125 : ʝ > ∅ / [+syl,+front] __ [+syl]
+Final form : #sˈeɑ#

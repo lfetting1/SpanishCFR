@@ -1,17 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :260:
-#kˈiliɑ# >>> #θˈexɑ# ( GOLD : #θˈexɑ#) :
-k ˈi l i ɑ 
-#kˈiljɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#kˈeljɑ# | 51 : [+syl,-long] > [-hi] 
-#kˈeʎjɑ# | 61 : [+lat] > ʎ / __ j
-#kjˈeʎjɑ# | 67 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈeʎjɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃˈeʎɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t͡sˈeʎɑ# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sˈed͡ʒɑ# | 127 : ʎ > d͡ʒ 
-#t͡sˈeʒɑ# | 128 : d͡ʒ > ʒ 
-#s̪ˈeʒɑ# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#s̪ˈeʃɑ# | 204 : [+strid] > [-voi] 
-#s̪ˈexɑ# | 206 : ʃ > x 
-#θˈexɑ# | 207 : s̪ > θ 
-Final form : #θˈexɑ#
+#kˈin̪kt̪um# >>> #θˈin̪t̪o# ( GOLD : #θˈin̪t̪o#) :
+k ˈi n̪ k t̪ u m 
+#kˈiːn̪kt̪um# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
+#kˈiːn̪t̪um# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#kˈiːn̪t̪u# | 34 : [+nas] > ∅ / [-stres] __ #
+#kˈiːn̪t̪o# | 52 : [+syl,-long] > [-hi] 
+#kˈin̪t̪o# | 53 : [+syl] > [-long,-splng] 
+#kjˈin̪t̪o# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈin̪t̪o# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃˈin̪t̪o# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡sˈin̪t̪o# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#s̪ˈin̪t̪o# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θˈin̪t̪o# | 206 : s̪ > θ / __ [-cons]
+Final form : #θˈin̪t̪o#

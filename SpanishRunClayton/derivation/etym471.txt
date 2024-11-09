@@ -1,16 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :471:
-#lˌae̯siˈoːn̪em# >>> #lasˈon̪# ( GOLD : #lesjˈon̪#) :
-l ˌa e̯ s i ˈoː n̪ e m 
-#lˌaːsiˈoːn̪em# | 24 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˌaːsiˈoːn̪e# | 33 : [+nas] > ∅ / [-stres] __ #
-#lˌaːsjˈoːn̪e# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#lˌasjˈon̪e# | 52 : [+syl] > [-long,-splng] 
-#lˌae̯sjˈon̪e# | 87 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
-#lˌajsˈon̪e# | 97 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#lˌajzˈon̪e# | 101 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#lˌaːzˈon̪e# | 155 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˌazˈon̪e# | 156 : [+syl] > [-long,-splng] 
-#lˌazˈon̪# | 181 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#lˌasˈon̪# | 204 : [+strid] > [-voi] 
-#lasˈon̪# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #lasˈon̪#
+#lˌemikˈɑn̪eɑ# >>> #leɡʷˈɑɲɑ# ( GOLD : #leɡˈɑɲɑ#) :
+l ˌe m i k ˈɑ n̪ e ɑ 
+#lˌeːmikˈɑn̪eɑ# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
+#lˌeːmikˈɑn̪jɑ# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#lˌeːmekˈɑn̪jɑ# | 52 : [+syl,-long] > [-hi] 
+#lˌemekˈɑn̪jɑ# | 53 : [+syl] > [-long,-splng] 
+#lˌemekˈɑɲjɑ# | 65 : [+nas,+cor] > ɲ / __ j
+#lˌemekˈɑɲɑ# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#lˌemeɡˈɑɲɑ# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#lˌemɡˈɑɲɑ# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#lˌewɡˈɑɲɑ# | 145 : [+cons,+lab] > w / __ [+back,+cons]
+#lˌewɡʷˈɑɲɑ# | 158 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
+#lˌeɡʷˈɑɲɑ# | 161 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#lˌeɣʷˈɑɲɑ# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#lˌeɡʷˈɑɲɑ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#leɡʷˈɑɲɑ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #leɡʷˈɑɲɑ#

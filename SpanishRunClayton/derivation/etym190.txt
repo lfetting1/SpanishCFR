@@ -1,22 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :190:
-#hˌord̪ˈeolum# >>> #uθwˈelo# ( GOLD : #oɾθwˈelo#) :
-h ˌo r d̪ ˈe o l u m 
-#ˌord̪ˈeolum# | 0 : h > ∅ 
-#ˌord̪ˈeolu# | 33 : [+nas] > ∅ / [-stres] __ #
-#ˌord̪eˈolu# | 43 : [+stres,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌord̪jˈolu# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌord̪jˈɔlu# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌord̪jˈɔlo# | 51 : [+syl,-long] > [-hi] 
-#ˌoɾd̪jˈɔlo# | 53 : r > ɾ 
-#ˌoɾd͡ʒjˈɔlo# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌoɾd͡ʒˈɔlo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌoɾd͡zˈɔlo# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌoɾd͡zˈɔelo# | 117 : ∅ > e / [-tense,+prim] __ 
-#ˌoɾd͡zwˈelo# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌod͡zwˈelo# | 136 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌud͡zwˈelo# | 183 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#ˌuz̪wˈelo# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌus̪wˈelo# | 204 : [+strid] > [-voi] 
-#ˌuθwˈelo# | 207 : s̪ > θ 
-#uθwˈelo# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #uθwˈelo#
+#hˌospit̪ˈɑːlem# >>> #oswt̪ˈɑl# ( GOLD : #ost̪ˈɑl#) :
+h ˌo s p i t̪ ˈɑː l e m 
+#ˌospit̪ˈɑːlem# | 1 : h > ∅ 
+#ˌospit̪ˈɑːle# | 34 : [+nas] > ∅ / [-stres] __ #
+#ˌospet̪ˈɑːle# | 52 : [+syl,-long] > [-hi] 
+#ˌospet̪ˈɑle# | 53 : [+syl] > [-long,-splng] 
+#ˌosped̪ˈɑle# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌospd̪ˈɑle# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#ˌospt̪ˈɑle# | 143 : [-son] > [-voi] / [-voi] __ 
+#ˌospt̪ˈɑl# | 180 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌoswt̪ˈɑl# | 199 : [+lab,-son] > w / __ [-son]
+#oswt̪ˈɑl# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #oswt̪ˈɑl#

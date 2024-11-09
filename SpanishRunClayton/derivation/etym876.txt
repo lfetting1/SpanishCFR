@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :876:
-#sˌupˈerbiɑm# >>> #subˈeɾbjɑ# ( GOLD : #sobˈeɾbjɑ#) :
-s ˌu p ˈe r b i ɑ m 
-#sˌupˈerbiɑ# | 33 : [+nas] > ∅ / [-stres] __ #
-#sˌupˈerbjɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#sˌupˈɛrbjɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sˌopˈɛrbjɑ# | 51 : [+syl,-long] > [-hi] 
-#sˌopˈɛɾbjɑ# | 53 : r > ɾ 
-#sˌobˈɛɾbjɑ# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
-#sˌubˈɛɾbjɑ# | 112 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#sˌubˈeɾbjɑ# | 114 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#subˈeɾbjɑ# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #subˈeɾbjɑ#
+#sˌuspˈekt̪ɑ# >>> #suspˈet͡ʃɑ# ( GOLD : #sospˈet͡ʃɑ#) :
+s ˌu s p ˈe k t̪ ɑ 
+#sˌuspˈext̪ɑ# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#sˌuspˈɛxt̪ɑ# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˌospˈɛxt̪ɑ# | 52 : [+syl,-long] > [-hi] 
+#sˌospˈɛjt̪ɑ# | 113 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#sˌuspˈɛjt̪ɑ# | 116 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#sˌuspˈejt̪ɑ# | 117 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#sˌuspˈejt͡ʃɑ# | 157 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+#sˌuspˈeːt͡ʃɑ# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#sˌuspˈet͡ʃɑ# | 160 : [+syl] > [-long,-splng] 
+#suspˈet͡ʃɑ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #suspˈet͡ʃɑ#

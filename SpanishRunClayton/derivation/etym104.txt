@@ -1,12 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :104:
-#frˌikˈɑːre# >>> #fɾeɡˈɑɾ# ( GOLD : #fɾeɡˈɑɾ#) :
-f r ˌi k ˈɑː r e 
-#frˌekˈɑːre# | 51 : [+syl,-long] > [-hi] 
-#frˌekˈɑre# | 52 : [+syl] > [-long,-splng] 
-#fɾˌekˈɑɾe# | 53 : r > ɾ 
-#fɾˌeɡˈɑɾe# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
-#ɸɾˌeɡˈɑɾe# | 126 : {v;f} > {b;ɸ} 
-#ɸɾˌeɡˈɑɾ# | 180 : e > ∅ / [+syl] ɾ __ #
-#fɾˌeɡˈɑɾ# | 192 : ɸ > f 
-#fɾeɡˈɑɾ# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #fɾeɡˈɑɾ#
+#frˌiːksˈeolum# >>> #fɾixwˈelo# ( GOLD : #fɾiswˈelo#) :
+f r ˌiː k s ˈe o l u m 
+#frˌiːksˈeolu# | 34 : [+nas] > ∅ / [-stres] __ #
+#frˌiːxsˈeolu# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#frˌiːxseˈolu# | 46 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#frˌiːxsjˈolu# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#frˌiːxsjˈɔlu# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#frˌiːxsjˈɔlo# | 52 : [+syl,-long] > [-hi] 
+#frˌixsjˈɔlo# | 53 : [+syl] > [-long,-splng] 
+#fɾˌixsjˈɔlo# | 54 : r > ɾ 
+#fɾˌijsjˈɔlo# | 113 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#fɾˌijsjˈɔelo# | 120 : ∅ > e / [-tense,+prim] __ 
+#fɾˌijsjwˈelo# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ɸɾˌijsjwˈelo# | 129 : {v;f} > {β;ɸ} 
+#ɸɾˌijʃjwˈelo# | 157 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+#ɸɾˌiːʃjwˈelo# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɸɾˌiʃjwˈelo# | 160 : [+syl] > [-long,-splng] 
+#ɸɾˌiʃwˈelo# | 163 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#fɾˌiʃwˈelo# | 191 : ɸ > f 
+#fɾˌixwˈelo# | 205 : ʃ > x 
+#fɾixwˈelo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #fɾixwˈelo#

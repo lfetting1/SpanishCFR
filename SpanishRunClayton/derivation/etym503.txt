@@ -1,8 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :503:
-#mˈerd̪ɑ# >>> #mjˈeɾd̪ɑ# ( GOLD : #mjˈeɾd̪ɑ#) :
-m ˈe r d̪ ɑ 
-#mˈɛrd̪ɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˈɛɾd̪ɑ# | 53 : r > ɾ 
-#mˈɛeɾd̪ɑ# | 117 : ∅ > e / [-tense,+prim] __ 
-#mjˈeɾd̪ɑ# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-Final form : #mjˈeɾd̪ɑ#
+#mˈerulum# >>> #mjˈeɾlo# ( GOLD : #mˈiɾlo#) :
+m ˈe r u l u m 
+#mˈerlum# | 26 : [+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] @
+#mˈerlu# | 34 : [+nas] > ∅ / [-stres] __ #
+#mˈɛrlu# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˈɛrlo# | 52 : [+syl,-long] > [-hi] 
+#mˈɛɾlo# | 54 : r > ɾ 
+#mˈɛeɾlo# | 120 : ∅ > e / [-tense,+prim] __ 
+#mjˈeɾlo# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Final form : #mjˈeɾlo#

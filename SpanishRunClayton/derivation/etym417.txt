@@ -1,16 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :417:
-#kˌɑst̪ˈellum# >>> #kɑst̪ˈiʝo# ( GOLD : #kɑst̪ˈiʝo#) :
-k ˌɑ s t̪ ˈe l l u m 
-#kˌɑs̪t̪ˈellum# | 21 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#kˌɑs̪t̪ˈellu# | 33 : [+nas] > ∅ / [-stres] __ #
-#kˌɑs̪t̪ˈɛllu# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɑs̪t̪ˈɛllo# | 51 : [+syl,-long] > [-hi] 
-#kˌɑs̪t̪ˈɛello# | 117 : ∅ > e / [-tense,+prim] __ 
-#kˌɑs̪t̪jˈello# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#kˌɑs̪t̪jˈeʎo# | 135 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#kˌɑs̪t̪jˈiʎo# | 194 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-#kˌɑs̪t̪ˈiʎo# | 199 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#kˌɑst̪ˈiʎo# | 205 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#kɑst̪ˈiʎo# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-#kɑst̪ˈiʝo# | 211 : ʎ > ʝ 
-Final form : #kɑst̪ˈiʝo#
+#kˌɑst̪ˈiːkeum# >>> #kɑst̪ˈiθo# ( GOLD : #kɑst̪ˈiθo#) :
+k ˌɑ s t̪ ˈiː k e u m 
+#kˌɑs̪t̪ˈiːkeum# | 22 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+#kˌɑs̪t̪ˈiːkeu# | 34 : [+nas] > ∅ / [-stres] __ #
+#kˌɑs̪t̪ˈiːkju# | 48 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˌɑs̪t̪ˈiːkjo# | 52 : [+syl,-long] > [-hi] 
+#kˌɑs̪t̪ˈikjo# | 53 : [+syl] > [-long,-splng] 
+#kˌɑs̪t̪ˈit͡ʃjo# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#kˌɑs̪t̪ˈit͡ʃo# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#kˌɑs̪t̪ˈid͡ʒo# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˌɑs̪t̪ˈid͡zo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#kˌɑs̪t̪ˈiz̪o# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#kˌɑs̪t̪ˈis̪o# | 203 : [+strid] > [-voi] 
+#kˌɑst̪ˈis̪o# | 204 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+#kˌɑst̪ˈiθo# | 206 : s̪ > θ / __ [-cons]
+#kɑst̪ˈiθo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kɑst̪ˈiθo#

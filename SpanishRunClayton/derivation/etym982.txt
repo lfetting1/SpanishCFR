@@ -1,28 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :982:
-#wˌin̪kˈikulum# >>> #beθˈexo# ( GOLD : #ben̪θˈexo#) :
-w ˌi n̪ k ˈi k u l u m 
-#wˌiŋkˈikulum# | 14 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ɣʷˌiŋkˈikulum# | 19 : w > ɣʷ / __ [+syl]
-#ɣʷˌiŋkˈiklum# | 32 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#ɣʷˌiŋkˈiklu# | 33 : [+nas] > ∅ / [-stres] __ #
-#bˌiŋkˈiklu# | 38 : ɣʷ > b 
-#bˌiŋkˈixlu# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#bˌeŋkˈexlo# | 51 : [+syl,-long] > [-hi] 
-#bˌeŋkˈejlo# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#bˌeŋkˈejʎo# | 60 : [+lat] > ʎ / j __ 
-#bˌeŋkjˈejʎo# | 67 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#bˌeŋt͡ʃjˈejʎo# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#bˌeŋt͡ʃˈejʎo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#bˌeŋt͡ʃˈeʎo# | 74 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#bˌeŋt͡sˈeʎo# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#bˌejt͡sˈeʎo# | 110 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#bˌejt͡sˈed͡ʒo# | 127 : ʎ > d͡ʒ 
-#bˌejt͡sˈeʒo# | 128 : d͡ʒ > ʒ 
-#bˌeːt͡sˈeʒo# | 155 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#bˌet͡sˈeʒo# | 156 : [+syl] > [-long,-splng] 
-#bˌes̪ˈeʒo# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#bˌes̪ˈeʃo# | 204 : [+strid] > [-voi] 
-#bˌes̪ˈexo# | 206 : ʃ > x 
-#bˌeθˈexo# | 207 : s̪ > θ 
-#beθˈexo# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #beθˈexo#
+#wˌirt̪ˈuːt̪em# >>> #beɾt̪ˈud̪# ( GOLD : #biɾt̪ˈud̪#) :
+w ˌi r t̪ ˈuː t̪ e m 
+#ɣʷˌirt̪ˈuːt̪em# | 20 : w > ɣʷ / __ [+syl]
+#ɣʷˌirt̪ˈuːt̪e# | 34 : [+nas] > ∅ / [-stres] __ #
+#βˌirt̪ˈuːt̪e# | 39 : ɣʷ > β 
+#βˌert̪ˈuːt̪e# | 52 : [+syl,-long] > [-hi] 
+#βˌert̪ˈut̪e# | 53 : [+syl] > [-long,-splng] 
+#βˌeɾt̪ˈut̪e# | 54 : r > ɾ 
+#βˌeɾt̪ˈud̪e# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#vˌeɾt̪ˈud̪e# | 112 : β > v 
+#βˌeɾt̪ˈud̪e# | 129 : {v;f} > {β;ɸ} 
+#βˌeɾt̪ˈuðe# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#βˌeɾt̪ˈuð# | 180 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#bˌeɾt̪ˈud̪# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#beɾt̪ˈud̪# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #beɾt̪ˈud̪#

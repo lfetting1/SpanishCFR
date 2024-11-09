@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1101:
-#ˌekskˌɑrpt̪iˈɑːre# >>> #eskɑθˈɑɾ# ( GOLD : #eskɑɾθˈɑɾ#) :
-ˌe k s k ˌɑ r p t̪ i ˈɑː r e 
-#ˌekskˌɑrt̪iˈɑːre# | 7 : [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+cons,-son,αvoi]
-#ˌeskˌɑrt̪iˈɑːre# | 37 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
-#ˌeskˌɑrt̪jˈɑːre# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌeskˌɑrt̪jˈɑre# | 52 : [+syl] > [-long,-splng] 
-#ˌeskˌɑɾt̪jˈɑɾe# | 53 : r > ɾ 
-#ˌeskˌɑɾt͡ʃjˈɑɾe# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌeskˌɑɾt͡ʃˈɑɾe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌeskˌɑɾt͡sˈɑɾe# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌeskˌɑt͡sˈɑɾe# | 136 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌeskˌɑt͡sˈɑɾ# | 180 : e > ∅ / [+syl] ɾ __ #
-#ˌeskˌɑs̪ˈɑɾ# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌeskˌɑθˈɑɾ# | 207 : s̪ > θ 
-#eskɑθˈɑɾ# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #eskɑθˈɑɾ#
+#ˌeksˈemplum# >>> #exˈemt͡ʃo# ( GOLD : #exˈemplo#) :
+ˌe k s ˈe m p l u m 
+#ˌeksˈemplu# | 34 : [+nas] > ∅ / [-stres] __ #
+#ˌexsˈemplu# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌexsˈɛmplu# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌexsˈɛmplo# | 52 : [+syl,-long] > [-hi] 
+#ˌejsˈɛmplo# | 113 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#ˌejsˈɛemplo# | 120 : ∅ > e / [-tense,+prim] __ 
+#ˌejsjˈemplo# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌejsjˈempʎo# | 134 : [+lat] > ʎ / [-son] __ 
+#ˌejsjˈemt͡ʃo# | 136 : [-voi] [+lat] > t͡ʃ
+#ˌejʃjˈemt͡ʃo# | 157 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+#ˌeːʃjˈemt͡ʃo# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌeʃjˈemt͡ʃo# | 160 : [+syl] > [-long,-splng] 
+#ˌeʃˈemt͡ʃo# | 163 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌexˈemt͡ʃo# | 205 : ʃ > x 
+#exˈemt͡ʃo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #exˈemt͡ʃo#

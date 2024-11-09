@@ -1,14 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :191:
-#hˌospit̪ˈɑːlem# >>> #oswt̪ˈɑl# ( GOLD : #ost̪ˈɑl#) :
-h ˌo s p i t̪ ˈɑː l e m 
-#ˌospit̪ˈɑːlem# | 0 : h > ∅ 
-#ˌospit̪ˈɑːle# | 33 : [+nas] > ∅ / [-stres] __ #
-#ˌospet̪ˈɑːle# | 51 : [+syl,-long] > [-hi] 
-#ˌospet̪ˈɑle# | 52 : [+syl] > [-long,-splng] 
-#ˌosped̪ˈɑle# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌospd̪ˈɑle# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌospt̪ˈɑle# | 139 : [-son] > [-voi] / [-voi] __ 
-#ˌospt̪ˈɑl# | 181 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ˌoswt̪ˈɑl# | 200 : [+lab,-son] > w / __ [-son]
-#oswt̪ˈɑl# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #oswt̪ˈɑl#
+#hˌɑmikˈeolum# >>> #ɑmθwˈelo# ( GOLD : #ɑn̪θwˈelo#) :
+h ˌɑ m i k ˈe o l u m 
+#ˌɑmikˈeolum# | 1 : h > ∅ 
+#ˌɑːmikˈeolum# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
+#ˌɑːmikˈeolu# | 34 : [+nas] > ∅ / [-stres] __ #
+#ˌɑːmikeˈolu# | 46 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌɑːmikjˈolu# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌɑːmikjˈɔlu# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑːmekjˈɔlo# | 52 : [+syl,-long] > [-hi] 
+#ˌɑmekjˈɔlo# | 53 : [+syl] > [-long,-splng] 
+#ˌɑmet͡ʃjˈɔlo# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑmet͡ʃˈɔlo# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɑmed͡ʒˈɔlo# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑmed͡zˈɔlo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑmed͡zˈɔelo# | 120 : ∅ > e / [-tense,+prim] __ 
+#ˌɑmed͡zwˈelo# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌɑmd͡zwˈelo# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#ˌɑmz̪wˈelo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌɑms̪wˈelo# | 203 : [+strid] > [-voi] 
+#ˌɑmθwˈelo# | 206 : s̪ > θ / __ [-cons]
+#ɑmθwˈelo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑmθwˈelo#

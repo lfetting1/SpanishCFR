@@ -1,10 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :812:
-#sˈekst̪ɑ# >>> #sjˈest̪ɑ# ( GOLD : #sjˈest̪ɑ#) :
-s ˈe k s t̪ ɑ 
-#sˈeks̪t̪ɑ# | 21 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#sˈes̪t̪ɑ# | 37 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
-#sˈɛs̪t̪ɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sˈɛes̪t̪ɑ# | 117 : ∅ > e / [-tense,+prim] __ 
-#sjˈes̪t̪ɑ# | 118 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#sjˈest̪ɑ# | 205 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #sjˈest̪ɑ#
+#sˈellɑm# >>> #sˈiʝɑ# ( GOLD : #sˈiʝɑ#) :
+s ˈe l l ɑ m 
+#sˈellɑ# | 34 : [+nas] > ∅ / [-stres] __ #
+#sˈɛllɑ# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#sˈɛellɑ# | 120 : ∅ > e / [-tense,+prim] __ 
+#sjˈellɑ# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#sjˈeʎɑ# | 138 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#sjˈiʎɑ# | 193 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#sˈiʎɑ# | 198 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#sˈiʝɑ# | 218 : ʎ > ʝ 
+Final form : #sˈiʝɑ#

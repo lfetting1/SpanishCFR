@@ -1,21 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1150:
-#ˌɑkwˈɑkeɑm# >>> #ebˈɑθɑ# ( GOLD : #ɑɡʷˈɑθɑ#) :
-ˌɑ k w ˈɑ k e ɑ m 
-#ˌɑkɣʷˈɑkeɑm# | 19 : w > ɣʷ / __ [+syl]
-#ˌɑkɣʷˈɑkeɑ# | 33 : [+nas] > ∅ / [-stres] __ #
-#ˌɑkbˈɑkeɑ# | 38 : ɣʷ > b 
-#ˌɑxbˈɑkeɑ# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɑxbˈɑkjɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌɑjbˈɑkjɑ# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back]
-#ˌɑjbˈɑt͡ʃjɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑjbˈɑt͡ʃɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɑjbˈɑd͡ʒɑ# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑjbˈɑd͡zɑ# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌejbˈɑd͡zɑ# | 140 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ˌeːbˈɑd͡zɑ# | 155 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌebˈɑd͡zɑ# | 156 : [+syl] > [-long,-splng] 
-#ˌebˈɑz̪ɑ# | 203 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌebˈɑs̪ɑ# | 204 : [+strid] > [-voi] 
-#ˌebˈɑθɑ# | 207 : s̪ > θ 
-#ebˈɑθɑ# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ebˈɑθɑ#
+#ˌɑkˈuːkulɑm# >>> #ɑɡˈuxɑ# ( GOLD : #ɑɡˈuxɑ#) :
+ˌɑ k ˈuː k u l ɑ m 
+#ˌɑkˈuːklɑm# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+syl,-prim] @
+#ˌɑkˈuːklɑ# | 34 : [+nas] > ∅ / [-stres] __ #
+#ˌɑkˈuːxlɑ# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌɑkˈuxlɑ# | 53 : [+syl] > [-long,-splng] 
+#ˌɑkˈujlɑ# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+#ˌɑkˈujʎɑ# | 66 : [+lat] > ʎ / j __ 
+#ˌɑkˈuʎɑ# | 80 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#ˌɑɡˈuʎɑ# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑɡˈud͡ʒɑ# | 130 : ʎ > d͡ʒ 
+#ˌɑɡˈuʒɑ# | 131 : d͡ʒ > ʒ 
+#ˌɑɣˈuʒɑ# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌɑɣˈuʃɑ# | 203 : [+strid] > [-voi] 
+#ˌɑɣˈuxɑ# | 205 : ʃ > x 
+#ˌɑɡˈuxɑ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ɑɡˈuxɑ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑɡˈuxɑ#

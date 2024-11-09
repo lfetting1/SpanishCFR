@@ -1,11 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1106:
-#ˌimperɑːt̪ˈoːre# >>> #empɾɑd̪ˈoɾ# ( GOLD : #empeɾɑd̪ˈoɾ#) :
-ˌi m p e r ɑː t̪ ˈoː r e 
-#ˌemperɑːt̪ˈoːre# | 51 : [+syl,-long] > [-hi] 
-#ˌemperɑt̪ˈore# | 52 : [+syl] > [-long,-splng] 
-#ˌempeɾɑt̪ˈoɾe# | 53 : r > ɾ 
-#ˌempeɾɑd̪ˈoɾe# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌempɾɑd̪ˈoɾe# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌempɾɑd̪ˈoɾ# | 180 : e > ∅ / [+syl] ɾ __ #
-#empɾɑd̪ˈoɾ# | 210 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #empɾɑd̪ˈoɾ#
+#ˌimpˈosit̪um# >>> #empwˈest̪o# ( GOLD : #impwˈest̪o#) :
+ˌi m p ˈo s i t̪ u m 
+#ˌimpˈost̪um# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] [+syl,-prim] @
+#ˌimpˈost̪u# | 34 : [+nas] > ∅ / [-stres] __ #
+#ˌimpˈɔst̪u# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌempˈɔst̪o# | 52 : [+syl,-long] > [-hi] 
+#ˌempˈɔest̪o# | 120 : ∅ > e / [-tense,+prim] __ 
+#ˌempwˈest̪o# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#empwˈest̪o# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #empwˈest̪o#

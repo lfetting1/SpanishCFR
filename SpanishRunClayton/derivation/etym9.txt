@@ -1,10 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :9:
 #bˈiferɑm# >>> #bˈebɾɑ# ( GOLD : #bɾˈebɑ#) :
 b ˈi f e r ɑ m 
-#bˈifrɑm# | 32 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons] [+syl,-prim]
-#bˈifrɑ# | 33 : [+nas] > ∅ / [-stres] __ #
-#bˈefrɑ# | 51 : [+syl,-long] > [-hi] 
-#bˈefɾɑ# | 53 : r > ɾ 
-#bˈevɾɑ# | 101 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#bˈebɾɑ# | 126 : {v;f} > {b;ɸ} 
+#bˈifrɑm# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+syl,-prim] @
+#bˈifrɑ# | 34 : [+nas] > ∅ / [-stres] __ #
+#bˈefrɑ# | 52 : [+syl,-long] > [-hi] 
+#bˈefɾɑ# | 54 : r > ɾ 
+#βˈefɾɑ# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#βˈevɾɑ# | 104 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#vˈevɾɑ# | 112 : β > v 
+#βˈeβɾɑ# | 129 : {v;f} > {β;ɸ} 
+#bˈebɾɑ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
 Final form : #bˈebɾɑ#

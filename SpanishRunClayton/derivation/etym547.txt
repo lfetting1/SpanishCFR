@@ -1,8 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :547:
-#mˈɑrt̪is# >>> #mˈɑɾss# ( GOLD : #mˈɑɾt̪es#) :
-m ˈɑ r t̪ i s 
-#mˈɑrt̪es# | 51 : [+syl,-long] > [-hi] 
-#mˈɑɾt̪es# | 53 : r > ɾ 
-#mˈɑɾt̪s# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#mˈɑɾss# | 205 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #mˈɑɾss#
+#mˈɑskulum# >>> #mˈɑt͡ʃo# ( GOLD : #mˈɑt͡ʃo#) :
+m ˈɑ s k u l u m 
+#mˈɑsklum# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+syl,-prim] @
+#mˈɑsklu# | 34 : [+nas] > ∅ / [-stres] __ #
+#mˈɑsklo# | 52 : [+syl,-long] > [-hi] 
+#mˈɑskʎo# | 134 : [+lat] > ʎ / [-son] __ 
+#mˈɑst͡ʃo# | 136 : [-voi] [+lat] > t͡ʃ
+#mˈɑt͡ʃo# | 185 : [-son] > ∅ / __ [+delrel]
+Final form : #mˈɑt͡ʃo#

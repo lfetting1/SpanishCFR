@@ -1,9 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :690:
-#pˈɑwkus# >>> #pˈoks# ( GOLD : #pˈokos#) :
-p ˈɑ w k u s 
-#pˈɑwkos# | 51 : [+syl,-long] > [-hi] 
-#pˈɑwks# | 138 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#pˈowks# | 140 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#pˈoːks# | 155 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#pˈoks# | 156 : [+syl] > [-long,-splng] 
-Final form : #pˈoks#
+#pˈɑwperem# >>> #pˈobɾe# ( GOLD : #pˈobɾe#) :
+p ˈɑ w p e r e m 
+#pˈɑwprem# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+syl,-prim] @
+#pˈɑwpre# | 34 : [+nas] > ∅ / [-stres] __ #
+#pˈɑwpɾe# | 54 : r > ɾ 
+#pˈowpɾe# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#pˈoːpɾe# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#pˈopɾe# | 160 : [+syl] > [-long,-splng] 
+#pˈobɾe# | 210 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
+Final form : #pˈobɾe#
