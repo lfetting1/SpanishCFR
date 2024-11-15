@@ -52,14 +52,23 @@ ${ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ;
 
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
-[+syl,-prim] > ∅ / [+cons,+cont,+son,-nas] __ [+cons,+cont,+son,-nas] @ $syncope_early
-[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $syncope_early
-[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] @ $syncope_early (pretonic; sib __ nonvelar) 
-[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back] [+prim] @ $syncope_early (pretonic; liq __ nonvel)
-[+syl,-prim,-lo] > ∅ / [+syl,-prim] ([-syl])* [-syl] __ [+son,+cons,-nas] [+prim] @ $syncope_early  (pretonic; C/J __ liq)
-[+syl,-prim] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] [+syl,-prim] @ $syncope_early (posttonic; sib __ nonvelar)
-[+syl,-prim] > ∅ / [+prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back] [+syl,-prim] @ $syncope_early (posttonic; liq __ nonvel)
-[+syl,-prim] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons,-nas] [+syl,-prim] @ $syncope_early (posttonic; C/J __ liq)
+$ CM 11/9 -- below suppressed. Accidental redundancy? 
+
+$[+syl,-prim] > ∅ / [+cons,+son,-nas] __ [+cons,+cont,+son,-nas] @ $syncope_early
+
+$[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $syncope_early
+
+[+syl,-prim,-lo] > ∅ / [+syl] ([-syl])* [+cor,+strid] __ [+cons,-back] ([+syl])* [+prim] @ $syncope_early (pretonic; sib __ nonvelar). Conditions B H J K S Q. CM fixed 11/9 
+
+[+syl,-prim,-lo] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back] ([-syl])* [+prim] $syncope_early (pretonic; liq __ nonvel). Conditions B H J K R Q. CM fixed 11/9 
+
+[+syl,-prim,-lo] > ∅ / [+syl] ([-syl])* [-syl] __ [+son,+cons,-nas] ([-syl])* [+prim] $syncope_early  (pretonic; C/J __ liq). Conditions B H J K O . CM fixed 11/9
+ 
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] ([-syl])* [+syl] $syncope_early (posttonic; sib __ nonvelar). Conditions B L M S Q. CM fixed 11/9 
+
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back] ([-syl])* [+syl] $syncope_early (posttonic; liq __ nonvel). Conditions B L M R Q. CM fixed 11/9 
+
+[+syl,-prim] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons,-nas] ([-syl])* [+syl]  $syncope_early (posttonic; C/J __ liq). Conditions B L M O. CM fixed 11/9 
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion, does not get deleted after stressed final syllables, effectively only monosyllabic words such as tam > tan or cum > con
 
 [+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 
@@ -209,9 +218,10 @@ d͡ʒ > ʝ $spirantization $(89) Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑ�
 [-cont] > [+voi] / [+syl] __ [+son] $ voicing part 2 -- see above.
 
 [+lat] > w / [+lo] __ [-son] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good. CM 11/9 -- fixed to align with span15.pho
+
 [+lat] > j / [+back] __ [-son,+cor,-hi] $ lateral vocalization for molto > mojto type cases. KS 10/18: fixed -ll- case. CM 11/9 -- fixed to align with span15.pho
 
-{t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disj
+{t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disjunction
 [+front,+syl,-stres,+hi] > j / __ [+syl] $ syneresis_late $(101) !no context
 
 [+front,+syl,-stres] > j / __ [+syl,+back] $ syneresis_late $(102)

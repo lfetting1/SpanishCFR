@@ -1,18 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1201:
-#ˌɑwkt̪orikˈɑːre# >>> #ot̪oɾɡˈɑɾ# ( GOLD : #ot̪oɾɡˈɑɾ#) :
-ˌɑ w k t̪ o r i k ˈɑː r e 
-#ˌɑwkt̪orekˈɑːre# | 52 : [+syl,-long] > [-hi] 
-#ˌɑwkt̪orekˈɑre# | 53 : [+syl] > [-long,-splng] 
-#ˌɑwkt̪oɾekˈɑɾe# | 54 : r > ɾ 
-#ˌɑwt̪t̪oɾekˈɑɾe# | 69 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] / __ [-son,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround]
-#ˌɑwt̪t̪oɾeɡˈɑɾe# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑwt̪oɾeɡˈɑɾe# | 139 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌɑwt̪oɾɡˈɑɾe# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#ˌowt̪oɾɡˈɑɾe# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌoːt̪oɾɡˈɑɾe# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌot̪oɾɡˈɑɾe# | 160 : [+syl] > [-long,-splng] 
-#ˌot̪oɾɣˈɑɾe# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ˌot̪oɾɣˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#ˌot̪oɾɡˈɑɾ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ot̪oɾɡˈɑɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ot̪oɾɡˈɑɾ#
+#ˌɑːn̪ˈellum# >>> #ɑn̪ˈiʝo# ( GOLD : #ɑn̪ˈiʝo#) :
+ˌɑː n̪ ˈe l l u m 
+#ˌɑːn̪ˈellu# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌɑːn̪ˈɛllu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑːn̪ˈɛllo# | 50 : [+syl,-long] > [-hi] 
+#ˌɑn̪ˈɛllo# | 51 : [+syl] > [-long,-splng] 
+#ˌɑn̪ˈɛello# | 118 : ∅ > e / [-tense,+prim] __ 
+#ˌɑn̪jˈello# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌɑn̪jˈeʎo# | 136 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#ˌɑn̪jˈiʎo# | 191 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#ˌɑn̪ˈiʎo# | 196 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#ɑn̪ˈiʎo# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#ɑn̪ˈiʝo# | 216 : ʎ > ʝ 
+Final form : #ɑn̪ˈiʝo#

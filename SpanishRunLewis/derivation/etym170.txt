@@ -1,17 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :170:
-#fˌɑbulˈɑːre# >>> #ɑblˈɑɾ# ( GOLD : #ɑblˈɑɾ#) :
-f ˌɑ b u l ˈɑː r e 
-#fˌɑblˈɑːre# | 30 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+prim] @
-#fˌɑblˈɑre# | 53 : [+syl] > [-long,-splng] 
-#fˌɑblˈɑɾe# | 54 : r > ɾ 
-#fˌɑβlˈɑɾe# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#fˌɑvlˈɑɾe# | 112 : β > v 
-#ɸˌɑβlˈɑɾe# | 129 : {v;f} > {β;ɸ} 
-#ɸˌɑβʎˈɑɾe# | 134 : [+lat] > ʎ / [-son] __ 
-#ɸˌɑβlˈɑɾe# | 140 : ʎ > l / [+cons,+voi] __ 
-#ɸˌɑβlˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#hˌɑβlˈɑɾ# | 190 : ɸ > h / __ [+syl]
-#ˌɑβlˈɑɾ# | 192 : h > ∅ 
-#ˌɑblˈɑɾ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ɑblˈɑɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑblˈɑɾ#
+#fˌɑkt̪ˈiːkium# >>> #et͡ʃˈiθo# ( GOLD : #et͡ʃˈiθo#) :
+f ˌɑ k t̪ ˈiː k i u m 
+#fˌɑkt̪ˈiːkiu# | 32 : [+nas] > ∅ / [-stres] __ #
+#fˌɑxt̪ˈiːkiu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#fˌɑxt̪ˈiːkju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#fˌɑxt̪ˈiːkjo# | 50 : [+syl,-long] > [-hi] 
+#fˌɑxt̪ˈikjo# | 51 : [+syl] > [-long,-splng] 
+#fˌɑxt̪ˈit͡ʃjo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fˌɑxt̪ˈit͡ʃo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#fˌɑxt̪ˈid͡ʒo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#fˌɑxt̪ˈid͡zo# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#fˌɑjt̪ˈid͡zo# | 111 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#ɸˌɑjt̪ˈid͡zo# | 127 : {v;f} > {β;ɸ} 
+#ɸˌejt̪ˈid͡zo# | 142 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ɸˌejt͡ʃˈid͡zo# | 155 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+#ɸˌeːt͡ʃˈid͡zo# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɸˌet͡ʃˈid͡zo# | 158 : [+syl] > [-long,-splng] 
+#hˌet͡ʃˈid͡zo# | 188 : ɸ > h / __ [+syl]
+#ˌet͡ʃˈid͡zo# | 190 : h > ∅ 
+#ˌet͡ʃˈiz̪o# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌet͡ʃˈis̪o# | 201 : [+strid] > [-voi] 
+#ˌet͡ʃˈiθo# | 204 : s̪ > θ / __ [-cons]
+#et͡ʃˈiθo# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #et͡ʃˈiθo#

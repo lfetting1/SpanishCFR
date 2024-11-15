@@ -1,17 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1135:
-#ˌɑd̪iˈeri# >>> #eˈeɾ# ( GOLD : #ɑʝˈeɾ#) :
-ˌɑ d̪ i ˈe r i 
-#ˌɑd̪iˈɛri# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑd̪eˈɛre# | 52 : [+syl,-long] > [-hi] 
-#ˌɑd̪eˈɛɾe# | 54 : r > ɾ 
-#ˌɑd̪ˈɛɾe# | 68 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#ˌɑðˈɛɾe# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#ˌɑˈɛɾe# | 103 : [-son,+voi,-strid,-front,βlab] > ∅ / [+syl] __ [+syl,βlab]
-#ˌɑˈɛeɾe# | 120 : ∅ > e / [-tense,+prim] __ 
-#ˌɑjˈeɾe# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌejˈeɾe# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌeːˈeɾe# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌeˈeɾe# | 160 : [+syl] > [-long,-splng] 
-#ˌeˈeɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#eˈeɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #eˈeɾ#
+#ˌɑkkˈen̪t̪um# >>> #iθjˈen̪t̪o# ( GOLD : #ɑθˈen̪t̪o#) :
+ˌɑ k k ˈe n̪ t̪ u m 
+#ˌɑkkˈen̪t̪u# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌɑkkˈɛn̪t̪u# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˌɑkkˈɛn̪t̪o# | 50 : [+syl,-long] > [-hi] 
+#ˌɑkkjˈɛn̪t̪o# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#ˌɑkt͡ʃjˈɛn̪t̪o# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌɑkt͡ʃˈɛn̪t̪o# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌɑkt͡sˈɛn̪t̪o# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌɑjt͡sˈɛn̪t̪o# | 111 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#ˌɑjt͡sˈɛen̪t̪o# | 118 : ∅ > e / [-tense,+prim] __ 
+#ˌɑjt͡sjˈen̪t̪o# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ˌejt͡sjˈen̪t̪o# | 142 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ˌeːt͡sjˈen̪t̪o# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌet͡sjˈen̪t̪o# | 158 : [+syl] > [-long,-splng] 
+#ˌit͡sjˈen̪t̪o# | 180 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ˌis̪jˈen̪t̪o# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌiθjˈen̪t̪o# | 204 : s̪ > θ / __ [-cons]
+#iθjˈen̪t̪o# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #iθjˈen̪t̪o#

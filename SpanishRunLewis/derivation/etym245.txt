@@ -1,19 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :245:
-#kwˌiːn̪ɡˈen̪t̪oːs# >>> #kin̪ʝˈen̪t̪os# ( GOLD : #kin̪jˈen̪t̪os#) :
-k w ˌiː n̪ ɡ ˈe n̪ t̪ oː s 
-#kwˌiːŋɡˈen̪t̪oːs# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#kʷˌiːŋɡˈen̪t̪oːs# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
-#kʷˌiːŋɡˈɛn̪t̪oːs# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kʷˌiŋɡˈɛn̪t̪os# | 53 : [+syl] > [-long,-splng] 
-#kʷjˌiŋɡjˈɛn̪t̪os# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#kʷjˌiŋd͡ʒjˈɛn̪t̪os# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kʷjˌiŋd͡ʒˈɛn̪t̪os# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#kʷˌiŋd͡ʒˈɛn̪t̪os# | 81 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#kˌiŋd͡ʒˈɛn̪t̪os# | 82 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
-#kˌiŋʝˈɛn̪t̪os# | 102 : d͡ʒ > ʝ 
-#kˌiŋʝˈɛen̪t̪os# | 120 : ∅ > e / [-tense,+prim] __ 
-#kˌiŋʝjˈen̪t̪os# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#kˌiŋʝˈen̪t̪os# | 163 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#kˌin̪ʝˈen̪t̪os# | 215 : ŋ > n̪ 
-#kin̪ʝˈen̪t̪os# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kin̪ʝˈen̪t̪os#
+#kwˌɑssikˈɑːre# >>> #kɑskˈɑɾ# ( GOLD : #kɑskˈɑɾ#) :
+k w ˌɑ s s i k ˈɑː r e 
+#kʷˌɑssikˈɑːre# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
+#kʷˌɑssekˈɑːre# | 50 : [+syl,-long] > [-hi] 
+#kʷˌɑssekˈɑre# | 51 : [+syl] > [-long,-splng] 
+#kʷˌɑssekˈɑɾe# | 52 : r > ɾ 
+#kˌɑssekˈɑɾe# | 81 : [-son,+round] > [-round,-lab] / # __ [+lo,-prim]
+#kˌɑsseɡˈɑɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˌɑseɡˈɑɾe# | 137 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+#kˌɑsɡˈɑɾe# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#kˌɑskˈɑɾe# | 141 : [-son] > [-voi] / [-voi] __ 
+#kˌɑskˈɑɾ# | 177 : e > ∅ / [+syl] ɾ __ #
+#kɑskˈɑɾ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kɑskˈɑɾ#

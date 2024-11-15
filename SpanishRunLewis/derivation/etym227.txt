@@ -1,17 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :227:
-#kˌubit̪ˈɑːlem# >>> #kowd̪ˈɑl# ( GOLD : #kod̪ˈɑl#) :
-k ˌu b i t̪ ˈɑː l e m 
-#kˌubit̪ˈɑːle# | 34 : [+nas] > ∅ / [-stres] __ #
-#kˌobet̪ˈɑːle# | 52 : [+syl,-long] > [-hi] 
-#kˌobet̪ˈɑle# | 53 : [+syl] > [-long,-splng] 
-#kˌoβet̪ˈɑle# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#kˌoβed̪ˈɑle# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌoved̪ˈɑle# | 112 : β > v 
-#kˌoβed̪ˈɑle# | 129 : {v;f} > {β;ɸ} 
-#kˌoβd̪ˈɑle# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#kˌoβðˈɑle# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kˌoβðˈɑl# | 180 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#kˌowðˈɑl# | 199 : [+lab,-son] > w / __ [-son]
-#kˌowd̪ˈɑl# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#kowd̪ˈɑl# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kowd̪ˈɑl#
+#kwˈae̯rit̪# >>> #kwjˈeɾ# ( GOLD : #kjˈeɾe#) :
+k w ˈa e̯ r i t̪ 
+#kwˈɑjrit̪# | 0 : [-hi] e̯ > [+back,-front] j
+#kʷˈɑjrit̪# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
+#kʷˈɛjrit̪# | 23 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#kʷˈɛːrit̪# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kʷˈɛːri# | 34 : [+cons,-cont] > ∅ / __ #
+#kʷˈɛːre# | 50 : [+syl,-long] > [-hi] 
+#kʷˈɛre# | 51 : [+syl] > [-long,-splng] 
+#kʷˈɛɾe# | 52 : r > ɾ 
+#kʷjˈɛɾe# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#kʷjˈɛeɾe# | 118 : ∅ > e / [-tense,+prim] __ 
+#kʷjjˈeɾe# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kʷjˈeɾe# | 162 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+#kʷjˈeɾ# | 177 : e > ∅ / [+syl] ɾ __ #
+#kwjˈeɾ# | 210 : kʷ > k w 
+Final form : #kwjˈeɾ#

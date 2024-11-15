@@ -1,18 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :250:
-#kˈae̯lum# >>> #θjˈelo# ( GOLD : #θjˈelo#) :
-k ˈa e̯ l u m 
-#kˈɑjlum# | 0 : [-hi] e̯ > [+back,-front] j
-#kˈɛjlum# | 23 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
-#kˈɛːlum# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˈɛːlu# | 34 : [+nas] > ∅ / [-stres] __ #
-#kˈɛːlo# | 52 : [+syl,-long] > [-hi] 
-#kˈɛlo# | 53 : [+syl] > [-long,-splng] 
-#kjˈɛlo# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈɛlo# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃˈɛlo# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t͡sˈɛlo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sˈɛelo# | 120 : ∅ > e / [-tense,+prim] __ 
-#t͡sjˈelo# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#s̪jˈelo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#θjˈelo# | 206 : s̪ > θ / __ [-cons]
-Final form : #θjˈelo#
+#kˈɑːseum# >>> #kˈeso# ( GOLD : #kˈeso#) :
+k ˈɑː s e u m 
+#kˈɑːseu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˈɑːsju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#kˈɑːsjo# | 50 : [+syl,-long] > [-hi] 
+#kˈɑsjo# | 51 : [+syl] > [-long,-splng] 
+#kˈɑe̯sjo# | 91 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#kˈɑjso# | 97 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#kˈɑjzo# | 102 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#kˈejzo# | 142 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#kˈeːzo# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˈezo# | 158 : [+syl] > [-long,-splng] 
+#kˈeso# | 201 : [+strid] > [-voi] 
+Final form : #kˈeso#

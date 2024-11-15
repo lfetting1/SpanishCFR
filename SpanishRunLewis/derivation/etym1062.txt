@@ -1,8 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1062:
-#ˈuːwɑ# >>> #wˈɑ# ( GOLD : #ˈubɑ#) :
-ˈuː w ɑ 
-#ˈuːɑ# | 18 : w > ∅ / [+round,+syl] __ 
-#uːˈɑ# | 44 : [+stres,-lo,+hi] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#uˈɑ# | 53 : [+syl] > [-long,-splng] 
-#wˈɑ# | 126 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / __ [+syl]
-Final form : #wˈɑ#
+#ˈɑlikwod̪# >>> #ˈɑlɡo# ( GOLD : #ˈɑlɡo#) :
+ˈɑ l i k w o d̪ 
+#ˈɑlikʷod̪# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
+#ˈɑlikʷo# | 34 : [+cons,-cont] > ∅ / __ #
+#ˈɑlekʷo# | 50 : [+syl,-long] > [-hi] 
+#ˈɑleko# | 80 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
+#ˈɑleɡo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˈɑlɡo# | 140 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+#ˈɑlɣo# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˈɑlɡo# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : #ˈɑlɡo#

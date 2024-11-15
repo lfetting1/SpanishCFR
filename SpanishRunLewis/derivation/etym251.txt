@@ -1,21 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :251:
-#kˈae̯spit̪e# >>> #θjˈesped̪# ( GOLD : #θˈesped̪#) :
-k ˈa e̯ s p i t̪ e 
-#kˈɑjspit̪e# | 0 : [-hi] e̯ > [+back,-front] j
-#kˈɛjspit̪e# | 23 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
-#kˈɛːspit̪e# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˈɛːspet̪e# | 52 : [+syl,-long] > [-hi] 
-#kˈɛspet̪e# | 53 : [+syl] > [-long,-splng] 
-#kjˈɛspet̪e# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#t͡ʃjˈɛspet̪e# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃˈɛspet̪e# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t͡ʃˈɛsped̪e# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#t͡sˈɛsped̪e# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sˈɛesped̪e# | 120 : ∅ > e / [-tense,+prim] __ 
-#t͡sjˈesped̪e# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#t͡sjˈespeðe# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#t͡sjˈespeð# | 180 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#s̪jˈespeð# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#θjˈespeð# | 206 : s̪ > θ / __ [-cons]
-#θjˈesped̪# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #θjˈesped̪#
+#kˈen̪t̪rum# >>> #θjˈen̪t̪ɾo# ( GOLD : #θˈen̪t̪ɾo#) :
+k ˈe n̪ t̪ r u m 
+#kˈen̪t̪ru# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˈɛn̪t̪ru# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˈɛn̪t̪ro# | 50 : [+syl,-long] > [-hi] 
+#kˈɛn̪t̪ɾo# | 52 : r > ɾ 
+#kjˈɛn̪t̪ɾo# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#t͡ʃjˈɛn̪t̪ɾo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃˈɛn̪t̪ɾo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡sˈɛn̪t̪ɾo# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sˈɛen̪t̪ɾo# | 118 : ∅ > e / [-tense,+prim] __ 
+#t͡sjˈen̪t̪ɾo# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#s̪jˈen̪t̪ɾo# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θjˈen̪t̪ɾo# | 204 : s̪ > θ / __ [-cons]
+Final form : #θjˈen̪t̪ɾo#

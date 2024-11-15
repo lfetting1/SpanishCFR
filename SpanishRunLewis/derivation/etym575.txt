@@ -1,18 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :575:
-#mˌɑkulˈɑːt̪ɑ# >>> #mɑxˈɑd̪ɑ# ( GOLD : #mɑxˈɑd̪ɑ#) :
-m ˌɑ k u l ˈɑː t̪ ɑ 
-#mˌɑklˈɑːt̪ɑ# | 30 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+prim] @
-#mˌɑxlˈɑːt̪ɑ# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#mˌɑxlˈɑt̪ɑ# | 53 : [+syl] > [-long,-splng] 
-#mˌɑjlˈɑt̪ɑ# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#mˌɑjʎˈɑt̪ɑ# | 66 : [+lat] > ʎ / j __ 
-#mˌɑʎˈɑt̪ɑ# | 80 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#mˌɑʎˈɑd̪ɑ# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#mˌɑd͡ʒˈɑd̪ɑ# | 130 : ʎ > d͡ʒ 
-#mˌɑʒˈɑd̪ɑ# | 131 : d͡ʒ > ʒ 
-#mˌɑʒˈɑðɑ# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#mˌɑʃˈɑðɑ# | 203 : [+strid] > [-voi] 
-#mˌɑxˈɑðɑ# | 205 : ʃ > x 
-#mˌɑxˈɑd̪ɑ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#mɑxˈɑd̪ɑ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mɑxˈɑd̪ɑ#
+#mˌɑn̪siˈoːn̪em# >>> #mesˈon̪# ( GOLD : #mesˈon̪#) :
+m ˌɑ n̪ s i ˈoː n̪ e m 
+#mˌɑːn̪siˈoːn̪em# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cont,-son]
+#mˌɑːnsiˈoːn̪em# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#mˌɑːnsiˈoːn̪e# | 32 : [+nas] > ∅ / [-stres] __ #
+#mˌɑːsiˈoːn̪e# | 33 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+#mˌɑːsjˈoːn̪e# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#mˌɑsjˈon̪e# | 51 : [+syl] > [-long,-splng] 
+#mˌɑe̯sjˈon̪e# | 91 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#mˌɑjsˈon̪e# | 97 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#mˌɑjzˈon̪e# | 102 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#mˌejzˈon̪e# | 142 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#mˌeːzˈon̪e# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌezˈon̪e# | 158 : [+syl] > [-long,-splng] 
+#mˌezˈon̪# | 178 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#mˌesˈon̪# | 201 : [+strid] > [-voi] 
+#mesˈon̪# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #mesˈon̪#

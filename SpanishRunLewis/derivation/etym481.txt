@@ -1,11 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :481:
-#lˌiɡˈɑːre# >>> #leˈɑɾ# ( GOLD : #liˈɑɾ#) :
-l ˌi ɡ ˈɑː r e 
-#lˌeɡˈɑːre# | 52 : [+syl,-long] > [-hi] 
-#lˌeɡˈɑre# | 53 : [+syl] > [-long,-splng] 
-#lˌeɡˈɑɾe# | 54 : r > ɾ 
-#lˌeɣˈɑɾe# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#lˌeˈɑɾe# | 103 : [-son,+voi,-strid,-front,βlab] > ∅ / [+syl] __ [+syl,βlab]
-#lˌeˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#leˈɑɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #leˈɑɾ#
+#lˌokˈellum# >>> #luθˈiʝo# ( GOLD : #luθˈiʝo#) :
+l ˌo k ˈe l l u m 
+#lˌokˈellu# | 32 : [+nas] > ∅ / [-stres] __ #
+#lˌokˈɛllu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#lˌokˈɛllo# | 50 : [+syl,-long] > [-hi] 
+#lˌokjˈɛllo# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#lˌot͡ʃjˈɛllo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˌot͡ʃˈɛllo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#lˌod͡ʒˈɛllo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#lˌod͡zˈɛllo# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lˌod͡zˈɛello# | 118 : ∅ > e / [-tense,+prim] __ 
+#lˌod͡zjˈello# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#lˌod͡zjˈeʎo# | 136 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#lˌud͡zjˈeʎo# | 180 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#lˌud͡zjˈiʎo# | 191 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#lˌud͡zˈiʎo# | 196 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#lˌuz̪ˈiʎo# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#lˌus̪ˈiʎo# | 201 : [+strid] > [-voi] 
+#lˌuθˈiʎo# | 204 : s̪ > θ / __ [-cons]
+#luθˈiʎo# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#luθˈiʝo# | 216 : ʎ > ʝ 
+Final form : #luθˈiʝo#

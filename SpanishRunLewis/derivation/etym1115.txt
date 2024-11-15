@@ -1,15 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1115:
-#ˌin̪lˈɑkweɑ# >>> #enlˈekwɑ# ( GOLD : #en̪lˈɑθɑ#) :
-ˌi n̪ l ˈɑ k w e ɑ 
-#ˌinlˈɑkweɑ# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ˌinlˈɑkʷeɑ# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
-#ˌinlˈɑkʷjɑ# | 50 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌenlˈɑkʷjɑ# | 52 : [+syl,-long] > [-hi] 
-#ˌenlˈɑe̯kʷjɑ# | 93 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
-#ˌenlˈɑjkʷɑ# | 99 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#ˌenlˈejkʷɑ# | 144 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌenlˈeːkʷɑ# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌenlˈekʷɑ# | 160 : [+syl] > [-long,-splng] 
-#ˌenlˈekwɑ# | 212 : kʷ > k w 
-#enlˈekwɑ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #enlˈekwɑ#
+#ˌoperˈɑːrium# >>> #obɾˈeɾo# ( GOLD : #obɾˈeɾo#) :
+ˌo p e r ˈɑː r i u m 
+#ˌoprˈɑːrium# | 28 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
+#ˌoprˈɑːriu# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌoprˈɑːrju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#ˌoprˈɑːrjo# | 50 : [+syl,-long] > [-hi] 
+#ˌoprˈɑrjo# | 51 : [+syl] > [-long,-splng] 
+#ˌopɾˈɑɾjo# | 52 : r > ɾ 
+#ˌopɾˈɑe̯ɾjo# | 95 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+#ˌopɾˈɑjɾo# | 97 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#ˌobɾˈɑjɾo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌobɾˈejɾo# | 142 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ˌobɾˈeːɾo# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌobɾˈeɾo# | 158 : [+syl] > [-long,-splng] 
+#ˌoβɾˈeɾo# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌobɾˈeɾo# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#obɾˈeɾo# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #obɾˈeɾo#

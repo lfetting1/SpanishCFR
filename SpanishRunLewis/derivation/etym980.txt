@@ -1,20 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :980:
-#wˌin̪d̪ikˈɑːre# >>> #ben̪sɡˈɑɾ# ( GOLD : #ben̪ɡˈɑɾ#) :
-w ˌi n̪ d̪ i k ˈɑː r e 
-#ɣʷˌin̪d̪ikˈɑːre# | 20 : w > ɣʷ / __ [+syl]
-#βˌin̪d̪ikˈɑːre# | 39 : ɣʷ > β 
-#βˌen̪d̪ekˈɑːre# | 52 : [+syl,-long] > [-hi] 
-#βˌen̪d̪ekˈɑre# | 53 : [+syl] > [-long,-splng] 
-#βˌen̪d̪ekˈɑɾe# | 54 : r > ɾ 
-#βˌen̪ðekˈɑɾe# | 101 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#βˌen̪ðeɡˈɑɾe# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#vˌen̪ðeɡˈɑɾe# | 112 : β > v 
-#βˌen̪ðeɡˈɑɾe# | 129 : {v;f} > {β;ɸ} 
-#βˌen̪ðɡˈɑɾe# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#βˌen̪ðɣˈɑɾe# | 176 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#βˌen̪ðɣˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#βˌen̪zɣˈɑɾ# | 204 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#bˌen̪zɡˈɑɾ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#bˌen̪sɡˈɑɾ# | 216 : z > s 
-#ben̪sɡˈɑɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ben̪sɡˈɑɾ#
+#wˌɑkˈiːwum# >>> #bɑθˈio# ( GOLD : #bɑθˈio#) :
+w ˌɑ k ˈiː w u m 
+#ɣʷˌɑkˈiːɣʷum# | 20 : w > ɣʷ / __ [+syl]
+#ɣʷˌɑkˈiːɣʷu# | 32 : [+nas] > ∅ / [-stres] __ #
+#βˌɑkˈiːβu# | 37 : ɣʷ > β 
+#βˌɑkˈiːβo# | 50 : [+syl,-long] > [-hi] 
+#βˌɑkˈiβo# | 51 : [+syl] > [-long,-splng] 
+#βˌɑkjˈiβo# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#βˌɑt͡ʃjˈiβo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˌɑt͡ʃˈiβo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#βˌɑt͡ʃˈio# | 101 : [-son,+voi,-strid,-front,βlab] > ∅ / [+syl] __ [+syl,βlab]
+#βˌɑd͡ʒˈio# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#βˌɑd͡zˈio# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#vˌɑd͡zˈio# | 110 : β > v 
+#βˌɑd͡zˈio# | 127 : {v;f} > {β;ɸ} 
+#βˌɑz̪ˈio# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#βˌɑs̪ˈio# | 201 : [+strid] > [-voi] 
+#βˌɑθˈio# | 204 : s̪ > θ / __ [-cons]
+#bˌɑθˈio# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#bɑθˈio# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bɑθˈio#

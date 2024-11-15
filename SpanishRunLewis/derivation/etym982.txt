@@ -1,29 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :982:
-#wˌin̪kˈikulum# >>> #ben̪θˈexo# ( GOLD : #ben̪θˈexo#) :
-w ˌi n̪ k ˈi k u l u m 
-#wˌiŋkˈikulum# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ɣʷˌiŋkˈikulum# | 20 : w > ɣʷ / __ [+syl]
-#ɣʷˌiŋkˈiklum# | 33 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+syl,-prim] @
-#ɣʷˌiŋkˈiklu# | 34 : [+nas] > ∅ / [-stres] __ #
-#βˌiŋkˈiklu# | 39 : ɣʷ > β 
-#βˌiŋkˈixlu# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#βˌeŋkˈexlo# | 52 : [+syl,-long] > [-hi] 
-#βˌeŋkˈejlo# | 63 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#βˌeŋkˈejʎo# | 66 : [+lat] > ʎ / j __ 
-#βˌeŋkjˈejʎo# | 73 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌeŋt͡ʃjˈejʎo# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌeŋt͡ʃˈejʎo# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#βˌeŋt͡ʃˈeʎo# | 80 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#βˌeŋt͡sˈeʎo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#vˌeŋt͡sˈeʎo# | 112 : β > v 
-#βˌeŋt͡sˈeʎo# | 129 : {v;f} > {β;ɸ} 
-#βˌeŋt͡sˈed͡ʒo# | 130 : ʎ > d͡ʒ 
-#βˌeŋt͡sˈeʒo# | 131 : d͡ʒ > ʒ 
-#βˌeŋs̪ˈeʒo# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#βˌeŋs̪ˈeʃo# | 203 : [+strid] > [-voi] 
-#βˌeŋs̪ˈexo# | 205 : ʃ > x 
-#βˌeŋθˈexo# | 206 : s̪ > θ / __ [-cons]
-#bˌeŋθˈexo# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#bˌen̪θˈexo# | 215 : ŋ > n̪ 
-#ben̪θˈexo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ben̪θˈexo#
+#wˌɑrˈiolɑ# >>> #biɾwˈelɑ# ( GOLD : #biɾwˈelɑ#) :
+w ˌɑ r ˈi o l ɑ 
+#ɣʷˌɑrˈiolɑ# | 20 : w > ɣʷ / __ [+syl]
+#βˌɑrˈiolɑ# | 37 : ɣʷ > β 
+#βˌɑriˈolɑ# | 42 : [+stres,-lo,+hi] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#βˌɑrjˈolɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#βˌɑrjˈɔlɑ# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#βˌɑɾjˈɔlɑ# | 52 : r > ɾ 
+#βˌɑe̯ɾjˈɔlɑ# | 95 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+#βˌɑjɾˈɔlɑ# | 97 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#vˌɑjɾˈɔlɑ# | 110 : β > v 
+#vˌɑjɾˈɔelɑ# | 118 : ∅ > e / [-tense,+prim] __ 
+#vˌɑjɾwˈelɑ# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#βˌɑjɾwˈelɑ# | 127 : {v;f} > {β;ɸ} 
+#βˌejɾwˈelɑ# | 142 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#βˌeːɾwˈelɑ# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#βˌeɾwˈelɑ# | 158 : [+syl] > [-long,-splng] 
+#βˌiɾwˈelɑ# | 180 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#bˌiɾwˈelɑ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#biɾwˈelɑ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #biɾwˈelɑ#

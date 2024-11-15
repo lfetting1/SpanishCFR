@@ -1,12 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :617:
-#n̪ˌoːmin̪ˈɑːre# >>> #n̪ombɾˈɑɾ# ( GOLD : #n̪ombɾˈɑɾ#) :
-n̪ ˌoː m i n̪ ˈɑː r e 
-#n̪ˌoːmen̪ˈɑːre# | 52 : [+syl,-long] > [-hi] 
-#n̪ˌomen̪ˈɑre# | 53 : [+syl] > [-long,-splng] 
-#n̪ˌomen̪ˈɑɾe# | 54 : r > ɾ 
-#n̪ˌomn̪ˈɑɾe# | 141 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#n̪ˌomn̪ˈɑɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#n̪ˌomɾˈɑɾ# | 200 : n̪ > ɾ / [+nas] __ 
-#n̪ˌombɾˈɑɾ# | 201 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-#n̪ombɾˈɑɾ# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #n̪ombɾˈɑɾ#
+#plˈumbum# >>> #ʝˈombo# ( GOLD : #plˈomo#) :
+p l ˈu m b u m 
+#plˈumbu# | 32 : [+nas] > ∅ / [-stres] __ #
+#plˈombo# | 50 : [+syl,-long] > [-hi] 
+#plˈomβo# | 99 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#plˈomvo# | 110 : β > v 
+#plˈomβo# | 127 : {v;f} > {β;ɸ} 
+#pʎˈomβo# | 132 : [+lat] > ʎ / [-son] __ 
+#ʎˈomβo# | 133 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʎˈombo# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ʝˈombo# | 216 : ʎ > ʝ 
+Final form : #ʝˈombo#

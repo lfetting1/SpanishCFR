@@ -1,12 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :147:
-#fˈɑmin̪em# >>> #ˈɑmbɾe# ( GOLD : #ˈɑmbɾe#) :
-f ˈɑ m i n̪ e m 
-#fˈɑmin̪e# | 34 : [+nas] > ∅ / [-stres] __ #
-#fˈɑmen̪e# | 52 : [+syl,-long] > [-hi] 
-#ɸˈɑmen̪e# | 129 : {v;f} > {β;ɸ} 
-#ɸˈɑmn̪e# | 142 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
-#hˈɑmn̪e# | 190 : ɸ > h / __ [+syl]
-#ˈɑmn̪e# | 192 : h > ∅ 
-#ˈɑmɾe# | 200 : n̪ > ɾ / [+nas] __ 
-#ˈɑmbɾe# | 201 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-Final form : #ˈɑmbɾe#
+#fˈɑskem# >>> #ˈɑθe# ( GOLD : #ˈɑθ#) :
+f ˈɑ s k e m 
+#fˈɑske# | 32 : [+nas] > ∅ / [-stres] __ #
+#fˈɑskje# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
+#fˈɑst͡ʃje# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#fˈɑst͡ʃe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#fˈɑst͡se# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ɸˈɑst͡se# | 127 : {v;f} > {β;ɸ} 
+#ɸˈɑt͡se# | 183 : [-son] > ∅ / __ [+delrel]
+#hˈɑt͡se# | 188 : ɸ > h / __ [+syl]
+#ˈɑt͡se# | 190 : h > ∅ 
+#ˈɑs̪e# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˈɑθe# | 204 : s̪ > θ / __ [-cons]
+Final form : #ˈɑθe#

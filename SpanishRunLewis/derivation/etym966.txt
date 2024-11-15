@@ -1,15 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :966:
-#wˈolt̪ɑ# >>> #bˈot͡ʃɑ# ( GOLD : #bwˈelt̪ɑ#) :
-w ˈo l t̪ ɑ 
-#wˈol̪t̪ɑ# | 15 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
-#ɣʷˈol̪t̪ɑ# | 20 : w > ɣʷ / __ [+syl]
-#βˈol̪t̪ɑ# | 39 : ɣʷ > β 
-#βˈɔl̪t̪ɑ# | 51 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#βˈɔjt̪ɑ# | 107 : [+lat] > j / [+back] __ [+cons,-lat]
-#vˈɔjt̪ɑ# | 112 : β > v 
-#vˈojt̪ɑ# | 117 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#βˈojt̪ɑ# | 129 : {v;f} > {β;ɸ} 
-#βˈojt͡ʃɑ# | 157 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-#βˈot͡ʃɑ# | 165 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#bˈot͡ʃɑ# | 214 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #bˈot͡ʃɑ#
+#wˌerekˈun̪d̪iɑm# >>> #beɾɡˈun̪ʝɑ# ( GOLD : #beɾɡʷˈen̪θɑ#) :
+w ˌe r e k ˈu n̪ d̪ i ɑ m 
+#ɣʷˌerekˈun̪d̪iɑm# | 20 : w > ɣʷ / __ [+syl]
+#ɣʷˌerekˈun̪d̪iɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#βˌerekˈun̪d̪iɑ# | 37 : ɣʷ > β 
+#βˌerekˈun̪d̪jɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#βˌerekˈon̪d̪jɑ# | 50 : [+syl,-long] > [-hi] 
+#βˌeɾekˈon̪d̪jɑ# | 52 : r > ɾ 
+#βˌeɾekˈon̪d͡ʒjɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#βˌeɾekˈon̪d͡ʒɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#βˌeɾekˈon̪ʝɑ# | 100 : d͡ʒ > ʝ 
+#βˌeɾeɡˈon̪ʝɑ# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#vˌeɾeɡˈon̪ʝɑ# | 110 : β > v 
+#vˌeɾiɡˈon̪ʝɑ# | 112 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#vˌeɾiɡˈun̪ʝɑ# | 113 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+#βˌeɾiɡˈun̪ʝɑ# | 127 : {v;f} > {β;ɸ} 
+#βˌeɾɡˈun̪ʝɑ# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#βˌeɾɣˈun̪ʝɑ# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#bˌeɾɡˈun̪ʝɑ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#beɾɡˈun̪ʝɑ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #beɾɡˈun̪ʝɑ#

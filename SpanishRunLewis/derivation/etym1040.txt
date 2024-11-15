@@ -1,8 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1040:
-#ˈist̪ud̪# >>> #ˈest̪o# ( GOLD : #ˈest̪o#) :
-ˈi s t̪ u d̪ 
-#ˈis̪t̪ud̪# | 22 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ˈis̪t̪u# | 36 : [+cons,-cont] > ∅ / __ #
-#ˈes̪t̪o# | 52 : [+syl,-long] > [-hi] 
-#ˈest̪o# | 204 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #ˈest̪o#
+#ˈorsum# >>> #wˈeso# ( GOLD : #ˈoso#) :
+ˈo r s u m 
+#ˈorsu# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˈossu# | 39 : r > s / __ s
+#ˈɔssu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#ˈɔsso# | 50 : [+syl,-long] > [-hi] 
+#ˈɔesso# | 118 : ∅ > e / [-tense,+prim] __ 
+#wˈesso# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#wˈeso# | 137 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
+Final form : #wˈeso#

@@ -1,15 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :698:
-#pˌekt̪orˈɑːlem# >>> #ped̪ɾˈɑl# ( GOLD : #pet̪ɾˈɑl#) :
-p ˌe k t̪ o r ˈɑː l e m 
-#pˌekt̪rˈɑːlem# | 30 : [+syl,-prim,-lo] > ∅ / [+syl,-prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+prim] @
-#pˌekt̪rˈɑːle# | 34 : [+nas] > ∅ / [-stres] __ #
-#pˌext̪rˈɑːle# | 40 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˌext̪rˈɑle# | 53 : [+syl] > [-long,-splng] 
-#pˌext̪ɾˈɑle# | 54 : r > ɾ 
-#pˌejt̪ɾˈɑle# | 113 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-#pˌeːt̪ɾˈɑle# | 159 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#pˌet̪ɾˈɑle# | 160 : [+syl] > [-long,-splng] 
-#pˌet̪ɾˈɑl# | 180 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#pˌed̪ɾˈɑl# | 210 : [-son] > [αvoi] / [-cons] __ [-cont,αvoi]
-#ped̪ɾˈɑl# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ped̪ɾˈɑl#
+#pˌerˈikulum# >>> #peɾˈexo# ( GOLD : #pelˈiɡɾo#) :
+p ˌe r ˈi k u l u m 
+#pˌerˈiklum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+#pˌerˈiklu# | 32 : [+nas] > ∅ / [-stres] __ #
+#pˌerˈixlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#pˌerˈexlo# | 50 : [+syl,-long] > [-hi] 
+#pˌeɾˈexlo# | 52 : r > ɾ 
+#pˌeɾˈejlo# | 61 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+#pˌeɾˈejʎo# | 64 : [+lat] > ʎ / j __ 
+#pˌeɾˈeʎo# | 78 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#pˌeɾˈed͡ʒo# | 128 : ʎ > d͡ʒ 
+#pˌeɾˈeʒo# | 129 : d͡ʒ > ʒ 
+#pˌeɾˈeʃo# | 201 : [+strid] > [-voi] 
+#pˌeɾˈexo# | 203 : ʃ > x 
+#peɾˈexo# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #peɾˈexo#

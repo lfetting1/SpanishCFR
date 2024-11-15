@@ -1,12 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :93:
-#flˈoːrem# >>> #ʝˈoɾ# ( GOLD : #flˈoɾ#) :
-f l ˈoː r e m 
-#flˈoːre# | 34 : [+nas] > ∅ / [-stres] __ #
-#flˈore# | 53 : [+syl] > [-long,-splng] 
-#flˈoɾe# | 54 : r > ɾ 
-#ɸlˈoɾe# | 129 : {v;f} > {β;ɸ} 
-#ɸʎˈoɾe# | 134 : [+lat] > ʎ / [-son] __ 
-#ʎˈoɾe# | 135 : [+cons,-voi] > ∅ / # __ [+lat]
-#ʎˈoɾ# | 179 : e > ∅ / [+syl] ɾ __ #
-#ʝˈoɾ# | 218 : ʎ > ʝ 
-Final form : #ʝˈoɾ#
+#flˈuksum# >>> #ʝˈuxo# ( GOLD : #flˈoxo#) :
+f l ˈu k s u m 
+#flˈuksu# | 32 : [+nas] > ∅ / [-stres] __ #
+#flˈuxsu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#flˈoxso# | 50 : [+syl,-long] > [-hi] 
+#flˈojso# | 111 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#flˈujso# | 114 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+#ɸlˈujso# | 127 : {v;f} > {β;ɸ} 
+#ɸʎˈujso# | 132 : [+lat] > ʎ / [-son] __ 
+#ʎˈujso# | 133 : [+cons,-voi] > ∅ / # __ [+lat]
+#ʎˈujʃo# | 155 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+#ʎˈuʃo# | 163 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#ʎˈuxo# | 203 : ʃ > x 
+#ʝˈuxo# | 216 : ʎ > ʝ 
+Final form : #ʝˈuxo#

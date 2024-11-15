@@ -1,17 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :398:
-#kˌɑn̪n̪ˈiːkium# >>> #kɑɲˈiθo# ( GOLD : #kɑɲˈiθo#) :
-k ˌɑ n̪ n̪ ˈiː k i u m 
-#kˌɑn̪n̪ˈiːkiu# | 34 : [+nas] > ∅ / [-stres] __ #
-#kˌɑn̪n̪ˈiːkju# | 48 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#kˌɑn̪n̪ˈiːkjo# | 52 : [+syl,-long] > [-hi] 
-#kˌɑn̪n̪ˈikjo# | 53 : [+syl] > [-long,-splng] 
-#kˌɑn̪n̪ˈit͡ʃjo# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#kˌɑn̪n̪ˈit͡ʃo# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#kˌɑn̪n̪ˈid͡ʒo# | 105 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌɑn̪n̪ˈid͡zo# | 108 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#kˌɑɲˈid͡zo# | 138 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#kˌɑɲˈiz̪o# | 202 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#kˌɑɲˈis̪o# | 203 : [+strid] > [-voi] 
-#kˌɑɲˈiθo# | 206 : s̪ > θ / __ [-cons]
-#kɑɲˈiθo# | 217 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kɑɲˈiθo#
+#kˌɑpit̪ˈellum# >>> #kɑwd̪ˈiʝo# ( GOLD : #kɑwd̪ˈiʝo#) :
+k ˌɑ p i t̪ ˈe l l u m 
+#kˌɑpit̪ˈellu# | 32 : [+nas] > ∅ / [-stres] __ #
+#kˌɑpit̪ˈɛllu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#kˌɑpet̪ˈɛllo# | 50 : [+syl,-long] > [-hi] 
+#kˌɑbed̪ˈɛllo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˌɑbed̪ˈɛello# | 118 : ∅ > e / [-tense,+prim] __ 
+#kˌɑbed̪jˈello# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kˌɑbed̪jˈeʎo# | 136 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#kˌɑbd̪jˈeʎo# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#kˌɑβðjˈeʎo# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#kˌɑβðjˈiʎo# | 191 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#kˌɑβðˈiʎo# | 196 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#kˌɑwðˈiʎo# | 197 : [+lab,-son] > w / __ [-son]
+#kˌɑwd̪ˈiʎo# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#kɑwd̪ˈiʎo# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#kɑwd̪ˈiʝo# | 216 : ʎ > ʝ 
+Final form : #kɑwd̪ˈiʝo#
