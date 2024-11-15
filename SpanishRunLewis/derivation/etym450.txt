@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :450:
-#lˈuskid̪um# >>> #lˈoθed̪o# ( GOLD : #lˈuθjo#) :
+#lˈuskid̪um# >>> #lˈuθjo# ( GOLD : #lˈuθjo#) :
 l ˈu s k i d̪ u m 
 #lˈuskid̪u# | 32 : [+nas] > ∅ / [-stres] __ #
 #lˈosked̪o# | 50 : [+syl,-long] > [-hi] 
@@ -7,9 +7,11 @@ l ˈu s k i d̪ u m
 #lˈost͡ʃjed̪o# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
 #lˈost͡ʃed̪o# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
 #lˈost͡ʃeðo# | 99 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#lˈost͡seðo# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#lˈot͡seðo# | 183 : [-son] > ∅ / __ [+delrel]
-#lˈos̪eðo# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#lˈoθeðo# | 204 : s̪ > θ / __ [-cons]
-#lˈoθed̪o# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #lˈoθed̪o#
+#lˈost͡ʃeo# | 104 : [-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-hi]
+#lˈost͡seo# | 115 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lˈost͡sjo# | 117 : [+front,+syl,-stres] > j / __ [+syl,+back]
+#lˈust͡sjo# | 122 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+#lˈut͡sjo# | 192 : [-son] > ∅ / __ [+delrel]
+#lˈus̪jo# | 209 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#lˈuθjo# | 213 : s̪ > θ / __ [-cons]
+Final form : #lˈuθjo#

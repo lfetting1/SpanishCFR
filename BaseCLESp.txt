@@ -2,7 +2,7 @@
 h > ∅ $ h_deletion
 [+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
 [+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depilatalization
-[+syl,-long] > [+syl,+long] / __ [+nas] {[+cont,-son];@ [-son]} $prenasal lengthening
+[+syl,-long] > [+syl,+long] / __ [+nas] {[+cont,-son];[-son] [-son]} $prenasal lengthening
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son] $implosion
 [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+cons,-son,αvoi] $implosion 
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi] __ [+cons,-son,-strid] $ implosion
@@ -126,7 +126,20 @@ $[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅ $ glide metathesi
 [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons] $ o-raising $(87) 
 [+cons,-cont,+voi,-son,-delrel] > [+cont] $spirantization $(88) works.
 d͡ʒ > ʝ $spirantization $(89) !No effect. Possibly related to diff treatment of sibilants. Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑɾe -> koʝetˈɑɾe
-[-son,+voi,-strid,-front,βlab] > ∅ / [+syl] __ [+syl,βlab] $ delete bdg (reformulated by KS) - prior should be changed in diaclesp. 11/08, changed βround to βlab
+
+$New delete bdg rule to be more faithful to Hartman, old rule is as follows:
+	$[-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab] $ delete bdg (reformulated by KS) 
+[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-round]
+[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-round]
+[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-hi]
+[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-hi]
+[-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-round]
+[-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-round]
+[-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-hi]
+[-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-hi]
+[-son,+voi,-strid,+ant,-cor,-hi] > ∅ / [-cons] __ [+syl,+round,+hi]
+[-son,+voi,-strid,+back,+ant,] > ∅ / [-cons] __ [+syl,+round,+hi]
+
 
 [-son,+cont] > [+voi] / [-cons] __ [+son] $voicing part 1 $(97) good. CM 10/13 -- fixed for greater faithfulness. For stops, boicing happens only after proper vowels; for fricatives, it can happen after glides as well; explicit in the branching of D to F or G, and G representing the fricative condition. Continued in part 2 below.
 [-cont] > [+voi] / [+syl] __ [+son] $ voicing part 2 -- see above. 
