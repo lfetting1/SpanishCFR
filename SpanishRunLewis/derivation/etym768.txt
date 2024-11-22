@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :768:
-#rˌuɡˈiːt̪um# >>> #roˈid̪o# ( GOLD : #rwˈid̪o#) :
+#rˌuɡˈiːt̪um# >>> #rwˈid̪o# ( GOLD : #rwˈid̪o#) :
 r ˌu ɡ ˈiː t̪ u m 
 #rˌuɡˈiːt̪u# | 32 : [+nas] > ∅ / [-stres] __ #
 #rˌuˈiːt̪u# | 45 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
@@ -8,9 +8,8 @@ r ˌu ɡ ˈiː t̪ u m
 #ɾˌoˈit̪o# | 52 : r > ɾ 
 #ɾˌoˈid̪o# | 112 : [-cont] > [+voi] / [+syl] __ [+son]
 #ɾˌuˈid̪o# | 123 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-#ɾˌuˈiðo# | 183 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ɾˌoˈiðo# | 191 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#rˌoˈiðo# | 220 : ɾ > r / # __ 
-#rˌoˈid̪o# | 221 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#roˈid̪o# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #roˈid̪o#
+#ɾwˈid̪o# | 133 : [+hi,-prim,+syl] > [-syl,0stres,0prim] / __ [+syl]
+#ɾwˈiðo# | 183 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#rwˈiðo# | 220 : ɾ > r / # __ 
+#rwˈid̪o# | 221 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : #rwˈid̪o#
