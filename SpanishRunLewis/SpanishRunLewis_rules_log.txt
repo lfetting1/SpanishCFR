@@ -133,6 +133,8 @@ d͡ʒ > ʝ | ORIG : d͡ʒ > ʝ
 ʝ > ∅ / [+syl,+front] __ [+syl]| ORIG : ʝ > ∅ / [+syl,+front] __ [+syl] 
 [+hi,-prim,+syl] > [-syl,0stres,0prim] / __ [+syl]| ORIG : [+hi,-prim,+syl] > [-syl] / __ [+syl] 
 [+hi,-prim,+syl] > [-syl,0stres,0prim] / [+syl] __ | ORIG : [+hi,-prim,+syl] > [-syl] / [+syl] __ 
+[-cons,-syl,+hi,-round] > [+cons,-son,0tense] / [+syl] __ [+syl]| ORIG : [-cons,-syl,+hi,-round] > [+cons,-son] / [+syl] __ [+syl]
+[-cons,-syl,+hi,-round] > [+cons,-son,0tense] / # __ [+syl]| ORIG : [-cons,-syl,+hi,-round] > [+cons,-son] /  # __ [+syl]
 [+hi,+syl] > [-hi] / [+syl,-prim] ( [-syl] )* __ #| ORIG : [+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # 
 {v;f} > {β;ɸ} | ORIG : {v; f} > {β; ɸ} 
 ʎ > d͡ʒ | ORIG : ʎ > d͡ʒ 
@@ -205,6 +207,7 @@ h > ∅ | ORIG : h > ∅
 [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]| ORIG : [-syl,-cons,+hi,+front] > ∅ /  __  [+front,+cons]
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]| ORIG : [-syl,-cons,+hi,+front] > ∅ /  __  [+hi,+front]
 [+lab,-son] > w / __ [-son]| ORIG : [+lab,-son] > w / __ [-son] 
+w > ∅ / [+round,+syl] __ | ORIG : w > ∅ / [+round,+syl] __ 
 n̪ > ɾ / [+nas] __ | ORIG : n̪ > ɾ / [+nas] __ 
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]| ORIG : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas] 
 [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] | ORIG : [+strid,+ant,+delrel] > [+cont,+distr] 

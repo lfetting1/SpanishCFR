@@ -171,7 +171,7 @@ $[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is
 ʝ > ∅ / [+syl,+front] __ [+syl] $recurrent rule,palatal deletion
 [+hi,-prim,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis
 [+hi,-prim,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis
-$[-cons,-syl,+hi] > [+cons,-son] / __ [+syl] $recurrent,modern glide fortition $!TODO fix
+[-cons,-syl,+hi] > [+cons,-son] / {[+syl]; #} __ [+syl] $recurrent,modern glide fortition 
 [+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 {v; f} > {β; ɸ} $ "betacism"
 ʎ > d͡ʒ $ lateral affrication
@@ -246,6 +246,7 @@ h > ∅ $ h_deletion
 [-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
 [-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption. TODO check again in second runthrough -- bleeding and feeding en masse. 
 [+lab,-son] > w / __ [-son] $wawism_late
+w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply on low-back vowel.) added to account for Hartman's persistent rules. 
 n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation. TODO seems good but currently this rule is bled for most of its domain so check again. 
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas] $epenthetic b d -- occurs before r, ɾ; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
 $[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress -- CM(@Aug31) -- was this rule inserted by accident here? It has no effect currently and has already been realized.

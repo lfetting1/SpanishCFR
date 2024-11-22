@@ -6,7 +6,7 @@ h > ∅ $ h_deletion
 
 [+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depilatalization
 
-[+syl,-long] > [+syl,+long] / __ [+nas] {[+cont,-son];@ [-son]} $prenasal lengthening
+[+syl,-long] > [+syl,+long] / __ [+nas] {[+cont,-son];[-son] [-son]} $prenasal lengthening
 
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son] $implosion
 
@@ -211,7 +211,18 @@ $[+cons,-cont,+voi] > [+cont] $spirantization $(88) works.
 
 d͡ʒ > ʝ $spirantization $(89) Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑɾe -> koʝetˈɑɾe. Rewritten with phones
 
-[-son,+voi,-strid,-front,βlab,-delrel] > ∅ / [-cons] __ [+syl,βlab] $ delete bdg (reformulated by KS) - 9/20 changed prior context from [+syl] to [-cons], changed βround to βlab.
+$New delete bdg rule to be more faithful to Hartman, old rule is as follows:
+	$[-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab] $ delete bdg (reformulated by KS) 
+[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-round]
+[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-round]
+[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-hi]
+[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-hi]
+[-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-round]
+[-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-round]
+[-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-hi]
+[-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-hi]
+[-son,+voi,-strid,+ant,-cor,-hi] > ∅ / [-cons] __ [+syl,+round,+hi]
+[-son,+voi,-strid,+back,+ant,] > ∅ / [-cons] __ [+syl,+round,+hi]
 
 [-son,+cont] > [+voi] / [-cons] __ [+son] $voicing part 1 $(97) good. CM 10/13 -- fixed for greater faithfulness. For stops, boicing happens only after proper vowels; for fricatives, it can happen after glides as well; explicit in the branching of D to F or G, and G representing the fricative condition. Continued in part 2 below.
 
@@ -259,11 +270,10 @@ $[-tense] ∅ > [+tense,+hi,-syl] e $!test this
 
 ʝ > ∅ / [+syl,+front] __ [+syl] $recurrent rule,palatal deletion
 
-[+hi,-stres,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis
+[+hi,-prim,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis
+[+hi,-prim,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis
 
-[+hi,-stres,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis
-
-$[-cons,-syl,+hi] > [+cons,-son] / __ [+syl] $recurrent,modern glide fortition $!TODO fix
+[-cons,-syl,+front] > [+cons,-son] / {[+syl]; #} __ [+syl] $recurrent,modern glide fortition 
 
 [+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 
@@ -400,6 +410,8 @@ h > ∅ $ h_deletion
 
 
 [+lab,-son] > w / __ [-son] $wawism_late
+
+w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply on low-back vowel.) added to account for Hartman's persistent rules. 
 
 n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation. TODO seems good but currently this rule is bled for most of its domain so check again. 
 
