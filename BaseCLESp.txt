@@ -1,5 +1,6 @@
 [-hi] e̯ > [+back,-front] j $fix ae and oe diphthongs to what Hartmann treats them as
 h > ∅ $ h_deletion
+[+sg] > [-sg] $ h_deletion/deaspiration. Hartman doesn't account for aspirated consonants
 [+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
 [+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depilatalization
 [+syl,-long] > [+syl,+long] / __ [+nas] {[+cont,-son];[-son] [-son]} $prenasal lengthening
@@ -87,7 +88,7 @@ e > i / __ j $ front raising
 [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(66) currently no etyma effected but this part should work adequately.
 ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work based on formulation
 [+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] r > r [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
-∅ > j / [+cons,-cont,+back] __ [+syl,-back] $ ongliding $(69) !Hartman's system does not have this affecting /a/ - in other words his symbol defs are different.
+∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back] $ ongliding $(69) !Hartman's system does not have this affecting /a/ - in other words his symbol defs are different.
 {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j $"affrication". Combination of the two below, generously including the aspirates of t and k. $(70) Works. 
     $[-cont,+cor] > [-ant,+distr,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $dental affrication
     $[-cont,+back] > [-ant,+distr,-back,+cor,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $ velar affrication,affrication rules may not be accurate to original phono
@@ -165,7 +166,7 @@ $[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is
 [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ $ progressive raising (e>i / V ʝ __ ) $(111) Fixed. Context is / V ʝ __ 
 ∅ > e / [-tense,+prim] __ $diphthongization (part a)
 [-tense,+prim] e > [+tense,+hi,-syl] [+prim] $diphthongization (part b)
-ʝ > ∅ / # __ [+syl,-stres,+front] $recurrent, palatal deletion $(118) all good
+ʝ > ∅ / # __ [+syl,-prim,+front] $recurrent, palatal deletion $(118) all good
 ʝ > ∅ / [+lat] __ [+syl,+front] $recurrent, palatal deletion
 ʝ > ∅ / [+lat] __ [+syl,+front] $recurrent, palatal deletion
 ʝ > ∅ / [+syl,+front] __ [+syl] $recurrent rule,palatal deletion
@@ -175,17 +176,20 @@ $[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is
 [+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 {v; f} > {β; ɸ} $ "betacism"
 ʎ > d͡ʒ $ lateral affrication
+[+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
 d͡ʒ > ʒ $j_y_merger, for dʒ
 ʝ > ʒ / {#;[-syl]} __ [+round] $ j_y_merger, for ʝ
+ɟ > ʒ $ j_y merger for palatal stop. This is how Hartman has it, but it doesn't feel like the best way to do it. I believe the only Palatal stops that should exist by this point are from this persistent stopping, which hartman's system can easily accommodate but ours cannot. Could it be better to have a rule that changes ʝ into ʒ in the environments that it would become a stop (for DiaCLESP)? Come back to this.
 [+lat] > ʎ / [-son] __ $lambdacism
 [+cons,-voi] > ∅ / # __ [+lat] $pl_ll_late
 [-voi] [+lat] > t͡ʃ $ "cheismo" palatal lateral > tʃ . Examples manklya (mankʎa), amplyo (ampʎo) > mancha, ancho, but rules as such do not seem to explicitly reference palatality of the lateral or the prior ...nasal? (Nor is the nasal referenced in any sort of metadescription for the rule....)  
 r r > rː $ trilling. TODO check this -- was missing in one version. 
 {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in the nexgt rule, degemination. 
-[+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] $ degemination. Hartman's rule is meant to apply to all consonants except /r/, but this rule could apply if the environment was available. 
+[+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] $ degemination. Hartman's rule is meant to apply to all consonants except /r/, but this rule could apply if the environment was available. 
 ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
 [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] (-syl)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
 [-lo, +syl, -stres] > ∅ / [+prim] (-prim)* [+cons] __ [+cons] @ $syncope late, after primary stress. This rule is meant to trigger between two consonants in a non-final syllable that occurs after the primary stress.
+$[+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+cons,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $nasal assimilation Crashes
 [-son] > [-voi] / [-voi] __ $ progressive_voicing
 [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront] $ a coloring. TODO check later in second runthrough -- currently bled. 
 [+cons,+lab] > w / __ [+back,+cons] $wawism_early. vocalization of syllable-final labial

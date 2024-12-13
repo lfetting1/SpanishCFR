@@ -1,19 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1009:
-#ɡˌin̪ɡˈiːwɑm# >>> #ʝen̪ʝˈibɑ# ( GOLD : #en̪θˈiɑ#) :
+#ɡˌin̪ɡˈiːwɑm# >>> #en̪xˈibɑ# ( GOLD : #en̪θˈiɑ#) :
 ɡ ˌi n̪ ɡ ˈiː w ɑ m 
-#ɡˌiŋɡˈiːwɑm# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ɡˌiŋɡˈiːɣʷɑm# | 20 : w > ɣʷ / __ [+syl]
-#ɡˌiŋɡˈiːɣʷɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#ɡˌiŋɡˈiːβɑ# | 37 : ɣʷ > β 
-#ɡˌeŋɡˈiːβɑ# | 50 : [+syl,-long] > [-hi] 
-#ɡˌeŋɡˈiβɑ# | 51 : [+syl] > [-long,-splng] 
-#ɡjˌeŋɡjˈiβɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#d͡ʒjˌeŋd͡ʒjˈiβɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#d͡ʒˌeŋd͡ʒˈiβɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ʝˌeŋʝˈiβɑ# | 100 : d͡ʒ > ʝ 
-#ʝˌeŋʝˈivɑ# | 119 : β > v 
-#ʝˌeŋʝˈiβɑ# | 138 : {v;f} > {β;ɸ} 
-#ʝˌeŋʝˈibɑ# | 224 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ʝˌen̪ʝˈibɑ# | 225 : ŋ > n̪ 
-#ʝen̪ʝˈibɑ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ʝen̪ʝˈibɑ#
+#ɡˌiŋɡˈiːwɑm# | 15 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ɡˌiŋɡˈiːɣʷɑm# | 21 : w > ɣʷ / __ [+syl]
+#ɡˌiŋɡˈiːɣʷɑ# | 33 : [+nas] > ∅ / [-stres] __ #
+#ɡˌiŋɡˈiːβɑ# | 38 : ɣʷ > β 
+#ɡˌeŋɡˈiːβɑ# | 51 : [+syl,-long] > [-hi] 
+#ɡˌeŋɡˈiβɑ# | 52 : [+syl] > [-long,-splng] 
+#ɡjˌeŋɡjˈiβɑ# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+#d͡ʒjˌeŋd͡ʒjˈiβɑ# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#d͡ʒˌeŋd͡ʒˈiβɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ʝˌeŋʝˈiβɑ# | 101 : d͡ʒ > ʝ 
+#ʝˌeŋʝˈivɑ# | 120 : β > v 
+#ˌeŋʝˈivɑ# | 130 : ʝ > ∅ / # __ [+syl,-prim,+front]
+#ˌeŋʝˈiβɑ# | 139 : {v;f} > {β;ɸ} 
+#ˌeŋɟˈiβɑ# | 141 : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ 
+#ˌeŋʒˈiβɑ# | 145 : ɟ > ʒ 
+#ˌeŋʃˈiβɑ# | 216 : [+strid] > [-voi] 
+#ˌeŋxˈiβɑ# | 218 : ʃ > x 
+#ˌeŋxˈibɑ# | 227 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#ˌen̪xˈibɑ# | 228 : ŋ > n̪ 
+#en̪xˈibɑ# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #en̪xˈibɑ#
