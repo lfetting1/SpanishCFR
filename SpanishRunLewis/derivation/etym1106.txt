@@ -1,15 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1106:
-#ˌin̪lˈɑkweɑ# >>> #enlˈekwɑ# ( GOLD : #en̪lˈɑθɑ#) :
+#ˌin̪lˈɑkweɑ# >>> #enlˈibjɑ# ( GOLD : #en̪lˈɑθɑ#) :
 ˌi n̪ l ˈɑ k w e ɑ 
-#ˌinlˈɑkweɑ# | 15 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#ˌinlˈɑkʷeɑ# | 20 : [-cont,+back,-round] w > [+lab,+round] ∅
-#ˌinlˈɑkʷjɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌenlˈɑkʷjɑ# | 51 : [+syl,-long] > [-hi] 
-#ˌenlˈɑe̯kʷjɑ# | 92 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
-#ˌenlˈɑjkʷɑ# | 98 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#ˌenlˈejkʷɑ# | 156 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌenlˈeːkʷɑ# | 171 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌenlˈekʷɑ# | 172 : [+syl] > [-long,-splng] 
-#ˌenlˈekwɑ# | 225 : kʷ > k w 
-#enlˈekwɑ# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #enlˈekwɑ#
+#ˌinlˈɑkweɑ# | 14 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ˌinlˈɑkɣʷeɑ# | 19 : w > ɣʷ / __ [+syl]
+#ˌinlˈɑkbeɑ# | 36 : ɣʷ > b 
+#ˌinlˈɑxbeɑ# | 37 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#ˌinlˈɑxbjɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌenlˈɑxbjɑ# | 49 : [+syl,-long] > [-hi] 
+#ˌenlˈɑjbjɑ# | 117 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#ˌinlˈɑjbjɑ# | 118 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+#ˌinlˈejbjɑ# | 152 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#ˌinlˈeːbjɑ# | 167 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌinlˈebjɑ# | 168 : [+syl] > [-long,-splng] 
+#ˌinlˈibjɑ# | 195 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#ˌenlˈibjɑ# | 197 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#enlˈibjɑ# | 223 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #enlˈibjɑ#

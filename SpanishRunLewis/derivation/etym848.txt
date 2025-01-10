@@ -1,22 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :848:
-#sˌae̯t̪ˈɑːkeum# >>> #sed̪ˈɑθo# ( GOLD : #θed̪ˈɑθo#) :
+#sˌae̯t̪ˈɑːkeum# >>> #sad̪ˈɑθo# ( GOLD : #θed̪ˈɑθo#) :
 s ˌa e̯ t̪ ˈɑː k e u m 
-#sˌɑjt̪ˈɑːkeum# | 0 : [-hi] e̯ > [+back,-front] j
-#sˌɛjt̪ˈɑːkeum# | 24 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
-#sˌejt̪ˈɑːkeum# | 25 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
-#sˌeːt̪ˈɑːkeum# | 26 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#sˌeːt̪ˈɑːkeu# | 33 : [+nas] > ∅ / [-stres] __ #
-#sˌeːt̪ˈɑːkju# | 47 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#sˌeːt̪ˈɑːkjo# | 51 : [+syl,-long] > [-hi] 
-#sˌet̪ˈɑkjo# | 52 : [+syl] > [-long,-splng] 
-#sˌet̪ˈɑt͡ʃjo# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#sˌet̪ˈɑt͡ʃo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#sˌed̪ˈɑd͡ʒo# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
-#sˌed̪ˈɑd͡zo# | 116 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#sˌeðˈɑd͡zo# | 188 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#sˌeðˈɑz̪o# | 215 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#sˌeðˈɑs̪o# | 216 : [+strid] > [-voi] 
-#sˌeðˈɑθo# | 219 : s̪ > θ / __ [-cons]
-#sˌed̪ˈɑθo# | 227 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#sed̪ˈɑθo# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #sed̪ˈɑθo#
+#sˌaːt̪ˈɑːkeum# | 24 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#sˌaːt̪ˈɑːkeu# | 31 : [+nas] > ∅ / [-stres] __ #
+#sˌaːt̪ˈɑːkju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#sˌaːt̪ˈɑːkjo# | 49 : [+syl,-long] > [-hi] 
+#sˌat̪ˈɑkjo# | 50 : [+syl] > [-long,-splng] 
+#sˌat̪ˈɑt͡ʃjo# | 66 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#sˌat̪ˈɑt͡ʃo# | 70 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#sˌad̪ˈɑd͡ʒo# | 109 : [-cont] > [+voi] / [+syl] __ [+son]
+#sˌad̪ˈɑd͡zo# | 112 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#sˌad̪ˈɑz̪o# | 216 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#sˌad̪ˈɑs̪o# | 217 : [+strid] > [-voi] 
+#sˌad̪ˈɑθo# | 220 : s̪ > θ 
+#sad̪ˈɑθo# | 223 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #sad̪ˈɑθo#
