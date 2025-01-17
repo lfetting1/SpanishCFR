@@ -1,16 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :468:
-#lˌae̯siˈoːn̪em# >>> #lasˈon̪# ( GOLD : #lesjˈon̪#) :
+#lˌae̯siˈoːn̪em# >>> #lesˈon̪# ( GOLD : #lesjˈon̪#) :
 l ˌa e̯ s i ˈoː n̪ e m 
-#lˌaːsiˈoːn̪em# | 24 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˌaːsiˈoːn̪e# | 31 : [+nas] > ∅ / [-stres] __ #
-#lˌaːsjˈoːn̪e# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#lˌasjˈon̪e# | 50 : [+syl] > [-long,-splng] 
-#lˌae̯sjˈon̪e# | 85 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
-#lˌajsˈon̪e# | 95 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#lˌajzˈon̪e# | 108 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#lˌaːzˈon̪e# | 167 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˌazˈon̪e# | 168 : [+syl] > [-long,-splng] 
-#lˌazˈon̪# | 193 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#lˌasˈon̪# | 217 : [+strid] > [-voi] 
-#lasˈon̪# | 223 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #lasˈon̪#
+#lˌɑjsiˈoːn̪em# | 0 : [-hi] e̯ > [+back,-front] j
+#lˌɛjsiˈoːn̪em# | 24 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#lˌejsiˈoːn̪em# | 25 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
+#lˌeːsiˈoːn̪em# | 26 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˌeːsiˈoːn̪e# | 33 : [+nas] > ∅ / [-stres] __ #
+#lˌeːsjˈoːn̪e# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#lˌesjˈon̪e# | 52 : [+syl] > [-long,-splng] 
+#lˌee̯sjˈon̪e# | 92 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+#lˌejsˈon̪e# | 98 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+#lˌejzˈon̪e# | 112 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#lˌeːzˈon̪e# | 171 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#lˌezˈon̪e# | 172 : [+syl] > [-long,-splng] 
+#lˌezˈon̪# | 192 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#lˌesˈon̪# | 216 : [+strid] > [-voi] 
+#lesˈon̪# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #lesˈon̪#

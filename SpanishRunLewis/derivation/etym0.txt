@@ -1,9 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :0:
 #blˈit̪um# >>> #blˈed̪o# ( GOLD : #blˈed̪o#) :
 b l ˈi t̪ u m 
-#blˈit̪u# | 31 : [+nas] > ∅ / [-stres] __ #
-#blˈet̪o# | 49 : [+syl,-long] > [-hi] 
-#blˈed̪o# | 109 : [-cont] > [+voi] / [+syl] __ [+son]
-#bʎˈed̪o# | 142 : [+lat] > ʎ / [-son] __ 
-#blˈed̪o# | 148 : ʎ > l / [+cons,+voi] __ 
+#blˈit̪u# | 33 : [+nas] > ∅ / [-stres] __ #
+#blˈet̪o# | 51 : [+syl,-long] > [-hi] 
+#βlˈet̪o# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#βlˈed̪o# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
+#vlˈed̪o# | 120 : β > v 
+#βlˈed̪o# | 139 : {v;f} > {β;ɸ} 
+#βʎˈed̪o# | 146 : [+lat] > ʎ / [-son] __ 
+#βlˈed̪o# | 152 : ʎ > l / [+cons,+voi] __ 
+#βlˈeðo# | 188 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#blˈed̪o# | 227 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
 Final form : #blˈed̪o#

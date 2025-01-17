@@ -1,10 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :632:
-#prˈae̯mium# >>> #pɾˈamjo# ( GOLD : #pɾˈemjo#) :
+#prˈae̯mium# >>> #pɾˈimjo# ( GOLD : #pɾˈemjo#) :
 p r ˈa e̯ m i u m 
-#prˈaːmium# | 24 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#prˈaːmiu# | 31 : [+nas] > ∅ / [-stres] __ #
-#prˈaːmju# | 45 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#prˈaːmjo# | 49 : [+syl,-long] > [-hi] 
-#prˈamjo# | 50 : [+syl] > [-long,-splng] 
-#pɾˈamjo# | 51 : r > ɾ 
-Final form : #pɾˈamjo#
+#prˈɑjmium# | 0 : [-hi] e̯ > [+back,-front] j
+#prˈɛjmium# | 24 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#prˈɛːmium# | 26 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#prˈɛːmiu# | 33 : [+nas] > ∅ / [-stres] __ #
+#prˈɛːmju# | 47 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#prˈɛːmjo# | 51 : [+syl,-long] > [-hi] 
+#prˈɛmjo# | 52 : [+syl] > [-long,-splng] 
+#pɾˈɛmjo# | 53 : r > ɾ 
+#pɾˈemjo# | 125 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+#pɾˈimjo# | 194 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+Final form : #pɾˈimjo#

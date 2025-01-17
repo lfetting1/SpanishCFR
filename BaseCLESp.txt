@@ -146,7 +146,7 @@ $New delete bdg rule to be more faithful to Hartman, old rule is as follows:
 [-cont] > [+voi] / [+syl] __ [+son] $ voicing part 2 -- see above. 
 
 [+lat] > w / [+lo] __ [-son] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good. CM 11/9 -- fixed to align with span15.pho
-[+lat] > j / [+back] __ [-son,+cor,-hi] $ lateral vocalization for molto > mojto type cases. CM 11/9 -- fixed to align with span15.pho
+[+lat] > j / [+back] __ [-son,+cor,-front] $ lateral vocalization for molto > mojto type cases. CM 11/9 -- fixed to align with span15.pho. 1/17. Changed [-hi] to [-front] because it seems like hartman treats t͡ʃ as [+hi], so this is to exclude it. Hartman's rule excludes it in any case.
 {t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disjunction
 [+front,+syl,-stres,+hi] > j / __ [+syl] $ syneresis_late $(101) !no context
 [+front,+syl,-stres] > j / __ [+syl,+back] $ syneresis_late $(102)
