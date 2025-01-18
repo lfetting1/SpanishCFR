@@ -1,15 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :480:
-#lˌiːt̪iɡˈɑːre# >>> #lid̪jˈɑɾ# ( GOLD : #lid̪jˈɑɾ#) :
-l ˌiː t̪ i ɡ ˈɑː r e 
-#lˌiːt̪eɡˈɑːre# | 51 : [+syl,-long] > [-hi] 
-#lˌit̪eɡˈɑre# | 52 : [+syl] > [-long,-splng] 
-#lˌit̪eɡˈɑɾe# | 53 : r > ɾ 
-#lˌit̪eɣˈɑɾe# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#lˌit̪eˈɑɾe# | 106 : [-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-round]
-#lˌid̪eˈɑɾe# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
-#lˌid̪jˈɑɾe# | 118 : [+front,+syl,-stres] > j / __ [+syl,+back]
-#lˌiðjˈɑɾe# | 188 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#lˌiðjˈɑɾ# | 191 : e > ∅ / [+syl] ɾ __ #
-#lˌid̪jˈɑɾ# | 227 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#lid̪jˈɑɾ# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #lid̪jˈɑɾ#
+#lˌokˈellum# >>> #luθˈiʝo# ( GOLD : #luθˈiʝo#) :
+l ˌo k ˈe l l u m 
+#lˌokˈellu# | 32 : [+nas] > ∅ / [-stres] __ #
+#lˌokˈɛllu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#lˌokˈɛllo# | 50 : [+syl,-long] > [-hi] 
+#lˌokjˈɛllo# | 66 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+#lˌot͡ʃjˈɛllo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#lˌot͡ʃˈɛllo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#lˌod͡ʒˈɛllo# | 110 : [-cont] > [+voi] / [+syl] __ [+son]
+#lˌod͡zˈɛllo# | 113 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#lˌod͡zˈɛello# | 125 : ∅ > e / [-tense,+prim] __ 
+#lˌod͡zjˈello# | 126 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#lˌod͡zjˈeʎo# | 147 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#lˌud͡zjˈeʎo# | 196 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+#lˌud͡zjˈiʎo# | 207 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+#lˌud͡zˈiʎo# | 212 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+#lˌuz̪ˈiʎo# | 217 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#lˌus̪ˈiʎo# | 218 : [+strid] > [-voi] 
+#lˌuθˈiʎo# | 221 : s̪ > θ 
+#luθˈiʎo# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#luθˈiʝo# | 225 : ʎ > ʝ 
+Final form : #luθˈiʝo#

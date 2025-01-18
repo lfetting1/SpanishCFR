@@ -1,18 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1205:
-#ˌɑkˈeːt̪um# >>> #ɑθˈed̪o# ( GOLD : #ɑθˈed̪o#) :
-ˌɑ k ˈeː t̪ u m
-#ˌɑkˈeːt̪u# | 33 : [+nas] > ∅ / [-stres] __ #
-#ˌɑkˈeːt̪o# | 51 : [+syl,-long] > [-hi] 
-#ˌɑkˈet̪o# | 52 : [+syl] > [-long,-splng] 
-#ˌɑkjˈet̪o# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-#ˌɑt͡ʃjˈet̪o# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑt͡ʃˈet̪o# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɑd͡ʒˈed̪o# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌɑd͡zˈed̪o# | 116 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑd͡zˈeðo# | 188 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ˌɑz̪ˈeðo# | 215 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌɑs̪ˈeðo# | 216 : [+strid] > [-voi] 
-#ˌɑθˈeðo# | 219 : s̪ > θ / __ [-cons]
-#ˌɑθˈed̪o# | 227 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ɑθˈed̪o# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑθˈed̪o#
+#ˌae̯ɡypt̪iˈɑːkum# >>> #aɥθˈɑɡo# ( GOLD : #ɑθjˈɑɡo#) :
+ˌa e̯ ɡ y p t̪ i ˈɑː k u m
+#ˌaːɡypt̪iˈɑːkum# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌaːɡypt̪iˈɑːku# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˌaːɡypt̪jˈɑːku# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+#ˌaːɡøpt̪jˈɑːko# | 50 : [+syl,-long] > [-hi] 
+#ˌaɡøpt̪jˈɑko# | 51 : [+syl] > [-long,-splng] 
+#ˌaɡøt̪t̪jˈɑko# | 62 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+#ˌaɡjøt̪t̪jˈɑko# | 66 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+#ˌad͡ʒjøt̪t͡ʃjˈɑko# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ˌad͡ʒøt̪t͡ʃˈɑko# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ˌaʝøt̪t͡ʃˈɑko# | 98 : d͡ʒ > ʝ 
+#ˌaʝøt̪t͡ʃˈɑɡo# | 110 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌaʝøt̪t͡sˈɑɡo# | 113 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#ˌaʝyt̪t͡sˈɑɡo# | 124 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+#ˌayt̪t͡sˈɑɡo# | 130 : ʝ > ∅ / [+syl,+front] __ [+syl]
+#ˌaɥt̪t͡sˈɑɡo# | 132 : [+hi,-prim,+syl] > [-syl,0stres,0prim] / [+syl] __ 
+#ˌaɥt͡sˈɑɡo# | 199 : [-son] > ∅ / __ [+delrel]
+#ˌaɥs̪ˈɑɡo# | 217 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#ˌaɥθˈɑɡo# | 221 : s̪ > θ 
+#aɥθˈɑɡo# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #aɥθˈɑɡo#

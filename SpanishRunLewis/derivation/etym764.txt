@@ -1,19 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :764:
-#rˌot̪ˈellɑm# >>> #rud̪ˈiʝɑ# ( GOLD : #rod̪ˈiʝɑ#) :
-r ˌo t̪ ˈe l l ɑ m 
-#rˌot̪ˈellɑ# | 33 : [+nas] > ∅ / [-stres] __ #
-#rˌot̪ˈɛllɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ɾˌot̪ˈɛllɑ# | 53 : r > ɾ 
-#ɾˌod̪ˈɛllɑ# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
-#ɾˌod̪ˈɛellɑ# | 128 : ∅ > e / [-tense,+prim] __ 
-#ɾˌod̪jˈellɑ# | 129 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ɾˌod̪jˈeʎɑ# | 150 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#ɾˌoðjˈeʎɑ# | 188 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ɾˌuðjˈeʎɑ# | 194 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-#ɾˌuðjˈiʎɑ# | 205 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-#ɾˌuðˈiʎɑ# | 210 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#rˌuðˈiʎɑ# | 226 : ɾ > r / # __ 
-#rˌud̪ˈiʎɑ# | 227 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#rud̪ˈiʎɑ# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-#rud̪ˈiʝɑ# | 231 : ʎ > ʝ 
-Final form : #rud̪ˈiʝɑ#
+#rˌoːbˈiːɡin̪e# >>> #robˈin̪# ( GOLD : #robˈin̪#) :
+r ˌoː b ˈiː ɡ i n̪ e 
+#rˌoːbˈiːɡen̪e# | 50 : [+syl,-long] > [-hi] 
+#rˌobˈiɡen̪e# | 51 : [+syl] > [-long,-splng] 
+#ɾˌobˈiɡen̪e# | 52 : r > ɾ 
+#ɾˌobˈiɡjen̪e# | 66 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+#ɾˌobˈid͡ʒjen̪e# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#ɾˌobˈid͡ʒen̪e# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#ɾˌobˈiʝen̪e# | 98 : d͡ʒ > ʝ 
+#ɾˌubˈiʝen̪e# | 120 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+#ɾˌubˈiʝin̪e# | 124 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+#ɾˌubˈiin̪e# | 130 : ʝ > ∅ / [+syl,+front] __ [+syl]
+#ɾˌubˈijn̪e# | 132 : [+hi,-prim,+syl] > [-syl,0stres,0prim] / [+syl] __ 
+#ɾˌubˈiːn̪e# | 168 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ɾˌubˈin̪e# | 169 : [+syl] > [-long,-splng] 
+#ɾˌubˈin̪# | 194 : e > ∅ / [+syl] [+cont,+cor] __ #
+#ɾˌobˈin̪# | 198 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+#rˌobˈin̪# | 223 : ɾ > r / # __ 
+#robˈin̪# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #robˈin̪#

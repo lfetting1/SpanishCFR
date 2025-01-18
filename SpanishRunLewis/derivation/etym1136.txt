@@ -1,20 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1136:
-#ˌɑkkˌept̪ˈoːre# >>> #eθet̪ˈoɾ# ( GOLD : #ɑθˈoɾ#) :
-ˌɑ k k ˌe p t̪ ˈoː r e 
-#ˌɑkkˌept̪ˈore# | 52 : [+syl] > [-long,-splng] 
-#ˌɑkkˌept̪ˈoɾe# | 53 : r > ɾ 
-#ˌɑkkˌet̪t̪ˈoɾe# | 68 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] / __ [-son,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround]
-#ˌɑkkjˌet̪t̪ˈoɾe# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-#ˌɑkt͡ʃjˌet̪t̪ˈoɾe# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑkt͡ʃˌet̪t̪ˈoɾe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌɑkt͡sˌet̪t̪ˈoɾe# | 116 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑjt͡sˌet̪t̪ˈoɾe# | 121 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-#ˌɑjt͡sˌet̪ˈoɾe# | 151 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
-#ˌejt͡sˌet̪ˈoɾe# | 156 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌeːt͡sˌet̪ˈoɾe# | 171 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌet͡sˌet̪ˈoɾe# | 172 : [+syl] > [-long,-splng] 
-#ˌet͡sˌet̪ˈoɾ# | 191 : e > ∅ / [+syl] ɾ __ #
-#ˌes̪ˌet̪ˈoɾ# | 215 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ˌeθˌet̪ˈoɾ# | 219 : s̪ > θ / __ [-cons]
-#eθet̪ˈoɾ# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #eθet̪ˈoɾ#
+#ˌɑkkˌubit̪ˈɑːre# >>> #ɑkod̪ˈɑɾ# ( GOLD : #ɑkod̪ˈɑɾ#) :
+ˌɑ k k ˌu b i t̪ ˈɑː r e 
+#ˌɑkkˌobet̪ˈɑːre# | 50 : [+syl,-long] > [-hi] 
+#ˌɑkkˌobet̪ˈɑre# | 51 : [+syl] > [-long,-splng] 
+#ˌɑkkˌobet̪ˈɑɾe# | 52 : r > ɾ 
+#ˌɑkkˌobed̪ˈɑɾe# | 110 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌɑkˌobed̪ˈɑɾe# | 148 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+#ˌɑkˌobd̪ˈɑɾe# | 150 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#ˌɑkˌobd̪ˈɑɾ# | 193 : e > ∅ / [+syl] ɾ __ #
+#ˌɑkˌowd̪ˈɑɾ# | 213 : [+lab,-son] > w / __ [-son]
+#ˌɑkˌod̪ˈɑɾ# | 214 : w > ∅ / [+round,+syl] __ 
+#ɑkod̪ˈɑɾ# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑkod̪ˈɑɾ#

@@ -1,15 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :510:
-#mˈobilem# >>> #mwˈeble# ( GOLD : #mwˈeble#) :
-m ˈo b i l e m 
-#mˈoblem# | 32 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
-#mˈoble# | 33 : [+nas] > ∅ / [-stres] __ #
-#mˈɔble# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˈɔβle# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#mˈɔvle# | 120 : β > v 
-#mˈɔevle# | 128 : ∅ > e / [-tense,+prim] __ 
-#mwˈevle# | 129 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#mwˈeβle# | 139 : {v;f} > {β;ɸ} 
-#mwˈeβʎe# | 146 : [+lat] > ʎ / [-son] __ 
-#mwˈeβle# | 152 : ʎ > l / [+cons,+voi] __ 
-#mwˈeble# | 227 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #mwˈeble#
+#mˈod̪ium# >>> #mˈoʝo# ( GOLD : #mˈoʝo#) :
+m ˈo d̪ i u m 
+#mˈod̪iu# | 32 : [+nas] > ∅ / [-stres] __ #
+#mˈod̪ju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#mˈɔd̪ju# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˈɔd̪jo# | 50 : [+syl,-long] > [-hi] 
+#mˈɔd͡ʒjo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#mˈɔd͡ʒo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#mˈɔʝo# | 98 : d͡ʒ > ʝ 
+#mˈoʝo# | 122 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+Final form : #mˈoʝo#

@@ -1,8 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1031:
-#ˈist̪ud̪# >>> #ˈest̪o# ( GOLD : #ˈest̪o#) :
-ˈi s t̪ u d̪ 
-#ˈis̪t̪ud̪# | 23 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ˈis̪t̪u# | 35 : [+cons,-cont] > ∅ / __ #
-#ˈes̪t̪o# | 51 : [+syl,-long] > [-hi] 
-#ˈest̪o# | 217 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #ˈest̪o#
+#ˈiːn̪sulɑm# >>> #ˈislɑ# ( GOLD : #ˈislɑ#) :
+ˈiː n̪ s u l ɑ m 
+#ˈiːnsulɑm# | 14 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#ˈiːnslɑm# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [-syl] )* [+syl]
+#ˈiːnslɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#ˈiːslɑ# | 33 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+#ˈislɑ# | 51 : [+syl] > [-long,-splng] 
+#ˈizlɑ# | 109 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#ˈizʎɑ# | 143 : [+lat] > ʎ / [-son] __ 
+#ˈizlɑ# | 149 : ʎ > l / [+cons,+voi] __ 
+#ˈislɑ# | 218 : [+strid] > [-voi] 
+Final form : #ˈislɑ#

@@ -1,7 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :881:
-#sˌɑɡˈiːn̪ɑ# >>> #sɑˈin̪ɑ# ( GOLD : #sɑˈin̪ɑ#) :
-s ˌɑ ɡ ˈiː n̪ ɑ 
-#sˌɑˈiːn̪ɑ# | 46 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-#sˌɑˈin̪ɑ# | 52 : [+syl] > [-long,-splng] 
-#sɑˈin̪ɑ# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #sɑˈin̪ɑ#
+#sˌɑːn̪it̪ˈɑːt̪em# >>> #sɑn̪d̪ˈɑd̪e# ( GOLD : #sɑn̪id̪ˈɑd̪#) :
+s ˌɑː n̪ i t̪ ˈɑː t̪ e m 
+#sˌɑːn̪it̪ˈɑːt̪e# | 32 : [+nas] > ∅ / [-stres] __ #
+#sˌɑːn̪et̪ˈɑːt̪e# | 50 : [+syl,-long] > [-hi] 
+#sˌɑn̪et̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
+#sˌɑn̪ed̪ˈɑd̪e# | 110 : [-cont] > [+voi] / [+syl] __ [+son]
+#sˌɑn̪d̪ˈɑd̪e# | 150 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#sɑn̪d̪ˈɑd̪e# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #sɑn̪d̪ˈɑd̪e#

@@ -3,3 +3,4 @@
 -Resolve inconsistencies between our lexicon and cascade. For example, Hartman's rules, and therefore, BaseCLESP assume voiced obstruents to be phonemically fricatives, but our lexicon assumes them to be stops. This is probably not a huge source of error, but we should reach a decision about how to proceed. As of 9/27, Confusion of β for b is the 5th most common error, and one that probably can be easily resolved (done 10/04)
 -Fix metaphony rules, especially the agent J rules in DiaClesp as well as BaseClesp. Hartman's are bled, but ours are not, and they are producing results they definitely are not meant to. Since Hartman's are bled, though, it is hard to know what they actually are meant to do.
 - Move back secondary stress deletion in the cascade
+- BaseCLESP begins with a bandaid rule that affects disphthongs. Rewrite Diaclesp to be accurate without bandaid rule

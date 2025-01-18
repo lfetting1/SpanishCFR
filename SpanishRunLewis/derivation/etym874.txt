@@ -1,20 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :874:
-#sˌɑːn̪kt̪ifikˈɑːre# >>> #sɑn̪t̪iɡʷˈɑɾ# ( GOLD : #sɑn̪t̪iɡʷˈɑɾ#) :
-s ˌɑː n̪ k t̪ i f i k ˈɑː r e 
-#sˌɑːn̪t̪ifikˈɑːre# | 10 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#sˌɑːn̪t̪efekˈɑːre# | 51 : [+syl,-long] > [-hi] 
-#sˌɑn̪t̪efekˈɑre# | 52 : [+syl] > [-long,-splng] 
-#sˌɑn̪t̪efekˈɑɾe# | 53 : r > ɾ 
-#sˌɑn̪t̪evekˈɑɾe# | 112 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#sˌɑn̪t̪eveɡˈɑɾe# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
-#sˌɑn̪t̪eβeɡˈɑɾe# | 139 : {v;f} > {β;ɸ} 
-#sˌɑn̪t̪eβɡˈɑɾe# | 153 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#sˌɑn̪t̪ewɡˈɑɾe# | 157 : [+cons,+lab] > w / __ [+back,+cons]
-#sˌɑn̪t̪ewɡʷˈɑɾe# | 170 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
-#sˌɑn̪t̪eɡʷˈɑɾe# | 173 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-#sˌɑn̪t̪iɡʷˈɑɾe# | 179 : [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round]
-#sˌɑn̪t̪iɣʷˈɑɾe# | 188 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#sˌɑn̪t̪iɣʷˈɑɾ# | 191 : e > ∅ / [+syl] ɾ __ #
-#sˌɑn̪t̪iɡʷˈɑɾ# | 227 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#sɑn̪t̪iɡʷˈɑɾ# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #sɑn̪t̪iɡʷˈɑɾ#
+#sˌɑn̪ɡwˈin̪eum# >>> #sɑn̪ɡˈeɲo# ( GOLD : #sɑn̪ɡʷˈeɲo#) :
+s ˌɑ n̪ ɡ w ˈi n̪ e u m 
+#sˌɑŋɡwˈin̪eum# | 14 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+#sˌɑŋɡʷˈin̪eum# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
+#sˌɑŋɡʷˈin̪eu# | 32 : [+nas] > ∅ / [-stres] __ #
+#sˌɑŋɡʷˈin̪ju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#sˌɑŋɡʷˈen̪jo# | 50 : [+syl,-long] > [-hi] 
+#sˌɑŋɡʷˈeɲjo# | 58 : [+nas,+cor] > ɲ / __ j
+#sˌɑŋɡʷˈeɲo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#sˌɑŋɡˈeɲo# | 75 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
+#sɑŋɡˈeɲo# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#sɑn̪ɡˈeɲo# | 226 : ŋ > n̪ 
+Final form : #sɑn̪ɡˈeɲo#

@@ -1,8 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :524:
-#mˈust̪um# >>> #mˈost̪o# ( GOLD : #mˈost̪o#) :
-m ˈu s t̪ u m 
-#mˈus̪t̪um# | 23 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#mˈus̪t̪u# | 33 : [+nas] > ∅ / [-stres] __ #
-#mˈos̪t̪o# | 51 : [+syl,-long] > [-hi] 
-#mˈost̪o# | 217 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #mˈost̪o#
+#mˈut̪ilum# >>> #mˈold̪o# ( GOLD : #mˈot͡ʃo#) :
+m ˈu t̪ i l u m 
+#mˈut̪lum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+#mˈut̪lu# | 32 : [+nas] > ∅ / [-stres] __ #
+#mˈot̪lo# | 50 : [+syl,-long] > [-hi] 
+#mˈod̪lo# | 110 : [-cont] > [+voi] / [+syl] __ [+son]
+#mˈod̪ʎo# | 143 : [+lat] > ʎ / [-son] __ 
+#mˈod̪lo# | 149 : ʎ > l / [+cons,+voi] __ 
+#mˈold̪o# | 185 : d̪ l > l d̪ 
+Final form : #mˈold̪o#

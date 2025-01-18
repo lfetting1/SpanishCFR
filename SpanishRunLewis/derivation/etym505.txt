@@ -1,8 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :505:
-#mˈihi# >>> #mjˈe# ( GOLD : #mˈi#) :
-m ˈi h i 
-#mˈii# | 1 : h > ∅ 
-#miˈi# | 43 : [+stres,-lo,+hi] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#mjˈi# | 47 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#mjˈe# | 51 : [+syl,-long] > [-hi] 
-Final form : #mjˈe#
+#mˈilium# >>> #mˈexo# ( GOLD : #mˈixo#) :
+m ˈi l i u m 
+#mˈiliu# | 32 : [+nas] > ∅ / [-stres] __ #
+#mˈilju# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+#mˈeljo# | 50 : [+syl,-long] > [-hi] 
+#mˈeʎjo# | 60 : [+lat] > ʎ / __ j
+#mˈeʎo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#mˈed͡ʒo# | 137 : ʎ > d͡ʒ 
+#mˈeʒo# | 139 : d͡ʒ > ʒ 
+#mˈeʃo# | 218 : [+strid] > [-voi] 
+#mˈexo# | 220 : ʃ > x 
+Final form : #mˈexo#

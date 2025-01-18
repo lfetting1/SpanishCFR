@@ -1,19 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :584:
-#mˌɑːiest̪ˈɑːt̪em# >>> #mest̪ˈɑd̪# ( GOLD : #mɑxest̪ˈɑd̪#) :
-m ˌɑː i e s t̪ ˈɑː t̪ e m 
-#mˌɑːies̪t̪ˈɑːt̪em# | 23 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#mˌɑːies̪t̪ˈɑːt̪e# | 33 : [+nas] > ∅ / [-stres] __ #
-#mˌɑːees̪t̪ˈɑːt̪e# | 51 : [+syl,-long] > [-hi] 
-#mˌɑees̪t̪ˈɑt̪e# | 52 : [+syl] > [-long,-splng] 
-#mˌɑes̪t̪ˈɑt̪e# | 67 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-#mˌɑes̪t̪ˈɑd̪e# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
-#mˌɑjs̪t̪ˈɑd̪e# | 119 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-#mˌejs̪t̪ˈɑd̪e# | 156 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#mˌeːs̪t̪ˈɑd̪e# | 171 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#mˌes̪t̪ˈɑd̪e# | 172 : [+syl] > [-long,-splng] 
-#mˌes̪t̪ˈɑðe# | 188 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#mˌes̪t̪ˈɑð# | 192 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#mˌest̪ˈɑð# | 217 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#mˌest̪ˈɑd̪# | 227 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#mest̪ˈɑd̪# | 230 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mest̪ˈɑd̪#
+#mˌɑːksˈillɑm# >>> #mexˈeʝɑ# ( GOLD : #mexˈiʝɑ#) :
+m ˌɑː k s ˈi l l ɑ m 
+#mˌɑːksˈillɑ# | 32 : [+nas] > ∅ / [-stres] __ #
+#mˌɑːxsˈillɑ# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#mˌɑːxsˈellɑ# | 50 : [+syl,-long] > [-hi] 
+#mˌɑxsˈellɑ# | 51 : [+syl] > [-long,-splng] 
+#mˌɑjsˈellɑ# | 118 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+#mˌɑjsˈeʎɑ# | 147 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+#mˌejsˈeʎɑ# | 153 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+#mˌejʃˈeʎɑ# | 166 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+#mˌeːʃˈeʎɑ# | 168 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#mˌeʃˈeʎɑ# | 169 : [+syl] > [-long,-splng] 
+#mˌexˈeʎɑ# | 220 : ʃ > x 
+#mexˈeʎɑ# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#mexˈeʝɑ# | 225 : ʎ > ʝ 
+Final form : #mexˈeʝɑ#

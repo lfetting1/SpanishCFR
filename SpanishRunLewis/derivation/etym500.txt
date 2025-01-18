@@ -1,10 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :500:
-#mˈerd̪ɑ# >>> #mjˈeɾd̪ɑ# ( GOLD : #mjˈeɾd̪ɑ#) :
-m ˈe r d̪ ɑ 
-#mˈɛrd̪ɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˈɛɾd̪ɑ# | 53 : r > ɾ 
-#mˈɛɾðɑ# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#mˈɛeɾðɑ# | 128 : ∅ > e / [-tense,+prim] __ 
-#mjˈeɾðɑ# | 129 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#mjˈeɾd̪ɑ# | 227 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #mjˈeɾd̪ɑ#
+#mˈerulum# >>> #mjˈeɾlo# ( GOLD : #mˈiɾlo#) :
+m ˈe r u l u m 
+#mˈerlum# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons,-nas] __ [+cons,-back] ( [-syl] )* [+syl]
+#mˈerlu# | 32 : [+nas] > ∅ / [-stres] __ #
+#mˈɛrlu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#mˈɛrlo# | 50 : [+syl,-long] > [-hi] 
+#mˈɛɾlo# | 52 : r > ɾ 
+#mˈɛeɾlo# | 125 : ∅ > e / [-tense,+prim] __ 
+#mjˈeɾlo# | 126 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Final form : #mjˈeɾlo#
