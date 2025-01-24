@@ -232,7 +232,7 @@ $New delete bdg rule to be more faithful to Hartman, old rule is as follows:
 
 [+lat] > w / [+lo] __ [-son] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good. CM 11/9 -- fixed to align with span15.pho
 
-[+lat] > j / [+back] __ [-son,+cor,-hi] $ lateral vocalization for molto > mojto type cases. KS 10/18: fixed -ll- case. CM 11/9 -- fixed to align with span15.pho
+[+lat] > j / [+back] __ [-son,+cor,-front] $ lateral vocalization for molto > mojto type cases. KS 10/18: fixed -ll- case. CM 11/9 -- fixed to align with span15.pho
 
 {t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disjunction
 [+front,+syl,-stres,+hi] > j / __ [+syl] $ syneresis_late $(101) !no context
@@ -329,7 +329,7 @@ $CM 10/13: apparently the second recurrence of progressive rounding was missed -
 {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
 
 $CM 10/13: apparently the second recurrence of "monophthong" was missed -- unless this reflects the web version? 
-[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
+[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ / __ (@) [+syl] $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
 $CM 10/13: assert persistent rule -- unlong
 [+syl] > [-long] 
@@ -342,7 +342,7 @@ $CM 10/13: apparently the second recurrence of progressive rounding was missed -
 {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
 
 $CM 10/13: apparently the second recurrence of "monophthong" was missed -- unless this reflects the web version? 
-[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
+[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ / __ (@) [+syl] $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
 $CM 10/13: assert persistent rule -- unlong
 [+syl] > [-long] 
