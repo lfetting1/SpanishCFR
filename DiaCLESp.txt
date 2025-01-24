@@ -277,7 +277,7 @@ $[-tense] ∅ > [+tense,+hi,-syl] e $!test this
 
 [-cons,-syl,+front] > [+cons,-son] / {[+syl]; #} __ [+syl] $recurrent,modern glide fortition 
 
-[+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
+[+hi,+syl] > [-hi] / [+syl,+prim] (@)* ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 
 {v; f} > {b; ɸ} $ "betacism"
 
@@ -382,7 +382,7 @@ $[+cons,-cont,+voi] > [+cont] $spirantization. TODO check later in second runthr
 
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization. TODO check later in second runthrough -- currently bled. 
 
-e > ∅ / [+syl] {[+ant,+delrel];ɾ;[+cons,+cor]} __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant". CM @Aug30:  Although his documentation says "delayed-release", the actual behavior of this rule deletes -e after ɾ, ð, l -- as well as dz, ts -- so coronal sonorants, tap ɾ, and alveolar affricates, it seems. Previous form [+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # 
+e > ∅ / [+syl] {[+ant,+delrel];ɾ;[+cont,+cor]} __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant". CM @Aug30:  Although his documentation says "delayed-release", the actual behavior of this rule deletes -e after ɾ, ð, l -- as well as dz, ts -- so coronal sonorants, tap ɾ, and alveolar affricates, it seems. Previous form [+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # 
 
 [-hi,-stres] [+hi,+stres] > [+stres] [-stres] $ restress
 
