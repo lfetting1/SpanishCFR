@@ -1,15 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :850:
-#sˌekuːrit̪ˈɑːt̪em# >>> #seɾt̪ˈɑd̪e# ( GOLD : #seɡuɾid̪ˈɑd̪#) :
+#sˌekuːrit̪ˈɑːt̪em# >>> #seɾt̪ˈɑd̪# ( GOLD : #seɡuɾid̪ˈɑd̪#) :
 s ˌe k uː r i t̪ ˈɑː t̪ e m 
-#sˌekuːrt̪ˈɑːt̪em# | 27 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
-#sˌekrt̪ˈɑːt̪em# | 28 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
-#sˌekrt̪ˈɑːt̪e# | 32 : [+nas] > ∅ / [-stres] __ #
-#sˌexrt̪ˈɑːt̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#sˌexrt̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
-#sˌexɾt̪ˈɑt̪e# | 52 : r > ɾ 
-#sˌejɾt̪ˈɑt̪e# | 56 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#sˌejɾt̪ˈɑd̪e# | 110 : [-cont] > [+voi] / [+syl] __ [+son]
-#sˌeːɾt̪ˈɑd̪e# | 168 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#sˌeɾt̪ˈɑd̪e# | 169 : [+syl] > [-long,-splng] 
-#seɾt̪ˈɑd̪e# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #seɾt̪ˈɑd̪e#
+#sˌekuːrt̪ˈɑːt̪em# | 28 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
+#sˌekrt̪ˈɑːt̪em# | 29 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
+#sˌekrt̪ˈɑːt̪e# | 33 : [+nas] > ∅ / [-stres] __ #
+#sˌexrt̪ˈɑːt̪e# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+#sˌexrt̪ˈɑt̪e# | 52 : [+syl] > [-long,-splng] 
+#sˌexɾt̪ˈɑt̪e# | 53 : r > ɾ 
+#sˌejɾt̪ˈɑt̪e# | 62 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+#sˌejɾt̪ˈɑd̪e# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
+#sˌeːɾt̪ˈɑd̪e# | 172 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#sˌeɾt̪ˈɑd̪e# | 173 : [+syl] > [-long,-splng] 
+#sˌeɾt̪ˈɑðe# | 189 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#sˌeɾt̪ˈɑð# | 193 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#sˌeɾt̪ˈɑd̪# | 228 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#seɾt̪ˈɑd̪# | 231 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #seɾt̪ˈɑd̪#

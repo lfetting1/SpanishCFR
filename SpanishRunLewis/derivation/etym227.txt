@@ -1,11 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :227:
-#kwˈae̯rit̪# >>> #kʷˈaɾ# ( GOLD : #kjˈeɾe#) :
+#kwˈae̯rit̪# >>> #kjˈeɾ# ( GOLD : #kjˈeɾe#) :
 k w ˈa e̯ r i t̪ 
-#kʷˈae̯rit̪# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
-#kʷˈaːrit̪# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kʷˈaːri# | 34 : [+cons,-cont] > ∅ / __ #
-#kʷˈaːre# | 50 : [+syl,-long] > [-hi] 
-#kʷˈare# | 51 : [+syl] > [-long,-splng] 
-#kʷˈaɾe# | 52 : r > ɾ 
-#kʷˈaɾ# | 193 : e > ∅ / [+syl] ɾ __ #
-Final form : #kʷˈaɾ#
+#kwˈɑjrit̪# | 0 : [-hi] e̯ > [+back,-front] j
+#kʷˈɑjrit̪# | 20 : [-cont,+back,-round] w > [+lab,+round] ∅
+#kʷˈɛjrit̪# | 24 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#kʷˈɛːrit̪# | 26 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kʷˈɛːri# | 35 : [+cons,-cont] > ∅ / __ #
+#kʷˈɛːre# | 51 : [+syl,-long] > [-hi] 
+#kʷˈɛre# | 52 : [+syl] > [-long,-splng] 
+#kʷˈɛɾe# | 53 : r > ɾ 
+#kˈɛɾe# | 81 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
+#kˈɛeɾe# | 128 : ∅ > e / [-tense,+prim] __ 
+#kjˈeɾe# | 129 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#kjˈeɾ# | 192 : e > ∅ / [+syl] ɾ __ #
+Final form : #kjˈeɾ#

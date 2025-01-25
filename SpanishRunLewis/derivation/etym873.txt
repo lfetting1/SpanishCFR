@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :873:
 #sˌɑːn̪kt̪ifikˈɑːre# >>> #sɑn̪t̪iɡʷˈɑɾ# ( GOLD : #sɑn̪t̪iɡʷˈɑɾ#) :
 s ˌɑː n̪ k t̪ i f i k ˈɑː r e 
-#sˌɑːn̪t̪ifikˈɑːre# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-#sˌɑːn̪t̪efekˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#sˌɑn̪t̪efekˈɑre# | 51 : [+syl] > [-long,-splng] 
-#sˌɑn̪t̪efekˈɑɾe# | 52 : r > ɾ 
-#sˌɑn̪t̪evekˈɑɾe# | 109 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#sˌɑn̪t̪eveɡˈɑɾe# | 110 : [-cont] > [+voi] / [+syl] __ [+son]
-#sˌɑn̪t̪ebeɡˈɑɾe# | 136 : {v;f} > {b;ɸ} 
-#sˌɑn̪t̪ebɡˈɑɾe# | 150 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#sˌɑn̪t̪ewɡˈɑɾe# | 154 : [+cons,+lab] > w / __ [+back,+cons]
-#sˌɑn̪t̪ewɡʷˈɑɾe# | 167 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
-#sˌɑn̪t̪eɡʷˈɑɾe# | 170 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-#sˌɑn̪t̪iɡʷˈɑɾe# | 182 : [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round]
-#sˌɑn̪t̪iɡʷˈɑɾ# | 193 : e > ∅ / [+syl] ɾ __ #
-#sɑn̪t̪iɡʷˈɑɾ# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+#sˌɑːn̪t̪ifikˈɑːre# | 10 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+#sˌɑːn̪t̪efekˈɑːre# | 51 : [+syl,-long] > [-hi] 
+#sˌɑn̪t̪efekˈɑre# | 52 : [+syl] > [-long,-splng] 
+#sˌɑn̪t̪efekˈɑɾe# | 53 : r > ɾ 
+#sˌɑn̪t̪evekˈɑɾe# | 112 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+#sˌɑn̪t̪eveɡˈɑɾe# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
+#sˌɑn̪t̪eβeɡˈɑɾe# | 139 : {v;f} > {β;ɸ} 
+#sˌɑn̪t̪eβɡˈɑɾe# | 153 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+#sˌɑn̪t̪ewɡˈɑɾe# | 158 : [+cons,+lab] > w / __ [+back,+cons]
+#sˌɑn̪t̪ewɡʷˈɑɾe# | 171 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
+#sˌɑn̪t̪eɡʷˈɑɾe# | 174 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+#sˌɑn̪t̪iɡʷˈɑɾe# | 180 : [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round]
+#sˌɑn̪t̪iɣʷˈɑɾe# | 189 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#sˌɑn̪t̪iɣʷˈɑɾ# | 192 : e > ∅ / [+syl] ɾ __ #
+#sˌɑn̪t̪iɡʷˈɑɾ# | 228 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#sɑn̪t̪iɡʷˈɑɾ# | 231 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #sɑn̪t̪iɡʷˈɑɾ#

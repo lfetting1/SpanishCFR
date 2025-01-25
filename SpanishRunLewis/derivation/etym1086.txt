@@ -1,15 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1086:
-#ˌae̯kwɑlit̪ˈɑːt̪em# >>> #aɡʷot̪ˈɑd̪e# ( GOLD : #iɡʷɑld̪ˈɑd̪#) :
+#ˌae̯kwɑlit̪ˈɑːt̪em# >>> #eɡʷot̪ˈɑd̪# ( GOLD : #iɡʷɑld̪ˈɑd̪#) :
 ˌa e̯ k w ɑ l i t̪ ˈɑː t̪ e m 
-#ˌae̯kʷɑlit̪ˈɑːt̪em# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
-#ˌaːkʷɑlit̪ˈɑːt̪em# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌaːkʷɑlt̪ˈɑːt̪em# | 27 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
-#ˌaːkʷɑlt̪ˈɑːt̪e# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌakʷɑlt̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
-#ˌaɡʷɑlt̪ˈɑd̪e# | 110 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌaɡʷɑwt̪ˈɑd̪e# | 111 : [+lat] > w / [+lo] __ [-son]
-#ˌaɡʷowt̪ˈɑd̪e# | 153 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-#ˌaɡʷoːt̪ˈɑd̪e# | 168 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌaɡʷot̪ˈɑd̪e# | 169 : [+syl] > [-long,-splng] 
-#aɡʷot̪ˈɑd̪e# | 224 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #aɡʷot̪ˈɑd̪e#
+#ˌɑjkwɑlit̪ˈɑːt̪em# | 0 : [-hi] e̯ > [+back,-front] j
+#ˌɑjkʷɑlit̪ˈɑːt̪em# | 20 : [-cont,+back,-round] w > [+lab,+round] ∅
+#ˌɛjkʷɑlit̪ˈɑːt̪em# | 24 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#ˌejkʷɑlit̪ˈɑːt̪em# | 25 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
+#ˌeːkʷɑlit̪ˈɑːt̪em# | 26 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌeːkʷɑlt̪ˈɑːt̪em# | 28 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
+#ˌeːkʷɑlt̪ˈɑːt̪e# | 33 : [+nas] > ∅ / [-stres] __ #
+#ˌekʷɑlt̪ˈɑt̪e# | 52 : [+syl] > [-long,-splng] 
+#ˌeɡʷɑlt̪ˈɑd̪e# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
+#ˌeɡʷɑwt̪ˈɑd̪e# | 114 : [+lat] > w / [+lo] __ [-son]
+#ˌeɡʷowt̪ˈɑd̪e# | 157 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+#ˌeɡʷoːt̪ˈɑd̪e# | 172 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#ˌeɡʷot̪ˈɑd̪e# | 173 : [+syl] > [-long,-splng] 
+#ˌeɣʷot̪ˈɑðe# | 189 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#ˌeɣʷot̪ˈɑð# | 193 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#ˌeɡʷot̪ˈɑd̪# | 228 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#eɡʷot̪ˈɑd̪# | 231 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #eɡʷot̪ˈɑd̪#

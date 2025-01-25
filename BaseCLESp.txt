@@ -44,7 +44,6 @@ $[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $syncope_early
 [+syl,-prim] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] ([-syl])* [+syl] $syncope_early (posttonic; sib __ nonvelar). Conditions B L M S Q. CM fixed 11/9 
 [+syl,-prim] > ∅ / [+prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back] ([-syl])* [+syl] $syncope_early (posttonic; liq __ nonvel). Conditions B L M R Q. CM fixed 11/9 
 [+syl,-prim] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons,-nas] ([-syl])* [+syl]  $syncope_early (posttonic; C/J __ liq). Conditions B L M O. CM fixed 11/9 
-
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion
 [+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 
 [+cons,-cont] > ∅ / __ # $final stop deletion
@@ -161,7 +160,7 @@ $[+syl,+front,+tense] > [+hi] / __ ([-syl]) [+syl,+hi] $ metaphony e $(106) !com
 $[+syl,+round,+tense] > [+hi,-lo] / __ ([-syl])* [+hi,+syl] $ metaphony o $(108) !come back to these
 $[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is o $(109) !come back to these
 
-[+syl,-tense] > [+tense] / __ (@) (@) [+hi,+front] $ low raising,palatal can be 1st 2nd or 3rd phoneme following $(110) good - added below
+[+syl,-tense] > [+tense] / __ (@) (@) [+hi,+front,-syl] $ low raising,palatal can be 1st 2nd or 3rd phoneme following $(110) good - added below
 [+syl,-tense] > [+tense] / __ (@) (@) [-cons,-syl] $ low raising,glide can be 1st 2nd or 3rd phoneme following
 [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ $ progressive raising (e>i / V ʝ __ ) $(111) Fixed. Context is / V ʝ __ 
 ∅ > e / [-tense,+prim] __ $diphthongization (part a)
@@ -173,7 +172,7 @@ $[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is
 [+hi,-prim,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis
 [+hi,-prim,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis
 [-cons,-syl,+hi] > [+cons,-son] / {[+syl]; #} __ [+syl] $recurrent,modern glide fortition 
-[+hi,+syl] > [-hi] / [+syl,-prim] ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
+[+hi,+syl] > [-hi] / [+syl,+prim] (@)* ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 {v; f} > {β; ɸ} $ "betacism"
 ʎ > d͡ʒ $ lateral affrication
 [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
@@ -189,7 +188,7 @@ r r > rː $ trilling. TODO check this -- was missing in one version.
 ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
 [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] (-syl)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
 [-lo, +syl, -stres] > ∅ / [+prim] (-prim)* [+cons] __ [+cons] @ $syncope late, after primary stress. This rule is meant to trigger between two consonants in a non-final syllable that occurs after the primary stress.
-$[+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Around] / __ [+cons,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Around] $nasal assimilation Crashes
+[+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Around] / __ [+cons,-nas,-delrel,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Around] $nasal assimilation Crashes
 [-son] > [-voi] / [-voi] __ $ progressive_voicing
 [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront] $ a coloring. TODO check later in second runthrough -- currently bled. 
 [+cons,+lab] > w / __ [+back,+cons] $wawism_early. vocalization of syllable-final labial
