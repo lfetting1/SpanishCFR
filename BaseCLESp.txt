@@ -210,7 +210,9 @@ $CM 10/13: apparently the second recurrence of "monophthong" was missed -- unles
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
 $CM 10/13: assert persistent rule -- unlong
-[+syl] > [-long] 
+[+syl] > [-long]
+
+[+syl,-stres] > ∅ / __ [+syl,-stres]
 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
