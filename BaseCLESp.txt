@@ -26,7 +26,7 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 [+ant,-distr,+strid] > [+ant,+distr,+strid] / __ [+ant,+distr] $ recurrent rule,dental_s
 
 $fronting -- new version as of Oct22
-{ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j $ fronting
+{ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯ $ fronting
 $fronting -- old version
 ${ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} $ fronting
 
@@ -86,7 +86,7 @@ e > i / __ j $ front raising
 [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] / __ [-son,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
 [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(66) currently no etyma effected but this part should work adequately.
 ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work based on formulation
-[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] r > r [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
+[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] ɾ > ɾ [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
 ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back] $ ongliding $(69) !Hartman's system does not have this affecting /a/ - in other words his symbol defs are different.
 {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j $"affrication". Combination of the two below, generously including the aspirates of t and k. $(70) Works. 
     $[-cont,+cor] > [-ant,+distr,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $dental affrication

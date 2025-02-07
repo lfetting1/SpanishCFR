@@ -44,7 +44,7 @@ j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug
 
 $fronting -- new version as of Oct22
 
-{ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j $ fronting
+{ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯ $ fronting
 
 $fronting -- old version
 
@@ -147,7 +147,7 @@ $ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it be
 
 ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work based on formulation
 
-[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] r > r [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,θtense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
+[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] ɾ > ɾ [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
 
 ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back] $ ongliding $(69) !Hartman's system does not have this affecting /a/ - in other words his symbol defs are different.
 
