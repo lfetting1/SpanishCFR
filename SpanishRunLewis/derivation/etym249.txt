@@ -1,15 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :249:
-#kˈae̯spit̪e# >>> #θˈasped̪# ( GOLD : #θˈesped̪#) :
+#kˈae̯spit̪e# >>> #θjˈesped̪# ( GOLD : #θˈesped̪#) :
 k ˈa e̯ s p i t̪ e 
-#kˈaːspit̪e# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kˈaːspet̪e# | 50 : [+syl,-long] > [-hi] 
-#kˈaspet̪e# | 51 : [+syl] > [-long,-splng] 
-#kjˈaspet̪e# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-#t͡ʃjˈaspet̪e# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t͡ʃˈaspet̪e# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t͡ʃˈasped̪e# | 111 : [-cont] > [+voi] / [+syl] __ [+son]
-#t͡sˈasped̪e# | 114 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t͡sˈasped̪# | 195 : e > ∅ / [+syl] [+cons,+cor] __ #
-#s̪ˈasped̪# | 218 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#θˈasped̪# | 222 : s̪ > θ 
-Final form : #θˈasped̪#
+#kˈɑjspit̪e# | 0 : [-hi] e̯ > [+back,-front] j
+#kˈɛjspit̪e# | 24 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#kˈɛːspit̪e# | 26 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kˈɛːspet̪e# | 51 : [+syl,-long] > [-hi] 
+#kˈɛspet̪e# | 52 : [+syl] > [-long,-splng] 
+#kjˈɛspet̪e# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+#t͡ʃjˈɛspet̪e# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+#t͡ʃˈɛspet̪e# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+#t͡ʃˈɛsped̪e# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
+#t͡sˈɛsped̪e# | 116 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+#t͡sˈɛesped̪e# | 128 : ∅ > e / [-tense,+prim] __ 
+#t͡sjˈesped̪e# | 129 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#t͡sjˈespeðe# | 190 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#t͡sjˈespeð# | 194 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#s̪jˈespeð# | 217 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+#θjˈespeð# | 221 : s̪ > θ / __ [-cons]
+#θjˈesped̪# | 229 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : #θjˈesped̪#

@@ -1,9 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :226:
-#kwˈae̯sit̪us# >>> #kʷˈast̪os# ( GOLD : #kˈist̪o#) :
+#kwˈae̯sit̪us# >>> #kjˈest̪os# ( GOLD : #kˈist̪o#) :
 k w ˈa e̯ s i t̪ u s 
-#kʷˈae̯sit̪us# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
-#kʷˈaːsit̪us# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#kʷˈaːst̪us# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [-syl] )* [+syl]
-#kʷˈaːst̪os# | 50 : [+syl,-long] > [-hi] 
-#kʷˈast̪os# | 51 : [+syl] > [-long,-splng] 
-Final form : #kʷˈast̪os#
+#kwˈɑjsit̪us# | 0 : [-hi] e̯ > [+back,-front] j
+#kʷˈɑjsit̪us# | 20 : [-cont,+back,-round] w > [+lab,+round] ∅
+#kʷˈɛjsit̪us# | 24 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+#kʷˈɛːsit̪us# | 26 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+#kʷˈɛːst̪us# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [-syl] )* [+syl]
+#kʷˈɛːst̪os# | 51 : [+syl,-long] > [-hi] 
+#kʷˈɛst̪os# | 52 : [+syl] > [-long,-splng] 
+#kˈɛst̪os# | 81 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
+#kˈɛest̪os# | 128 : ∅ > e / [-tense,+prim] __ 
+#kjˈest̪os# | 129 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Final form : #kjˈest̪os#

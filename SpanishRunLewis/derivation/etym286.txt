@@ -1,10 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :286:
 #kˈubit̪um# >>> #kˈod̪o# ( GOLD : #kˈod̪o#) :
 k ˈu b i t̪ u m 
-#kˈubit̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˈobet̪o# | 50 : [+syl,-long] > [-hi] 
-#kˈobed̪o# | 111 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˈobd̪o# | 152 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
-#kˈowd̪o# | 214 : [+lab,-son] > w / __ [-son]
-#kˈod̪o# | 215 : w > ∅ / [+round,+syl] __ 
+#kˈubit̪u# | 33 : [+nas] > ∅ / [-stres] __ #
+#kˈobet̪o# | 51 : [+syl,-long] > [-hi] 
+#kˈoβet̪o# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#kˈoβed̪o# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
+#kˈoved̪o# | 120 : β > v 
+#kˈoβed̪o# | 139 : {v;f} > {β;ɸ} 
+#kˈoβd̪o# | 154 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+#kˈoβðo# | 190 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#kˈowðo# | 213 : [+lab,-son] > w / __ [-son]
+#kˈoðo# | 214 : w > ∅ / [+round,+syl] __ 
+#kˈod̪o# | 229 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
 Final form : #kˈod̪o#

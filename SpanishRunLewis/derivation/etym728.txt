@@ -1,12 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :728:
 #rhˈombum# >>> #rwˈembo# ( GOLD : #rˈomo#) :
 r h ˈo m b u m 
-#rˈombum# | 0 : h > ∅ 
-#rˈombu# | 32 : [+nas] > ∅ / [-stres] __ #
-#rˈɔmbu# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#rˈɔmbo# | 50 : [+syl,-long] > [-hi] 
+#rˈombum# | 1 : h > ∅ 
+#rˈombu# | 33 : [+nas] > ∅ / [-stres] __ #
+#rˈɔmbu# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+#rˈɔmbo# | 51 : [+syl,-long] > [-hi] 
 #ɾˈɔmbo# | 53 : r > ɾ 
-#ɾˈɔembo# | 126 : ∅ > e / [-tense,+prim] __ 
-#ɾwˈembo# | 127 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#rwˈembo# | 224 : ɾ > r / # __ 
+#ɾˈɔmβo# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#ɾˈɔmvo# | 120 : β > v 
+#ɾˈɔemvo# | 128 : ∅ > e / [-tense,+prim] __ 
+#ɾwˈemvo# | 129 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+#ɾwˈemβo# | 139 : {v;f} > {β;ɸ} 
+#ɾwˈembo# | 141 : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ 
+#ɾwˈemβo# | 190 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#rwˈemβo# | 228 : ɾ > r / # __ 
+#rwˈembo# | 229 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
 Final form : #rwˈembo#

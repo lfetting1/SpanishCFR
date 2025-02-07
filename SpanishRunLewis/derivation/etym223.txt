@@ -1,16 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :223:
-#krˌuːd̪elit̪ˈɑːt̪em# >>> #kɾulzt̪ˈɑd̪# ( GOLD : #kɾweld̪ˈɑd̪#) :
+#krˌuːd̪elit̪ˈɑːt̪em# >>> #kɾut͡ʃˈɑd̪# ( GOLD : #kɾweld̪ˈɑd̪#) :
 k r ˌuː d̪ e l i t̪ ˈɑː t̪ e m 
-#krˌuːd̪elt̪ˈɑːt̪em# | 27 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
-#krˌuːd̪lt̪ˈɑːt̪em# | 28 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
-#krˌuːd̪lt̪ˈɑːt̪e# | 32 : [+nas] > ∅ / [-stres] __ #
-#krˌud̪lt̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
+#krˌuːd̪elt̪ˈɑːt̪em# | 28 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
+#krˌuːd̪lt̪ˈɑːt̪em# | 29 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
+#krˌuːd̪lt̪ˈɑːt̪e# | 33 : [+nas] > ∅ / [-stres] __ #
+#krˌud̪lt̪ˈɑt̪e# | 52 : [+syl] > [-long,-splng] 
 #kɾˌud̪lt̪ˈɑt̪e# | 53 : r > ɾ 
-#kɾˌud̪lt̪ˈɑd̪e# | 111 : [-cont] > [+voi] / [+syl] __ [+son]
-#kɾˌud̪ʎt̪ˈɑd̪e# | 144 : [+lat] > ʎ / [-son] __ 
-#kɾˌud̪lt̪ˈɑd̪e# | 150 : ʎ > l / [+cons,+voi] __ 
-#kɾˌuld̪t̪ˈɑd̪e# | 186 : d̪ l > l d̪ 
-#kɾˌuld̪t̪ˈɑd̪# | 195 : e > ∅ / [+syl] [+cons,+cor] __ #
-#kɾˌulzt̪ˈɑd̪# | 220 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#kɾulzt̪ˈɑd̪# | 225 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kɾulzt̪ˈɑd̪#
+#kɾˌuðlt̪ˈɑt̪e# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+#kɾˌuðlt̪ˈɑd̪e# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
+#kɾˌuðjt̪ˈɑd̪e# | 115 : [+lat] > j / [-lo] __ [-son,+cor,-front]
+#kɾˌuðjt͡ʃˈɑd̪e# | 170 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+#kɾˌuðt͡ʃˈɑd̪e# | 179 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+#kɾˌuðt͡ʃˈɑðe# | 190 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+#kɾˌuðt͡ʃˈɑð# | 194 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+#kɾˌut͡ʃˈɑð# | 199 : [-son] > ∅ / __ [+delrel]
+#kɾˌut͡ʃˈɑd̪# | 229 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+#kɾut͡ʃˈɑd̪# | 232 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #kɾut͡ʃˈɑd̪#
