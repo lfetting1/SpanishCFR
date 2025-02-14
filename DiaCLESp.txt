@@ -217,12 +217,12 @@ d͡ʒ > ʝ $spirantization $(89) Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑ�
 
 $New delete bdg rule to be more faithful to Hartman, old rule is as follows:
 	$[-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab] $ delete bdg (reformulated by KS) 
-[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-round]
-[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-round]
-[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-hi]
-[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-hi]
-[-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-round]
-[-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-round]
+$[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-round]
+$[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-round]
+$[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-hi]
+$[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-hi]
+$[-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-round]
+$[-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-round]
 [-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-hi]
 [-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-hi]
 [-son,+voi,-strid,+ant,-cor,-hi] > ∅ / [-cons] __ [+syl,+round,+hi]
@@ -337,6 +337,7 @@ $CM 10/13: apparently the second recurrence of "monophthong" was missed -- unles
 
 $CM 10/13: assert persistent rule -- unlong
 [+syl] > [-long] 
+[+syl,-stres,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / __ [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense]
 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 

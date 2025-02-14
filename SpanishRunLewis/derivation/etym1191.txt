@@ -1,16 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1191:
 #ˌɑwkt̪orikˈɑːre# >>> *#ot̪oɾɡˈɑɾ# ( GOLD : #ot̪oɾɡˈɑɾ#) :
 ˌɑ w k t̪ o r i k ˈɑː r e 
-*#ˌɑwkt̪orekˈɑːre# | 49 : [+syl,-long] > [-hi] 
-*#ˌɑwkt̪orekˈɑre# | 50 : [+syl] > [-long,-splng] 
-*#ˌɑwkt̪oɾekˈɑɾe# | 52 : r > ɾ 
-*#ˌɑwt̪t̪oɾekˈɑɾe# | 62 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
-*#ˌɑwt̪t̪oɾeɡˈɑɾe# | 110 : [-cont] > [+voi] / [+syl] __ [+son]
-*#ˌɑwt̪oɾeɡˈɑɾe# | 149 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
-*#ˌɑwt̪oɾɡˈɑɾe# | 151 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#ˌowt̪oɾɡˈɑɾe# | 154 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-*#ˌoːt̪oɾɡˈɑɾe# | 169 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
-*#ˌot̪oɾɡˈɑɾe# | 170 : [+syl] > [-long,-splng] 
-*#ˌot̪oɾɡˈɑɾ# | 194 : e > ∅ / [+syl] ɾ __ #
-*#ot̪oɾɡˈɑɾ# | 225 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ˌɑwkt̪orekˈɑːre# | 51 : [+syl,-long] > [-hi] 
+*#ˌɑwkt̪orekˈɑre# | 52 : [+syl] > [-long,-splng] 
+*#ˌɑwkt̪oɾekˈɑɾe# | 53 : r > ɾ 
+*#ˌɑwt̪t̪oɾekˈɑɾe# | 68 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] / __ [-son,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround]
+*#ˌɑwt̪t̪oɾeɡˈɑɾe# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ˌɑwt̪oɾeɡˈɑɾe# | 152 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#ˌɑwt̪oɾɡˈɑɾe# | 154 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+*#ˌowt̪oɾɡˈɑɾe# | 158 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+*#ˌoːt̪oɾɡˈɑɾe# | 173 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#ˌot̪oɾɡˈɑɾe# | 174 : [+syl] > [-long,-splng] 
+*#ˌot̪oɾɣˈɑɾe# | 191 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+*#ˌot̪oɾɣˈɑɾ# | 194 : e > ∅ / [+syl] ɾ __ #
+*#ˌot̪oɾɡˈɑɾ# | 230 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+*#ot̪oɾɡˈɑɾ# | 233 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#ot̪oɾɡˈɑɾ#

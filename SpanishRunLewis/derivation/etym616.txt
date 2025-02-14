@@ -1,9 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :616:
 #plˈumbum# >>> *#ʝˈombo# ( GOLD : #plˈomo#) :
 p l ˈu m b u m 
-*#plˈumbu# | 31 : [+nas] > ∅ / [-stres] __ #
-*#plˈombo# | 49 : [+syl,-long] > [-hi] 
-*#pʎˈombo# | 144 : [+lat] > ʎ / [-son] __ 
-*#ʎˈombo# | 145 : [+cons,-voi] > ∅ / # __ [+lat]
-*#ʝˈombo# | 226 : ʎ > ʝ 
+*#plˈumbu# | 33 : [+nas] > ∅ / [-stres] __ #
+*#plˈombo# | 51 : [+syl,-long] > [-hi] 
+*#plˈomβo# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+*#plˈomvo# | 120 : β > v 
+*#plˈomβo# | 140 : {v;f} > {β;ɸ} 
+*#plˈombo# | 142 : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ 
+*#pʎˈombo# | 147 : [+lat] > ʎ / [-son] __ 
+*#ʎˈombo# | 148 : [+cons,-voi] > ∅ / # __ [+lat]
+*#ʎˈomβo# | 191 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+*#ʎˈombo# | 230 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+*#ʝˈombo# | 234 : ʎ > ʝ 
 Final form : *#ʝˈombo#
