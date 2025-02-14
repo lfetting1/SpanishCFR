@@ -151,6 +151,7 @@ $New delete bdg rule to be more faithful to Hartman, old rule is as follows:
 [+front,+syl,-stres] > j / __ [+syl,+back] $ syneresis_late $(102)
 [+front,+syl,-stres] > j / [+syl,+back] __ $ syneresis_late $(103)
 β > v $ beta_vee $(104) definitely bled but works.
+[-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
 [+cons,+back,-nas] > j / [+syl] __ [-back,+cons] $ velar yod late $(105) fixed posterior
 [+front,+tense,+syl,-lo] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+hi,+front,-nas,-lat] [+syl,+back] $metaphony e. CM 10/8: fixed metaphony-e to one rule based on span15. OG version (bugged) is below. 
 $[+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels $(107) !come back to these
@@ -229,8 +230,8 @@ t̪ n̪ > n̪ t̪ $sonorant metathesis. This one may be vacuous (was for Hartman
 t̪ l > l t̪ $sonorant metathesis. This one may be vacuous (was for Hartmann's OG set.) 
 ð l > l ð $sonorant metathesis. This one may be vacuous (was for Hartmann's OG set.) 
 ð n̪ > n̪ ð $sonorant metathesis. This one may be vacuous (was for Hartmann's OG set.) 
-[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? TODO check later in second runthrough -- currently bled. 
-$[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happens at the same time. TODO suppressed (CM) @Aug 30, as this appears unnecessary and has bad side effects -- was there a copy-paste here? 
+$[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? TODO check later in second runthrough -- currently bled. 
+{ˈo j; ˈi w; ˈu j; o j; i w; u j; ˌo j; ˌi w; ˌu j} > {w ˈe; j ˈu; w ˈi; w e; j u; w i; ˌo j; ˌi w; ˌu j}$[+syl] > [-syl] / __ [+syl,-cons] $renucleation,meant to be one rule that happens at the same time. TODO suppressed (CM) @Aug 30, as this appears unnecessary and has bad side effects -- was there a copy-paste here? 
 [+cons,-cont,+voi,-delrel,-son] > [+cont] $spirantization.
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization.
 e > ∅ / [+syl] {[+ant,+delrel];ɾ;[+cont,-strid,+cor]} __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant". CM @Aug30:  Although his documentation says "delayed-release", the actual behavior of this rule deletes -e after ɾ, ð, l -- as well as dz, ts -- so coronal sonorants, tap ɾ, and alveolar affricates, it seems. Previous form [+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # 

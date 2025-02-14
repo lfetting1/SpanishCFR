@@ -32,7 +32,7 @@ h > ∅ $ h_deletion
 
 [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
 
-w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply on low-back vowel.)
+$w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply on low-back vowel.)
 
 [-cont,+back,-round] w > [+lab,+round] ∅
 
@@ -279,7 +279,7 @@ $[-tense] ∅ > [+tense,+hi,-syl] e $!test this
 [+hi,-prim,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis
 [+hi,-prim,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis
 
-[-cons,-syl,+front] > [+cons,-son] / {[+syl]; #} __ [+syl] $recurrent,modern glide fortition 
+[-cons,-syl,+front] > [+cons,-son] / {[+syl]; #} __ [-cons] $recurrent,modern glide fortition 
 
 [+hi,+syl] > [-hi] / [+syl,+prim] (@)* ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 
