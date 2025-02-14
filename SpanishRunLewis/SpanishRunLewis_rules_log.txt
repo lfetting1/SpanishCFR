@@ -189,7 +189,7 @@ t̪ n̪ > n̪ t̪ | ORIG : t̪ n̪ > n̪ t̪
 t̪ l > l t̪ | ORIG : t̪ l > l t̪ 
 ð l > l ð | ORIG : ð l > l ð 
 ð n̪ > n̪ ð | ORIG : ð n̪ > n̪ ð 
-[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]| ORIG : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] 
+[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]/ __ @| ORIG : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] / __ @ 
 [+hi,-back,+delrel] > [-strid,-delrel,-son,-cont,+cons,0tense] | ORIG : [+hi,-back,+delrel] > [-strid,-delrel] 
 e > ∅ / [+syl] [+ant,+delrel] __ #| ORIG : e > ∅ / [+syl]  [+ant,+delrel] __ #
 e > ∅ / [+syl] ɾ __ #| ORIG : e > ∅ / [+syl]  ɾ __ #
