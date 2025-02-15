@@ -36,6 +36,7 @@ $w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply 
 
 [-cont,+back,-round] w > [+lab,+round] ∅
 
+
 w > [+cons,-son] / __ [+syl] $ glide fortition,recurrent rule
 
 j > [+cons,-son] / [+syl] __ [+syl] $ glide fortition, recurrent rule. As of Aug 12, made into fricative
@@ -50,7 +51,6 @@ $fronting -- old version
 
 ${ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ; ˈe j; ˌɛ j ; ˌe j} $ fronting
 
-[-lo,-hi,-tense,+syl,-prim,+front] > [+tense] $atonic-epsilon, "no unstressed ɛ," Hartman's rule seems to only leave ɛ with primary stress, as his model does not have secondary stress
 
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
@@ -99,13 +99,19 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front] $ velar deletion
 
+
+
 [+syl,-stres,-lo] > [-syl,-long,+hi] / __ [+syl,+hi] $ syneresis early
 
 [+syl,-stres,-lo,+back] > [-syl,-long,+hi] / __ [+syl,-back] $ syneresis early
 
 [+syl,-stres,-lo,-back] > [-syl,-long,+hi] / __ [+syl,+back] $ syneresis early
 
-[+syl,-long,+prim,-hi,-lo] > [-tense] $ mid lowering
+[+syl,-long,-hi,-lo] > [-tense] $ mid lowering
+
+ɡ > ʝ / [+front,+tense,+syl] __ [+syl,+back] $ Velar opening -- DiaCLESP change, Insertion and reloctation of gamma deletion
+
+[-lo,-hi,-tense,+syl,-prim] > [+tense] $atonic-epsilon, "no unstressed ɛ," Hartman's rule seems to only leave ɛ with primary stress, as his model does not have secondary stress
 
 [+syl,-long] > [-hi] $ hi_lowering
 
@@ -217,16 +223,26 @@ d͡ʒ > ʝ $spirantization $(89) Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑ�
 
 $New delete bdg rule to be more faithful to Hartman, old rule is as follows:
 	$[-son,+voi,-strid,-front,βlab] > ∅ / [-cons] __ [+syl,βlab] $ delete bdg (reformulated by KS) 
-[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-round]
-[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-round]
-[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-hi]
-[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-hi]
-[-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-round]
-[-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-round]
-[-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-hi]
-[-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-hi]
-[-son,+voi,-strid,+ant,-cor,-hi] > ∅ / [-cons] __ [+syl,+round,+hi]
-[-son,+voi,-strid,+back,+ant,] > ∅ / [-cons] __ [+syl,+round,+hi]
+$[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-round]
+$[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-round]
+$[-son,+voi,-strid,-hi,-ant] > ∅ / [-cons] __ [+syl,-hi]
+$[-son,+voi,-strid,-hi,+cor] > ∅ / [-cons] __ [+syl,-hi]
+$[-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-round]
+$[-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-round]
+$[-son,+voi,-strid,+back,-ant] > ∅ / [-cons] __ [+syl,-hi]
+$[-son,+voi,-strid,+back,+cor] > ∅ / [-cons] __ [+syl,-hi]
+$[-son,+voi,-strid,+ant,-cor,-hi] > ∅ / [-cons] __ [+syl,+round,+hi]
+$[-son,+voi,-strid,+back,+ant,] > ∅ / [-cons] __ [+syl,+round,+hi]
+
+$Diaclesp change 2/14 B.1.A -- Relocdated gamma deletion to much earlier.
+
+$[-son,+voi, -front, -lab, -strid] > ∅ / [-cons] __ [+syl,-round]
+$[-son,+voi, -front, -lab, -strid] > ∅ / [-cons] __ [+syl,-hi] 
+
+[-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl] $ Diaclesp chang C.1.B. -- broadened -- d/delta deleted before all vowels (Hartmann excluded before u) 
+[-son,+voi,+lab,-strid] > ∅ / [+front,+hi,-cons] __ [+back,+syl] $ delete beta/b in i __ Vback DiaCLESP change C.1.A
+
+$[-son,+voi,+lab] > ∅ / [-cons] __ [+syl,+hi,+round] $original Hartman rule
 
 [-son,+cont] > [+voi] / [-cons] __ [+son] $voicing part 1 $(97) good. CM 10/13 -- fixed for greater faithfulness. For stops, boicing happens only after proper vowels; for fricatives, it can happen after glides as well; explicit in the branching of D to F or G, and G representing the fricative condition. Continued in part 2 below.
 
@@ -276,8 +292,10 @@ $[-tense] ∅ > [+tense,+hi,-syl] e $!test this
 
 ʝ > ∅ / [+syl,+front] __ [+syl] $recurrent rule,palatal deletion
 
-[+hi,-prim,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis
-[+hi,-prim,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis
+[+hi,-stres,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis -- changed stress TODO put in log
+[+hi,-stres,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis -- changed stress TODO put in log
+
+$Spanish loses stress sometime after here
 
 [-cons,-syl,+front] > [+cons,-son] / {[+syl]; #} __ [-cons] $recurrent,modern glide fortition 
 
@@ -337,7 +355,7 @@ $CM 10/13: apparently the second recurrence of "monophthong" was missed -- unles
 
 $CM 10/13: assert persistent rule -- unlong
 [+syl] > [-long] 
-[+syl,-stres,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / __ [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense]
+[+syl,-stres,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ 
 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 

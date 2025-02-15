@@ -1,11 +1,20 @@
 10/04 Made all of the voiced stops into stops. The cascade was set up to produce them as fricatives or stops in variation, but now it is only stops.
 
+
 A. Rule Insertion
 10/04 Added a rule to change the trill into a tap after a consonant. $(Does this count?)
 2/14 Added a rule deleting unstressed vowels when in hiatus with the same vowel. Catches words that are missed by unlong 
-B. Rule Relocation
+B. Rule Relocdation
+B.1 Relocdation Early
+B.1.A. Gamma deletion moved to much earlier as sequel to early velar deletion rule right after mid lowering.
+B.2. Relocdation Later
+B.2.1. Moved unstressed epsilon to e to after mid-lowering (now broadened to all syllables)
 C. Changes in Conditioning
-11/22 - Changed modern glide fortition rule so that it only applies to /j/, and not /w/ 
-2/14 - Changed "renucleation" so that it never occurs word finally
+C.1.Broadening
+C.1.A. 2-14 - BDG deletion - B is deleted between i and a back vowel. Brings five words to regularity.
+C.1.B. 2-14 Delta deletion broadened to include cases before /u/
+C.2. Narrowing
+C.2.A. 11/22 - Changed modern glide fortition rule so that it only applies to /j/, and not /w/ 
+C.2.B. 2/14 - Changed "renucleation" so that it never occurs word finally
 D. Rule Deletion
 E. Rule separation
