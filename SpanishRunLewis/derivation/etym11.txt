@@ -1,13 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :11:
-#bˈowem# >>> *#bwe# ( GOLD : #bwˈej#) :
+#bˈowem# >>> *#bwˈebe# ( GOLD : #bwˈej#) :
 b ˈo w e m 
-*#bˈoem# | 19 : w > ∅ / [+round,+syl] __ 
-*#bˈoe# | 33 : [+nas] > ∅ / [-stres] __ #
-*#boˌe# | 44 : [+stres,-lo,-hi,+back] [-stres,-back] > [-stres,-prim,+syl,+son,0delrel] [+stres,+syl,+son,0delrel]
-*#bwˌe# | 48 : [+syl,-stres,-lo,+back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,-back]
-*#βwˌe# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-*#vwˌe# | 120 : β > v 
-*#βwˌe# | 140 : {v;f} > {β;ɸ} 
-*#bwˌe# | 230 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#bwe# | 233 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#bwe#
+*#bˈoɣʷem# | 19 : w > ɣʷ / __ [+syl]
+*#bˈoɣʷe# | 31 : [+nas] > ∅ / [-stres] __ #
+*#bˈobe# | 36 : ɣʷ > b 
+*#bˈɔbe# | 48 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈɔebe# | 119 : ∅ > e / [-tense,+prim] __ 
+*#bwˈebe# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Final form : *#bwˈebe#

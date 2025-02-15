@@ -1,9 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :195:
-#jˈowis# >>> *#jwes# ( GOLD : #xwˈebes#) :
+#jˈowis# >>> *#xwˈebes# ( GOLD : #xwˈebes#) :
 j ˈo w i s 
-*#jˈois# | 19 : w > ∅ / [+round,+syl] __ 
-*#joˌis# | 44 : [+stres,-lo,-hi,+back] [-stres,-back] > [-stres,-prim,+syl,+son,0delrel] [+stres,+syl,+son,0delrel]
-*#jwˌis# | 47 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-*#jwˌes# | 51 : [+syl,-long] > [-hi] 
-*#jwes# | 233 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#jwes#
+*#jˈoɣʷis# | 19 : w > ɣʷ / __ [+syl]
+*#jˈobis# | 36 : ɣʷ > b 
+*#jˈɔbis# | 48 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˈɔbes# | 49 : [+syl,-long] > [-hi] 
+*#jˈɔebes# | 119 : ∅ > e / [-tense,+prim] __ 
+*#jwˈebes# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#ʝwˈebes# | 128 : [-cons,-syl,+front] > [+cons,-son,0tense] / # __ [-cons]
+*#ʒwˈebes# | 135 : ʝ > ʒ / # __ [+round]
+*#ʃwˈebes# | 213 : [+strid] > [-voi] 
+*#xwˈebes# | 215 : ʃ > x 
+Final form : *#xwˈebes#

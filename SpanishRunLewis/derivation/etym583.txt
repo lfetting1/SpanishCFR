@@ -1,19 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :583:
-#mˌɑːiest̪ˈɑːt̪em# >>> *#mest̪ˈɑd̪# ( GOLD : #mɑxest̪ˈɑd̪#) :
+#mˌɑːiest̪ˈɑːt̪em# >>> *#mjest̪ˈɑd̪# ( GOLD : #mɑxest̪ˈɑd̪#) :
 m ˌɑː i e s t̪ ˈɑː t̪ e m 
-*#mˌɑːies̪t̪ˈɑːt̪em# | 23 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#mˌɑːies̪t̪ˈɑːt̪e# | 33 : [+nas] > ∅ / [-stres] __ #
-*#mˌɑːees̪t̪ˈɑːt̪e# | 51 : [+syl,-long] > [-hi] 
-*#mˌɑees̪t̪ˈɑt̪e# | 52 : [+syl] > [-long,-splng] 
-*#mˌɑes̪t̪ˈɑt̪e# | 67 : [-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround]
-*#mˌɑes̪t̪ˈɑd̪e# | 113 : [-cont] > [+voi] / [+syl] __ [+son]
-*#mˌɑjs̪t̪ˈɑd̪e# | 119 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-*#mˌejs̪t̪ˈɑd̪e# | 158 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-*#mˌeːs̪t̪ˈɑd̪e# | 173 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#mˌes̪t̪ˈɑd̪e# | 174 : [+syl] > [-long,-splng] 
-*#mˌes̪t̪ˈɑðe# | 191 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#mˌes̪t̪ˈɑð# | 195 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-*#mˌest̪ˈɑð# | 220 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-*#mˌest̪ˈɑd̪# | 230 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#mest̪ˈɑd̪# | 233 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#mest̪ˈɑd̪#
+*#mˌɑːies̪t̪ˈɑːt̪em# | 21 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+*#mˌɑːies̪t̪ˈɑːt̪e# | 31 : [+nas] > ∅ / [-stres] __ #
+*#mˌɑːees̪t̪ˈɑːt̪e# | 49 : [+syl,-long] > [-hi] 
+*#mˌɑees̪t̪ˈɑt̪e# | 50 : [+syl] > [-long,-splng] 
+*#mˌɑes̪t̪ˈɑt̪e# | 51 : [+syl,-stres] > ∅ / __ [+syl,-stres]
+*#mˌɑes̪t̪ˈɑd̪e# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+*#mˌɑjs̪t̪ˈɑd̪e# | 109 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+*#mˌejs̪t̪ˈɑd̪e# | 147 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#mjˌes̪t̪ˈɑd̪e# | 185 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]/ __ @
+*#mjˌes̪t̪ˈɑd̪# | 189 : e > ∅ / [+syl] [+cons,+cor] __ #
+*#mjˌest̪ˈɑd̪# | 214 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+*#mjest̪ˈɑd̪# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#mjest̪ˈɑd̪#
