@@ -292,8 +292,10 @@ $[-tense] ∅ > [+tense,+hi,-syl] e $!test this
 
 ʝ > ∅ / [+syl,+front] __ [+syl] $recurrent rule,palatal deletion
 
-[+hi,-stres,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis -- changed stress TODO put in log
-[+hi,-stres,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis -- changed stress TODO put in log
+$DiaCLESp change C.1.C. Broadened context of modern syneresis from [-prim] to [-stres]
+
+[+hi,-stres,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis -- DiaCLESp change C.1.C.
+[+hi,-stres,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis DiaCLESp change C.1.C.
 
 $Spanish loses stress sometime after here
 
