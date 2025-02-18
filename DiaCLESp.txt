@@ -357,7 +357,7 @@ $CM 10/13: apparently the second recurrence of "monophthong" was missed -- unles
 
 $CM 10/13: assert persistent rule -- unlong
 [+syl] > [-long] 
-[+syl,-stres,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ 
+[+syl,-stres,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ $ Vowel coalescence. DiaCLESp change A.1.1 Inserted with unlong rule to fix cases such as d̪eˈed̪o for d̪ˈed̪o that are meant to be caught by the previous rule. Gets some wrong, such as the present tense forms of -eer verbs, but that is probably from analogy.
 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 
@@ -399,7 +399,7 @@ t̪ l > l t̪ $sonorant metathesis. This one may be vacuous (was for Hartmann's 
 
 ð n̪ > n̪ ð $sonorant metathesis. This one may be vacuous (was for Hartmann's OG set.) 
 
-[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] / __ @ $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? TODO check later in second runthrough -- currently bled. 
+[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] / __ @ $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? DiaCLESp change C.2.B. -- changed to exclude word final cases
 
 ${ˈo j; ˈi w; ˈu j; o j; i w; u j; ˌo j; ˌi w; ˌu j} > {w ˈe; j ˈu; w ˈi; w e; j u; w i; ˌo j; ˌi w; ˌu j}
 
