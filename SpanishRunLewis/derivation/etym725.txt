@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :725:
-#pˌulˈeɡium# >>> *#polˈiʝo# ( GOLD : #polˈeo#) :
+#pˌulˈeɡium# >>> *#polˈio# ( GOLD : #polˈeo#) :
 p ˌu l ˈe ɡ i u m 
 *#pˌulˈeɡiu# | 30 : [+nas] > ∅ / [-stres] __ #
 *#pˌulˈeiu# | 43 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
@@ -9,7 +9,8 @@ p ˌu l ˈe ɡ i u m
 *#pˌolˈejo# | 56 : {ɛ;ˈɛ;ˌɛ;e;ˌe;ˈe} > {e;ˈe;ˌe;i;ˌi;ˈi} / __ j
 *#pˌolˈijo# | 113 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
 *#pˌulˈijo# | 114 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-*#pˌulˈiʝo# | 127 : [-cons,-syl,+front] > [+cons,-son,0tense] / [+syl] __ [-cons]
-*#pˌolˈiʝo# | 193 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-*#polˈiʝo# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#polˈiʝo#
+*#pˌulˈiːo# | 160 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#pˌulˈio# | 161 : [+syl] > [-long,-splng] 
+*#pˌolˈio# | 191 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+*#polˈio# | 220 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#polˈio#
