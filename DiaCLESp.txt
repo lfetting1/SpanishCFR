@@ -145,7 +145,7 @@ $ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it be
 
 [+lat] > ʎ / __ j $ lateral palatalization (combine?) $(63) Good but see above.
 
-[-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel" $(64) works on forms in our cascade, however all cases are ee/oo - no je/wo. according to rule spec that would work as well though.
+[-cons,-lo,-prim,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel" $(64) works on forms in our cascade, however all cases are ee/oo - no je/wo. according to rule spec that would work as well though.
 
 [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
 
@@ -357,7 +357,7 @@ $CM 10/13: apparently the second recurrence of "monophthong" was missed -- unles
 
 $CM 10/13: assert persistent rule -- unlong
 [+syl] > [-long] 
-[+syl,-stres,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ $ Vowel coalescence. DiaCLESp change A.1.1 Inserted with unlong rule to fix cases such as d̪eˈed̪o for d̪ˈed̪o that are meant to be caught by the previous rule. Gets some wrong, such as the present tense forms of -eer verbs, but that is probably from analogy.
+[+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ $ Vowel coalescence. DiaCLESp change A.1.1 Inserted with unlong rule to fix cases such as d̪eˈed̪o for d̪ˈed̪o that are meant to be caught by the previous rule. Gets some wrong, such as the present tense forms of -eer verbs, but that is probably from analogy.
 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 

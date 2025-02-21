@@ -82,7 +82,7 @@ e > i / __ j $ front raising
 [+nas,+cor] > ɲ / __ j $ nasal palatal (combine?)
 [+lat] > ʎ / j __ $ lateral palatalization (combine with nasal?) $(62) Has desired effect. Gemination mismatch in some forms but rule is good.
 [+lat] > ʎ / __ j $ lateral palatalization (combine?) $(63) Good but see above.
-[-cons,-lo,-stres,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel" $(64) works on forms in our cascade, however all cases are ee/oo - no je/wo. according to rule spec that would work as well though.
+[-cons,-lo,-prim,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel" $(64) works on forms in our cascade, however all cases are ee/oo - no je/wo. according to rule spec that would work as well though.
 [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] / __ [-son,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
 [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(66) currently no etyma effected but this part should work adequately.
 ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work based on formulation
