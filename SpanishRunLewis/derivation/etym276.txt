@@ -1,12 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :276:
-#kˈopʰin̪um# >>> *#kwˈebn̪o# ( GOLD : #kwˈebɑn̪o#) :
-k ˈo pʰ i n̪ u m 
-*#kˈopin̪um# | 1 : [-cont] > [-sg] 
-*#kˈopin̪u# | 30 : [+nas] > ∅ / [-stres] __ #
-*#kˈɔpin̪u# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈɔpen̪o# | 50 : [+syl,-long] > [-hi] 
-*#kˈɔben̪o# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#kˈɔeben̪o# | 119 : ∅ > e / [-tense,+prim] __ 
-*#kwˈeben̪o# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#kwˈebn̪o# | 145 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
-Final form : *#kwˈebn̪o#
+#kˈirrum# >>> *#θˈero# ( GOLD : #θˈero#) :
+k ˈi r r u m 
+*#kˈirru# | 30 : [+nas] > ∅ / [-stres] __ #
+*#kˈerro# | 50 : [+syl,-long] > [-hi] 
+*#kˈeɾɾo# | 53 : r > ɾ 
+*#kˈero# | 54 : ɾ ɾ > r 
+*#kjˈero# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t͡ʃjˈero# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#t͡ʃˈero# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#t͡sˈero# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#s̪ˈero# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#θˈero# | 216 : s̪ > θ 
+Final form : *#θˈero#

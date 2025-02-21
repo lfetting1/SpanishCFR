@@ -1,13 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :631:
-#prˈae̯mium# >>> *#pɾˈimjo# ( GOLD : #pɾˈemjo#) :
-p r ˈa e̯ m i u m 
-*#prˈɛe̯mium# | 22 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
-*#prˈɛːmium# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#prˈɛːmiu# | 30 : [+nas] > ∅ / [-stres] __ #
-*#prˈɛːmju# | 44 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-*#prˈɛːmjo# | 50 : [+syl,-long] > [-hi] 
-*#prˈɛmjo# | 51 : [+syl] > [-long,-splng] 
-*#pɾˈɛmjo# | 53 : r > ɾ 
-*#pɾˈemjo# | 116 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-*#pɾˈimjo# | 191 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-Final form : *#pɾˈimjo#
+#plˈɑkit̪um# >>> *#ʝˈɑθo# ( GOLD : #plˈɑθo#) :
+p l ˈɑ k i t̪ u m 
+*#plˈɑkit̪u# | 30 : [+nas] > ∅ / [-stres] __ #
+*#plˈɑket̪o# | 50 : [+syl,-long] > [-hi] 
+*#plˈɑkjet̪o# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#plˈɑt͡ʃjet̪o# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#plˈɑt͡ʃet̪o# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#plˈɑd͡ʒed̪o# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+*#plˈɑd͡zed̪o# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#pʎˈɑd͡zed̪o# | 137 : [+lat] > ʎ / [-son] __ 
+*#ʎˈɑd͡zed̪o# | 138 : [+cons,-voi] > ∅ / # __ [+lat]
+*#ʎˈɑd͡zd̪o# | 145 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+*#ʎˈɑd͡zo# | 195 : [-son] > ∅ / [+delrel] __ 
+*#ʎˈɑz̪o# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ʎˈɑs̪o# | 213 : [+strid] > [-voi] 
+*#ʎˈɑθo# | 216 : s̪ > θ 
+*#ʝˈɑθo# | 220 : ʎ > ʝ 
+Final form : *#ʝˈɑθo#

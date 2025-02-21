@@ -1,18 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :893:
-#t̪rˌist̪ˈit̪iɑm# >>> *#t̪ɾest̪ˈeθɑ# ( GOLD : #t̪ɾist̪ˈeθɑ#) :
-t̪ r ˌi s t̪ ˈi t̪ i ɑ m 
-*#t̪rˌis̪t̪ˈit̪iɑm# | 21 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#t̪rˌis̪t̪ˈit̪iɑ# | 30 : [+nas] > ∅ / [-stres] __ #
-*#t̪rˌis̪t̪ˈit̪jɑ# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#t̪rˌes̪t̪ˈet̪jɑ# | 50 : [+syl,-long] > [-hi] 
-*#t̪ɾˌes̪t̪ˈet̪jɑ# | 53 : r > ɾ 
-*#t̪ɾˌes̪t̪ˈet͡ʃjɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#t̪ɾˌes̪t̪ˈet͡ʃɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#t̪ɾˌes̪t̪ˈed͡ʒɑ# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#t̪ɾˌes̪t̪ˈed͡zɑ# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#t̪ɾˌes̪t̪ˈez̪ɑ# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#t̪ɾˌes̪t̪ˈes̪ɑ# | 213 : [+strid] > [-voi] 
-*#t̪ɾˌest̪ˈes̪ɑ# | 214 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-*#t̪ɾˌest̪ˈeθɑ# | 216 : s̪ > θ 
-*#t̪ɾest̪ˈeθɑ# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#t̪ɾest̪ˈeθɑ#
+#sˌɑːn̪kt̪iˈoːn̪em# >>> *#sɑn̪θˈon̪# ( GOLD : #sɑn̪θjon̪#) :
+s ˌɑː n̪ k t̪ i ˈoː n̪ e m 
+*#sˌɑːn̪t̪iˈoːn̪em# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+*#sˌɑːn̪t̪iˈoːn̪e# | 30 : [+nas] > ∅ / [-stres] __ #
+*#sˌɑːn̪t̪jˈoːn̪e# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#sˌɑːn̪t̪jˈoːn̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑːn̪t̪jˈoːn̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑn̪t̪jˈon̪e# | 51 : [+syl] > [-long,-splng] 
+*#sˌɑn̪t͡ʃjˈon̪e# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#sˌɑn̪t͡ʃˈon̪e# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#sˌɑn̪t͡sˈon̪e# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#sˌɑn̪t͡sˈon̪# | 189 : e > ∅ / [+syl] [+cons,+cor] __ #
+*#sˌɑn̪s̪ˈon̪# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#sˌɑn̪θˈon̪# | 216 : s̪ > θ 
+*#sɑn̪θˈon̪# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#sɑn̪θˈon̪#

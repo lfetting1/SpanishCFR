@@ -1,18 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :168:
-#fˌuːmiɡˈɑːre# >>> *#umjˈɑɾ# ( GOLD : #umeˈɑɾ#) :
-f ˌuː m i ɡ ˈɑː r e 
-*#fˌuːmiɡˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˌuːmiʝˈɑːrɛ# | 48 : ɡ > ʝ / [+front,+tense,+syl] __ [+syl,+back]
-*#fˌuːmiʝˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#fˌuːmeʝˈɑːre# | 50 : [+syl,-long] > [-hi] 
-*#fˌumeʝˈɑre# | 51 : [+syl] > [-long,-splng] 
-*#fˌumeʝˈɑɾe# | 53 : r > ɾ 
-*#fˌumiʝˈɑɾe# | 113 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-*#fˌumiˈɑɾe# | 124 : ʝ > ∅ / [+syl,+front] __ [+syl]
-*#fˌumjˈɑɾe# | 125 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / __ [+syl]
-*#ɸˌumjˈɑɾe# | 130 : {v;f} > {b;ɸ} 
-*#ɸˌumjˈɑɾ# | 188 : e > ∅ / [+syl] ɾ __ #
-*#hˌumjˈɑɾ# | 199 : ɸ > h / __ [+syl]
-*#ˌumjˈɑɾ# | 201 : h > ∅ 
-*#umjˈɑɾ# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#umjˈɑɾ#
+#fˌiːlˈiolum# >>> *#ixwˈelo# ( GOLD : #ixwˈelo#) :
+f ˌiː l ˈi o l u m 
+*#fˌiːlˈiolu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#fˌiːliˈolu# | 40 : [+stres,-lo,+hi] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#fˌiːljˈolu# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#fˌiːljˈɔlu# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌiːljˈɔlo# | 50 : [+syl,-long] > [-hi] 
+*#fˌiljˈɔlo# | 51 : [+syl] > [-long,-splng] 
+*#fˌiʎjˈɔlo# | 61 : [+lat] > ʎ / __ j
+*#fˌiʎˈɔlo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#fˌiʎˈɔelo# | 119 : ∅ > e / [-tense,+prim] __ 
+*#fˌiʎwˈelo# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#ɸˌiʎwˈelo# | 130 : {v;f} > {b;ɸ} 
+*#ɸˌid͡ʒwˈelo# | 131 : ʎ > d͡ʒ 
+*#ɸˌiʒwˈelo# | 133 : d͡ʒ > ʒ 
+*#hˌiʒwˈelo# | 199 : ɸ > h / __ [+syl]
+*#ˌiʒwˈelo# | 201 : h > ∅ 
+*#ˌiʃwˈelo# | 213 : [+strid] > [-voi] 
+*#ˌixwˈelo# | 215 : ʃ > x 
+*#ixwˈelo# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ixwˈelo#

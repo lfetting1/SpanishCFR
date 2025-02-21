@@ -1,11 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1097:
-#ˌimpˈosit̪um# >>> *#empwˈest̪o# ( GOLD : #impwˈest̪o#) :
-ˌi m p ˈo s i t̪ u m 
-*#ˌimpˈost̪um# | 27 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [-syl] )* [+syl]
-*#ˌimpˈost̪u# | 30 : [+nas] > ∅ / [-stres] __ #
-*#ˌimpˈɔst̪u# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌempˈɔst̪o# | 50 : [+syl,-long] > [-hi] 
-*#ˌempˈɔest̪o# | 119 : ∅ > e / [-tense,+prim] __ 
-*#ˌempwˈest̪o# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#empwˈest̪o# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#empwˈest̪o#
+#ˌae̯kwɑlit̪ˈɑːt̪em# >>> *#eɡʷot̪ˈɑd̪# ( GOLD : #iɡʷɑld̪ˈɑd̪#) :
+ˌa e̯ k w ɑ l i t̪ ˈɑː t̪ e m 
+*#ˌae̯kʷɑlit̪ˈɑːt̪em# | 18 : [-cont,+back,-round] w > [+lab,+round] ∅
+*#ˌɛe̯kʷɑlit̪ˈɑːt̪em# | 22 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
+*#ˌɛːkʷɑlit̪ˈɑːt̪em# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#ˌɛːkʷɑlt̪ˈɑːt̪em# | 25 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
+*#ˌɛːkʷɑlt̪ˈɑːt̪e# | 30 : [+nas] > ∅ / [-stres] __ #
+*#ˌɛːkʷɑlt̪ˈɑːt̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌeːkʷɑlt̪ˈɑːt̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌekʷɑlt̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
+*#ˌeɡʷɑlt̪ˈɑd̪e# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ˌeɡʷɑwt̪ˈɑd̪e# | 104 : [+lat] > w / [+lo] __ [-son]
+*#ˌeɡʷowt̪ˈɑd̪e# | 147 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#ˌeɡʷoːt̪ˈɑd̪e# | 162 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#ˌeɡʷot̪ˈɑd̪e# | 163 : [+syl] > [-long,-splng] 
+*#ˌeɡʷot̪ˈɑd̪# | 189 : e > ∅ / [+syl] [+cons,+cor] __ #
+*#eɡʷot̪ˈɑd̪# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#eɡʷot̪ˈɑd̪#

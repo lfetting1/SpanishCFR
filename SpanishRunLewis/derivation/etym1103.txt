@@ -1,19 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1103:
-#ˌin̪kˈert̪um# >>> *#en̪θjˈeɾt̪o# ( GOLD : #in̪θjˈeɾt̪o#) :
-ˌi n̪ k ˈe r t̪ u m 
-*#ˌiŋkˈert̪um# | 14 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-*#ˌiŋkˈert̪u# | 30 : [+nas] > ∅ / [-stres] __ #
-*#ˌiŋkˈɛrt̪u# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌeŋkˈɛrt̪o# | 50 : [+syl,-long] > [-hi] 
-*#ˌeŋkˈɛɾt̪o# | 53 : r > ɾ 
-*#ˌeŋkjˈɛɾt̪o# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#ˌeŋt͡ʃjˈɛɾt̪o# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#ˌeŋt͡ʃˈɛɾt̪o# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#ˌeŋt͡sˈɛɾt̪o# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#ˌeŋt͡sˈɛeɾt̪o# | 119 : ∅ > e / [-tense,+prim] __ 
-*#ˌeŋt͡sjˈeɾt̪o# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#ˌeŋs̪jˈeɾt̪o# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#ˌeŋθjˈeɾt̪o# | 216 : s̪ > θ 
-*#eŋθjˈeɾt̪o# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-*#en̪θjˈeɾt̪o# | 221 : ŋ > n̪ 
-Final form : *#en̪θjˈeɾt̪o#
+#ˌeksˈemplum# >>> *#exˈemt͡ʃo# ( GOLD : #exˈemplo#) :
+ˌe k s ˈe m p l u m 
+*#ˌeksˈemplu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#ˌexsˈemplu# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#ˌɛxsˈɛmplu# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌexsˈɛmplu# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌexsˈɛmplo# | 50 : [+syl,-long] > [-hi] 
+*#ˌejsˈɛmplo# | 112 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+*#ˌejsˈɛemplo# | 119 : ∅ > e / [-tense,+prim] __ 
+*#ˌejsjˈemplo# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#ˌejsjˈempʎo# | 137 : [+lat] > ʎ / [-son] __ 
+*#ˌejsjˈemt͡ʃo# | 139 : [-voi] [+lat] > t͡ʃ
+*#ˌejʃjˈemt͡ʃo# | 160 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#ˌejʃˈemt͡ʃo# | 173 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ˌeʃˈemt͡ʃo# | 175 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#ˌexˈemt͡ʃo# | 215 : ʃ > x 
+*#exˈemt͡ʃo# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#exˈemt͡ʃo#

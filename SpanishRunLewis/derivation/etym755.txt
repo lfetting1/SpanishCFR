@@ -1,14 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :755:
-#rˌeːkˌuperˈɑːre# >>> *#reɡobɾˈɑɾ# ( GOLD : #rekobɾˈɑɾ#) :
-r ˌeː k ˌu p e r ˈɑː r e 
-*#rˌeːkˌuprˈɑːre# | 26 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
-*#rˌeːkˌuprˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˌeːkˌuprˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#rˌeːkˌoprˈɑːre# | 50 : [+syl,-long] > [-hi] 
-*#rˌekˌoprˈɑre# | 51 : [+syl] > [-long,-splng] 
-*#ɾˌekˌopɾˈɑɾe# | 53 : r > ɾ 
-*#ɾˌeɡˌobɾˈɑɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#ɾˌeɡˌobɾˈɑɾ# | 188 : e > ∅ / [+syl] ɾ __ #
-*#rˌeɡˌobɾˈɑɾ# | 218 : ɾ > r / # __ 
-*#reɡobɾˈɑɾ# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#reɡobɾˈɑɾ#
+#rˈusseum# >>> *#rˈuxo# ( GOLD : #rˈoxo#) :
+r ˈu s s e u m 
+*#rˈusseu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#rˈussju# | 44 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#rˈossjo# | 50 : [+syl,-long] > [-hi] 
+*#ɾˈossjo# | 53 : r > ɾ 
+*#ɾˈussjo# | 114 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+*#ɾˈusjo# | 142 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#ɾˈue̯sjo# | 155 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+*#ɾˈujso# | 159 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#ɾˈujʃo# | 160 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#ɾˈuʃo# | 175 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#ɾˈuxo# | 215 : ʃ > x 
+*#rˈuxo# | 218 : ɾ > r / # __ 
+Final form : *#rˈuxo#

@@ -1,17 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :395:
-#kˌɑn̪n̪ˈiːkium# >>> *#kɑɲˈiθo# ( GOLD : #kɑɲˈiθo#) :
-k ˌɑ n̪ n̪ ˈiː k i u m 
-*#kˌɑn̪n̪ˈiːkiu# | 30 : [+nas] > ∅ / [-stres] __ #
-*#kˌɑn̪n̪ˈiːkju# | 44 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-*#kˌɑn̪n̪ˈiːkjo# | 50 : [+syl,-long] > [-hi] 
-*#kˌɑn̪n̪ˈikjo# | 51 : [+syl] > [-long,-splng] 
-*#kˌɑn̪n̪ˈit͡ʃjo# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#kˌɑn̪n̪ˈit͡ʃo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#kˌɑn̪n̪ˈid͡ʒo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#kˌɑn̪n̪ˈid͡zo# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#kˌɑɲˈid͡zo# | 141 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-*#kˌɑɲˈiz̪o# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#kˌɑɲˈis̪o# | 213 : [+strid] > [-voi] 
-*#kˌɑɲˈiθo# | 216 : s̪ > θ 
-*#kɑɲˈiθo# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#kɑɲˈiθo#
+#kˌult̪ˈellum# >>> *#kut͡ʃˈeʝo# ( GOLD : #kut͡ʃˈiʝo#) :
+k ˌu l t̪ ˈe l l u m 
+*#kˌul̪t̪ˈellum# | 15 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
+*#kˌul̪t̪ˈellu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#kˌul̪t̪ˈɛllu# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌol̪t̪ˈɛllo# | 50 : [+syl,-long] > [-hi] 
+*#kˌojt̪ˈɛllo# | 105 : [+lat] > j / [+back] __ [-son,+cor,-front]
+*#kˌujt̪ˈɛllo# | 115 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+*#kˌujt̪ˈɛello# | 119 : ∅ > e / [-tense,+prim] __ 
+*#kˌujt̪jˈello# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#kˌujt̪jˈeʎo# | 141 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+*#kˌujt͡ʃjˈeʎo# | 160 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#kˌujt͡ʃˈeʎo# | 173 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#kˌut͡ʃˈeʎo# | 175 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#kut͡ʃˈeʎo# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kut͡ʃˈeʝo# | 220 : ʎ > ʝ 
+Final form : *#kut͡ʃˈeʝo#

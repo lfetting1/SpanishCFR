@@ -1,12 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :178:
-#hˈod̪ie# >>> *#ˈoj# ( GOLD : #ˈoj#) :
-h ˈo d̪ i e 
-*#ˈod̪ie# | 0 : h > ∅ 
-*#ˈɔd̪iɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔd̪ie# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔd̪ee# | 50 : [+syl,-long] > [-hi] 
-*#ˈɔd̪e# | 52 : [+syl,-stres] > ∅ / __ [+syl,-stres]
-*#ˈɔe# | 100 : [-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl]
-*#ˈɔj# | 109 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-*#ˈoj# | 116 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-Final form : *#ˈoj#
+#fˌɑkt̪ˈiːkium# >>> *#et͡ʃˈiθo# ( GOLD : #et͡ʃˈiθo#) :
+f ˌɑ k t̪ ˈiː k i u m 
+*#fˌɑkt̪ˈiːkiu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#fˌɑxt̪ˈiːkiu# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#fˌɑxt̪ˈiːkju# | 44 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#fˌɑxt̪ˈiːkjo# | 50 : [+syl,-long] > [-hi] 
+*#fˌɑxt̪ˈikjo# | 51 : [+syl] > [-long,-splng] 
+*#fˌɑxt̪ˈit͡ʃjo# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#fˌɑxt̪ˈit͡ʃo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#fˌɑxt̪ˈid͡ʒo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+*#fˌɑxt̪ˈid͡zo# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#fˌɑjt̪ˈid͡zo# | 112 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+*#ɸˌɑjt̪ˈid͡zo# | 130 : {v;f} > {b;ɸ} 
+*#ɸˌejt̪ˈid͡zo# | 147 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#ɸˌejt͡ʃˈid͡zo# | 160 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#ɸˌeːt͡ʃˈid͡zo# | 162 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#ɸˌet͡ʃˈid͡zo# | 163 : [+syl] > [-long,-splng] 
+*#hˌet͡ʃˈid͡zo# | 199 : ɸ > h / __ [+syl]
+*#ˌet͡ʃˈid͡zo# | 201 : h > ∅ 
+*#ˌet͡ʃˈiz̪o# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ˌet͡ʃˈis̪o# | 213 : [+strid] > [-voi] 
+*#ˌet͡ʃˈiθo# | 216 : s̪ > θ 
+*#et͡ʃˈiθo# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#et͡ʃˈiθo#

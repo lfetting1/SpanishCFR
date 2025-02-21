@@ -1,19 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :772:
-#rˌɑːst̪ˈellum# >>> *#rɑst̪ˈiʝo# ( GOLD : #rɑst̪ɾˈiʝo#) :
-r ˌɑː s t̪ ˈe l l u m 
-*#rˌɑːs̪t̪ˈellum# | 21 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#rˌɑːs̪t̪ˈellu# | 30 : [+nas] > ∅ / [-stres] __ #
-*#rˌɑːs̪t̪ˈɛllu# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#rˌɑːs̪t̪ˈɛllo# | 50 : [+syl,-long] > [-hi] 
-*#rˌɑs̪t̪ˈɛllo# | 51 : [+syl] > [-long,-splng] 
-*#ɾˌɑs̪t̪ˈɛllo# | 53 : r > ɾ 
-*#ɾˌɑs̪t̪ˈɛello# | 119 : ∅ > e / [-tense,+prim] __ 
-*#ɾˌɑs̪t̪jˈello# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#ɾˌɑs̪t̪jˈeʎo# | 141 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-*#ɾˌɑs̪t̪jˈiʎo# | 202 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-*#ɾˌɑs̪t̪ˈiʎo# | 207 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-*#ɾˌɑst̪ˈiʎo# | 214 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-*#rˌɑst̪ˈiʎo# | 218 : ɾ > r / # __ 
-*#rɑst̪ˈiʎo# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-*#rɑst̪ˈiʝo# | 220 : ʎ > ʝ 
-Final form : *#rɑst̪ˈiʝo#
+#rˌiːpˈɑːriɑm# >>> *#ribˈeɾɑ# ( GOLD : #ribˈeɾɑ#) :
+r ˌiː p ˈɑː r i ɑ m 
+*#rˌiːpˈɑːriɑ# | 30 : [+nas] > ∅ / [-stres] __ #
+*#rˌiːpˈɑːrjɑ# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#rˌipˈɑrjɑ# | 51 : [+syl] > [-long,-splng] 
+*#ɾˌipˈɑɾjɑ# | 53 : r > ɾ 
+*#ɾˌipˈɑe̯ɾjɑ# | 91 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+*#ɾˌipˈɑjɾɑ# | 97 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#ɾˌibˈɑjɾɑ# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ɾˌibˈejɾɑ# | 147 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#ɾˌibˈeːɾɑ# | 162 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#ɾˌibˈeɾɑ# | 163 : [+syl] > [-long,-splng] 
+*#rˌibˈeɾɑ# | 218 : ɾ > r / # __ 
+*#ribˈeɾɑ# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ribˈeɾɑ#

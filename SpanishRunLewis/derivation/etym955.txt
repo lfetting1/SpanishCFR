@@ -1,12 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :955:
-#wˈiːt̪em# >>> *#bˈid̪# ( GOLD : #bˈid̪#) :
-w ˈiː t̪ e m 
-*#ɣʷˈiːt̪em# | 19 : w > ɣʷ / __ [+syl]
-*#ɣʷˈiːt̪e# | 30 : [+nas] > ∅ / [-stres] __ #
-*#bˈiːt̪e# | 35 : ɣʷ > b 
-*#bˈiːt̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#bˈiːt̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#bˈit̪e# | 51 : [+syl] > [-long,-splng] 
-*#bˈid̪e# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#bˈid̪# | 189 : e > ∅ / [+syl] [+cons,+cor] __ #
-Final form : *#bˈid̪#
+#wˈikem# >>> *#bˈeθ# ( GOLD : #bˈeθ#) :
+w ˈi k e m 
+*#ɣʷˈikem# | 19 : w > ɣʷ / __ [+syl]
+*#ɣʷˈike# | 30 : [+nas] > ∅ / [-stres] __ #
+*#bˈike# | 35 : ɣʷ > b 
+*#bˈikɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈike# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#bˈeke# | 50 : [+syl,-long] > [-hi] 
+*#bˈekje# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#bˈet͡ʃje# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#bˈet͡ʃe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#bˈed͡ʒe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+*#bˈed͡ze# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#bˈed͡z# | 187 : e > ∅ / [+syl] [+ant,+delrel] __ #
+*#bˈez̪# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#bˈes̪# | 213 : [+strid] > [-voi] 
+*#bˈeθ# | 216 : s̪ > θ 
+Final form : *#bˈeθ#

@@ -1,14 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :613:
-#n̪ˌoːmin̪ˈɑːre# >>> *#n̪ombɾˈɑɾ# ( GOLD : #n̪ombɾˈɑɾ#) :
-n̪ ˌoː m i n̪ ˈɑː r e 
-*#n̪ˌoːmin̪ˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#n̪ˌoːmin̪ˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#n̪ˌoːmen̪ˈɑːre# | 50 : [+syl,-long] > [-hi] 
-*#n̪ˌomen̪ˈɑre# | 51 : [+syl] > [-long,-splng] 
-*#n̪ˌomen̪ˈɑɾe# | 53 : r > ɾ 
-*#n̪ˌomn̪ˈɑɾe# | 144 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#n̪ˌomn̪ˈɑɾ# | 188 : e > ∅ / [+syl] ɾ __ #
-*#n̪ˌomɾˈɑɾ# | 210 : n̪ > ɾ / [+nas] __ 
-*#n̪ˌombɾˈɑɾ# | 211 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-*#n̪ombɾˈɑɾ# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#n̪ombɾˈɑɾ#
+#n̪ˈoːmin̪e# >>> *#n̪ˈombɾe# ( GOLD : #n̪ˈombɾe#) :
+n̪ ˈoː m i n̪ e 
+*#n̪ˈoːmin̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#n̪ˈoːmin̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#n̪ˈoːmen̪e# | 50 : [+syl,-long] > [-hi] 
+*#n̪ˈomen̪e# | 51 : [+syl] > [-long,-splng] 
+*#n̪ˈomn̪e# | 145 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+*#n̪ˈomɾe# | 210 : n̪ > ɾ / [+nas] __ 
+*#n̪ˈombɾe# | 211 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
+Final form : *#n̪ˈombɾe#

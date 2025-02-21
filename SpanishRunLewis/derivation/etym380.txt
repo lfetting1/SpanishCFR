@@ -1,19 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :380:
-#kˌoːɡit̪ˈɑːre# >>> *#kuʝd̪ˈɑɾ# ( GOLD : #kwid̪ˈɑɾ#) :
-k ˌoː ɡ i t̪ ˈɑː r e 
-*#kˌoːɡit̪ˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌoːɡit̪ˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌoːɡet̪ˈɑːre# | 50 : [+syl,-long] > [-hi] 
-*#kˌoɡet̪ˈɑre# | 51 : [+syl] > [-long,-splng] 
-*#kˌoɡet̪ˈɑɾe# | 53 : r > ɾ 
-*#kˌoɡjet̪ˈɑɾe# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#kˌod͡ʒjet̪ˈɑɾe# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#kˌod͡ʒet̪ˈɑɾe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#kˌoʝet̪ˈɑɾe# | 99 : d͡ʒ > ʝ 
-*#kˌoʝed̪ˈɑɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#kˌuʝed̪ˈɑɾe# | 114 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-*#kˌuʝid̪ˈɑɾe# | 118 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-*#kˌuʝd̪ˈɑɾe# | 144 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#kˌuʝd̪ˈɑɾ# | 188 : e > ∅ / [+syl] ɾ __ #
-*#kuʝd̪ˈɑɾ# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#kuʝd̪ˈɑɾ#
+#kˌorrˈiɡiɑm# >>> *#korˈiɑ# ( GOLD : #korˈeɑ#) :
+k ˌo r r ˈi ɡ i ɑ m 
+*#kˌorrˈiɡiɑ# | 30 : [+nas] > ∅ / [-stres] __ #
+*#kˌorrˈiiɑ# | 43 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+*#kˌorrˈijɑ# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#kˌɔrrˈijɑ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌorrˈijɑ# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌorrˈejɑ# | 50 : [+syl,-long] > [-hi] 
+*#kˌoɾɾˈejɑ# | 53 : r > ɾ 
+*#kˌorˈejɑ# | 54 : ɾ ɾ > r 
+*#kˌorˈijɑ# | 56 : {ɛ;ˈɛ;ˌɛ;e;ˌe;ˈe} > {e;ˈe;ˌe;i;ˌi;ˈi} / __ j
+*#kˌorˈiɑ# | 73 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+*#kˌurˈiɑ# | 114 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+*#kˌorˈiɑ# | 193 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+*#korˈiɑ# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#korˈiɑ#

@@ -1,19 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :703:
-#pˌiɡrˈit̪iɑ# >>> *#peɾˈeθɑ# ( GOLD : #peɾˈeθɑ#) :
-p ˌi ɡ r ˈi t̪ i ɑ 
-*#pˌiɣrˈit̪iɑ# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#pˌiɣrˈit̪jɑ# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#pˌeɣrˈet̪jɑ# | 50 : [+syl,-long] > [-hi] 
-*#pˌeɣɾˈet̪jɑ# | 53 : r > ɾ 
-*#pˌejɾˈet̪jɑ# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-*#pˌejɾˈet͡ʃjɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#pˌejɾˈet͡ʃɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#pˌejɾˈed͡ʒɑ# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#pˌejɾˈed͡zɑ# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#pˌeːɾˈed͡zɑ# | 162 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
-*#pˌeɾˈed͡zɑ# | 163 : [+syl] > [-long,-splng] 
-*#pˌeɾˈez̪ɑ# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#pˌeɾˈes̪ɑ# | 213 : [+strid] > [-voi] 
-*#pˌeɾˈeθɑ# | 216 : s̪ > θ 
-*#peɾˈeθɑ# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#peɾˈeθɑ#
+#pˌekt̪in̪ˈɑːre# >>> *#pet͡ʃn̪ˈɑɾ# ( GOLD : #pejn̪ˈɑɾ#) :
+p ˌe k t̪ i n̪ ˈɑː r e 
+*#pˌext̪in̪ˈɑːre# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#pˌɛxt̪in̪ˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌext̪in̪ˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˌext̪en̪ˈɑːre# | 50 : [+syl,-long] > [-hi] 
+*#pˌext̪en̪ˈɑre# | 51 : [+syl] > [-long,-splng] 
+*#pˌext̪en̪ˈɑɾe# | 53 : r > ɾ 
+*#pˌejt̪en̪ˈɑɾe# | 112 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+*#pˌejt̪n̪ˈɑɾe# | 144 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+*#pˌejt͡ʃn̪ˈɑɾe# | 166 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+*#pˌet͡ʃn̪ˈɑɾe# | 175 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#pˌet͡ʃn̪ˈɑɾ# | 188 : e > ∅ / [+syl] ɾ __ #
+*#pet͡ʃn̪ˈɑɾ# | 219 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#pet͡ʃn̪ˈɑɾ#

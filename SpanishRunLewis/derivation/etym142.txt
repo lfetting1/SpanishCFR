@@ -1,18 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :142:
-#fˈɑkit̪# >>> *#ˈɑθ# ( GOLD : #ˈɑθe#) :
-f ˈɑ k i t̪ 
-*#fˈɑki# | 32 : [+cons,-cont] > ∅ / __ #
-*#fˈɑke# | 50 : [+syl,-long] > [-hi] 
-*#fˈɑkje# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#fˈɑt͡ʃje# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#fˈɑt͡ʃe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#fˈɑd͡ʒe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#fˈɑd͡ze# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#ɸˈɑd͡ze# | 130 : {v;f} > {b;ɸ} 
-*#ɸˈɑd͡z# | 187 : e > ∅ / [+syl] [+ant,+delrel] __ #
-*#hˈɑd͡z# | 199 : ɸ > h / __ [+syl]
-*#ˈɑd͡z# | 201 : h > ∅ 
-*#ˈɑz̪# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#ˈɑs̪# | 213 : [+strid] > [-voi] 
-*#ˈɑθ# | 216 : s̪ > θ 
-Final form : *#ˈɑθ#
+#fˈae̯kem# >>> *#fjˈeθ# ( GOLD : #eθ#) :
+f ˈa e̯ k e m 
+*#fˈɛe̯kem# | 22 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
+*#fˈɛːkem# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#fˈɛːke# | 30 : [+nas] > ∅ / [-stres] __ #
+*#fˈɛːkɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈɛːke# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fˈɛke# | 51 : [+syl] > [-long,-splng] 
+*#fˈɛkje# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#fˈɛt͡ʃje# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#fˈɛt͡ʃe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#fˈɛd͡ʒe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+*#fˈɛd͡ze# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#fˈɛed͡ze# | 119 : ∅ > e / [-tense,+prim] __ 
+*#fjˈed͡ze# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#ɸjˈed͡ze# | 130 : {v;f} > {b;ɸ} 
+*#ɸjˈed͡z# | 187 : e > ∅ / [+syl] [+ant,+delrel] __ #
+*#fjˈed͡z# | 200 : ɸ > f 
+*#fjˈez̪# | 212 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#fjˈes̪# | 213 : [+strid] > [-voi] 
+*#fjˈeθ# | 216 : s̪ > θ 
+Final form : *#fjˈeθ#
