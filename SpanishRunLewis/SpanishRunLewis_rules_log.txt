@@ -123,9 +123,8 @@ d͡ʒ > ʝ | ORIG : d͡ʒ > ʝ
 ʝ > ∅ / [+lat] __ [+syl,+front]| ORIG : ʝ > ∅ / [+lat] __ [+syl,+front] 
 ʝ > ∅ / [+lat] __ [+syl,+front]| ORIG : ʝ > ∅ / [+lat] __ [+syl,+front] 
 ʝ > ∅ / [+syl,+front] __ [+syl]| ORIG : ʝ > ∅ / [+syl,+front] __ [+syl] 
-[+hi,-prim,+syl] > [-syl,0stres,0prim] / __ [+syl]| ORIG : [+hi,-prim,+syl] > [-syl] / __ [+syl] 
-[+hi,-prim,+syl] > [-syl,0stres,0prim] / [+syl] __ | ORIG : [+hi,-prim,+syl] > [-syl] / [+syl] __ 
-ʝ > ∅ / [+front,-cons] __ [+syl,+back]| ORIG : ʝ > ∅ / [+front,-cons] __ [+syl,+back] 
+[+hi,-stres,+syl] > [-syl,0stres,0prim] / __ [+syl]| ORIG : [+hi,-stres,+syl] > [-syl] / __ [+syl] 
+[+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ | ORIG : [+hi,-stres,+syl] > [-syl] / [+syl] __ 
 [-cons,-syl,+front] > [+cons,-son,0tense] / [+syl] __ [-cons]| ORIG : [-cons,-syl,+front] > [+cons,-son] / [+syl] __ [-cons]
 [-cons,-syl,+front] > [+cons,-son,0tense] / # __ [-cons]| ORIG : [-cons,-syl,+front] > [+cons,-son] /  # __ [-cons]
 [+hi,+syl] > [-hi] / [+syl,+prim] ( @ )* ( [-syl] )* __ #| ORIG : [+hi,+syl] > [-hi] / [+syl,+prim] (@)* ([-syl])* __ # 
