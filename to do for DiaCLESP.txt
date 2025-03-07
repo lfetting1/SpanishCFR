@@ -6,3 +6,4 @@
 - BaseCLESP begins with a bandaid rule that affects diphthongs. Rewrite Diaclesp to be accurate without bandaid rule 
 -Move "back monophthongization" rule in the cascade. There are two of them to account for a persistent rule, maybe they could just apply one time somewhere between them? The first occurrence has been commented out as it was causing errors
 -Fix delete bdg rule
+- 

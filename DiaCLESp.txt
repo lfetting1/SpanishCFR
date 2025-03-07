@@ -309,9 +309,7 @@ h > ∅ $ h_deletion
 
 [+hi,+syl] > [-hi] / [+syl,+prim] (@)* ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 
-v > b $ "betacism"
-
-$ f > ɸ $ betacism continued. Was a disjunction, but changed to exclude f > ɸ given relocdation of f deletion.
+{v;f} > {b;ɸ} $ "betacism"
 
 ʎ > d͡ʒ $ lateral affrication
 
@@ -353,7 +351,6 @@ $new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has n
 ∅ > o̯ / [+syl] __ {[+ant];[-voi];[+cor,+cont]} w {[+back];[+hi]}  $ glide metathesis, beginning stage. Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
 ∅ > e̯ / [+syl] __ {[-voi];[+cor,+cont]} j {[+back];[+hi]}
 [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅
-
 
 {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons] $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
 
@@ -437,11 +434,11 @@ e > ∅ / [+syl] {[+ant,+delrel];ɾ;[+cons,+cor]} __ # $ apocope,"Delete final /
 
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl] $ waw expulsion 
 
-$ ɸ > h / __ [+syl] $ phi aspiration TODO fix this rule. It is likely -cons, but messes up a lot of things
+ɸ > h / __ [-cons] $ phi aspiration TODO fix this rule. It is likely -cons, but messes up a lot of things
 
-$ ɸ > [+strid] $ phi_eff
+ɸ > [+strid] $ phi_eff
 
-$ h > ∅ $ h_deletion
+h > ∅ $ h_deletion
 
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO also, largely bled in first runthrough -- check again in second.
 
