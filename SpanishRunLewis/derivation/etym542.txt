@@ -1,8 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :542:
-#mˈɑlem# >>> *#mˈɑl# ( GOLD : #mˈɑl#) :
-m ˈɑ l e m 
-*#mˈɑle# | 30 : [+nas] > ∅ / [-stres] __ #
-*#mˈɑlɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɑle# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mˈɑl# | 191 : e > ∅ / [+syl] [+cons,+cor] __ #
-Final form : *#mˈɑl#
+#mˈuːskulum# >>> *#mˈut͡ʃo# ( GOLD : #mˈuslo#) :
+m ˈuː s k u l u m 
+*#mˈuːsklum# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#mˈuːsklu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#mˈuːsklo# | 50 : [+syl,-long] > [-hi] 
+*#mˈusklo# | 51 : [+syl] > [-long,-splng] 
+*#mˈuskʎo# | 139 : [+lat] > ʎ / [-son] __ 
+*#mˈust͡ʃo# | 141 : [-voi] [+lat] > t͡ʃ
+*#mˈut͡ʃo# | 196 : [-son] > ∅ / __ [+delrel]
+Final form : *#mˈut͡ʃo#

@@ -1,18 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1102:
-#ˌekskˌɑrpt̪iˈɑːre# >>> *#eskɑɾθˈɑɾ# ( GOLD : #eskɑɾθˈɑɾ#) :
-ˌe k s k ˌɑ r p t̪ i ˈɑː r e 
-*#ˌekskˌɑrt̪iˈɑːre# | 7 : [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+cons,-son,αvoi]
-*#ˌeskˌɑrt̪iˈɑːre# | 34 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
-*#ˌeskˌɑrt̪jˈɑːre# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#ˌɛskˌɑrt̪jˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌeskˌɑrt̪jˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌeskˌɑrt̪jˈɑre# | 51 : [+syl] > [-long,-splng] 
-*#ˌeskˌɑɾt̪jˈɑɾe# | 53 : r > ɾ 
-*#ˌeskˌɑɾt͡ʃjˈɑɾe# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#ˌeskˌɑɾt͡ʃˈɑɾe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#ˌeskˌɑɾt͡sˈɑɾe# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#ˌeskˌɑɾt͡sˈɑɾ# | 190 : e > ∅ / [+syl] ɾ __ #
-*#ˌeskˌɑɾs̪ˈɑɾ# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#ˌeskˌɑɾθˈɑɾ# | 215 : s̪ > θ 
-*#eskɑɾθˈɑɾ# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#eskɑɾθˈɑɾ#
+#ˌae̯st̪ˈiːwum# >>> *#est̪ˈio# ( GOLD : #est̪ˈio#) :
+ˌa e̯ s t̪ ˈiː w u m 
+*#ˌae̯st̪ˈiːɣʷum# | 19 : w > ɣʷ / __ [+syl]
+*#ˌae̯s̪t̪ˈiːɣʷum# | 21 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+*#ˌɛe̯s̪t̪ˈiːɣʷum# | 22 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
+*#ˌɛːs̪t̪ˈiːɣʷum# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#ˌɛːs̪t̪ˈiːɣʷu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#ˌɛːs̪t̪ˈiːbu# | 35 : ɣʷ > b 
+*#ˌeːs̪t̪ˈiːbu# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeːs̪t̪ˈiːbo# | 50 : [+syl,-long] > [-hi] 
+*#ˌes̪t̪ˈibo# | 51 : [+syl] > [-long,-splng] 
+*#ˌes̪t̪ˈio# | 101 : [-son,+voi,+lab,-strid] > ∅ / [+front,+hi,-cons] __ [+back,+syl]
+*#ˌis̪t̪ˈio# | 113 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+*#ˌes̪t̪ˈio# | 195 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+*#ˌest̪ˈio# | 213 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+*#est̪ˈio# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#est̪ˈio#

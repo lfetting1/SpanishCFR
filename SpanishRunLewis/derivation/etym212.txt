@@ -1,13 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :212:
-#jˈɑkt̪um# >>> *#ʝˈet͡ʃo# ( GOLD : #ˈet͡ʃo#) :
-j ˈɑ k t̪ u m 
-*#jˈɑkt̪u# | 30 : [+nas] > ∅ / [-stres] __ #
-*#jˈɑxt̪u# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#jˈɑxt̪o# | 50 : [+syl,-long] > [-hi] 
-*#jˈɑjt̪o# | 112 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-*#ʝˈɑjt̪o# | 130 : [-cons,-syl,+front] > [+cons,-son,0tense] / # __ [-cons]
-*#ʝˈejt̪o# | 149 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-*#ʝˈejt͡ʃo# | 162 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-*#ʝˈeːt͡ʃo# | 164 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
-*#ʝˈet͡ʃo# | 165 : [+syl] > [-long,-splng] 
-Final form : *#ʝˈet͡ʃo#
+#jˈuːd̪ikem# >>> *#xwˈiθ# ( GOLD : #xwˈeθ#) :
+j ˈuː d̪ i k e m 
+*#jˈuːd̪ike# | 30 : [+nas] > ∅ / [-stres] __ #
+*#jˈuːd̪ikɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˈuːd̪ike# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈuːd̪eke# | 50 : [+syl,-long] > [-hi] 
+*#jˈud̪eke# | 51 : [+syl] > [-long,-splng] 
+*#jˈud̪ekje# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#jˈud̪et͡ʃje# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#jˈud̪et͡ʃe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#jˈuet͡ʃe# | 100 : [-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl]
+*#jˈued͡ʒe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+*#jˈued͡ze# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#jˈujd͡ze# | 109 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+*#ʝˈujd͡ze# | 130 : [-cons,-syl,+front] > [+cons,-son,0tense] / # __ [-cons]
+*#ʒˈujd͡ze# | 137 : ʝ > ʒ / # __ [+round]
+*#ʒwˈid͡ze# | 187 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]/ __ @
+*#ʒwˈid͡z# | 189 : e > ∅ / [+syl] [+ant,+delrel] __ #
+*#ʒwˈiz̪# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ʃwˈis̪# | 212 : [+strid] > [-voi] 
+*#xwˈis̪# | 214 : ʃ > x 
+*#xwˈiθ# | 215 : s̪ > θ 
+Final form : *#xwˈiθ#

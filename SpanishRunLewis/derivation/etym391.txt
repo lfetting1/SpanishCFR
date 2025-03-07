@@ -1,19 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :391:
-#kˌoːɡit̪ˈɑːre# >>> *#kuʝd̪ˈɑɾ# ( GOLD : #kwid̪ˈɑɾ#) :
-k ˌoː ɡ i t̪ ˈɑː r e 
-*#kˌoːɡit̪ˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌoːɡit̪ˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌoːɡet̪ˈɑːre# | 50 : [+syl,-long] > [-hi] 
-*#kˌoɡet̪ˈɑre# | 51 : [+syl] > [-long,-splng] 
-*#kˌoɡet̪ˈɑɾe# | 53 : r > ɾ 
-*#kˌoɡjet̪ˈɑɾe# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#kˌod͡ʒjet̪ˈɑɾe# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#kˌod͡ʒet̪ˈɑɾe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#kˌoʝet̪ˈɑɾe# | 99 : d͡ʒ > ʝ 
-*#kˌoʝed̪ˈɑɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#kˌuʝed̪ˈɑɾe# | 114 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-*#kˌuʝid̪ˈɑɾe# | 118 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-*#kˌuʝd̪ˈɑɾe# | 146 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#kˌuʝd̪ˈɑɾ# | 190 : e > ∅ / [+syl] ɾ __ #
-*#kuʝd̪ˈɑɾ# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#kuʝd̪ˈɑɾ#
+#kˌoːn̪sˈilium# >>> *#kosˈexo# ( GOLD : #kon̪sˈexo#) :
+k ˌoː n̪ s ˈi l i u m 
+*#kˌoːnsˈilium# | 14 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+*#kˌoːnsˈiliu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#kˌoːsˈiliu# | 31 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+*#kˌoːsˈilju# | 44 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#kˌoːsˈeljo# | 50 : [+syl,-long] > [-hi] 
+*#kˌosˈeljo# | 51 : [+syl] > [-long,-splng] 
+*#kˌosˈeʎjo# | 61 : [+lat] > ʎ / __ j
+*#kˌosˈeʎo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#kˌozˈeʎo# | 102 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+*#kˌozˈed͡ʒo# | 133 : ʎ > d͡ʒ 
+*#kˌozˈeʒo# | 135 : d͡ʒ > ʒ 
+*#kˌosˈeʃo# | 212 : [+strid] > [-voi] 
+*#kˌosˈexo# | 214 : ʃ > x 
+*#kosˈexo# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#kosˈexo#

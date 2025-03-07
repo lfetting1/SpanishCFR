@@ -1,8 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :606:
-#n̪ˈiːd̪um# >>> *#n̪ˈio# ( GOLD : #n̪ˈid̪o#) :
-n̪ ˈiː d̪ u m 
-*#n̪ˈiːd̪u# | 30 : [+nas] > ∅ / [-stres] __ #
-*#n̪ˈiːd̪o# | 50 : [+syl,-long] > [-hi] 
-*#n̪ˈid̪o# | 51 : [+syl] > [-long,-splng] 
-*#n̪ˈio# | 100 : [-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl]
-Final form : *#n̪ˈio#
+#n̪ˈespirum# >>> *#n̪jˈespɾo# ( GOLD : #n̪ˈispeɾo#) :
+n̪ ˈe s p i r u m 
+*#n̪ˈesprum# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#n̪ˈespru# | 30 : [+nas] > ∅ / [-stres] __ #
+*#n̪ˈɛspru# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#n̪ˈɛspro# | 50 : [+syl,-long] > [-hi] 
+*#n̪ˈɛspɾo# | 53 : r > ɾ 
+*#n̪ˈɛespɾo# | 119 : ∅ > e / [-tense,+prim] __ 
+*#n̪jˈespɾo# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Final form : *#n̪jˈespɾo#

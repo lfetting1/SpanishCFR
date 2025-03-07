@@ -1,12 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :384:
-#kˌorˈɑmin̪e# >>> *#koɾˈɑmbɾe# ( GOLD : #koɾˈɑmbɾe#) :
-k ˌo r ˈɑ m i n̪ e 
-*#kˌɔrˈɑmin̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌorˈɑmin̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kˌorˈɑmen̪e# | 50 : [+syl,-long] > [-hi] 
-*#kˌoɾˈɑmen̪e# | 53 : r > ɾ 
-*#kˌoɾˈɑmn̪e# | 147 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
-*#kˌoɾˈɑmɾe# | 209 : n̪ > ɾ / [+nas] __ 
-*#kˌoɾˈɑmbɾe# | 210 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-*#koɾˈɑmbɾe# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#koɾˈɑmbɾe#
+#kˌorrˈupt̪ium# >>> *#korˈoθo# ( GOLD : #korˈoθo#) :
+k ˌo r r ˈu p t̪ i u m 
+*#kˌorrˈupt̪iu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#kˌorrˈupt̪ju# | 44 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#kˌɔrrˈupt̪ju# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌorrˈupt̪ju# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌorrˈopt̪jo# | 50 : [+syl,-long] > [-hi] 
+*#kˌoɾɾˈopt̪jo# | 53 : r > ɾ 
+*#kˌorˈopt̪jo# | 54 : ɾ ɾ > r 
+*#kˌorˈot̪t̪jo# | 63 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+*#kˌorˈot̪t͡ʃjo# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#kˌorˈot̪t͡ʃo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#kˌorˈot̪t͡so# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#kˌorˈot͡st͡so# | 111 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+*#kˌorˈot͡so# | 144 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#kˌorˈos̪o# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#kˌorˈoθo# | 215 : s̪ > θ 
+*#korˈoθo# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#korˈoθo#

@@ -1,18 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :726:
-#pˌun̪kt̪iˈɑːre# >>> *#pun̪θˈɑɾ# ( GOLD : #pun̪θˈɑɾ#) :
-p ˌu n̪ k t̪ i ˈɑː r e 
-*#pˌuːn̪kt̪iˈɑːre# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son] [-son]
-*#pˌuːn̪t̪iˈɑːre# | 9 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-*#pˌuːn̪t̪jˈɑːre# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#pˌuːn̪t̪jˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌuːn̪t̪jˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˌun̪t̪jˈɑre# | 51 : [+syl] > [-long,-splng] 
-*#pˌun̪t̪jˈɑɾe# | 53 : r > ɾ 
-*#pˌun̪t͡ʃjˈɑɾe# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#pˌun̪t͡ʃˈɑɾe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#pˌun̪t͡sˈɑɾe# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#pˌun̪t͡sˈɑɾ# | 190 : e > ∅ / [+syl] ɾ __ #
-*#pˌun̪s̪ˈɑɾ# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#pˌun̪θˈɑɾ# | 215 : s̪ > θ 
-*#pun̪θˈɑɾ# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#pun̪θˈɑɾ#
+#pˌult̪ˈɑrium# >>> *#put͡ʃˈeɾo# ( GOLD : #put͡ʃˈeɾo#) :
+p ˌu l t̪ ˈɑ r i u m 
+*#pˌul̪t̪ˈɑrium# | 15 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
+*#pˌul̪t̪ˈɑriu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#pˌul̪t̪ˈɑrju# | 44 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#pˌol̪t̪ˈɑrjo# | 50 : [+syl,-long] > [-hi] 
+*#pˌol̪t̪ˈɑɾjo# | 53 : r > ɾ 
+*#pˌol̪t̪ˈɑe̯ɾjo# | 91 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+*#pˌol̪t̪ˈɑjɾo# | 97 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#pˌojt̪ˈɑjɾo# | 105 : [+lat] > j / [+back] __ [-son,+cor,-front]
+*#pˌujt̪ˈɑjɾo# | 115 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+*#pˌujt̪ˈejɾo# | 149 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#pˌujt͡ʃˈejɾo# | 162 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#pˌujt͡ʃˈeːɾo# | 164 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#pˌujt͡ʃˈeɾo# | 165 : [+syl] > [-long,-splng] 
+*#pˌut͡ʃˈeɾo# | 177 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#put͡ʃˈeɾo# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#put͡ʃˈeɾo#

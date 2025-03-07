@@ -1,5 +1,5 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :142:
-#fˈae̯kem# >>> *#fjˈeθ# ( GOLD : #eθ#) :
+#fˈae̯kem# >>> *#ʝˈeθ# ( GOLD : #eθ#) :
 f ˈa e̯ k e m 
 *#fˈɛe̯kem# | 22 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
 *#fˈɛːkem# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
@@ -14,8 +14,11 @@ f ˈa e̯ k e m
 *#fˈɛd͡ze# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
 *#fˈɛed͡ze# | 119 : ∅ > e / [-tense,+prim] __ 
 *#fjˈed͡ze# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#fjˈed͡z# | 189 : e > ∅ / [+syl] [+ant,+delrel] __ #
-*#fjˈez̪# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#fjˈes̪# | 212 : [+strid] > [-voi] 
-*#fjˈeθ# | 215 : s̪ > θ 
-Final form : *#fjˈeθ#
+*#hjˈed͡ze# | 127 : [+lab,+cont,-voi] > h / __ [-cons]
+*#jˈed͡ze# | 128 : h > ∅ 
+*#ʝˈed͡ze# | 130 : [-cons,-syl,+front] > [+cons,-son,0tense] / # __ [-cons]
+*#ʝˈed͡z# | 189 : e > ∅ / [+syl] [+ant,+delrel] __ #
+*#ʝˈez̪# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ʝˈes̪# | 212 : [+strid] > [-voi] 
+*#ʝˈeθ# | 215 : s̪ > θ 
+Final form : *#ʝˈeθ#

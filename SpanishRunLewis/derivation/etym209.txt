@@ -1,24 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :209:
-#jˈuːd̪ikem# >>> *#xwˈiθ# ( GOLD : #xwˈeθ#) :
-j ˈuː d̪ i k e m 
-*#jˈuːd̪ike# | 30 : [+nas] > ∅ / [-stres] __ #
-*#jˈuːd̪ikɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#jˈuːd̪ike# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈuːd̪eke# | 50 : [+syl,-long] > [-hi] 
-*#jˈud̪eke# | 51 : [+syl] > [-long,-splng] 
-*#jˈud̪ekje# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#jˈud̪et͡ʃje# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#jˈud̪et͡ʃe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#jˈuet͡ʃe# | 100 : [-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl]
-*#jˈued͡ʒe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#jˈued͡ze# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#jˈujd͡ze# | 109 : [+front,+syl,-stres] > j / [+syl,+back] __ 
-*#ʝˈujd͡ze# | 130 : [-cons,-syl,+front] > [+cons,-son,0tense] / # __ [-cons]
-*#ʒˈujd͡ze# | 137 : ʝ > ʒ / # __ [+round]
-*#ʒwˈid͡ze# | 187 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]/ __ @
-*#ʒwˈid͡z# | 189 : e > ∅ / [+syl] [+ant,+delrel] __ #
-*#ʒwˈiz̪# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#ʃwˈis̪# | 212 : [+strid] > [-voi] 
-*#xwˈis̪# | 214 : ʃ > x 
-*#xwˈiθ# | 215 : s̪ > θ 
-Final form : *#xwˈiθ#
+#jˈowis# >>> *#xwˈebes# ( GOLD : #xwˈebes#) :
+j ˈo w i s 
+*#jˈoɣʷis# | 19 : w > ɣʷ / __ [+syl]
+*#jˈobis# | 35 : ɣʷ > b 
+*#jˈɔbis# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˈɔbes# | 50 : [+syl,-long] > [-hi] 
+*#jˈɔebes# | 119 : ∅ > e / [-tense,+prim] __ 
+*#jwˈebes# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#ʝwˈebes# | 130 : [-cons,-syl,+front] > [+cons,-son,0tense] / # __ [-cons]
+*#ʒwˈebes# | 137 : ʝ > ʒ / # __ [+round]
+*#ʃwˈebes# | 212 : [+strid] > [-voi] 
+*#xwˈebes# | 214 : ʃ > x 
+Final form : *#xwˈebes#

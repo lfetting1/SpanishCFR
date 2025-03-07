@@ -1,12 +1,10 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :933:
-#t̪ˌen̪ˈebrɑːs# >>> *#t̪in̪jˈebɾɑs# ( GOLD : #t̪in̪jˈeblɑs#) :
-t̪ ˌe n̪ ˈe b r ɑː s 
-*#t̪ˌɛn̪ˈɛbrɑːs# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#t̪ˌen̪ˈɛbrɑːs# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#t̪ˌen̪ˈɛbrɑs# | 51 : [+syl] > [-long,-splng] 
-*#t̪ˌen̪ˈɛbɾɑs# | 53 : r > ɾ 
-*#t̪ˌen̪ˈɛebɾɑs# | 119 : ∅ > e / [-tense,+prim] __ 
-*#t̪ˌen̪jˈebɾɑs# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#t̪ˌin̪jˈebɾɑs# | 193 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-*#t̪in̪jˈebɾɑs# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#t̪in̪jˈebɾɑs#
+#t̪ˈɑwrum# >>> *#t̪ˈoɾo# ( GOLD : #t̪ˈoɾo#) :
+t̪ ˈɑ w r u m 
+*#t̪ˈɑwru# | 30 : [+nas] > ∅ / [-stres] __ #
+*#t̪ˈɑwro# | 50 : [+syl,-long] > [-hi] 
+*#t̪ˈɑwɾo# | 53 : r > ɾ 
+*#t̪ˈowɾo# | 149 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#t̪ˈoːɾo# | 164 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#t̪ˈoɾo# | 165 : [+syl] > [-long,-splng] 
+Final form : *#t̪ˈoɾo#

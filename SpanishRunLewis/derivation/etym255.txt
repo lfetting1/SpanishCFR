@@ -1,17 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :255:
-#kwˌɑn̪t̪it̪ˈɑːt̪em# >>> *#kɑn̪st̪ˈɑd̪# ( GOLD : #kɑn̪t̪id̪ˈɑd̪#) :
-k w ˌɑ n̪ t̪ i t̪ ˈɑː t̪ e m 
-*#kʷˌɑn̪t̪it̪ˈɑːt̪em# | 18 : [-cont,+back,-round] w > [+lab,+round] ∅
-*#kʷˌɑn̪t̪it̪ˈɑːt̪e# | 30 : [+nas] > ∅ / [-stres] __ #
-*#kʷˌɑn̪t̪it̪ˈɑːt̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kʷˌɑn̪t̪it̪ˈɑːt̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kʷˌɑn̪t̪et̪ˈɑːt̪e# | 50 : [+syl,-long] > [-hi] 
-*#kʷˌɑn̪t̪et̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
-*#kˌɑn̪t̪et̪ˈɑt̪e# | 77 : [-son,+round] > [-round,-lab] / # __ [+lo,-prim]
-*#kˌɑn̪t̪ed̪ˈɑd̪e# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#kˌɑn̪t̪d̪ˈɑd̪e# | 146 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#kˌɑn̪t̪t̪ˈɑd̪e# | 148 : [-son] > [-voi] / [-voi] __ 
-*#kˌɑn̪t̪t̪ˈɑd̪# | 191 : e > ∅ / [+syl] [+cons,+cor] __ #
-*#kˌɑn̪st̪ˈɑd̪# | 213 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-*#kɑn̪st̪ˈɑd̪# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#kɑn̪st̪ˈɑd̪#
+#kwˌiet̪ˈɑːre# >>> *#kˈed̪ˈɑɾ# ( GOLD : #ked̪ˈɑɾ#) :
+k w ˌi e t̪ ˈɑː r e 
+*#kʷˌiet̪ˈɑːre# | 18 : [-cont,+back,-round] w > [+lab,+round] ∅
+*#kʷˌieːt̪ˈɑːre# | 38 : [+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ 
+*#kʷiˈeːt̪ˈɑːre# | 40 : [+stres,-lo,+hi] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#kʷiˈeːt̪ˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kʷiˈeːt̪ˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kʷeˈeːt̪ˈɑːre# | 50 : [+syl,-long] > [-hi] 
+*#kʷeˈet̪ˈɑre# | 51 : [+syl] > [-long,-splng] 
+*#kʷeˈet̪ˈɑɾe# | 53 : r > ɾ 
+*#kʷˈet̪ˈɑɾe# | 62 : [-cons,-lo,-prim,αround] > ∅ / __ [-lo,+syl,αround]
+*#kˈet̪ˈɑɾe# | 76 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
+*#kˈed̪ˈɑɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+*#kˈed̪ˈɑɾ# | 190 : e > ∅ / [+syl] ɾ __ #
+Final form : *#kˈed̪ˈɑɾ#

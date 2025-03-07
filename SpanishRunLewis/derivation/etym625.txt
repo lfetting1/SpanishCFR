@@ -1,15 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :625:
-#pˈet̪t̪iɑ# >>> *#pjˈeθɑ# ( GOLD : #pjˈeθɑ#) :
-p ˈe t̪ t̪ i ɑ 
-*#pˈet̪t̪jɑ# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#pˈɛt̪t̪jɑ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛt̪t͡ʃjɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#pˈɛt̪t͡ʃɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#pˈɛt̪t͡sɑ# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#pˈɛt͡st͡sɑ# | 111 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
-*#pˈɛet͡st͡sɑ# | 119 : ∅ > e / [-tense,+prim] __ 
-*#pjˈet͡st͡sɑ# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#pjˈet͡sɑ# | 144 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
-*#pjˈes̪ɑ# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#pjˈeθɑ# | 215 : s̪ > θ 
-Final form : *#pjˈeθɑ#
+#n̪ˌowit̪ˈɑːt̪em# >>> *#n̪od̪ˈɑd̪# ( GOLD : #n̪obed̪ˈɑd̪#) :
+n̪ ˌo w i t̪ ˈɑː t̪ e m 
+*#n̪ˌoɣʷit̪ˈɑːt̪em# | 19 : w > ɣʷ / __ [+syl]
+*#n̪ˌoɣʷit̪ˈɑːt̪e# | 30 : [+nas] > ∅ / [-stres] __ #
+*#n̪ˌobit̪ˈɑːt̪e# | 35 : ɣʷ > b 
+*#n̪ˌɔbit̪ˈɑːt̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#n̪ˌobit̪ˈɑːt̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#n̪ˌobet̪ˈɑːt̪e# | 50 : [+syl,-long] > [-hi] 
+*#n̪ˌobet̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
+*#n̪ˌobed̪ˈɑd̪e# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
+*#n̪ˌobd̪ˈɑd̪e# | 146 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+*#n̪ˌobd̪ˈɑd̪# | 191 : e > ∅ / [+syl] [+cons,+cor] __ #
+*#n̪ˌowd̪ˈɑd̪# | 207 : [+lab,-son] > w / __ [-son]
+*#n̪ˌod̪ˈɑd̪# | 208 : w > ∅ / [+round,+syl] __ 
+*#n̪od̪ˈɑd̪# | 218 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#n̪od̪ˈɑd̪#
