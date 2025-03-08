@@ -299,17 +299,17 @@ $DiaCLESp change C.1.C. Broadened context of modern syneresis from [-prim] to [-
 
 $Spanish loses stress sometime after here
 
-[+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration TODO fix this rule. It is likely -cons, but messes up a lot of things
+{v;f} > {b;ɸ} $ "betacism" TODO - Move back?
 
-$[+lab,+cont] > [+strid] $ phi_eff
+[+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
 
-h > ∅ $ h_deletion
+ɸ > f $ phi_eff DiaCLESp change B.1.C.
+
+h > ∅ $ h_deletion DiaCLESp change B.1.C.
 
 [-cons,-syl,+front] > [+cons,-son] / {[+syl]; #} __ [-cons] $recurrent,modern glide fortition 
 
 [+hi,+syl] > [-hi] / [+syl,+prim] (@)* ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
-
-{v;f} > {b;ɸ} $ "betacism"
 
 ʎ > d͡ʒ $ lateral affrication
 
@@ -434,9 +434,9 @@ e > ∅ / [+syl] {[+ant,+delrel];ɾ;[+cons,+cor]} __ # $ apocope,"Delete final /
 
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl] $ waw expulsion 
 
-ɸ > h / __ [-cons] $ phi aspiration TODO fix this rule. It is likely -cons, but messes up a lot of things
+$ɸ > h / __ [-cons] $ phi aspiration TODO fix this rule. It is likely -cons, but messes up a lot of things
 
-ɸ > [+strid] $ phi_eff
+$ɸ > [+strid] $ phi_eff
 
 h > ∅ $ h_deletion
 

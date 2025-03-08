@@ -1,12 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :817:
-#sˈed̪eɑt̪# >>> *#sˈeɑ# ( GOLD : #sˈeɑ#) :
-s ˈe d̪ e ɑ t̪ 
-*#sˈed̪eɑ# | 32 : [+cons,-cont] > ∅ / __ #
-*#sˈed̪jɑ# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#sˈɛd̪jɑ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛd͡ʒjɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#sˈɛd͡ʒɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#sˈɛʝɑ# | 99 : d͡ʒ > ʝ 
-*#sˈeʝɑ# | 116 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-*#sˈeɑ# | 124 : ʝ > ∅ / [+syl,+front] __ [+syl]
-Final form : *#sˈeɑ#
+#st̪ˈerkorem# >>> *#est̪jˈeɾkɾe# ( GOLD : #est̪jˈeɾkol#) :
+s t̪ ˈe r k o r e m 
+*#s̪t̪ˈerkorem# | 21 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+*#s̪t̪ˈerkrem# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#s̪t̪ˈerkre# | 30 : [+nas] > ∅ / [-stres] __ #
+*#s̪t̪ˈɛrkrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#s̪t̪ˈɛrkre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#s̪t̪ˈɛɾkɾe# | 53 : r > ɾ 
+*#s̪t̪ˈɛeɾkɾe# | 119 : ∅ > e / [-tense,+prim] __ 
+*#s̪t̪jˈeɾkɾe# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#st̪jˈeɾkɾe# | 215 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+*#est̪jˈeɾkɾe# | 218 : ∅ > e / # __ s [+cons]
+Final form : *#est̪jˈeɾkɾe#

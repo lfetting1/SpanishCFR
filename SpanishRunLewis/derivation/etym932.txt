@@ -1,7 +1,8 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :932:
-#t̪ˈɑrd̪e# >>> *#t̪ˈɑɾd̪e# ( GOLD : #t̪ˈɑɾd̪e#) :
-t̪ ˈɑ r d̪ e 
-*#t̪ˈɑrd̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#t̪ˈɑrd̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#t̪ˈɑɾd̪e# | 53 : r > ɾ 
-Final form : *#t̪ˈɑɾd̪e#
+#t̪ˈɑbulɑm# >>> *#t̪ˈɑblɑ# ( GOLD : #t̪ˈɑblɑ#) :
+t̪ ˈɑ b u l ɑ m 
+*#t̪ˈɑblɑm# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#t̪ˈɑblɑ# | 30 : [+nas] > ∅ / [-stres] __ #
+*#t̪ˈɑbʎɑ# | 140 : [+lat] > ʎ / [-son] __ 
+*#t̪ˈɑblɑ# | 146 : ʎ > l / [+cons,+voi] __ 
+Final form : *#t̪ˈɑblɑ#

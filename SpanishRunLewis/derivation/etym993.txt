@@ -1,19 +1,26 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :993:
-#wˌɑkˈiːwum# >>> *#bɑθˈio# ( GOLD : #bɑθˈio#) :
-w ˌɑ k ˈiː w u m 
-*#ɣʷˌɑkˈiːɣʷum# | 19 : w > ɣʷ / __ [+syl]
-*#ɣʷˌɑkˈiːɣʷu# | 30 : [+nas] > ∅ / [-stres] __ #
-*#bˌɑkˈiːbu# | 35 : ɣʷ > b 
-*#bˌɑkˈiːbo# | 50 : [+syl,-long] > [-hi] 
-*#bˌɑkˈibo# | 51 : [+syl] > [-long,-splng] 
-*#bˌɑkjˈibo# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#bˌɑt͡ʃjˈibo# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#bˌɑt͡ʃˈibo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#bˌɑt͡ʃˈio# | 101 : [-son,+voi,+lab,-strid] > ∅ / [+front,+hi,-cons] __ [+back,+syl]
-*#bˌɑd͡ʒˈio# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#bˌɑd͡zˈio# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#bˌɑz̪ˈio# | 214 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#bˌɑs̪ˈio# | 215 : [+strid] > [-voi] 
-*#bˌɑθˈio# | 218 : s̪ > θ 
-*#bɑθˈio# | 221 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#bɑθˈio#
+#wˌin̪kˈikulum# >>> *#ben̪θˈexo# ( GOLD : #ben̪θˈexo#) :
+w ˌi n̪ k ˈi k u l u m 
+*#wˌiŋkˈikulum# | 14 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+*#ɣʷˌiŋkˈikulum# | 19 : w > ɣʷ / __ [+syl]
+*#ɣʷˌiŋkˈiklum# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#ɣʷˌiŋkˈiklu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#bˌiŋkˈiklu# | 35 : ɣʷ > b 
+*#bˌiŋkˈixlu# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#bˌeŋkˈexlo# | 50 : [+syl,-long] > [-hi] 
+*#bˌeŋkˈejlo# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#bˌeŋkˈejʎo# | 60 : [+lat] > ʎ / j __ 
+*#bˌeŋkjˈejʎo# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#bˌeŋt͡ʃjˈejʎo# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#bˌeŋt͡ʃˈejʎo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#bˌeŋt͡ʃˈeʎo# | 74 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#bˌeŋt͡sˈeʎo# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#bˌeŋt͡sˈed͡ʒo# | 134 : ʎ > d͡ʒ 
+*#bˌeŋt͡sˈeʒo# | 136 : d͡ʒ > ʒ 
+*#bˌeŋs̪ˈeʒo# | 213 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#bˌeŋs̪ˈeʃo# | 214 : [+strid] > [-voi] 
+*#bˌeŋs̪ˈexo# | 216 : ʃ > x 
+*#bˌeŋθˈexo# | 217 : s̪ > θ 
+*#beŋθˈexo# | 220 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ben̪θˈexo# | 222 : ŋ > n̪ 
+Final form : *#ben̪θˈexo#

@@ -1,12 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :986:
-#wˌin̪d̪ˈeːmiɑ# >>> *#ben̪d̪ˈimjɑ# ( GOLD : #ben̪d̪ˈimjɑ#) :
-w ˌi n̪ d̪ ˈeː m i ɑ 
-*#ɣʷˌin̪d̪ˈeːmiɑ# | 19 : w > ɣʷ / __ [+syl]
-*#bˌin̪d̪ˈeːmiɑ# | 35 : ɣʷ > b 
-*#bˌin̪d̪ˈeːmjɑ# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#bˌen̪d̪ˈeːmjɑ# | 50 : [+syl,-long] > [-hi] 
-*#bˌen̪d̪ˈemjɑ# | 51 : [+syl] > [-long,-splng] 
-*#bˌin̪d̪ˈimjɑ# | 113 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-*#bˌen̪d̪ˈimjɑ# | 195 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-*#ben̪d̪ˈimjɑ# | 221 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ben̪d̪ˈimjɑ#
+#wˌermˈikulum# >>> *#beɾmˈexo# ( GOLD : #beɾmˈexo#) :
+w ˌe r m ˈi k u l u m 
+*#ɣʷˌermˈikulum# | 19 : w > ɣʷ / __ [+syl]
+*#ɣʷˌermˈiklum# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#ɣʷˌermˈiklu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#bˌermˈiklu# | 35 : ɣʷ > b 
+*#bˌermˈixlu# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#bˌɛrmˈixlu# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌermˈixlu# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#bˌermˈexlo# | 50 : [+syl,-long] > [-hi] 
+*#bˌeɾmˈexlo# | 53 : r > ɾ 
+*#bˌeɾmˈejlo# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#bˌeɾmˈejʎo# | 60 : [+lat] > ʎ / j __ 
+*#bˌeɾmˈeʎo# | 74 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#bˌeɾmˈed͡ʒo# | 134 : ʎ > d͡ʒ 
+*#bˌeɾmˈeʒo# | 136 : d͡ʒ > ʒ 
+*#bˌeɾmˈeʃo# | 214 : [+strid] > [-voi] 
+*#bˌeɾmˈexo# | 216 : ʃ > x 
+*#beɾmˈexo# | 220 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#beɾmˈexo#

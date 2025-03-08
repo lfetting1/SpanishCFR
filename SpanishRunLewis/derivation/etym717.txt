@@ -1,19 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :717:
-#pˌiɡrˈit̪iɑ# >>> *#peɾˈeθɑ# ( GOLD : #peɾˈeθɑ#) :
-p ˌi ɡ r ˈi t̪ i ɑ 
-*#pˌiɣrˈit̪iɑ# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#pˌiɣrˈit̪jɑ# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#pˌeɣrˈet̪jɑ# | 50 : [+syl,-long] > [-hi] 
-*#pˌeɣɾˈet̪jɑ# | 53 : r > ɾ 
-*#pˌejɾˈet̪jɑ# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-*#pˌejɾˈet͡ʃjɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#pˌejɾˈet͡ʃɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#pˌejɾˈed͡ʒɑ# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#pˌejɾˈed͡zɑ# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#pˌeːɾˈed͡zɑ# | 164 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
-*#pˌeɾˈed͡zɑ# | 165 : [+syl] > [-long,-splng] 
-*#pˌeɾˈez̪ɑ# | 214 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#pˌeɾˈes̪ɑ# | 215 : [+strid] > [-voi] 
-*#pˌeɾˈeθɑ# | 218 : s̪ > θ 
-*#peɾˈeθɑ# | 221 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#peɾˈeθɑ#
+#pˌerˈikulum# >>> *#peɾˈexo# ( GOLD : #pelˈiɡɾo#) :
+p ˌe r ˈi k u l u m 
+*#pˌerˈiklum# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#pˌerˈiklu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#pˌerˈixlu# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#pˌɛrˈixlu# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌerˈixlu# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˌerˈexlo# | 50 : [+syl,-long] > [-hi] 
+*#pˌeɾˈexlo# | 53 : r > ɾ 
+*#pˌeɾˈejlo# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#pˌeɾˈejʎo# | 60 : [+lat] > ʎ / j __ 
+*#pˌeɾˈeʎo# | 74 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#pˌeɾˈed͡ʒo# | 134 : ʎ > d͡ʒ 
+*#pˌeɾˈeʒo# | 136 : d͡ʒ > ʒ 
+*#pˌeɾˈeʃo# | 214 : [+strid] > [-voi] 
+*#pˌeɾˈexo# | 216 : ʃ > x 
+*#peɾˈexo# | 220 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#peɾˈexo#

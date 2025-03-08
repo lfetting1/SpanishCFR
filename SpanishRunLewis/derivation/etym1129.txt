@@ -1,19 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1129:
-#ˌowˈikulɑ# >>> *#obˈexɑ# ( GOLD : #obˈexɑ#) :
-ˌo w ˈi k u l ɑ 
-*#ˌoɣʷˈikulɑ# | 19 : w > ɣʷ / __ [+syl]
-*#ˌoɣʷˈiklɑ# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
-*#ˌobˈiklɑ# | 35 : ɣʷ > b 
-*#ˌobˈixlɑ# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#ˌɔbˈixlɑ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌobˈixlɑ# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌobˈexlɑ# | 50 : [+syl,-long] > [-hi] 
-*#ˌobˈejlɑ# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-*#ˌobˈejʎɑ# | 60 : [+lat] > ʎ / j __ 
-*#ˌobˈeʎɑ# | 74 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-*#ˌobˈed͡ʒɑ# | 133 : ʎ > d͡ʒ 
-*#ˌobˈeʒɑ# | 135 : d͡ʒ > ʒ 
-*#ˌobˈeʃɑ# | 215 : [+strid] > [-voi] 
-*#ˌobˈexɑ# | 217 : ʃ > x 
-*#obˈexɑ# | 221 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#obˈexɑ#
+#ˌin̪ɡˌen̪erˈɑːre# >>> *#en̪xen̪d̪ɾˈɑɾ# ( GOLD : #en̪xen̪d̪ɾˈɑɾ#) :
+ˌi n̪ ɡ ˌe n̪ e r ˈɑː r e 
+*#ˌiŋɡˌen̪erˈɑːre# | 14 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+*#ˌiŋɡˌen̪rˈɑːre# | 26 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
+*#ˌiŋɡˌɛn̪rˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌiŋɡˌen̪rˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeŋɡˌen̪rˈɑːre# | 50 : [+syl,-long] > [-hi] 
+*#ˌeŋɡˌen̪rˈɑre# | 51 : [+syl] > [-long,-splng] 
+*#ˌeŋɡˌen̪ɾˈɑɾe# | 53 : r > ɾ 
+*#ˌeŋɡjˌen̪ɾˈɑɾe# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#ˌeŋd͡ʒjˌen̪ɾˈɑɾe# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#ˌeŋd͡ʒˌen̪ɾˈɑɾe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ˌeŋʝˌen̪ɾˈɑɾe# | 99 : d͡ʒ > ʝ 
+*#ˌeŋɟˌen̪ɾˈɑɾe# | 135 : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ 
+*#ˌeŋʒˌen̪ɾˈɑɾe# | 137 : ɟ > ʒ 
+*#ˌeŋʒˌen̪ɾˈɑɾ# | 191 : e > ∅ / [+syl] ɾ __ #
+*#ˌeŋʒˌen̪d̪ɾˈɑɾ# | 212 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
+*#ˌeŋʃˌen̪d̪ɾˈɑɾ# | 214 : [+strid] > [-voi] 
+*#ˌeŋxˌen̪d̪ɾˈɑɾ# | 216 : ʃ > x 
+*#eŋxen̪d̪ɾˈɑɾ# | 220 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#en̪xen̪d̪ɾˈɑɾ# | 222 : ŋ > n̪ 
+Final form : *#en̪xen̪d̪ɾˈɑɾ#
