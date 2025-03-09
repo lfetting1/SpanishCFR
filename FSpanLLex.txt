@@ -1,5 +1,6 @@
 =Classical Latin, Latin,Old Spanish,Modern Spanish
-$currently on REW 236
+$Old Spanish phonemes -- z as dz, ç (and c / __ {e,i}) as ts, j and g (/ __ {e,i}) as ʒ, b d g as phonemically b d g, v as β, f/h as ɸ, ch as tʃ, x as ʃ, ll as ʎ, rr/r distinction already present. hiatus i-V as j-V. 
+$went through f except fr- in REW> 
 f ˈɑ b ɑ m , ɸ ˈɑ b ɑ , ˈɑ b ɑ $bean. REW 234: 3117. 
 f ˈɑː b u l ɑ m , ɸ ˈɑ b l ɑ , ˈɑ b l ɑ $ speech, noun, feminine, singular. REW 234: 3124.
 f ˌɑ b u l ˈɑː r e , ɸ ˌɑ b l ˈɑ ɾ , ɑ b l ˈɑ ɾ $to speak, verb, infinitive. REW 234: 3125. 
@@ -19,7 +20,6 @@ f ˌɑ k t̪ ˌiː t̪ i ˈɑː r i u m , ... , e t͡ʃ i θ ˈe ɾ o $hechizo. 
 f ˈɑ k t̪ u m , ... , ˈe t͡ʃ o $done, adjective, masculine, singular. REW 236: 3135.
 f ˌɑ k t̪ ˈuː r ɑ , ... , e t͡ʃ ˈu ɾ ɑ $ appearance, noun, feminine, singular
 f ˈɑ k u l ɑ m , ɸ ˈɑ t͡ʃ ɑ , ɑ t͡ʃ ɑ $ axe, noun, feminine, singular. REW 236: 3137.1 
-f ˈa e̯ k e m , ɸ ˈe d͡z , ˈe θ $scum. Noun, feminine, singular. REW 236: 3140
 f ˈɑː ɡ e ɑ m , ... , ˈɑ ʝ ɑ $haya. beech, noun, feminine, singular. REW 236: 3142
 
 
@@ -36,41 +36,158 @@ f ˈɑ m i n̪ e m , ɸ ˈɑ m n e , ˈɑ m b ɾ e $ hunger, noun, feminine, sin
 f ˈɑ r t̪ u m , ɸ ˈɑ ɾ t̪ o , ˈɑ ɾ t̪ o $tired; stuffed. Adjective, masculine, singular. REW 241: 3206. 
 ... , ɸ ˈɑ s t ɑ , ˈɑ s t ɑ $hasta. From Arabic blend with Latin fac- and ad ista. REW 235: 3130.1. 
 
-f ˌɑ r iː n̪ ˈɑː r i u m , ... , ɑ ɾ n̪ ˈe ɾ o $ sieve , noun, masculine, singular
-f ˌɑ r ˈiː n̪ ɑ , ɸ ˌɑ r ˈi n̪ ɑ , ɑ ɾ ˈi n̪ ɑ $ flour, noun, feminine, singular
+f ˌɑ r iː n̪ ˈɑː r i u m , ɸ ˌɑ ɾ n̪ ˈe ɾ o , ɑ ɾ n̪ ˈe ɾ o $ sieve , noun, masculine, singular
+f ˌɑ r ˈiː n̪ ɑ , ɸ ˌɑ ɾ ˈi n̪ ɑ , ɑ ɾ ˈi n̪ ɑ $ flour, noun, feminine, singular
 f ˌɑ r r ˈɑː ɡ i n̪ e m , e r ˈe n̪ $herrén. REW 241: 3201
 f ˈɑ s k e m , ... , ˈɑ θ $haz. REW 242-3: 3214. 
-f ˈɑ s k eː s , ˈɑ θ e s
+f ˈɑ s k eː s , ... , ˈɑ θ e s
 f ˈɑ s k i ɑ m , ... , ˈɑ θ ɑ $REW 241: 3208. 
 f ˌɑ s k ˈiː n ɑ m , ... , ɑ θ ˈi n̪ ɑ $REW 241: 3210. 
 
-f ˌɑ s t̪ iː d̪ i oː s u m , ɸ ˌɑ s t j ˈo s o , ɑ s t̪ j ˈo s o $hastioso. REW 242: 3216
+f ˌɑ s t̪ iː d̪ i oː s u m , ɸ ˌɑ s t j ˈo z o , ɑ s t̪ j ˈo s o $hastioso. REW 242: 3216
 f ˌɑ s t̪ ˈiː d̪ i u m , ɸ ˌɑ s t̪ ˈi o , ɑ s t̪ ˈi o $ boredom, noun, masculine, singular. REW 242: 3217
 f ˌɑ s t̪ iː d̪ i ˈɑː r e , ɸ ˌɑ s t̪ j ˈɑ ɾ , ɑ s t̪ j ˈɑ ɾ $hastiar. REW 242: 3215
 f ˈɑː t̪ ɑ m , ... , ˈa d̪ a $hada. REW 242: 3219
 f ˈɑː t̪ u m , ... , ˈa d̪ o $hado. REW 242: 3222
 f ˈɑ w k e m , ɸ ˈo d͡z , ˈo θ $hoz. REW 242: 3225.
 
+f ˈa e̯ k e m , ɸ ˈe d͡z , ˈe θ $scum. Noun, feminine, singular. REW 236: 3140
+
 f ˈe b r e m , ɸ j ˈe b ɾ e ,  ʝ ˈe b ɾ e $ fever , noun, feminine, singular. fjebɾe is probably semi-learned loan. REW lists hiebre -- REW 243ː 3230. 
-f ˌe b r u ˈɑː r i u m , ɸ e b ɾ ˈe ɾ o , e b ɾ ˈe ɾ o $REW 243: 3231. 
-f ˈeː k iː , ... ,  ˈi θ e
+f ˌe b r u ˈɑː r i u m , ɸ e b ɾ ˈe ɾ o , e b ɾ ˈe ɾ o $REW 243: 3231. $f ˌe b r u ˈɑː r i u m , f e b ɾ ˈe ɾ o -- loan. 
 f ˈe l e m , ɸ j ˈe l , ʝ ˈe l $hiel -- bile. Feminine, mass. 
-f ˈeː m i n̪ ɑ , ɸ ˈe m n̪ ɑ , ˈe m b ɾ ɑ $female, adjective, feminine, singular. REW 244: 3239. 
-f ˌe n̪ ˈe s t̪ r ɑ , ɸ ˌi n̪ j ˈe s t̪ ɾ ɑ , ... $window. noun, count, feminine, singular. REW 244: 3242.
-f ˌeː n̪ ˈiː l e , ɸ ˌe n̪ ˈi l , e n ˈi l $hayloft. Noun, count, masculine, singular. REW 244: 3244. 
-f ˌeː n̪ ˈu k u l u m , ... , i n̪ ˈo x o $fennel. REW 244: 3246.  
-f ˈeː n̪ u m , ɸ ˈe n̪ o , ˈe n̪ o $hay. REW 244: 3247. 
-
-f ˈe r ɑ m , f j ˈe ɾ ɑ $ wild animal, noun, feminine, singular
-f ˈe r r u m , ʝ ˈe r o $ iron, noun, masculine, singular
+f ˈe m i t̪ ɑ , ... , ʝ ˈe n̪ d̪ ɑ $REW 249: 3309.2. 
+f ˌe n̪ d ˈeː r e , ɸ ˌe n̪ d̪ ˈe ɾ , e n̪ d̪ ˈe ɾ $to split. REW 249: 3312. 
+f ˌe n̪ ˈe s t̪ r ɑ , ɸ ˌi n̪ j ˈe s t̪ ɾ ɑ , ... $window. noun, count, feminine, singular. REW 244: 3242
+$f ˈe r ɑ m , ... , f j ˈe ɾ ɑ $ wild animal, noun, feminine, singular -- excluded as loan from Provencal or Italian per REW 245: 3264.2. Below.
+... , f j ˈe ɾ ɑ , f j ˈe ɾ ɑ $ wild animal, noun, feminine, singular -- loan from Gallo-Romance? Per REW 245: 3264.2. Below.
 f ˌe r ˈiː r e , ɸ ˌe ɾ ˈi ɾ , e ɾ ˈi ɾ $to wound, verb, infinitive. REW 244: 3253. 
+f ˌe r m ˈe n̪ t̪ u m , ... , e ɾ m j ˈe n̪ t̪ o $REW 245: 3254. 
+f ˌe r r ɑː m ˈe n̪ t̪ ɑ , ... , e r ɑ m j ˈe n̪ t̪ ɑ $inplement, tool. From neut pl. REW 245: 3255. 
+f ˌe r r ˈɑː r e , ɸ ˌe r ˈɑ ɾ , e r ˈɑ ɾ $to horseshoe a horse. REW 245: 3256. 
+f ˌe r r ˈɑː r i u m , ɸ ˌe r ˈe ɾ o , e r ˈe ɾ o $herrero. blacksmith, noun, masculine, singular. REW 245: 3257. 
+f ˌe r r ˈuː ɡ ˈi n̪ e m , ɸ ˌe r ˈi n̪ , ... $herrin. This form seems very obscure, but REW 245: 3261. Astur ferruñu, Galiz ferruge, Portg ferrugem, Catal ferri-tja.  
+f ˈe r r u m , ɸ j ˈe r o , ʝ ˈe r o $ iron, noun, masculine, singular. REW 245: 3262. 
+f ˌe r r ˈuː m i n̪ e , ... , e r ˈu m b ɾ e  $ rust, noun, feminine. from ablative. REW 245ː 3261. 
+f ˌe r w ˈe n̪ t̪ e m , ... , i ɾ b j ˈe n̪ t̪ e $ boiling, adjective, singular
+f ˌe r w ˈeː r e , ɸ ˌe ɾ β ˈe ɾ , e ɾ b ˈi ɾ $to boil, verb, infinitive. REW 245: 3265.  
 
+f ˈeː k iː , ... ,  ˈi θ e
+f ˈeː m i n̪ ɑ , ɸ ˈe m n̪ ɑ , ˈe m b ɾ ɑ $female, adjective, feminine, singular. REW 244: 3239. 
+f ˌeː n̪ ˈiː l e , ɸ ˌe n̪ ˈi l , e n ˈi l $hayloft. Noun, count, masculine, singular. REW 244: 3244. 
+f ˌeː n̪ ˈu k u l u m , ɸ ˌi n̪ ˈo ʒ o , i n̪ ˈo x o  $fennel. REW 244: 3246.  
+f ˈeː n̪ u m , ɸ ˈe n̪ o , ˈe n̪ o $hay. REW 244: 3247. 
+f ˈeː s t̪ ɑ m , ... , f j ˈe s t̪ ɑ $party, feast, holiday; noun, feminine, singular. REW 245: 3267. Apparently irregular at various levels though. 
+
+f ˈo e̯ d̪ u m , ɸ ˈe d̪ o , ... $ugly, adjective, masculine. singular. Feo is a loan. REW 255: 3406. 
+f ˌo e̯ t̪ ˈeː r e , ... , e d̪ ˈe ɾ $REW 255: 3407. Duplicate with fētēre as was earlier in here. REW 255: 3407. 
+f ˌo e̯ t̪ i b ˈu n̪ d̪ u m , ... , e d̪ j ˈo n̪ d̪ o $odorous. Adjective, masculine, singular. REW 255: 3408. 
+
+f ˈi b r ɑ , ... , ˈe b ɾ ɑ $thread. REW 246: 3277. 
+f ˌi d̪ ˈeː l e m , ɸ ˌi ˈe l , ... $hiel, fiel, changed by refection it seems (bracketed in REW 247: 3283).  f ˌi d̪ ˈeː l e m , f j ˈe l $ it might be a borrowing. See old spanish hiel.
+f ˌi d̪ eː l i t̪ ˈɑː t̪ e m , ... , f j e l d̪ ˈɑ d̪ $fidelity. REW 247: 3284. 
+f ˈi d̪ e m , ɸ ˈe e , f ˈe $ faith, noun, feminine, singular. Refected? Unclear. REW 247: 3285 seems to seem so -- some apparently attested "he, a fe" cited.
+f ˌiː k ˈɑː r i ɑ , ... , i ɡ ˈe ɾ ɑ
+f ˌi k ˈɑː t̪ u m , ɸ i ɡ ˈɑ d̪ o , i ɡ ˈɑ d̪ o $ stress in modern Spanish is in /i/
+f ˌi l i k ˈɑ r i ɑ , ... , e l ɡ ˈe ɾ ɑ $REW 248: 3298. 
+f ˌi l ˈi k t̪ u m , ɸ ˌe l ˈe t͡ʃ o , e l ˈe t͡ʃ o $fern. REW 248: 3300. 
+
+f ˌiː b ˈe l l ɑ m , ɸ ˌi β j ˈe ʎ ɑ , e b ˈi ʝ ɑ $buckle. REW 246: 3276. 
+f ˌiː d̪ ˈɑː r e , ɸ ˌi ˈɑ ɾ , ... $Old Spanish hiar ; changed to fi- by refection (REW 247: 3282). 
+f ˌiː d̪ ˈuː k i ɑ m , ɸ ˌi ˈu d͡z j ɑ , ... $ > early modern Spanish hucia, in ahuciar, desahuciar. REW 247: 3286. 
+f ˈiː k u m , ɸ ˈi ɡ o , ˈi ɡ o $ fig, noun, masculine, singular. REW 247: 3281. 
+$f ˈiː k s u m , f ˈi x o $ learned borrowing
+ˌɑ d̪ f ˌiː k t̪ ˈɑː r e , ... , ɑ i t̪ ˈɑ ɾ $to mark a boundary. REW 246: 3280. 
+f ˈiː k t̪ u m , ... , ˈi t̪ o $ milestone, noun, masculine, singular. REW 246: 3280. 
+... , ɑ l f ˈi l , ɑ l f ˈi l $elephant. Arabic. REW 247: 3291. 
+f ˌiː l ˈɑː k e ɑ m , ... , i l ˈɑ θ ɑ $cord. hilaza. REW 247: 3292. 
+f ˌiː l ˈɑː r e , ... , i l ˈɑ ɾ $REW 247: 3293. 
+ˌɑ d̪ f ˌiː l ˈɑː r e , ... , ɑ i l ˈɑ ɾ $REW 249: 3306. 
+f ˈiː l i ɑ m , ɸ ˈi ʒ ɑ , ˈi x ɑ $ daughter, noun, feminine, singular
+f ˌiː l i ˈɑ s t̪ r u m , ɸ ˌi ʒ ˈɑ s t̪ ɾ o , i x ˈɑ s t̪ ɾ o $stepchild. REW 248: 3297. 
+f ˌiː l i ˈo l u m , ... , i x w ˈe l o $small son, shoot; diminuitive, noun, masculine, singular REW 248: 3302. 
+f ˈiː l i u m , ɸ ˈi ʒ o , ˈi x o $ son, noun, masculine, singular
+f ˈiː l u m , ɸ ˈi l o , ˈi l o $ thread, noun, masculine, singular
+... , f ˈi n̪ , f ˈi n̪ $ end, noun, masculine, singular --- but per REW not from fīnem directly but rather a loan, as is also true of finir, fino, and fingir, and fermer and firmar, ferme -- REW 249ː 3313-3315; 250ː 3318, 3320
+f ˌiː n̪ ɡ i k ˈɑː r e , ɸ ˌi n̪ k ˈɑ ɾ , i n̪ k ˈɑ ɾ $to nail. REW 247: 3290. 
+
+... , f j ˈe l t ɾ o , f j ˈe l t ɾ o $felt. Med Latin loan? REW 248: 3205.1. 
+
+f l ˈɑ k k i d̪ u m , l ˈɑ t͡s j o , l ˈɑ θ j o $REW 251: 3343. 
+f l ˈɑ m m ɑ m , ʎ ˈɑ m ɑ , ʝ ˈɑ m ɑ $ flame , noun, feminine, singular. REW 251: 3350. 
 f l ˈo k k u m , f l w ˈe k o , f l ˈe k o $ weird vowel
-f l ˈoː r e m , f l ˈo ɾ $ flower, noun, feminine, singular. TODO -- loan per REW?
-f l ˌoː r eː s k ˈeː r e , f l o ɾ e θ ˈe ɾ $verb, infinitive. to flourish. Portg chorecer. REW 253: 3380. 
-f l ˈu k s u m , f l ˈo x o
-f l ˈɑ k k i d̪ u m , l ˈɑ t͡s j o , l ˈɑ θ j o
-f l ˈɑ m m ɑ m , ʎ ˈɑ m ɑ , ʝ ˈɑ m ɑ $ flame , noun, feminine, singular
+$f l ˈoː r e m , f l ˈo ɾ $ flower, noun, feminine, singular. TODO -- loan per REW -- REW 253: 3380. 
+f l ˌoː r eː s k ˈeː r e , ... , f l o ɾ e θ ˈe ɾ $verb, infinitive. to flourish. Portg chorecer. REW 253: 3380. TODO Loan? 
+f l ˈu k s u m , f l ˈo ʃ o , f l ˈo x o
+$ not listed in REW : flum < flumen. Flota is treated as loan, not from fluctus directly. 
+
+
+ˈi n̪ f l oː , ... , ˈi n̪ t͡ʃ o
+ˈɑ f f l oː , ... , ˈɑ ʝ o
+
+
+f ˌo k ˈɑː k i ɑ , ɸ ˌo ɡ ˈɑ t͡s ɑ , o ɡ ˈɑ θ ɑ $loaf. REW 254: 3396. 
+f ˌo k ˈɑː r e m , ɸ ˌo ɡ ˈɑ ɾ , o ɡ ˈɑ ɾ $home. REW 254: 3398.2. 
+f ˌo k ˈɑː r i ɑ , ... , o ɡ ˈe ɾ ɑ
+f ˈo k u m , ɸ w ˈe ɡ o , f w ˈe ɡ o $ fire, noun, masculine, singular. huego in REW 254ː 3400 - -but may be analogy off of hoguera, hogar. 
+f ˈo l i ɑ , ɸ ˈo ʒ ɑ , ˈo x ɑ $ leaf , noun, feminine, singular. REW 255ː 3415. 
+f ˌo l i ˈɑː t̪ i l e m , ... , o x ˈɑ l d̪ e $puff pastry. Now hojaldre. REW 255: 3411. 
+f ˌo l i ˈo l ɑ , ... , o x w ˈe l ɑ $litle leaf. REW 255: 3413. 
+f ˌo l i ˈoː s u m , ... , o x ˈo s o $leafy. REW 255: 3414. 
+d̪ ˌi s f ˌo l l ˈɑː r e , d̪ ˌe s ɸ ˌo ʎ ˈɑ r , d̪ e s o ʝ ˈɑ ɾ $to flay. REW 256: 3422.1.  
+f ˈo l l e m , ... , f w ˈe ʝ e $ bellows, noun, masculine, singular. REW 256ː 3422.2. 
+f ˌo l l i k ˈɑː r e , ... , o l ɡ ˈɑ ɾ $ rest, verb, infinitive. REW 255: 3417. 
+f ˌo l l ˈi k u l u m , ... , o ʝ ˈe x o $ fruit skin, egg membrane, pomace. REW 256 :  3419. 
+f ˌo n̪ t̪ ˈɑː n̪ ɑ m , ɸ ˌo n̪ t̪ ˈɑ n̪ ɑ , o n̪ t̪ ˈɑ n̪ ɑ $spring. Now obsolete. REW 256: 3426. 
+f ˈo n̪ t̪ e m , ... ,  f w ˈe n̪ t̪ e $ fountain, noun, feminine, singular. REW 256: 3425. 
+f ˈo r ɑː , ... , f w ˈe ɾ ɑ $outside. REW 256: 3431. Ablative? 
+f ˌo r ˈɑː m i n̪ e m , ... , o ɾ ˈɑ m b ɾ e $ REW 256 : 3427. Must be from ablative. 
+f ˌo r ˈɑ n̪ e u m , ... , u ɾ ˈɑ ɲ o  $ REW 256: 3428. 
+f ˌo r ˈɑː t u m , ... , o ɾ ˈɑ d̪ o $cavern. REW 257: 3433. 
+f ˌo r m ˈiː k ɑ m , ɸ ˌo ɾ m ˈi ɡ ɑ , o ɾ m ˈi ɡ ɑ $ ant. REW 258: 3445. 
+f ˌo r m iː k ˈɑː r e , ... , o ɾ m i ɡ ˈɑ ɾ $REW 258: 3446. 
+f ˌo r m iː k ˈoː s u m , ... , o ɾ m i ɡ ˈo s o $REW 258: 3447. 
+f ˌo r n̪ ˈɑː k e m , ɸ ˌo ɾ n̪ ˈɑ d͡z , ... $oven. now hornaz-a. REW 258: 3451. 
+f ˈo r t̪ e m , ... , f w ˈe ɾ t̪ e $ strong, adjective, singular
+f ˈo r t̪ i ɑ , ... , f w ˈe ɾ θ ɑ $ force, noun, feminine, singular
+$forzar -- likely analogized. 
+f ˈo r u m , ... , f w ˈe ɾ o $REW 258: 3459. 
+f ˈo s s ɑ , ... , f w ˈe s ɑ $REW 258: 3460. Now obsolete. 
+f ˈo w e ɑ , ... , o ʝ ɑ $ditch. REW 259: 3464. 
+
+f ˌoː r m ˈɑː k i u m , ... , o ɾ m ˈɑ θ o $heap of shoes. REW 257: 3442. 
+$formar is a loan -- REW 257: 3443. 
+f ˈoː r m ɑ m , ... , ˈo ɾ m ɑ $ shape of a shoe, dry stone wall, form, mold. REW 257: 3441. 
+f ˌoː r m ˈoː s u m , ɸ ˌe r m ˈo z o , e ɾ m ˈo s o $ irregular vowel shift. REW 258 ː 3450. 
+
+
+
+
+
+f ˌu ɡ ˈiː r e , ɸ ˌu ˈi ɾ , u ˈi ɾ $to flee. REW 264: 3550.2. 
+f ˌu l l ˈɑː r e , ... , o ʎ ˈɑ ɾ $REW 265: 3560. 
+f ˌu l l ˈiː ɡ i n̪ e m , ... , o ʝ ˈi n̪ $REW 265: 3558.2 Not fūligo per REW> 
+f ˈu n̪ d̪ ɑ m , ... , ˈo n̪ d̪ ɑ $ REW 266: 3577. 
+ˌɑ d̪ f ˌu n̪ d̪ ˈɑː r e , ... , ɑ o n̪ d̪ ˈɑ ɾ $REW 267: 3577. 
+f ˈu n̪ d̪ u m , ... , ˈo n̪ d̪ o $ REW 266: 3585.2. fondo is a refection per REW
+$ fonil is a Catalanism - REW 266: 3583. 
+f ˈu n̪ ɡ u m , ɸ ˈo n̪ ɡ o , ˈo n̪ ɡ o $REW 267: 3588. 
+f ˈu r k ɑ m , ... , ˈo ɾ k ɑ $ REW 267: 3593. fuerca is not the regular outcome. 
+f ˈu r n̪ u m , ɸ ˈo ɾ n̪ o , ˈo ɾ n̪ o $REW 268: 3602. 
+f ˈu r n̪ ɑ k e u m , o ɾ n̪ ˈɑ θ o $ type of meat pie, noun, masculine, singular
+f ˌu r n̪ ˈɑː r i u m , ... , o ɾ n ˈe ɾ o $REW 268: 3601. 
+f ˈu s k u m , ... , ˈo s k o $REW 268: 3611.
+f ˌu s t̪ iː ɡ ˈɑː r e , ... , o s t̪ i ɡ ˈɑ ɾ $REW 269: 3617. 
+
+f ˌuː m ˈɑː r e , ɸ ˌu m ˈɑ ɾ , u m ˈɑ ɾ $to smoke. Now mostly replaced with fumar. OR was this one the analogized one, via backformation, in Old Spanish -- or reformed off of fūmus > humo? 
+f ˌuː m ˈɑː t̪ ɑ , ... , u m ˈɑ d̪ ɑ $REW 266: 3572. 
+f ˌuː m i ɡ ˈɑː r e , ɸ ˌu m e j ˈɑ ɾ , u m e ˈɑ ɾ $to steam. REW 266ː 3570. 
+f ˌuː m ˈoː s u m , ɸ ˌu m ˈo z o , u m ˈo s o $smoky. REW 266: 3571. 
+f ˈuː m u m , ɸ ˈu m o , ˈu m o $smoke. REW 266: 3572. 
+f ˌuː r i k ˈɑː r e , ɸ ˌu ɾ ɡ ˈɑ ɾ , u ɾ ɡ ˈɑ ɾ $to rummage. REW 267: 3597. 
+f ˈuː r t̪ u m , ... , ˈu ɾ t̪ o $REW 268: 3606. 
+f ˈuː s u m , ɸ ˈu z o , ˈu s o $REW 269: 3620. 
+
 
 f r ˈiː k t̪ u m , f ɾ ˈi t̪ o $ fried, adjective, masculine, singular
 f r ˈiː ɡ i d̪ u m , f ɾ ˈi o $ cold, adjective, masculine, signular
@@ -85,59 +202,60 @@ f r ˌi k ˈɑː r e , f ɾ e ɡ ˈɑ ɾ
 f r ˌiː k s ˈe o l u m , f ɾ i s w ˈe l o $ type of desert, noun, masculine, singular
 f r ˌiː k t̪ i ˈɑː r e , f ɾ i θ ˈɑ ɾ $ freeze, verb, infinitive
 
-f ˈi b r ɑ , ˈe b ɾ ɑ
-f ˈi d̪ e m , f ˈe $ faith, noun, feminine, singular
-f ˈiː k u m , ˈi ɡ o $ fig, noun, masculine, singular
-f ˈiː l u m , ˈi l o $ thread, noun, masculine, singular
-$f ˈiː k s u m , f ˈi x o $ learned borrowing
-f ˈiː k t̪ u m , ˈi t̪ o $ milestone, noun, masculine, singular
-f ˈiː l i u m , ˈi x o $ son, noun, masculine, singular
-f ˈiː l i ɑ m , ˈi x ɑ $ daughter, noun, feminine, singular
-f ˈiː n̪ e m , f ˈi n̪ $ end, noun, masculine, singular
-f ˈo e̯ d̪ u m , f ˈe o $ ugly, noun, masculine, singular
-f ˈo k u m , f w ˈe ɡ o $ fire, noun, masculine, singular
-f ˈo l i ɑ , ˈo x ɑ $ leaf , noun, feminine, singular
-f ˈo l l e m , f w ˈe ʝ e $ bellows, noun, masculine, singular
-f ˈo n̪ t̪ e m , f w ˈe n̪ t̪ e $ fountain, noun, feminine, singular
-f ˈo r t̪ e m , f w ˈe ɾ t̪ e $ strong, adjective, singular
-f ˈo r t̪ i ɑ , f w ˈe ɾ θ ɑ $ force, noun, feminine, singular
-f ˈoː w e ɑ , o ʝ ɑ
-f ˈoː r m ɑ , ˈo ɾ m ɑ $ shape of a shoe
-f ˈu n̪ d̪ u m , f ˈo n̪ d̪ o $ possible refection (inherited hondo?)
-f ˈu n̪ d̪ ɑ m , ˈo n̪ d̪ ɑ
-f ˈu n̪ ɡ u m , ˈo n̪ ɡ o
-f ˈu r k ɑ m , ˈo ɾ k ɑ
-f ˈu r n̪ u m , ˈo ɾ n̪ o
-f ˈu r n̪ ɑ k e u m , o ɾ n̪ ˈɑ θ o $ type of meat pie, noun, masculine, singular
-f ˈuː m u m , ˈu m o
-f ˈuː r t̪ u m , ˈu ɾ t̪ o
-$f ˌe b r u ˈɑː r i u m , f e b ɾ ˈe ɾ o
-f ˌe n̪ ˈiː l e m , e n̪ ˈi l $ hayloft , noun, masculine, singular
-f ˌe r r ˈɑː r i u m , e r ˈe ɾ o
-f ˌe r w ˈe n̪ t̪ e m , i ɾ b j ˈe n̪ t̪ e $ boiling, adjective, singular
-f ˌeː n̪ ˈu k u l u m , i n̪ ˈo x o
-f ˌeː t̪ ˈeː r e , e d̪ ˈe ɾ
-f ˌi d̪ ˈeː l e m , f j ˈe l $ it might be a borrowing. See old spanish hiel.
-f ˌi k ˈɑː t̪ u m , i ɡ ˈɑ d̪ o $ stress in modern Spanish is in /i/
-f ˌi l ˈi k t̪ u m , e l ˈe t͡ʃ o
-f ˌiː k ˈɑː r i ɑ , i ɡ ˈe ɾ ɑ
-f ˌiː l ˈi o l u m , i x w ˈe l o $ son, diminuitive, noun, masculine, singular
-f ˌo k ˈɑː r e m , o ɡ ˈɑ ɾ
-f ˌo k ˈɑː r i ɑ , o ɡ ˈe ɾ ɑ
-f ˌo r m ˈiː k ɑ m , o ɾ m ˈi ɡ ɑ $ ant
-f ˌo r ˈɑ n̪ e u m , u ɾ ˈɑ ɲ o
-f ˌoː r m ˈoː s u m , e ɾ m ˈo s o $ irregular vowel shift
-f ˌo l l i k ˈɑː r e , o l ɡ ˈɑ ɾ $ rest, verb, infinitive
-f ˌuː l ˈiː ɡ i n̪ e m , o ʝ ˈi n̪
-f ˌuː m i ɡ ˈɑː r e , u m e ˈɑ ɾ
+
+p l ˌɑ k ˈeː r e , ... , p l a θ ˈe r $to like, please. Verb, infinitve. RAW 491.6557
+p l ˈɑ k e ɑ t̪ , ... , p l ˈe ɡ ɑ $ archaic verb form
+p l ˌɑ k ˈi b i l e m , p l a θ ˈi b l e $REW 491: 6558
+p l ˈɑ k i t̪ u m , ... , p l ˈɑ θ o
+p l ˈɑː ɡ ɑ m , ... , ʝ ˈɑ ɡ ɑ
+p l ˌɑː ɡ ˈɑː r e , ... , ʝ ɑ ɡ ˈɑ r $to wound. Verb, infinitive. REW 492: 6563
+p l ˈɑ ɡ i ɑ m , ... , p l ˈɑ j ɑ
+p l ˈɑ n̪ k t̪ u m , ... , ʝ ˈɑ n̪ t̪ o $ crying, noun, masculine, singular
+p l ˈɑ n̪ t̪ ɑ m , ... , ʝ ˈɑ n̪ t̪ ɑ
+p l ˌɑ n̪ t̪ ˈɑː ɡ i n̪ e m , ... , ʝ ɑ n̪ t̪ ˈe n̪ $ plantain , noun, masculine, singular
+p l ˌɑː n̪ ˈi t̪ i ɑ , ... , ʝ ɑ n̪ ˈe θ ɑ $simplicity, noun, feminine, singular. REW 492: 6574
+p l ˈɑ n̪ u m , ... , ʝ ˈɑ n̪ o
+p l ˈɑː n̪ u m , ... , ʝ ˈɑ n̪ o
+p l ˈɑ t̪ e ɑ m , ... , p l ˈɑ θ ɑ
+p l ˈɑ t̪ t̪ u m , ... , t͡ʃ ˈɑ t̪ o $pug-nosed. Adjective, masculine, singular. REW 493: 6586
+
+
+p l ˈeː n̪ u m , ... , ʝ ˈe n̪ o
+p l ˌi k ˈɑː r e , ... , ʝ e ɡ ˈɑ ɾ $ arrive, verb, infinitive
+
+p l ˌo w ˈeː r e , ... , ʝ o b ˈe ɾ $to rain. REW 495
+p l ˌoː r ˈɑː r e , ... , ʝ o ɾ ˈɑ ɾ
+
+$p l ˈu m b u m , p l ˈo m o -- loan per 
+p l ˈu t e u m , ... , t͡ʃ ˈo θ o $chozo. REW 496: 6619. 
+p l ˈu w i ɑ m , ... , ʝ ˈu b j ɑ $REW 496: 6620.1 
+
+p l ˈuː m ɑ m , p l ˈu m ɑ
+p l ˌuː m ˈaː k i u m , ... , ʝ u m ˈa θ o $Old Spanish llumazo. Obsolesced
+
+ˌɑ m p l i ˈɑː r e , ... , ɑ n̪ t͡ʃ ˈɑ ɾ 
+ˈɑ m p l u m , ... , ˈɑ n̪ t͡ʃ o $ wide, adjective, masculine, singular
+ˌɑ p p l i k ˈɑː r e , ... , ɑ ʝ e ɡ ˈɑ ɾ $to collect, adopt, approach. 
+d̪ ˌu p l ˈɑː r e , ... , d̪ o b l ˈɑ ɾ $to double. 
+d̪ ˈu p l u m , ... , d̪ ˈo b l o $double. 
+$ˌe k s ˈe m p l u m , ... , e x ˈe m p l o $ example, noun, masculine, singular. Errant? REMOVED, loan, as is ejemplar.  
+ˈi m p l e oː , ... , ˈi n̪ t͡ʃ o
+ˌi m p l ˈiː r e , ... , e n̪ t͡ʃ ˈi ɾ 
+k ˌo m p l ˈiː r e , ... , k u m p l ˈi ɾ $to filfill 
+s ˌu p p l ˌɑ n̪ t̪ ˈɑː r e , ... , s u p l ɑ n̪ t̪ ˈɑ ɾ $to supplant. TODO LOAN? 
+s ˌu p p l ˈiː r e , ... , s u p l ˈi ɾ $to substitute. 
+
+s ˌu f f l ˈɑː r e , ... , s o p l ˈɑ ɾ
+
+
+d̪ ˈu p l e m , ... ,d̪ ˈo b l e
+
 
 d̪ ˌe f ˈeː n̪ s ɑ , d̪ e ˈe s ɑ
 b ˈi f e r ɑ m , b ɾ ˈe b ɑ $ Irreg. metathesis?
 p r ˌoː f ˈe k t̪ u m , p ɾ o b ˈe t͡ʃ o $ profit, noun, masculine, singular
 p ˌɑ n̪ i f i k ˈɑː r e , ɑ p ɑ n̪ i ɡʷ ˈɑ ɾ $ supply someone with food , verb, infinitive, weird development
 s ˌɑː n̪ k t̪ i f i k ˈɑː r e , s ɑ n̪ t̪ i ɡʷ ˈɑ ɾ $ bless, verb, infinitive
-ˈi n̪ f l oː , ˈi n̪ t͡ʃ o
-ˈɑ f f l oː , ˈɑ ʝ o
 ˈɑ f r i k u m , ˈɑ b ɾ e ɡ o
 ˌiː n̪ f ˈe r n̪ u m , i n̪ f j ˈe ɾ n̪ o
 ˌo f f ˌoː k ˈɑː r e , ɑ o ɡ ˈɑ ɾ $ ancestral is vulgar Latin ˌɑ f f ˌoː k ˈɑː r e
