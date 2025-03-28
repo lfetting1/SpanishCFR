@@ -1,11 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1002:
-#ˌɑd̪t̪rˈɑn̪s# >>> *#ɑt̪ɾˈɑs# ( GOLD : #ɑt̪ɾˈɑs#) :
-ˌɑ d̪ t̪ r ˈɑ n̪ s 
-*#ˌɑd̪t̪rˈɑːn̪s# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cont,-son]
-*#ˌɑd̪t̪rˈɑːs# | 31 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
-*#ˌɑd̪t̪rˈɑs# | 51 : [+syl] > [-long,-splng] 
-*#ˌɑd̪t̪ɾˈɑs# | 53 : r > ɾ 
-*#ˌɑt̪t̪ɾˈɑs# | 63 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
-*#ˌɑt̪ɾˈɑs# | 145 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
-*#ɑt̪ɾˈɑs# | 220 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ɑt̪ɾˈɑs#
+#wˌɑrˈiolɑ# >>> *#biɾwˈelɑ# ( GOLD : #biɾwˈelɑ#) :
+w ˌɑ r ˈi o l ɑ 
+*#ɣʷˌɑrˈiolɑ# | 19 : w > ɣʷ / __ [+syl]
+*#bˌɑrˈiolɑ# | 35 : ɣʷ > b 
+*#bˌɑriˈolɑ# | 40 : [+stres,-lo,+hi] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#bˌɑrjˈolɑ# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#bˌɑrjˈɔlɑ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌɑɾjˈɔlɑ# | 53 : r > ɾ 
+*#bˌɑe̯ɾjˈɔlɑ# | 90 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+*#bˌɑjɾˈɔlɑ# | 96 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#bˌɑjɾˈɔelɑ# | 118 : ∅ > e / [-tense,+prim] __ 
+*#bˌɑjɾwˈelɑ# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#bˌejɾwˈelɑ# | 155 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#bjˌeɾwˈelɑ# | 193 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]/ __ @
+*#bjˌiɾwˈelɑ# | 199 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+*#bˌiɾwˈelɑ# | 213 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+*#biɾwˈelɑ# | 225 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#biɾwˈelɑ#

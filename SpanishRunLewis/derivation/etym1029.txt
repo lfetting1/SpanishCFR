@@ -1,12 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1029:
-#ɡˌubern̪ɑt̪ˈoːre# >>> *#ɡobeɾn̪ɑd̪ˈoɾ# ( GOLD : #ɡobeɾn̪ɑd̪ˈoɾ#) :
-ɡ ˌu b e r n̪ ɑ t̪ ˈoː r e 
-*#ɡˌubɛrn̪ɑt̪ˈoːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡˌubern̪ɑt̪ˈoːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɡˌobern̪ɑt̪ˈoːre# | 50 : [+syl,-long] > [-hi] 
-*#ɡˌobern̪ɑt̪ˈore# | 51 : [+syl] > [-long,-splng] 
-*#ɡˌobeɾn̪ɑt̪ˈoɾe# | 53 : r > ɾ 
-*#ɡˌobeɾn̪ɑd̪ˈoɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#ɡˌobeɾn̪ɑd̪ˈoɾ# | 191 : e > ∅ / [+syl] ɾ __ #
-*#ɡobeɾn̪ɑd̪ˈoɾ# | 220 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ɡobeɾn̪ɑd̪ˈoɾ#
+#ɡˌin̪ɡˈiːwɑm# >>> *#en̪xˈiɑ# ( GOLD : #en̪θˈiɑ#) :
+ɡ ˌi n̪ ɡ ˈiː w ɑ m 
+*#ɡˌiŋɡˈiːwɑm# | 14 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+*#ɡˌiŋɡˈiːɣʷɑm# | 19 : w > ɣʷ / __ [+syl]
+*#ɡˌiŋɡˈiːɣʷɑ# | 30 : [+nas] > ∅ / [-stres] __ #
+*#ɡˌiŋɡˈiːbɑ# | 35 : ɣʷ > b 
+*#ɡˌeŋɡˈiːbɑ# | 50 : [+syl,-long] > [-hi] 
+*#ɡˌeŋɡˈibɑ# | 51 : [+syl] > [-long,-splng] 
+*#ɡjˌeŋɡjˈibɑ# | 66 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#d͡ʒjˌeŋd͡ʒjˈibɑ# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#d͡ʒˌeŋd͡ʒˈibɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ʝˌeŋʝˈibɑ# | 98 : d͡ʒ > ʝ 
+*#ʝˌeŋʝˈiɑ# | 100 : [-son,+voi,+lab,-strid] > ∅ / [+front,+hi,-cons] __ [+back,+syl]
+*#ʝˌiŋʝˈiɑ# | 112 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+*#ˌiŋʝˈiɑ# | 120 : ʝ > ∅ / # __ [+syl,-prim,+front]
+*#ˌiŋɟˈiɑ# | 134 : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ 
+*#ˌiŋʒˈiɑ# | 136 : ɟ > ʒ 
+*#ˌeŋʒˈiɑ# | 201 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+*#ˌeŋʃˈiɑ# | 219 : [+strid] > [-voi] 
+*#ˌeŋxˈiɑ# | 221 : ʃ > x 
+*#eŋxˈiɑ# | 225 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#en̪xˈiɑ# | 227 : ŋ > n̪ 
+Final form : *#en̪xˈiɑ#

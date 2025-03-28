@@ -1,8 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :859:
-#sˈɑlem# >>> *#sˈɑl# ( GOLD : #sˈɑl#) :
-s ˈɑ l e m 
-*#sˈɑle# | 30 : [+nas] > ∅ / [-stres] __ #
-*#sˈɑlɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɑle# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sˈɑl# | 192 : e > ∅ / [+syl] [+cons,+cor] __ #
-Final form : *#sˈɑl#
+#sˈɑksum# >>> *#sˈexo# ( GOLD : #sˈɑxo#) :
+s ˈɑ k s u m 
+*#sˈɑksu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#sˈɑxsu# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#sˈɑxso# | 50 : [+syl,-long] > [-hi] 
+*#sˈɑjso# | 111 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+*#sˈejso# | 155 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#sˈejʃo# | 168 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#sˈeːʃo# | 170 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#sˈeʃo# | 171 : [+syl] > [-long,-splng] 
+*#sˈexo# | 221 : ʃ > x 
+Final form : *#sˈexo#

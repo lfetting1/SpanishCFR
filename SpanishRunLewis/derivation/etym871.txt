@@ -1,13 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :871:
-#sˌekwˈen̪t̪e# >>> *#siɡjˈen̪t̪e# ( GOLD : #siɡjˈen̪t̪e#) :
-s ˌe k w ˈe n̪ t̪ e 
-*#sˌekʷˈen̪t̪e# | 18 : [-cont,+back,-round] w > [+lab,+round] ∅
-*#sˌɛkʷˈɛn̪t̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌekʷˈɛn̪t̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sˌekˈɛn̪t̪e# | 76 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
-*#sˌeɡˈɛn̪t̪e# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#sˌeɡˈɛen̪t̪e# | 119 : ∅ > e / [-tense,+prim] __ 
-*#sˌeɡjˈen̪t̪e# | 120 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#sˌiɡjˈen̪t̪e# | 194 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-*#siɡjˈen̪t̪e# | 220 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#siɡjˈen̪t̪e#
+#sˌekuːrit̪ˈɑːt̪em# >>> *#sjeɾt̪ˈɑd̪# ( GOLD : #seɡuɾid̪ˈɑd̪#) :
+s ˌe k uː r i t̪ ˈɑː t̪ e m 
+*#sˌekuːrt̪ˈɑːt̪em# | 25 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
+*#sˌekrt̪ˈɑːt̪em# | 26 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
+*#sˌekrt̪ˈɑːt̪e# | 30 : [+nas] > ∅ / [-stres] __ #
+*#sˌexrt̪ˈɑːt̪e# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#sˌɛxrt̪ˈɑːt̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌexrt̪ˈɑːt̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˌexrt̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
+*#sˌexɾt̪ˈɑt̪e# | 53 : r > ɾ 
+*#sˌejɾt̪ˈɑt̪e# | 57 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#sˌejɾt̪ˈɑd̪e# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
+*#sjˌeɾt̪ˈɑd̪e# | 193 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]/ __ @
+*#sjˌeɾt̪ˈɑd̪# | 197 : e > ∅ / [+syl] [+cons,+cor] __ #
+*#sjeɾt̪ˈɑd̪# | 225 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#sjeɾt̪ˈɑd̪#

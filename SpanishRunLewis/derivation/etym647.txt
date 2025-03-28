@@ -1,15 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :647:
-#plˌikˈɑːre# >>> *#ʝeɡˈɑɾ# ( GOLD : #ʝeɡˈɑɾ#) :
-p l ˌi k ˈɑː r e 
-*#plˌikˈɑːrɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#plˌikˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#plˌekˈɑːre# | 50 : [+syl,-long] > [-hi] 
-*#plˌekˈɑre# | 51 : [+syl] > [-long,-splng] 
-*#plˌekˈɑɾe# | 53 : r > ɾ 
-*#plˌeɡˈɑɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#pʎˌeɡˈɑɾe# | 140 : [+lat] > ʎ / [-son] __ 
-*#ʎˌeɡˈɑɾe# | 141 : [+cons,-voi] > ∅ / # __ [+lat]
-*#ʎˌeɡˈɑɾ# | 191 : e > ∅ / [+syl] ɾ __ #
-*#ʎeɡˈɑɾ# | 220 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-*#ʝeɡˈɑɾ# | 221 : ʎ > ʝ 
-Final form : *#ʝeɡˈɑɾ#
+#plˌɑkˈibilem# >>> *#ʝɑθˈeble# ( GOLD : #plaθˈible#) :
+p l ˌɑ k ˈi b i l e m 
+*#plˌɑkˈiblem# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#plˌɑkˈible# | 30 : [+nas] > ∅ / [-stres] __ #
+*#plˌɑkˈiblɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#plˌɑkˈible# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#plˌɑkˈeble# | 50 : [+syl,-long] > [-hi] 
+*#plˌɑkjˈeble# | 66 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#plˌɑt͡ʃjˈeble# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#plˌɑt͡ʃˈeble# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#plˌɑd͡ʒˈeble# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
+*#plˌɑd͡zˈeble# | 105 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#pʎˌɑd͡zˈebʎe# | 126 : [+lat] > ʎ / [-son] __ 
+*#pʎˌɑd͡zˈeble# | 143 : ʎ > l / [+cons,+voi] __ 
+*#ʎˌɑd͡zˈeble# | 145 : [-cont,-voi] > ∅ / # __ [+lat]
+*#ʎˌɑz̪ˈeble# | 218 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ʎˌɑs̪ˈeble# | 219 : [+strid] > [-voi] 
+*#ʎˌɑθˈeble# | 222 : s̪ > θ 
+*#ʎɑθˈeble# | 225 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʝɑθˈeble# | 226 : ʎ > ʝ 
+Final form : *#ʝɑθˈeble#

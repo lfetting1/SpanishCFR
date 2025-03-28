@@ -1,16 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :482:
-#lˌemikˈɑn̪eɑ# >>> *#leɡʷˈɑɲɑ# ( GOLD : #leɡˈɑɲɑ#) :
-l ˌe m i k ˈɑ n̪ e ɑ 
-*#lˌemikˈɑn̪jɑ# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#lˌɛmikˈɑn̪jɑ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˌemikˈɑn̪jɑ# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#lˌemekˈɑn̪jɑ# | 50 : [+syl,-long] > [-hi] 
-*#lˌemekˈɑɲjɑ# | 59 : [+nas,+cor] > ɲ / __ j
-*#lˌemekˈɑɲɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#lˌemeɡˈɑɲɑ# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-*#lˌemɡˈɑɲɑ# | 147 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#lˌewɡˈɑɲɑ# | 151 : [+cons,+lab] > w / __ [+back,+cons]
-*#lˌewɡʷˈɑɲɑ# | 164 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
-*#lˌeɡʷˈɑɲɑ# | 168 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-*#leɡʷˈɑɲɑ# | 220 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#leɡʷˈɑɲɑ#
+#lˌae̯siˈoːn̪em# >>> *#lesˈon̪# ( GOLD : #lesjˈon̪#) :
+l ˌa e̯ s i ˈoː n̪ e m 
+*#lˌɛe̯siˈoːn̪em# | 22 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
+*#lˌɛːsiˈoːn̪em# | 23 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#lˌɛːsiˈoːn̪e# | 30 : [+nas] > ∅ / [-stres] __ #
+*#lˌɛːsjˈoːn̪e# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#lˌɛːsjˈoːn̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˌeːsjˈoːn̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lˌesjˈon̪e# | 51 : [+syl] > [-long,-splng] 
+*#lˌee̯sjˈon̪e# | 86 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+*#lˌejsˈon̪e# | 96 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#lˌejzˈon̪e# | 101 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+*#lˌeːzˈon̪e# | 170 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#lˌezˈon̪e# | 171 : [+syl] > [-long,-splng] 
+*#lˌezˈon̪# | 197 : e > ∅ / [+syl] [+cons,+cor] __ #
+*#lˌesˈon̪# | 219 : [+strid] > [-voi] 
+*#lesˈon̪# | 225 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#lesˈon̪#

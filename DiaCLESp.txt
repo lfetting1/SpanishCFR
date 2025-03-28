@@ -151,7 +151,7 @@ $ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it be
 
 [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(66) currently no etyma effected but this part should work adequately.
 
-ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work based on formulation
+$ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work based on formulation
 
 [+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] ɾ > ɾ [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
 
@@ -299,19 +299,23 @@ $DiaCLESp change C.1.C. Broadened context of modern syneresis from [-prim] to [-
 
 $Spanish loses stress sometime after here
 
-{v;f} > {b;ɸ} $ "betacism" TODO - Move back?
+[+lat] > ʎ / [-son] __ $lambdacism
 
-[+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
+v > b $ "betacism" TODO - Move back?
 
-ɸ > f $ phi_eff DiaCLESp change B.1.C.
+f > ɸ / __ {[+syl];[+son,+front,-syl]}
 
-h > ∅ $ h_deletion DiaCLESp change B.1.C.
+$[+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
+
+$ɸ > f $ phi_eff DiaCLESp change B.1.C.
+
+$h > ∅ $ h_deletion DiaCLESp change B.1.C.
 
 [-cons,-syl,+front] > [+cons,-son] / {[+syl]; #} __ [-cons] $recurrent,modern glide fortition 
 
 [+hi,+syl] > [-hi] / [+syl,+prim] (@)* ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 
-ʎ > d͡ʒ $ lateral affrication
+ʎ > d͡ʒ / [+syl] __  $ lateral affrication
 
 [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
 
@@ -321,17 +325,32 @@ d͡ʒ > ʒ $j_y_merger, for dʒ
 
 ʝ > ʒ / {#;[-syl]} __ [+round] $ j_y_merger, for ʝ
 
-[+lat] > ʎ / [-son] __ $lambdacism
+$[+lat] > ʎ / [-son] __ $lambdacism
 
-[+cons,-voi] > ∅ / # __ [+lat] $pl_ll_late
+$[+cons,-voi] > ∅ / # __ [+lat] $pl_ll_late
 
-[-voi] [+lat] > t͡ʃ $ "cheismo" palatal lateral > tʃ . Examples manklya (mankʎa), amplyo (ampʎo) > mancha, ancho, but rules as such do not seem to explicitly reference palatality of the lateral or the prior ...nasal? (Nor is the nasal referenced in any sort of metadescription for the rule....)  
+[-voi] [+lat] > t͡ʃ / @ __ $ "cheismo" palatal lateral > tʃ . Examples manklya (mankʎa), amplyo (ampʎo) > mancha, ancho, but rules as such do not seem to explicitly reference palatality of the lateral or the prior ...nasal? (Nor is the nasal referenced in any sort of metadescription for the rule....)  
 r r > rː $ trilling. TODO check this -- was missing in one version. 
 
 {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in the nexgt rule, degemination. 
 
 [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] $ degemination. Hartman's rule is meant to apply to all consonants except /r/, but this rule could apply if the environment was available. 
+
 ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
+
+ʎ > l / # [+lab,-strid,-voi] __ [+lo,+syl] [+front,+cons] 
+
+[-cont,-voi] > ∅ / # __ [+lat] $pl_ll_late
+
+[-voi,-strid,+lab] > k / __ ʎ
+
+[+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
+
+ɸ > f $ phi_eff DiaCLESp change B.1.C.
+
+h > ∅ $ h_deletion DiaCLESp change B.1.C.
+
+[-cons,-syl,+front] > [+cons,-son] / {[+syl]; #} __ [-cons] $recurrent,modern glide fortition 
 
 [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] (-syl)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
 

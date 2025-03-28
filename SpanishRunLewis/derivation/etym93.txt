@@ -1,17 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :93:
-#flˈuksum# >>> *#ʝˈuxo# ( GOLD : #flˈoxo#) :
+#flˈuksum# >>> *#kʝˈuxo# ( GOLD : #flˈoxo#) :
 f l ˈu k s u m 
 *#flˈuksu# | 30 : [+nas] > ∅ / [-stres] __ #
 *#flˈuxsu# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 *#flˈoxso# | 50 : [+syl,-long] > [-hi] 
-*#flˈojso# | 112 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-*#flˈujso# | 115 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-*#ɸlˈujso# | 127 : {v;f} > {b;ɸ} 
-*#flˈujso# | 129 : ɸ > f 
-*#fʎˈujso# | 140 : [+lat] > ʎ / [-son] __ 
-*#ʎˈujso# | 141 : [+cons,-voi] > ∅ / # __ [+lat]
-*#ʎˈujʃo# | 163 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-*#ʎˈuʃo# | 178 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-*#ʎˈuxo# | 216 : ʃ > x 
-*#ʝˈuxo# | 221 : ʎ > ʝ 
-Final form : *#ʝˈuxo#
+*#flˈojso# | 111 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+*#flˈujso# | 114 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+*#fʎˈujso# | 126 : [+lat] > ʎ / [-son] __ 
+*#ɸʎˈujso# | 129 : f > ɸ / __ [+son,+front,-syl]
+*#kʎˈujso# | 146 : [-voi,-strid,+lab] > k / __ ʎ
+*#kʎˈujʃo# | 168 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#kʎˈuʃo# | 183 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#kʎˈuxo# | 221 : ʃ > x 
+*#kʝˈuxo# | 226 : ʎ > ʝ 
+Final form : *#kʝˈuxo#
