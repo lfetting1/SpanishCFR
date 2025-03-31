@@ -352,7 +352,7 @@ h > ∅ $ h_deletion DiaCLESp change B.1.C.
 
 [-cons,-syl,+front] > [+cons,-son] / {[+syl]; #} __ [-cons] $recurrent,modern glide fortition 
 
-[-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] (-syl)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
+[-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] (-syl)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
 
 [-lo, +syl, -stres] > ∅ / [+prim] (-prim)* [+cons] __ [+cons] @ $syncope late, after primary stress. This rule is meant to trigger between two consonants in a non-final syllable that occurs after the primary stress.
 
@@ -433,7 +433,7 @@ $[+cons,-cont,+voi] > [+cont] $spirantization. TODO check later in second runthr
 
 [+hi,-back,+delrel] > [-strid,-delrel] $spirantization. TODO check later in second runthrough -- currently bled. 
 
-e > ∅ / [+syl] {[+ant,+delrel];ɾ;[+cons,+cor]} __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant". CM @Aug30:  Although his documentation says "delayed-release", the actual behavior of this rule deletes -e after ɾ, ð, l -- as well as dz, ts -- so coronal sonorants, tap ɾ, and alveolar affricates, it seems. Previous form [+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # 
+e > ∅ / [+syl] {[+cor,+ant,-cont];ɾ;[+lat,+ant];[+nas,+cor,+ant];[+strid,-front]} __ # $ apocope,"Delete final /e/ after an intervocalic,coronal,and delayed-release (whether obstruent,nasal,lateral,flap) consonant". CM @Aug30:  Although his documentation says "delayed-release", the actual behavior of this rule deletes -e after ɾ, ð, l -- as well as dz, ts -- so coronal sonorants, tap ɾ, and alveolar affricates, it seems. Previous form [+syl,-lo,-hi] > ∅ / [+syl] [+cons,+cor,+delrel] __ # 
 
 [-hi,-stres] [+hi,+stres] > [+stres] [-stres] $ restress
 
