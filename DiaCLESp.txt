@@ -4,7 +4,7 @@ h > ∅ $ h_deletion
 
 [+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
 
-[+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depilatalization
+[+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
 
 [+syl,-long] > [+syl,+long] / __ [+nas] {[+cont,-son];[-son] [-son]} $prenasal lengthening
 
@@ -28,7 +28,10 @@ h > ∅ $ h_deletion
 
 [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation 10/04 moved after implosion, which matches the online version of phono, but not the offline one.
 
-ð > d̪ / l __ $ recurrent rule,stopping
+ð > d̪ / l __ $ recurrent rule, stopping. TODO isn't this pointless here? We have no ð yet... and never will, actually? 
+
+~Popular Latin 
+$dummy gold stage to test DiaSim stage handling in lex header.
 
 [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
 
@@ -301,7 +304,11 @@ $Spanish loses stress sometime after here
 
 [+lat] > ʎ / [-son] __ $lambdacism
 
+~Old Spanish
+
 v > b $ "betacism" TODO - Move back?
+
+[+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
 
 f > ɸ / __ {[+syl];[+son,+front,-syl]}
 
@@ -483,6 +490,8 @@ $[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress -- CM(@Aug31) -- was t
 [+strid] > [-voi] $ unvoice,the great sibilant merger
 
 [-son,+cor,+ant] > [+strid,+cont,-distr] / __ [-son] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.) (However ,this had to be changed from the default direct translation of his features use dodesnțt capture hat, apparently, ʃ is not targeted by "+obstr +cor". Also bizarre that he had +delrel... anyhow.) TODO look at this again. TODO also -- it apparently effects /t/ as well? That is probably not intended but is it too generous to attribute removal of this to Hartmann? 
+
+=Middle Spanish
 
 ʃ > x $ palatal velarization
 
