@@ -1,6 +1,7 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1112:
 #ˌeksˈemplum# >>> *#exˈemt͡ʃo# ( GOLD : #exˈemplo#) :
 ˌe k s ˈe m p l u m 
+Popular Latin stage form : *#ˌeksˈemplum#
 *#ˌeksˈemplu# | 30 : [+nas] > ∅ / [-stres] __ #
 *#ˌexsˈemplu# | 36 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
 *#ˌɛxsˈɛmplu# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -10,10 +11,12 @@ Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1112:
 *#ˌejsˈɛemplo# | 118 : ∅ > e / [-tense,+prim] __ 
 *#ˌejsjˈemplo# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
 *#ˌejsjˈempʎo# | 126 : [+lat] > ʎ / [-son] __ 
-*#ˌejsjˈemt͡ʃo# | 139 : [-voi] [+lat] > t͡ʃ/ @ __ 
-*#ˌejʃjˈemt͡ʃo# | 168 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-*#ˌejʃˈemt͡ʃo# | 181 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#ˌeʃˈemt͡ʃo# | 183 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-*#ˌexˈemt͡ʃo# | 223 : ʃ > x 
-*#exˈemt͡ʃo# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Old Spanish stage form : *#ˌejsjˈempʎo#
+*#ˌejsjˈemt͡ʃo# | 140 : [-voi] [+lat] > t͡ʃ/ @ __ 
+*#ˌejʃjˈemt͡ʃo# | 169 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#ˌejʃˈemt͡ʃo# | 182 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ˌeʃˈemt͡ʃo# | 184 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Middle Spanish stage form : *#ˌeʃˈemt͡ʃo#
+*#ˌexˈemt͡ʃo# | 224 : ʃ > x 
+*#exˈemt͡ʃo# | 228 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#exˈemt͡ʃo#
