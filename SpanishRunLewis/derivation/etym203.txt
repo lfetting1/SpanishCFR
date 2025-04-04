@@ -1,7 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :203:
-#prˌoːfˈekt̪um# >>> ... ( GOLD : #pɾobˈet͡ʃo#) :
-p r ˌoː f ˈe k t̪ u m 
-Popular Latin stage form : *#prˌoːfˈekt̪um#
-Popular Latin stage form : *#prˌoːfˈekt̪um#
-Middle Spanish stage form : ...
-Final form : ...
+#hˌord̪ˈeolum# >>> *#uɾxwˈelo# ( GOLD : #oɾθwˈelo#) :
+h ˌo r d̪ ˈe o l u m 
+*#ˌord̪ˈeolum# | 0 : h > ∅ 
+Popular Latin stage form : *#ˌord̪ˈeolum#
+*#ˌord̪ˈeolu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#ˌord̪eˈolu# | 42 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#ˌord̪jˈolu# | 46 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#ˌɔrd̪jˈɔlu# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌord̪jˈɔlu# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌord̪jˈɔlo# | 50 : [+syl,-long] > [-hi] 
+*#ˌoɾd̪jˈɔlo# | 53 : r > ɾ 
+*#ˌoɾd͡ʒjˈɔlo# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#ˌoɾd͡ʒˈɔlo# | 71 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ˌoɾʝˈɔlo# | 98 : d͡ʒ > ʝ 
+*#ˌuɾʝˈɔlo# | 113 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+*#ˌuɾʝˈɔelo# | 118 : ∅ > e / [-tense,+prim] __ 
+*#ˌuɾʝwˈelo# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#ˌuɾʝwˈelo#
+*#ˌuɾʒwˈelo# | 139 : ʝ > ʒ / [-syl] __ [+round]
+*#ˌuɾʃwˈelo# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ˌuɾʃwˈelo#
+*#ˌuɾxwˈelo# | 224 : ʃ > x 
+*#uɾxwˈelo# | 228 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#uɾxwˈelo#
