@@ -109,8 +109,8 @@ d͡ʒ > ʝ | ORIG : d͡ʒ > ʝ
 [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]| ORIG : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] 
 [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]| ORIG : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons] 
 [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]| ORIG : [+front,+tense,+syl,-lo] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+hi,+front,-nas,-lat] [+syl,+back] 
-[+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]| ORIG : [+syl,+round,+tense] > [+hi] /  __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back,-nas,-lat]  [+syl]
-[+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]| ORIG : [+syl,+round,+tense] > [+hi] /  __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back,-nas,-lat]  [-son]
+[+syl,+round,+tense,+prim] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]| ORIG : [+syl,+round,+tense,+prim] > [+hi] /  __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back,-nas,-lat]  [+syl]
+[+syl,+round,+tense,+prim] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]| ORIG : [+syl,+round,+tense,+prim] > [+hi] /  __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back,-nas,-lat]  [-son]
 [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]| ORIG : [+syl,-tense] > [+tense] / __ (@) (@) [+hi,+front] 
 [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [-cons,-syl]| ORIG : [+syl,-tense] > [+tense] / __ (@) (@) [-cons,-syl] 
 [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ | ORIG : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
