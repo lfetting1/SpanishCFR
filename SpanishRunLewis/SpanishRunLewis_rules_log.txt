@@ -124,7 +124,7 @@ d͡ʒ > ʝ | ORIG : d͡ʒ > ʝ
 ʝ > ∅ / [+syl,+front] __ [+syl]| ORIG : ʝ > ∅ / [+syl,+front] __ [+syl] 
 [+hi,-stres,+syl] > [-syl,0stres,0prim] / __ [+syl]| ORIG : [+hi,-stres,+syl] > [-syl] / __ [+syl] 
 [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ | ORIG : [+hi,-stres,+syl] > [-syl] / [+syl] __ 
-[+lat] > ʎ / [-son] __ | ORIG : [+lat] > ʎ / [-son] __ 
+[+lat] > ʎ / [-son] __ [-round]| ORIG : [+lat] > ʎ / [-son] __ [-round] 
 v > b | ORIG : v > b 
 [+lab,+cont,-voi] > h / __ [-cons]| ORIG : [+lab,+cont,-voi] > h / __ [-cons] 
 f > ɸ / __ [+syl]| ORIG : f > ɸ /  __  [+syl]
@@ -154,6 +154,7 @@ h > ∅ | ORIG : h > ∅
 [-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] ( [-syl] )* [+prim] @| ORIG : [-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] (-syl)* [+prim] @ 
 [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @| ORIG : [-lo, +syl, -stres] > ∅ / [+prim] (-prim)* [+cons] __ [+cons] @ 
 [-son] > [-voi] / [-voi] __ | ORIG : [-son] > [-voi] / [-voi] __ 
+m > n̪ / __ d̪| ORIG : m > n̪ / __ d̪ 
 {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} | ORIG : {ɑ w;ɑ j;ˌɑ w; ˌɑ j; ˈɑ w; ˈɑ j} > {o w; e j; ˌo w; ˌe j; ˈo w; ˈe j} 
 [+cons,+lab] > w / __ [+back,+cons]| ORIG : [+cons,+lab] > w / __ [+back,+cons] 
 ∅ > o̯ / [+syl] __ [+ant] w [+back]| ORIG : ∅ > o̯ / [+syl] __ [+ant] w  [+back]
