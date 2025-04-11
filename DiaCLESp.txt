@@ -1,10 +1,10 @@
-h > ∅ $ h_deletion 
+h > ∅ $ h_deletion
 
 [-cont] > [-sg] $ diaspiration
 
-[+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
+$[+lat, +front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization Commented out because there are not any palatal laterals at this point in the cascade. Consider relocdating?
 
-[+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization
+$[+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depalatalization Commented out because there are not any palatal laterals at this point in the cascade. Consider relocdating?
 
 [+syl,-long] > [+syl,+long] / __ [+nas] {[+cont,-son];[-son] [-son]} $prenasal lengthening
 
