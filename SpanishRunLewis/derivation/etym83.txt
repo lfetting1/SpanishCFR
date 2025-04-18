@@ -1,16 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :83:
-#bˌelˈen̪ion̪# >>> *#be̩lˈin̪i̯o# ( GOLD : #belˈeɲo#) :
-b ˌe l ˈe n̪ i o n̪ 
-*#bˌelˈen̪io# | 33 : [+nas] > ∅ / [-stres] __ #
-*#bˌelˈen̪i̯o# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#bˌelˈɛn̪i̯o# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#βˌelˈɛn̪i̯o# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-*#vˌelˈɛn̪i̯o# | 113 : β > v 
-*#vˌilˈɛn̪i̯o# | 116 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-*#vˌilˈen̪i̯o# | 119 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front,-syl]
-*#βˌilˈen̪i̯o# | 133 : {v;f} > {β;ɸ} 
-*#βˌilˈin̪i̯o# | 190 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-*#βˌelˈin̪i̯o# | 192 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-*#bˌelˈin̪i̯o# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#be̩lˈin̪i̯o# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#be̩lˈin̪i̯o#
+#d̪ˌiːkˈiːre# >>> *#d̪eθˈiɾ# ( GOLD : #d̪eθˈiɾ#) :
+d̪ ˌiː k ˈiː r e 
+*#d̪ˌikˈire# | 52 : [+syl] > [-long,-splng] 
+*#d̪ˌikˈiɾe# | 53 : r > ɾ 
+*#d̪ˌikjˈiɾe# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#d̪ˌit͡ʃjˈiɾe# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#d̪ˌit͡ʃˈiɾe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ðˌit͡ʃˈiɾe# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+*#ðˌid͡ʒˈiɾe# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ðˌid͡zˈiɾe# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#ðˌid͡zˈiɾ# | 187 : e > ∅ / [+syl] ɾ __ #
+*#ðˌed͡zˈiɾ# | 192 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+*#ðˌez̪ˈiɾ# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ðˌes̪ˈiɾ# | 212 : [+strid] > [-voi] 
+*#ðˌeθˈiɾ# | 215 : s̪ > θ / __ [-cons]
+*#d̪ˌeθˈiɾ# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+*#d̪eθˈiɾ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#d̪eθˈiɾ#

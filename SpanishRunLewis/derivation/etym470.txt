@@ -1,23 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :470:
-#u̯ˌin̪d̪ikˈaːre̩# >>> *#ɡʷe̩n̪θˈaɾe̩# ( GOLD : #be̩nɡˈaɾ#) :
-w ˌi n̪ d̪ i k ˈaː r e 
-*#u̯ˌen̪d̪e̩kˈaːre̩# | 51 : [+syl,-long] > [-hi] 
-*#u̯ˌen̪d̪e̩kˈare̩# | 52 : [+syl] > [-long,-splng] 
-*#u̯ˌen̪d̪e̩kˈaɾe̩# | 53 : r > ɾ 
-*#u̯ˌen̪d̪e̩kjˈaɾe̩# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#u̯ˌen̪d̪e̩t͡ʃjˈaɾe̩# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#u̯ˌen̪d̪e̩t͡ʃˈaɾe̩# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#u̯ˌen̪ðe̩t͡ʃˈaɾe̩# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-*#u̯ˌen̪ðe̩d͡ʒˈaɾe̩# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#u̯ˌen̪ðe̩d͡zˈaɾe̩# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#ɣʷˌen̪ðe̩d͡zˈaɾe̩# | 131 : [-cons,-syl,+hi] > [+cons,-son,0tense] / # __ [+syl]
-*#ɣʷˌen̪d̪e̩d͡zˈaɾe̩# | 135 : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ 
-*#ɣʷˌen̪d̪d͡zˈaɾe̩# | 147 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#ɣʷˌen̪ðd͡zˈaɾe̩# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#ɣʷˌen̪d͡zˈaɾe̩# | 193 : [-son] > ∅ / __ [+delrel]
-*#ɣʷˌen̪z̪ˈaɾe̩# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#ɣʷˌen̪s̪ˈaɾe̩# | 212 : [+strid] > [-voi] 
-*#ɣʷˌen̪θˈaɾe̩# | 215 : s̪ > θ / __ [-cons]
-*#ɡʷˌen̪θˈaɾe̩# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#ɡʷe̩n̪θˈaɾe̩# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ɡʷe̩n̪θˈaɾe̩#
+#lˈɑkrimɑm# >>> *#lˈeɾmɑ# ( GOLD : #lˈɑɡɾimɑ#) :
+l ˈɑ k r i m ɑ m 
+*#lˈɑkrmɑm# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+son,+cons,-nas] __ [+cons,-back] ( [-syl] )* [+syl]
+*#lˈɑkrmɑ# | 33 : [+nas] > ∅ / [-stres] __ #
+*#lˈɑxrmɑ# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#lˈɑxɾmɑ# | 53 : r > ɾ 
+*#lˈɑjɾmɑ# | 62 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#lˈejɾmɑ# | 151 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+*#lˈeːɾmɑ# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#lˈeɾmɑ# | 167 : [+syl] > [-long,-splng] 
+Final form : *#lˈeɾmɑ#

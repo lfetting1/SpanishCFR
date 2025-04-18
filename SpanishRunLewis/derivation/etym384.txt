@@ -1,10 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :384:
-#ku̯ae̯reːre̩# >>> *#ku̯e̩ɾe̩ɾe̩# ( GOLD : #ke̩ɾe̩ɾ#) :
-k w a e̯ r eː r e 
-*#ku̯ɑi̯reːre̩# | 0 : [-hi] e̯ > [+back,-front] j
-*#ku̯ɑi̯re̩re̩# | 52 : [+syl] > [-long,-splng] 
-*#ku̯ɑi̯ɾe̩ɾe̩# | 53 : r > ɾ 
-*#ku̯e̩i̯ɾe̩ɾe̩# | 151 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-*#ku̯eːɾe̩ɾe̩# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#ku̯e̩ɾe̩ɾe̩# | 167 : [+syl] > [-long,-splng] 
-Final form : *#ku̯e̩ɾe̩ɾe̩#
+#kˌorrˈiɡiɑm# >>> *#korˈiɑ# ( GOLD : #korˈeɑ#) :
+k ˌo r r ˈi ɡ i ɑ m 
+*#kˌorrˈiɡiɑ# | 33 : [+nas] > ∅ / [-stres] __ #
+*#kˌorrˈiiɑ# | 46 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+*#kˌorrˈijɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#kˌorrˈejɑ# | 51 : [+syl,-long] > [-hi] 
+*#kˌoɾɾˈejɑ# | 53 : r > ɾ 
+*#kˌorˈejɑ# | 54 : ɾ ɾ > r 
+*#kˌorˈijɑ# | 61 : ˈe > ˈi / __ j
+*#kˌorˈiɑ# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+*#kˌurˈiɑ# | 117 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+*#kˌorˈiɑ# | 192 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+*#korˈiɑ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#korˈiɑ#

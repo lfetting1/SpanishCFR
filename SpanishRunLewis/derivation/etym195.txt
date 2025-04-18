@@ -1,12 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :195:
-#d̪ˌist̪aliˈaːre̩# >>> *#d̪e̩st̪ale̩ˈaɾe̩# ( GOLD : #de̩staxaɾ#) :
-d̪ ˌi s t̪ a l i ˈaː r e 
-*#d̪ˌis̪t̪aliˈaːre̩# | 23 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#d̪ˌes̪t̪ale̩ˈaːre̩# | 51 : [+syl,-long] > [-hi] 
-*#d̪ˌes̪t̪ale̩ˈare̩# | 52 : [+syl] > [-long,-splng] 
-*#d̪ˌes̪t̪ale̩ˈaɾe̩# | 53 : r > ɾ 
-*#ðˌes̪t̪ale̩ˈaɾe̩# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-*#ðˌest̪ale̩ˈaɾe̩# | 213 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-*#d̪ˌest̪ale̩ˈaɾe̩# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#d̪e̩st̪ale̩ˈaɾe̩# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#d̪e̩st̪ale̩ˈaɾe̩#
+#hˈospit̪em# >>> *#ɡʷˈesped̪# ( GOLD : #wˈesped̪#) :
+h ˈo s p i t̪ e m 
+*#ˈospit̪em# | 1 : h > ∅ 
+*#ˈospit̪e# | 33 : [+nas] > ∅ / [-stres] __ #
+*#ˈɔspit̪e# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔspet̪e# | 51 : [+syl,-long] > [-hi] 
+*#ˈɔsped̪e# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ˈɔesped̪e# | 122 : ∅ > e / [-tense,+prim] __ 
+*#wˈesped̪e# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#ɣʷˈesped̪e# | 131 : [-cons,-syl,+hi] > [+cons,-son,0tense] / # __ [+syl]
+*#ɣʷˈespeðe# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+*#ɣʷˈespeð# | 188 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+*#ɡʷˈesped̪# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : *#ɡʷˈesped̪#

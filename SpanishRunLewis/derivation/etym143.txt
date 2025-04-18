@@ -1,12 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :143:
-#cˌoɡnˈaːt̪u# >>> *#coi̯nˈad̪o# ( GOLD : #kuɲado#) :
-c ˌo ɡ n ˈaː t̪ u 
-*#cˌoɣnˈaːt̪u# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#cˌoɣnˈaːt̪o# | 51 : [+syl,-long] > [-hi] 
-*#cˌoɣnˈat̪o# | 52 : [+syl] > [-long,-splng] 
-*#cˌoi̯nˈat̪o# | 62 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-*#cˌoi̯nˈad̪o# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#cˌoi̯nˈaðo# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#cˌoi̯nˈad̪o# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#coi̯nˈad̪o# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#coi̯nˈad̪o#
+#fˌɑkˈen̪d̪ɑ# >>> *#ɑθjˈen̪d̪ɑ# ( GOLD : #ɑθjˈen̪d̪ɑ#) :
+f ˌɑ k ˈe n̪ d̪ ɑ 
+*#fˌɑkˈɛn̪d̪ɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌɑkjˈɛn̪d̪ɑ# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#fˌɑt͡ʃjˈɛn̪d̪ɑ# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#fˌɑt͡ʃˈɛn̪d̪ɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#fˌɑt͡ʃˈɛn̪ðɑ# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+*#fˌɑd͡ʒˈɛn̪ðɑ# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+*#fˌɑd͡zˈɛn̪ðɑ# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#fˌɑd͡zˈɛen̪ðɑ# | 122 : ∅ > e / [-tense,+prim] __ 
+*#fˌɑd͡zjˈen̪ðɑ# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#ɸˌɑd͡zjˈen̪ðɑ# | 133 : {v;f} > {β;ɸ} 
+*#ɸˌɑd͡zjˈen̪d̪ɑ# | 135 : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ 
+*#ɸˌɑd͡zjˈen̪ðɑ# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+*#hˌɑd͡zjˈen̪ðɑ# | 198 : ɸ > h / __ [+syl]
+*#ˌɑd͡zjˈen̪ðɑ# | 200 : h > ∅ 
+*#ˌɑz̪jˈen̪ðɑ# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ˌɑs̪jˈen̪ðɑ# | 212 : [+strid] > [-voi] 
+*#ˌɑθjˈen̪ðɑ# | 215 : s̪ > θ / __ [-cons]
+*#ˌɑθjˈen̪d̪ɑ# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+*#ɑθjˈen̪d̪ɑ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑθjˈen̪d̪ɑ#

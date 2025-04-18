@@ -1,17 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :212:
-#fˈalke̩# >>> *#ˈoθe̩# ( GOLD : #oθ#) :
-f ˈa l k e 
-*#fˈalkje̩# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#fˈalt͡ʃje̩# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#fˈalt͡ʃe̩# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#fˈau̯t͡ʃe̩# | 107 : [+lat] > w / [+lo] __ [-son]
-*#fˈau̯t͡se̩# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#ɸˈau̯t͡se̩# | 133 : {v;f} > {β;ɸ} 
-*#ɸˈou̯t͡se̩# | 151 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-*#ɸˈoːt͡se̩# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#ɸˈot͡se̩# | 167 : [+syl] > [-long,-splng] 
-*#hˈot͡se̩# | 198 : ɸ > h / __ [+syl]
-*#ˈot͡se̩# | 200 : h > ∅ 
-*#ˈos̪e̩# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#ˈoθe̩# | 215 : s̪ > θ / __ [-cons]
-Final form : *#ˈoθe̩#
+#jˈuːd̪ikem# >>> *#xwˈiθ# ( GOLD : #xwˈeθ#) :
+j ˈuː d̪ i k e m 
+*#jˈuːd̪ike# | 33 : [+nas] > ∅ / [-stres] __ #
+*#jˈuːd̪eke# | 51 : [+syl,-long] > [-hi] 
+*#jˈud̪eke# | 52 : [+syl] > [-long,-splng] 
+*#jˈud̪ekje# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#jˈud̪et͡ʃje# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#jˈud̪et͡ʃe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#jˈuðet͡ʃe# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+*#jˈuet͡ʃe# | 102 : [-son,+voi,-front,-lab,-strid] > ∅ / [-cons] __ [+syl,-round]
+*#jˈued͡ʒe# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+*#jˈued͡ze# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#jˈujd͡ze# | 112 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+*#ʝˈujd͡ze# | 131 : [-cons,-syl,+hi] > [+cons,-son,0tense] / # __ [+syl]
+*#ʒˈujd͡ze# | 137 : ʝ > ʒ / # __ [+round]
+*#ʒwˈid͡ze# | 183 : {ˈo j;ˈi w;ˈu j;o j;i w;u j;ˌo j;ˌi w;ˌu j} > {w ˈe;j ˈu;w ˈi;w e;j u;w i;ˌo j;ˌi w;ˌu j} 
+*#ʒwˈid͡z# | 186 : e > ∅ / [+syl] [+ant,+delrel] __ #
+*#ʒwˈiz̪# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ʃwˈis̪# | 212 : [+strid] > [-voi] 
+*#xwˈis̪# | 214 : ʃ > x 
+*#xwˈiθ# | 216 : s̪ > θ / __ #
+Final form : *#xwˈiθ#

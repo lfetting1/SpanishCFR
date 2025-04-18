@@ -1,19 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :256:
-#hˌamikˈeolu# >>> *#an̪ɡi̯u̯ˈelo# ( GOLD : #anθu̯ˈelo#) :
-h ˌa m i k ˈe o l u 
-*#ˌamikˈeolu# | 1 : h > ∅ 
-*#ˌamike̩ˈolu# | 45 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#ˌamiki̯ˈolu# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#ˌamiki̯ˈɔlu# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌame̩ki̯ˈɔlo# | 51 : [+syl,-long] > [-hi] 
-*#ˌame̩ɡi̯ˈɔlo# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#ˌamiɡi̯ˈɔlo# | 116 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-*#ˌamiɡi̯ˈɔelo# | 122 : ∅ > e / [-tense,+prim] __ 
-*#ˌamiɡi̯u̯ˈelo# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#ˌamɡi̯u̯ˈelo# | 147 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#ˌaŋɡi̯u̯ˈelo# | 149 : [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Around] / __ [+cons,-nas,-delrel,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Around]
-*#ˌaŋɣi̯u̯ˈelo# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#ˌaŋɡi̯u̯ˈelo# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#ˌan̪ɡi̯u̯ˈelo# | 224 : ŋ > n̪ 
-*#an̪ɡi̯u̯ˈelo# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#an̪ɡi̯u̯ˈelo#
+#kwˌiˈeːt̪um# >>> *#kˈed̪o# ( GOLD : #kˈed̪o#) :
+k w ˌi ˈeː t̪ u m 
+*#kʷˌiˈeːt̪um# | 20 : [-cont,+back,-round] w > [+lab,+round] ∅
+*#kʷˌiˈeːt̪u# | 33 : [+nas] > ∅ / [-stres] __ #
+*#kʷˌeˈeːt̪o# | 51 : [+syl,-long] > [-hi] 
+*#kʷˌeˈet̪o# | 52 : [+syl] > [-long,-splng] 
+*#kʷˈet̪o# | 67 : [-cons,-lo,-prim,αround] > ∅ / __ [-lo,+syl,αround]
+*#kˈet̪o# | 81 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
+*#kˈed̪o# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+*#kˈeðo# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+*#kˈed̪o# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : *#kˈed̪o#

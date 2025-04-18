@@ -1,9 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :300:
-#mˈaɡiku# >>> *#mˈae̩ɡo# ( GOLD : #me̩ɡo#) :
-m ˈa ɡ i k u 
-*#mˈaiku# | 46 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-*#mˈae̩ko# | 51 : [+syl,-long] > [-hi] 
-*#mˈae̩ɡo# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#mˈae̩ɣo# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#mˈae̩ɡo# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : *#mˈae̩ɡo#
+#kˈoːɡit̪ɑt̪# >>> *#kˈuʝd̪ɑ# ( GOLD : #kwˈid̪ɑ#) :
+k ˈoː ɡ i t̪ ɑ t̪ 
+*#kˈoːɡit̪ɑ# | 35 : [+cons,-cont] > ∅ / __ #
+*#kˈoːɡet̪ɑ# | 51 : [+syl,-long] > [-hi] 
+*#kˈoɡet̪ɑ# | 52 : [+syl] > [-long,-splng] 
+*#kˈoɡjet̪ɑ# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#kˈod͡ʒjet̪ɑ# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#kˈod͡ʒet̪ɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#kˈoʝet̪ɑ# | 101 : d͡ʒ > ʝ 
+*#kˈoʝed̪ɑ# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+*#kˈuʝed̪ɑ# | 117 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+*#kˈuʝid̪ɑ# | 121 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+*#kˈuʝd̪ɑ# | 148 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+*#kˈuʝðɑ# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+*#kˈuʝd̪ɑ# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : *#kˈuʝd̪ɑ#

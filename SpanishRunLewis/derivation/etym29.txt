@@ -1,17 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :29:
-#ˌamarikˈaːre# >>> *#amaɾθˈaɾe̩# ( GOLD : #aɾmaɡˈaɾ#) :
-ˌa m a r i k ˈaː r e 
-*#ˌamare̩kˈaːre̩# | 51 : [+syl,-long] > [-hi] 
-*#ˌamare̩kˈare̩# | 52 : [+syl] > [-long,-splng] 
-*#ˌamaɾe̩kˈaɾe̩# | 53 : r > ɾ 
-*#ˌamaɾe̩kjˈaɾe̩# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#ˌamaɾe̩t͡ʃjˈaɾe̩# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#ˌamaɾe̩t͡ʃˈaɾe̩# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#ˌamaɾe̩d͡ʒˈaɾe̩# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#ˌamaɾe̩d͡zˈaɾe̩# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#ˌamaɾd͡zˈaɾe̩# | 147 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#ˌamaɾz̪ˈaɾe̩# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#ˌamaɾs̪ˈaɾe̩# | 212 : [+strid] > [-voi] 
-*#ˌamaɾθˈaɾe̩# | 215 : s̪ > θ / __ [-cons]
-*#amaɾθˈaɾe̩# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#amaɾθˈaɾe̩#
+#bˌɑːsiˈɑːre# >>> *#besˈɑɾ# ( GOLD : #besˈɑɾ#) :
+b ˌɑː s i ˈɑː r e 
+*#bˌɑːsjˈɑːre# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#bˌɑsjˈɑre# | 52 : [+syl] > [-long,-splng] 
+*#bˌɑsjˈɑɾe# | 53 : r > ɾ 
+*#bˌɑe̯sjˈɑɾe# | 92 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+*#bˌɑjsˈɑɾe# | 98 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#βˌɑjsˈɑɾe# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+*#βˌɑjzˈɑɾe# | 105 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+*#vˌɑjzˈɑɾe# | 113 : β > v 
+*#βˌɑjzˈɑɾe# | 133 : {v;f} > {β;ɸ} 
+*#βˌejzˈɑɾe# | 151 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+*#βˌeːzˈɑɾe# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#βˌezˈɑɾe# | 167 : [+syl] > [-long,-splng] 
+*#βˌezˈɑɾ# | 187 : e > ∅ / [+syl] ɾ __ #
+*#βˌesˈɑɾ# | 212 : [+strid] > [-voi] 
+*#bˌesˈɑɾ# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+*#besˈɑɾ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#besˈɑɾ#

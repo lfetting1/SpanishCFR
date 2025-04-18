@@ -1,21 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :123:
-#kˌast̪ˈellu# >>> *#θast̪ˈiʝo# ( GOLD : #kast̪ˈiʝo#) :
-k ˌa s t̪ ˈe l l u 
-*#kˌas̪t̪ˈellu# | 23 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#kˌas̪t̪ˈɛllu# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌas̪t̪ˈɛllo# | 51 : [+syl,-long] > [-hi] 
-*#kjˌas̪t̪ˈɛllo# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#t͡ʃjˌas̪t̪ˈɛllo# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#t͡ʃˌas̪t̪ˈɛllo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#t͡sˌas̪t̪ˈɛllo# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#t͡sˌas̪t̪ˈɛello# | 122 : ∅ > e / [-tense,+prim] __ 
-*#t͡sˌas̪t̪i̯ˈello# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#t͡sˌas̪t̪i̯ˈeʎo# | 144 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-*#t͡sˌas̪t̪i̯ˈiʎo# | 201 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-*#t͡sˌas̪t̪ˈiʎo# | 206 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-*#s̪ˌas̪t̪ˈiʎo# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#s̪ˌast̪ˈiʎo# | 213 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-*#θˌast̪ˈiʎo# | 215 : s̪ > θ / __ [-cons]
-*#θast̪ˈiʎo# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-*#θast̪ˈiʝo# | 227 : ʎ > ʝ 
-Final form : *#θast̪ˈiʝo#
+#fˈoliɑ# >>> *#ˈoxɑ# ( GOLD : #ˈoxɑ#) :
+f ˈo l i ɑ 
+*#fˈoljɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#fˈɔljɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈɔʎjɑ# | 66 : [+lat] > ʎ / __ j
+*#fˈɔʎɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#fˈoʎɑ# | 119 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front,-syl]
+*#ɸˈoʎɑ# | 133 : {v;f} > {β;ɸ} 
+*#ɸˈod͡ʒɑ# | 134 : ʎ > d͡ʒ 
+*#ɸˈoʒɑ# | 136 : d͡ʒ > ʒ 
+*#hˈoʒɑ# | 198 : ɸ > h / __ [+syl]
+*#ˈoʒɑ# | 200 : h > ∅ 
+*#ˈoʃɑ# | 212 : [+strid] > [-voi] 
+*#ˈoxɑ# | 214 : ʃ > x 
+Final form : *#ˈoxɑ#

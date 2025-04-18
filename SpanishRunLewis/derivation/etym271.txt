@@ -1,13 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :271:
-#ˌin̪t̪ˈeɡru# >>> *#e̩n̪t̪ˈeɾo# ( GOLD : #e̩nt̪ˈeɾo#) :
-ˌi n̪ t̪ ˈe ɡ r u 
-*#ˌin̪t̪ˈeɣru# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#ˌin̪t̪ˈɛɣru# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌen̪t̪ˈɛɣro# | 51 : [+syl,-long] > [-hi] 
-*#ˌen̪t̪ˈɛɣɾo# | 53 : r > ɾ 
-*#ˌen̪t̪ˈɛi̯ɾo# | 62 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-*#ˌen̪t̪ˈei̯ɾo# | 119 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front,-syl]
-*#ˌen̪t̪ˈeːɾo# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#ˌen̪t̪ˈeɾo# | 167 : [+syl] > [-long,-splng] 
-*#e̩n̪t̪ˈeɾo# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#e̩n̪t̪ˈeɾo#
+#kˈibum# >>> *#θˈebo# ( GOLD : #θˈebo#) :
+k ˈi b u m 
+*#kˈibu# | 33 : [+nas] > ∅ / [-stres] __ #
+*#kˈebo# | 51 : [+syl,-long] > [-hi] 
+*#kjˈebo# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t͡ʃjˈebo# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#t͡ʃˈebo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#t͡ʃˈeβo# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
+*#t͡sˈeβo# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#t͡sˈevo# | 113 : β > v 
+*#t͡sˈeβo# | 133 : {v;f} > {β;ɸ} 
+*#s̪ˈeβo# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#θˈeβo# | 215 : s̪ > θ / __ [-cons]
+*#θˈebo# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : *#θˈebo#

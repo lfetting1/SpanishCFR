@@ -1,13 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :352:
-#pˈerd̪it̪a# >>> *#pi̯ˈeɾd̪e̩d̪a# ( GOLD : #pi̯ˈeɾd̪a#) :
-p ˈe r d̪ i t̪ a 
-*#pˈɛrd̪it̪a# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛrd̪e̩t̪a# | 51 : [+syl,-long] > [-hi] 
-*#pˈɛɾd̪e̩t̪a# | 53 : r > ɾ 
-*#pˈɛɾðe̩t̪a# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-*#pˈɛɾðe̩d̪a# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#pˈɛeɾðe̩d̪a# | 122 : ∅ > e / [-tense,+prim] __ 
-*#pi̯ˈeɾðe̩d̪a# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#pi̯ˈeɾðe̩ða# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#pi̯ˈeɾd̪e̩d̪a# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : *#pi̯ˈeɾd̪e̩d̪a#
+#kˌeːrˈeolum# >>> *#θiɾwˈelo# ( GOLD : #θiɾwˈelo#) :
+k ˌeː r ˈe o l u m 
+*#kˌeːrˈeolu# | 33 : [+nas] > ∅ / [-stres] __ #
+*#kˌeːreˈolu# | 45 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#kˌeːrjˈolu# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#kˌeːrjˈɔlu# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌeːrjˈɔlo# | 51 : [+syl,-long] > [-hi] 
+*#kˌerjˈɔlo# | 52 : [+syl] > [-long,-splng] 
+*#kˌeɾjˈɔlo# | 53 : r > ɾ 
+*#kjˌeɾjˈɔlo# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t͡ʃjˌeɾjˈɔlo# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#t͡ʃˌeɾjˈɔlo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#t͡ʃˌee̯ɾjˈɔlo# | 96 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+*#t͡ʃˌejɾˈɔlo# | 98 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#t͡sˌejɾˈɔlo# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#t͡sˌejɾˈɔelo# | 122 : ∅ > e / [-tense,+prim] __ 
+*#t͡sˌejɾwˈelo# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#t͡sˌeːɾwˈelo# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#t͡sˌeɾwˈelo# | 167 : [+syl] > [-long,-splng] 
+*#t͡sˌiɾwˈelo# | 190 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+*#s̪ˌiɾwˈelo# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#θˌiɾwˈelo# | 215 : s̪ > θ / __ [-cons]
+*#θiɾwˈelo# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#θiɾwˈelo#

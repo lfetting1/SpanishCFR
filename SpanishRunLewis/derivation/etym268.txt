@@ -1,19 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :268:
-#ˌin̪ɡan̪n̪ˈaːre̩# >>> *#e̩n̪xaɲˈaɾe̩# ( GOLD : #e̩nɡaɲaɾ#) :
-ˌi n̪ ɡ a n̪ n̪ ˈaː r e 
-*#ˌiŋɡan̪n̪ˈaːre̩# | 15 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-*#ˌeŋɡan̪n̪ˈaːre̩# | 51 : [+syl,-long] > [-hi] 
-*#ˌeŋɡan̪n̪ˈare̩# | 52 : [+syl] > [-long,-splng] 
-*#ˌeŋɡan̪n̪ˈaɾe̩# | 53 : r > ɾ 
-*#ˌeŋɡjan̪n̪ˈaɾe̩# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#ˌeŋd͡ʒjan̪n̪ˈaɾe̩# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#ˌeŋd͡ʒan̪n̪ˈaɾe̩# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#ˌeŋʝan̪n̪ˈaɾe̩# | 101 : d͡ʒ > ʝ 
-*#ˌeŋɟan̪n̪ˈaɾe̩# | 135 : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ 
-*#ˌeŋʒan̪n̪ˈaɾe̩# | 139 : ɟ > ʒ 
-*#ˌeŋʒaɲˈaɾe̩# | 144 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-*#ˌeŋʃaɲˈaɾe̩# | 212 : [+strid] > [-voi] 
-*#ˌeŋxaɲˈaɾe̩# | 214 : ʃ > x 
-*#ˌen̪xaɲˈaɾe̩# | 224 : ŋ > n̪ 
-*#e̩n̪xaɲˈaɾe̩# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#e̩n̪xaɲˈaɾe̩#
+#kˈerwum# >>> *#θjˈeɾbo# ( GOLD : #θjˈeɾbo#) :
+k ˈe r w u m 
+*#kˈerɣʷum# | 21 : w > ɣʷ / __ [+syl]
+*#kˈerɣʷu# | 33 : [+nas] > ∅ / [-stres] __ #
+*#kˈerβu# | 38 : ɣʷ > β 
+*#kˈɛrβu# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɛrβo# | 51 : [+syl,-long] > [-hi] 
+*#kˈɛɾβo# | 53 : r > ɾ 
+*#kjˈɛɾβo# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t͡ʃjˈɛɾβo# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#t͡ʃˈɛɾβo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#t͡sˈɛɾβo# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#t͡sˈɛɾvo# | 113 : β > v 
+*#t͡sˈɛeɾvo# | 122 : ∅ > e / [-tense,+prim] __ 
+*#t͡sjˈeɾvo# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#t͡sjˈeɾβo# | 133 : {v;f} > {β;ɸ} 
+*#s̪jˈeɾβo# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#θjˈeɾβo# | 215 : s̪ > θ / __ [-cons]
+*#θjˈeɾbo# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+Final form : *#θjˈeɾbo#
