@@ -1,10 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :63:
-#d̪ˈuːrum# >>> *#d̪ˈuɾo# ( GOLD : #d̪ˈuɾo#) :
-d̪ ˈuː r u m 
-*#d̪ˈuːru# | 33 : [+nas] > ∅ / [-stres] __ #
-*#d̪ˈuːro# | 51 : [+syl,-long] > [-hi] 
-*#d̪ˈuro# | 52 : [+syl] > [-long,-splng] 
-*#d̪ˈuɾo# | 53 : r > ɾ 
-*#ðˈuɾo# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-*#d̪ˈuɾo# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : *#d̪ˈuɾo#
+#fˈoliɑ# >>> *#ˈoxɑ# ( GOLD : #ˈoxɑ#) :
+f ˈo l i ɑ 
+*#fˈoljɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#fˈɔljɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈɔʎjɑ# | 66 : [+lat] > ʎ / __ j
+*#fˈɔʎɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#fˈoʎɑ# | 119 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front,-syl]
+*#ɸˈoʎɑ# | 133 : {v;f} > {β;ɸ} 
+*#ɸˈod͡ʒɑ# | 134 : ʎ > d͡ʒ 
+*#ɸˈoʒɑ# | 136 : d͡ʒ > ʒ 
+*#hˈoʒɑ# | 198 : ɸ > h / __ [+syl]
+*#ˈoʒɑ# | 200 : h > ∅ 
+*#ˈoʃɑ# | 212 : [+strid] > [-voi] 
+*#ˈoxɑ# | 214 : ʃ > x 
+Final form : *#ˈoxɑ#

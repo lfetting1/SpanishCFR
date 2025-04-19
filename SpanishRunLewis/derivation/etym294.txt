@@ -1,10 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :294:
-#kˈorpum# >>> *#kwˈeɾpo# ( GOLD : #kwˈeɾpo#) :
-k ˈo r p u m 
-*#kˈorpu# | 33 : [+nas] > ∅ / [-stres] __ #
-*#kˈɔrpu# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˈɔrpo# | 51 : [+syl,-long] > [-hi] 
-*#kˈɔɾpo# | 53 : r > ɾ 
-*#kˈɔeɾpo# | 122 : ∅ > e / [-tense,+prim] __ 
-*#kwˈeɾpo# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-Final form : *#kwˈeɾpo#
+#rˌɑssikˈɑːre# >>> *#rɑskˈɑɾ# ( GOLD : #rɑskˈɑɾ#) :
+r ˌɑ s s i k ˈɑː r e 
+*#rˌɑssekˈɑːre# | 51 : [+syl,-long] > [-hi] 
+*#rˌɑssekˈɑre# | 52 : [+syl] > [-long,-splng] 
+*#ɾˌɑssekˈɑɾe# | 53 : r > ɾ 
+*#ɾˌɑsseɡˈɑɾe# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ɾˌɑseɡˈɑɾe# | 145 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#ɾˌɑsɡˈɑɾe# | 147 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
+*#ɾˌɑskˈɑɾe# | 150 : [-son] > [-voi] / [-voi] __ 
+*#ɾˌɑskˈɑɾ# | 187 : e > ∅ / [+syl] ɾ __ #
+*#rˌɑskˈɑɾ# | 222 : ɾ > r / # __ 
+*#rɑskˈɑɾ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#rɑskˈɑɾ#
