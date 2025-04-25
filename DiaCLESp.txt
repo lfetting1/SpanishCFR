@@ -150,7 +150,7 @@ $ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it be
 
 [-cons,-lo,-prim,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel" $(64) works on forms in our cascade, however all cases are ee/oo - no je/wo. according to rule spec that would work as well though.
 
-[-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
+[-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] $ total consonant assimilation $(65) $FIXED EC 4/25...used to miss bk, tts, dβ, and many others !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
 
 [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] $ total consonant assimilation $(66) currently no etyma effected but this part should work adequately.
 
