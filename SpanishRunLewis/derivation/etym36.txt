@@ -1,17 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :36:
-#d̪ˌeːspˈekt̪um# >>> *#d̪espˈet͡ʃo# ( GOLD : #d̪espˈet͡ʃo#) :
-d̪ ˌeː s p ˈe k t̪ u m 
-*#d̪ˌeːspˈekt̪u# | 33 : [+nas] > ∅ / [-stres] __ #
-*#d̪ˌeːspˈext̪u# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#d̪ˌeːspˈɛxt̪u# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#d̪ˌeːspˈɛxt̪o# | 51 : [+syl,-long] > [-hi] 
-*#d̪ˌespˈɛxt̪o# | 52 : [+syl] > [-long,-splng] 
-*#ðˌespˈɛxt̪o# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-*#ðˌespˈɛjt̪o# | 115 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-*#ðˌespˈejt̪o# | 119 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front,-syl]
-*#ðˌespˈejt͡ʃo# | 164 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-*#ðˌespˈeːt͡ʃo# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#ðˌespˈet͡ʃo# | 167 : [+syl] > [-long,-splng] 
-*#d̪ˌespˈet͡ʃo# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#d̪espˈet͡ʃo# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#d̪espˈet͡ʃo#
+#d̪eˈorsum# >>> *#xwˈeso# ( GOLD : #ʝˈuso#) :
+d̪ e ˈo r s u m 
+Popular Latin stage form : *#d̪eˈorsum#
+*#d̪eˈorsu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#d̪eˈossu# | 35 : r > s / __ s
+*#d̪jˈossu# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#d̪jˈɔssu# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪jˈɔsso# | 48 : [+syl,-long] > [-hi] 
+*#d͡ʒjˈɔsso# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#d͡ʒˈɔsso# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ʝˈɔsso# | 96 : d͡ʒ > ʝ 
+*#ʝˈɔesso# | 116 : ∅ > e / [-tense,+prim] __ 
+*#ʝwˈesso# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#ʝwˈesso#
+*#ʒwˈesso# | 136 : ʝ > ʒ / # __ [+round]
+*#ʒwˈeso# | 141 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#ʃwˈeso# | 221 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ʃwˈeso#
+*#xwˈeso# | 223 : ʃ > x 
+Final form : *#xwˈeso#

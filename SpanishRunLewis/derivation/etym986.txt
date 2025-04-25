@@ -1,26 +1,27 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :986:
 #wˌerekˈun̪d̪iɑm# >>> *#beɾɡˈun̪xɑ# ( GOLD : #beɾɡʷˈen̪θɑ#) :
 w ˌe r e k ˈu n̪ d̪ i ɑ m 
-*#ɣʷˌerekˈun̪d̪iɑm# | 21 : w > ɣʷ / __ [+syl]
-*#ɣʷˌerekˈun̪d̪iɑ# | 33 : [+nas] > ∅ / [-stres] __ #
-*#βˌerekˈun̪d̪iɑ# | 38 : ɣʷ > β 
-*#βˌerekˈun̪d̪jɑ# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#βˌerekˈon̪d̪jɑ# | 51 : [+syl,-long] > [-hi] 
-*#βˌeɾekˈon̪d̪jɑ# | 53 : r > ɾ 
-*#βˌeɾekˈon̪d͡ʒjɑ# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#βˌeɾekˈon̪d͡ʒɑ# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#βˌeɾekˈon̪ʝɑ# | 101 : d͡ʒ > ʝ 
-*#βˌeɾeɡˈon̪ʝɑ# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#vˌeɾeɡˈon̪ʝɑ# | 113 : β > v 
-*#vˌeɾiɡˈon̪ʝɑ# | 116 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-*#vˌeɾiɡˈun̪ʝɑ# | 117 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-*#βˌeɾiɡˈun̪ʝɑ# | 133 : {v;f} > {β;ɸ} 
-*#βˌeɾiɡˈun̪ɟɑ# | 135 : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ 
-*#βˌeɾiɡˈun̪ʒɑ# | 139 : ɟ > ʒ 
-*#βˌeɾɡˈun̪ʒɑ# | 147 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#βˌeɾɣˈun̪ʒɑ# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#βˌeɾɣˈun̪ʃɑ# | 212 : [+strid] > [-voi] 
-*#βˌeɾɣˈun̪xɑ# | 214 : ʃ > x 
-*#bˌeɾɡˈun̪xɑ# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#beɾɡˈun̪xɑ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Popular Latin stage form : *#wˌerekˈun̪d̪iɑm#
+*#ɣʷˌerekˈun̪d̪iɑm# | 17 : w > ɣʷ / __ [+syl]
+*#ɣʷˌerekˈun̪d̪iɑ# | 28 : [+nas] > ∅ / [-stres] __ #
+*#bˌerekˈun̪d̪iɑ# | 33 : ɣʷ > b 
+*#bˌerekˈun̪d̪jɑ# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#bˌɛrɛkˈun̪d̪jɑ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌerekˈun̪d̪jɑ# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#bˌerekˈon̪d̪jɑ# | 48 : [+syl,-long] > [-hi] 
+*#bˌeɾekˈon̪d̪jɑ# | 51 : r > ɾ 
+*#bˌeɾekˈon̪d͡ʒjɑ# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#bˌeɾekˈon̪d͡ʒɑ# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#bˌeɾekˈon̪ʝɑ# | 96 : d͡ʒ > ʝ 
+*#bˌeɾeɡˈon̪ʝɑ# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#bˌeɾiɡˈon̪ʝɑ# | 110 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+*#bˌeɾiɡˈun̪ʝɑ# | 111 : [+syl,+round,+tense,+prim] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+Old Spanish stage form : *#bˌeɾiɡˈun̪ʝɑ#
+*#bˌeɾiɡˈun̪ɟɑ# | 133 : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ 
+*#bˌeɾiɡˈun̪ʒɑ# | 135 : ɟ > ʒ 
+*#bˌeɾɡˈun̪ʒɑ# | 151 : [-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] ( [-syl] )* [+prim] @
+*#bˌeɾɡˈun̪ʃɑ# | 221 : [+strid] > [-voi] 
+Middle Spanish stage form : *#bˌeɾɡˈun̪ʃɑ#
+*#bˌeɾɡˈun̪xɑ# | 223 : ʃ > x 
+*#beɾɡˈun̪xɑ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#beɾɡˈun̪xɑ#

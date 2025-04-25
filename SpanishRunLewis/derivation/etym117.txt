@@ -1,15 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :117:
-#kˈin̪kt̪um# >>> *#θˈin̪t̪o# ( GOLD : #θˈin̪t̪o#) :
-k ˈi n̪ k t̪ u m 
-*#kˈiːn̪kt̪um# | 6 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son] [-son]
-*#kˈiːn̪t̪um# | 10 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-*#kˈiːn̪t̪u# | 33 : [+nas] > ∅ / [-stres] __ #
-*#kˈiːn̪t̪o# | 51 : [+syl,-long] > [-hi] 
-*#kˈin̪t̪o# | 52 : [+syl] > [-long,-splng] 
-*#kjˈin̪t̪o# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#t͡ʃjˈin̪t̪o# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#t͡ʃˈin̪t̪o# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#t͡sˈin̪t̪o# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#s̪ˈin̪t̪o# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#θˈin̪t̪o# | 215 : s̪ > θ / __ [-cons]
-Final form : *#θˈin̪t̪o#
+#fˈiːkt̪um# >>> *#ˈit͡ʃo# ( GOLD : #ˈit̪o#) :
+f ˈiː k t̪ u m 
+Popular Latin stage form : *#fˈiːkt̪um#
+*#fˈiːkt̪u# | 28 : [+nas] > ∅ / [-stres] __ #
+*#fˈiːxt̪u# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#fˈiːxt̪o# | 48 : [+syl,-long] > [-hi] 
+*#fˈixt̪o# | 49 : [+syl] > [-long,-splng] 
+*#fˈijt̪o# | 109 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+Old Spanish stage form : *#fˈijt̪o#
+*#ɸˈijt̪o# | 126 : f > ɸ / __ [+syl]
+*#hˈijt̪o# | 128 : [+lab,+cont,-voi] > h / __ [-cons]
+*#ˈijt̪o# | 148 : h > ∅ 
+*#ˈijt͡ʃo# | 168 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#ˈiːt͡ʃo# | 170 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#ˈit͡ʃo# | 171 : [+syl] > [-long,-splng] 
+Middle Spanish stage form : *#ˈit͡ʃo#
+Final form : *#ˈit͡ʃo#

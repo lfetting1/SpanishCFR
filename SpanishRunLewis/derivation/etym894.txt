@@ -1,20 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :894:
 #sˌɑːn̪kt̪ifikˈɑːre# >>> *#sɑn̪t̪iɡʷˈɑɾ# ( GOLD : #sɑn̪t̪iɡʷˈɑɾ#) :
 s ˌɑː n̪ k t̪ i f i k ˈɑː r e 
-*#sˌɑːn̪t̪ifikˈɑːre# | 10 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-*#sˌɑːn̪t̪efekˈɑːre# | 51 : [+syl,-long] > [-hi] 
-*#sˌɑn̪t̪efekˈɑre# | 52 : [+syl] > [-long,-splng] 
-*#sˌɑn̪t̪efekˈɑɾe# | 53 : r > ɾ 
-*#sˌɑn̪t̪evekˈɑɾe# | 105 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-*#sˌɑn̪t̪eveɡˈɑɾe# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#sˌɑn̪t̪eβeɡˈɑɾe# | 133 : {v;f} > {β;ɸ} 
-*#sˌɑn̪t̪eβɡˈɑɾe# | 147 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#sˌɑn̪t̪ewɡˈɑɾe# | 152 : [+cons,+lab] > w / __ [+back,+cons]
-*#sˌɑn̪t̪ewɡʷˈɑɾe# | 165 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
-*#sˌɑn̪t̪eɡʷˈɑɾe# | 169 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-*#sˌɑn̪t̪iɡʷˈɑɾe# | 175 : [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round]
-*#sˌɑn̪t̪iɣʷˈɑɾe# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#sˌɑn̪t̪iɣʷˈɑɾ# | 187 : e > ∅ / [+syl] ɾ __ #
-*#sˌɑn̪t̪iɡʷˈɑɾ# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#sɑn̪t̪iɡʷˈɑɾ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#sˌɑːn̪t̪ifikˈɑːre# | 7 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+Popular Latin stage form : *#sˌɑːn̪t̪ifikˈɑːre#
+*#sˌɑːn̪t̪ifikˈɑːrɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑːn̪t̪ifikˈɑːre# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑːn̪t̪efekˈɑːre# | 48 : [+syl,-long] > [-hi] 
+*#sˌɑn̪t̪efekˈɑre# | 49 : [+syl] > [-long,-splng] 
+*#sˌɑn̪t̪efekˈɑɾe# | 51 : r > ɾ 
+*#sˌɑn̪t̪evekˈɑɾe# | 99 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+*#sˌɑn̪t̪eveɡˈɑɾe# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+Old Spanish stage form : *#sˌɑn̪t̪eveɡˈɑɾe#
+*#sˌɑn̪t̪ebeɡˈɑɾe# | 125 : v > b 
+*#sˌɑn̪t̪ebɡˈɑɾe# | 151 : [-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] ( [-syl] )* [+prim] @
+*#sˌɑn̪t̪ewɡˈɑɾe# | 156 : [+cons,+lab] > w / __ [+back,+cons]
+*#sˌɑn̪t̪ewɡʷˈɑɾe# | 169 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
+*#sˌɑn̪t̪eɡʷˈɑɾe# | 173 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+*#sˌɑn̪t̪iɡʷˈɑɾe# | 185 : [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round]
+*#sˌɑn̪t̪iɡʷˈɑɾ# | 195 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+Middle Spanish stage form : *#sˌɑn̪t̪iɡʷˈɑɾ#
+*#sɑn̪t̪iɡʷˈɑɾ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#sɑn̪t̪iɡʷˈɑɾ#

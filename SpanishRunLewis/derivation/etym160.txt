@@ -1,19 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :160:
-#kˌoːɡit̪ˈɑːre# >>> *#kuʝd̪ˈɑɾ# ( GOLD : #kwid̪ˈɑɾ#) :
-k ˌoː ɡ i t̪ ˈɑː r e 
-*#kˌoːɡet̪ˈɑːre# | 51 : [+syl,-long] > [-hi] 
-*#kˌoɡet̪ˈɑre# | 52 : [+syl] > [-long,-splng] 
-*#kˌoɡet̪ˈɑɾe# | 53 : r > ɾ 
-*#kˌoɡjet̪ˈɑɾe# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#kˌod͡ʒjet̪ˈɑɾe# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#kˌod͡ʒet̪ˈɑɾe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#kˌoʝet̪ˈɑɾe# | 101 : d͡ʒ > ʝ 
-*#kˌoʝed̪ˈɑɾe# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#kˌuʝed̪ˈɑɾe# | 117 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-*#kˌuʝid̪ˈɑɾe# | 121 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-*#kˌuʝd̪ˈɑɾe# | 147 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#kˌuʝðˈɑɾe# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#kˌuʝðˈɑɾ# | 187 : e > ∅ / [+syl] ɾ __ #
-*#kˌuʝd̪ˈɑɾ# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#kuʝd̪ˈɑɾ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#kuʝd̪ˈɑɾ#
+#fˌerrˈɑːrium# >>> *#erˈeɾo# ( GOLD : #erˈeɾo#) :
+f ˌe r r ˈɑː r i u m 
+Popular Latin stage form : *#fˌerrˈɑːrium#
+*#fˌerrˈɑːriu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#fˌerrˈɑːrju# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#fˌɛrrˈɑːrju# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌerrˈɑːrju# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fˌerrˈɑːrjo# | 48 : [+syl,-long] > [-hi] 
+*#fˌerrˈɑrjo# | 49 : [+syl] > [-long,-splng] 
+*#fˌeɾɾˈɑɾjo# | 51 : r > ɾ 
+*#fˌerˈɑɾjo# | 52 : ɾ ɾ > r 
+*#fˌerˈɑe̯ɾjo# | 88 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+*#fˌerˈɑjɾo# | 94 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+Old Spanish stage form : *#fˌerˈɑjɾo#
+*#ɸˌerˈɑjɾo# | 126 : f > ɸ / __ [+syl]
+*#hˌerˈɑjɾo# | 128 : [+lab,+cont,-voi] > h / __ [-cons]
+*#ˌerˈɑjɾo# | 148 : h > ∅ 
+*#ˌerˈejɾo# | 155 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#ˌerˈeːɾo# | 170 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#ˌerˈeɾo# | 171 : [+syl] > [-long,-splng] 
+Middle Spanish stage form : *#ˌerˈeɾo#
+*#erˈeɾo# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#erˈeɾo#

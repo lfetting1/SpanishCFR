@@ -1,12 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :417:
-#ˌimperɑːt̪ˈoːre# >>> *#empeɾɑd̪ˈoɾ# ( GOLD : #empeɾɑd̪ˈoɾ#) :
-ˌi m p e r ɑː t̪ ˈoː r e 
-*#ˌemperɑːt̪ˈoːre# | 51 : [+syl,-long] > [-hi] 
-*#ˌemperɑt̪ˈore# | 52 : [+syl] > [-long,-splng] 
-*#ˌempeɾɑt̪ˈoɾe# | 53 : r > ɾ 
-*#ˌempeɾɑd̪ˈoɾe# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#ˌempeɾɑðˈoɾe# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#ˌempeɾɑðˈoɾ# | 187 : e > ∅ / [+syl] ɾ __ #
-*#ˌempeɾɑd̪ˈoɾ# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#empeɾɑd̪ˈoɾ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#empeɾɑd̪ˈoɾ#
+#kˌɑpsˈeolɑ# >>> *#kɑxwˈelɑ# ( GOLD : #kɑxwˈelɑ#) :
+k ˌɑ p s ˈe o l ɑ 
+Popular Latin stage form : *#kˌɑpsˈeolɑ#
+*#kˌɑpseˈolɑ# | 40 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#kˌɑpsjˈolɑ# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#kˌɑpsjˈɔlɑ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑssjˈɔlɑ# | 61 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+*#kˌɑssjˈɔelɑ# | 116 : ∅ > e / [-tense,+prim] __ 
+*#kˌɑssjwˈelɑ# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#kˌɑssjwˈelɑ#
+*#kˌɑsjwˈelɑ# | 141 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#kˌɑe̯sjwˈelɑ# | 163 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+*#kˌɑjswˈelɑ# | 167 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#kˌɑjʃwˈelɑ# | 168 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#kˌɑʃwˈelɑ# | 183 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Middle Spanish stage form : *#kˌɑʃwˈelɑ#
+*#kˌɑxwˈelɑ# | 223 : ʃ > x 
+*#kɑxwˈelɑ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#kɑxwˈelɑ#

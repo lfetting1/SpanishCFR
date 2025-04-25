@@ -1,17 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :488:
-#ˌɑwɡˈurium# >>> *#ɑwˈeɾo# ( GOLD : #ɑɡʷˈeɾo#) :
-ˌɑ w ɡ ˈu r i u m 
-*#ˌɑwɡˈuriu# | 33 : [+nas] > ∅ / [-stres] __ #
-*#ˌɑwɡˈurju# | 47 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-*#ˌɑwɡˈorjo# | 51 : [+syl,-long] > [-hi] 
-*#ˌɑwɡˈoɾjo# | 53 : r > ɾ 
-*#ˌɑwɡʷˈoɾjo# | 74 : {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ 
-*#ˌɑɡʷˈoɾjo# | 75 : [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons]
-*#ˌɑɡˈoɾjo# | 81 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
-*#ˌɑɡˈoe̯ɾjo# | 96 : ∅ > e̯ / [+syl] __ ɾ j [+back]
-*#ˌɑɡˈojɾo# | 98 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-*#ˌɑɣˈojɾo# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-*#ˌɑˈojɾo# | 103 : [-son,+voi,-front,-lab,-strid] > ∅ / [-cons] __ [+syl,-hi]
-*#ˌɑwˈeɾo# | 183 : {ˈo j;ˈi w;ˈu j;o j;i w;u j;ˌo j;ˌi w;ˌu j} > {w ˈe;j ˈu;w ˈi;w e;j u;w i;ˌo j;ˌi w;ˌu j} 
-*#ɑwˈeɾo# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ɑwˈeɾo#
+#lˌeːɡˈit̪imum# >>> *#leˈimd̪o# ( GOLD : #lˈin̪d̪o#) :
+l ˌeː ɡ ˈi t̪ i m u m 
+Popular Latin stage form : *#lˌeːɡˈit̪imum#
+*#lˌeːɡˈit̪imu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#lˌeːɡˈet̪emo# | 48 : [+syl,-long] > [-hi] 
+*#lˌeɡˈet̪emo# | 49 : [+syl] > [-long,-splng] 
+*#lˌeɡjˈet̪emo# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#lˌed͡ʒjˈet̪emo# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#lˌed͡ʒˈet̪emo# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#lˌeʝˈet̪emo# | 96 : d͡ʒ > ʝ 
+*#lˌeʝˈed̪emo# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#lˌeʝˈid̪emo# | 115 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+*#lˌeˈid̪emo# | 121 : ʝ > ∅ / [+syl,+front] __ [+syl]
+Old Spanish stage form : *#lˌeˈid̪emo#
+*#lˌeˈid̪mo# | 152 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
+*#lˌeˈimd̪o# | 187 : d̪ m > m d̪ 
+Middle Spanish stage form : *#lˌeˈimd̪o#
+*#leˈimd̪o# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#leˈimd̪o#

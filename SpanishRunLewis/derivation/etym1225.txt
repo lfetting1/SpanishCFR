@@ -1,29 +1,30 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1225:
-#ˌae̯ɡypt̪iˈɑːkum# >>> *#eɥθˈɑɡo# ( GOLD : #ɑθjˈɑɡo#) :
+#ˌae̯ɡypt̪iˈɑːkum# >>> *#jøθˈɑɡo# ( GOLD : #ɑθjˈɑɡo#) :
 ˌa e̯ ɡ y p t̪ i ˈɑː k u m
-*#ˌɑjɡypt̪iˈɑːkum# | 0 : [-hi] e̯ > [+back,-front] j
-*#ˌɛjɡypt̪iˈɑːkum# | 24 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
-*#ˌejɡypt̪iˈɑːkum# | 25 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌeːɡypt̪iˈɑːkum# | 26 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#ˌeːɡypt̪iˈɑːku# | 33 : [+nas] > ∅ / [-stres] __ #
-*#ˌeːɡypt̪jˈɑːku# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#ˌeːɡøpt̪jˈɑːko# | 51 : [+syl,-long] > [-hi] 
-*#ˌeɡøpt̪jˈɑko# | 52 : [+syl] > [-long,-splng] 
-*#ˌeɡøt̪t̪jˈɑko# | 68 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] / __ [-son,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround]
-*#ˌeɡjøt̪t̪jˈɑko# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#ˌed͡ʒjøt̪t͡ʃjˈɑko# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#ˌed͡ʒøt̪t͡ʃˈɑko# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#ˌeʝøt̪t͡ʃˈɑko# | 101 : d͡ʒ > ʝ 
-*#ˌeʝøt̪t͡ʃˈɑɡo# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#ˌeʝøt̪t͡sˈɑɡo# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#ˌeʝøt͡st͡sˈɑɡo# | 114 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
-*#ˌeʝyt͡st͡sˈɑɡo# | 121 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-*#ˌeyt͡st͡sˈɑɡo# | 127 : ʝ > ∅ / [+syl,+front] __ [+syl]
-*#ˌeɥt͡st͡sˈɑɡo# | 129 : [+hi,-prim,+syl] > [-syl,0stres,0prim] / [+syl] __ 
-*#ˌeɥt͡sˈɑɡo# | 145 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
-*#ˌeɥt͡sˈɑɣo# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#ˌeɥs̪ˈɑɣo# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#ˌeɥθˈɑɣo# | 215 : s̪ > θ / __ [-cons]
-*#ˌeɥθˈɑɡo# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#eɥθˈɑɡo# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#eɥθˈɑɡo#
+Popular Latin stage form : *#ˌae̯ɡypt̪iˈɑːkum#
+*#ˌɛe̯ɡypt̪iˈɑːkum# | 20 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
+*#ˌɛːɡypt̪iˈɑːkum# | 21 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#ˌɛːɡypt̪iˈɑːku# | 28 : [+nas] > ∅ / [-stres] __ #
+*#ˌɛːɡypt̪jˈɑːku# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#ˌeːɡypt̪jˈɑːku# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeːɡøpt̪jˈɑːko# | 48 : [+syl,-long] > [-hi] 
+*#ˌeɡøpt̪jˈɑko# | 49 : [+syl] > [-long,-splng] 
+*#ˌeɡøt̪t̪jˈɑko# | 61 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+*#ˌeɡjøt̪t̪jˈɑko# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#ˌed͡ʒjøt̪t͡ʃjˈɑko# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#ˌed͡ʒøt̪t͡ʃˈɑko# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ˌeʝøt̪t͡ʃˈɑko# | 96 : d͡ʒ > ʝ 
+*#ˌeʝøt̪t͡ʃˈɑɡo# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ˌeʝøt̪t͡sˈɑɡo# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#ˌeʝøt͡st͡sˈɑɡo# | 108 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+*#ˌeʝyt͡st͡sˈɑɡo# | 115 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+*#ˌeyt͡st͡sˈɑɡo# | 121 : ʝ > ∅ / [+syl,+front] __ [+syl]
+*#ˌeɥt͡st͡sˈɑɡo# | 123 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
+Old Spanish stage form : *#ˌeɥt͡st͡sˈɑɡo#
+*#ˌeɥt͡sˈɑɡo# | 141 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#jˌøt͡sˈɑɡo# | 193 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]/ __ @
+*#jˌøs̪ˈɑɡo# | 220 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#jˌøs̪ˈɑɡo#
+*#jˌøθˈɑɡo# | 224 : s̪ > θ 
+*#jøθˈɑɡo# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#jøθˈɑɡo#
