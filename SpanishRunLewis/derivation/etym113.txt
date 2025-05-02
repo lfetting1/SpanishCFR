@@ -1,21 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :113:
-#kˈae̯kum# >>> *#θjˈeɡo# ( GOLD : #θjˈeɡo#) :
-k ˈa e̯ k u m 
-*#kˈɑjkum# | 0 : [-hi] e̯ > [+back,-front] j
-*#kˈɛjkum# | 24 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
-*#kˈɛːkum# | 26 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#kˈɛːku# | 33 : [+nas] > ∅ / [-stres] __ #
-*#kˈɛːko# | 51 : [+syl,-long] > [-hi] 
-*#kˈɛko# | 52 : [+syl] > [-long,-splng] 
-*#kjˈɛko# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#t͡ʃjˈɛko# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#t͡ʃˈɛko# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#t͡ʃˈɛɡo# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#t͡sˈɛɡo# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#t͡sˈɛeɡo# | 122 : ∅ > e / [-tense,+prim] __ 
-*#t͡sjˈeɡo# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#t͡sjˈeɣo# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#s̪jˈeɣo# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#θjˈeɣo# | 215 : s̪ > θ / __ [-cons]
-*#θjˈeɡo# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : *#θjˈeɡo#
+#mˌɑkulˈɑːt̪ɑ# >>> *#mɑxˈɑd̪ɑ# ( GOLD : #mɑxˈɑd̪ɑ#) :
+m ˌɑ k u l ˈɑː t̪ ɑ 
+*#mˌɑklˈɑːt̪ɑ# | 29 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
+*#mˌɑxlˈɑːt̪ɑ# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#mˌɑxlˈɑt̪ɑ# | 52 : [+syl] > [-long,-splng] 
+*#mˌɑjlˈɑt̪ɑ# | 62 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#mˌɑjʎˈɑt̪ɑ# | 65 : [+lat] > ʎ / j __ 
+*#mˌɑʎˈɑt̪ɑ# | 79 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#mˌɑʎˈɑd̪ɑ# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+*#mˌɑd͡ʒˈɑd̪ɑ# | 134 : ʎ > d͡ʒ 
+*#mˌɑʒˈɑd̪ɑ# | 136 : d͡ʒ > ʒ 
+*#mˌɑʒˈɑðɑ# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+*#mˌɑʃˈɑðɑ# | 212 : [+strid] > [-voi] 
+*#mˌɑxˈɑðɑ# | 214 : ʃ > x 
+*#mˌɑxˈɑd̪ɑ# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+*#mɑxˈɑd̪ɑ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#mɑxˈɑd̪ɑ#
