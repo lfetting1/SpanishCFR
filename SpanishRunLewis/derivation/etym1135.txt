@@ -1,16 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1135:
-#ˌowˈikulɑ# >>> *#oˈexɑ# ( GOLD : #obˈexɑ#) :
+#ˌou̯ˈikulɑ# >>> *#oˈexɑ# ( GOLD : #obˈexɑ#) :
 ˌo w ˈi k u l ɑ 
-*#ˌoˈikulɑ# | 19 : w > ∅ / [+round,+syl] __ 
-*#ˌoˈiklɑ# | 32 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
-*#ˌoˈixlɑ# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#ˌoˈexlɑ# | 51 : [+syl,-long] > [-hi] 
-*#ˌoˈejlɑ# | 62 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-*#ˌoˈejʎɑ# | 65 : [+lat] > ʎ / j __ 
-*#ˌoˈeʎɑ# | 79 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-*#ˌoˈed͡ʒɑ# | 134 : ʎ > d͡ʒ 
-*#ˌoˈeʒɑ# | 136 : d͡ʒ > ʒ 
-*#ˌoˈeʃɑ# | 212 : [+strid] > [-voi] 
-*#ˌoˈexɑ# | 214 : ʃ > x 
-*#oˈexɑ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Popular Latin stage form : *#ˌou̯ˈikulɑ#
+*#ˌoːˈikulɑ# | 21 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#ˌoːˈiklɑ# | 27 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#ˌoːˈixlɑ# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#ˌoːˈexlɑ# | 48 : [+syl,-long] > [-hi] 
+*#ˌoˈexlɑ# | 49 : [+syl] > [-long,-splng] 
+*#ˌoˈejlɑ# | 55 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#ˌoˈejʎɑ# | 58 : [+lat] > ʎ / j __ 
+*#ˌoˈeʎɑ# | 71 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Old Spanish stage form : *#ˌoˈeʎɑ#
+*#ˌoˈed͡ʒɑ# | 132 : ʎ > d͡ʒ / [+syl] __ 
+*#ˌoˈeʒɑ# | 134 : d͡ʒ > ʒ 
+*#ˌoˈeʃɑ# | 221 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ˌoˈeʃɑ#
+*#ˌoˈexɑ# | 223 : ʃ > x 
+*#oˈexɑ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#oˈexɑ#

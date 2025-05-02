@@ -1,13 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :268:
-#pˌod̪iˈɑːre# >>> *#puʝˈɑɾ# ( GOLD : #poʝˈɑɾ#) :
-p ˌo d̪ i ˈɑː r e 
-*#pˌod̪jˈɑːre# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#pˌod̪jˈɑre# | 52 : [+syl] > [-long,-splng] 
-*#pˌod̪jˈɑɾe# | 53 : r > ɾ 
-*#pˌod͡ʒjˈɑɾe# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#pˌod͡ʒˈɑɾe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#pˌoʝˈɑɾe# | 101 : d͡ʒ > ʝ 
-*#pˌuʝˈɑɾe# | 117 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-*#pˌuʝˈɑɾ# | 187 : e > ∅ / [+syl] ɾ __ #
-*#puʝˈɑɾ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#puʝˈɑɾ#
+#kˈeru̯um# >>> *#θˈeɾo# ( GOLD : #θjˈeɾbo#) :
+k ˈe r w u m 
+Popular Latin stage form : *#kˈeru̯um#
+*#kˈeru̯u# | 28 : [+nas] > ∅ / [-stres] __ #
+*#kˈɛru̯u# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɛru̯o# | 48 : [+syl,-long] > [-hi] 
+*#kˈɛɾu̯o# | 51 : r > ɾ 
+*#kjˈɛɾu̯o# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t͡ʃjˈɛɾu̯o# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#t͡ʃˈɛɾu̯o# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#t͡sˈɛɾu̯o# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#t͡sˈeɾu̯o# | 114 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [-cons,-syl]
+Old Spanish stage form : *#t͡sˈeɾu̯o#
+*#t͡sˈeɾo# | 173 : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+*#s̪ˈeɾo# | 220 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#s̪ˈeɾo#
+*#θˈeɾo# | 224 : s̪ > θ 
+Final form : *#θˈeɾo#
