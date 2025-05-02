@@ -94,8 +94,8 @@ e > i / __ j $ front raising
 {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
 [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons] $ recurrent rule,waw absorption $(72) Fixed to specifically apply to consonants.
 [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ $ recurrent rule,waw absorption $(73) Fixed. No effect (reasonable)
-j > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
-j > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
+[-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
+[-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
 
 $unround, fixed. CM 10/22
 [-son,+round] > [-round,-lab] / __ [+syl,-lo]

@@ -1,19 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1106:
-#ˌae̯ku̯ɑlit̪ˈɑːt̪em# >>> *#iɡu̯ɑu̯t̪ˈɑd̪# ( GOLD : #iɡʷɑld̪ˈɑd̪#) :
+#ˌae̯kwɑlit̪ˈɑːt̪em# >>> *#eɡʷot̪ˈɑd̪# ( GOLD : #iɡʷɑld̪ˈɑd̪#) :
 ˌa e̯ k w ɑ l i t̪ ˈɑː t̪ e m 
-Popular Latin stage form : *#ˌae̯ku̯ɑlit̪ˈɑːt̪em#
-*#ˌɛe̯ku̯ɑlit̪ˈɑːt̪em# | 20 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
-*#ˌɛːku̯ɑlit̪ˈɑːt̪em# | 21 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#ˌɛːku̯ɑlt̪ˈɑːt̪em# | 23 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
-*#ˌɛːku̯ɑlt̪ˈɑːt̪e# | 28 : [+nas] > ∅ / [-stres] __ #
-*#ˌɛːku̯ɑlt̪ˈɑːt̪ɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌeːku̯ɑlt̪ˈɑːt̪e# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌeku̯ɑlt̪ˈɑt̪e# | 49 : [+syl] > [-long,-splng] 
-*#ˌeɡu̯ɑlt̪ˈɑd̪e# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
-*#ˌeɡu̯ɑu̯t̪ˈɑd̪e# | 101 : [+lat] > w / [+lo] __ [-son]
-Old Spanish stage form : *#ˌeɡu̯ɑu̯t̪ˈɑd̪e#
-*#ˌeɡu̯ɑu̯t̪ˈɑd̪# | 195 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
-*#ˌiɡu̯ɑu̯t̪ˈɑd̪# | 201 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
-Middle Spanish stage form : *#ˌiɡu̯ɑu̯t̪ˈɑd̪#
-*#iɡu̯ɑu̯t̪ˈɑd̪# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#iɡu̯ɑu̯t̪ˈɑd̪#
+*#ˌɑjkwɑlit̪ˈɑːt̪em# | 0 : [-hi] e̯ > [+back,-front] j
+*#ˌɑjkʷɑlit̪ˈɑːt̪em# | 20 : [-cont,+back,-round] w > [+lab,+round] ∅
+*#ˌɛjkʷɑlit̪ˈɑːt̪em# | 24 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
+*#ˌejkʷɑlit̪ˈɑːt̪em# | 25 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeːkʷɑlit̪ˈɑːt̪em# | 26 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#ˌeːkʷɑlt̪ˈɑːt̪em# | 28 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
+*#ˌeːkʷɑlt̪ˈɑːt̪e# | 33 : [+nas] > ∅ / [-stres] __ #
+*#ˌekʷɑlt̪ˈɑt̪e# | 52 : [+syl] > [-long,-splng] 
+*#ˌeɡʷɑlt̪ˈɑd̪e# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ˌeɡʷɑwt̪ˈɑd̪e# | 107 : [+lat] > w / [+lo] __ [-son]
+*#ˌeɡʷowt̪ˈɑd̪e# | 151 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
+*#ˌeɡʷoːt̪ˈɑd̪e# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#ˌeɡʷot̪ˈɑd̪e# | 167 : [+syl] > [-long,-splng] 
+*#ˌeɣʷot̪ˈɑðe# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
+*#ˌeɣʷot̪ˈɑð# | 188 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
+*#ˌeɡʷot̪ˈɑd̪# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
+*#eɡʷot̪ˈɑd̪# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#eɡʷot̪ˈɑd̪#

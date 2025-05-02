@@ -75,10 +75,10 @@ e > i / __ j| ORIG : e > i / __ j
 {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __ | ORIG : {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons]| ORIG : [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons] 
 [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ | ORIG : [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ 
-j > ∅ / [+front,+cons] __ | ORIG : j > ∅ / [+front,+cons] __ 
-j > ∅ / [+hi,+front] __ | ORIG : j > ∅ / [+hi,+front] __ 
-j > ∅ / __ [+front,+cons]| ORIG : j > ∅ /  __  [+front,+cons]
-j > ∅ / __ [+hi,+front]| ORIG : j > ∅ /  __  [+hi,+front]
+[-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ | ORIG : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+[-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ | ORIG : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
+[-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]| ORIG : [-syl,-cons,+hi,+front] > ∅ /  __  [+front,+cons]
+[-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]| ORIG : [-syl,-cons,+hi,+front] > ∅ /  __  [+hi,+front]
 [-son,+round] > [-round,-lab] / __ [+syl,-lo]| ORIG : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
 [-son,+round] > [-round,-lab] / # __ [+lo,-prim]| ORIG : [-son,+round] > [-round,-lab] / # __ [+lo,-prim]
 [+cons,+back,+voi,-cont] > ∅ / # __ [+lat]| ORIG : [+cons,+back,+voi,-cont] > ∅ / # __ [+lat] 
