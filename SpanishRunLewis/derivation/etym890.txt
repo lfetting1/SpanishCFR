@@ -1,14 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :890:
-#sˌuspˈekt̪ɑ# >>> *#suspˈet͡ʃɑ# ( GOLD : #sospˈet͡ʃɑ#) :
+#sˌuspˈekt̪ɑ# >>> *#sospˈet͡ʃɑ# ( GOLD : #sospˈet͡ʃɑ#) :
 s ˌu s p ˈe k t̪ ɑ 
-*#sˌuspˈext̪ɑ# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#sˌuspˈɛxt̪ɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌospˈɛxt̪ɑ# | 51 : [+syl,-long] > [-hi] 
-*#sˌospˈɛjt̪ɑ# | 115 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-*#sˌuspˈɛjt̪ɑ# | 118 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-*#sˌuspˈejt̪ɑ# | 119 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front,-syl]
-*#sˌuspˈejt͡ʃɑ# | 164 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-*#sˌuspˈeːt͡ʃɑ# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#sˌuspˈet͡ʃɑ# | 167 : [+syl] > [-long,-splng] 
-*#suspˈet͡ʃɑ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#suspˈet͡ʃɑ#
+Popular Latin stage form : *#sˌuspˈekt̪ɑ#
+*#sˌuspˈext̪ɑ# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#sˌuspˈɛxt̪ɑ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌospˈɛxt̪ɑ# | 48 : [+syl,-long] > [-hi] 
+*#sˌospˈɛjt̪ɑ# | 109 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+*#sˌospˈejt̪ɑ# | 113 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+Old Spanish stage form : *#sˌospˈejt̪ɑ#
+*#sˌospˈejt͡ʃɑ# | 169 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#sˌospˈeːt͡ʃɑ# | 171 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#sˌospˈet͡ʃɑ# | 172 : [+syl] > [-long,-splng] 
+Middle Spanish stage form : *#sˌospˈet͡ʃɑ#
+*#sospˈet͡ʃɑ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#sospˈet͡ʃɑ#

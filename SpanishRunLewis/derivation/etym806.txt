@@ -1,18 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :806:
 #spˈekulum# >>> *#espˈexo# ( GOLD : #espˈexo#) :
 s p ˈe k u l u m 
-*#spˈeklum# | 32 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
-*#spˈeklu# | 33 : [+nas] > ∅ / [-stres] __ #
-*#spˈexlu# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#spˈɛxlu# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#spˈɛxlo# | 51 : [+syl,-long] > [-hi] 
-*#spˈɛjlo# | 62 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-*#spˈɛjʎo# | 65 : [+lat] > ʎ / j __ 
-*#spˈɛʎo# | 79 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-*#spˈeʎo# | 119 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front,-syl]
-*#spˈed͡ʒo# | 134 : ʎ > d͡ʒ 
-*#spˈeʒo# | 136 : d͡ʒ > ʒ 
-*#spˈeʃo# | 212 : [+strid] > [-voi] 
-*#spˈexo# | 214 : ʃ > x 
-*#espˈexo# | 220 : ∅ > e / # __ s [+cons]
+Popular Latin stage form : *#spˈekulum#
+*#spˈeklum# | 27 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#spˈeklu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#spˈexlu# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#spˈɛxlu# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#spˈɛxlo# | 48 : [+syl,-long] > [-hi] 
+*#spˈɛjlo# | 55 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#spˈɛjʎo# | 58 : [+lat] > ʎ / j __ 
+*#spˈɛʎo# | 71 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#spˈeʎo# | 113 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+*#espˈeʎo# | 125 : ∅ > e / # __ [+strid,+cont,+ant,-lab] [+cons]
+Old Spanish stage form : *#espˈeʎo#
+*#espˈed͡ʒo# | 133 : ʎ > d͡ʒ / [+syl] __ 
+*#espˈeʒo# | 135 : d͡ʒ > ʒ 
+*#espˈeʃo# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#espˈeʃo#
+*#espˈexo# | 224 : ʃ > x 
 Final form : *#espˈexo#

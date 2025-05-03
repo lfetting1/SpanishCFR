@@ -1,14 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :949:
 #t̪ˌɑksˈoːn̪e# >>> *#t̪exˈon̪# ( GOLD : #t̪exˈon̪#) :
 t̪ ˌɑ k s ˈoː n̪ e 
-*#t̪ˌɑxsˈoːn̪e# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#t̪ˌɑxsˈon̪e# | 52 : [+syl] > [-long,-splng] 
-*#t̪ˌɑjsˈon̪e# | 115 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-*#t̪ˌejsˈon̪e# | 151 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-*#t̪ˌejʃˈon̪e# | 164 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-*#t̪ˌeːʃˈon̪e# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#t̪ˌeʃˈon̪e# | 167 : [+syl] > [-long,-splng] 
-*#t̪ˌeʃˈon̪# | 188 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-*#t̪ˌexˈon̪# | 214 : ʃ > x 
-*#t̪exˈon̪# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Popular Latin stage form : *#t̪ˌɑksˈoːn̪e#
+*#t̪ˌɑxsˈoːn̪e# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#t̪ˌɑxsˈoːn̪ɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪ˌɑxsˈoːn̪e# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#t̪ˌɑxsˈon̪e# | 49 : [+syl] > [-long,-splng] 
+*#t̪ˌɑjsˈon̪e# | 109 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+Old Spanish stage form : *#t̪ˌɑjsˈon̪e#
+*#t̪ˌejsˈon̪e# | 156 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#t̪ˌejʃˈon̪e# | 169 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#t̪ˌeːʃˈon̪e# | 171 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#t̪ˌeʃˈon̪e# | 172 : [+syl] > [-long,-splng] 
+*#t̪ˌeʃˈon̪# | 199 : e > ∅ / [+syl] [+nas,+cor,+ant] __ #
+Middle Spanish stage form : *#t̪ˌeʃˈon̪#
+*#t̪ˌexˈon̪# | 224 : ʃ > x 
+*#t̪exˈon̪# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#t̪exˈon̪#

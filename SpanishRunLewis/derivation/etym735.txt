@@ -1,15 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :735:
-#pˌulˈeɡium# >>> *#polˈio# ( GOLD : #polˈeo#) :
+#pˌulˈeɡium# >>> *#polˈiʝo# ( GOLD : #polˈeo#) :
 p ˌu l ˈe ɡ i u m 
-*#pˌulˈeɡiu# | 33 : [+nas] > ∅ / [-stres] __ #
-*#pˌulˈeiu# | 46 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
-*#pˌulˈeju# | 47 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-*#pˌulˈɛju# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌolˈɛjo# | 51 : [+syl,-long] > [-hi] 
-*#pˌolˈejo# | 57 : ˈɛ > ˈe / __ j
-*#pˌolˈijo# | 61 : ˈe > ˈi / __ j
-*#pˌolˈio# | 78 : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __ 
-*#pˌulˈio# | 117 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-*#pˌolˈio# | 192 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-*#polˈio# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#polˈio#
+Popular Latin stage form : *#pˌulˈeɡium#
+*#pˌulˈeɡiu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#pˌulˈeiu# | 41 : [+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
+*#pˌulˈeju# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#pˌulˈɛju# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌolˈɛjo# | 48 : [+syl,-long] > [-hi] 
+*#pˌolˈejo# | 54 : {ɛ;ˈɛ;ˌɛ;e;ˌe;ˈe} > {e;ˈe;ˌe;i;ˌi;ˈi} / __ j
+*#pˌolˈijo# | 110 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+Old Spanish stage form : *#pˌolˈijo#
+*#pˌolˈiʝo# | 130 : [-cons,-syl,+front] > [+cons,-son,0tense] / [+syl] __ [-cons]
+Middle Spanish stage form : *#pˌolˈiʝo#
+*#polˈiʝo# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#polˈiʝo#

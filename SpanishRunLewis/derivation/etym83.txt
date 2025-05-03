@@ -1,13 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :83:
-#kˌɑppˈellɑ# >>> *#kɑpˈiʝɑ# ( GOLD : #kɑpˈiʝɑ#) :
-k ˌɑ p p ˈe l l ɑ 
-*#kˌɑppˈɛllɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɑppˈɛellɑ# | 122 : ∅ > e / [-tense,+prim] __ 
-*#kˌɑppjˈellɑ# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#kˌɑppjˈeʎɑ# | 144 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-*#kˌɑpjˈeʎɑ# | 145 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
-*#kˌɑpjˈiʎɑ# | 201 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-*#kˌɑpˈiʎɑ# | 206 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-*#kɑpˈiʎɑ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-*#kɑpˈiʝɑ# | 227 : ʎ > ʝ 
-Final form : *#kɑpˈiʝɑ#
+#d̪ˌiːkˈiːre# >>> *#d̪eθˈiɾ# ( GOLD : #d̪eθˈiɾ#) :
+d̪ ˌiː k ˈiː r e 
+Popular Latin stage form : *#d̪ˌiːkˈiːre#
+*#d̪ˌiːkˈiːrɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌiːkˈiːre# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌikˈire# | 49 : [+syl] > [-long,-splng] 
+*#d̪ˌikˈiɾe# | 51 : r > ɾ 
+*#d̪ˌikjˈiɾe# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#d̪ˌit͡ʃjˈiɾe# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#d̪ˌit͡ʃˈiɾe# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#d̪ˌid͡ʒˈiɾe# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#d̪ˌid͡zˈiɾe# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#d̪ˌid͡zˈiɾe#
+*#d̪ˌid͡zˈiɾ# | 196 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+*#d̪ˌed͡zˈiɾ# | 204 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+*#d̪ˌez̪ˈiɾ# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#d̪ˌes̪ˈiɾ# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#d̪ˌes̪ˈiɾ#
+*#d̪ˌeθˈiɾ# | 225 : s̪ > θ 
+*#d̪eθˈiɾ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#d̪eθˈiɾ#

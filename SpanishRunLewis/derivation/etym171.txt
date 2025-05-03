@@ -1,14 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :171:
-#t̪ˌɑksˈoːn̪e# >>> *#t̪exˈon̪# ( GOLD : #t̪exˈon̪#) :
-t̪ ˌɑ k s ˈoː n̪ e 
-*#t̪ˌɑxsˈoːn̪e# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#t̪ˌɑxsˈon̪e# | 52 : [+syl] > [-long,-splng] 
-*#t̪ˌɑjsˈon̪e# | 115 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-*#t̪ˌejsˈon̪e# | 151 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-*#t̪ˌejʃˈon̪e# | 164 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-*#t̪ˌeːʃˈon̪e# | 166 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#t̪ˌeʃˈon̪e# | 167 : [+syl] > [-long,-splng] 
-*#t̪ˌeʃˈon̪# | 188 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-*#t̪ˌexˈon̪# | 214 : ʃ > x 
-*#t̪exˈon̪# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#t̪exˈon̪#
+#fˌoːrmˈaːkeus# >>> *#oɾmˈaθos# ( GOLD : #ormˈaθo#) :
+f ˌoː r m ˈaː k e u s 
+Popular Latin stage form : *#fˌoːrmˈaːkeus#
+*#fˌoːrmˈaːkjus# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#fˌoːrmˈaːkjos# | 48 : [+syl,-long] > [-hi] 
+*#fˌormˈakjos# | 49 : [+syl] > [-long,-splng] 
+*#fˌoɾmˈakjos# | 51 : r > ɾ 
+*#fˌoɾmˈat͡ʃjos# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#fˌoɾmˈat͡ʃos# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#fˌoɾmˈad͡ʒos# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#fˌoɾmˈad͡zos# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#fˌoɾmˈad͡zos#
+*#ɸˌoɾmˈad͡zos# | 127 : f > ɸ / __ [+syl]
+*#hˌoɾmˈad͡zos# | 129 : [+lab,+cont,-voi] > h / __ [-cons]
+*#ˌoɾmˈad͡zos# | 149 : h > ∅ 
+*#ˌoɾmˈaz̪os# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ˌoɾmˈas̪os# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ˌoɾmˈas̪os#
+*#ˌoɾmˈaθos# | 225 : s̪ > θ 
+*#oɾmˈaθos# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#oɾmˈaθos#

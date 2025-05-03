@@ -1,13 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :205:
-#ˌɑffrˈon̪t̪ɑ# >>> *#ɑfɾˈen̪t̪ɑ# ( GOLD : #ɑfɾˈen̪t̪ɑ#) :
-ˌɑ f f r ˈo n̪ t̪ ɑ 
-*#ˌɑffrˈɔn̪t̪ɑ# | 50 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɑffɾˈɔn̪t̪ɑ# | 53 : r > ɾ 
-*#ˌɑffɾˈɔen̪t̪ɑ# | 122 : ∅ > e / [-tense,+prim] __ 
-*#ˌɑffɾwˈen̪t̪ɑ# | 123 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#ˌɑɸɸɾwˈen̪t̪ɑ# | 133 : {v;f} > {β;ɸ} 
-*#ˌɑɸɾwˈen̪t̪ɑ# | 145 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
-*#ˌɑɸɾˈen̪t̪ɑ# | 197 : [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]
-*#ˌɑfɾˈen̪t̪ɑ# | 199 : ɸ > f 
-*#ɑfɾˈen̪t̪ɑ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ɑfɾˈen̪t̪ɑ#
+#hˌɑmikˈeolum# >>> *#ɑmθwˈelo# ( GOLD : #ɑn̪θwˈelo#) :
+h ˌɑ m i k ˈe o l u m 
+*#ˌɑmikˈeolum# | 0 : h > ∅ 
+Popular Latin stage form : *#ˌɑmikˈeolum#
+*#ˌɑmikˈeolu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#ˌɑmikeˈolu# | 40 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#ˌɑmikjˈolu# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#ˌɑmikjˈɔlu# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑmekjˈɔlo# | 48 : [+syl,-long] > [-hi] 
+*#ˌɑmet͡ʃjˈɔlo# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#ˌɑmet͡ʃˈɔlo# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ˌɑmed͡ʒˈɔlo# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ˌɑmed͡zˈɔlo# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#ˌɑmed͡zˈɔelo# | 116 : ∅ > e / [-tense,+prim] __ 
+*#ˌɑmed͡zwˈelo# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#ˌɑmed͡zwˈelo#
+*#ˌɑmd͡zwˈelo# | 152 : [-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] ( [-syl] )* [+prim] @
+*#ˌɑmz̪wˈelo# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ˌɑms̪wˈelo# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ˌɑms̪wˈelo#
+*#ˌɑmθwˈelo# | 225 : s̪ > θ 
+*#ɑmθwˈelo# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑmθwˈelo#

@@ -1,9 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :127:
-#pˈun̪kt̪um# >>> *#pˈun̪t̪o# ( GOLD : #pˈun̪t̪o#) :
-p ˈu n̪ k t̪ u m 
-*#pˈuːn̪kt̪um# | 6 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son] [-son]
-*#pˈuːn̪t̪um# | 10 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-*#pˈuːn̪t̪u# | 33 : [+nas] > ∅ / [-stres] __ #
-*#pˈuːn̪t̪o# | 51 : [+syl,-long] > [-hi] 
-*#pˈun̪t̪o# | 52 : [+syl] > [-long,-splng] 
-Final form : *#pˈun̪t̪o#
+#fˈort̪iɑ# >>> *#wˈeɾθɑ# ( GOLD : #fwˈeɾθɑ#) :
+f ˈo r t̪ i ɑ 
+Popular Latin stage form : *#fˈort̪iɑ#
+*#fˈort̪jɑ# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#fˈɔrt̪jɑ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈɔɾt̪jɑ# | 51 : r > ɾ 
+*#fˈɔɾt͡ʃjɑ# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#fˈɔɾt͡ʃɑ# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#fˈɔɾt͡sɑ# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#fˈɔeɾt͡sɑ# | 116 : ∅ > e / [-tense,+prim] __ 
+*#fwˈeɾt͡sɑ# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#fwˈeɾt͡sɑ#
+*#hwˈeɾt͡sɑ# | 129 : [+lab,+cont,-voi] > h / __ [-cons]
+*#wˈeɾt͡sɑ# | 149 : h > ∅ 
+*#wˈeɾs̪ɑ# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#wˈeɾs̪ɑ#
+*#wˈeɾθɑ# | 225 : s̪ > θ 
+Final form : *#wˈeɾθɑ#

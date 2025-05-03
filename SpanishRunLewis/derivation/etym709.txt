@@ -1,19 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :709:
-#pˌed̪ˈukulum# >>> *#ped̪ˈuxo# ( GOLD : #pjˈoxo#) :
+#pˌed̪ˈukulum# >>> *#peˈuxo# ( GOLD : #pjˈoxo#) :
 p ˌe d̪ ˈu k u l u m 
-*#pˌed̪ˈuklum# | 32 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
-*#pˌed̪ˈuklu# | 33 : [+nas] > ∅ / [-stres] __ #
-*#pˌed̪ˈuxlu# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#pˌed̪ˈoxlo# | 51 : [+syl,-long] > [-hi] 
-*#pˌed̪ˈojlo# | 62 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-*#pˌed̪ˈojʎo# | 65 : [+lat] > ʎ / j __ 
-*#pˌed̪ˈoʎo# | 79 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-*#pˌed̪ˈuʎo# | 99 : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]
-*#pˌeðˈuʎo# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-*#pˌeðˈud͡ʒo# | 134 : ʎ > d͡ʒ 
-*#pˌeðˈuʒo# | 136 : d͡ʒ > ʒ 
-*#pˌeðˈuʃo# | 212 : [+strid] > [-voi] 
-*#pˌeðˈuxo# | 214 : ʃ > x 
-*#pˌed̪ˈuxo# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#ped̪ˈuxo# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ped̪ˈuxo#
+Popular Latin stage form : *#pˌed̪ˈukulum#
+*#pˌed̪ˈuklum# | 27 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#pˌed̪ˈuklu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#pˌed̪ˈuxlu# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#pˌɛd̪ˈuxlu# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌed̪ˈuxlu# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˌed̪ˈoxlo# | 48 : [+syl,-long] > [-hi] 
+*#pˌed̪ˈojlo# | 55 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#pˌed̪ˈojʎo# | 58 : [+lat] > ʎ / j __ 
+*#pˌed̪ˈoʎo# | 71 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#pˌed̪ˈuʎo# | 95 : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]
+*#pˌeˈuʎo# | 97 : [-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl]
+Old Spanish stage form : *#pˌeˈuʎo#
+*#pˌeˈud͡ʒo# | 133 : ʎ > d͡ʒ / [+syl] __ 
+*#pˌeˈuʒo# | 135 : d͡ʒ > ʒ 
+*#pˌeˈuʃo# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#pˌeˈuʃo#
+*#pˌeˈuxo# | 224 : ʃ > x 
+*#peˈuxo# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#peˈuxo#

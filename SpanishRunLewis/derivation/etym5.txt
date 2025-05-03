@@ -1,13 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :5:
-#bˈɑllˈist̪ɑ# >>> *#bˈɑʝˈest̪ɑ# ( GOLD : #bɑʝˈest̪ɑ#) :
-b ˈɑ l l ˈi s t̪ ɑ 
-*#bˈɑllˈis̪t̪ɑ# | 23 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#bˈɑllˈes̪t̪ɑ# | 51 : [+syl,-long] > [-hi] 
-*#βˈɑllˈes̪t̪ɑ# | 100 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-*#vˈɑllˈes̪t̪ɑ# | 113 : β > v 
-*#βˈɑllˈes̪t̪ɑ# | 133 : {v;f} > {β;ɸ} 
-*#βˈɑʎˈes̪t̪ɑ# | 144 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-*#βˈɑʎˈest̪ɑ# | 213 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-*#bˈɑʎˈest̪ɑ# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#bˈɑʝˈest̪ɑ# | 227 : ʎ > ʝ 
-Final form : *#bˈɑʝˈest̪ɑ#
+#brˌɑkkʰiˈɑːlem# >>> *#bɾɑθˈɑl# ( GOLD : #bɾɑθˈɑl#) :
+b r ˌɑ k kʰ i ˈɑː l e m 
+*#brˌɑkkiˈɑːlem# | 1 : [-cont] > [-sg] 
+Popular Latin stage form : *#brˌɑkkiˈɑːlem#
+*#brˌɑkkiˈɑːle# | 28 : [+nas] > ∅ / [-stres] __ #
+*#brˌɑkkjˈɑːle# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#brˌɑkkjˈɑːlɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#brˌɑkkjˈɑːle# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#brˌɑkkjˈɑle# | 49 : [+syl] > [-long,-splng] 
+*#bɾˌɑkkjˈɑle# | 51 : r > ɾ 
+*#bɾˌɑkt͡ʃjˈɑle# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#bɾˌɑkt͡ʃˈɑle# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#bɾˌɑkt͡sˈɑle# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#bɾˌɑt͡st͡sˈɑle# | 108 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+Old Spanish stage form : *#bɾˌɑt͡st͡sˈɑle#
+*#bɾˌɑt͡sˈɑle# | 142 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#bɾˌɑt͡sˈɑl# | 198 : e > ∅ / [+syl] [+lat,+ant] __ #
+*#bɾˌɑs̪ˈɑl# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#bɾˌɑs̪ˈɑl#
+*#bɾˌɑθˈɑl# | 225 : s̪ > θ 
+*#bɾɑθˈɑl# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#bɾɑθˈɑl#

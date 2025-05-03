@@ -1,12 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :228:
-#ˌɑɡn̪ˈiːn̪um# >>> *#ɑɲˈin̪o# ( GOLD : #ɑɲˈin̪o#) :
-ˌɑ ɡ n̪ ˈiː n̪ u m 
-*#ˌɑɡn̪ˈiːn̪u# | 33 : [+nas] > ∅ / [-stres] __ #
-*#ˌɑɣn̪ˈiːn̪u# | 39 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#ˌɑɣn̪ˈiːn̪o# | 51 : [+syl,-long] > [-hi] 
-*#ˌɑɣn̪ˈin̪o# | 52 : [+syl] > [-long,-splng] 
-*#ˌɑjn̪ˈin̪o# | 62 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-*#ˌɑjɲˈin̪o# | 63 : [+nas,+cor] > ɲ / j __ 
-*#ˌɑɲˈin̪o# | 79 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-*#ɑɲˈin̪o# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ɑɲˈin̪o#
+#krˈukem# >>> *#kɾˈoθ# ( GOLD : #kɾˈuθ#) :
+k r ˈu k e m 
+Popular Latin stage form : *#krˈukem#
+*#krˈuke# | 28 : [+nas] > ∅ / [-stres] __ #
+*#krˈukɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˈuke# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#krˈoke# | 48 : [+syl,-long] > [-hi] 
+*#kɾˈoke# | 51 : r > ɾ 
+*#kɾˈokje# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#kɾˈot͡ʃje# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#kɾˈot͡ʃe# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#kɾˈod͡ʒe# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#kɾˈod͡ze# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#kɾˈod͡ze#
+*#kɾˈod͡z# | 196 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+*#kɾˈoz̪# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#kɾˈos̪# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#kɾˈos̪#
+*#kɾˈoθ# | 225 : s̪ > θ 
+Final form : *#kɾˈoθ#

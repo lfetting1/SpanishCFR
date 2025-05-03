@@ -1,16 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :482:
-#ˌɑt̪t̪ˌɑliˈɑːre# >>> *#ɑt̪ɑxˈɑɾ# ( GOLD : #ɑt̪ɑxˈɑɾ#) :
-ˌɑ t̪ t̪ ˌɑ l i ˈɑː r e 
-*#ˌɑt̪t̪ˌɑljˈɑːre# | 49 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-*#ˌɑt̪t̪ˌɑljˈɑre# | 52 : [+syl] > [-long,-splng] 
-*#ˌɑt̪t̪ˌɑljˈɑɾe# | 53 : r > ɾ 
-*#ˌɑt̪t̪ˌɑʎjˈɑɾe# | 66 : [+lat] > ʎ / __ j
-*#ˌɑt̪t̪ˌɑʎˈɑɾe# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#ˌɑt̪t̪ˌɑd͡ʒˈɑɾe# | 134 : ʎ > d͡ʒ 
-*#ˌɑt̪t̪ˌɑʒˈɑɾe# | 136 : d͡ʒ > ʒ 
-*#ˌɑt̪ˌɑʒˈɑɾe# | 145 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
-*#ˌɑt̪ˌɑʒˈɑɾ# | 187 : e > ∅ / [+syl] ɾ __ #
-*#ˌɑt̪ˌɑʃˈɑɾ# | 212 : [+strid] > [-voi] 
-*#ˌɑt̪ˌɑxˈɑɾ# | 214 : ʃ > x 
-*#ɑt̪ɑxˈɑɾ# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ɑt̪ɑxˈɑɾ#
+#lˌae̯siˈoːn̪em# >>> *#lesˈon̪# ( GOLD : #lesjˈon̪#) :
+l ˌa e̯ s i ˈoː n̪ e m 
+Popular Latin stage form : *#lˌae̯siˈoːn̪em#
+*#lˌɛe̯siˈoːn̪em# | 20 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
+*#lˌɛːsiˈoːn̪em# | 21 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#lˌɛːsiˈoːn̪e# | 28 : [+nas] > ∅ / [-stres] __ #
+*#lˌɛːsjˈoːn̪e# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#lˌɛːsjˈoːn̪ɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˌeːsjˈoːn̪e# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lˌesjˈon̪e# | 49 : [+syl] > [-long,-splng] 
+*#lˌee̯sjˈon̪e# | 84 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+*#lˌejsˈon̪e# | 94 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#lˌejzˈon̪e# | 99 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+Old Spanish stage form : *#lˌejzˈon̪e#
+*#lˌeːzˈon̪e# | 171 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#lˌezˈon̪e# | 172 : [+syl] > [-long,-splng] 
+*#lˌezˈon̪# | 199 : e > ∅ / [+syl] [+nas,+cor,+ant] __ #
+*#lˌesˈon̪# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#lˌesˈon̪#
+*#lesˈon̪# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#lesˈon̪#

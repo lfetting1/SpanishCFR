@@ -1,13 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :91:
-#kˌɑt̪eːn̪ˈɑːt̪um# >>> *#kɑn̪d̪ˈɑd̪o# ( GOLD : #kɑn̪d̪ˈɑd̪o#) :
-k ˌɑ t̪ eː n̪ ˈɑː t̪ u m 
-*#kˌɑt̪eːn̪ˈɑːt̪u# | 33 : [+nas] > ∅ / [-stres] __ #
-*#kˌɑt̪eːn̪ˈɑːt̪o# | 51 : [+syl,-long] > [-hi] 
-*#kˌɑt̪en̪ˈɑt̪o# | 52 : [+syl] > [-long,-splng] 
-*#kˌɑd̪en̪ˈɑd̪o# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#kˌɑd̪n̪ˈɑd̪o# | 147 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#kˌɑn̪d̪ˈɑd̪o# | 176 : d̪ n̪ > n̪ d̪ 
-*#kˌɑn̪ðˈɑðo# | 184 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-*#kˌɑn̪d̪ˈɑd̪o# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#kɑn̪d̪ˈɑd̪o# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#kɑn̪d̪ˈɑd̪o#
+#flˈokkum# >>> *#flˈeko# ( GOLD : #flˈeko#) :
+f l ˈo k k u m 
+Popular Latin stage form : *#flˈokkum#
+*#flˈokku# | 28 : [+nas] > ∅ / [-stres] __ #
+*#flˈɔkku# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#flˈɔkko# | 48 : [+syl,-long] > [-hi] 
+*#flˈɔekko# | 116 : ∅ > e / [-tense,+prim] __ 
+*#flwˈekko# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#flwˈekko#
+*#flwˈeko# | 142 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#flˈeko# | 209 : [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]
+Middle Spanish stage form : *#flˈeko#
+Final form : *#flˈeko#

@@ -1,21 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1000:
-#wˌɑkˈiːwum# >>> *#bɑθˈibo# ( GOLD : #bɑθˈio#) :
+#wˌɑkˈiːwum# >>> *#bɑθˈio# ( GOLD : #bɑθˈio#) :
 w ˌɑ k ˈiː w u m 
-*#ɣʷˌɑkˈiːɣʷum# | 21 : w > ɣʷ / __ [+syl]
-*#ɣʷˌɑkˈiːɣʷu# | 33 : [+nas] > ∅ / [-stres] __ #
-*#βˌɑkˈiːβu# | 38 : ɣʷ > β 
-*#βˌɑkˈiːβo# | 51 : [+syl,-long] > [-hi] 
-*#βˌɑkˈiβo# | 52 : [+syl] > [-long,-splng] 
-*#βˌɑkjˈiβo# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#βˌɑt͡ʃjˈiβo# | 73 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-*#βˌɑt͡ʃˈiβo# | 77 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#βˌɑd͡ʒˈiβo# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
-*#βˌɑd͡zˈiβo# | 109 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-*#vˌɑd͡zˈivo# | 113 : β > v 
-*#βˌɑd͡zˈiβo# | 133 : {v;f} > {β;ɸ} 
-*#βˌɑz̪ˈiβo# | 211 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#βˌɑs̪ˈiβo# | 212 : [+strid] > [-voi] 
-*#βˌɑθˈiβo# | 215 : s̪ > θ / __ [-cons]
-*#bˌɑθˈibo# | 223 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-*#bɑθˈibo# | 226 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#bɑθˈibo#
+Popular Latin stage form : *#wˌɑkˈiːwum#
+*#ɣʷˌɑkˈiːɣʷum# | 17 : w > ɣʷ / __ [+syl]
+*#ɣʷˌɑkˈiːɣʷu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#bˌɑkˈiːbu# | 33 : ɣʷ > b 
+*#bˌɑkˈiːbo# | 48 : [+syl,-long] > [-hi] 
+*#bˌɑkˈibo# | 49 : [+syl] > [-long,-splng] 
+*#bˌɑkjˈibo# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#bˌɑt͡ʃjˈibo# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#bˌɑt͡ʃˈibo# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#bˌɑt͡ʃˈio# | 98 : [-son,+voi,+lab,-strid] > ∅ / [+front,+hi,-cons] __ [+back,+syl]
+*#bˌɑd͡ʒˈio# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#bˌɑd͡zˈio# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#bˌɑd͡zˈio#
+*#bˌɑz̪ˈio# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#bˌɑs̪ˈio# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#bˌɑs̪ˈio#
+*#bˌɑθˈio# | 225 : s̪ > θ 
+*#bɑθˈio# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#bɑθˈio#
