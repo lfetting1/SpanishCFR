@@ -48,7 +48,7 @@ $[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $syncope_early
 [+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 
 [+cons,-cont] > ∅ / __ # $final stop deletion
 [+son,+cons,αnas] > [+cor,+ant,αdistr,-lab,-hi,-front,-back] / __ # $ final sonorant > coronal. This is intended for m, ɲ and ʎ to become n and l. Original version [+son] > [+cor]. If this solution doesn't work, use phones. 
-[+cons] > ∅ / __ [+strid,+cor] [+cons] $ reduction of cluster containing a sibilant
+[-son] > ∅ / __ [+strid,+cor] [-son] $ reduction of cluster containing a sibilant
 ɣʷ > β $ w_beta
 [+back,+cons,-cont] > [+cont] / [+syl] __ [+cons,-back] $velar spirantization
 r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,+strid]
@@ -94,8 +94,8 @@ e > i / __ j $ front raising
 {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
 [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons] $ recurrent rule,waw absorption $(72) Fixed to specifically apply to consonants.
 [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ $ recurrent rule,waw absorption $(73) Fixed. No effect (reasonable)
-[-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
-[-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
+j > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
+j > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
 
 $unround, fixed. CM 10/22
 [-son,+round] > [-round,-lab] / __ [+syl,-lo]
@@ -177,6 +177,8 @@ $[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is
 [-cons,-syl,+hi] > [+cons,-son] / {[+syl]; #} __ [+syl] $recurrent,modern glide fortition 
 [+hi,+syl] > [-hi] / [+syl,+prim] (@)* ([-syl])* __ # $ final -i,-u > -e,-o in polysyllable. May need to double check if implementation here is as Hartman intended. 
 {v; f} > {β; ɸ} $ "betacism"
+j > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
+j > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
 ʎ > d͡ʒ $ lateral affrication
 [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
 d͡ʒ > ʒ $j_y_merger, for dʒ
@@ -219,8 +221,8 @@ $CM 10/13: assert persistent rule -- unlong
 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 [-syl,-cons,+hi,+round] > ∅ / [+round] __ $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
-[-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
-[-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
+j > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
+j > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption. TODO check later in second runthrough -- currently bled. 
 
 $apparently this (ew_iw) was errantly placed before progressive_hushing -- unless that reflects the online version? 
 [+syl,-back,+tense,-stres,-lo] > [+hi] / __ [+hi,+round] $ ew_iw
