@@ -104,7 +104,7 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 
 
-[+syl,-stres,-lo] > [-syl,-long,+hi] / __ [+syl,+hi] $ syneresis early
+[+syl,-stres,-lo,+hi] > [-syl,-long] / __ [+syl] $ syneresis early
 
 [+syl,-stres,-lo,+back] > [-syl,-long,+hi] / __ [+syl,-back] $ syneresis early
 
@@ -160,7 +160,7 @@ $ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work b
 
 ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back] $ ongliding $(69) !Hartman's system does not have this affecting /a/ - in other words his symbol defs are different.
 
-{t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j $"affrication". Combination of the two below, generously including the aspirates of t and k. $(70) Works. 
+{t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j $"affrication". Combination of the two below, generously including the aspirates of t and k. $(70) Works. 
 
     $[-cont,+cor] > [-ant,+distr,+delrel,+hi,+strid] / __ [-cons,-syl,+hi,+front] $dental affrication
 
@@ -280,7 +280,7 @@ $[+syl] > [-lo] / j __ [-son] $ metaphony o agent j,nothing indicating target is
 
 [+syl,-tense] > [+tense] / __ (@) (@) [-cons,-syl] $ low raising,glide can be 1st 2nd or 3rd phoneme following
 
-[+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ $ progressive raising (e>i / V ʝ __ ) $(111) Fixed. Context is / V ʝ __ 
+[+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont,-son] __ $ progressive raising (e>i / V ʝ __ ) $(111) Fixed. Context is / V ʝ __ 
 
 ∅ > e / [-tense,+prim] __ $diphthongization (part a)
 [-tense,+prim] e > [+tense,+hi,-syl] [+prim] $diphthongization (part b)
@@ -293,7 +293,7 @@ $[-tense] ∅ > [+tense,+hi,-syl] e $!test this
 
 ʝ > ∅ / [+lat] __ [+syl,+front] $recurrent, palatal deletion
 
-ʝ > ∅ / [+syl,+front] __ [+syl] $recurrent rule,palatal deletion
+ʝ > ∅ / [+syl,-round] __ [+syl] $recurrent rule,palatal deletionn
 
 $DiaCLESp change C.1.C. Broadened context of modern syneresis from [-prim] to [-stres]
 
@@ -363,7 +363,24 @@ h > ∅ $ h_deletion DiaCLESp change B.1.C.
 
 [-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] (-syl)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
 
-[-lo, +syl, -stres] > ∅ / [+prim] (-prim)* [+cons] __ [+cons] @ $syncope late, after primary stress. This rule is meant to trigger between two consonants in a non-final syllable that occurs after the primary stress.
+[-lo, +syl, -stres] > ∅ / [+prim] (-prim)* (@) [+cons] __ [+cons] @ $syncope late, after primary stress. This rule is meant to trigger between two consonants in a non-final syllable that occurs after the primary stress.
+
+$Syncope late feeds hartman's persistent implosion rule, The earlier version of implosion is reinserted below. TODO - check if we need all of these implosion rules
+[+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son] $implosion
+
+[+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+cons,-son,αvoi] $implosion 
+
+[+cons,-strid,αvoi] > ∅ / [+cons,αvoi] __ [+cons,-son,-strid] $ implosion
+
+[+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi] $ implosion 
+
+[+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+nas] $implosion
+
+[+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+nas,αvoi] $implosion
+
+[+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons,αvoi] __ [+lat] $implosion
+
+[+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi] $implosion
 
 [-son] > [-voi] / [-voi] __ $ progressive_voicing
 
@@ -446,7 +463,7 @@ e > ∅ / [+syl] {[+cor,+ant,-cont];ɾ;[+lat,+ant];[+nas,+cor,+ant];[+strid,-fro
 
 [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim] [-stres] $ restress
 
-[+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl] $raising-by_diphthong
+[+syl,-lo] > [+hi] / __ [+cons] (+cons) [-cons,-syl] $raising by diphthong
 
 [+syl,-lo,-stres] > [+hi] / @ __ [+cons] ([+cons]) [-cons,-syl] $raising_by_diphthong extra effect on unstressed vowels two Cs away from glide 
 
@@ -485,13 +502,17 @@ n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation. TODO seems good but c
 
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas] $epenthetic b d -- occurs before r, ɾ; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
 
+m > n̪ / __ [+cor,+cons] $ nasal assimilation. This seems to be the only context where the rule applies again. Maybe refine
+
 $[+hi,+stres] [-hi,-stres] > [-stres] [+stres] $ restress -- CM(@Aug31) -- was this rule inserted by accident here? It has no effect currently and has already been realized.
 
 [+strid,+ant,+delrel] > [+cont,+distr] $deaffrication
 
 [+strid] > [-voi] $ unvoice,the great sibilant merger
 
-[-son,+cor,+ant] > [+strid,+cont,-distr] / __ [-son] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.) (However ,this had to be changed from the default direct translation of his features use dodesnțt capture hat, apparently, ʃ is not targeted by "+obstr +cor". Also bizarre that he had +delrel... anyhow.) TODO look at this again. TODO also -- it apparently effects /t/ as well? That is probably not intended but is it too generous to attribute removal of this to Hartmann? 
+$[-son,+cor,+ant] > [+strid,+cont,-distr] / __ [-son] $ "azgo" (Seems to only have affected one morpheme -adgo which is not in lexicon? Investigate.) (However ,this had to be changed from the default direct translation of his features use dodesnțt capture hat, apparently, ʃ is not targeted by "+obstr +cor". Also bizarre that he had +delrel... anyhow.) TODO look at this again. TODO also -- it apparently effects /t/ as well? That is probably not intended but is it too generous to attribute removal of this to Hartmann? 
+
+s̪ > s / __ [-son]
 
 =Middle Spanish
 
