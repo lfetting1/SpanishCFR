@@ -1,15 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :693:
-#pˌekt̪in̪ˈɑːre# >>> #pen̪t̪ˈɑɾ# ( GOLD : #pejn̪ˈɑɾ#) :
-p ˌe k t̪ i n̪ ˈɑː r e 
-#pˌext̪in̪ˈɑːre# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#pˌext̪en̪ˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#pˌext̪en̪ˈɑre# | 51 : [+syl] > [-long,-splng] 
-#pˌext̪en̪ˈɑɾe# | 52 : r > ɾ 
-#pˌejt̪en̪ˈɑɾe# | 111 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-#pˌejt̪n̪ˈɑɾe# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#pˌeːt̪n̪ˈɑɾe# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#pˌet̪n̪ˈɑɾe# | 158 : [+syl] > [-long,-splng] 
-#pˌen̪t̪ˈɑɾe# | 169 : t̪ n̪ > n̪ t̪ 
-#pˌen̪t̪ˈɑɾ# | 177 : e > ∅ / [+syl] ɾ __ #
-#pen̪t̪ˈɑɾ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pen̪t̪ˈɑɾ#
+#pˈuɡn̪um# >>> *#pˈuɲo# ( GOLD : #pˈuɲo#) :
+p ˈu ɡ n̪ u m 
+Popular Latin stage form : *#pˈuɡn̪um#
+*#pˈuɡn̪u# | 28 : [+nas] > ∅ / [-stres] __ #
+*#pˈuɣn̪u# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#pˈoɣn̪o# | 48 : [+syl,-long] > [-hi] 
+*#pˈojn̪o# | 55 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#pˈojɲo# | 56 : [+nas,+cor] > ɲ / j __ 
+*#pˈoɲo# | 71 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#pˈuɲo# | 95 : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]
+Old Spanish stage form : *#pˈuɲo#
+Middle Spanish stage form : *#pˈuɲo#
+Final form : *#pˈuɲo#

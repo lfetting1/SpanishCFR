@@ -1,13 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :273:
-#kˈon̪kʰulɑm# >>> #kwˈen̪t͡ʃɑ# ( GOLD : #kon̪t͡ʃɑ#) :
-k ˈo n̪ kʰ u l ɑ m 
-#kˈoŋkʰulɑm# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#kˈoŋkʰlɑm# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
-#kˈoŋkʰlɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˈɔŋkʰlɑ# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˈɔeŋkʰlɑ# | 118 : ∅ > e / [-tense,+prim] __ 
-#kwˈeŋkʰlɑ# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#kwˈeŋkʰʎɑ# | 132 : [+lat] > ʎ / [-son] __ 
-#kwˈeŋt͡ʃɑ# | 134 : [-voi] [+lat] > t͡ʃ
-#kwˈen̪t͡ʃɑ# | 213 : ŋ > n̪ 
-Final form : #kwˈen̪t͡ʃɑ#
+#kˈin̪kt̪um# >>> *#θˈin̪t̪o# ( GOLD : #θˈin̪t̪o#) :
+k ˈi n̪ k t̪ u m 
+*#kˈiːn̪kt̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son] [-son]
+*#kˈiːn̪t̪um# | 7 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
+Popular Latin stage form : *#kˈiːn̪t̪um#
+*#kˈiːn̪t̪u# | 28 : [+nas] > ∅ / [-stres] __ #
+*#kˈiːn̪t̪o# | 48 : [+syl,-long] > [-hi] 
+*#kˈin̪t̪o# | 49 : [+syl] > [-long,-splng] 
+*#kjˈin̪t̪o# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t͡ʃjˈin̪t̪o# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#t͡ʃˈin̪t̪o# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#t͡sˈin̪t̪o# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#t͡sˈin̪t̪o#
+*#s̪ˈin̪t̪o# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#s̪ˈin̪t̪o#
+*#θˈin̪t̪o# | 225 : s̪ > θ 
+Final form : *#θˈin̪t̪o#

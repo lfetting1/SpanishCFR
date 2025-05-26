@@ -1,1216 +1,1233 @@
-etID  | Input | Output {GOLD}
-0      | #blˈit̪um# | #blˈed̪o# {GOLD: #blˈed̪o#}
-1      | #blˈɑn̪d̪um# | #blˈɑn̪d̪o# {GOLD: #blˈɑn̪d̪o#}
-2      | #blˌɑn̪d̪ˈit̪iɑ# | #blɑn̪d̪ˈeθɑ# {GOLD: #blɑn̪d̪ˈeθɑ#}
-3      | #brˈɑkkʰium# | #bɾˈeθo# {GOLD: #bɾˈɑθo#}
-4      | #brˈɑkɑm# | #bɾˈɑɡɑ# {GOLD: #bɾˈɑɡɑ#}
-5      | #brˌɑkkʰiˈɑːlem# | #bɾeθˈɑl# {GOLD: #bɾɑθˈɑl#}
-6      | #brˌɑkkʰˈiolum# | #bɾiθwˈelo# {GOLD: #bɾɑθwˈelo#}
-7      | #bˈellum# | #bˈiʝo# {GOLD: #bˈeʝo#}
-8      | #bˈen̪e# | #bjˈen̪# {GOLD: #bjˈen̪#}
-9      | #bˈiferɑm# | #bˈebɾɑ# {GOLD: #bɾˈebɑ#}
-10     | #bˈon̪um# | #bwˈen̪o# {GOLD: #bwˈen̪o#}
-11     | #bˈowem# | #bwe# {GOLD: #bwˈej#}
-12     | #bˈukkeum# | #bwˈiθo# {GOLD: #bˈoθo#}
-13     | #bˈukkɑm# | #bˈokɑ# {GOLD: #bˈokɑ#}
-14     | #bˈurrulɑm# | #bˈorlɑ# {GOLD: #bˈoɾlɑ#}
-15     | #bˈɑd̪ium# | #bˈɑʝo# {GOLD: #bˈɑʝo#}
-16     | #bˈɑikɑ# | #bˈeɡɑ# {GOLD: #bˈeɡɑ#}
-17     | #bˈɑlbum# | #bˈobo# {GOLD: #bˈobo#}
-18     | #bˈɑllˈist̪ɑ# | #bˈɑʝˈest̪ɑ# {GOLD: #bɑʝˈest̪ɑ#}
-19     | #bˈɑln̪eum# | #bˈɑl̪ɲo# {GOLD: #bˈɑɲo#}
-20     | #bˈɑrbɑm# | #bˈɑɾbɑ# {GOLD: #bˈɑɾbɑ#}
-21     | #bˈɑsium# | #bˈeso# {GOLD: #bˈeso#}
-22     | #bˈɑːssum# | #bˈɑso# {GOLD: #bˈɑxo#}
-23     | #bˈɑt̪t̪uoː# | #bˈɑt̪o# {GOLD: #bˈɑt̪o#}
-24     | #bˌelˈen̪ion̪# | #belˈeɲo# {GOLD: #belˈeɲo#}
-25     | #bˌon̪it̪ˈɑːt̪em# | #bon̪d̪ˈɑd̪# {GOLD: #bon̪d̪ˈɑd̪#}
-26     | #bˌurrˈɑɡin̪em# | #borˈen̪# {GOLD: #borˈen̪#}
-27     | #bˌɑrbˈellɑ# | #bɑɾbˈiʝɑ# {GOLD: #bɑɾbˈiʝɑ#}
-28     | #bˌɑrbˈɑkulɑ# | #bɑɾbˈɑxɑ# {GOLD: #bɑɾbˈɑxɑ#}
-29     | #bˌɑːsiˈɑːre# | #besˈɑɾ# {GOLD: #besˈɑɾ#}
-30     | #bˌɑssiˈɑːre# | #bɑxˈɑɾ# {GOLD: #bɑxˈɑɾ#}
-31     | #bˌɑwkˈɑːlem# | #bokˈɑl# {GOLD: #bokˈɑl#}
-32     | #kˌord̪ˈɑːrium# | #koɾd̪ˈeɾo# {GOLD: #koɾd̪ˈeɾo#}
-33     | #kˌoɡn̪ˈɑːt̪um# | #kuɲˈɑd̪o# {GOLD: #kuɲˈɑd̪o#}
-34     | #d̪ˈekimum# | #d̪jˈes̪mo# {GOLD: #d̪jˈeθmo#}
-35     | #d̪ˈɑmn̪um# | #d̪ˈɑɲo# {GOLD: #d̪ˈɑɲo#}
-36     | #d̪eˈorsum# | #xwˈeso# {GOLD: #ʝˈuso#}
-37     | #d̪ˈomit̪um# | #d̪ˈomd̪o# {GOLD: #d̪wˈen̪d̪o#}
-38     | #d̪rˌɑkˈoːn̪em# | #d̪ɾɑɡˈon̪# {GOLD: #d̪ɾɑɡˈon̪#}
-39     | #d̪uˈod̪ekim# | #d̪wˈeθ# {GOLD: #d̪ˈoθe#}
-40     | #d̪ˈein̪d̪e# | #d̪ˈien̪d̪e# {GOLD: #d̪ˈen̪d̪e#}
-41     | #d̪ˈein̪t̪ro# | #d̪ˈien̪t̪ɾo# {GOLD: #d̪ˈen̪t̪ɾo#}
-42     | #d̪ˈekem# | #d̪jˈeθ# {GOLD: #d̪jˈeθ#}
-43     | #d̪ˌekˈembrem# | #d̪iθjˈembɾe# {GOLD: #d̪iθjˈembɾe#}
-44     | #d̪ˈekst̪rum# | #d̪jˈest̪ɾo# {GOLD: #d̪jˈest̪ɾo#}
-45     | #d̪ˈekst̪rɑm# | #d̪jˈest̪ɾɑ# {GOLD: #d̪jˈest̪ɾɑ#}
-46     | #d̪ˈen̪t̪em# | #d̪jˈen̪t̪e# {GOLD: #d̪jˈen̪t̪e#}
-47     | #d̪ˈeus# | #xˈos# {GOLD: #d̪jˈos#}
-48     | #d̪ˈeːbit̪ɑ# | #d̪ˈewd̪ɑ# {GOLD: #d̪ˈewd̪ɑ#}
-49     | #d̪ˈiːk# | #d̪ˈi# {GOLD: #d̪ˈi#}
-50     | #d̪ˈiːkit̪# | #d̪ˈiθ# {GOLD: #d̪ˈiθe#}
-51     | #d̪ˈikt̪um# | #d̪ˈet͡ʃo# {GOLD: #d̪ˈit͡ʃo#}
-52     | #d̪ˈiɡit̪um# | #d̪ˈeed̪o# {GOLD: #d̪ˈed̪o#}
-53     | #d̪ˈokt̪um# | #d̪ˈot͡ʃo# {GOLD: #d̪ˈut͡ʃo#}
-54     | #d̪ˈolum# | #d̪wˈelo# {GOLD: #d̪wˈelo#}
-55     | #d̪ˈomin̪um# | #d̪wˈembɾo# {GOLD: #d̪wˈeɲo#}
-56     | #d̪ˈomin̪ɑm# | #d̪wˈembɾɑ# {GOLD: #d̪ˈoɲɑ#}
-57     | #d̪ˈomin̪ɑm# | #d̪wˈembɾɑ# {GOLD: #d̪wˈeɲɑ#}
-58     | #d̪ˈoːrium# | #d̪wˈeɾo# {GOLD: #d̪wˈeɾo#}
-59     | #d̪ˈulkem# | #d̪wˈiθ# {GOLD: #d̪ˈulθe#}
-60     | #d̪ˈuoːs# | #d̪ˈos# {GOLD: #d̪ˈos#}
-61     | #d̪ˈuplem# | #d̪ˈoble# {GOLD: #d̪ˈoble#}
-62     | #d̪ˈuːbit̪ɑ# | #d̪ˈuwd̪ɑ# {GOLD: #d̪ˈud̪ɑ#}
-63     | #d̪ˈuːrum# | #d̪ˈuɾo# {GOLD: #d̪ˈuɾo#}
-64     | #d̪ˌefˈeːn̪sɑ# | #d̪ebˈesɑ# {GOLD: #d̪eˈesɑ#}
-65     | #d̪ˌekimˈɑːre# | #d̪es̪mˈɑɾ# {GOLD: #d̪eθmˈɑɾ#}
-66     | #d̪ˌelikˈɑːt̪um# | #d̪elɡˈɑd̪o# {GOLD: #d̪elɡˈɑd̪o#}
-67     | #d̪ˌelˈikt̪um# | #d̪elˈet͡ʃo# {GOLD: #d̪elˈit̪o#}
-68     | #d̪ˌeːbit̪ˈoːre# | #d̪ewd̪ˈoɾ# {GOLD: #d̪eud̪ˈoɾ#}
-69     | #d̪ˌeːlikˈɑːt̪um# | #d̪elɡˈɑd̪o# {GOLD: #d̪elɡˈɑd̪o#}
-70     | #d̪ˌeːn̪ˈɑːrium# | #d̪en̪ˈeɾo# {GOLD: #d̪in̪ˈeɾo#}
-71     | #d̪ˌeːsid̪erˈɑːre# | #d̪esd̪ɾˈɑɾ# {GOLD: #d̪eseˈɑɾ#}
-72     | #d̪ˌeːspˈekt̪um# | #d̪espˈet͡ʃo# {GOLD: #d̪espˈet͡ʃo#}
-73     | #d̪ˌeːspˌoliˈɑːre# | #d̪espuxˈɑɾ# {GOLD: #d̪espoxˈɑɾ#}
-74     | #d̪ˌeːsˌɑn̪ɡin̪ˈɑːre# | #d̪esɑn̪ʝn̪ˈɑɾ# {GOLD: #d̪esɑn̪ɡɾˈɑɾ#}
-75     | #d̪ˌeːsˈed̪ium# | #d̪isˈeo# {GOLD: #d̪esˈeo#}
-76     | #d̪ˌeːsˈert̪um# | #d̪isjˈeɾt̪o# {GOLD: #d̪esjˈeɾt̪o#}
-77     | #d̪ˌeːsˈiɡn̪um# | #d̪esˈeɲo# {GOLD: #d̪isˈeɲo#}
-78     | #d̪ˌikt̪ˈɑːt̪um# | #d̪et͡ʃˈɑd̪o# {GOLD: #d̪et͡ʃˈɑd̪o#}
-79     | #d̪ˌist̪ɑliˈɑːre# | #d̪est̪ɑxˈɑɾ# {GOLD: #d̪est̪ɑxˈɑɾ#}
-80     | #d̪ˌiurn̪ˈɑːlem# | #xˈoɾn̪ˈɑl# {GOLD: #xoɾn̪ˈɑl#}
-81     | #d̪ˌiurn̪ˈɑːt̪ɑ# | #xˈoɾn̪ˈɑd̪ɑ# {GOLD: #xoɾn̪ˈɑd̪ɑ#}
-82     | #d̪ˌiɡit̪ˈɑːle# | #d̪eed̪ˈɑl# {GOLD: #d̪ed̪ˈɑl#}
-83     | #d̪ˌiːkˈiːre# | #d̪eθˈiɾ# {GOLD: #d̪eθˈiɾ#}
-84     | #d̪ˌiːrˈekt̪um# | #d̪iɾˈet͡ʃo# {GOLD: #d̪eɾˈet͡ʃo#}
-85     | #d̪ˌiːwˈiːn̪um# | #d̪ebˈin̪o# {GOLD: #d̪ibˈin̪o#}
-86     | #d̪ˌolˈoːrem# | #d̪olˈoɾ# {GOLD: #d̪olˈoɾ#}
-87     | #d̪ˌomˈiːn̪ikum# | #d̪omˈin̪ɡo# {GOLD: #d̪omˈin̪ɡo#}
-88     | #d̪ˌubit̪ˈɑːre# | #d̪owd̪ˈɑɾ# {GOLD: #d̪ud̪ˈɑɾ#}
-89     | #d̪ˌuːrˈit̪iɑm# | #d̪uɾˈeθɑ# {GOLD: #d̪uɾˈeθɑ#}
-90     | #d̪ˌuːrˈɑkin̪um# | #d̪uɾˈɑs̪n̪o# {GOLD: #d̪uɾˈɑθn̪o#}
-91     | #flˈokkum# | #ʝwˈeko# {GOLD: #flˈeko#}
-92     | #flˈoːrem# | #ʝˈoɾ# {GOLD: #flˈoɾ#}
-93     | #flˈuksum# | #ʝˈuxo# {GOLD: #flˈoxo#}
-94     | #flˈɑkkid̪um# | #ʝˈeθed̪o# {GOLD: #lˈɑθjo#}
-95     | #flˈɑmmɑm# | #ʝˈɑmɑ# {GOLD: #ʝˈɑmɑ#}
-96     | #frˈiːkt̪um# | #fɾˈit͡ʃo# {GOLD: #fɾˈit̪o#}
-97     | #frˈiːɡid̪um# | #fɾˈid̪o# {GOLD: #fɾˈio#}
-98     | #frˈiːɡum# | #fɾˈiɡo# {GOLD: #fɾˈio#}
-99     | #frˈon̪t̪e# | #fɾˈen̪t̪e# {GOLD: #fɾˈen̪t̪e#}
-100    | #frˈuːkt̪um# | #fɾˈut͡ʃo# {GOLD: #fɾˈut͡ʃo#}
-101    | #frˈɑbikɑ# | #fɾˈɑɡʷɑ# {GOLD: #fɾˈɑɡʷɑ#}
-102    | #frˈɑksin̪um# | #fɾˈɑsn̪o# {GOLD: #fɾˈesn̪o#}
-103    | #frˌikˈɑːre# | #fɾeɡˈɑɾ# {GOLD: #fɾeɡˈɑɾ#}
-104    | #frˌiːksˈeolum# | #fɾixwˈelo# {GOLD: #fɾiswˈelo#}
-105    | #frˌiːkt̪iˈɑːre# | #fɾiθˈɑɾ# {GOLD: #fɾiθˈɑɾ#}
-106    | #fˈebrem# | #fjˈebɾe# {GOLD: #fjˈebɾe#}
-107    | #fˈeːkiː# | #ˈeθi# {GOLD: #ˈiθe#}
-108    | #fˈelem# | #fjˈel# {GOLD: #ʝˈel#}
-109    | #fˈerrum# | #fjˈero# {GOLD: #ʝˈero#}
-110    | #fˈerɑm# | #fjˈeɾɑ# {GOLD: #fjˈeɾɑ#}
-111    | #fˈeːmin̪ɑ# | #ˈembɾɑ# {GOLD: #ˈembɾɑ#}
-112    | #fˈeːn̪um# | #ˈen̪o# {GOLD: #ˈen̪o#}
-113    | #fˈibrɑ# | #ˈebɾɑ# {GOLD: #ˈebɾɑ#}
-114    | #fˈid̪em# | #ˈee# {GOLD: #fˈe#}
-115    | #fˈiːkum# | #ˈiɡo# {GOLD: #ˈiɡo#}
-116    | #fˈiːlum# | #ˈilo# {GOLD: #ˈilo#}
-117    | #fˈiːksum# | #ˈixo# {GOLD: #fˈixo#}
-118    | #fˈiːkt̪um# | #ˈit͡ʃo# {GOLD: #ˈit̪o#}
-119    | #fˈiːlium# | #ˈixo# {GOLD: #ˈixo#}
-120    | #fˈiːliɑm# | #ˈixɑ# {GOLD: #ˈixɑ#}
-121    | #fˈiːn̪em# | #ˈin̪# {GOLD: #fˈin̪#}
-122    | #fˈoe̯d̪um# | #ˈed̪o# {GOLD: #fˈeo#}
-123    | #fˈokum# | #fwˈeɡo# {GOLD: #fwˈeɡo#}
-124    | #fˈoliɑ# | #ˈoxɑ# {GOLD: #ˈoxɑ#}
-125    | #fˈollem# | #fwˈeʝe# {GOLD: #fwˈeʝe#}
-126    | #fˈon̪t̪em# | #fwˈen̪t̪e# {GOLD: #fwˈen̪t̪e#}
-127    | #fˈort̪em# | #fwˈeɾt̪e# {GOLD: #fwˈeɾt̪e#}
-128    | #fˈort̪iɑ# | #fwˈeθɑ# {GOLD: #fwˈeɾθɑ#}
-129    | #fˈoːweɑ# | #fwjˈɑ# {GOLD: #oʝɑ#}
-130    | #fˈoːrmɑ# | #ˈoɾmɑ# {GOLD: #ˈoɾmɑ#}
-131    | #fˈun̪d̪um# | #ˈon̪d̪o# {GOLD: #fˈon̪d̪o#}
-132    | #fˈun̪d̪ɑm# | #ˈon̪d̪ɑ# {GOLD: #ˈon̪d̪ɑ#}
-133    | #fˈun̪ɡum# | #ˈon̪ɡo# {GOLD: #ˈon̪ɡo#}
-134    | #fˈurkɑm# | #ˈoɾkɑ# {GOLD: #ˈoɾkɑ#}
-135    | #fˈurn̪um# | #ˈoɾn̪o# {GOLD: #ˈoɾn̪o#}
-136    | #fˈurn̪ɑkeum# | #ˈoɾn̪ɑθo# {GOLD: #oɾn̪ˈɑθo#}
-137    | #fˈuːmum# | #ˈumo# {GOLD: #umo#}
-138    | #fˈuːrt̪um# | #ˈuɾt̪o# {GOLD: #ˈuɾt̪o#}
-139    | #fˈɑːbulɑm# | #ˈɑblɑ# {GOLD: #ˈɑblɑ#}
-140    | #fˈɑbɑm# | #ˈɑbɑ# {GOLD: #ˈɑbɑ#}
-141    | #fˈɑkiem# | #ˈɑθ# {GOLD: #ˈɑθ#}
-142    | #fˈɑkit̪# | #ˈɑθ# {GOLD: #ˈɑθe#}
-143    | #fˈɑkt̪um# | #ˈet͡ʃo# {GOLD: #ˈet͡ʃo#}
-144    | #fˈɑkt̪ɑm# | #ˈet͡ʃɑ# {GOLD: #fˈet͡ʃɑ#}
-145    | #fˈɑlkem# | #ˈoθ# {GOLD: #ˈoθ#}
-146    | #fˈɑmin̪em# | #ˈɑmbɾe# {GOLD: #ˈɑmbɾe#}
-147    | #fˈɑskem# | #ˈɑθe# {GOLD: #ˈɑθ#}
-148    | #fˈɑskeːs# | #ˈɑθes# {GOLD: #ˈɑθes#}
-149    | #fˈɑskiɑm# | #ˈɑθɑ# {GOLD: #ˈɑθɑ#}
-150    | #fˈɑːɡeɑm# | #ˈɑʝɑ# {GOLD: #ˈɑʝɑ#}
-151    | #fˌen̪ˈiːlem# | #en̪ˈil# {GOLD: #en̪ˈil#}
-152    | #fˌerrˈɑːrium# | #erˈeɾo# {GOLD: #erˈeɾo#}
-153    | #fˌerwˈen̪t̪em# | #eɾbjˈen̪t̪e# {GOLD: #iɾbjˈen̪t̪e#}
-154    | #fˌeːn̪ˈukulum# | #en̪ˈuxo# {GOLD: #in̪ˈoxo#}
-155    | #fˌeːt̪ˈeːre# | #ed̪ˈeɾ# {GOLD: #ed̪ˈeɾ#}
-156    | #fˌid̪ˈeːlem# | #eˈel# {GOLD: #fjˈel#}
-157    | #fˌikˈɑːt̪um# | #eɡˈɑd̪o# {GOLD: #iɡˈɑd̪o#}
-158    | #fˌilˈikt̪um# | #elˈet͡ʃo# {GOLD: #elˈet͡ʃo#}
-159    | #fˌiːkˈɑːriɑ# | #iɡˈeɾɑ# {GOLD: #iɡˈeɾɑ#}
-160    | #fˌiːlˈiolum# | #ixwˈelo# {GOLD: #ixwˈelo#}
-161    | #fˌokˈɑːrem# | #oɡˈɑɾ# {GOLD: #oɡˈɑɾ#}
-162    | #fˌokˈɑːriɑ# | #oɡˈeɾɑ# {GOLD: #oɡˈeɾɑ#}
-163    | #fˌormˈiːkɑm# | #oɾmˈiɡɑ# {GOLD: #oɾmˈiɡɑ#}
-164    | #fˌorˈɑn̪eum# | #oɾˈɑɲo# {GOLD: #uɾˈɑɲo#}
-165    | #fˌoːrmˈoːsum# | #oɾmˈoso# {GOLD: #eɾmˈoso#}
-166    | #fˌollikˈɑːre# | #oʝɡˈɑɾ# {GOLD: #olɡˈɑɾ#}
-167    | #fˌuːlˈiːɡin̪em# | #olˈin̪# {GOLD: #oʝˈin̪#}
-168    | #fˌuːmiɡˈɑːre# | #umjˈɑɾ# {GOLD: #umeˈɑɾ#}
-169    | #fˌɑbulˈɑːre# | #ɑblˈɑɾ# {GOLD: #ɑblˈɑɾ#}
-170    | #fˌɑkt̪ˈiːkium# | #et͡ʃˈiθo# {GOLD: #et͡ʃˈiθo#}
-171    | #fˌɑkt̪ˈuːrɑ# | #et͡ʃˈuɾɑ# {GOLD: #et͡ʃˈuɾɑ#}
-172    | #fˌɑlkˈiːn̪um# | #oθˈin̪o# {GOLD: #oθˈin̪o#}
-173    | #fˌɑmˈeːlikum# | #ɑmˈelɡo# {GOLD: #xɑmˈelɡo#}
-174    | #fˌɑriːn̪ˈɑːrium# | #ɑɾn̪ˈeɾo# {GOLD: #ɑɾn̪ˈeɾo#}
-175    | #fˌɑrˈiːn̪ɑ# | #ɑɾˈin̪ɑ# {GOLD: #ɑɾˈin̪ɑ#}
-176    | #fˌɑst̪ˈiːd̪ium# | #ɑst̪ˈio# {GOLD: #ɑst̪ˈio#}
-177    | #hˈed̪erɑ# | #jˈed̪ɾɑ# {GOLD: #ʝˈed̪ɾɑ#}
-178    | #hˈod̪ie# | #wˈe# {GOLD: #ˈoj#}
-179    | #hˈomin̪em# | #wˈembɾe# {GOLD: #ˈombɾe#}
-180    | #hˈort̪um# | #wˈeɾt̪o# {GOLD: #wˈeɾt̪o#}
-181    | #hˈospit̪em# | #wˈesped̪# {GOLD: #wˈesped̪#}
-182    | #hˈost̪em# | #wˈest̪e# {GOLD: #wˈest̪e#}
-183    | #hˈoːrɑm# | #ˈoɾɑ# {GOLD: #ˈoɾɑ#}
-184    | #hˈumerum# | #ˈombɾo# {GOLD: #ˈombɾo#}
-185    | #hˈɑbui# | #ˈɑbwe# {GOLD: #ˈobe#}
-186    | #hˌeːred̪it̪ˈɑːre# | #eɾeed̪ˈɑɾ# {GOLD: #eɾed̪ˈɑɾ#}
-187    | #hˌispˈɑn̪iɑ# | #espˈɑɲɑ# {GOLD: #espˈɑɲɑ#}
-188    | #hˌon̪ˈoːrem# | #on̪ˈoɾ# {GOLD: #on̪ˈoɾ#}
-189    | #hˌord̪ˈeolum# | #uɾxwˈelo# {GOLD: #oɾθwˈelo#}
-190    | #hˌospit̪ˈɑːlem# | #oswt̪ˈɑl# {GOLD: #ost̪ˈɑl#}
-191    | #hˌɑmikˈeolum# | #ɑmθwˈelo# {GOLD: #ɑn̪θwˈelo#}
-192    | #jˈɑːn̪uɑm# | #jˈɑn̪oɑ# {GOLD: #xˈɑmbɑ#}
-193    | #hˈerbɑm# | #jˈeɾbɑ# {GOLD: #ʝˈeɾbɑ#}
-194    | #jˈokum# | #jwˈeɡo# {GOLD: #xwˈeɡo#}
-195    | #jˈowis# | #jwes# {GOLD: #xwˈebes#}
-196    | #jˈun̪kt̪um# | #jˈun̪t̪o# {GOLD: #xˈun̪t̪o#}
-197    | #jˈun̪kt̪ɑm# | #jˈun̪t̪ɑ# {GOLD: #xˈun̪t̪ɑ#}
-198    | #jˈuːd̪ikem# | #jwˈiθ# {GOLD: #xwˈeθ#}
-199    | #jˈuːn̪kum# | #jˈun̪ko# {GOLD: #xˈun̪ko#}
-200    | #hˈɑbeɑm# | #ˈɑbjɑ# {GOLD: #ˈɑʝɑ#}
-201    | #jˈɑkt̪um# | #jˈet͡ʃo# {GOLD: #ˈet͡ʃo#}
-202    | #jˈɑm# | #jˈɑn̪# {GOLD: #ʝˈɑ#}
-203    | #jˌɑkˈeːre# | #jɑθˈeɾ# {GOLD: #ʝɑθˈeɾ#}
-204    | #jˌɑːn̪uˈɑːrium# | #jɑn̪oˈeɾo# {GOLD: #en̪ˈeɾo#}
-205    | #jˈuɡum# | #jˈoɡo# {GOLD: #ʝˈuɡo#}
-206    | #kˌerˈesiɑ# | #θeɾˈesɑ# {GOLD: #θeɾˈeθɑ#}
-207    | #klˈɑːwem# | #ʝˈɑbe# {GOLD: #ʝˈɑbe#}
-208    | #klˈɑwsɑm# | #ʝˈosɑ# {GOLD: #ʝosɑ#}
-209    | #klˌɑːmˈɑːre# | #ʝɑmˈɑɾ# {GOLD: #ʝɑmˈɑɾ#}
-210    | #krˈeːd̪it̪# | #kɾˈee# {GOLD: #kɾˈee#}
-211    | #krˈeːd̪oː# | #kɾˈed̪o# {GOLD: #kɾˈeo#}
-212    | #krˈeːt̪ɑm# | #kɾˈed̪ɑ# {GOLD: #ɡɾˈed̪ɑ#}
-213    | #krˈiːn̪em# | #kɾˈin̪# {GOLD: #kɾˈin̪#}
-214    | #krˈukem# | #kɾˈoθ# {GOLD: #kɾˈuθ#}
-215    | #krˈust̪ɑm# | #kɾˈost̪ɑ# {GOLD: #kˈost̪ɾɑ#}
-216    | #krˈuːd̪um# | #kɾˈud̪o# {GOLD: #kɾˈuo#}
-217    | #krˈɑssum# | #kɾˈɑso# {GOLD: #ɡɾˈɑso#}
-218    | #krˈɑssɑm# | #kɾˈɑsɑ# {GOLD: #ɡɾˈɑsɑ#}
-219    | #krˌeskˈeːre# | #kɾeθˈeɾ# {GOLD: #kɾeθˈeɾ#}
-220    | #krˌeɑt̪iˈoːn̪e# | #kɾjˈɑθˈon̪# {GOLD: #kɾjɑθˈon̪#}
-221    | #krˌeˈɑːre# | #kɾiˈɑɾ# {GOLD: #kɾjˈɑɾ#}
-222    | #krˌeːd̪ˈeːre# | #kɾeˈeɾ# {GOLD: #kɾeˈeɾ#}
-223    | #krˌuːd̪elit̪ˈɑːt̪em# | #kɾulst̪ˈɑd̪# {GOLD: #kɾweld̪ˈɑd̪#}
-224    | #krˌuːd̪ˈeːlem# | #kɾuˈel# {GOLD: #kɾwˈel#}
-225    | #kˌubit̪ˈɑːlem# | #kowd̪ˈɑl# {GOLD: #kod̪ˈɑl#}
-226    | #kwˈae̯st̪um# | #kwjˈest̪o# {GOLD: #kˈist̪o#}
-227    | #kwˈae̯rit̪# | #kwjˈeɾ# {GOLD: #kjˈeɾe#}
-228    | #kwˈem# | #kwjˈen̪# {GOLD: #kjˈen̪#}
-229    | #kwˈid̪# | #kwjˈe# {GOLD: #kˈe#}
-230    | #kwˈiːn̪d̪ekim# | #kˈin̪d̪eθ# {GOLD: #kˈin̪θe#}
-231    | #kwˈiːn̪kwe# | #kˈin̪kwje# {GOLD: #θˈin̪ko#}
-232    | #kwˈiːn̪t̪um# | #kˈin̪t̪o# {GOLD: #kˈin̪t̪o#}
-233    | #kwˈoːmod̪o# | #kˈomd̪o# {GOLD: #kˈomo#}
-234    | #kwˈɑd̪rum# | #kwˈɑd̪ɾo# {GOLD: #kwˈɑd̪ɾo#}
-235    | #kwˈɑlem# | #kwˈɑl# {GOLD: #kwˈɑl#}
-236    | #kwˈɑn̪d̪oː# | #kwˈɑn̪d̪o# {GOLD: #kwˈɑn̪d̪o#}
-237    | #kwˈɑrt̪um# | #kwˈɑɾt̪o# {GOLD: #kwˈɑɾt̪o#}
-238    | #kwˈɑt̪t̪uor# | #kwˈɑt̪oɾ# {GOLD: #kwˈɑt̪ɾo#}
-239    | #kwˈɑːle# | #kwˈɑl# {GOLD: #kwˈɑl#}
-240    | #kwˌae̯rˈeːre# | #kwjeɾˈeɾ# {GOLD: #keɾˈeɾ#}
-241    | #kwˌiet̪ˈɑːre# | #kwjˈed̪ˈɑɾ# {GOLD: #ked̪ˈɑɾ#}
-242    | #kwˌiˈeːt̪um# | #kwiˈed̪o# {GOLD: #kˈed̪o#}
-243    | #kwˌiːn̪ɡˈen̪t̪oːs# | #kin̪ʝˈen̪t̪os# {GOLD: #kin̪jˈen̪t̪os#}
-244    | #kwˌɑn̪t̪it̪ˈɑːt̪em# | #kɑn̪st̪ˈɑd̪# {GOLD: #kɑn̪t̪id̪ˈɑd̪#}
-245    | #kwˌɑssikˈɑːre# | #kɑskˈɑɾ# {GOLD: #kɑskˈɑɾ#}
-246    | #kwˌɑt̪t̪uˈord̪ekim# | #kɑt̪wˈeɾd̪eθ# {GOLD: #kɑt̪ˈoɾθe#}
-247    | #kˈae̯kum# | #θjˈeɡo# {GOLD: #θjˈeɡo#}
-248    | #kˈae̯lum# | #θjˈelo# {GOLD: #θjˈelo#}
-249    | #kˈae̯spit̪e# | #θjˈesped̪# {GOLD: #θˈesped̪#}
-250    | #kˈɑːseum# | #kˈeso# {GOLD: #kˈeso#}
-251    | #kˈen̪t̪rum# | #θjˈen̪t̪ɾo# {GOLD: #θˈen̪t̪ɾo#}
-252    | #kˈen̪t̪um# | #θjˈen̪t̪o# {GOLD: #θjˈen̪t̪o#}
-253    | #kˈert̪um# | #θjˈeɾt̪o# {GOLD: #θjˈeɾt̪o#}
-254    | #kˈerwum# | #θjˈeɾbo# {GOLD: #θjˈeɾbo#}
-255    | #kˈeːn̪ɑm# | #θˈen̪ɑ# {GOLD: #θˈen̪ɑ#}
-256    | #kˈeːrɑm# | #θˈeɾɑ# {GOLD: #θˈeɾɑ#}
-257    | #kˈibum# | #θˈeo# {GOLD: #θˈebo#}
-258    | #kˈiliɑ# | #θˈexɑ# {GOLD: #θˈexɑ#}
-259    | #kˈin̪kt̪um# | #θˈin̪t̪o# {GOLD: #θˈin̪t̪o#}
-260    | #kˈin̪kt̪ɑm# | #θˈin̪t̪ɑ# {GOLD: #θˈin̪t̪ɑ#}
-261    | #kˈippum# | #θˈepo# {GOLD: #θˈepo#}
-262    | #kˈirkulum# | #θˈeɾt͡ʃo# {GOLD: #θˈeɾt͡ʃo#}
-263    | #kˈirkum# | #θˈeɾko# {GOLD: #θˈeɾko#}
-264    | #kˈirkɑm# | #θˈeɾkɑ# {GOLD: #θˈeɾkɑ#}
-265    | #kˈirrum# | #θˈero# {GOLD: #θˈero#}
-266    | #kˈist̪ɑm# | #θˈest̪ɑ# {GOLD: #θˈest̪ɑ#}
-267    | #kˈoksum# | #kˈoxo# {GOLD: #kˈoxo#}
-268    | #kˈokt̪um# | #kˈot͡ʃo# {GOLD: #kˈot͡ʃo#}
-269    | #kˈolliɡis# | #kˈuljes# {GOLD: #kˈoxes#}
-270    | #kˈollum# | #kwˈeʝo# {GOLD: #kwˈeʝo#}
-271    | #kˈomit̪em# | #kˈomd̪e# {GOLD: #kˈon̪d̪e#}
-272    | #kˈompt̪um# | #kˈon̪t̪o# {GOLD: #kwˈen̪t̪o#}
-273    | #kˈon̪kʰulɑm# | #kwˈen̪t͡ʃɑ# {GOLD: #kon̪t͡ʃɑ#}
-274    | #kˈon̪kʰɑm# | #kwˈen̪kʰɑ# {GOLD: #kwˈen̪kɑ#}
-275    | #kˈon̪t̪rɑ# | #kwˈen̪t̪ɾɑ# {GOLD: #kˈon̪t̪ɾɑ#}
-276    | #kˈopʰin̪um# | #kwˈeβʰn̪o# {GOLD: #kwˈebɑn̪o#}
-277    | #kˈorium# | #kwˈeɾo# {GOLD: #kwˈeɾo#}
-278    | #kˈorn̪uː# | #kwˈeɾn̪u# {GOLD: #kwˈeɾn̪o#}
-279    | #kˈorpum# | #kwˈeɾpo# {GOLD: #kwˈeɾpo#}
-280    | #kˈorwum# | #kwˈeɾbo# {GOLD: #kwˈeɾbo#}
-281    | #kˈost̪ɑm# | #kwˈest̪ɑ# {GOLD: #kwˈest̪ɑ#}
-282    | #kˈoːlupum# | #kˈolpo# {GOLD: #ɡˈolpe#}
-283    | #kˈoːn̪suoː# | #kˈoso# {GOLD: #koso#}
-284    | #kˈoːrt̪em# | #kˈoɾt̪e# {GOLD: #kˈoɾt̪e#}
-285    | #kˈoːɡit̪ɑt̪# | #kˈuʝd̪ɑ# {GOLD: #kwˈid̪ɑ#}
-286    | #kˈubit̪um# | #kˈowd̪o# {GOLD: #kˈod̪o#}
-287    | #kˈubum# | #kˈoo# {GOLD: #kˈubo#}
-288    | #kˈuium# | #kwˈio# {GOLD: #kˈuʝo#}
-289    | #kˈulkit̪ɑm# | #kwˈiθed̪ɑ# {GOLD: #kˈolt͡ʃɑ#}
-290    | #kˈulmin̪em# | #kˈolmen̪# {GOLD: #kˈumbɾe#}
-291    | #kˈum# | #kˈon̪# {GOLD: #kˈon̪#}
-292    | #kˈumulum# | #kˈomlo# {GOLD: #kˈolmo#}
-293    | #kˈun̪n̪um# | #kˈoɲo# {GOLD: #kˈoɲo#}
-294    | #kˈun̪eum# | #kˈuɲo# {GOLD: #kˈuɲo#}
-295    | #kˈun̪eɑm# | #kˈuɲɑ# {GOLD: #kˈuɲɑ#}
-296    | #kˈurrum# | #kˈoro# {GOLD: #kˈoro#}
-297    | #kˈursum# | #kˈoso# {GOLD: #kˈoso#}
-298    | #kˈurt̪um# | #kˈoɾt̪o# {GOLD: #kˈoɾt̪o#}
-299    | #kˈuːn̪ɑm# | #kˈun̪ɑ# {GOLD: #kˈun̪ɑ#}
-300    | #kˈuːpɑ# | #kˈubɑ# {GOLD: #kˈubɑ#}
-301    | #kˈuːrɑm# | #kˈuɾɑ# {GOLD: #kuɾɑ#}
-302    | #kˈɑlikem# | #kˈɑlθe# {GOLD: #kˈɑwθe#}
-303    | #kˈɑlkem# | #kˈoθ# {GOLD: #kˈoθ#}
-304    | #kˈɑlkeɑm# | #kˈoθɑ# {GOLD: #kˈɑlθɑ#}
-305    | #kˈɑlle# | #kˈɑʝe# {GOLD: #kˈɑʝe#}
-306    | #kˈɑlwum# | #kˈobo# {GOLD: #kˈɑlbo#}
-307    | #kˈɑmpum# | #kˈɑmpo# {GOLD: #kˈɑmpo#}
-308    | #kˈɑn̪krum# | #kˈɑn̪kɾo# {GOLD: #kˈɑn̪ɡɾo#}
-309    | #kˈɑn̪n̪ɑm# | #kˈɑɲɑ# {GOLD: #kˈɑɲɑ#}
-310    | #kˈɑn̪t̪um# | #kˈɑn̪t̪o# {GOLD: #kˈɑn̪t̪o#}
-311    | #kˈɑn̪t̪ʰulum# | #kˈɑn̪t͡ʃo# {GOLD: #kˈɑn̪t͡ʃo#}
-312    | #kˈɑn̪t̪ʰɑrum# | #kˈɑn̪t̪ʰɾo# {GOLD: #kˈɑn̪t̪ɑɾo#}
-313    | #kˈɑpit̪# | #kˈɑbe# {GOLD: #kˈɑbe#}
-314    | #kˈɑpiɑm# | #kˈepɑ# {GOLD: #kˈepɑ#}
-315    | #kˈɑpreum# | #kˈɑbɾjo# {GOLD: #kˈɑbɾjo#}
-316    | #kˈɑprɑ# | #kˈɑbɾɑ# {GOLD: #kˈɑbɾɑ#}
-317    | #kˈɑpt̪ioː# | #kˈɑθo# {GOLD: #kˈɑθo#}
-318    | #kˈɑput̪# | #kˈɑbo# {GOLD: #kˈɑbo#}
-319    | #kˈɑrkerem# | #kˈɑɾkɾe# {GOLD: #kˈɑɾθel#}
-320    | #kˈɑrn̪em# | #kˈɑɾn̪e# {GOLD: #kˈɑɾn̪em#}
-321    | #kˈɑsɑm# | #kˈɑsɑ# {GOLD: #kˈɑsɑ#}
-322    | #kˈɑt̪t̪ium# | #kˈɑθo# {GOLD: #kˈɑθo#}
-323    | #kˈɑt̪t̪um# | #kˈɑt̪o# {GOLD: #ɡˈɑt̪o#}
-324    | #kˈɑwet̪# | #kˈɑbe# {GOLD: #kˈɑbe#}
-325    | #kˈɑwlem# | #kˈol# {GOLD: #kˈol#}
-326    | #kˈɑwsɑm# | #kˈosɑ# {GOLD: #kˈosɑ#}
-327    | #kˈɑwt̪o# | #kˈot̪o# {GOLD: #kˈot̪o#}
-328    | #kˈɑwt̪ɑrium# | #kˈod̪ɾjo# {GOLD: #kot̪ˈeɾo#}
-329    | #kˈɑːn̪ɑ# | #kˈɑn̪ɑ# {GOLD: #kˈɑn̪ɑ#}
-330    | #kˈɑːrum# | #kˈɑɾo# {GOLD: #kˈɑɾo#}
-331    | #kˈɑːsum# | #kˈɑso# {GOLD: #kˈɑso#}
-332    | #kˌae̯mˈen̪t̪um# | #θimjˈen̪t̪o# {GOLD: #θimjˈen̪t̪o#}
-333    | #kˌen̪t̪ˈeːn̪um# | #θen̪t̪ˈen̪o# {GOLD: #θen̪t̪ˈen̪o#}
-334    | #kˌepˈullɑ# | #θebˈoʝɑ# {GOLD: #θebˈoʝɑ#}
-335    | #kˌerˈeolɑ# | #θiɾwˈelɑ# {GOLD: #θiɾwˈelɑ#}
-336    | #kˌeːpˈullɑ# | #θebˈoʝɑ# {GOLD: #θeboʝɑ#}
-337    | #kˌeːrˈeolum# | #θiɾwˈelo# {GOLD: #θiɾwˈelo#}
-338    | #kˌeːrˈeolɑ# | #θiɾwˈelɑ# {GOLD: #θiɾwˈelɑ#}
-339    | #kˌibˈɑːt̪ɑm# | #θebˈɑd̪ɑ# {GOLD: #θebˈɑd̪ɑ#}
-340    | #kˌikɑːt̪rˈiːkem# | #θeɡɑd̪ɾˈiθ# {GOLD: #θikɑt̪ɾˈiθ#}
-341    | #kˌikˈoːn̪iɑm# | #θeɡˈuɲɑ# {GOLD: #θiɡʷˈeɲɑ#}
-342    | #kˌin̪erˈɑːt̪ɑ# | #θen̪d̪ɾˈɑd̪ɑ# {GOLD: #θen̪d̪ɾˈɑd̪ɑ#}
-343    | #kˌin̪kt̪uːrˈɑːt̪um# | #θin̪t̪ɾˈɑd̪o# {GOLD: #θin̪t̪ɾˈɑd̪o#}
-344    | #kˌin̪kt̪ˈuːrɑ# | #θin̪t̪ˈuɾɑ# {GOLD: #θin̪t̪ˈuɾɑ#}
-345    | #kˌiːwit̪ˈɑːt̪em# | #θiwd̪ˈɑd̪# {GOLD: #θjud̪ˈɑd̪#}
-346    | #kˌokwiːn̪ˈɑːrium# | #koɡn̪ˈeɾo# {GOLD: #koθin̪ˈeɾo#}
-347    | #kˌokwˈiːn̪ɑ# | #koɡˈin̪ɑ# {GOLD: #koθˈin̪ɑ#}
-348    | #kˌokʰleˈɑːrɑm# | #kuxˈɑɾɑ# {GOLD: #kut͡ʃˈɑɾɑ#}
-349    | #kˌollokˈɑt̪# | #koʝoɡˈɑ# {GOLD: #kwˈelɡɑ#}
-350    | #kˌollokˈɑːre# | #koʝɡˈɑɾ# {GOLD: #kolɡˈɑɾ#}
-351    | #kˌollˈiːn̪ɑm# | #koʝˈin̪ɑ# {GOLD: #kolˈin̪ɑ#}
-352    | #kˌolˈobrɑ# | #kulˈebɾɑ# {GOLD: #kulˈebɾɑ#}
-353    | #kˌolˈoːrem# | #kolˈoɾ# {GOLD: #kolˈoɾ#}
-354    | #kˌomit̪ˈissɑ# | #komd̪ˈesɑ# {GOLD: #kon̪d̪ˈesɑ#}
-355    | #kˌomit̪ˈɑːt̪um# | #komd̪ˈɑd̪o# {GOLD: #kon̪d̪ˈɑd̪o#}
-356    | #kˌommˈuːn̪em# | #komˈun̪# {GOLD: #komˈun̪#}
-357    | #kˌomperˈɑːre# | #kompɾˈɑɾ# {GOLD: #kompɾˈɑɾ#}
-358    | #kˌomput̪ˈɑːre# | #komwt̪ˈɑɾ# {GOLD: #kon̪t̪ˈɑɾ#}
-359    | #kˌompˈɑn̪ikum# | #kompˈɑn̪ɡo# {GOLD: #kompˈɑn̪ɡo#}
-360    | #kˌon̪d̪ˈukt̪um# | #kun̪d̪ˈut͡ʃo# {GOLD: #kon̪d̪ˈut͡ʃo#}
-361    | #kˌon̪kˈilium# | #kon̪θˈexo# {GOLD: #kon̪θˈexo#}
-362    | #kˌon̪st̪ˈɑːre# | #kost̪ˈɑɾ# {GOLD: #kost̪ˈɑɾ#}
-363    | #kˌon̪sut̪ˈuːrɑ# | #kost̪ˈuɾɑ# {GOLD: #kost̪ˈuɾɑ#}
-364    | #kˌon̪t̪rˈɑkt̪um# | #kun̪t̪ɾˈet͡ʃo# {GOLD: #kon̪t̪ɾˈet͡ʃo#}
-365    | #kˌon̪t̪ˈempt̪um# | #kon̪t̪ˈen̪t̪o# {GOLD: #kon̪t̪ˈen̪t̪o#}
-366    | #kˌon̪t̪ˌin̪ˈeːre# | #kon̪t̪en̪ˈeɾ# {GOLD: #kon̪t̪en̪ˈeɾ#}
-367    | #kˌord̪ˈolium# | #koɾd̪ˈoxo# {GOLD: #koɾd̪ˈoxo#}
-368    | #kˌorn̪ˈikulɑm# | #koɾn̪ˈexɑ# {GOLD: #koɾn̪ˈexɑ#}
-369    | #kˌorrˈiɡiɑm# | #korˈiɑ# {GOLD: #korˈeɑ#}
-370    | #kˌorrˈupt̪ium# | #korˈoθo# {GOLD: #korˈoθo#}
-371    | #kˌort̪ˈikeɑ# | #koɾt̪ˈeθɑ# {GOLD: #koɾt̪ˈeθɑ#}
-372    | #kˌorˈoːn̪ɑm# | #koɾˈon̪ɑ# {GOLD: #koɾˈon̪ɑ#}
-373    | #kˌorˈɑmin̪e# | #koɾˈɑmbɾe# {GOLD: #koɾˈɑmbɾe#}
-374    | #kˌoriˈɑːkeɑm# | #kweɾˈɑθɑ# {GOLD: #koɾˈɑθɑ#}
-375    | #kˌoˌopˈert̪um# | #koubjˈeɾt̪o# {GOLD: #kubjˈeɾt̪o#}
-376    | #kˌoˈɑːɡulum# | #koˈɑxo# {GOLD: #kwˈɑxo#}
-377    | #kˌoːn̪sˈilium# | #kosˈexo# {GOLD: #kon̪sˈexo#}
-378    | #kˌoːperˈiːre# | #kobɾˈiɾ# {GOLD: #kobɾˈiɾ#}
-379    | #kˌoːt̪urn̪ˈiːkem# | #kud̪ɾn̪ˈiθ# {GOLD: #kod̪oɾn̪ˈiθ#}
-380    | #kˌoːɡit̪ˈɑːre# | #kuʝd̪ˈɑɾ# {GOLD: #kwid̪ˈɑɾ#}
-381    | #kˌubˈikulum# | #kobˈexo# {GOLD: #kobˈixo#}
-382    | #kˌukˈullum# | #koɡˈoʝo# {GOLD: #koɡˈoʝo#}
-383    | #kˌult̪rˈɑːle# | #kwid̪ɾˈɑl# {GOLD: #kwit̪ɾˈɑl#}
-384    | #kˌult̪ˈellum# | #kut͡ʃˈeʝo# {GOLD: #kut͡ʃˈiʝo#}
-385    | #kˌummˈiːn̪um# | #komˈin̪o# {GOLD: #komˈin̪o#}
-386    | #kˌun̪ˈikulum# | #kun̪ˈexo# {GOLD: #kon̪ˈexo#}
-387    | #kˌuskˈulium# | #koskˈuxo# {GOLD: #koskˈoxo#}
-388    | #kˌuːrˈɑːre# | #kuɾˈɑɾ# {GOLD: #kuɾˈɑɾ#}
-389    | #kˌɑbˈɑllum# | #kɑbˈɑʝo# {GOLD: #kɑbˈɑʝo#}
-390    | #kˌɑd̪ˈere# | #keˈeɾ# {GOLD: #kɑˈeɾ#}
-391    | #kˌɑld̪ˈɑːrium# | #kod̪ˈeɾo# {GOLD: #kɑld̪ˈeɾo#}
-392    | #kˌɑllˈikulɑ# | #kɑʝˈexɑ# {GOLD: #kɑʝˈexɑ#}
-393    | #kˌɑlˈoːrem# | #kɑlˈoɾ# {GOLD: #kɑlˈoɾ#}
-394    | #kˌɑmpsˈɑːre# | #kɑmsˈɑɾ# {GOLD: #kɑn̪sˈɑɾ#}
-395    | #kˌɑn̪n̪ˈiːkium# | #kɑɲˈiθo# {GOLD: #kɑɲˈiθo#}
-396    | #kˌɑn̪ˈit̪iɑm# | #kɑn̪ˈeθɑ# {GOLD: #kɑn̪ˈeθɑ#}
-397    | #kˌɑpillɑt̪ˈuːrɑ# | #kɑbeʝɑd̪ˈuɾɑ# {GOLD: #kɑbeʝɑd̪ˈuɾɑ#}
-398    | #kˌɑpit̪ˈellum# | #kɑwd̪ˈiʝo# {GOLD: #kɑwd̪ˈiʝo#}
-399    | #kˌɑpit̪ˈɑːlem# | #kɑwd̪ˈɑl# {GOLD: #kɑwd̪ˈɑl#}
-400    | #kˌɑppˈellɑ# | #kɑpˈiʝɑ# {GOLD: #kɑpˈiʝɑ#}
-401    | #kˌɑprˈɑːrium# | #kɑbɾˈeɾo# {GOLD: #kɑbɾˈeɾo#}
-402    | #kˌɑpsˈeolɑ# | #kɑxwˈelɑ# {GOLD: #kɑxwˈelɑ#}
-403    | #kˌɑpt̪iˈɑːre# | #kɑθˈɑɾ# {GOLD: #kɑθˈɑɾ#}
-404    | #kˌɑpt̪ˈɑːre# | #kɑt̪ˈɑɾ# {GOLD: #kɑt̪ˈɑɾ#}
-405    | #kˌɑpˈillum# | #kɑbˈeʝo# {GOLD: #kɑbˈeʝo#}
-406    | #kˌɑpˈist̪rum# | #kɑbˈest̪ɾo# {GOLD: #kɑbˈest̪ɾo#}
-407    | #kˌɑpˈit̪iɑ# | #kɑbˈeθɑ# {GOLD: #kɑbˈeθɑ#}
-408    | #kˌɑpˈit̪ulum# | #kɑbˈeld̪o# {GOLD: #kɑbˈild̪o#}
-409    | #kˌɑpˈɑn̪n̪ɑm# | #kɑbˈɑɲɑ# {GOLD: #kɑbˈɑɲɑ#}
-410    | #kˌɑrbˈoːn̪em# | #kɑɾbˈon̪# {GOLD: #kɑɾbˈon̪#}
-411    | #kˌɑrn̪ˈiːkeɑ# | #kɑɾn̪ˈiθɑ# {GOLD: #kɑɾn̪ˈiθɑ#}
-412    | #kˌɑrrikˈɑːre# | #kɑrɡˈɑɾ# {GOLD: #kɑɾɡˈɑɾ#}
-413    | #kˌɑseˈɑːrium# | #kesˈeɾo# {GOLD: #kesˈeɾo#}
-414    | #kˌɑst̪ˈellum# | #kɑst̪ˈiʝo# {GOLD: #kɑst̪ˈiʝo#}
-415    | #kˌɑst̪ˈiːkeum# | #kɑst̪ˈiθo# {GOLD: #kɑst̪ˈiθo#}
-416    | #kˌɑst̪ˈɑn̪eɑ# | #kɑst̪ˈɑɲɑ# {GOLD: #kɑst̪ˈɑɲɑ#}
-417    | #kˌɑsˈɑːrium# | #kɑsˈeɾo# {GOLD: #kɑsˈeɾo#}
-418    | #kˌɑt̪eːn̪ˈɑːt̪um# | #kɑn̪d̪ˈɑd̪o# {GOLD: #kɑn̪d̪ˈɑd̪o#}
-419    | #kˌɑt̪ˈeːn̪ɑm# | #kɑd̪ˈen̪ɑ# {GOLD: #kɑd̪ˈen̪ɑ#}
-420    | #kˌɑːrit̪ˈɑːt̪em# | #kɑɾt̪ˈɑd̪# {GOLD: #kɑɾid̪ˈɑd̪#}
-421    | #kˌɑːseˈɑːriɑm# | #kesˈeɾɑ# {GOLD: #kesˈeɾɑ#}
-422    | #kʰˈɑrt̪ɑ# | #kʰˈɑɾt̪ɑ# {GOLD: #kˈɑɾt̪ɑ#}
-423    | #lˈɑn̪kulɑ# | #lˈɑn̪t͡ʃɑ# {GOLD: #lˈɑn̪t͡ʃɑ#}
-424    | #lˈekt̪um# | #lˈet͡ʃo# {GOLD: #lˈet͡ʃo#}
-425    | #lˈen̪d̪in̪em# | #ljˈen̪d̪en̪# {GOLD: #ljˈen̪d̪ɾe#}
-426    | #lˈen̪t̪eum# | #ljˈen̪θo# {GOLD: #ljˈen̪θo#}
-427    | #lˈeporem# | #ljˈebɾe# {GOLD: #ljˈebɾe#}
-428    | #lˈewoː# | #ljˈeo# {GOLD: #ʝˈebo#}
-429    | #lˈeːɡem# | #lˈe# {GOLD: #lˈej#}
-430    | #lˈiːbrum# | #lˈibɾo# {GOLD: #lˈibɾo#}
-431    | #lˈiksɑm# | #lˈexɑ# {GOLD: #lˈixɑ#}
-432    | #lˈimpid̪um# | #lˈemped̪o# {GOLD: #lˈimpjo#}
-433    | #lˈin̪ɡwɑm# | #lˈen̪ɡʷɑ# {GOLD: #lˈen̪ɡʷɑ#}
-434    | #lˈit̪t̪erɑm# | #lˈed̪ɾɑ# {GOLD: #lˈet̪ɾɑ#}
-435    | #lˈiɡn̪um# | #lˈeɲo# {GOLD: #lˈeɲo#}
-436    | #lˈiɡn̪ɑ# | #lˈeɲɑ# {GOLD: #lˈeɲɑ#}
-437    | #lˈiːmɑ# | #lˈimɑ# {GOLD: #lˈimɑ#}
-438    | #lˈiːn̪um# | #lˈin̪o# {GOLD: #lˈin̪o#}
-439    | #lˈiːt̪em# | #lˈid̪# {GOLD: #lˈid̪#}
-440    | #lˈokum# | #lwˈeɡo# {GOLD: #lwˈeɡo#}
-441    | #lˈon̪ɡum# | #lwˈen̪ɡo# {GOLD: #lwˈen̪ɡo#}
-442    | #lˈukrum# | #lwˈeɾo# {GOLD: #lˈoɡɾo#}
-443    | #lˈuːksum# | #lˈuxo# {GOLD: #lˈuxo#}
-444    | #lˈukt̪ɑm# | #lˈut͡ʃɑ# {GOLD: #lˈut͡ʃɑ#}
-445    | #lˈumbum# | #lˈombo# {GOLD: #lˈomo#}
-446    | #lˈupum# | #lˈobo# {GOLD: #lˈobo#}
-447    | #lˈut̪um# | #lˈod̪o# {GOLD: #lˈod̪o#}
-448    | #lˈuːkem# | #lˈuθ# {GOLD: #lˈuθ#}
-449    | #lˈuːkid̪um# | #lˈuθo# {GOLD: #lˈuθjo#}
-450    | #lˈuskid̪um# | #lˈoθed̪o# {GOLD: #lˈuθjo#}
-451    | #lˈuːkt̪ɑm# | #lˈut͡ʃɑ# {GOLD: #lˈut͡ʃɑ#}
-452    | #lˈuːmin̪em# | #lˈumbɾe# {GOLD: #lˈumbɾe#}
-453    | #lˈuːn̪ɑm# | #lˈun̪ɑ# {GOLD: #lˈun̪ɑ#}
-454    | #lˈɑbium# | #lˈɑbjo# {GOLD: #lˈɑbjo#}
-455    | #lˌɑˈiːkum# | #lɑˈiɡo# {GOLD: #lˈeɡo#}
-456    | #lˈɑkrimɑm# | #lˈeɾmɑ# {GOLD: #lˈɑɡɾimɑ#}
-457    | #lˈɑksius# | #lˈexos# {GOLD: #lˈexos#}
-458    | #lˈɑksoːs# | #lˈexos# {GOLD: #lˈexos#}
-459    | #lˈɑkt̪em# | #lˈet͡ʃe# {GOLD: #lˈet͡ʃe#}
-460    | #lˈɑkum# | #lˈɑɡo# {GOLD: #lˈɑɡo#}
-461    | #lˈɑkweum# | #lˈekwo# {GOLD: #lˈɑθo#}
-462    | #lˈɑmboː# | #lˈɑmbo# {GOLD: #lˈɑmo#}
-463    | #lˈɑn̪keɑm# | #lˈɑn̪θɑ# {GOLD: #lˈɑn̪θɑ#}
-464    | #lˈɑrɡum# | #lˈɑɾɡo# {GOLD: #lˈɑɾɡo#}
-465    | #lˈɑt̪um# | #lˈɑd̪o# {GOLD: #lˈɑd̪o#}
-466    | #lˈɑwsiɑm# | #lˈusjɑ# {GOLD: #lˈosɑ#}
-467    | #lˈɑwt̪iɑm# | #lˈoθɑ# {GOLD: #lˈoθɑ#}
-468    | #lˌae̯siˈoːn̪em# | #lesˈon̪# {GOLD: #lesjˈon̪#}
-469    | #lˌemikˈɑn̪eɑ# | #leɡʷˈɑɲɑ# {GOLD: #leɡˈɑɲɑ#}
-470    | #lˌen̪t̪ˈikulɑ# | #len̪t̪ˈexɑ# {GOLD: #len̪t̪ˈexɑ#}
-471    | #lˌeɡˈen̪d̪ɑm# | #leˈen̪d̪ɑ# {GOLD: #lejˈen̪d̪ɑ#}
-472    | #lˌeɡˈuːmin̪em# | #leɡˈumbɾe# {GOLD: #leɡˈumbɾe#}
-473    | #lˈeːɡem# | #lˈe# {GOLD: #lˈej#}
-474    | #lˌeːɡˈit̪imum# | #leˈimd̪o# {GOLD: #lˈin̪d̪o#}
-475    | #lˌiːbert̪ˈɑːt̪em# | #libɾt̪ˈɑd̪# {GOLD: #libeɾt̪ˈɑd̪#}
-476    | #lˌiksˈiːwɑ# | #lexˈibɑ# {GOLD: #lexˈiɑ#}
-477    | #lˌit̪t̪erˈɑːt̪um# | #led̪ɾˈɑd̪o# {GOLD: #let̪ɾˈɑd̪o#}
-478    | #lˌiɡˈɑːre# | #leˈɑɾ# {GOLD: #liˈɑɾ#}
-479    | #lˌiːmit̪ˈɑːre# | #limd̪ˈɑɾ# {GOLD: #lin̪d̪ˈɑɾ#}
-480    | #lˌiːt̪iɡˈɑːre# | #lid̪jˈɑɾ# {GOLD: #lid̪jˈɑɾ#}
-481    | #lˌokˈellum# | #luθˈiʝo# {GOLD: #luθˈiʝo#}
-482    | #lˌokˈɑːlem# | #loɡˈɑl# {GOLD: #luɡˈɑɾ#}
-483    | #lˌukrˈɑːri# | #lweɾˈɑɾ# {GOLD: #loɡɾˈɑɾ#}
-484    | #lˌumbrˈiːkem# | #lumbɾˈiθ# {GOLD: #lombɾˈiθ#}
-485    | #lˌɑkt̪ˈuːkɑm# | #let͡ʃˈuɡɑ# {GOLD: #let͡ʃˈuɡɑ#}
-486    | #lˌɑkweˈɑːre# | #lekwˈɑɾ# {GOLD: #lɑθˈɑɾ#}
-487    | #kˌɑlˈumn̪iɑ# | #kɑlˈuɲɑ# {GOLD: #kɑlˈoɲɑ#}
-488    | #lˌɑt̪erˈellum# | #lɑd̪ɾˈiʝo# {GOLD: #lɑd̪ɾˈiʝo#}
-489    | #lˌɑt̪rˈoːn̪em# | #lɑd̪ɾˈon̪# {GOLD: #lɑd̪ɾon̪#}
-490    | #lˌɑt̪ˈiːn̪um# | #lɑd̪ˈin̪o# {GOLD: #lɑd̪ˈin̪o#}
-491    | #lˌɑwd̪ˈɑːre# | #lod̪ˈɑɾ# {GOLD: #loˈɑɾ#}
-492    | #lˌɑːt̪rˈɑːre# | #lɑd̪ɾˈɑɾ# {GOLD: #lɑd̪ɾˈɑɾ#}
-493    | #mˌɑt̪ˈɑksɑ# | #mɑd̪ˈexɑ# {GOLD: #mɑd̪ˈexɑ#}
-494    | #mˈel# | #mjˈel# {GOLD: #mjˈel#}
-495    | #mˌeliˈoːrem# | #mexˈoɾ# {GOLD: #mexˈoɾ#}
-496    | #mˈembrum# | #mjˈembɾo# {GOLD: #mjˈembɾo#}
-497    | #mˈeːn̪sem# | #mˈese# {GOLD: #mˈes#}
-498    | #mˈeːn̪sɑm# | #mˈesɑ# {GOLD: #mˈesɑ#}
-499    | #mˈen̪t̪em# | #mjˈen̪t̪e# {GOLD: #mˈen̪t̪e#}
-500    | #mˈerd̪ɑ# | #mjˈeɾd̪ɑ# {GOLD: #mjˈeɾd̪ɑ#}
-501    | #mˈerulum# | #mjˈeɾlo# {GOLD: #mˈiɾlo#}
-502    | #mˈessem# | #mjˈese# {GOLD: #mjˈes#}
-503    | #mˈet̪um# | #mjˈed̪o# {GOLD: #mjˈed̪o#}
-504    | #mˈeus# | #mjˈos# {GOLD: #mˈios#}
-505    | #mˈihi# | #mjˈe# {GOLD: #mˈi#}
-506    | #mˈilium# | #mˈexo# {GOLD: #mˈixo#}
-507    | #mˈin̪us# | #mˈin̪os# {GOLD: #mˈen̪os#}
-508    | #mˈiːkɑm# | #mˈiɡɑ# {GOLD: #mˈiɡɑ#}
-509    | #mˈiːlle# | #mˈiʝe# {GOLD: #mˈil#}
-510    | #mˈobilem# | #mwˈeble# {GOLD: #mwˈeble#}
-511    | #mˈod̪ium# | #mˈoʝo# {GOLD: #mˈoʝo#}
-512    | #mˈollem# | #mwˈeʝe# {GOLD: #mwˈeʝe#}
-513    | #mˈolɑ# | #mwˈelɑ# {GOLD: #mwˈelɑ#}
-514    | #mˈon̪t̪em# | #mwˈen̪t̪e# {GOLD: #mˈon̪t̪e#}
-515    | #mˈorsum# | #mwˈeso# {GOLD: #mwˈeso#}
-516    | #mˈort̪em# | #mwˈeɾt̪e# {GOLD: #mwˈeɾt̪e#}
-517    | #mˈort̪uːm# | #mwˈeɾt̪u# {GOLD: #mwˈeɾt̪o#}
-518    | #mˈukkum# | #mˈoko# {GOLD: #moko#}
-519    | #mˈult̪um# | #mˈut͡ʃo# {GOLD: #mˈut͡ʃo#}
-520    | #mˈun̪d̪um# | #mˈon̪d̪o# {GOLD: #mˈon̪d̪o#}
-521    | #mˈuriɑm# | #mwˈeɾɑ# {GOLD: #mwˈeɾɑ#}
-522    | #mˈust̪eum# | #mˈoθo# {GOLD: #mˈoθo#}
-523    | #mˈust̪id̪um# | #mˈost̪ed̪o# {GOLD: #mˈust̪jo#}
-524    | #mˈust̪um# | #mˈost̪o# {GOLD: #mˈost̪o#}
-525    | #mˈut̪ilum# | #mˈold̪o# {GOLD: #mˈot͡ʃo#}
-526    | #mˈut̪ium# | #mˈoθo# {GOLD: #mˈoθo#}
-527    | #mˈuːlɑm# | #mˈulɑ# {GOLD: #mulɑ#}
-528    | #mˈuːrum# | #mˈuɾo# {GOLD: #mˈuɾo#}
-529    | #mˈuːskulum# | #mˈut͡ʃo# {GOLD: #mˈuslo#}
-530    | #mˈɑium# | #mˈeo# {GOLD: #mˈɑʝo#}
-531    | #mˈɑkrum# | #mˈeɾo# {GOLD: #mˈɑɡɾo#}
-532    | #mˈɑlem# | #mˈɑl# {GOLD: #mˈɑl#}
-533    | #mˈɑlum# | #mˈɑlo# {GOLD: #mˈɑlo#}
-534    | #mˈɑn̪ikɑm# | #mˈɑn̪ɡɑ# {GOLD: #mˈɑn̪ɡɑ#}
-535    | #mˈɑn̪iɑ# | #mˈɑɲɑ# {GOLD: #mˈɑɲɑ#}
-536    | #mˈɑn̪kulɑ# | #mˈɑn̪t͡ʃɑ# {GOLD: #mˈɑn̪t͡ʃɑ#}
-537    | #mˈɑn̪kum# | #mˈɑn̪ko# {GOLD: #mˈɑn̪ko#}
-538    | #mˌɑn̪sioːn̪ˈɑːt̪ɑm# | #mesn̪ˈɑd̪ɑ# {GOLD: #mesn̪ˈɑd̪ɑ#}
-539    | #mˈɑn̪um# | #mˈɑn̪o# {GOLD: #mˈɑn̪o#}
-540    | #mˈɑn̪uːs# | #mˈɑn̪us# {GOLD: #mˈɑn̪os#}
-541    | #mˈɑppɑ# | #mˈɑpɑ# {GOLD: #mˈɑpɑ#}
-542    | #mˈɑrem# | #mˈɑɾ# {GOLD: #mˈɑɾ#}
-543    | #mˈɑrmor# | #mˈɑɾmoɾ# {GOLD: #mˈɑɾmol#}
-544    | #mˈɑrt̪is# | #mˈɑɾt̪es# {GOLD: #mˈɑɾt̪es#}
-545    | #mˈɑskulum# | #mˈɑt͡ʃo# {GOLD: #mˈɑt͡ʃo#}
-546    | #mˈɑwrum# | #mˈoɾo# {GOLD: #moɾo#}
-547    | #mˈɑɡikum# | #mˈeɡo# {GOLD: #mˈeɡo#}
-548    | #mˈɑɡis# | #mˈes# {GOLD: #mˈɑs#}
-549    | #mˈɑːrt̪ium# | #mˈɑθo# {GOLD: #mˈɑɾθo#}
-550    | #mˈɑːt̪rem# | #mˈɑd̪ɾe# {GOLD: #mˈɑd̪ɾe#}
-551    | #mˌed̪iˈɑːliɑ# | #miˈɑxɑ# {GOLD: #meˈɑxɑ#}
-552    | #mˌeiˈɑːre# | #miˈɑɾ# {GOLD: #meˈɑɾ#}
-553    | #mˌelˈoːn̪em# | #melˈon̪# {GOLD: #melˈon̪#}
-554    | #mˌemorˈɑːre# | #membɾˈɑɾ# {GOLD: #membɾˈɑɾ#}
-555    | #mˌikst̪ˈiːkium# | #mest̪ˈiθo# {GOLD: #mest̪ˈiθo#}
-556    | #mˌin̪imˈɑːre# | #men̪mˈɑɾ# {GOLD: #meɾmˈɑɾ#}
-557    | #mˌin̪ˈuːt̪um# | #min̪ˈud̪o# {GOLD: #men̪ˈud̪o#}
-558    | #mˌin̪ˈɑkiɑ# | #min̪ˈɑθɑ# {GOLD: #men̪ˈɑθɑ#}
-559    | #mˌiskˈeːre# | #meθˈeɾ# {GOLD: #meθˈeɾ#}
-560    | #mˌiːrˈɑkulum# | #miɾˈɑxo# {GOLD: #milˈɑɡɾo#}
-561    | #mˌolliˈɑːre# | #mwilˈɑɾ# {GOLD: #moxˈɑɾ#}
-562    | #mˌollˈiːre# | #moʝˈiɾ# {GOLD: #muʝˈiɾ#}
-563    | #mˌolˈiːn̪um# | #molˈin̪o# {GOLD: #molˈin̪o#}
-564    | #mˌon̪ˈeːt̪ɑ# | #mon̪ˈed̪ɑ# {GOLD: #mon̪ˈed̪ɑ#}
-565    | #mˌorsikˈɑːre# | #moskˈɑɾ# {GOLD: #moskˈɑɾ#}
-566    | #mˌort̪uˈɑliɑm# | #moɾt̪oˈɑxɑ# {GOLD: #moɾt̪ˈɑxɑ#}
-567    | #mˌowˈeːbile# | #moˈeble# {GOLD: #mwˈeble#}
-568    | #mˌulˈierem# | #molˈeɾ# {GOLD: #muxˈeɾ#}
-569    | #mˌuːt̪ˈɑːre# | #mud̪ˈɑɾ# {GOLD: #mud̪ˈɑɾ#}
-570    | #mˌɑioːrˈiːn̪um# | #meoɾˈin̪o# {GOLD: #meɾˈin̪o#}
-571    | #mˌɑiˈoːrem# | #meˈoɾ# {GOLD: #mɑʝˈoɾ#}
-572    | #mˌɑkulˈɑːt̪ɑ# | #mɑxˈɑd̪ɑ# {GOLD: #mɑxˈɑd̪ɑ#}
-573    | #mˌɑlˈit̪iɑ# | #mɑlˈeθɑ# {GOLD: #mɑlˈeθɑ#}
-574    | #mˌɑn̪kˈipium# | #mɑn̪θˈepo# {GOLD: #mɑn̪θˈebo#}
-575    | #mˌɑn̪siˈoːn̪em# | #mesˈon̪# {GOLD: #mesˈon̪#}
-576    | #mˌɑrt̪ˈellum# | #mɑɾt̪ˈiʝo# {GOLD: #mɑɾt̪ˈiʝo#}
-577    | #mˌɑrˈiːt̪um# | #mɑɾˈid̪o# {GOLD: #mɑɾˈid̪o#}
-578    | #mˌɑst̪ikˈɑːre# | #mɑsskˈɑɾ# {GOLD: #mɑskˈɑɾ#}
-579    | #mˌɑt̪t̪iˈɑːn̪ɑ# | #mɑθˈɑn̪ɑ# {GOLD: #mɑθˈɑn̪ɑ#}
-580    | #mˌɑt̪ˈeolɑ# | #mɑθwˈelɑ# {GOLD: #mɑθwˈelɑ#}
-581    | #mˌɑt̪ˈeriɑ# | #mɑd̪ˈeɾɑ# {GOLD: #mɑd̪ˈeɾɑ#}
-582    | #mˌɑwrikˈellum# | #moɾθˈiʝo# {GOLD: #moɾθˈiʝo#}
-583    | #mˌɑɡˈist̪rum# | #mɑˈest̪ɾo# {GOLD: #mɑˈest̪ɾo#}
-584    | #mˌɑːiest̪ˈɑːt̪em# | #mest̪ˈɑd̪# {GOLD: #mɑxest̪ˈɑd̪#}
-585    | #mˌɑːksˈillɑm# | #mexˈeʝɑ# {GOLD: #mexˈiʝɑ#}
-586    | #mˌɑːn̪eˈɑːn̪ɑ# | #mɑɲˈɑn̪ɑ# {GOLD: #mɑɲˈɑn̪ɑ#}
-587    | #mˌɑːn̪uˈɑriɑm# | #mɑn̪oˈeɾɑ# {GOLD: #mɑn̪ˈeɾɑ#}
-588    | #mˌɑːt̪ˈeriɑm# | #mɑd̪ˈeɾɑ# {GOLD: #mɑd̪ˈeɾɑ#}
-589    | #mˌɑːt̪ˈuːrum# | #mɑd̪ˈuɾo# {GOLD: #mɑd̪ˈuɾo#}
-590    | #n̪ˈebulɑ# | #n̪jˈeblɑ# {GOLD: #n̪jˈeblɑ#}
-591    | #n̪ˈept̪ɑm# | #n̪jˈet̪ɑ# {GOLD: #n̪jˈet̪ɑ#}
-592    | #n̪ˈerwium# | #n̪ˈeɾbjo# {GOLD: #n̪ˈeɾbjo#}
-593    | #n̪ˈespirum# | #n̪jˈespɾo# {GOLD: #n̪ˈispeɾo#}
-594    | #n̪ˈiwem# | #n̪ˈebe# {GOLD: #n̪jˈebe#}
-595    | #n̪ˈiɡrum# | #n̪ˈeɾo# {GOLD: #n̪ˈeɡɾo#}
-596    | #n̪ˈiːd̪um# | #n̪ˈid̪o# {GOLD: #n̪ˈid̪o#}
-597    | #n̪ˈokt̪e# | #n̪ˈot͡ʃe# {GOLD: #n̪ˈot͡ʃe#}
-598    | #n̪ˈost̪rum# | #n̪wˈest̪ɾo# {GOLD: #n̪wˈest̪ɾo#}
-599    | #n̪ˈowem# | #n̪we# {GOLD: #n̪wˈebe#}
-600    | #n̪ˌowˈeːn̪um# | #n̪oˈen̪o# {GOLD: #n̪obˈen̪o#}
-601    | #n̪ˈowium# | #n̪wio# {GOLD: #n̪ˈobjo#}
-602    | #n̪ˈowum# | #n̪wjˈo# {GOLD: #n̪wˈebo#}
-603    | #n̪ˈoːmin̪e# | #n̪ˈombɾe# {GOLD: #n̪ˈombɾe#}
-604    | #n̪ˈumkwɑm# | #n̪ˈon̪kwɑ# {GOLD: #n̪ˈun̪kɑ#}
-605    | #n̪ˈuːbem# | #n̪ˈube# {GOLD: #n̪ˈube#}
-606    | #n̪ˈuːd̪o# | #n̪ˈud̪o# {GOLD: #n̪ˈud̪o#}
-607    | #n̪ˈɑːpum# | #n̪ˈɑbo# {GOLD: #n̪ˈɑbo#}
-608    | #n̪ˈɑːt̪ɑm# | #n̪ˈɑd̪ɑ# {GOLD: #n̪ˈɑd̪ɑ#}
-609    | #n̪ˈɑːwem# | #n̪ˈɑbe# {GOLD: #n̪ˈɑbe#}
-610    | #n̪ˌekessit̪ˈɑːt̪em# | #n̪est̪ˈɑd̪# {GOLD: #n̪eθesid̪ˈɑd̪#}
-611    | #n̪ˌeɡˈɑːre# | #n̪eˈɑɾ# {GOLD: #n̪eɡˈɑɾ#}
-612    | #n̪ˌowit̪ˈɑːt̪em# | #n̪wed̪ˈɑd̪# {GOLD: #n̪obed̪ˈɑd̪#}
-613    | #n̪ˌowˈɑkulɑm# | #n̪oˈɑxɑ# {GOLD: #n̪ɑbˈɑxɑ#}
-614    | #n̪ˌoːmin̪ˈɑːre# | #n̪ombɾˈɑɾ# {GOLD: #n̪ombɾˈɑɾ#}
-615    | #pˈet̪t̪iɑ# | #pjˈeθɑ# {GOLD: #pjˈeθɑ#}
-616    | #plˈeːn̪um# | #ʝˈen̪o# {GOLD: #ʝˈen̪o#}
-617    | #plˈumbum# | #ʝˈombo# {GOLD: #plˈomo#}
-618    | #plˈuwiɑm# | #ʝwˈiɑ# {GOLD: #ʝˈubjɑ#}
-619    | #plˈuːmɑm# | #ʝˈumɑ# {GOLD: #plˈumɑ#}
-620    | #plˈɑkeɑt̪# | #ʝˈɑθɑ# {GOLD: #plˈeɡɑ#}
-621    | #plˈɑkit̪um# | #ʝˈɑθo# {GOLD: #plˈɑθo#}
-622    | #plˈɑn̪kt̪um# | #ʝˈɑn̪t̪o# {GOLD: #ʝˈɑn̪t̪o#}
-623    | #plˈɑn̪t̪ɑm# | #ʝˈɑn̪t̪ɑ# {GOLD: #ʝˈɑn̪t̪ɑ#}
-624    | #plˈɑn̪um# | #ʝˈɑn̪o# {GOLD: #ʝˈɑn̪o#}
-625    | #plˈɑt̪eɑm# | #ʝˈɑθɑ# {GOLD: #plˈɑθɑ#}
-626    | #plˈɑɡiɑm# | #ʝˈeɑ# {GOLD: #plˈɑjɑ#}
-627    | #plˈɑːɡɑm# | #ʝˈɑɑ# {GOLD: #ʝˈɑɡɑ#}
-628    | #plˈɑːn̪um# | #ʝˈɑn̪o# {GOLD: #ʝˈɑn̪o#}
-629    | #plˌikˈɑːre# | #ʝeɡˈɑɾ# {GOLD: #ʝeɡˈɑɾ#}
-630    | #plˌoːrˈɑːre# | #ʝoɾˈɑɾ# {GOLD: #ʝoɾˈɑɾ#}
-631    | #plˌɑn̪t̪ˈɑːɡin̪em# | #ʝɑn̪t̪ˈɑʝn̪e# {GOLD: #ʝɑn̪t̪ˈen̪#}
-632    | #prˈae̯mium# | #pɾˈimjo# {GOLD: #pɾˈemjo#}
-633    | #prˈoːmpt̪um# | #pɾˈon̪t̪o# {GOLD: #pɾˈon̪t̪o#}
-634    | #prˈɑːt̪um# | #pɾˈɑd̪o# {GOLD: #pɾˈɑd̪o#}
-635    | #prˌae̯kˈoːn̪em# | #pɾeɡˈon̪# {GOLD: #pɾeɡˈon̪#}
-636    | #prˌehˈen̪sum# | #pɾeˈeso# {GOLD: #pɾˈeso#}
-637    | #prˌiːmˈɑːrium# | #pɾimˈeɾo# {GOLD: #pɾimˈeɾo#}
-638    | #prˌiːmˈɑt̪ikum# | #pɾimˈɑsɡo# {GOLD: #pɾimˈɑθɡo#}
-639    | #prˌoːfˈekt̪um# | #pɾubˈet͡ʃo# {GOLD: #pɾobˈet͡ʃo#}
-640    | #pˈed̪em# | #pjˈee# {GOLD: #pjˈe#}
-641    | #pˈekt̪um# | #pˈet͡ʃo# {GOLD: #pˈet͡ʃo#}
-642    | #pˈellem# | #pˈiʝe# {GOLD: #pjˈel#}
-643    | #pˈen̪sum# | #pˈeso# {GOLD: #pjˈen̪so#}
-644    | #pˈerd̪it̪ɑm# | #pjˈeɾd̪ed̪ɑ# {GOLD: #pjˈeɾd̪ɑ#}
-645    | #pˈern̪ɑm# | #pjˈeɾn̪ɑ# {GOLD: #pjˈeɾn̪ɑ#}
-646    | #pˈet̪rin̪eum# | #pˈed̪ɾɲo# {GOLD: #ped̪ɾˈeɲo#}
-647    | #pˈet̪rɑm# | #pjˈed̪ɾɑ# {GOLD: #pjˈed̪ɾɑ#}
-648    | #pˈet̪t̪iɑm# | #pjˈeθɑ# {GOLD: #pjˈeθɑ#}
-649    | #pˈeːn̪sum# | #pˈeso# {GOLD: #pˈeso#}
-650    | #pˈilulɑ# | #pˈeʝɑ# {GOLD: #pˈeʝɑ#}
-651    | #pˈilum# | #pˈelo# {GOLD: #pˈelo#}
-652    | #pˈin̪kt̪um# | #pˈin̪t̪o# {GOLD: #pˈin̪t̪o#}
-653    | #pˈirɑ# | #pˈeɾɑ# {GOLD: #pˈeɾɑ#}
-654    | #pˈiskem# | #pˈeθe# {GOLD: #pˈeθ#}
-655    | #pˈiɡn̪orɑ# | #pˈeɲɾɑ# {GOLD: #pɾˈen̪d̪ɑ#}
-656    | #pˈiɡn̪um# | #pˈeɲo# {GOLD: #pˈeɲo#}
-657    | #pˈiːn̪eɑm# | #pˈiɲɑ# {GOLD: #pˈiɲɑ#}
-658    | #pˈiːn̪um# | #pˈin̪o# {GOLD: #pˈin̪o#}
-659    | #pˈod̪ium# | #pˈoʝo# {GOLD: #pˈoʝo#}
-660    | #pˈoe̯n̪ɑm# | #pˈen̪ɑ# {GOLD: #pˈen̪ɑ#}
-661    | #pˈon̪t̪em# | #pwˈen̪t̪e# {GOLD: #pwˈen̪t̪e#}
-662    | #pˈopulum# | #pwˈeblo# {GOLD: #pwˈeblo#}
-663    | #pˈorkum# | #pwˈeɾko# {GOLD: #pwˈeɾko#}
-664    | #pˈorrum# | #pwˈero# {GOLD: #pwˈero#}
-665    | #pˈort̪um# | #pwˈeɾt̪o# {GOLD: #pwˈeɾt̪o#}
-666    | #pˈort̪ɑm# | #pwˈeɾt̪ɑ# {GOLD: #pwˈeɾt̪ɑ#}
-667    | #pˈosit̪um# | #pwˈest̪o# {GOLD: #pwˈest̪o#}
-668    | #pˈost̪# | #pwˈeθ# {GOLD: #pwˈes#}
-669    | #pˈullum# | #pˈoʝo# {GOLD: #pˈoʝo#}
-670    | #pˈulpɑ# | #pˈolpɑ# {GOLD: #pˈulpɑ#}
-671    | #pˈun̪kt̪um# | #pˈun̪t̪o# {GOLD: #pˈun̪t̪o#}
-672    | #pˈut̪eum# | #pˈoθo# {GOLD: #pˈoθo#}
-673    | #pˈuɡn̪um# | #pˈuɲo# {GOLD: #pˈuɲo#}
-674    | #pˈuːlikɑm# | #pˈulɡɑ# {GOLD: #pˈulɡɑ#}
-675    | #pˈuːrum# | #pˈuɾo# {GOLD: #pˈuɾo#}
-676    | #pˈɑːkem# | #pˈɑθ# {GOLD: #pˈɑθ#}
-677    | #pˈɑleɑm# | #pˈɑxɑ# {GOLD: #pˈɑxɑ#}
-678    | #pˈɑlmɑm# | #pˈɑlmɑ# {GOLD: #pˈɑlmɑ#}
-679    | #pˈɑn̪n̪um# | #pˈɑɲo# {GOLD: #pˈɑɲo#}
-680    | #pˈɑn̪t̪ikem# | #pˈɑn̪t̪eθ# {GOLD: #pˈɑn̪θɑ#}
-681    | #pˈɑrt̪em# | #pˈɑɾt̪e# {GOLD: #pˈɑɾt̪e#}
-682    | #pˈɑrt̪um# | #pˈɑɾt̪o# {GOLD: #pˈɑɾt̪o#}
-683    | #pˈɑssum# | #pˈɑso# {GOLD: #pˈɑso#}
-684    | #pˈɑt̪rem# | #pˈɑd̪ɾe# {GOLD: #pˈɑd̪ɾe#}
-685    | #pˈɑwkum# | #pˈoko# {GOLD: #pˈoko#}
-686    | #pˈɑwkus# | #pˈokos# {GOLD: #pˈokos#}
-687    | #pˈɑwperem# | #pˈobɾe# {GOLD: #pˈobɾe#}
-688    | #pˈɑːn̪em# | #pˈɑn̪# {GOLD: #pˈɑn̪#}
-689    | #pˌed̪ˈukulum# | #ped̪ˈuxo# {GOLD: #pjˈoxo#}
-690    | #pˌed̪ˈuːkum# | #ped̪ˈuɡo# {GOLD: #ped̪ˈuɡo#}
-691    | #pˌeiˈoːrem# | #piˈoɾ# {GOLD: #peˈoɾ#}
-692    | #pˌekkˈɑːt̪um# | #pekˈɑd̪o# {GOLD: #pekˈɑd̪o#}
-693    | #pˌekt̪in̪ˈɑːre# | #pen̪t̪ˈɑɾ# {GOLD: #pejn̪ˈɑɾ#}
-694    | #pˌekt̪orˈɑːlem# | #ped̪ɾˈɑl# {GOLD: #pet̪ɾˈɑl#}
-695    | #pˌelliːkˈɑːre# | #peʝɡˈɑɾ# {GOLD: #pelɡˈɑɾ#}
-696    | #pˌellˈiːkeɑ# | #peʝˈiθɑ# {GOLD: #peʝˈiθɑ#}
-697    | #pˌersˈoːn̪ɑm# | #pesˈon̪ɑ# {GOLD: #peɾsˈon̪ɑ#}
-698    | #pˌerˈikulum# | #peɾˈexo# {GOLD: #pelˈiɡɾo#}
-699    | #pˌeːn̪sˈɑːre# | #pesˈɑɾ# {GOLD: #pesˈɑɾ#}
-700    | #pˌiet̪ˈɑːt̪em# | #pˈed̪ˈɑd̪# {GOLD: #pjed̪ˈɑd̪#}
-701    | #pˌiskˈɑːt̪um# | #peskˈɑd̪o# {GOLD: #peskˈɑd̪o#}
-702    | #pˌit̪ˈɑkkium# | #ped̪ˈeθo# {GOLD: #ped̪ˈɑθo#}
-703    | #pˌiɡmˈen̪t̪um# | #pimjˈen̪t̪o# {GOLD: #pimjˈen̪t̪o#}
-704    | #pˌiɡrˈit̪iɑ# | #peɾˈeθɑ# {GOLD: #peɾˈeθɑ#}
-705    | #pˌod̪iˈɑːre# | #puʝˈɑɾ# {GOLD: #poʝˈɑɾ#}
-706    | #pˌollikˈɑːrem# | #poʝɡˈɑɾ# {GOLD: #pulɡˈɑɾ#}
-707    | #pˌolˈen̪t̪ɑ# | #puljˈen̪t̪ɑ# {GOLD: #puljˈen̪t̪ɑ#}
-708    | #pˌort̪ˈɑt̪ikum# | #poɾt̪ˈɑsɡo# {GOLD: #poɾt̪ˈɑθɡo#}
-709    | #pˌosit̪ˈuːrɑ# | #post̪ˈuɾɑ# {GOLD: #post̪uɾɑ#}
-710    | #pˌot̪ˈen̪t̪e# | #pud̪jˈen̪t̪e# {GOLD: #pud̪jˈen̪t̪e#}
-711    | #pˌoːt̪iˈoːn̪em# | #poθˈon̪# {GOLD: #poθˈon̪#}
-712    | #pˌulsˈɑːre# | #puxˈɑɾ# {GOLD: #puxˈɑɾ#}
-713    | #pˌult̪ˈɑrium# | #put͡ʃˈeɾo# {GOLD: #put͡ʃˈeɾo#}
-714    | #pˈulwum# | #pˈolbo# {GOLD: #pˈolbo#}
-715    | #pˌulˈeɡium# | #polˈio# {GOLD: #polˈeo#}
-716    | #pˌun̪kt̪iˈɑːre# | #pun̪θˈɑɾ# {GOLD: #pun̪θˈɑɾ#}
-717    | #pˌɑlpˈɑːre# | #popˈɑɾ# {GOLD: #popˈɑɾ#}
-718    | #pˌɑlˈumbɑm# | #pɑlˈombɑ# {GOLD: #pɑlˈomɑ#}
-719    | #pˌɑn̪ifikˈɑːre# | #pɑn̪iɡʷˈɑɾ# {GOLD: #ɑpɑn̪iɡʷˈɑɾ#}
-720    | #pˌɑriet̪ˈiːn̪ɑs# | #pɑɾd̪ˈin̪ɑs# {GOLD: #pɑɾd̪ˈin̪ɑs#}
-721    | #pˌɑrɑd̪ˈiːsum# | #pɑɾɑiso# {GOLD: #pɑɾɑˈiso#}
-722    | #pˌɑrˈiet̪em# | #pɑɾˈed̪# {GOLD: #pɑɾˈed̪#}
-723    | #pˌɑrˈɑbolɑ# | #pɑɾˈɑblɑ# {GOLD: #pɑlˈɑbɾɑ#}
-724    | #pˌɑst̪ˈoːrem# | #pɑst̪ˈoɾ# {GOLD: #pɑst̪ˈoɾ#}
-725    | #pˌɑt̪ˈellɑ# | #pɑd̪ˈiʝɑ# {GOLD: #pɑd̪ˈiʝɑ#}
-726    | #pˌɑwsˈɑːre# | #posˈɑɾ# {GOLD: #posˈɑɾ#}
-727    | #pˌɑːn̪ˈikulɑ# | #pɑn̪ˈexɑ# {GOLD: #pɑn̪ˈot͡ʃɑ#}
-728    | #pˌɑːn̪ˈɑːriɑm# | #pɑn̪ˈeɾɑ# {GOLD: #pɑn̪ˈeɾɑ#}
-729    | #rhˈombum# | #rwˈembo# {GOLD: #rˈomo#}
-730    | #rˈeːmum# | #rˈemo# {GOLD: #rˈemo#}
-731    | #rˈet̪in̪ɑm# | #rjˈen̪d̪ɑ# {GOLD: #rjˈen̪d̪ɑ#}
-732    | #rˈeːɡn̪um# | #rˈeɲo# {GOLD: #rˈejn̪o#}
-733    | #rˈeːɡulɑ# | #rˈexɑ# {GOLD: #rˈexɑ#}
-734    | #rˈeːt̪e# | #rˈed̪# {GOLD: #rˈed̪#}
-735    | #rˈeːɡem# | #rˈe# {GOLD: #rˈej#}
-736    | #rˈiɡid̪um# | #rˈeed̪o# {GOLD: #rˈeo#}
-737    | #rˈiːpɑm# | #rˈibɑ# {GOLD: #rˈibɑ#}
-738    | #rˈiːwum# | #rˈio# {GOLD: #rˈio#}
-739    | #rˈot̪ulum# | #rwˈeld̪o# {GOLD: #rˈoʝo#}
-740    | #rˈot̪ɑm# | #rwˈed̪ɑ# {GOLD: #rwˈed̪ɑ#}
-741    | #rˈoːbore# | #rˈobɾe# {GOLD: #rˈoble#}
-742    | #rˈoːst̪rum# | #rˈost̪ɾo# {GOLD: #rˈost̪ɾo#}
-743    | #rˈubeum# | #rˈubjo# {GOLD: #rˈubjo#}
-744    | #rˈupt̪um# | #rˈot̪o# {GOLD: #rˈot̪o#}
-745    | #rˈusseum# | #rˈuxo# {GOLD: #rˈoxo#}
-746    | #rˈussum# | #rˈoso# {GOLD: #rˈoxo#}
-747    | #rˈɑbiɑ# | #rˈɑbjɑ# {GOLD: #rˈɑbjɑ#}
-748    | #rˌɑd̪iːkem# | #reθ# {GOLD: #rɑˈiθ#}
-749    | #rˈɑd̪ium# | #rˈɑʝo# {GOLD: #rˈɑʝo#}
-750    | #rˈɑn̪kid̪um# | #rˈɑn̪θed̪o# {GOLD: #rˈɑn̪θjo#}
-751    | #rˈɑpid̪um# | #rˈɑwd̪o# {GOLD: #rˈɑwd̪o#}
-752    | #rˈɑpʰɑn̪um# | #rˈɑβʰɑn̪o# {GOLD: #rˈɑbɑn̪o#}
-753    | #rˈɑːrum# | #rˈɑɾo# {GOLD: #rˈɑlo#}
-754    | #rˈɑːsum# | #rˈɑso# {GOLD: #rˈɑso#}
-755    | #rˌekit̪ˈɑːre# | #reθˈɑɾ# {GOLD: #reθˈɑɾ#}
-756    | #rˌeːkˌuperˈɑːre# | #reɡobɾˈɑɾ# {GOLD: #rekobɾˈɑɾ#}
-757    | #rˌeːn̪iˈoːn̪em# | #reɲˈon̪# {GOLD: #riɲˈon̪#}
-758    | #rˌeːɡˈiːn̪ɑm# | #reˈin̪ɑ# {GOLD: #rˈejn̪ɑ#}
-759    | #rˌeːɡˈɑːlem# | #reˈɑl# {GOLD: #reˈɑl#}
-760    | #rˌin̪ɡˈiːre# | #ren̪ʝˈiɾ# {GOLD: #reɲˈiɾ#}
-761    | #rˌiːsˈon̪eum# | #risˈoɲo# {GOLD: #riswˈeɲo#}
-762    | #rˌiːpˈɑːriɑm# | #ribˈeɾɑ# {GOLD: #ribˈeɾɑ#}
-763    | #rˌot̪ulˈɑːre# | #rold̪ˈɑɾ# {GOLD: #ɑroxˈɑɾ#}
-764    | #rˌot̪ˈellɑm# | #rud̪ˈiʝɑ# {GOLD: #rod̪ˈiʝɑ#}
-765    | #rˌoːbˈiːɡin̪e# | #robˈin̪# {GOLD: #robˈin̪#}
-766    | #rˌoːsmɑrˈiːn̪um# | #rosmɑɾˈin̪o# {GOLD: #romˈeɾo#}
-767    | #rˌupt̪ˈuːrɑm# | #rot̪ˈuɾɑ# {GOLD: #rot̪ˈuɾɑ#}
-768    | #rˌuɡˈiːt̪um# | #roˈid̪o# {GOLD: #rwˈid̪o#}
-769    | #rˌɑd̪ˈeːre# | #rɑˈeɾ# {GOLD: #rɑˈeɾ#}
-770    | #rˌɑkˈeːmum# | #rɑθˈemo# {GOLD: #rɑθˈimo#}
-771    | #rˌɑssikˈɑːre# | #rɑskˈɑɾ# {GOLD: #rɑskˈɑɾ#}
-772    | #rˌɑt̪iˈoːn̪em# | #rɑθˈon̪# {GOLD: #rɑθˈon̪#}
-773    | #rˌɑːst̪ˈellum# | #rɑst̪ˈiʝo# {GOLD: #rɑst̪ɾˈiʝo#}
-774    | #sˈeːmit̪ɑ# | #sˈemd̪ɑ# {GOLD: #sˈen̪d̪ɑ#}
-775    | #sˌiɡn̪ˈɑːle# | #seɲˈɑl# {GOLD: #seɲˈɑl#}
-776    | #sˌiɡˈillum# | #seˈeʝo# {GOLD: #sˈeʝo#}
-777    | #skrˌiːpt̪ˈoːrem# | #eskɾit̪ˈoɾ# {GOLD: #eskɾit̪ˈoɾ#}
-778    | #skˈopulum# | #eskwˈeblo# {GOLD: #eskˈoʝo#}
-779    | #skˈoːpɑm# | #eskˈobɑ# {GOLD: #eskˈobɑ#}
-780    | #skˈuːt̪um# | #eskˈud̪o# {GOLD: #eskˈud̪o#}
-781    | #skˈɑlɑm# | #eskˈɑlɑ# {GOLD: #eskˈɑlɑ#}
-782    | #skˈɑmn̪um# | #eskˈɑɲo# {GOLD: #eskˈɑɲo#}
-783    | #skˌin̪t̪ˈillɑ# | #θen̪t̪ˈeʝɑ# {GOLD: #θen̪t̪ˈeʝɑ#}
-784    | #skˌut̪ˈellɑ# | #eskud̪ˈiʝɑ# {GOLD: #eskud̪ˈiʝɑ#}
-785    | #skʰˈolɑm# | #eskʰwˈelɑ# {GOLD: #eskwˈelɑ#}
-786    | #spˈekulum# | #espˈexo# {GOLD: #espˈexo#}
-787    | #spˈissum# | #espˈeso# {GOLD: #espˈeso#}
-788    | #spˈiːn̪ɑm# | #espˈin̪ɑ# {GOLD: #espˈin̪ɑ#}
-789    | #spˈon̪ɡiɑ# | #espˈon̪ʝɑ# {GOLD: #espˈon̪xɑ#}
-790    | #spˈoːn̪sum# | #espˈoso# {GOLD: #espˈoso#}
-791    | #spˈoːn̪sɑ# | #espˈosɑ# {GOLD: #espˈosɑ#}
-792    | #spˈuːmɑm# | #espˈumɑ# {GOLD: #espˈumɑ#}
-793    | #spˈɑrt̪um# | #espˈɑɾt̪o# {GOLD: #espˈɑɾt̪o#}
-794    | #spˈɑt̪ulɑm# | #espˈɑld̪ɑ# {GOLD: #espˈɑld̪ɑ#}
-795    | #spˌeːrˈɑːre# | #espeɾˈɑɾ# {GOLD: #espeɾˈɑɾ#}
-796    | #st̪rˈikt̪um# | #est̪ɾˈet͡ʃo# {GOLD: #est̪ɾˈet͡ʃo#}
-797    | #st̪rˈin̪ɡoː# | #est̪ɾˈen̪ɡo# {GOLD: #est̪ɾˈiɲo#}
-798    | #st̪ˈerkorem# | #est̪jˈeɾkɾe# {GOLD: #est̪jˈeɾkol#}
-799    | #st̪ˈeːllɑm# | #est̪ˈeʝɑ# {GOLD: #est̪ɾˈeʝɑ#}
-800    | #st̪ˈɑbulum# | #est̪ˈɑblo# {GOLD: #est̪ˈɑblo#}
-801    | #st̪ˈɑt̪um# | #est̪ˈɑd̪o# {GOLD: #est̪ˈɑd̪o#}
-802    | #sˈae̯pt̪um# | #sjˈet̪o# {GOLD: #sˈet̪o#}
-803    | #sˈae̯t̪ɑ# | #sjˈed̪ɑ# {GOLD: #sˈed̪ɑ#}
-804    | #sˈed̪eɑt̪# | #sˈeɑ# {GOLD: #sˈeɑ#}
-805    | #sˈeks# | #sˈes# {GOLD: #sˈejs#}
-806    | #sˈekst̪ɑ# | #sjˈest̪ɑ# {GOLD: #sjˈest̪ɑ#}
-807    | #sˈellɑm# | #sˈiʝɑ# {GOLD: #sˈiʝɑ#}
-808    | #sˈemper# | #sjˈempeɾ# {GOLD: #sjˈempɾe#}
-809    | #sˈept̪em# | #sjˈet̪e# {GOLD: #sjˈet̪e#}
-810    | #sˈerrɑ# | #sjˈerɑ# {GOLD: #sjˈerɑ#}
-811    | #sˈerwum# | #sjˈeɾbo# {GOLD: #sjˈeɾbo#}
-812    | #sˈeːbum# | #sˈeo# {GOLD: #sˈebo#}
-813    | #sˈeːn̪sum# | #sˈeso# {GOLD: #sˈeso#}
-814    | #sˈeːpiɑ# | #sˈepɑ# {GOLD: #xˈibjɑ#}
-815    | #sˈibi# | #sˈebe# {GOLD: #sˈi#}
-816    | #sˈiːk# | #sˈi# {GOLD: #sˈi#}
-817    | #sˈikkum# | #sˈeko# {GOLD: #sˈeko#}
-818    | #sˈilwɑm# | #sˈelbɑ# {GOLD: #sˈelbɑ#}
-819    | #sˈin̪e# | #sˈen̪# {GOLD: #sˈin̪#}
-820    | #sˈin̪um# | #sˈen̪o# {GOLD: #sˈen̪o#}
-821    | #sˈit̪im# | #sˈed̪# {GOLD: #sˈed̪#}
-822    | #sˈiɡn̪um# | #sˈeɲo# {GOLD: #sˈeɲo#}
-823    | #sˈiɡn̪ɑm# | #sˈeɲɑ# {GOLD: #sˈeɲɑ#}
-824    | #sˈokrɑm# | #swˈeɾɑ# {GOLD: #swˈeɡɾɑ#}
-825    | #sˈolid̪um# | #swˈed̪o# {GOLD: #swˈeld̪o#}
-826    | #sˈolum# | #swˈelo# {GOLD: #swˈelo#}
-827    | #sˈolut̪um# | #sˈot͡ʃo# {GOLD: #swˈelt̪o#}
-828    | #sˈomn̪ium# | #sˈoɲo# {GOLD: #swˈeɲo#}
-829    | #sˈomn̪um# | #swˈeɲo# {GOLD: #swˈeɲo#}
-830    | #sˈort̪em# | #swˈeɾt̪e# {GOLD: #swˈeɾt̪e#}
-831    | #sˈoːlem# | #sˈol# {GOLD: #sˈol#}
-832    | #sˈulkum# | #sˈolko# {GOLD: #sˈuɾko#}
-833    | #sˈummɑm# | #sˈomɑ# {GOLD: #sˈomɑ#}
-834    | #sˈuper# | #sˈobeɾ# {GOLD: #sˈobɾe#}
-835    | #sˈurd̪um# | #sˈoɾd̪o# {GOLD: #sˈoɾd̪o#}
-836    | #sˈuːkid̪um# | #sˈuθo# {GOLD: #sˈuθjo#}
-837    | #sˈuːkum# | #sˈuɡo# {GOLD: #sˈuɡo#}
-838    | #sˈɑkkum# | #sˈɑko# {GOLD: #sˈɑko#}
-839    | #sˈɑksum# | #sˈexo# {GOLD: #sˈɑxo#}
-840    | #sˈɑlem# | #sˈɑl# {GOLD: #sˈɑl#}
-841    | #sˈɑlikem# | #sˈɑlθe# {GOLD: #sˈɑwθe#}
-842    | #sˈɑlt̪um# | #sˈot̪o# {GOLD: #sˈot̪o#}
-843    | #sˈɑn̪ɡwin̪em# | #sˈɑn̪ɡʷjen̪# {GOLD: #sˈɑn̪ɡɾe#}
-844    | #sˈɑpid̪um# | #sˈɑwd̪o# {GOLD: #sˈɑbjo#}
-845    | #sˈɑpiɑt̪# | #sˈepɑ# {GOLD: #sˈepɑ#}
-846    | #sˈɑpui# | #sˈɑbwe# {GOLD: #sˈope#}
-847    | #sˈɑɡmɑm# | #sˈemɑ# {GOLD: #sˈomɑ#}
-848    | #sˌae̯t̪ˈɑːkeum# | #sed̪ˈɑθo# {GOLD: #θed̪ˈɑθo#}
-849    | #sˌed̪ˈeːre# | #seˈeɾ# {GOLD: #sˈeɾ#}
-850    | #sˌed̪ˈiːlɑ# | #seˈilɑ# {GOLD: #sˈixɑ#}
-851    | #sˌekuːrit̪ˈɑːt̪em# | #seɾt̪ˈɑd̪# {GOLD: #seɡuɾid̪ˈɑd̪#}
-852    | #sˌekwˈen̪t̪e# | #siɡʷjˈen̪t̪e# {GOLD: #siɡjˈen̪t̪e#}
-853    | #sˌekˈun̪d̪um# | #seɡˈon̪d̪o# {GOLD: #sˌeɡˈun̪d̪o#}
-854    | #sˌekˈɑːre# | #seɡˈɑɾ# {GOLD: #seɡˈɑɾ#}
-855    | #sˌen̪iˈoːrem# | #seɲˈoɾ# {GOLD: #seɲˈoɾ#}
-856    | #sˌen̪t̪imˈen̪t̪um# | #sen̪t̪mjˈen̪t̪o# {GOLD: #sen̪t̪imjˈen̪t̪o#}
-857    | #sˌen̪ˈɑːt̪um# | #sen̪ˈɑd̪o# {GOLD: #sen̪ˈɑd̪o#}
-858    | #sˌept̪imˈɑːn̪ɑm# | #set̪mˈɑn̪ɑ# {GOLD: #semˈɑn̪ɑ#}
-859    | #sˌermˈoːn̪em# | #seɾmˈon̪# {GOLD: #seɾmon̪#}
-860    | #sˌeːmˈen̪t̪e# | #simjˈen̪t̪e# {GOLD: #simjˈen̪t̪e#}
-861    | #sˌiɡˈillum# | #seˈeʝo# {GOLD: #sˈeʝo#}
-862    | #sˌolwˈeːre# | #solbˈeɾ# {GOLD: #solbˈeɾ#}
-863    | #sˈolt̪um# | #sˈot͡ʃo# {GOLD: #swˈelt̪o#}
-864    | #sˌon̪ˈoːrum# | #son̪ˈoɾo# {GOLD: #son̪ˈoɾo#}
-865    | #sˌoːlit̪ˈɑːrium# | #sut͡ʃˈeɾo# {GOLD: #solt̪ˈeɾo#}
-866    | #sˌubkˌɑwˈɑːre# | #sokɑbˈɑɾ# {GOLD: #sokɑbˈɑɾ#}
-867    | #sˌufferˈiːre# | #sovɾˈiɾ# {GOLD: #sufɾˈiɾ#}
-868    | #sˌufflˈɑːre# | #sot͡ʃˈɑɾ# {GOLD: #soplˈɑɾ#}
-869    | #sˌupˈerbiɑm# | #subˈeɾbjɑ# {GOLD: #sobˈeɾbjɑ#}
-870    | #sˌuspˈekt̪ɑ# | #suspˈet͡ʃɑ# {GOLD: #sospˈet͡ʃɑ#}
-871    | #sˌuːd̪ˈoːrem# | #sud̪ˈoɾ# {GOLD: #sud̪ˈoɾ#}
-872    | #sˌɑlmˈuriɑ# | #sɑlmwˈeɾɑ# {GOLD: #sɑlmwˈeɾɑ#}
-873    | #sˌɑlˈuːt̪em# | #sɑlˈud̪# {GOLD: #sɑlˈud̪#}
-874    | #sˌɑːn̪kt̪ifikˈɑːre# | #sɑn̪t̪iɡʷˈɑɾ# {GOLD: #sɑn̪t̪iɡʷˈɑɾ#}
-875    | #sˌɑn̪ɡwˈin̪eum# | #sɑn̪ɡʷˈiɲo# {GOLD: #sɑn̪ɡʷˈeɲo#}
-876    | #sˌɑpˈoːn̪em# | #sɑbˈon̪# {GOLD: #xɑbˈon̪#}
-877    | #sˌɑpˈoːrem# | #sɑbˈoɾ# {GOLD: #sɑbˈoɾ#}
-878    | #sˌɑrmˈen̪t̪um# | #sɑɾmjˈen̪t̪o# {GOLD: #sɑɾmjˈen̪t̪o#}
-879    | #sˌɑrt̪ˈɑːɡin̪em# | #sɑɾt̪ˈɑʝn̪e# {GOLD: #sɑɾt̪ˈen̪#}
-880    | #sˌɑɡˈit̪t̪ɑm# | #sɑˈet̪ɑ# {GOLD: #sɑˈet̪ɑ#}
-881    | #sˌɑɡˈiːn̪ɑ# | #sɑˈin̪ɑ# {GOLD: #sɑˈin̪ɑ#}
-882    | #sˌɑːn̪it̪ˈɑːt̪em# | #sɑn̪d̪ˈɑd̪# {GOLD: #sɑn̪id̪ˈɑd̪#}
-883    | #sˌɑːn̪kt̪iˈoːn̪em# | #sɑn̪θˈon̪# {GOLD: #sɑn̪θjon̪#}
-884    | #t̪ˌimˈoːrem# | #t̪emˈoɾ# {GOLD: #t̪emˈoɾ#}
-885    | #t̪rˈed̪ekim# | #t̪ɾˈieθ# {GOLD: #t̪ɾˈeθe#}
-886    | #t̪rˈeːs# | #t̪ɾˈes# {GOLD: #t̪ɾˈes#}
-887    | #t̪rˈibulum# | #t̪ɾˈeblo# {GOLD: #t̪ɾˈiʝo#}
-888    | #t̪rˈiːt̪ikum# | #t̪ɾˈiɡo# {GOLD: #t̪ɾˈiɡo#}
-889    | #t̪rˈukt̪ɑm# | #t̪ɾˈut͡ʃɑ# {GOLD: #t̪ɾˈut͡ʃɑ#}
-890    | #t̪rˈullɑ# | #t̪ɾˈoʝɑ# {GOLD: #t̪ɾˈoʝɑ#}
-891    | #t̪rˈun̪kulum# | #t̪ɾˈon̪t͡ʃo# {GOLD: #t̪ɾˈon̪t͡ʃo#}
-892    | #t̪rˈun̪kum# | #t̪ɾˈon̪ko# {GOLD: #t̪ɾon̪ko#}
-893    | #t̪rˌin̪it̪iˈɑːre# | #t̪ɾin̪θˈɑɾ# {GOLD: #t̪ɾen̪θˈɑɾ#}
-894    | #t̪rˌist̪ˈit̪iɑm# | #t̪ɾest̪ˈeθɑ# {GOLD: #t̪ɾist̪ˈeθɑ#}
-895    | #t̪rˌɑːd̪it̪ˈoːrem# | #t̪ɾed̪ˈoɾ# {GOLD: #t̪ɾɑjd̪ˈoɾ#}
-896    | #t̪ˈekt̪um# | #t̪ˈet͡ʃo# {GOLD: #t̪ˈet͡ʃo#}
-897    | #t̪ˈempum# | #t̪jˈempo# {GOLD: #t̪jˈempo#}
-898    | #t̪ˈen̪erum# | #t̪jˈen̪d̪ɾo# {GOLD: #t̪jˈeɾn̪o#}
-899    | #t̪ˈepid̪um# | #t̪jˈewd̪o# {GOLD: #t̪ˈibjo#}
-900    | #t̪ˈepid̪ɑm# | #t̪ˈibjɑ# {GOLD: #t̪ˈibjɑ#}
-901    | #t̪ˈerrɑm# | #t̪jˈerɑ# {GOLD: #t̪jˈerɑ#}
-902    | #t̪ˈeːlɑm# | #t̪ˈelɑ# {GOLD: #t̪ˈelɑ#}
-903    | #t̪ˈeːn̪sum# | #t̪ˈeso# {GOLD: #t̪jˈeso#}
-904    | #t̪ˈeːɡulɑm# | #t̪ˈexɑ# {GOLD: #t̪ˈexɑ#}
-905    | #t̪ˈin̪eɑ# | #t̪ˈeɲɑ# {GOLD: #t̪ˈiɲɑ#}
-906    | #t̪ˈiːn̪kt̪um# | #t̪ˈin̪t̪o# {GOLD: #t̪ˈin̪t̪o#}
-907    | #t̪ˈort̪um# | #t̪wˈeɾt̪o# {GOLD: #t̪wˈeɾt̪o#}
-908    | #t̪ˈoːt̪um# | #t̪ˈod̪o# {GOLD: #t̪ˈod̪o#}
-909    | #t̪ˈun̪ikɑm# | #t̪ˈun̪ɡɑ# {GOLD: #t̪ˈon̪ɡɑ#}
-910    | #t̪ˈurbid̪um# | #t̪ˈoɾbed̪o# {GOLD: #t̪ˈuɾbjo#}
-911    | #t̪ˈurrim# | #t̪ˈor# {GOLD: #t̪ore#}
-912    | #t̪ˈussem# | #t̪ˈose# {GOLD: #t̪ˈos#}
-913    | #t̪ˈɑbulɑm# | #t̪ˈɑblɑ# {GOLD: #t̪ˈɑblɑ#}
-914    | #t̪ˈɑbɑn̪um# | #t̪ˈɑbɑn̪o# {GOLD: #t̪ˈɑbɑn̪o#}
-915    | #t̪ˈɑksum# | #t̪ˈexo# {GOLD: #t̪ˈexo#}
-916    | #t̪ˈɑm# | #t̪ˈɑn̪# {GOLD: #t̪ˈɑn̪#}
-917    | #t̪ˈɑn̪t̪um# | #t̪ˈɑn̪t̪o# {GOLD: #t̪ˈɑn̪t̪o#}
-918    | #t̪ˈɑn̪ɡoː# | #t̪ˈɑn̪ɡo# {GOLD: #t̪ˈɑn̪ɡo#}
-919    | #t̪ˈɑrd̪e# | #t̪ˈɑɾd̪e# {GOLD: #t̪ˈɑɾd̪e#}
-920    | #t̪ˈɑwrum# | #t̪ˈoɾo# {GOLD: #t̪oɾo#}
-921    | #t̪ˌeksˈeːre# | #t̪exˈeɾ# {GOLD: #t̪exˈeɾ#}
-922    | #t̪ˌemporˈɑːn̪um# | #t̪empɾˈɑn̪o# {GOLD: #t̪empɾˈɑn̪o#}
-923    | #t̪ˌen̪ˈebrɑːs# | #t̪in̪jˈebɾɑs# {GOLD: #t̪in̪jˈeblɑs#}
-924    | #t̪ˌerrˈoːn̪eum# | #t̪erˈuɲo# {GOLD: #t̪erˈuɲo#}
-925    | #t̪ˌert̪iˈɑːrium# | #t̪eθˈeɾo# {GOLD: #t̪eɾθˈeɾo#}
-926    | #t̪ˌormˈen̪t̪ɑm# | #t̪oɾmjˈen̪t̪ɑ# {GOLD: #t̪oɾmˈen̪t̪ɑ#}
-927    | #t̪ˌuːbˈellum# | #t̪ubˈiʝo# {GOLD: #t̪obˈiʝo#}
-928    | #t̪ˌɑksit̪ˈɑːre# | #t̪ɑst̪ˈɑɾ# {GOLD: #t̪ɑst̪ˈɑɾ#}
-929    | #t̪ˌɑksˈoːn̪e# | #t̪exˈon̪# {GOLD: #t̪exˈon̪#}
-930    | #t̪ˌɑmmˈɑɡn̪um# | #t̪ɑmˈɑɲo# {GOLD: #t̪ɑmˈɑɲo#}
-931    | #t̪ʰˌeːsˈɑwrum# | #t̪ʰesˈoɾo# {GOLD: #t̪esoɾo#}
-932    | #wˌeksˈiːkɑ# | #bexˈiɡɑ# {GOLD: #bexˈiɡɑ#}
-933    | #wˌiːkˈiːn̪um# | #beθˈin̪o# {GOLD: #beθˈin̪o#}
-934    | #wˈɑːɡin̪ɑ# | #bˈɑʝn̪ɑ# {GOLD: #bˈɑjn̪ɑ#}
-935    | #wˈen̪eris# | #bjˈen̪d̪ɾes# {GOLD: #bjˈeɾn̪es#}
-936    | #wˈen̪iː# | #bˈen̪i# {GOLD: #bˈen̪#}
-937    | #wˈen̪t̪rem# | #bjˈen̪t̪ɾe# {GOLD: #bjˈen̪t̪ɾe#}
-938    | #wˈen̪t̪um# | #bjˈen̪t̪o# {GOLD: #bjˈen̪t̪o#}
-939    | #wˈerbum# | #bjˈeɾbo# {GOLD: #bˈeɾbo#}
-940    | #wˈesperɑ# | #bjˈespɾɑ# {GOLD: #bˈispeɾɑ#}
-941    | #wˈespɑm# | #bjˈespɑ# {GOLD: #bˈispɑ#}
-942    | #wˈet̪ulum# | #bjˈeld̪o# {GOLD: #bjˈexo#}
-943    | #wˈeːn̪d̪it̪ɑm# | #bˈen̪d̪ed̪ɑ# {GOLD: #bˈen̪t̪ɑ#}
-944    | #wˈid̪eɑt̪# | #bˈiɑ# {GOLD: #bˈeɑ#}
-945    | #wˈikem# | #bˈeθ# {GOLD: #bˈeθ#}
-946    | #wˈillum# | #bˈeʝo# {GOLD: #bˈeʝo#}
-947    | #wˈird̪iɑ# | #bˈiɾʝɑ# {GOLD: #bˈeɾθɑ#}
-948    | #wˈirid̪em# | #bˈeɾd̪e# {GOLD: #bˈeɾd̪e#}
-949    | #wˈit̪ium# | #bˈeθo# {GOLD: #bˈeθo#}
-950    | #wˈit̪reum# | #bˈid̪ɾjo# {GOLD: #bˈid̪ɾjo#}
-951    | #wˈit̪t̪ɑm# | #bˈet̪ɑ# {GOLD: #bˈet̪ɑ#}
-952    | #wˈiːkt̪um# | #bˈit͡ʃo# {GOLD: #bˈit̪o#}
-953    | #wˈiːn̪eɑm# | #bˈiɲɑ# {GOLD: #bˈiɲɑ#}
-954    | #wˈiːn̪um# | #bˈin̪o# {GOLD: #bˈin̪o#}
-955    | #wˈiːsum# | #bˈiso# {GOLD: #bˈiso#}
-956    | #wˈiːt̪em# | #bˈid̪# {GOLD: #bˈid̪#}
-957    | #wˈiːt̪ɑm# | #bˈid̪ɑ# {GOLD: #bˈid̪ɑ#}
-958    | #wˈolt̪ɑ# | #bˈot͡ʃɑ# {GOLD: #bwˈelt̪ɑ#}
-959    | #wˈoːkem# | #bˈoθ# {GOLD: #bˈoθ#}
-960    | #wˈult̪urem# | #bwˈid̪ɾe# {GOLD: #bwˈit̪ɾe#}
-961    | #wˈɑkkɑm# | #bˈɑkɑ# {GOLD: #bˈɑkɑ#}
-962    | #wˈɑkum# | #bˈɑɡo# {GOLD: #bˈɑɡo#}
-963    | #wˈɑlleːs# | #bˈɑʝes# {GOLD: #bˈɑʝes#}
-964    | #wˈɑllɑ# | #bˈɑʝɑ# {GOLD: #bˈɑʝɑ#}
-965    | #wˌen̪ˈeːn̪um# | #ben̪ˈen̪o# {GOLD: #ben̪ˈen̪o#}
-966    | #wˌerekˈun̪d̪iɑm# | #beɾɡˈun̪ʝɑ# {GOLD: #beɾɡʷˈen̪θɑ#}
-967    | #wˌermˈikulum# | #beɾmˈexo# {GOLD: #beɾmˈexo#}
-968    | #wˌest̪ˈiːt̪um# | #best̪ˈid̪o# {GOLD: #best̪ˈid̪o#}
-969    | #wˌeːrit̪ˈɑːt̪em# | #beɾt̪ˈɑd̪# {GOLD: #veɾd̪ˈɑd̪#}
-970    | #wˌeːsˈiːkɑm# | #besˈiɡɑ# {GOLD: #bexˈiɡɑ#}
-971    | #wˌikˈiːn̪um# | #beθˈin̪o# {GOLD: #beθˈin̪o#}
-972    | #wˌin̪d̪ikˈɑːre# | #ben̪sɡˈɑɾ# {GOLD: #ben̪ɡˈɑɾ#}
-973    | #wˌin̪d̪ˈeːmiɑ# | #ben̪d̪ˈimjɑ# {GOLD: #ben̪d̪ˈimjɑ#}
-974    | #wˌin̪kˈikulum# | #ben̪θˈexo# {GOLD: #ben̪θˈexo#}
-975    | #wˌirt̪ˈuːt̪em# | #beɾt̪ˈud̪# {GOLD: #biɾt̪ˈud̪#}
-976    | #wˈirɡin̪em# | #bˈeɾʝen̪# {GOLD: #bˈiɾxen̪#}
-977    | #wˌiːɡˈin̪t̪i# | #beˈin̪t̪e# {GOLD: #bˈejn̪t̪e#}
-978    | #wˌolun̪t̪ˈɑːt̪em# | #boln̪t̪ˈɑd̪# {GOLD: #bolun̪t̪ˈɑd̪#}
-979    | #wˌɑkwˈɑːt̪ɑ# | #bɑɡʷˈɑd̪ɑ# {GOLD: #bɑɡʷˈɑd̪ɑ#}
-980    | #wˌɑkˈiːwum# | #bɑθˈio# {GOLD: #bɑθˈio#}
-981    | #wˌɑlˈen̪t̪em# | #bɑljˈen̪t̪e# {GOLD: #bɑljˈen̪t̪e#}
-982    | #wˌɑrˈiolɑ# | #biɾwˈelɑ# {GOLD: #biɾwˈelɑ#}
-983    | #ˌɑd̪t̪rˈɑn̪s# | #ɑd̪ɾˈɑs# {GOLD: #ɑt̪ɾˈɑs#}
-984    | #ˌɑwd̪ˈiːre# | #od̪ˈiɾ# {GOLD: #oˈiɾ#}
-985    | #ɡlˈɑn̪d̪e# | #lˈɑn̪d̪e# {GOLD: #lˈɑn̪d̪e#}
-986    | #ɡlˌɑt̪t̪ˈiːre# | #lɑt̪ˈiɾ# {GOLD: #lɑt̪ˈiɾ#}
-987    | #ɡrˈae̯kum# | #ɡɾjˈeɡo# {GOLD: #ɡɾjˈeɡo#}
-988    | #ɡrˈossum# | #ɡɾwˈeso# {GOLD: #ɡɾwˈeso#}
-989    | #ɡrˈyllum# | #ɡɾˈøʝo# {GOLD: #ɡɾˈiʝo#}
-990    | #ɡrˈɑn̪d̪em# | #ɡɾˈɑn̪d̪e# {GOLD: #ɡɾˈɑn̪d̪e#}
-991    | #ɡrˈɑːn̪um# | #ɡɾˈɑn̪o# {GOLD: #ɡɾˈɑn̪o#}
-992    | #ɡrˌun̪n̪ˈiːre# | #ɡɾoɲˈiɾ# {GOLD: #ɡɾuɲˈiɾ#}
-993    | #ɡrˌɑwit̪ˈɑːt̪em# | #ɡɾɑwd̪ˈɑd̪# {GOLD: #ɡɾɑbed̪ˈɑd̪#}
-994    | #ɡrˌɑːn̪ˈɑːrium# | #ɡɾɑn̪ˈeɾo# {GOLD: #ɡɾɑn̪ˈeɾo#}
-995    | #ɡˈeluː# | #ʝˈelu# {GOLD: #ʝˈelo#}
-996    | #ɡˈemmɑm# | #ʝˈemɑ# {GOLD: #ʝˈemɑ#}
-997    | #ɡˈen̪erum# | #ʝˈen̪d̪ɾo# {GOLD: #ʝˈeɾn̪o#}
-998    | #ɡˈen̪t̪em# | #ʝˈen̪t̪e# {GOLD: #xˈen̪t̪e#}
-999    | #ɡˈipsum# | #ʝˈeso# {GOLD: #ʝˈeso#}
-1000   | #ɡˈubiɑ# | #ɡˈubjɑ# {GOLD: #ɡˈubjɑ#}
-1001   | #ɡˈurd̪um# | #ɡˈoɾd̪o# {GOLD: #ɡˈoɾd̪o#}
-1002   | #ɡˈut̪t̪ɑm# | #ɡˈot̪ɑ# {GOLD: #ɡˈot̪ɑ#}
-1003   | #ɡˈɑllikum# | #ɡˈɑʝɡo# {GOLD: #ɡˈɑlɡo#}
-1004   | #ɡˈɑllum# | #ɡˈɑʝo# {GOLD: #ɡˈɑʝo#}
-1005   | #ɡˈɑwd̪ium# | #ɡˈoxo# {GOLD: #ɡˈoθo#}
-1006   | #ɡˌelˈɑːre# | #ʝelˈɑɾ# {GOLD: #elˈɑɾ#}
-1007   | #ɡˌen̪ˈest̪ɑm# | #ʝin̪jˈest̪ɑ# {GOLD: #in̪jˈest̪ɑ#}
-1008   | #ɡˌermˈɑːn̪um# | #ʝeɾmˈɑn̪o# {GOLD: #eɾmˈɑn̪o#}
-1009   | #ɡˌin̪ɡˈiːwɑm# | #ʝen̪ʝˈibɑ# {GOLD: #en̪θˈiɑ#}
-1010   | #ɡˌubern̪ɑt̪ˈoːre# | #ɡobeɾn̪ɑd̪ˈoɾ# {GOLD: #ɡobeɾn̪ɑd̪ˈoɾ#}
-1011   | #ɡˌulˈoːsum# | #ɡolˈoso# {GOLD: #ɡolˈoso#}
-1012   | #ɡˌurɡuliˈoːn̪em# | #ɡoɾɡxˈon̪# {GOLD: #ɡoɾɡˈoxo#}
-1013   | #ɡˌyːrˈɑːre# | #xyɾˈɑɾ# {GOLD: #xiɾˈɑɾ#}
-1014   | #ɡˌɑllˈellum# | #ɡɑlˈiʝo# {GOLD: #ɡɑlˈiʝo#}
-1015   | #ɡˌɑllˈiːn̪ɑ# | #ɡɑʝˈin̪ɑ# {GOLD: #ɡɑʝˈin̪ɑ#}
-1016   | #ɡˌɑn̪n̪ˈiːt̪um# | #ɡɑɲˈid̪o# {GOLD: #ɡɑɲˈid̪o#}
-1017   | #ˈaːeːrem# | #ˈaeɾ# {GOLD: #ˈɑjɾe#}
-1018   | #ˈekwɑ# | #jˈeɡʷɑ# {GOLD: #ʝˈeɡʷɑ#}
-1019   | #ˈeremum# | #jˈeɾmo# {GOLD: #ʝˈeɾmo#}
-1020   | #ˈeːskɑm# | #ˈeskɑ# {GOLD: #ʝˈeskɑ#}
-1021   | #ˈiberum# | #ˈebɾo# {GOLD: #ˈebɾo#}
-1022   | #ˈilloːs# | #ˈeʝos# {GOLD: #ˈeʝos#}
-1023   | #ˈillɑːs# | #ˈeʝɑs# {GOLD: #ˈeʝɑs#}
-1024   | #ˈimpleoː# | #ˈemwxo# {GOLD: #ˈin̪t͡ʃo#}
-1025   | #ˈin̪# | #ˈen̪# {GOLD: #ˈen̪#}
-1026   | #ˈin̪floː# | #ˈimt͡ʃo# {GOLD: #ˈin̪t͡ʃo#}
-1027   | #ˈin̪t̪er# | #ˈen̪t̪eɾ# {GOLD: #ˈen̪t̪ɾe#}
-1028   | #ˈipse# | #ˈese# {GOLD: #ˈese#}
-1029   | #ˈipsum# | #ˈeso# {GOLD: #ˈeso#}
-1030   | #ˈist̪e# | #ˈest̪e# {GOLD: #ˈest̪e#}
-1031   | #ˈist̪ud̪# | #ˈest̪o# {GOLD: #ˈest̪o#}
-1032   | #ˈiːn̪sulɑm# | #ˈislɑ# {GOLD: #ˈislɑ#}
-1033   | #ˈiːn̪ɡuin̪em# | #ˈin̪ɡwen̪# {GOLD: #ˈin̪ɡle#}
-1034   | #ˈiːrɑm# | #ˈiɾɑ# {GOLD: #ˈiɾɑ#}
-1035   | #ˈokko# | #wˈeko# {GOLD: #wˈeko#}
-1036   | #ˈokt̪oː# | #ˈot͡ʃo# {GOLD: #ˈot͡ʃo#}
-1037   | #ˈokulum# | #ˈoxo# {GOLD: #ˈoxo#}
-1038   | #ˈoperɑm# | #wˈebɾɑ# {GOLD: #wˈebɾɑ#}
-1039   | #ˈoːrd̪in̪em# | #ˈoɾd̪en̪# {GOLD: #ˈoɾd̪en̪#}
-1040   | #ˈorsum# | #wˈeso# {GOLD: #ˈoso#}
-1041   | #ˈort̪um# | #wˈeɾt̪o# {GOLD: #wˈeɾt̪o#}
-1042   | #ˈossum# | #wˈeso# {GOLD: #wˈeso#}
-1043   | #ˈoːwum# | #ˈoo# {GOLD: #wˈebo#}
-1044   | #ˈulmum# | #ˈolmo# {GOLD: #ˈolmo#}
-1045   | #ˈult̪imum# | #ˈut͡ʃemo# {GOLD: #ult̪imo#}
-1046   | #ˈun̪d̪ekim# | #ˈon̪d̪eθ# {GOLD: #ˈon̪θe#}
-1047   | #ˈun̪kiɑm# | #ˈon̪θɑ# {GOLD: #ˈon̪θɑ#}
-1048   | #ˈun̪kt̪um# | #ˈun̪t̪o# {GOLD: #ˈun̪t̪o#}
-1049   | #ˈun̪ɡulɑm# | #ˈon̪ɡlɑ# {GOLD: #ˈuɲɑ#}
-1050   | #ˈursum# | #ˈoso# {GOLD: #ˈoso#}
-1051   | #ˈuːberem# | #ˈubɾe# {GOLD: #ˈubɾe#}
-1052   | #ˈuːsum# | #ˈuso# {GOLD: #ˈuso#}
-1053   | #ˈuːwɑ# | #wˈɑ# {GOLD: #ˈubɑ#}
-1054   | #ˈɑd̪# | #ˈɑ# {GOLD: #ˈɑ#}
-1055   | #ˈɑffloː# | #ˈɑt͡ʃo# {GOLD: #ˈɑʝo#}
-1056   | #ˈɑfrikum# | #ˈɑbɾeɡo# {GOLD: #ˈɑbɾeɡo#}
-1057   | #ˈɑkerem# | #ˈeɾ# {GOLD: #ˈɑɾθe#}
-1058   | #ˈɑkiem# | #ˈɑθ# {GOLD: #ˈɑθ#}
-1059   | #ˈɑksem# | #ˈexe# {GOLD: #ˈexe#}
-1060   | #ˈɑkwɑm# | #ˈɑɡʷɑ# {GOLD: #ˈɑɡʷɑ#}
-1061   | #ˈɑlid̪# | #ˈɑl# {GOLD: #ˈɑl#}
-1062   | #ˈɑlikwod̪# | #ˈɑlɡo# {GOLD: #ˈɑlɡo#}
-1063   | #ˈɑlt̪erum# | #ˈod̪ɾo# {GOLD: #ˈot̪ɾo#}
-1064   | #ˈɑlt̪um# | #ˈot̪o# {GOLD: #ˈɑlt̪o#}
-1065   | #ˈɑlɑ# | #ˈɑlɑ# {GOLD: #ˈɑlɑ#}
-1066   | #ˈɑmit̪eːs# | #ˈɑmd̪es# {GOLD: #ˈɑn̪d̪es#}
-1067   | #ˈɑmplum# | #ˈɑmt͡ʃo# {GOLD: #ˈɑn̪t͡ʃo#}
-1068   | #ˈɑn̪imɑm# | #ˈɑn̪mɑ# {GOLD: #ˈɑlmɑ#}
-1069   | #ˈɑn̪ksiɑ# | #ˈɑn̪sjɑ# {GOLD: #ˈɑn̪sjɑ#}
-1070   | #ˈɑn̪n̪um# | #ˈɑɲo# {GOLD: #ˈɑɲo#}
-1071   | #ˈɑn̪sɑm# | #ˈɑsɑ# {GOLD: #ˈɑsɑ#}
-1072   | #ˈɑn̪um# | #ˈɑn̪o# {GOLD: #ˈɑn̪o#}
-1073   | #ˈɑpium# | #ˈepo# {GOLD: #ˈɑpjo#}
-1074   | #ˈɑrborem# | #ˈɑɾbɾe# {GOLD: #ˈɑɾbol#}
-1075   | #ˈɑːreɑm# | #ˈeɾɑ# {GOLD: #ˈeɾɑ#}
-1076   | #ˈɑrkiˈoːn̪em# | #ˈɑθˈon̪# {GOLD: #ɑɾθˈon̪#}
-1077   | #ˈɑrkum# | #ˈɑɾko# {GOLD: #ˈɑɾko#}
-1078   | #ˈɑsin̪um# | #ˈɑsn̪o# {GOLD: #ˈɑsn̪o#}
-1079   | #ˈɑst̪rum# | #ˈɑst̪ɾo# {GOLD: #ˈɑst̪ɾo#}
-1080   | #ˈɑst̪ʰmɑm# | #ˈɑsmɑ# {GOLD: #ˈɑsmɑ#}
-1081   | #ˈɑwem# | #ˈɑbe# {GOLD: #ˈɑbe#}
-1082   | #ˌɑːwˈersum# | #ɑbjˈeso# {GOLD: #ɑbjˈeso#}
-1083   | #ˈɑwrid̪iˈɑːre# | #ˈoɾʝˈɑɾ# {GOLD: #oɾeˈɑɾ#}
-1084   | #ˈɑwrum# | #ˈoɾo# {GOLD: #ˈoɾo#}
-1085   | #ˈɑwrˈikulɑ# | #ˈoɾˈexɑ# {GOLD: #oɾˈexɑ#}
-1086   | #ˈɑwt̪# | #ˈo# {GOLD: #ˈo#}
-1087   | #ˌae̯kwɑlit̪ˈɑːt̪em# | #eɡʷot̪ˈɑd̪# {GOLD: #iɡʷɑld̪ˈɑd̪#}
-1088   | #ˌae̯kwˈɑːlem# | #eɡʷˈɑl# {GOLD: #iɡʷˈɑl#}
-1089   | #ˌae̯st̪ˈiːwum# | #est̪ˈio# {GOLD: #est̪ˈio#}
-1090   | #ˌae̯t̪ˈɑːt̪em# | #ed̪ˈɑd̪# {GOLD: #ed̪ˈɑd̪#}
-1091   | #ˌekklˈeːsiɑm# | #et͡ʃˈesɑ# {GOLD: #iɡlˈesjɑ#}
-1092   | #ˌekskˌɑrpt̪iˈɑːre# | #eskɑθˈɑɾ# {GOLD: #eskɑɾθˈɑɾ#}
-1093   | #ˌeksˈemplum# | #exˈemt͡ʃo# {GOLD: #exˈemplo#}
-1094   | #ˌeksˈiːt̪um# | #exˈid̪o# {GOLD: #exˈid̪o#}
-1095   | #ˌerrˈoːrem# | #erˈoɾ# {GOLD: #erˈoɾ#}
-1096   | #ˌeːrˈiːkium# | #eɾˈiθo# {GOLD: #eɾˈiθo#}
-1097   | #ˌimperɑːt̪ˈoːre# | #empeɾɑd̪ˈoɾ# {GOLD: #empeɾɑd̪ˈoɾ#}
-1098   | #ˌimpˈosit̪um# | #empwˈest̪o# {GOLD: #impwˈest̪o#}
-1099   | #ˌimpˈulsum# | #empˈuxo# {GOLD: #empˈuxo#}
-1100   | #ˌimpˈulsɑt̪# | #empˈuxɑ# {GOLD: #empˈuxɑ#}
-1101   | #ˌin̪d̪ˈikt̪ɑ# | #en̪d̪ˈet͡ʃɑ# {GOLD: #en̪d̪ˈet͡ʃɑ#}
-1102   | #ˌin̪d̪ˈikulɑ# | #en̪d̪ˈexɑ# {GOLD: #en̪d̪ˈexɑ#}
-1103   | #ˌin̪imˈiːkum# | #en̪mˈiɡo# {GOLD: #en̪emˈiɡo#}
-1104   | #ˌin̪kˈert̪um# | #en̪θjˈeɾt̪o# {GOLD: #in̪θjˈeɾt̪o#}
-1105   | #ˌin̪kˈiːn̪kt̪ɑ# | #en̪θˈin̪t̪ɑ# {GOLD: #en̪θˈin̪t̪ɑ#}
-1106   | #ˌin̪lˈɑkweɑ# | #enlˈekwɑ# {GOLD: #en̪lˈɑθɑ#}
-1107   | #ˌin̪t̪erˈɑːn̪eɑ# | #en̪t̪ɾˈɑɲɑ# {GOLD: #en̪t̪ɾˈɑɲɑ#}
-1108   | #ˌin̪t̪ˈeɡrum# | #en̪t̪ˈeɾo# {GOLD: #en̪t̪ˈeɾo#}
-1109   | #ˌin̪ɡˌɑn̪n̪ˈɑːre# | #en̪ɡɑɲˈɑɾ# {GOLD: #en̪ɡɑɲˈɑɾ#}
-1110   | #ˌin̪ɡˌen̪erˈɑːre# | #en̪ʝen̪d̪ɾˈɑɾ# {GOLD: #en̪xen̪d̪ɾˈɑɾ#}
-1111   | #ˌit̪erˈɑːre# | #ed̪ɾˈɑɾ# {GOLD: #ed̪ɾˈɑɾ#}
-1112   | #ˌiːn̪fˈern̪um# | #imfjˈeɾn̪o# {GOLD: #in̪fjˈeɾn̪o#}
-1113   | #ˌoffˌoːkˈɑːre# | #ooɡˈɑɾ# {GOLD: #ɑoɡˈɑɾ#}
-1114   | #ˌokkˈɑːsum# | #okˈɑso# {GOLD: #okˈɑso#}
-1115   | #ˌoperˈɑːrium# | #obɾˈeɾo# {GOLD: #obɾˈeɾo#}
-1116   | #ˌowˈikulɑ# | #oˈexɑ# {GOLD: #obˈexɑ#}
-1117   | #ˌoːrd̪ˈin̪ium# | #oɾd̪ˈeɲo# {GOLD: #oɾd̪ˈeɲo#}
-1118   | #ˌoːrd̪ˈiːre# | #oɾd̪ˈiɾ# {GOLD: #uɾd̪ˈiɾ#}
-1119   | #ˌumbilˈiːkum# | #umblˈiɡo# {GOLD: #omblˈiɡo#}
-1120   | #ˌurt̪ˈiːkɑm# | #oɾt̪ˈiɡɑ# {GOLD: #oɾt̪ˈiɡɑ#}
-1121   | #ˌuːrˈiːn̪ɑ# | #oɾˈin̪ɑ# {GOLD: #oɾˈin̪ɑ#}
-1122   | #ˌɑbbrˌɑkʰiˈɑːre# | #ɑbɾɑθˈɑɾ# {GOLD: #ɑbɾɑθˈɑɾ#}
-1123   | #ˌɑbbɑt̪ˈissɑm# | #ɑbɑd̪ˈesɑ# {GOLD: #ɑbɑd̪ˈesɑ#}
-1124   | #ˌɑbbˈɑːt̪em# | #ɑbˈɑd̪# {GOLD: #ɑbˈɑd̪#}
-1125   | #ˌɑbˌɑn̪t̪iˈɑːre# | #ɑbɑn̪θˈɑɾ# {GOLD: #ɑbɑn̪θˈɑɾ#}
-1126   | #ˌɑd̪iˈeri# | #eˈeɾ# {GOLD: #ɑʝˈeɾ#}
-1127   | #ˌɑd̪wiˈɑːre# | #ɑbjˈɑɾ# {GOLD: #ɑbjˈɑɾ#}
-1128   | #ˌɑd̪wˌokɑt̪ˈoːrem# | #ɑboɡɑd̪ˈoɾ# {GOLD: #ɑboɡɑd̪ˈoɾ#}
-1129   | #ˌɑd̪wˈersum# | #ɑbjˈeso# {GOLD: #ɑbjˈeso#}
-1130   | #ˌɑd̪wˌeːrifikˈɑːre# | #ɑbeɾiɡʷˈɑɾ# {GOLD: #ɑbeɾiɡʷˈɑɾ#}
-1131   | #ˌɑd̪ˌuːn̪ˈɑːre# | #ɑd̪un̪ˈɑɾ# {GOLD: #ɑwn̪ˈɑɾ#}
-1132   | #ˌɑffrˈon̪t̪ɑ# | #ɑvɾˈen̪t̪ɑ# {GOLD: #ɑfɾˈen̪t̪ɑ#}
-1133   | #ˌɑffrˈɑkt̪um# | #ɑvɾˈet͡ʃo# {GOLD: #ɑfɾˈet͡ʃo#}
-1134   | #ˌɑkiˈɑːrium# | #ɑθˈeɾo# {GOLD: #ɑθˈeɾo#}
-1135   | #ˌɑkkˈen̪t̪um# | #iθjˈen̪t̪o# {GOLD: #ɑθˈen̪t̪o#}
-1136   | #ˌɑkkˌept̪ˈoːre# | #eθet̪ˈoɾ# {GOLD: #ɑθˈoɾ#}
-1137   | #ˌɑkkˌubit̪ˈɑːre# | #ɑkowd̪ˈɑɾ# {GOLD: #ɑkod̪ˈɑɾ#}
-1138   | #ˌɑkkˌɑd̪ˈiskit̪# | #ɑkɑˈeθe# {GOLD: #ɑkɑˈeθe#}
-1139   | #ˌɑkkˌɑpt̪ˈɑːre# | #ɑkɑt̪ˈɑɾ# {GOLD: #ɑkɑt̪ˈɑɾ#}
-1140   | #ˈɑkwilɑm# | #ˈɑxɑ# {GOLD: #ˈɑɡilɑ#}
-1141   | #ˌɑkwˈɑkeɑm# | #ɑɡʷˈɑθɑ# {GOLD: #ɑɡʷˈɑθɑ#}
-1142   | #ˌɑkˈuːkulɑm# | #ɑɡˈuxɑ# {GOLD: #ɑɡˈuxɑ#}
-1143   | #ˌɑkˈuːt̪um# | #ɑɡˈud̪o# {GOLD: #ɑɡˈud̪o#}
-1144   | #ˌɑliˈeːn̪um# | #ɑlˈen̪o# {GOLD: #ɑxˈen̪o#}
-1145   | #ˌɑllˈium# | #ɑjlˈo# {GOLD: #ˈɑxo#}
-1146   | #ˈɑlt̪erum# | #ˈod̪ɾo# {GOLD: #ˈot̪ɾo#}
-1147   | #ˌɑlt̪ˈɑːrium# | #ot̪ˈeɾo# {GOLD: #ot̪ˈeɾo#}
-1148   | #ˌɑlˈekrem# | #ɑlˈeɾ# {GOLD: #ɑlˈeɡɾe#}
-1149   | #ˌɑlɑt̪ˈern̪um# | #ɑlɑd̪jˈeɾn̪o# {GOLD: #ɑlɑd̪jˈeɾn̪o#}
-1150   | #ˌɑmbit̪ˈɑːre# | #ɑmwd̪ˈɑɾ# {GOLD: #ɑn̪d̪ˈɑɾ#}
-1151   | #ˌɑmpˈullɑm# | #ɑmpˈoʝɑ# {GOLD: #ɑmpˈoʝɑ#}
-1152   | #ˌɑmɑrikˈoːsum# | #ɑmɑɾɡˈoso# {GOLD: #ɑmɑɾɡˈoso#}
-1153   | #ˌɑmɑrikˈɑːre# | #ɑmɑɾɡˈɑɾ# {GOLD: #ɑɾmɑɡˈɑɾ#}
-1154   | #ˌɑmɑrˈellum# | #ɑmɑɾˈiʝo# {GOLD: #ɑmɑɾˈiʝo#}
-1155   | #ˌɑmˈiːkum# | #ɑmˈiɡo# {GOLD: #ɑmˈiɡo#}
-1156   | #ˌɑmˈoːrem# | #ɑmˈoɾ# {GOLD: #ɑmˈoɾ#}
-1157   | #ˌɑmˈɑrikum# | #ɑmˈɑɾɡo# {GOLD: #ɑmˈɑɾɡo#}
-1158   | #ˌɑn̪n̪ˈikulum# | #ɑɲˈexo# {GOLD: #ɑɲˈexo#}
-1159   | #ˌɑn̪t̪ˈiːkwɑm# | #ɑn̪t̪ˈiɡʷɑ# {GOLD: #ɑn̪t̪ˈiɡʷɑ#}
-1160   | #ˌɑn̪ɑt̪ˈikulɑm# | #ɑn̪ɑd̪ˈexɑ# {GOLD: #ɑn̪ɑd̪ˈexɑ#}
-1161   | #ˌɑn̪ˈet̪ʰulum# | #ɑn̪jˈeðʰlo# {GOLD: #en̪ˈeld̪o#}
-1162   | #ˌɑperˈiːre# | #ɑbɾˈiɾ# {GOLD: #ɑbɾˈiɾ#}
-1163   | #ˌɑppɑrˈikulum# | #ɑpɑɾˈexo# {GOLD: #ɑpɑɾˈexo#}
-1164   | #ˌɑppˈosit̪um# | #ɑpwˈest̪o# {GOLD: #ɑpwˈest̪o#}
-1165   | #ˌɑppˈɑːrium# | #ɑpˈeɾo# {GOLD: #ɑpˈeɾo#}
-1166   | #ˌɑpriːkˈɑːre# | #ɑbɾɡˈɑɾ# {GOLD: #ɑbɾiɡˈɑɾ#}
-1167   | #ˌɑprˈiːlem# | #ɑbɾˈil# {GOLD: #ɑbɾˈil#}
-1168   | #ˌɑpt̪ˈɑːre# | #ɑt̪ˈɑɾ# {GOLD: #ɑt̪ˈɑɾ#}
-1169   | #ˌɑpˈert̪um# | #ɑbjˈeɾt̪o# {GOLD: #ɑbjˈeɾt̪o#}
-1170   | #ˌɑpˈikulɑm# | #ɑbˈexɑ# {GOLD: #ɑbˈexɑ#}
-1171   | #ˌɑrkˈɑːrium# | #ɑɾkˈeɾo# {GOLD: #ɑɾkˈeɾo#}
-1172   | #ˌɑrmˈɑːrium# | #ɑɾmˈeɾo# {GOLD: #ɑɾmˈeɾo#}
-1173   | #ˌɑrrˈekt̪um# | #ɑrˈet͡ʃo# {GOLD: #ɑrˈet͡ʃo#}
-1174   | #ˌɑrrˈuɡium# | #ɑrwˈio# {GOLD: #ɑrˈojo#}
-1175   | #ˌɑrt̪ˈikulum# | #ɑɾt̪ˈexo# {GOLD: #ɑɾt̪ˈexo#}
-1176   | #ˌɑrɑn̪ˈeolɑm# | #ɑɾɑɲwˈelɑ# {GOLD: #ɑɾɑɲwˈelɑ#}
-1177   | #ˌɑrɡˈillɑm# | #ɑɾʝˈeʝɑ# {GOLD: #ɑɾθˈiʝɑ#}
-1178   | #ˌɑrˈeolɑm# | #iɾwˈelɑ# {GOLD: #iɾwˈelɑ#}
-1179   | #ˌɑrˈeːn̪ɑ# | #ɑɾˈen̪ɑ# {GOLD: #ɑɾˈen̪ɑ#}
-1180   | #ˌɑrˈɑt̪rum# | #ɑɾˈɑd̪ɾo# {GOLD: #ɑɾˈɑd̪o#}
-1181   | #ˌɑrˈɑːn̪eɑ# | #ɑɾˈɑɲɑ# {GOLD: #ɑɾˈɑɲɑ#}
-1182   | #ˌɑsin̪ˈɑːlem# | #ɑsn̪ˈɑl# {GOLD: #ɑsn̪ˈɑl#}
-1183   | #ˌɑsin̪ˈɑːrium# | #ɑsn̪ˈeɾo# {GOLD: #ɑsn̪ˈeɾo#}
-1184   | #ˌɑskiˈɑːt̪ɑ# | #ɑθˈɑd̪ɑ# {GOLD: #ɑθˈɑd̪ɑ#}
-1185   | #ˌɑskˈiolɑm# | #ɑθwˈelɑ# {GOLD: #ɑθwˈelɑ#}
-1186   | #ˌɑssˈuːmpt̪um# | #ɑsˈun̪t̪o# {GOLD: #ɑsˈun̪t̪o#}
-1187   | #ˌɑssˌen̪t̪ˈiːre# | #ɑsen̪t̪ˈiɾ# {GOLD: #ɑsen̪t̪ˈiɾ#}
-1188   | #ˌɑst̪ˈellɑ# | #ɑst̪ˈiʝɑ# {GOLD: #ɑst̪ˈiʝɑ#}
-1189   | #ˌɑst̪ˈurikɑ# | #ɑst̪ˈoɾɡɑ# {GOLD: #ɑst̪ˈoɾɡɑ#}
-1190   | #ˌɑt̪t̪ˌɑliˈɑːre# | #ɑt̪ɑxˈɑɾ# {GOLD: #ɑt̪ɑxˈɑɾ#}
-1191   | #ˌɑwd̪ˈiːt̪um# | #od̪ˈid̪o# {GOLD: #oˈid̪o#}
-1192   | #ˌɑwkt̪orikˈɑːre# | #ot̪oɾɡˈɑɾ# {GOLD: #ot̪oɾɡˈɑɾ#}
-1193   | #ˈɑwkɑ# | #ˈokɑ# {GOLD: #ˈokɑ#}
-1194   | #ˌɑwrˈikulɑ# | #oɾˈexɑ# {GOLD: #oɾˈexɑ#}
-1195   | #ˌɑwskˈult̪ɑt̪# | #oskˈut͡ʃɑ# {GOLD: #eskˈut͡ʃɑ#}
-1196   | #ˌɑwt̪ˈumn̪um# | #ot̪ˈoɲo# {GOLD: #ot̪ˈoɲo#}
-1197   | #ˌɑwɡˈurium# | #ɑɡwˈeɾo# {GOLD: #ɑɡʷˈeɾo#}
-1198   | #ˌɑwɡˈust̪um# | #ɑɡˈost̪o# {GOLD: #ɑɡˈost̪o#}
-1199   | #ˌɑɡn̪ˈiːn̪um# | #ɑɲˈin̪o# {GOLD: #ɑɲˈin̪o#}
-1200   | #ˌɑːbˈɑːkem# | #ɑbˈɑθ# {GOLD: #ɑbˈɑθ#}
-1201   | #ˌɑːn̪ˈellum# | #ɑn̪ˈiʝo# {GOLD: #ɑn̪ˈiʝo#}
-1202   | #t̪ˌeːɡulˈɑːt̪um# | #t̪exˈɑd̪o# {GOLD: #t̪exˈɑd̪o#}
-1203   | #sˌikkˈɑːn̪um# | #sekˈɑn̪o# {GOLD: #sekˈɑn̪o#}
-1204   | #d̪ˌeːkollˈɑːre# | #d̪eɡlˈɑɾ# {GOLD: #d̪eɡoʝˈɑɾ#}
-1205   | #ˌɑkˈeːt̪um# | #ɑθˈed̪o# {GOLD: #ɑθˈed̪o#}
-1206   | #ˌae̯ɡypt̪iˈɑːkum# | #jøθˈɑɡo# {GOLD: #ɑθjˈɑɡo#}
-1207   | #ɡrˈɑd̪um# | #ɡɾˈɑd̪o# {GOLD: #ɡɾˈɑd̪o#}
-1208   | #wˈɑd̪um# | #bˈɑd̪o# {GOLD: #bˈɑd̪o#}
-1209   | #spˈɑrɑɡum# | #espˈɑɾɑɡo# {GOLD: #espˈɑrɑɡo#}
-1210   | #lˈɑwt̪iɑ# | #lˈoθɑ# {GOLD: #lˈoθɑ#}
-1211   | #t̪ˌɑːliˈɑːre# | #t̪ɑxˈɑɾ# {GOLD: #t̪ɑxˈɑɾ#}
-1212   | #wˈoːt̪ɑ# | #bˈod̪ɑ# {GOLD: #bˈod̪ɑ#}
-1213   | #kˌɑrbˈoːn̪em# | #kɑɾbˈon̪# {GOLD: #kɑɾbˈon̪#}
-1214   | #ˈun̪ɡulɑ# | #ˈon̪ɡlɑ# {GOLD: #ˈuɲɑ#}
+etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
+0      | #blˈit̪um# | *#blˈit̪um# | *#bʎˈed̪o# | *#blˈed̪o# | *#blˈed̪o# {GOLD: #blˈed̪o#}
+1      | #blˈɑn̪d̪um# | *#blˈɑn̪d̪um# | *#bʎˈɑn̪d̪o# | *#blˈɑn̪d̪o# | *#blˈɑn̪d̪o# {GOLD: #blˈɑn̪d̪o#}
+2      | #blˌɑn̪d̪ˈit̪iɑ# | *#blˌɑn̪d̪ˈit̪iɑ# | *#bʎˌɑn̪d̪ˈed͡zɑ# | *#blˌɑn̪d̪ˈes̪ɑ# | *#blɑn̪d̪ˈeθɑ# {GOLD: #blɑn̪d̪ˈeθɑ#}
+3      | #brˈɑkkʰium# | *#brˈɑkkium# | *#bɾˈɑt͡st͡so# | *#bɾˈɑs̪o# | *#bɾˈɑθo# {GOLD: #bɾˈɑθo#}
+4      | #brˈɑkɑm# | *#brˈɑkɑm# | *#bɾˈɑɡɑ# | *#bɾˈɑɡɑ# | *#bɾˈɑɡɑ# {GOLD: #bɾˈɑɡɑ#}
+5      | #brˌɑkkʰiˈɑːlem# | *#brˌɑkkiˈɑːlem# | *#bɾˌɑt͡st͡sˈɑle# | *#bɾˌɑs̪ˈɑl# | *#bɾɑθˈɑl# {GOLD: #bɾɑθˈɑl#}
+6      | #brˌɑkkʰˈiolum# | *#brˌɑkkˈiolum# | *#bɾˌɑt͡st͡swˈelo# | *#bɾˌɑs̪wˈelo# | *#bɾɑθwˈelo# {GOLD: #bɾɑθwˈelo#}
+7      | #bˈellum# | *#bˈellum# | *#bjˈello# | *#bˈiʎo# | *#bˈiʝo# {GOLD: #bˈeʝo#}
+8      | #bˈen̪e# | *#bˈen̪e# | *#bjˈen̪e# | *#bjˈen̪# | *#bjˈen̪# {GOLD: #bjˈen̪#}
+9      | #bˈiferɑm# | *#bˈiferɑm# | *#bˈevɾɑ# | *#bˈebɾɑ# | *#bˈebɾɑ# {GOLD: #bɾˈebɑ#}
+10     | #bˈon̪um# | *#bˈon̪um# | *#bwˈen̪o# | *#bwˈen̪o# | *#bwˈen̪o# {GOLD: #bwˈen̪o#}
+11     | #bˈowem# | *#bˈowem# | *#bwˈebe# | *#bwˈebe# | *#bwˈebe# {GOLD: #bwˈej#}
+12     | #bˈukkeum# | *#bˈukkeum# | *#bˈot͡st͡so# | *#bˈos̪o# | *#bˈoθo# {GOLD: #bˈoθo#}
+13     | #bˈukkɑm# | *#bˈukkɑm# | *#bˈokkɑ# | *#bˈokɑ# | *#bˈokɑ# {GOLD: #bˈokɑ#}
+14     | #bˈurrulɑm# | *#bˈurrulɑm# | *#bˈorlɑ# | *#bˈorlɑ# | *#bˈorlɑ# {GOLD: #bˈoɾlɑ#}
+15     | #bˈɑd̪ium# | *#bˈɑd̪ium# | *#bˈɑʝo# | *#bˈɑʝo# | *#bˈɑʝo# {GOLD: #bˈɑʝo#}
+16     | #bˈɑikɑ# | *#bˈɑikɑ# | *#bˈɑjɡɑ# | *#bˈeɡɑ# | *#bˈeɡɑ# {GOLD: #bˈeɡɑ#}
+17     | #bˈɑlbum# | *#bˈɑlbum# | *#bˈɑwbo# | *#bˈobo# | *#bˈobo# {GOLD: #bˈobo#}
+18     | #bˈɑllˈist̪ɑ# | *#bˈɑllˈist̪ɑ# | *#bˈɑllˈes̪t̪ɑ# | *#bˈɑʎˈest̪ɑ# | *#bˈɑʝˈest̪ɑ# {GOLD: #bɑʝˈest̪ɑ#}
+19     | #bˈɑln̪eum# | *#bˈɑl̪n̪eum# | *#bˈɑl̪ɲo# | *#bˈɑl̪ɲo# | *#bˈɑl̪ɲo# {GOLD: #bˈɑɲo#}
+20     | #bˈɑrbɑm# | *#bˈɑrbɑm# | *#bˈɑɾbɑ# | *#bˈɑɾbɑ# | *#bˈɑɾbɑ# {GOLD: #bˈɑɾbɑ#}
+21     | #bˈɑsium# | *#bˈɑsium# | *#bˈɑjzo# | *#bˈeso# | *#bˈeso# {GOLD: #bˈeso#}
+22     | #bˈɑːssum# | *#bˈɑːssum# | *#bˈɑsso# | *#bˈɑso# | *#bˈɑso# {GOLD: #bˈɑxo#}
+23     | #bˈɑt̪t̪uoː# | *#bˈɑt̪t̪uoː# | *#bˈɑt̪t̪o# | *#bˈɑt̪o# | *#bˈɑt̪o# {GOLD: #bˈɑt̪o#}
+24     | #bˌelˈen̪ion̪# | *#bˌelˈen̪ion̪# | *#bˌelˈeɲo# | *#bˌelˈeɲo# | *#belˈeɲo# {GOLD: #belˈeɲo#}
+25     | #bˌon̪it̪ˈɑːt̪em# | *#bˌon̪it̪ˈɑːt̪em# | *#bˌon̪ed̪ˈɑd̪e# | *#bˌon̪d̪ˈɑd̪# | *#bon̪d̪ˈɑd̪# {GOLD: #bon̪d̪ˈɑd̪#}
+26     | #bˌurrˈɑɡin̪em# | *#bˌurrˈɑɡin̪em# | *#bˌorˈɑjn̪e# | *#bˌorˈen̪# | *#borˈen̪# {GOLD: #borˈen̪#}
+27     | #bˌɑrbˈellɑ# | *#bˌɑrbˈellɑ# | *#bˌɑɾbjˈellɑ# | *#bˌɑɾbˈiʎɑ# | *#bɑɾbˈiʝɑ# {GOLD: #bɑɾbˈiʝɑ#}
+28     | #bˌɑrbˈɑkulɑ# | *#bˌɑrbˈɑkulɑ# | *#bˌɑɾbˈɑʎɑ# | *#bˌɑɾbˈɑʃɑ# | *#bɑɾbˈɑxɑ# {GOLD: #bɑɾbˈɑxɑ#}
+29     | #bˌɑːsiˈɑːre# | *#bˌɑːsiˈɑːre# | *#bˌɑjzˈɑɾe# | *#bˌesˈɑɾ# | *#besˈɑɾ# {GOLD: #besˈɑɾ#}
+30     | #bˌɑssiˈɑːre# | *#bˌɑssiˈɑːre# | *#bˌɑssjˈɑɾe# | *#bˌɑʃˈɑɾ# | *#bɑxˈɑɾ# {GOLD: #bɑxˈɑɾ#}
+31     | #bˌɑwkˈɑːlem# | *#bˌɑwkˈɑːlem# | *#bˌɑwkˈɑle# | *#bˌokˈɑl# | *#bokˈɑl# {GOLD: #bokˈɑl#}
+32     | #kˌord̪ˈɑːrium# | *#kˌord̪ˈɑːrium# | *#kˌoɾd̪ˈɑjɾo# | *#kˌoɾd̪ˈeɾo# | *#koɾd̪ˈeɾo# {GOLD: #koɾd̪ˈeɾo#}
+33     | #kˌoɡn̪ˈɑːt̪um# | *#kˌoɡn̪ˈɑːt̪um# | *#kˌuɲˈɑd̪o# | *#kˌuɲˈɑd̪o# | *#kuɲˈɑd̪o# {GOLD: #kuɲˈɑd̪o#}
+34     | #d̪ˈekimum# | *#d̪ˈekimum# | *#d̪jˈed͡zemo# | *#d̪jˈes̪mo# | *#d̪jˈeθmo# {GOLD: #d̪jˈeθmo#}
+35     | #d̪ˈɑmn̪um# | *#d̪ˈɑn̪n̪um# | *#d̪ˈɑn̪n̪o# | *#d̪ˈɑɲo# | *#d̪ˈɑɲo# {GOLD: #d̪ˈɑɲo#}
+36     | #d̪eˈorsum# | *#d̪eˈorsum# | *#ʝwˈesso# | *#ʃwˈeso# | *#xwˈeso# {GOLD: #ʝˈuso#}
+37     | #d̪ˈomit̪um# | *#d̪ˈomit̪um# | *#d̪wˈemed̪o# | *#d̪wˈen̪d̪o# | *#d̪wˈen̪d̪o# {GOLD: #d̪wˈen̪d̪o#}
+38     | #d̪rˌɑkˈoːn̪em# | *#d̪rˌɑkˈoːn̪em# | *#d̪ɾˌɑɡˈon̪e# | *#d̪ɾˌɑɡˈon̪# | *#d̪ɾɑɡˈon̪# {GOLD: #d̪ɾɑɡˈon̪#}
+39     | #d̪uˈod̪ekim# | *#d̪uˈod̪ekim# | *#d̪ˈojd͡ze# | *#d̪wˈes̪# | *#d̪wˈeθ# {GOLD: #d̪ˈoθe#}
+40     | #d̪ˌeˈin̪d̪e# | *#d̪ˌeˈin̪d̪e# | *#d̪ˈen̪d̪e# | *#d̪ˈen̪d̪e# | *#d̪ˈen̪d̪e# {GOLD: #d̪ˈen̪d̪e#}
+41     | #d̪ˌeˈin̪t̪ro# | *#d̪ˌeˈin̪t̪ro# | *#d̪ˈen̪t̪ɾo# | *#d̪ˈen̪t̪ɾo# | *#d̪ˈen̪t̪ɾo# {GOLD: #d̪ˈen̪t̪ɾo#}
+42     | #d̪ˈekem# | *#d̪ˈekem# | *#d̪jˈed͡ze# | *#d̪jˈes̪# | *#d̪jˈeθ# {GOLD: #d̪jˈeθ#}
+43     | #d̪ˌekˈembrem# | *#d̪ˌekˈembrem# | *#d̪ˌed͡zjˈembɾe# | *#d̪ˌis̪jˈembɾe# | *#d̪iθjˈembɾe# {GOLD: #d̪iθjˈembɾe#}
+44     | #d̪ˈekst̪rum# | *#d̪ˈekst̪rum# | *#d̪jˈes̪t̪ɾo# | *#d̪jˈest̪ɾo# | *#d̪jˈest̪ɾo# {GOLD: #d̪jˈest̪ɾo#}
+45     | #d̪ˈekst̪rɑm# | *#d̪ˈekst̪rɑm# | *#d̪jˈes̪t̪ɾɑ# | *#d̪jˈest̪ɾɑ# | *#d̪jˈest̪ɾɑ# {GOLD: #d̪jˈest̪ɾɑ#}
+46     | #d̪ˈen̪t̪em# | *#d̪ˈen̪t̪em# | *#d̪jˈen̪t̪e# | *#d̪jˈen̪t̪e# | *#d̪jˈen̪t̪e# {GOLD: #d̪jˈen̪t̪e#}
+47     | #d̪ˈeus# | *#d̪ˈeus# | *#ʝˈos# | *#ʃˈos# | *#xˈos# {GOLD: #d̪jˈos#}
+48     | #d̪ˈeːbit̪ɑ# | *#d̪ˈeːbit̪ɑ# | *#d̪ˈebed̪ɑ# | *#d̪ˈewd̪ɑ# | *#d̪ˈewd̪ɑ# {GOLD: #d̪ˈewd̪ɑ#}
+49     | #d̪ˈiːk# | *#d̪ˈiːk# | *#d̪ˈi# | *#d̪ˈi# | *#d̪ˈi# {GOLD: #d̪ˈi#}
+50     | #d̪ˈiːkit̪# | *#d̪ˈiːkit̪# | *#d̪ˈid͡ze# | *#d̪ˈis̪# | *#d̪ˈiθ# {GOLD: #d̪ˈiθe#}
+51     | #d̪ˈikt̪um# | *#d̪ˈikt̪um# | *#d̪ˈejt̪o# | *#d̪ˈet͡ʃo# | *#d̪ˈet͡ʃo# {GOLD: #d̪ˈit͡ʃo#}
+52     | #d̪ˈiɡit̪um# | *#d̪ˈiɡit̪um# | *#d̪ˈeed̪o# | *#d̪ˈed̪o# | *#d̪ˈed̪o# {GOLD: #d̪ˈed̪o#}
+53     | #d̪ˈokt̪um# | *#d̪ˈokt̪um# | *#d̪ˈojt̪o# | *#d̪ˈot͡ʃo# | *#d̪ˈot͡ʃo# {GOLD: #d̪ˈut͡ʃo#}
+54     | #d̪ˈolum# | *#d̪ˈolum# | *#d̪wˈelo# | *#d̪wˈelo# | *#d̪wˈelo# {GOLD: #d̪wˈelo#}
+55     | #d̪ˈomin̪um# | *#d̪ˈomin̪um# | *#d̪wˈemen̪o# | *#d̪wˈembɾo# | *#d̪wˈembɾo# {GOLD: #d̪wˈeɲo#}
+56     | #d̪ˈomin̪ɑm# | *#d̪ˈomin̪ɑm# | *#d̪wˈemen̪ɑ# | *#d̪wˈembɾɑ# | *#d̪wˈembɾɑ# {GOLD: #d̪ˈoɲɑ#}
+57     | #d̪ˈomin̪ɑm# | *#d̪ˈomin̪ɑm# | *#d̪wˈemen̪ɑ# | *#d̪wˈembɾɑ# | *#d̪wˈembɾɑ# {GOLD: #d̪wˈeɲɑ#}
+58     | #d̪ˈoːrium# | *#d̪ˈoːrium# | *#d̪ˈojɾo# | *#d̪wˈeɾo# | *#d̪wˈeɾo# {GOLD: #d̪wˈeɾo#}
+59     | #d̪ˈulkem# | *#d̪ˈulkem# | *#d̪ˈolt͡se# | *#d̪ˈols̪e# | *#d̪ˈolθe# {GOLD: #d̪ˈulθe#}
+60     | #d̪ˈuoːs# | *#d̪ˈuoːs# | *#d̪ˈos# | *#d̪ˈos# | *#d̪ˈos# {GOLD: #d̪ˈos#}
+61     | #d̪ˈuplem# | *#d̪ˈuplem# | *#d̪ˈobʎe# | *#d̪ˈoble# | *#d̪ˈoble# {GOLD: #d̪ˈoble#}
+62     | #d̪ˈuːbit̪ɑ# | *#d̪ˈuːbit̪ɑ# | *#d̪ˈubed̪ɑ# | *#d̪ˈud̪ɑ# | *#d̪ˈud̪ɑ# {GOLD: #d̪ˈud̪ɑ#}
+63     | #d̪ˈuːrum# | *#d̪ˈuːrum# | *#d̪ˈuɾo# | *#d̪ˈuɾo# | *#d̪ˈuɾo# {GOLD: #d̪ˈuɾo#}
+64     | #d̪ˌefˈeːn̪sɑ# | *#d̪ˌefˈeːnsɑ# | *#d̪ˌevˈezɑ# | *#d̪ˌebˈesɑ# | *#d̪ebˈesɑ# {GOLD: #d̪eˈesɑ#}
+65     | #d̪ˌekimˈɑːre# | *#d̪ˌekimˈɑːre# | *#d̪ˌed͡zemˈɑɾe# | *#d̪ˌes̪mˈɑɾ# | *#d̪eθmˈɑɾ# {GOLD: #d̪eθmˈɑɾ#}
+66     | #d̪ˌelikˈɑːt̪um# | *#d̪ˌelikˈɑːt̪um# | *#d̪ˌeleɡˈɑd̪o# | *#d̪ˌelɡˈɑd̪o# | *#d̪elɡˈɑd̪o# {GOLD: #d̪elɡˈɑd̪o#}
+67     | #d̪ˌelˈikt̪um# | *#d̪ˌelˈikt̪um# | *#d̪ˌelˈejt̪o# | *#d̪ˌelˈet͡ʃo# | *#d̪elˈet͡ʃo# {GOLD: #d̪elˈit̪o#}
+68     | #d̪ˌeːbit̪ˈoːre# | *#d̪ˌeːbit̪ˈoːre# | *#d̪ˌebed̪ˈoɾe# | *#d̪ˌewd̪ˈoɾ# | *#d̪ewd̪ˈoɾ# {GOLD: #d̪eud̪ˈoɾ#}
+69     | #d̪ˌeːlikˈɑːt̪um# | *#d̪ˌeːlikˈɑːt̪um# | *#d̪ˌeleɡˈɑd̪o# | *#d̪ˌelɡˈɑd̪o# | *#d̪elɡˈɑd̪o# {GOLD: #d̪elɡˈɑd̪o#}
+70     | #d̪ˌeːn̪ˈɑːrium# | *#d̪ˌeːn̪ˈɑːrium# | *#d̪ˌen̪ˈɑjɾo# | *#d̪ˌen̪ˈeɾo# | *#d̪en̪ˈeɾo# {GOLD: #d̪in̪ˈeɾo#}
+71     | #d̪ˌeːsid̪erˈɑːre# | *#d̪ˌeːsid̪erˈɑːre# | *#d̪ˌezed̪ɾˈɑɾe# | *#d̪ˌesd̪ɾˈɑɾ# | *#d̪esd̪ɾˈɑɾ# {GOLD: #d̪eseˈɑɾ#}
+72     | #d̪ˌeːspˈekt̪um# | *#d̪ˌeːspˈekt̪um# | *#d̪ˌespˈejt̪o# | *#d̪ˌespˈet͡ʃo# | *#d̪espˈet͡ʃo# {GOLD: #d̪espˈet͡ʃo#}
+73     | #d̪ˌeːspˌoliˈɑːre# | *#d̪ˌeːspˌoliˈɑːre# | *#d̪ˌespˌuʎˈɑɾe# | *#d̪ˌespˌuʃˈɑɾ# | *#d̪espuxˈɑɾ# {GOLD: #d̪espoxˈɑɾ#}
+74     | #d̪ˌeːsˌɑn̪ɡin̪ˈɑːre# | *#d̪ˌeːsˌɑŋɡin̪ˈɑːre# | *#d̪ˌezˌɑŋʝen̪ˈɑɾe# | *#d̪ˌesˌɑŋʃn̪ˈɑɾ# | *#d̪esɑn̪xn̪ˈɑɾ# {GOLD: #d̪esɑn̪ɡɾˈɑɾ#}
+75     | #d̪ˌeːsˈed̪ium# | *#d̪ˌeːsˈed̪ium# | *#d̪ˌizˈeo# | *#d̪ˌisˈeo# | *#d̪isˈeo# {GOLD: #d̪esˈeo#}
+76     | #d̪ˌeːsˈert̪um# | *#d̪ˌeːsˈert̪um# | *#d̪ˌezjˈeɾt̪o# | *#d̪ˌisjˈeɾt̪o# | *#d̪isjˈeɾt̪o# {GOLD: #d̪esjˈeɾt̪o#}
+77     | #d̪ˌeːsˈiɡn̪um# | *#d̪ˌeːsˈiɡn̪um# | *#d̪ˌezˈeɲo# | *#d̪ˌesˈeɲo# | *#d̪esˈeɲo# {GOLD: #d̪isˈeɲo#}
+78     | #d̪ˌikt̪ˈɑːt̪um# | *#d̪ˌikt̪ˈɑːt̪um# | *#d̪ˌejt̪ˈɑd̪o# | *#d̪ˌet͡ʃˈɑd̪o# | *#d̪et͡ʃˈɑd̪o# {GOLD: #d̪et͡ʃˈɑd̪o#}
+79     | #d̪ˌist̪ɑliˈɑːre# | *#d̪ˌist̪ɑliˈɑːre# | *#d̪ˌes̪t̪ɑʎˈɑɾe# | *#d̪ˌest̪ɑʃˈɑɾ# | *#d̪est̪ɑxˈɑɾ# {GOLD: #d̪est̪ɑxˈɑɾ#}
+80     | #d̪ˌiurn̪ˈɑːlem# | *#d̪ˌiurn̪ˈɑːlem# | *#ʝˈoɾn̪ˈɑle# | *#ʃˈoɾn̪ˈɑl# | *#xˈoɾn̪ˈɑl# {GOLD: #xoɾn̪ˈɑl#}
+81     | #d̪ˌiurn̪ˈɑːt̪ɑ# | *#d̪ˌiurn̪ˈɑːt̪ɑ# | *#ʝˈoɾn̪ˈɑd̪ɑ# | *#ʃˈoɾn̪ˈɑd̪ɑ# | *#xˈoɾn̪ˈɑd̪ɑ# {GOLD: #xoɾn̪ˈɑd̪ɑ#}
+82     | #d̪ˌiɡit̪ˈɑːle# | *#d̪ˌiɡit̪ˈɑːle# | *#d̪ed̪ˈɑle# | *#d̪ed̪ˈɑl# | *#d̪ed̪ˈɑl# {GOLD: #d̪ed̪ˈɑl#}
+83     | #d̪ˌiːkˈiːre# | *#d̪ˌiːkˈiːre# | *#d̪ˌid͡zˈiɾe# | *#d̪ˌes̪ˈiɾ# | *#d̪eθˈiɾ# {GOLD: #d̪eθˈiɾ#}
+84     | #d̪ˌiːrˈekt̪um# | *#d̪ˌiːrˈekt̪um# | *#d̪ˌiɾˈejt̪o# | *#d̪ˌiɾˈet͡ʃo# | *#d̪iɾˈet͡ʃo# {GOLD: #d̪eɾˈet͡ʃo#}
+85     | #d̪ˌiːwˈiːn̪um# | *#d̪ˌiːwˈiːn̪um# | *#d̪ˌibˈin̪o# | *#d̪ˌebˈin̪o# | *#d̪ebˈin̪o# {GOLD: #d̪ibˈin̪o#}
+86     | #d̪ˌolˈoːrem# | *#d̪ˌolˈoːrem# | *#d̪ˌolˈoɾe# | *#d̪ˌolˈoɾ# | *#d̪olˈoɾ# {GOLD: #d̪olˈoɾ#}
+87     | #d̪ˌomˈiːn̪ikum# | *#d̪ˌomˈiːn̪ikum# | *#d̪ˌomˈin̪eɡo# | *#d̪ˌomˈin̪ɡo# | *#d̪omˈin̪ɡo# {GOLD: #d̪omˈin̪ɡo#}
+88     | #d̪ˌubit̪ˈɑːre# | *#d̪ˌubit̪ˈɑːre# | *#d̪ˌobed̪ˈɑɾe# | *#d̪ˌod̪ˈɑɾ# | *#d̪od̪ˈɑɾ# {GOLD: #d̪ud̪ˈɑɾ#}
+89     | #d̪ˌuːrˈit̪iɑm# | *#d̪ˌuːrˈit̪iɑm# | *#d̪ˌuɾˈed͡zɑ# | *#d̪ˌuɾˈes̪ɑ# | *#d̪uɾˈeθɑ# {GOLD: #d̪uɾˈeθɑ#}
+90     | #d̪ˌuːrˈɑkin̪um# | *#d̪ˌuːrˈɑkin̪um# | *#d̪ˌuɾˈɑd͡zen̪o# | *#d̪ˌuɾˈɑs̪n̪o# | *#d̪uɾˈɑθn̪o# {GOLD: #d̪uɾˈɑθn̪o#}
+91     | #flˈokkum# | *#flˈokkum# | *#flwˈekko# | *#flˈeko# | *#flˈeko# {GOLD: #flˈeko#}
+92     | #flˈoːrem# | *#flˈoːrem# | *#flˈoɾe# | *#flˈoɾ# | *#flˈoɾ# {GOLD: #flˈoɾ#}
+93     | #flˈuksum# | *#flˈuksum# | *#flˈujso# | *#flˈuʃo# | *#flˈuxo# {GOLD: #flˈoxo#}
+94     | #flˈɑkkid̪um# | *#flˈɑkkid̪um# | *#fʎˈɑt͡st͡sjo# | *#ʎˈɑjs̪o# | *#ʝˈɑjθo# {GOLD: #lˈɑθjo#}
+95     | #flˈɑmmɑm# | *#flˈɑmmɑm# | *#fʎˈɑmmɑ# | *#ʎˈɑmɑ# | *#ʝˈɑmɑ# {GOLD: #ʝˈɑmɑ#}
+96     | #frˈiːkt̪um# | *#frˈiːkt̪um# | *#fɾˈijt̪o# | *#fɾˈit͡ʃo# | *#fɾˈit͡ʃo# {GOLD: #fɾˈit̪o#}
+97     | #frˈiːɡid̪um# | *#frˈiːɡid̪um# | *#fɾˈiʝjo# | *#fɾˈiʝo# | *#fɾˈiʝo# {GOLD: #fɾˈio#}
+98     | #frˈiːɡum# | *#frˈiːɡum# | *#fɾˈio# | *#fɾˈio# | *#fɾˈio# {GOLD: #fɾˈio#}
+99     | #frˈon̪t̪e# | *#frˈon̪t̪e# | *#fɾwˈen̪t̪e# | *#fɾˈen̪t̪e# | *#fɾˈen̪t̪e# {GOLD: #fɾˈen̪t̪e#}
+100    | #frˈuːkt̪um# | *#frˈuːkt̪um# | *#fɾˈujt̪o# | *#fɾˈut͡ʃo# | *#fɾˈut͡ʃo# {GOLD: #fɾˈut͡ʃo#}
+101    | #frˈɑbikɑ# | *#frˈɑbikɑ# | *#fɾˈɑbeɡɑ# | *#fɾˈɑɡʷɑ# | *#fɾˈɑɡʷɑ# {GOLD: #fɾˈɑɡʷɑ#}
+102    | #frˈɑksin̪um# | *#frˈɑksin̪um# | *#fɾˈɑzn̪o# | *#fɾˈɑsn̪o# | *#fɾˈɑsn̪o# {GOLD: #fɾˈesn̪o#}
+103    | #frˌikˈɑːre# | *#frˌikˈɑːre# | *#fɾˌeɡˈɑɾe# | *#fɾˌeɡˈɑɾ# | *#fɾeɡˈɑɾ# {GOLD: #fɾeɡˈɑɾ#}
+104    | #frˌiːksˈeolum# | *#frˌiːksˈeolum# | *#fɾˌijsjwˈelo# | *#fɾˌiʃwˈelo# | *#fɾixwˈelo# {GOLD: #fɾiswˈelo#}
+105    | #frˌiːkt̪iˈɑːre# | *#frˌiːkt̪iˈɑːre# | *#fɾˌijt͡sˈɑɾe# | *#fɾˌis̪ˈɑɾ# | *#fɾiθˈɑɾ# {GOLD: #fɾiθˈɑɾ#}
+106    | #fˈebrem# | *#fˈebrem# | *#fjˈebɾe# | *#ʝˈebɾe# | *#ʝˈebɾe# {GOLD: #ʝˈebɾe#}
+107    | #fˈeːkiː# | *#fˈeːkiː# | *#fˈed͡zi# | *#ˈes̪# | *#ˈeθ# {GOLD: #ˈiθe#}
+108    | #fˈelem# | *#fˈelem# | *#fjˈele# | *#ʝˈel# | *#ʝˈel# {GOLD: #ʝˈel#}
+109    | #fˈerrum# | *#fˈerrum# | *#fjˈero# | *#ʝˈero# | *#ʝˈero# {GOLD: #ʝˈero#}
+110    | #fˈerɑm# | *#fˈerɑm# | *#fjˈeɾɑ# | *#ʝˈeɾɑ# | *#ʝˈeɾɑ# {GOLD: #fjˈeɾɑ#}
+111    | #fˈeːmin̪ɑ# | *#fˈeːmin̪ɑ# | *#fˈemen̪ɑ# | *#ˈembɾɑ# | *#ˈembɾɑ# {GOLD: #ˈembɾɑ#}
+112    | #fˈeːn̪um# | *#fˈeːn̪um# | *#fˈen̪o# | *#ˈen̪o# | *#ˈen̪o# {GOLD: #ˈen̪o#}
+113    | #fˈibrɑ# | *#fˈibrɑ# | *#fˈebɾɑ# | *#ˈebɾɑ# | *#ˈebɾɑ# {GOLD: #ˈebɾɑ#}
+114    | #fˈid̪em# | *#fˈid̪em# | *#fˈee# | *#ˈe# | *#ˈe# {GOLD: #fˈe#}
+115    | #fˈiːkum# | *#fˈiːkum# | *#fˈiɡo# | *#ˈiɡo# | *#ˈiɡo# {GOLD: #ˈiɡo#}
+116    | #fˈiːlum# | *#fˈiːlum# | *#fˈilo# | *#ˈilo# | *#ˈilo# {GOLD: #ˈilo#}
+117    | #fˈiːkt̪um# | *#fˈiːkt̪um# | *#fˈijt̪o# | *#ˈit͡ʃo# | *#ˈit͡ʃo# {GOLD: #ˈit̪o#}
+118    | #fˈiːlium# | *#fˈiːlium# | *#fˈiʎo# | *#ˈiʃo# | *#ˈixo# {GOLD: #ˈixo#}
+119    | #fˈiːliɑm# | *#fˈiːliɑm# | *#fˈiʎɑ# | *#ˈiʃɑ# | *#ˈixɑ# {GOLD: #ˈixɑ#}
+120    | #fˈiːn̪em# | *#fˈiːn̪em# | *#fˈin̪e# | *#ˈin̪# | *#ˈin̪# {GOLD: #fˈin̪#}
+121    | #fˈoe̯d̪um# | *#fˈoe̯d̪um# | *#fˈeo# | *#ˈeo# | *#ˈeo# {GOLD: #fˈeo#}
+122    | #fˈokum# | *#fˈokum# | *#fwˈeɡo# | *#wˈeɡo# | *#wˈeɡo# {GOLD: #fwˈeɡo#}
+123    | #fˈoliɑ# | *#fˈoliɑ# | *#fˈoʎɑ# | *#ˈoʃɑ# | *#ˈoxɑ# {GOLD: #ˈoxɑ#}
+124    | #fˈollem# | *#fˈollem# | *#fwˈelle# | *#wˈeʎe# | *#wˈeʝe# {GOLD: #fwˈeʝe#}
+125    | #fˈon̪t̪em# | *#fˈon̪t̪em# | *#fwˈen̪t̪e# | *#wˈen̪t̪e# | *#wˈen̪t̪e# {GOLD: #fwˈen̪t̪e#}
+126    | #fˈort̪em# | *#fˈort̪em# | *#fwˈeɾt̪e# | *#wˈeɾt̪e# | *#wˈeɾt̪e# {GOLD: #fwˈeɾt̪e#}
+127    | #fˈort̪iɑ# | *#fˈort̪iɑ# | *#fwˈeɾt͡sɑ# | *#wˈeɾs̪ɑ# | *#wˈeɾθɑ# {GOLD: #fwˈeɾθɑ#}
+128    | #fˈoːweɑ# | *#fˈoːweɑ# | *#fˈubjɑ# | *#ˈubjɑ# | *#ˈubjɑ# {GOLD: #oʝɑ#}
+129    | #fˈoːrmɑ# | *#fˈoːrmɑ# | *#fˈoɾmɑ# | *#ˈoɾmɑ# | *#ˈoɾmɑ# {GOLD: #ˈoɾmɑ#}
+130    | #fˈun̪d̪um# | *#fˈun̪d̪um# | *#fˈon̪d̪o# | *#ˈon̪d̪o# | *#ˈon̪d̪o# {GOLD: #fˈon̪d̪o#}
+131    | #fˈun̪d̪ɑm# | *#fˈun̪d̪ɑm# | *#fˈon̪d̪ɑ# | *#ˈon̪d̪ɑ# | *#ˈon̪d̪ɑ# {GOLD: #ˈon̪d̪ɑ#}
+132    | #fˈun̪ɡum# | *#fˈuŋɡum# | *#fˈoŋɡo# | *#ˈoŋɡo# | *#ˈon̪ɡo# {GOLD: #ˈon̪ɡo#}
+133    | #fˈurkɑm# | *#fˈurkɑm# | *#fˈoɾkɑ# | *#ˈoɾkɑ# | *#ˈoɾkɑ# {GOLD: #ˈoɾkɑ#}
+134    | #fˈurn̪um# | *#fˈurn̪um# | *#fˈoɾn̪o# | *#ˈoɾn̪o# | *#ˈoɾn̪o# {GOLD: #ˈoɾn̪o#}
+135    | #fˈurn̪ɑkeum# | *#fˈurn̪ɑkeum# | *#fˈoɾn̪ɑd͡zo# | *#ˈoɾn̪ɑs̪o# | *#ˈoɾn̪ɑθo# {GOLD: #oɾn̪ˈɑθo#}
+136    | #fˈuːmum# | *#fˈuːmum# | *#fˈumo# | *#ˈumo# | *#ˈumo# {GOLD: #ˈumo#}
+137    | #fˈuːrt̪um# | *#fˈuːrt̪um# | *#fˈuɾt̪o# | *#ˈuɾt̪o# | *#ˈuɾt̪o# {GOLD: #ˈuɾt̪o#}
+138    | #fˈɑːbulɑm# | *#fˈɑːbulɑm# | *#fˈɑbʎɑ# | *#ˈɑblɑ# | *#ˈɑblɑ# {GOLD: #ˈɑblɑ#}
+139    | #fˈɑːt̪ɑm# | *#fˈɑːt̪ɑm# | *#fˈɑd̪ɑ# | *#ˈɑd̪ɑ# | *#ˈɑd̪ɑ# {GOLD: #ˈad̪a#}
+140    | #fˈɑːt̪um# | *#fˈɑːt̪um# | *#fˈɑd̪o# | *#ˈɑd̪o# | *#ˈɑd̪o# {GOLD: #ˈad̪o#}
+141    | #fˈɑbɑm# | *#fˈɑbɑm# | *#fˈɑbɑ# | *#ˈɑbɑ# | *#ˈɑbɑ# {GOLD: #ˈɑbɑ#}
+142    | #fˈae̯kem# | *#fˈae̯kem# | *#fjˈed͡ze# | *#ʝˈes̪# | *#ʝˈeθ# {GOLD: #ˈeθ#}
+143    | #fˌɑkˈen̪d̪ɑ# | *#fˌɑkˈen̪d̪ɑ# | *#fˌɑd͡zjˈen̪d̪ɑ# | *#ˌɑs̪jˈen̪d̪ɑ# | *#ɑθjˈen̪d̪ɑ# {GOLD: #ɑθjˈen̪d̪ɑ#}
+144    | #fˈɑkiem# | *#fˈɑkiem# | *#fˈɑd͡ze# | *#ˈɑs̪# | *#ˈɑθ# {GOLD: #ˈɑθ#}
+145    | #fˈɑkit̪# | *#fˈɑkit̪# | *#fˈɑd͡ze# | *#ˈɑs̪# | *#ˈɑθ# {GOLD: #ˈɑθe#}
+146    | #fˈɑkt̪um# | *#fˈɑkt̪um# | *#fˈɑjt̪o# | *#ˈet͡ʃo# | *#ˈet͡ʃo# {GOLD: #ˈet͡ʃo#}
+147    | #fˈɑkt̪ɑm# | *#fˈɑkt̪ɑm# | *#fˈɑjt̪ɑ# | *#ˈet͡ʃɑ# | *#ˈet͡ʃɑ# {GOLD: #fˈet͡ʃɑ#}
+148    | #fˈɑkulɑm# | *#fˈɑkulɑm# | *#fˈɑʎɑ# | *#ˈɑʃɑ# | *#ˈɑxɑ# {GOLD: #ˈɑt͡ʃɑ#}
+149    | #fˈɑɡeɑ# | *#fˈɑɡeɑ# | *#fˈɑjɑ# | *#ˈɑʝɑ# | *#ˈɑʝɑ# {GOLD: #ˈɑʝɑ#}
+150    | #fˈɑlkem# | *#fˈɑlkem# | *#fˈɑwt͡se# | *#ˈos̪# | *#ˈoθ# {GOLD: #ˈoθ#}
+151    | #fˈɑwkem# | *#fˈɑwkem# | *#fˈɑwt͡se# | *#ˈos̪# | *#ˈoθ# {GOLD: #ˈoθ#}
+152    | #fˌɑlkˈoːn̪em# | *#fˌɑlkˈoːn̪em# | *#fˌɑwkˈon̪e# | *#ˌokˈon̪# | *#okˈon̪# {GOLD: #ɑlkˈon̪#}
+153    | #fˈɑld̪ɑm# | *#fˈɑl̪d̪ɑm# | *#fˈɑwd̪ɑ# | *#ˈod̪ɑ# | *#ˈod̪ɑ# {GOLD: #ˈald̪a#}
+154    | #fˈɑmin̪em# | *#fˈɑmin̪em# | *#fˈɑmen̪e# | *#ˈɑmbɾe# | *#ˈɑmbɾe# {GOLD: #ˈɑmbɾe#}
+155    | #fˈɑskem# | *#fˈɑskem# | *#fˈɑst͡se# | *#ˈɑs̪e# | *#ˈɑθe# {GOLD: #ˈɑθ#}
+156    | #fˈɑskeːs# | *#fˈɑskeːs# | *#fˈɑst͡ses# | *#ˈɑs̪es# | *#ˈɑθes# {GOLD: #ˈɑθes#}
+157    | #fˈɑskiɑm# | *#fˈɑskiɑm# | *#fˈɑst͡sɑ# | *#ˈɑs̪ɑ# | *#ˈɑθɑ# {GOLD: #ˈɑθɑ#}
+158    | #fˈɑːɡeɑm# | *#fˈɑːɡeɑm# | *#fˈɑʝɑ# | *#ˈɑʝɑ# | *#ˈɑʝɑ# {GOLD: #ˈɑʝɑ#}
+159    | #fˌen̪ˈiːlem# | *#fˌen̪ˈiːlem# | *#fˌen̪ˈile# | *#ˌen̪ˈil# | *#en̪ˈil# {GOLD: #en̪ˈil#}
+160    | #fˌerrˈɑːrium# | *#fˌerrˈɑːrium# | *#fˌerˈɑjɾo# | *#ˌerˈeɾo# | *#erˈeɾo# {GOLD: #erˈeɾo#}
+161    | #fˌerwˈen̪t̪em# | *#fˌerwˈen̪t̪em# | *#fˌeɾbjˈen̪t̪e# | *#ˌeɾbjˈen̪t̪e# | *#eɾbjˈen̪t̪e# {GOLD: #iɾbjˈen̪t̪e#}
+162    | #fˌeːn̪ˈukulum# | *#fˌeːn̪ˈukulum# | *#fˌen̪ˈuʎo# | *#ˌen̪ˈuʃo# | *#en̪ˈuxo# {GOLD: #in̪ˈoxo#}
+163    | #fˌeːt̪ˈeːre# | *#fˌeːt̪ˈeːre# | *#fˌed̪ˈeɾe# | *#ˌed̪ˈeɾ# | *#ed̪ˈeɾ# {GOLD: #ed̪ˈeɾ#}
+164    | #fˌid̪ˈeːlem# | *#fˌid̪ˈeːlem# | *#fˌeˈele# | *#ˌeˈel# | *#eˈel# {GOLD: #fjˈel#}
+165    | #fˌikˈɑːt̪um# | *#fˌikˈɑːt̪um# | *#fˌeɡˈɑd̪o# | *#ˌeɡˈɑd̪o# | *#eɡˈɑd̪o# {GOLD: #iɡˈɑd̪o#}
+166    | #fˌilˈikt̪um# | *#fˌilˈikt̪um# | *#fˌelˈejt̪o# | *#ˌelˈet͡ʃo# | *#elˈet͡ʃo# {GOLD: #elˈet͡ʃo#}
+167    | #fˌiːkˈɑːriɑ# | *#fˌiːkˈɑːriɑ# | *#fˌiɡˈɑjɾɑ# | *#ˌiɡˈeɾɑ# | *#iɡˈeɾɑ# {GOLD: #iɡˈeɾɑ#}
+168    | #fˌiːlˈiolum# | *#fˌiːlˈiolum# | *#fˌiʎwˈelo# | *#ˌiʃwˈelo# | *#ixwˈelo# {GOLD: #ixwˈelo#}
+169    | #fˌokˈɑːrem# | *#fˌokˈɑːrem# | *#fˌoɡˈɑɾe# | *#ˌoɡˈɑɾ# | *#oɡˈɑɾ# {GOLD: #oɡˈɑɾ#}
+170    | #fˌokˈɑːriɑ# | *#fˌokˈɑːriɑ# | *#fˌoɡˈɑjɾɑ# | *#ˌoɡˈeɾɑ# | *#oɡˈeɾɑ# {GOLD: #oɡˈeɾɑ#}
+171    | #fˌoːrmˈaːkeus# | *#fˌoːrmˈaːkeus# | *#fˌoɾmˈad͡zos# | *#ˌoɾmˈas̪os# | *#oɾmˈaθos# {GOLD: #ormˈaθo#}
+172    | #fˈoːrma# | *#fˈoːrma# | *#fˈoɾma# | *#ˈoɾma# | *#ˈoɾma# {GOLD: #ˈoɾma#}
+173    | #fˌorˈaːt̪um# | *#fˌorˈaːt̪um# | *#fˌoɾˈad̪o# | *#ˌoɾˈad̪o# | *#oɾˈad̪o# {GOLD: #oɾˈad̪o#}
+174    | #fˌormˈiːkɑm# | *#fˌormˈiːkɑm# | *#fˌoɾmˈiɡɑ# | *#ˌoɾmˈiɡɑ# | *#oɾmˈiɡɑ# {GOLD: #oɾmˈiɡɑ#}
+175    | #fˌorˈɑn̪eum# | *#fˌorˈɑn̪eum# | *#fˌoɾˈɑɲo# | *#ˌoɾˈɑɲo# | *#oɾˈɑɲo# {GOLD: #uɾˈɑɲo#}
+176    | #fˌoːrmˈoːsum# | *#fˌoːrmˈoːsum# | *#fˌoɾmˈozo# | *#ˌoɾmˈoso# | *#oɾmˈoso# {GOLD: #eɾmˈoso#}
+177    | #fˌollikˈɑːre# | *#fˌollikˈɑːre# | *#fˌolleɡˈɑɾe# | *#ˌoʎɡˈɑɾ# | *#oʝɡˈɑɾ# {GOLD: #olɡˈɑɾ#}
+178    | #fˌuːlˈiːɡin̪em# | *#fˌuːlˈiːɡin̪em# | *#fˌulˈijn̪e# | *#ˌolˈin̪# | *#olˈin̪# {GOLD: #oʝˈin̪#}
+179    | #fˌuːmiɡˈɑːre# | *#fˌuːmiɡˈɑːre# | *#fˌumjˈɑɾe# | *#ˌumjˈɑɾ# | *#umjˈɑɾ# {GOLD: #umeˈɑɾ#}
+180    | #fˌɑbulˈɑːre# | *#fˌɑbulˈɑːre# | *#fˌɑbʎˈɑɾe# | *#ˌɑblˈɑɾ# | *#ɑblˈɑɾ# {GOLD: #ɑblˈɑɾ#}
+181    | #fˌɑkt̪ˈiːkium# | *#fˌɑkt̪ˈiːkium# | *#fˌɑjt̪ˈid͡zo# | *#ˌet͡ʃˈis̪o# | *#et͡ʃˈiθo# {GOLD: #et͡ʃˈiθo#}
+182    | #fˌɑkt̪ˈuːrɑ# | *#fˌɑkt̪ˈuːrɑ# | *#fˌɑjt̪ˈuɾɑ# | *#ˌet͡ʃˈuɾɑ# | *#et͡ʃˈuɾɑ# {GOLD: #et͡ʃˈuɾɑ#}
+183    | #fˌɑlkˈiːn̪um# | *#fˌɑlkˈiːn̪um# | *#fˌɑwt͡sˈin̪o# | *#ˌos̪ˈin̪o# | *#oθˈin̪o# {GOLD: #oθˈin̪o#}
+184    | #fˌɑmˈeːlikum# | *#fˌɑmˈeːlikum# | *#fˌɑmˈeleɡo# | *#ˌɑmˈelɡo# | *#ɑmˈelɡo# {GOLD: #xɑmˈelɡo#}
+185    | #fˌɑriːn̪ˈɑːrium# | *#fˌɑriːn̪ˈɑːrium# | *#fˌɑɾn̪ˈɑjɾo# | *#ˌɑɾn̪ˈeɾo# | *#ɑɾn̪ˈeɾo# {GOLD: #ɑɾn̪ˈeɾo#}
+186    | #fˌɑrˈiːn̪ɑ# | *#fˌɑrˈiːn̪ɑ# | *#fˌɑɾˈin̪ɑ# | *#ˌɑɾˈin̪ɑ# | *#ɑɾˈin̪ɑ# {GOLD: #ɑɾˈin̪ɑ#}
+187    | #fˌɑrrˈɑːɡin̪em# | *#fˌɑrrˈɑːɡin̪em# | *#fˌɑrˈɑʝin̪e# | *#ˌɑrˈɑʝn̪e# | *#ɑrˈɑʝn̪e# {GOLD: #erˈen̪#}
+188    | #fˌɑst̪iːd̪ioːsum# | *#fˌɑst̪iːd̪ioːsum# | *#fˌɑs̪t̪jozo# | *#ˌɑst̪joso# | *#ɑst̪joso# {GOLD: #ɑst̪jˈoso#}
+189    | #fˌɑst̪ˈiːd̪ium# | *#fˌɑst̪ˈiːd̪ium# | *#fˌɑs̪t̪ˈio# | *#ˌɑst̪ˈio# | *#ɑst̪ˈio# {GOLD: #ɑst̪ˈio#}
+190    | #fˌɑst̪iːd̪iˈɑːre# | *#fˌɑst̪iːd̪iˈɑːre# | *#fˌɑs̪t̪jˈɑɾe# | *#ˌɑst̪jˈɑɾ# | *#ɑst̪jˈɑɾ# {GOLD: #ɑst̪jˈaɾ#}
+191    | #hˈed̪erɑ# | *#ˈed̪erɑ# | *#jˈed̪ɾɑ# | *#ʝˈed̪ɾɑ# | *#ʝˈed̪ɾɑ# {GOLD: #ʝˈed̪ɾɑ#}
+192    | #hˈod̪ie# | *#ˈod̪ie# | *#ˈoj# | *#ˈoj# | *#ˈoj# {GOLD: #ˈoj#}
+193    | #hˈomin̪em# | *#ˈomin̪em# | *#wˈemen̪e# | *#wˈembɾe# | *#wˈembɾe# {GOLD: #ˈombɾe#}
+194    | #hˈort̪um# | *#ˈort̪um# | *#wˈeɾt̪o# | *#wˈeɾt̪o# | *#wˈeɾt̪o# {GOLD: #wˈeɾt̪o#}
+195    | #hˈospit̪em# | *#ˈospit̪em# | *#wˈesped̪e# | *#wˈesped̪# | *#wˈesped̪# {GOLD: #wˈesped̪#}
+196    | #hˈost̪em# | *#ˈost̪em# | *#wˈes̪t̪e# | *#wˈest̪e# | *#wˈest̪e# {GOLD: #wˈest̪e#}
+197    | #hˈoːrɑm# | *#ˈoːrɑm# | *#ˈoɾɑ# | *#ˈoɾɑ# | *#ˈoɾɑ# {GOLD: #ˈoɾɑ#}
+198    | #hˈumerum# | *#ˈumerum# | *#ˈomɾo# | *#ˈombɾo# | *#ˈombɾo# {GOLD: #ˈombɾo#}
+199    | #hˈɑbui# | *#ˈɑbui# | *#ˈɑbwe# | *#ˈɑbwe# | *#ˈɑbwe# {GOLD: #ˈobe#}
+200    | #hˌeːred̪it̪ˈɑːre# | *#ˌeːred̪it̪ˈɑːre# | *#ˌeɾeed̪ˈɑɾe# | *#ˌeɾed̪ˈɑɾ# | *#eɾed̪ˈɑɾ# {GOLD: #eɾed̪ˈɑɾ#}
+201    | #hˌispˈɑn̪iɑ# | *#ˌispˈɑn̪iɑ# | *#ˌespˈɑɲɑ# | *#ˌespˈɑɲɑ# | *#espˈɑɲɑ# {GOLD: #espˈɑɲɑ#}
+202    | #hˌon̪ˈoːrem# | *#ˌon̪ˈoːrem# | *#ˌon̪ˈoɾe# | *#ˌon̪ˈoɾ# | *#on̪ˈoɾ# {GOLD: #on̪ˈoɾ#}
+203    | #hˌord̪ˈeolum# | *#ˌord̪ˈeolum# | *#ˌoɾʝwˈelo# | *#ˌoɾʃwˈelo# | *#oɾxwˈelo# {GOLD: #oɾθwˈelo#}
+204    | #hˌospit̪ˈɑːlem# | *#ˌospit̪ˈɑːlem# | *#ˌosped̪ˈɑle# | *#ˌoswt̪ˈɑl# | *#oswt̪ˈɑl# {GOLD: #ost̪ˈɑl#}
+205    | #hˌɑmikˈeolum# | *#ˌɑmikˈeolum# | *#ˌɑmed͡zwˈelo# | *#ˌɑms̪wˈelo# | *#ɑmθwˈelo# {GOLD: #ɑn̪θwˈelo#}
+206    | #jˈɑːn̪uɑm# | *#jˈɑːn̪uɑm# | *#jˈɑn̪ɑ# | *#ʝˈɑn̪ɑ# | *#ʝˈɑn̪ɑ# {GOLD: #xˈɑmbɑ#}
+207    | #hˈerbɑm# | *#ˈerbɑm# | *#jˈeɾbɑ# | *#ʝˈeɾbɑ# | *#ʝˈeɾbɑ# {GOLD: #ʝˈeɾbɑ#}
+208    | #jˈokum# | *#jˈokum# | *#jwˈeɡo# | *#ʃwˈeɡo# | *#xwˈeɡo# {GOLD: #xwˈeɡo#}
+209    | #jˈowis# | *#jˈowis# | *#jwˈebes# | *#ʃwˈebes# | *#xwˈebes# {GOLD: #xwˈebes#}
+210    | #jˈun̪kt̪um# | *#jˈuːn̪t̪um# | *#jˈun̪t̪o# | *#ʃˈun̪t̪o# | *#xˈun̪t̪o# {GOLD: #xˈun̪t̪o#}
+211    | #jˈun̪kt̪ɑm# | *#jˈuːn̪t̪ɑm# | *#jˈun̪t̪ɑ# | *#ʃˈun̪t̪ɑ# | *#xˈun̪t̪ɑ# {GOLD: #xˈun̪t̪ɑ#}
+212    | #jˈuːd̪ikem# | *#jˈuːd̪ikem# | *#jˈujd͡ze# | *#ʃwˈis̪# | *#xwˈiθ# {GOLD: #xwˈeθ#}
+213    | #jˈuːn̪kum# | *#jˈuːŋkum# | *#jˈuŋko# | *#ʃˈuŋko# | *#xˈun̪ko# {GOLD: #xˈun̪ko#}
+214    | #hˈɑbeɑm# | *#ˈɑbeɑm# | *#ˈɑbjɑ# | *#ˈɑbjɑ# | *#ˈɑbjɑ# {GOLD: #ˈɑʝɑ#}
+215    | #jˈɑkt̪um# | *#jˈɑkt̪um# | *#jˈɑjt̪o# | *#ʝˈet͡ʃo# | *#ʝˈet͡ʃo# {GOLD: #ˈet͡ʃo#}
+216    | #jˈɑm# | *#jˈɑm# | *#jˈɑn̪# | *#ʝˈɑn̪# | *#ʝˈɑn̪# {GOLD: #ʝˈɑ#}
+217    | #jˌɑkˈeːre# | *#jˌɑkˈeːre# | *#jˌɑd͡zˈeɾe# | *#ʝˌɑs̪ˈeɾ# | *#ʝɑθˈeɾ# {GOLD: #ʝɑθˈeɾ#}
+218    | #jˌɑːn̪uˈɑːrium# | *#jˌɑːn̪uˈɑːrium# | *#jˌɑn̪oˈɑjɾo# | *#ʝˌɑn̪oˈeɾo# | *#ʝɑn̪oˈeɾo# {GOLD: #en̪ˈeɾo#}
+219    | #jˈuɡum# | *#jˈuɡum# | *#jˈoɡo# | *#ʃˈoɡo# | *#xˈoɡo# {GOLD: #ʝˈuɡo#}
+220    | #kˌerˈesiɑ# | *#kˌerˈesiɑ# | *#t͡sˌeɾˈejzɑ# | *#s̪ˌeɾˈesɑ# | *#θeɾˈesɑ# {GOLD: #θeɾˈeθɑ#}
+221    | #klˈɑːwem# | *#klˈɑːwem# | *#kʎˈɑbe# | *#ʎˈɑbe# | *#ʝˈɑbe# {GOLD: #ʝˈɑbe#}
+222    | #klˈɑwsɑm# | *#klˈɑwsɑm# | *#kʎˈɑwzɑ# | *#ʎˈosɑ# | *#ʝˈosɑ# {GOLD: #ʝˈosɑ#}
+223    | #klˌɑːmˈɑːre# | *#klˌɑːmˈɑːre# | *#kʎˌɑmˈɑɾe# | *#ʎˌɑmˈɑɾ# | *#ʝɑmˈɑɾ# {GOLD: #ʝɑmˈɑɾ#}
+224    | #krˈeːd̪it̪# | *#krˈeːd̪it̪# | *#kɾˈee# | *#kɾˈe# | *#kɾˈe# {GOLD: #kɾˈee#}
+225    | #krˈeːd̪oː# | *#krˈeːd̪oː# | *#kɾˈeo# | *#kɾˈeo# | *#kɾˈeo# {GOLD: #kɾˈeo#}
+226    | #krˈeːt̪ɑm# | *#krˈeːt̪ɑm# | *#kɾˈed̪ɑ# | *#kɾˈed̪ɑ# | *#kɾˈed̪ɑ# {GOLD: #ɡɾˈed̪ɑ#}
+227    | #krˈiːn̪em# | *#krˈiːn̪em# | *#kɾˈin̪e# | *#kɾˈin̪# | *#kɾˈin̪# {GOLD: #kɾˈin̪#}
+228    | #krˈukem# | *#krˈukem# | *#kɾˈod͡ze# | *#kɾˈos̪# | *#kɾˈoθ# {GOLD: #kɾˈuθ#}
+229    | #krˈust̪ɑm# | *#krˈust̪ɑm# | *#kɾˈos̪t̪ɑ# | *#kɾˈost̪ɑ# | *#kɾˈost̪ɑ# {GOLD: #kˈost̪ɾɑ#}
+230    | #krˈuːd̪um# | *#krˈuːd̪um# | *#kɾˈuo# | *#kɾˈuo# | *#kɾˈuo# {GOLD: #kɾˈuo#}
+231    | #krˈɑssum# | *#krˈɑssum# | *#kɾˈɑsso# | *#kɾˈɑso# | *#kɾˈɑso# {GOLD: #ɡɾˈɑso#}
+232    | #krˈɑssɑm# | *#krˈɑssɑm# | *#kɾˈɑssɑ# | *#kɾˈɑsɑ# | *#kɾˈɑsɑ# {GOLD: #ɡɾˈɑsɑ#}
+233    | #krˌeskˈeːre# | *#krˌeskˈeːre# | *#kɾˌest͡sˈeɾe# | *#kɾˌes̪ˈeɾ# | *#kɾeθˈeɾ# {GOLD: #kɾeθˈeɾ#}
+234    | #krˌeɑt̪iˈoːn̪e# | *#krˌeɑt̪iˈoːn̪e# | *#kɾjˈɑd͡zˈon̪e# | *#kɾjˈɑs̪ˈon̪# | *#kɾjˈɑθˈon̪# {GOLD: #kɾjɑθˈon̪#}
+235    | #krˌeˈɑːre# | *#krˌeˈɑːre# | *#kɾˌiˈɑɾe# | *#kɾˌiˈɑɾ# | *#kɾiˈɑɾ# {GOLD: #kɾjˈɑɾ#}
+236    | #krˌeːd̪ˈeːre# | *#krˌeːd̪ˈeːre# | *#kɾˌeˈeɾe# | *#kɾˌeˈeɾ# | *#kɾeˈeɾ# {GOLD: #kɾeˈeɾ#}
+237    | #krˌuːd̪elit̪ˈɑːt̪em# | *#krˌuːd̪elit̪ˈɑːt̪em# | *#kɾˌud̪ʎt̪ˈɑd̪e# | *#kɾˌulzt̪ˈɑd̪# | *#kɾulzt̪ˈɑd̪# {GOLD: #kɾweld̪ˈɑd̪#}
+238    | #krˌuːd̪ˈeːlem# | *#krˌuːd̪ˈeːlem# | *#kɾˌuˈele# | *#kɾˌuˈel# | *#kɾuˈel# {GOLD: #kɾwˈel#}
+239    | #kˌubit̪ˈɑːlem# | *#kˌubit̪ˈɑːlem# | *#kˌobed̪ˈɑle# | *#kˌod̪ˈɑl# | *#kod̪ˈɑl# {GOLD: #kod̪ˈɑl#}
+240    | #kwˈae̯sit̪us# | *#kwˈae̯sit̪us# | *#kjˈest̪os# | *#kjˈest̪os# | *#kjˈest̪os# {GOLD: #kˈist̪o#}
+241    | #kwˈae̯rit̪# | *#kwˈae̯rit̪# | *#kjˈeɾe# | *#kjˈeɾ# | *#kjˈeɾ# {GOLD: #kjˈeɾe#}
+242    | #kwˈem# | *#kwˈem# | *#kjˈen̪# | *#kjˈen̪# | *#kjˈen̪# {GOLD: #kjˈen̪#}
+243    | #kwˈid̪# | *#kwˈid̪# | *#kˈe# | *#kˈe# | *#kˈe# {GOLD: #kˈe#}
+244    | #kwˈiːn̪d̪ekim# | *#kwˈiːn̪d̪ekim# | *#kˈin̪d̪ed͡ze# | *#kˈin̪d̪es̪# | *#kˈin̪d̪eθ# {GOLD: #kˈin̪θe#}
+245    | #kwˈiːn̪kwe# | *#kwˈiːŋkwe# | *#kˈiŋke# | *#kˈiŋke# | *#kˈin̪ke# {GOLD: #θˈin̪ko#}
+246    | #kwˈiːn̪t̪um# | *#kwˈiːn̪t̪um# | *#kˈin̪t̪o# | *#kˈin̪t̪o# | *#kˈin̪t̪o# {GOLD: #kˈin̪t̪o#}
+247    | #kwˈoːmod̪o# | *#kwˈoːmod̪o# | *#kˈomoo# | *#kˈomo# | *#kˈomo# {GOLD: #kˈomo#}
+248    | #kwˈɑd̪rum# | *#kwˈɑd̪rum# | *#kʷˈɑd̪ɾo# | *#kʷˈɑd̪ɾo# | *#kʷˈɑd̪ɾo# {GOLD: #kwˈɑd̪ɾo#}
+249    | #kwˈɑlem# | *#kwˈɑlem# | *#kʷˈɑle# | *#kʷˈɑl# | *#kʷˈɑl# {GOLD: #kwˈɑl#}
+250    | #kwˈɑn̪d̪oː# | *#kwˈɑn̪d̪oː# | *#kʷˈɑn̪d̪o# | *#kʷˈɑn̪d̪o# | *#kʷˈɑn̪d̪o# {GOLD: #kwˈɑn̪d̪o#}
+251    | #kwˈɑrt̪um# | *#kwˈɑrt̪um# | *#kʷˈɑɾt̪o# | *#kʷˈɑɾt̪o# | *#kʷˈɑɾt̪o# {GOLD: #kwˈɑɾt̪o#}
+252    | #kwˈɑt̪t̪uor# | *#kwˈɑt̪t̪uor# | *#kʷˈɑt̪t̪oɾ# | *#kʷˈɑt̪oɾ# | *#kʷˈɑt̪oɾ# {GOLD: #kwˈɑt̪ɾo#}
+253    | #kwˈɑːle# | *#kwˈɑːle# | *#kʷˈɑle# | *#kʷˈɑl# | *#kʷˈɑl# {GOLD: #kwˈɑl#}
+254    | #kwˌae̯rˈeːre# | *#kwˌae̯rˈeːre# | *#kˌeɾˈeɾe# | *#kˌeɾˈeɾ# | *#keɾˈeɾ# {GOLD: #keɾˈeɾ#}
+255    | #kwˌiet̪ˈɑːre# | *#kwˌiet̪ˈɑːre# | *#kˈed̪ˈɑɾe# | *#kˈed̪ˈɑɾ# | *#kˈed̪ˈɑɾ# {GOLD: #ked̪ˈɑɾ#}
+256    | #kwˌiˈeːt̪um# | *#kwˌiˈeːt̪um# | *#kˈed̪o# | *#kˈed̪o# | *#kˈed̪o# {GOLD: #kˈed̪o#}
+257    | #kwˌiːn̪ɡˈen̪t̪oːs# | *#kwˌiːŋɡˈen̪t̪oːs# | *#kˌiŋʝjˈen̪t̪os# | *#kˌiŋʃˈen̪t̪os# | *#kin̪xˈen̪t̪os# {GOLD: #kin̪jˈen̪t̪os#}
+258    | #kwˌɑn̪t̪it̪ˈɑːt̪em# | *#kwˌɑn̪t̪it̪ˈɑːt̪em# | *#kˌɑn̪t̪ed̪ˈɑd̪e# | *#kˌɑn̪st̪ˈɑd̪# | *#kɑn̪st̪ˈɑd̪# {GOLD: #kɑn̪t̪id̪ˈɑd̪#}
+259    | #kwˌɑssikˈɑːre# | *#kwˌɑssikˈɑːre# | *#kˌɑsseɡˈɑɾe# | *#kˌɑskˈɑɾ# | *#kɑskˈɑɾ# {GOLD: #kɑskˈɑɾ#}
+260    | #kwˌɑt̪t̪uˈord̪ekim# | *#kwˌɑt̪t̪uˈord̪ekim# | *#kˌɑt̪t̪wˈeɾd̪ed͡ze# | *#kˌɑt̪wˈeɾd̪es̪# | *#kɑt̪wˈeɾd̪eθ# {GOLD: #kɑt̪ˈoɾθe#}
+261    | #kˈae̯kum# | *#kˈae̯kum# | *#t͡sjˈeɡo# | *#s̪jˈeɡo# | *#θjˈeɡo# {GOLD: #θjˈeɡo#}
+262    | #kˈae̯lum# | *#kˈae̯lum# | *#t͡sjˈelo# | *#s̪jˈelo# | *#θjˈelo# {GOLD: #θjˈelo#}
+263    | #kˈae̯spit̪e# | *#kˈae̯spit̪e# | *#t͡sjˈesped̪e# | *#s̪jˈesped̪# | *#θjˈesped̪# {GOLD: #θˈesped̪#}
+264    | #kˈɑːseum# | *#kˈɑːseum# | *#kˈɑjzo# | *#kˈeso# | *#kˈeso# {GOLD: #kˈeso#}
+265    | #kˈen̪t̪rum# | *#kˈen̪t̪rum# | *#t͡sjˈen̪t̪ɾo# | *#s̪jˈen̪t̪ɾo# | *#θjˈen̪t̪ɾo# {GOLD: #θˈen̪t̪ɾo#}
+266    | #kˈen̪t̪um# | *#kˈen̪t̪um# | *#t͡sjˈen̪t̪o# | *#s̪jˈen̪t̪o# | *#θjˈen̪t̪o# {GOLD: #θjˈen̪t̪o#}
+267    | #kˈert̪um# | *#kˈert̪um# | *#t͡sjˈeɾt̪o# | *#s̪jˈeɾt̪o# | *#θjˈeɾt̪o# {GOLD: #θjˈeɾt̪o#}
+268    | #kˈerwum# | *#kˈerwum# | *#t͡sjˈeɾbo# | *#s̪jˈeɾbo# | *#θjˈeɾbo# {GOLD: #θjˈeɾbo#}
+269    | #kˈeːn̪ɑm# | *#kˈeːn̪ɑm# | *#t͡sˈen̪ɑ# | *#s̪ˈen̪ɑ# | *#θˈen̪ɑ# {GOLD: #θˈen̪ɑ#}
+270    | #kˈeːrɑm# | *#kˈeːrɑm# | *#t͡sˈeɾɑ# | *#s̪ˈeɾɑ# | *#θˈeɾɑ# {GOLD: #θˈeɾɑ#}
+271    | #kˈibum# | *#kˈibum# | *#t͡sˈebo# | *#s̪ˈebo# | *#θˈebo# {GOLD: #θˈebo#}
+272    | #kˈiliɑ# | *#kˈiliɑ# | *#t͡sˈeʎɑ# | *#s̪ˈeʃɑ# | *#θˈexɑ# {GOLD: #θˈexɑ#}
+273    | #kˈin̪kt̪um# | *#kˈiːn̪t̪um# | *#t͡sˈin̪t̪o# | *#s̪ˈin̪t̪o# | *#θˈin̪t̪o# {GOLD: #θˈin̪t̪o#}
+274    | #kˈin̪kt̪ɑm# | *#kˈiːn̪t̪ɑm# | *#t͡sˈin̪t̪ɑ# | *#s̪ˈin̪t̪ɑ# | *#θˈin̪t̪ɑ# {GOLD: #θˈin̪t̪ɑ#}
+275    | #kˈippum# | *#kˈippum# | *#t͡sˈeppo# | *#s̪ˈepo# | *#θˈepo# {GOLD: #θˈepo#}
+276    | #kˈirkuloː# | *#kˈirkuloː# | *#t͡sˈeɾklo# | *#s̪ˈeɾt͡ʃo# | *#θˈeɾt͡ʃo# {GOLD: #θˈeɾt͡ʃo#}
+277    | #kˈirkulum# | *#kˈirkulum# | *#t͡sˈeɾklo# | *#s̪ˈeɾt͡ʃo# | *#θˈeɾt͡ʃo# {GOLD: #θˈeɾt͡ʃo#}
+278    | #kˈirkum# | *#kˈirkum# | *#t͡sˈeɾko# | *#s̪ˈeɾko# | *#θˈeɾko# {GOLD: #θˈeɾko#}
+279    | #kˈirkɑm# | *#kˈirkɑm# | *#t͡sˈeɾkɑ# | *#s̪ˈeɾkɑ# | *#θˈeɾkɑ# {GOLD: #θˈeɾkɑ#}
+280    | #kˈirrum# | *#kˈirrum# | *#t͡sˈero# | *#s̪ˈero# | *#θˈero# {GOLD: #θˈero#}
+281    | #kˈist̪ɑm# | *#kˈist̪ɑm# | *#t͡sˈes̪t̪ɑ# | *#s̪ˈest̪ɑ# | *#θˈest̪ɑ# {GOLD: #θˈest̪ɑ#}
+282    | #kˈoksum# | *#kˈoksum# | *#kˈojso# | *#kˈoʃo# | *#kˈoxo# {GOLD: #kˈoxo#}
+283    | #kˈokt̪um# | *#kˈokt̪um# | *#kˈojt̪o# | *#kˈot͡ʃo# | *#kˈot͡ʃo# {GOLD: #kˈot͡ʃo#}
+284    | #kˈolliɡis# | *#kˈolliɡis# | *#kˈolʎes# | *#kˈolles# | *#kˈolles# {GOLD: #kˈoxes#}
+285    | #kˈollum# | *#kˈollum# | *#kwˈello# | *#kwˈeʎo# | *#kwˈeʝo# {GOLD: #kwˈeʝo#}
+286    | #kˈomit̪em# | *#kˈomit̪em# | *#kwˈemed̪e# | *#kwˈen̪d̪e# | *#kwˈen̪d̪e# {GOLD: #kˈon̪d̪e#}
+287    | #kˈompt̪um# | *#kˈoːn̪t̪um# | *#kˈon̪t̪o# | *#kˈon̪t̪o# | *#kˈon̪t̪o# {GOLD: #kwˈen̪t̪o#}
+288    | #kˈon̪kʰulɑm# | *#kˈoŋkulɑm# | *#kwˈeŋkʎɑ# | *#kwˈeŋt͡ʃɑ# | *#kwˈen̪t͡ʃɑ# {GOLD: #kon̪t͡ʃɑ#}
+289    | #kˈon̪kʰɑm# | *#kˈoŋkɑm# | *#kwˈeŋkɑ# | *#kwˈeŋkɑ# | *#kwˈen̪kɑ# {GOLD: #kwˈen̪kɑ#}
+290    | #kˈon̪t̪rɑ# | *#kˈon̪t̪rɑ# | *#kwˈen̪t̪ɾɑ# | *#kwˈen̪t̪ɾɑ# | *#kwˈen̪t̪ɾɑ# {GOLD: #kˈon̪t̪ɾɑ#}
+291    | #kˈopʰin̪um# | *#kˈopin̪um# | *#kwˈeben̪o# | *#kwˈebn̪o# | *#kwˈebn̪o# {GOLD: #kwˈebɑn̪o#}
+292    | #kˈorium# | *#kˈorium# | *#kˈojɾo# | *#kwˈeɾo# | *#kwˈeɾo# {GOLD: #kwˈeɾo#}
+293    | #kˈorn̪uː# | *#kˈorn̪uː# | *#kwˈeɾn̪u# | *#kwˈeɾn̪o# | *#kwˈeɾn̪o# {GOLD: #kwˈeɾn̪o#}
+294    | #kˈorpum# | *#kˈorpum# | *#kwˈeɾpo# | *#kwˈeɾpo# | *#kwˈeɾpo# {GOLD: #kwˈeɾpo#}
+295    | #kˈorwum# | *#kˈorwum# | *#kwˈeɾbo# | *#kwˈeɾbo# | *#kwˈeɾbo# {GOLD: #kwˈeɾbo#}
+296    | #kˈost̪ɑm# | *#kˈost̪ɑm# | *#kwˈes̪t̪ɑ# | *#kwˈest̪ɑ# | *#kwˈest̪ɑ# {GOLD: #kwˈest̪ɑ#}
+297    | #kˈoːlupum# | *#kˈoːlupum# | *#kˈolpo# | *#kˈolpo# | *#kˈolpo# {GOLD: #ɡˈolpe#}
+298    | #kˈoːn̪suoː# | *#kˈoːnsuoː# | *#kˈozo# | *#kˈoso# | *#kˈoso# {GOLD: #kˈoso#}
+299    | #kˈoːrt̪em# | *#kˈoːrt̪em# | *#kˈoɾt̪e# | *#kˈoɾt̪e# | *#kˈoɾt̪e# {GOLD: #kˈoɾt̪e#}
+300    | #kˈoːɡit̪ɑt̪# | *#kˈoːɡit̪ɑt̪# | *#kˈuʝid̪ɑ# | *#kˈuʝd̪ɑ# | *#kˈuʝd̪ɑ# {GOLD: #kwˈid̪ɑ#}
+301    | #kˈubit̪um# | *#kˈubit̪um# | *#kˈobed̪o# | *#kˈod̪o# | *#kˈod̪o# {GOLD: #kˈod̪o#}
+302    | #kˈubum# | *#kˈubum# | *#kˈobo# | *#kˈobo# | *#kˈobo# {GOLD: #kˈubo#}
+303    | #kˈuium# | *#kˈuium# | *#kwˈio# | *#kwˈio# | *#kwˈio# {GOLD: #kˈuʝo#}
+304    | #kˈulkit̪ɑm# | *#kˈulkit̪ɑm# | *#kˈolt͡sed̪ɑ# | *#kˈols̪ed̪ɑ# | *#kˈolθed̪ɑ# {GOLD: #kˈolt͡ʃɑ#}
+305    | #kˈulmin̪em# | *#kˈulmin̪em# | *#kˈolmen̪e# | *#kˈolmen̪# | *#kˈolmen̪# {GOLD: #kˈumbɾe#}
+306    | #kˈum# | *#kˈum# | *#kˈon̪# | *#kˈon̪# | *#kˈon̪# {GOLD: #kˈon̪#}
+307    | #kˈumulum# | *#kˈumulum# | *#kˈomlo# | *#kˈomlo# | *#kˈomlo# {GOLD: #kˈolmo#}
+308    | #kˈun̪n̪um# | *#kˈun̪n̪um# | *#kˈon̪n̪o# | *#kˈoɲo# | *#kˈoɲo# {GOLD: #kˈoɲo#}
+309    | #kˈun̪eum# | *#kˈun̪eum# | *#kˈuɲo# | *#kˈuɲo# | *#kˈuɲo# {GOLD: #kˈuɲo#}
+310    | #kˈun̪eɑm# | *#kˈun̪eɑm# | *#kˈuɲɑ# | *#kˈuɲɑ# | *#kˈuɲɑ# {GOLD: #kˈuɲɑ#}
+311    | #kˈurrum# | *#kˈurrum# | *#kˈoro# | *#kˈoro# | *#kˈoro# {GOLD: #kˈoro#}
+312    | #kˈursum# | *#kˈursum# | *#kˈosso# | *#kˈoso# | *#kˈoso# {GOLD: #kˈoso#}
+313    | #kˈurt̪um# | *#kˈurt̪um# | *#kˈoɾt̪o# | *#kˈoɾt̪o# | *#kˈoɾt̪o# {GOLD: #kˈoɾt̪o#}
+314    | #kˈuːn̪ɑm# | *#kˈuːn̪ɑm# | *#kˈun̪ɑ# | *#kˈun̪ɑ# | *#kˈun̪ɑ# {GOLD: #kˈun̪ɑ#}
+315    | #kˈuːpɑ# | *#kˈuːpɑ# | *#kˈubɑ# | *#kˈubɑ# | *#kˈubɑ# {GOLD: #kˈubɑ#}
+316    | #kˈuːrɑm# | *#kˈuːrɑm# | *#kˈuɾɑ# | *#kˈuɾɑ# | *#kˈuɾɑ# {GOLD: #kuɾɑ#}
+317    | #kˈɑlikem# | *#kˈɑlikem# | *#kˈɑled͡ze# | *#kˈɑls̪e# | *#kˈɑlθe# {GOLD: #kˈɑwθe#}
+318    | #kˈɑlkem# | *#kˈɑlkem# | *#kˈɑwt͡se# | *#kˈos̪# | *#kˈoθ# {GOLD: #kˈoθ#}
+319    | #kˈɑlkeɑm# | *#kˈɑlkeɑm# | *#kˈɑwt͡sɑ# | *#kˈos̪ɑ# | *#kˈoθɑ# {GOLD: #kˈɑlθɑ#}
+320    | #kˈɑlle# | *#kˈɑlle# | *#kˈɑlle# | *#kˈɑʎe# | *#kˈɑʝe# {GOLD: #kˈɑʝe#}
+321    | #kˈɑlwum# | *#kˈɑlwum# | *#kˈɑwbo# | *#kˈobo# | *#kˈobo# {GOLD: #kˈɑlbo#}
+322    | #kˈɑmpum# | *#kˈɑmpum# | *#kˈɑmpo# | *#kˈɑmpo# | *#kˈɑmpo# {GOLD: #kˈɑmpo#}
+323    | #kˈɑn̪krum# | *#kˈɑŋkrum# | *#kˈɑŋkɾo# | *#kˈɑŋkɾo# | *#kˈɑn̪kɾo# {GOLD: #kˈɑn̪ɡɾo#}
+324    | #kˈɑn̪n̪ɑm# | *#kˈɑn̪n̪ɑm# | *#kˈɑn̪n̪ɑ# | *#kˈɑɲɑ# | *#kˈɑɲɑ# {GOLD: #kˈɑɲɑ#}
+325    | #kˈɑn̪t̪um# | *#kˈɑn̪t̪um# | *#kˈɑn̪t̪o# | *#kˈɑn̪t̪o# | *#kˈɑn̪t̪o# {GOLD: #kˈɑn̪t̪o#}
+326    | #kˈɑn̪t̪ʰulum# | *#kˈɑn̪t̪ulum# | *#kˈɑn̪t̪lo# | *#kˈɑn̪t͡ʃo# | *#kˈɑn̪t͡ʃo# {GOLD: #kˈɑn̪t͡ʃo#}
+327    | #kˈɑn̪t̪ʰɑrum# | *#kˈɑn̪t̪ɑrum# | *#kˈɑn̪t̪ɾo# | *#kˈɑn̪t̪ɾo# | *#kˈɑn̪t̪ɾo# {GOLD: #kˈɑn̪t̪ɑɾo#}
+328    | #kˈɑpit̪# | *#kˈɑpit̪# | *#kˈɑbe# | *#kˈɑbe# | *#kˈɑbe# {GOLD: #kˈɑbe#}
+329    | #kˈɑpiɑm# | *#kˈɑpiɑm# | *#kˈɑjpɑ# | *#kˈepɑ# | *#kˈepɑ# {GOLD: #kˈepɑ#}
+330    | #kˈɑpreum# | *#kˈɑpreum# | *#kˈɑbɾjo# | *#kˈɑbɾjo# | *#kˈɑbɾjo# {GOLD: #kˈɑbɾjo#}
+331    | #kˈɑprɑ# | *#kˈɑprɑ# | *#kˈɑbɾɑ# | *#kˈɑbɾɑ# | *#kˈɑbɾɑ# {GOLD: #kˈɑbɾɑ#}
+332    | #kˈɑpt̪ioː# | *#kˈɑpt̪ioː# | *#kˈɑt͡st͡so# | *#kˈɑs̪o# | *#kˈɑθo# {GOLD: #kˈɑθo#}
+333    | #kˈɑput̪# | *#kˈɑput̪# | *#kˈɑbo# | *#kˈɑbo# | *#kˈɑbo# {GOLD: #kˈɑbo#}
+334    | #kˈɑrkerem# | *#kˈɑrkerem# | *#kˈɑɾkɾe# | *#kˈɑɾkɾe# | *#kˈɑɾkɾe# {GOLD: #kˈɑɾθel#}
+335    | #kˈɑrn̪em# | *#kˈɑrn̪em# | *#kˈɑɾn̪e# | *#kˈɑɾn̪e# | *#kˈɑɾn̪e# {GOLD: #kˈɑɾn̪e#}
+336    | #kˈɑsɑm# | *#kˈɑsɑm# | *#kˈɑzɑ# | *#kˈɑsɑ# | *#kˈɑsɑ# {GOLD: #kˈɑsɑ#}
+337    | #kˈɑt̪t̪ium# | *#kˈɑt̪t̪ium# | *#kˈɑt͡st͡so# | *#kˈɑs̪o# | *#kˈɑθo# {GOLD: #kˈɑθo#}
+338    | #kˈɑt̪t̪um# | *#kˈɑt̪t̪um# | *#kˈɑt̪t̪o# | *#kˈɑt̪o# | *#kˈɑt̪o# {GOLD: #ɡˈɑt̪o#}
+339    | #kˈɑwet̪# | *#kˈɑwet̪# | *#kˈɑbe# | *#kˈɑbe# | *#kˈɑbe# {GOLD: #kˈɑbe#}
+340    | #kˈɑwlem# | *#kˈɑwlem# | *#kˈɑwle# | *#kˈol# | *#kˈol# {GOLD: #kˈol#}
+341    | #kˈɑwsɑm# | *#kˈɑwsɑm# | *#kˈɑwzɑ# | *#kˈosɑ# | *#kˈosɑ# {GOLD: #kˈosɑ#}
+342    | #kˈɑwt̪o# | *#kˈɑwt̪o# | *#kˈɑwt̪o# | *#kˈot̪o# | *#kˈot̪o# {GOLD: #kˈot̪o#}
+343    | #kˈɑwt̪ɑrium# | *#kˈɑwt̪ɑrium# | *#kˈɑwt̪ɾjo# | *#kˈot̪ɾjo# | *#kˈot̪ɾjo# {GOLD: #kot̪ˈeɾo#}
+344    | #kˈɑːn̪ɑ# | *#kˈɑːn̪ɑ# | *#kˈɑn̪ɑ# | *#kˈɑn̪ɑ# | *#kˈɑn̪ɑ# {GOLD: #kˈɑn̪ɑ#}
+345    | #kˈɑːrum# | *#kˈɑːrum# | *#kˈɑɾo# | *#kˈɑɾo# | *#kˈɑɾo# {GOLD: #kˈɑɾo#}
+346    | #kˈɑːsum# | *#kˈɑːsum# | *#kˈɑzo# | *#kˈɑso# | *#kˈɑso# {GOLD: #kˈɑso#}
+347    | #kˌae̯mˈen̪t̪um# | *#kˌae̯mˈen̪t̪um# | *#t͡sˌemjˈen̪t̪o# | *#s̪ˌimjˈen̪t̪o# | *#θimjˈen̪t̪o# {GOLD: #θimjˈen̪t̪o#}
+348    | #kˌen̪t̪ˈeːn̪um# | *#kˌen̪t̪ˈeːn̪um# | *#t͡sˌen̪t̪ˈen̪o# | *#s̪ˌen̪t̪ˈen̪o# | *#θen̪t̪ˈen̪o# {GOLD: #θen̪t̪ˈen̪o#}
+349    | #kˌepˈullɑ# | *#kˌepˈullɑ# | *#t͡sˌebˈollɑ# | *#s̪ˌebˈoʎɑ# | *#θebˈoʝɑ# {GOLD: #θebˈoʝɑ#}
+350    | #kˌerˈeolɑ# | *#kˌerˈeolɑ# | *#t͡sˌejɾwˈelɑ# | *#s̪ˌiɾwˈelɑ# | *#θiɾwˈelɑ# {GOLD: #θiɾwˈelɑ#}
+351    | #kˌeːpˈullɑ# | *#kˌeːpˈullɑ# | *#t͡sˌebˈollɑ# | *#s̪ˌebˈoʎɑ# | *#θebˈoʝɑ# {GOLD: #θebˈoʝɑ#}
+352    | #kˌeːrˈeolum# | *#kˌeːrˈeolum# | *#t͡sˌejɾwˈelo# | *#s̪ˌiɾwˈelo# | *#θiɾwˈelo# {GOLD: #θiɾwˈelo#}
+353    | #kˌeːrˈeolɑ# | *#kˌeːrˈeolɑ# | *#t͡sˌejɾwˈelɑ# | *#s̪ˌiɾwˈelɑ# | *#θiɾwˈelɑ# {GOLD: #θiɾwˈelɑ#}
+354    | #kˌibˈɑːt̪ɑm# | *#kˌibˈɑːt̪ɑm# | *#t͡sˌebˈɑd̪ɑ# | *#s̪ˌebˈɑd̪ɑ# | *#θebˈɑd̪ɑ# {GOLD: #θebˈɑd̪ɑ#}
+355    | #kˌikɑːt̪rˈiːkem# | *#kˌikɑːt̪rˈiːkem# | *#t͡sˌeɡɑd̪ɾˈid͡ze# | *#s̪ˌeɡɑd̪ɾˈis̪# | *#θeɡɑd̪ɾˈiθ# {GOLD: #θikɑt̪ɾˈiθ#}
+356    | #kˌikˈoːn̪iɑm# | *#kˌikˈoːn̪iɑm# | *#t͡sˌeɡˈuɲɑ# | *#s̪ˌeɡˈuɲɑ# | *#θeɡˈuɲɑ# {GOLD: #θiɡʷˈeɲɑ#}
+357    | #kˌin̪erˈɑːt̪ɑ# | *#kˌin̪erˈɑːt̪ɑ# | *#t͡sˌen̪ɾˈɑd̪ɑ# | *#s̪ˌen̪d̪ɾˈɑd̪ɑ# | *#θen̪d̪ɾˈɑd̪ɑ# {GOLD: #θen̪d̪ɾˈɑd̪ɑ#}
+358    | #kˌin̪kt̪uːrˈɑːt̪um# | *#kˌiːn̪t̪uːrˈɑːt̪um# | *#t͡sˌin̪t̪ɾˈɑd̪o# | *#s̪ˌin̪t̪ɾˈɑd̪o# | *#θin̪t̪ɾˈɑd̪o# {GOLD: #θin̪t̪ɾˈɑd̪o#}
+359    | #kˌin̪kt̪ˈuːrɑ# | *#kˌiːn̪t̪ˈuːrɑ# | *#t͡sˌin̪t̪ˈuɾɑ# | *#s̪ˌin̪t̪ˈuɾɑ# | *#θin̪t̪ˈuɾɑ# {GOLD: #θin̪t̪ˈuɾɑ#}
+360    | #kˌiːwit̪ˈɑːt̪em# | *#kˌiːwit̪ˈɑːt̪em# | *#t͡sˌibed̪ˈɑd̪e# | *#s̪ˌiwd̪ˈɑd̪# | *#θiwd̪ˈɑd̪# {GOLD: #θjud̪ˈɑd̪#}
+361    | #kˌokwiːn̪ˈɑːrium# | *#kˌokwiːn̪ˈɑːrium# | *#kˌoɡin̪ˈɑjɾo# | *#kˌoɡn̪ˈeɾo# | *#koɡn̪ˈeɾo# {GOLD: #koθin̪ˈeɾo#}
+362    | #kˌokwˈiːn̪ɑ# | *#kˌokwˈiːn̪ɑ# | *#kˌoɡˈin̪ɑ# | *#kˌoɡˈin̪ɑ# | *#koɡˈin̪ɑ# {GOLD: #koθˈin̪ɑ#}
+363    | #kˌokʰleˈɑːrɑm# | *#kˌokleˈɑːrɑm# | *#kˌuʎˈɑɾɑ# | *#kˌuʃˈɑɾɑ# | *#kuxˈɑɾɑ# {GOLD: #kut͡ʃˈɑɾɑ#}
+364    | #kˌollokˈɑt̪# | *#kˌollokˈɑt̪# | *#kˌolloɡˈɑ# | *#kˌoʎoɡˈɑ# | *#koʝoɡˈɑ# {GOLD: #kwˈelɡɑ#}
+365    | #kˌollokˈɑːre# | *#kˌollokˈɑːre# | *#kˌolloɡˈɑɾe# | *#kˌoʎɡˈɑɾ# | *#koʝɡˈɑɾ# {GOLD: #kolɡˈɑɾ#}
+366    | #kˌollˈiːn̪ɑm# | *#kˌollˈiːn̪ɑm# | *#kˌollˈin̪ɑ# | *#kˌoʎˈin̪ɑ# | *#koʝˈin̪ɑ# {GOLD: #kolˈin̪ɑ#}
+367    | #kˌolˈobrɑ# | *#kˌolˈobrɑ# | *#kˌolwˈebɾɑ# | *#kˌulˈebɾɑ# | *#kulˈebɾɑ# {GOLD: #kulˈebɾɑ#}
+368    | #kˌolˈoːrem# | *#kˌolˈoːrem# | *#kˌolˈoɾe# | *#kˌolˈoɾ# | *#kolˈoɾ# {GOLD: #kolˈoɾ#}
+369    | #kˌomit̪ˈissɑ# | *#kˌomit̪ˈissɑ# | *#kˌomed̪ˈessɑ# | *#kˌon̪d̪ˈesɑ# | *#kon̪d̪ˈesɑ# {GOLD: #kon̪d̪ˈesɑ#}
+370    | #kˌomit̪ˈɑːt̪um# | *#kˌomit̪ˈɑːt̪um# | *#kˌomed̪ˈɑd̪o# | *#kˌon̪d̪ˈɑd̪o# | *#kon̪d̪ˈɑd̪o# {GOLD: #kon̪d̪ˈɑd̪o#}
+371    | #kˌommˈuːn̪em# | *#kˌommˈuːn̪em# | *#kˌommˈun̪e# | *#kˌomˈun̪# | *#komˈun̪# {GOLD: #komˈun̪#}
+372    | #kˌomperˈɑːre# | *#kˌomperˈɑːre# | *#kˌompɾˈɑɾe# | *#kˌompɾˈɑɾ# | *#kompɾˈɑɾ# {GOLD: #kompɾˈɑɾ#}
+373    | #kˌomput̪ˈɑːre# | *#kˌomput̪ˈɑːre# | *#kˌompod̪ˈɑɾe# | *#kˌomwt̪ˈɑɾ# | *#komwt̪ˈɑɾ# {GOLD: #kon̪t̪ˈɑɾ#}
+374    | #kˌompˈɑn̪ikum# | *#kˌompˈɑn̪ikum# | *#kˌompˈɑn̪eɡo# | *#kˌompˈɑn̪ɡo# | *#kompˈɑn̪ɡo# {GOLD: #kompˈɑn̪ɡo#}
+375    | #kˌon̪d̪ˈukt̪um# | *#kˌon̪d̪ˈukt̪um# | *#kˌon̪d̪ˈujt̪o# | *#kˌon̪d̪ˈut͡ʃo# | *#kon̪d̪ˈut͡ʃo# {GOLD: #kon̪d̪ˈut͡ʃo#}
+376    | #kˌon̪kˈilium# | *#kˌoŋkˈilium# | *#kˌoŋt͡sˈeʎo# | *#kˌoŋs̪ˈeʃo# | *#kon̪θˈexo# {GOLD: #kon̪θˈexo#}
+377    | #kˌon̪st̪ˈɑːre# | *#kˌoːnst̪ˈɑːre# | *#kˌos̪t̪ˈɑɾe# | *#kˌost̪ˈɑɾ# | *#kost̪ˈɑɾ# {GOLD: #kost̪ˈɑɾ#}
+378    | #kˌon̪sut̪ˈuːrɑ# | *#kˌoːnsut̪ˈuːrɑ# | *#kˌost̪ˈuɾɑ# | *#kˌost̪ˈuɾɑ# | *#kost̪ˈuɾɑ# {GOLD: #kost̪ˈuɾɑ#}
+379    | #kˌon̪t̪rˈɑkt̪um# | *#kˌon̪t̪rˈɑkt̪um# | *#kˌon̪t̪ɾˈɑjt̪o# | *#kˌon̪t̪ɾˈet͡ʃo# | *#kon̪t̪ɾˈet͡ʃo# {GOLD: #kon̪t̪ɾˈet͡ʃo#}
+380    | #kˌon̪t̪ˈempt̪um# | *#kˌon̪t̪ˈeːn̪t̪um# | *#kˌon̪t̪ˈen̪t̪o# | *#kˌon̪t̪ˈen̪t̪o# | *#kon̪t̪ˈen̪t̪o# {GOLD: #kon̪t̪ˈen̪t̪o#}
+381    | #kˌon̪t̪ˌin̪ˈeːre# | *#kˌon̪t̪ˌin̪ˈeːre# | *#kˌon̪t̪ˌen̪ˈeɾe# | *#kˌon̪t̪ˌen̪ˈeɾ# | *#kon̪t̪en̪ˈeɾ# {GOLD: #kon̪t̪en̪ˈeɾ#}
+382    | #kˌord̪ˈolium# | *#kˌord̪ˈolium# | *#kˌoɾd̪ˈoʎo# | *#kˌoɾd̪ˈoʃo# | *#koɾd̪ˈoxo# {GOLD: #koɾd̪ˈoxo#}
+383    | #kˌorn̪ˈikulɑm# | *#kˌorn̪ˈikulɑm# | *#kˌoɾn̪ˈeʎɑ# | *#kˌoɾn̪ˈeʃɑ# | *#koɾn̪ˈexɑ# {GOLD: #koɾn̪ˈexɑ#}
+384    | #kˌorrˈiɡiɑm# | *#kˌorrˈiɡiɑm# | *#kˌorˈiɑ# | *#kˌorˈiɑ# | *#korˈiɑ# {GOLD: #korˈeɑ#}
+385    | #kˌorrˈupt̪ium# | *#kˌorrˈupt̪ium# | *#kˌorˈot͡st͡so# | *#kˌorˈos̪o# | *#korˈoθo# {GOLD: #korˈoθo#}
+386    | #kˌort̪ˈikeɑ# | *#kˌort̪ˈikeɑ# | *#kˌoɾt̪ˈed͡zɑ# | *#kˌoɾt̪ˈes̪ɑ# | *#koɾt̪ˈeθɑ# {GOLD: #koɾt̪ˈeθɑ#}
+387    | #kˌorˈoːn̪ɑm# | *#kˌorˈoːn̪ɑm# | *#kˌoɾˈon̪ɑ# | *#kˌoɾˈon̪ɑ# | *#koɾˈon̪ɑ# {GOLD: #koɾˈon̪ɑ#}
+388    | #kˌorˈɑmin̪e# | *#kˌorˈɑmin̪e# | *#kˌoɾˈɑmen̪e# | *#kˌoɾˈɑmbɾe# | *#koɾˈɑmbɾe# {GOLD: #koɾˈɑmbɾe#}
+389    | #kˌoriˈɑːkeɑm# | *#kˌoriˈɑːkeɑm# | *#kˌojɾˈɑd͡zɑ# | *#kwˌeɾˈɑs̪ɑ# | *#kweɾˈɑθɑ# {GOLD: #koɾˈɑθɑ#}
+390    | #kˌoˌopˈert̪um# | *#kˌoˌopˈert̪um# | *#kˌobjˈeɾt̪o# | *#kˌubjˈeɾt̪o# | *#kubjˈeɾt̪o# {GOLD: #kubjˈeɾt̪o#}
+391    | #kˌoˈɑːɡulum# | *#kˌoˈɑːɡulum# | *#kˌoˈɑʎo# | *#kˌoˈɑʃo# | *#koˈɑxo# {GOLD: #kwˈɑxo#}
+392    | #kˌoːn̪sˈilium# | *#kˌoːnsˈilium# | *#kˌozˈeʎo# | *#kˌosˈeʃo# | *#kosˈexo# {GOLD: #kon̪sˈexo#}
+393    | #kˌoːperˈiːre# | *#kˌoːperˈiːre# | *#kˌobɾˈiɾe# | *#kˌobɾˈiɾ# | *#kobɾˈiɾ# {GOLD: #kobɾˈiɾ#}
+394    | #kˌoːt̪urn̪ˈiːkem# | *#kˌoːt̪urn̪ˈiːkem# | *#kˌod̪ɾn̪ˈid͡ze# | *#kˌod̪ɾn̪ˈis̪# | *#kod̪ɾn̪ˈiθ# {GOLD: #kod̪oɾn̪ˈiθ#}
+395    | #kˌoːɡit̪ˈɑːre# | *#kˌoːɡit̪ˈɑːre# | *#kˌoʝid̪ˈɑɾe# | *#kˌoʝd̪ˈɑɾ# | *#koʝd̪ˈɑɾ# {GOLD: #kwid̪ˈɑɾ#}
+396    | #kˌubˈikulum# | *#kˌubˈikulum# | *#kˌobˈeʎo# | *#kˌobˈeʃo# | *#kobˈexo# {GOLD: #kobˈixo#}
+397    | #kˌukˈullum# | *#kˌukˈullum# | *#kˌoɡˈollo# | *#kˌoɡˈoʎo# | *#koɡˈoʝo# {GOLD: #koɡˈoʝo#}
+398    | #kˌult̪rˈɑːle# | *#kˌul̪t̪rˈɑːle# | *#kˌojt̪ɾˈɑle# | *#kˌot͡ʃɾˈɑl# | *#kot͡ʃɾˈɑl# {GOLD: #kwit̪ɾˈɑl#}
+399    | #kˌult̪ˈellum# | *#kˌul̪t̪ˈellum# | *#kˌojt̪jˈello# | *#kˌot͡ʃˈeʎo# | *#kot͡ʃˈeʝo# {GOLD: #kut͡ʃˈiʝo#}
+400    | #kˌummˈiːn̪um# | *#kˌummˈiːn̪um# | *#kˌommˈin̪o# | *#kˌomˈin̪o# | *#komˈin̪o# {GOLD: #komˈin̪o#}
+401    | #kˌun̪ˈikulum# | *#kˌun̪ˈikulum# | *#kˌon̪ˈeʎo# | *#kˌon̪ˈeʃo# | *#kon̪ˈexo# {GOLD: #kon̪ˈexo#}
+402    | #kˌuskˈulium# | *#kˌuskˈulium# | *#kˌoskˈuʎo# | *#kˌoskˈuʃo# | *#koskˈuxo# {GOLD: #koskˈoxo#}
+403    | #kˌuːrˈɑːre# | *#kˌuːrˈɑːre# | *#kˌuɾˈɑɾe# | *#kˌuɾˈɑɾ# | *#kuɾˈɑɾ# {GOLD: #kuɾˈɑɾ#}
+404    | #kˌɑbˈɑllum# | *#kˌɑbˈɑllum# | *#kˌɑbˈɑllo# | *#kˌɑbˈɑʎo# | *#kɑbˈɑʝo# {GOLD: #kɑbˈɑʝo#}
+405    | #kˌɑd̪ˈere# | *#kˌɑd̪ˈere# | *#kˌɑjˈeɾe# | *#kˌɑʝˈeɾ# | *#kɑʝˈeɾ# {GOLD: #kɑˈeɾ#}
+406    | #kˌɑld̪ˈɑːrium# | *#kˌɑl̪d̪ˈɑːrium# | *#kˌɑwd̪ˈɑjɾo# | *#kˌod̪ˈeɾo# | *#kod̪ˈeɾo# {GOLD: #kɑld̪ˈeɾo#}
+407    | #kˌɑllˈikulɑ# | *#kˌɑllˈikulɑ# | *#kˌɑllˈeʎɑ# | *#kˌɑʎˈeʃɑ# | *#kɑʝˈexɑ# {GOLD: #kɑʝˈexɑ#}
+408    | #kˌɑlˈoːrem# | *#kˌɑlˈoːrem# | *#kˌɑlˈoɾe# | *#kˌɑlˈoɾ# | *#kɑlˈoɾ# {GOLD: #kɑlˈoɾ#}
+409    | #kˌɑmpsˈɑːre# | *#kˌɑːmpsˈɑːre# | *#kˌɑmssˈɑɾe# | *#kˌɑmsˈɑɾ# | *#kɑmsˈɑɾ# {GOLD: #kɑn̪sˈɑɾ#}
+410    | #kˌɑn̪n̪ˈiːkium# | *#kˌɑn̪n̪ˈiːkium# | *#kˌɑn̪n̪ˈid͡zo# | *#kˌɑɲˈis̪o# | *#kɑɲˈiθo# {GOLD: #kɑɲˈiθo#}
+411    | #kˌɑn̪ˈit̪iɑm# | *#kˌɑn̪ˈit̪iɑm# | *#kˌɑn̪ˈed͡zɑ# | *#kˌɑn̪ˈes̪ɑ# | *#kɑn̪ˈeθɑ# {GOLD: #kɑn̪ˈeθɑ#}
+412    | #kˌɑpillɑt̪ˈuːrɑ# | *#kˌɑpillɑt̪ˈuːrɑ# | *#kˌɑbellɑd̪ˈuɾɑ# | *#kˌɑbeʎɑd̪ˈuɾɑ# | *#kɑbeʝɑd̪ˈuɾɑ# {GOLD: #kɑbeʝɑd̪ˈuɾɑ#}
+413    | #kˌɑpit̪ˈellum# | *#kˌɑpit̪ˈellum# | *#kˌɑbed̪jˈello# | *#kˌɑwd̪ˈiʎo# | *#kɑwd̪ˈiʝo# {GOLD: #kɑwd̪ˈiʝo#}
+414    | #kˌɑpit̪ˈɑːlem# | *#kˌɑpit̪ˈɑːlem# | *#kˌɑbed̪ˈɑle# | *#kˌɑwd̪ˈɑl# | *#kɑwd̪ˈɑl# {GOLD: #kɑwd̪ˈɑl#}
+415    | #kˌɑppˈellɑ# | *#kˌɑppˈellɑ# | *#kˌɑppjˈellɑ# | *#kˌɑpˈiʎɑ# | *#kɑpˈiʝɑ# {GOLD: #kɑpˈiʝɑ#}
+416    | #kˌɑprˈɑːrium# | *#kˌɑprˈɑːrium# | *#kˌɑbɾˈɑjɾo# | *#kˌɑbɾˈeɾo# | *#kɑbɾˈeɾo# {GOLD: #kɑbɾˈeɾo#}
+417    | #kˌɑpsˈeolɑ# | *#kˌɑpsˈeolɑ# | *#kˌɑssjwˈelɑ# | *#kˌɑʃwˈelɑ# | *#kɑxwˈelɑ# {GOLD: #kɑxwˈelɑ#}
+418    | #kˌɑpt̪iˈɑːre# | *#kˌɑpt̪iˈɑːre# | *#kˌɑt͡st͡sˈɑɾe# | *#kˌɑs̪ˈɑɾ# | *#kɑθˈɑɾ# {GOLD: #kɑθˈɑɾ#}
+419    | #kˌɑpt̪ˈɑːre# | *#kˌɑpt̪ˈɑːre# | *#kˌɑt̪t̪ˈɑɾe# | *#kˌɑt̪ˈɑɾ# | *#kɑt̪ˈɑɾ# {GOLD: #kɑt̪ˈɑɾ#}
+420    | #kˌɑpˈillum# | *#kˌɑpˈillum# | *#kˌɑbˈello# | *#kˌɑbˈeʎo# | *#kɑbˈeʝo# {GOLD: #kɑbˈeʝo#}
+421    | #kˌɑpˈist̪rum# | *#kˌɑpˈist̪rum# | *#kˌɑbˈes̪t̪ɾo# | *#kˌɑbˈest̪ɾo# | *#kɑbˈest̪ɾo# {GOLD: #kɑbˈest̪ɾo#}
+422    | #kˌɑpˈit̪iɑ# | *#kˌɑpˈit̪iɑ# | *#kˌɑbˈed͡zɑ# | *#kˌɑbˈes̪ɑ# | *#kɑbˈeθɑ# {GOLD: #kɑbˈeθɑ#}
+423    | #kˌɑpˈit̪ulum# | *#kˌɑpˈit̪ulum# | *#kˌɑbˈed̪lo# | *#kˌɑbˈeld̪o# | *#kɑbˈeld̪o# {GOLD: #kɑbˈild̪o#}
+424    | #kˌɑpˈɑn̪n̪ɑm# | *#kˌɑpˈɑn̪n̪ɑm# | *#kˌɑbˈɑn̪n̪ɑ# | *#kˌɑbˈɑɲɑ# | *#kɑbˈɑɲɑ# {GOLD: #kɑbˈɑɲɑ#}
+425    | #kˌɑrbˈoːn̪em# | *#kˌɑrbˈoːn̪em# | *#kˌɑɾbˈon̪e# | *#kˌɑɾbˈon̪# | *#kɑɾbˈon̪# {GOLD: #kɑɾbˈon̪#}
+426    | #kˌɑrn̪ˈiːkeɑ# | *#kˌɑrn̪ˈiːkeɑ# | *#kˌɑɾn̪ˈid͡zɑ# | *#kˌɑɾn̪ˈis̪ɑ# | *#kɑɾn̪ˈiθɑ# {GOLD: #kɑɾn̪ˈiθɑ#}
+427    | #kˌɑrrikˈɑːre# | *#kˌɑrrikˈɑːre# | *#kˌɑreɡˈɑɾe# | *#kˌɑrɡˈɑɾ# | *#kɑrɡˈɑɾ# {GOLD: #kɑɾɡˈɑɾ#}
+428    | #kˌɑseˈɑːrium# | *#kˌɑseˈɑːrium# | *#kˌɑjzˈɑjɾo# | *#kˌesˈeɾo# | *#kesˈeɾo# {GOLD: #kesˈeɾo#}
+429    | #kˌɑst̪ˈellum# | *#kˌɑst̪ˈellum# | *#kˌɑs̪t̪jˈello# | *#kˌɑst̪ˈiʎo# | *#kɑst̪ˈiʝo# {GOLD: #kɑst̪ˈiʝo#}
+430    | #kˌɑst̪ˈiːkeum# | *#kˌɑst̪ˈiːkeum# | *#kˌɑs̪t̪ˈid͡zo# | *#kˌɑst̪ˈis̪o# | *#kɑst̪ˈiθo# {GOLD: #kɑst̪ˈiθo#}
+431    | #kˌɑst̪ˈɑn̪eɑ# | *#kˌɑst̪ˈɑn̪eɑ# | *#kˌɑs̪t̪ˈɑɲɑ# | *#kˌɑst̪ˈɑɲɑ# | *#kɑst̪ˈɑɲɑ# {GOLD: #kɑst̪ˈɑɲɑ#}
+432    | #kˌɑsˈɑːrium# | *#kˌɑsˈɑːrium# | *#kˌɑzˈɑjɾo# | *#kˌɑsˈeɾo# | *#kɑsˈeɾo# {GOLD: #kɑsˈeɾo#}
+433    | #kˌɑt̪eːn̪ˈɑːt̪um# | *#kˌɑt̪eːn̪ˈɑːt̪um# | *#kˌɑd̪en̪ˈɑd̪o# | *#kˌɑn̪d̪ˈɑd̪o# | *#kɑn̪d̪ˈɑd̪o# {GOLD: #kɑn̪d̪ˈɑd̪o#}
+434    | #kˌɑt̪ˈeːn̪ɑm# | *#kˌɑt̪ˈeːn̪ɑm# | *#kˌɑd̪ˈen̪ɑ# | *#kˌɑd̪ˈen̪ɑ# | *#kɑd̪ˈen̪ɑ# {GOLD: #kɑd̪ˈen̪ɑ#}
+435    | #kˌɑːrit̪ˈɑːt̪em# | *#kˌɑːrit̪ˈɑːt̪em# | *#kˌɑɾt̪ˈɑd̪e# | *#kˌɑɾt̪ˈɑd̪# | *#kɑɾt̪ˈɑd̪# {GOLD: #kɑɾid̪ˈɑd̪#}
+436    | #kˌɑːseˈɑːriɑm# | *#kˌɑːseˈɑːriɑm# | *#kˌɑjzˈɑjɾɑ# | *#kˌesˈeɾɑ# | *#kesˈeɾɑ# {GOLD: #kesˈeɾɑ#}
+437    | #kʰˈɑrt̪ɑ# | *#kˈɑrt̪ɑ# | *#kˈɑɾt̪ɑ# | *#kˈɑɾt̪ɑ# | *#kˈɑɾt̪ɑ# {GOLD: #kˈɑɾt̪ɑ#}
+438    | #lˈɑn̪kulɑ# | *#lˈɑŋkulɑ# | *#lˈɑŋkʎɑ# | *#lˈɑŋt͡ʃɑ# | *#lˈɑn̪t͡ʃɑ# {GOLD: #lˈɑn̪t͡ʃɑ#}
+439    | #lˈekt̪um# | *#lˈekt̪um# | *#lˈejt̪o# | *#lˈet͡ʃo# | *#lˈet͡ʃo# {GOLD: #lˈet͡ʃo#}
+440    | #lˈen̪d̪in̪em# | *#lˈen̪d̪in̪em# | *#ljˈen̪d̪en̪e# | *#ljˈen̪d̪en̪# | *#ljˈen̪d̪en̪# {GOLD: #ljˈen̪d̪ɾe#}
+441    | #lˈen̪t̪eum# | *#lˈen̪t̪eum# | *#ljˈen̪t͡so# | *#ljˈen̪s̪o# | *#ljˈen̪θo# {GOLD: #ljˈen̪θo#}
+442    | #lˈeporem# | *#lˈeporem# | *#ljˈebɾe# | *#ljˈebɾe# | *#ljˈebɾe# {GOLD: #ljˈebɾe#}
+443    | #lˈewoː# | *#lˈewoː# | *#ljˈebo# | *#ljˈebo# | *#ljˈebo# {GOLD: #ʝˈebo#}
+444    | #lˈiːbrum# | *#lˈiːbrum# | *#lˈibɾo# | *#lˈibɾo# | *#lˈibɾo# {GOLD: #lˈibɾo#}
+445    | #lˈiksɑm# | *#lˈiksɑm# | *#lˈejsɑ# | *#lˈeʃɑ# | *#lˈexɑ# {GOLD: #lˈixɑ#}
+446    | #lˈimpid̪um# | *#lˈimpid̪um# | *#lˈimpjo# | *#lˈimpjo# | *#lˈimpjo# {GOLD: #lˈimpjo#}
+447    | #lˈin̪ɡwɑm# | *#lˈiŋɡwɑm# | *#lˈeŋɡʷɑ# | *#lˈeŋɡʷɑ# | *#lˈen̪ɡʷɑ# {GOLD: #lˈen̪ɡʷɑ#}
+448    | #lˈit̪t̪erɑm# | *#lˈit̪t̪erɑm# | *#lˈet̪t̪ɾɑ# | *#lˈet̪ɾɑ# | *#lˈet̪ɾɑ# {GOLD: #lˈet̪ɾɑ#}
+449    | #lˈiɡn̪um# | *#lˈiɡn̪um# | *#lˈeɲo# | *#lˈeɲo# | *#lˈeɲo# {GOLD: #lˈeɲo#}
+450    | #lˈiɡn̪ɑ# | *#lˈiɡn̪ɑ# | *#lˈeɲɑ# | *#lˈeɲɑ# | *#lˈeɲɑ# {GOLD: #lˈeɲɑ#}
+451    | #lˈiːmɑ# | *#lˈiːmɑ# | *#lˈimɑ# | *#lˈimɑ# | *#lˈimɑ# {GOLD: #lˈimɑ#}
+452    | #lˈiːn̪um# | *#lˈiːn̪um# | *#lˈin̪o# | *#lˈin̪o# | *#lˈin̪o# {GOLD: #lˈin̪o#}
+453    | #lˈiːt̪em# | *#lˈiːt̪em# | *#lˈid̪e# | *#lˈid̪# | *#lˈid̪# {GOLD: #lˈid̪#}
+454    | #lˈokum# | *#lˈokum# | *#lwˈeɡo# | *#lwˈeɡo# | *#lwˈeɡo# {GOLD: #lwˈeɡo#}
+455    | #lˈon̪ɡum# | *#lˈoŋɡum# | *#lwˈeŋɡo# | *#lwˈeŋɡo# | *#lwˈen̪ɡo# {GOLD: #lwˈen̪ɡo#}
+456    | #lˈukrum# | *#lˈukrum# | *#lˈojɾo# | *#lwˈeɾo# | *#lwˈeɾo# {GOLD: #lˈoɡɾo#}
+457    | #lˈuːksum# | *#lˈuːksum# | *#lˈujso# | *#lˈuʃo# | *#lˈuxo# {GOLD: #lˈuxo#}
+458    | #lˈukt̪ɑm# | *#lˈukt̪ɑm# | *#lˈujt̪ɑ# | *#lˈut͡ʃɑ# | *#lˈut͡ʃɑ# {GOLD: #lˈut͡ʃɑ#}
+459    | #lˈumbum# | *#lˈumbum# | *#lˈombo# | *#lˈombo# | *#lˈombo# {GOLD: #lˈomo#}
+460    | #lˈupum# | *#lˈupum# | *#lˈobo# | *#lˈobo# | *#lˈobo# {GOLD: #lˈobo#}
+461    | #lˈut̪um# | *#lˈut̪um# | *#lˈod̪o# | *#lˈod̪o# | *#lˈod̪o# {GOLD: #lˈod̪o#}
+462    | #lˈuːkem# | *#lˈuːkem# | *#lˈud͡ze# | *#lˈus̪# | *#lˈuθ# {GOLD: #lˈuθ#}
+463    | #lˈuːkid̪um# | *#lˈuːkid̪um# | *#lˈud͡zjo# | *#lˈus̪jo# | *#lˈuθjo# {GOLD: #lˈuθjo#}
+464    | #lˈuskid̪um# | *#lˈuskid̪um# | *#lˈust͡sjo# | *#lˈus̪jo# | *#lˈuθjo# {GOLD: #lˈuθjo#}
+465    | #lˈuːkt̪ɑm# | *#lˈuːkt̪ɑm# | *#lˈujt̪ɑ# | *#lˈut͡ʃɑ# | *#lˈut͡ʃɑ# {GOLD: #lˈut͡ʃɑ#}
+466    | #lˈuːmin̪em# | *#lˈuːmin̪em# | *#lˈumen̪e# | *#lˈumbɾe# | *#lˈumbɾe# {GOLD: #lˈumbɾe#}
+467    | #lˈuːn̪ɑm# | *#lˈuːn̪ɑm# | *#lˈun̪ɑ# | *#lˈun̪ɑ# | *#lˈun̪ɑ# {GOLD: #lˈun̪ɑ#}
+468    | #lˈɑbium# | *#lˈɑbium# | *#lˈɑbjo# | *#lˈɑbjo# | *#lˈɑbjo# {GOLD: #lˈɑbjo#}
+469    | #lˌɑˈiːkum# | *#lˌɑˈiːkum# | *#lˌɑˈiɡo# | *#lˌɑˈiɡo# | *#lɑˈiɡo# {GOLD: #lˈeɡo#}
+470    | #lˈɑkrimɑm# | *#lˈɑkrimɑm# | *#lˈɑjɾmɑ# | *#ljˈeɾmɑ# | *#ljˈeɾmɑ# {GOLD: #lˈɑɡɾimɑ#}
+471    | #lˈɑksius# | *#lˈɑksius# | *#lˈɑjsjos# | *#lˈeʃos# | *#lˈexos# {GOLD: #lˈexos#}
+472    | #lˈɑksoːs# | *#lˈɑksoːs# | *#lˈɑjsos# | *#lˈeʃos# | *#lˈexos# {GOLD: #lˈexos#}
+473    | #lˈɑkt̪em# | *#lˈɑkt̪em# | *#lˈɑjt̪e# | *#lˈet͡ʃe# | *#lˈet͡ʃe# {GOLD: #lˈet͡ʃe#}
+474    | #lˈɑkum# | *#lˈɑkum# | *#lˈɑɡo# | *#lˈɑɡo# | *#lˈɑɡo# {GOLD: #lˈɑɡo#}
+475    | #lˈɑkweum# | *#lˈɑkweum# | *#lˈɑjkʷo# | *#lˈekʷo# | *#lˈekʷo# {GOLD: #lˈɑθo#}
+476    | #lˈɑmboː# | *#lˈɑmboː# | *#lˈɑmbo# | *#lˈɑmbo# | *#lˈɑmbo# {GOLD: #lˈɑmo#}
+477    | #lˈɑn̪keɑm# | *#lˈɑŋkeɑm# | *#lˈɑŋt͡sɑ# | *#lˈɑŋs̪ɑ# | *#lˈɑn̪θɑ# {GOLD: #lˈɑn̪θɑ#}
+478    | #lˈɑrɡum# | *#lˈɑrɡum# | *#lˈɑɾɡo# | *#lˈɑɾɡo# | *#lˈɑɾɡo# {GOLD: #lˈɑɾɡo#}
+479    | #lˈɑt̪um# | *#lˈɑt̪um# | *#lˈɑd̪o# | *#lˈɑd̪o# | *#lˈɑd̪o# {GOLD: #lˈɑd̪o#}
+480    | #lˈɑwsiɑm# | *#lˈɑwsiɑm# | *#lˈɑwzjɑ# | *#lˈusjɑ# | *#lˈusjɑ# {GOLD: #lˈosɑ#}
+481    | #lˈɑwt̪iɑm# | *#lˈɑwt̪iɑm# | *#lˈɑwt͡sɑ# | *#lˈos̪ɑ# | *#lˈoθɑ# {GOLD: #lˈoθɑ#}
+482    | #lˌae̯siˈoːn̪em# | *#lˌae̯siˈoːn̪em# | *#lˌejzˈon̪e# | *#lˌesˈon̪# | *#lesˈon̪# {GOLD: #lesjˈon̪#}
+483    | #lˌemikˈɑn̪eɑ# | *#lˌemikˈɑn̪eɑ# | *#lˌemeɡˈɑɲɑ# | *#lˌeɡʷˈɑɲɑ# | *#leɡʷˈɑɲɑ# {GOLD: #leɡˈɑɲɑ#}
+484    | #lˌen̪t̪ˈikulɑ# | *#lˌen̪t̪ˈikulɑ# | *#lˌen̪t̪ˈeʎɑ# | *#lˌen̪t̪ˈeʃɑ# | *#len̪t̪ˈexɑ# {GOLD: #len̪t̪ˈexɑ#}
+485    | #lˌeɡˈen̪d̪ɑm# | *#lˌeɡˈen̪d̪ɑm# | *#ljˈen̪d̪ɑ# | *#ljˈen̪d̪ɑ# | *#ljˈen̪d̪ɑ# {GOLD: #leʝˈen̪d̪ɑ#}
+486    | #lˌeɡˈuːmin̪em# | *#lˌeɡˈuːmin̪em# | *#lˌeɡˈumen̪e# | *#lˌeɡˈumbɾe# | *#leɡˈumbɾe# {GOLD: #leɡˈumbɾe#}
+487    | #lˈeːɡem# | *#lˈeːɡem# | *#lˈej# | *#lˈej# | *#lˈej# {GOLD: #lˈej#}
+488    | #lˌeːɡˈit̪imum# | *#lˌeːɡˈit̪imum# | *#lˌeˈid̪emo# | *#lˌeˈimd̪o# | *#leˈimd̪o# {GOLD: #lˈin̪d̪o#}
+489    | #lˌiːbert̪ˈɑːt̪em# | *#lˌiːbert̪ˈɑːt̪em# | *#lˌibɾt̪ˈɑd̪e# | *#lˌibɾt̪ˈɑd̪# | *#libɾt̪ˈɑd̪# {GOLD: #libeɾt̪ˈɑd̪#}
+490    | #lˌiksˈiːwɑ# | *#lˌiksˈiːwɑ# | *#lˌijsˈiɑ# | *#lˌeʃˈiɑ# | *#lexˈiɑ# {GOLD: #lexˈiɑ#}
+491    | #lˌit̪t̪erˈɑːt̪um# | *#lˌit̪t̪erˈɑːt̪um# | *#lˌet̪t̪ɾˈɑd̪o# | *#lˌet̪ɾˈɑd̪o# | *#let̪ɾˈɑd̪o# {GOLD: #let̪ɾˈɑd̪o#}
+492    | #lˌiɡˈɑːre# | *#lˌiɡˈɑːre# | *#lˌiˈɑɾe# | *#lˌiˈɑɾ# | *#liˈɑɾ# {GOLD: #liˈɑɾ#}
+493    | #lˌiːmit̪ˈɑːre# | *#lˌiːmit̪ˈɑːre# | *#lˌimed̪ˈɑɾe# | *#lˌin̪d̪ˈɑɾ# | *#lin̪d̪ˈɑɾ# {GOLD: #lin̪d̪ˈɑɾ#}
+494    | #lˌiːt̪iɡˈɑːre# | *#lˌiːt̪iɡˈɑːre# | *#lˌid̪jˈɑɾe# | *#lˌid̪jˈɑɾ# | *#lid̪jˈɑɾ# {GOLD: #lid̪jˈɑɾ#}
+495    | #lˌokˈellum# | *#lˌokˈellum# | *#lˌod͡zjˈello# | *#lˌus̪ˈiʎo# | *#luθˈiʝo# {GOLD: #luθˈiʝo#}
+496    | #lˌokˈɑːlem# | *#lˌokˈɑːlem# | *#lˌoɡˈɑle# | *#lˌoɡˈɑl# | *#loɡˈɑl# {GOLD: #luɡˈɑɾ#}
+497    | #lˌukrˈɑːri# | *#lˌukrˈɑːri# | *#lˌojɾˈɑɾe# | *#lwˌeɾˈɑɾ# | *#lweɾˈɑɾ# {GOLD: #loɡɾˈɑɾ#}
+498    | #lˌumbrˈiːkem# | *#lˌumbrˈiːkem# | *#lˌombɾˈid͡ze# | *#lˌombɾˈis̪# | *#lombɾˈiθ# {GOLD: #lombɾˈiθ#}
+499    | #lˌɑkt̪ˈuːkɑm# | *#lˌɑkt̪ˈuːkɑm# | *#lˌɑjt̪ˈuɡɑ# | *#lˌet͡ʃˈuɡɑ# | *#let͡ʃˈuɡɑ# {GOLD: #let͡ʃˈuɡɑ#}
+500    | #lˌɑkweˈɑːre# | *#lˌɑkweˈɑːre# | *#lˌɑjkʷˈɑɾe# | *#lˌekʷˈɑɾ# | *#lekʷˈɑɾ# {GOLD: #lɑθˈɑɾ#}
+501    | #kˌɑlˈumn̪iɑ# | *#kˌɑlˈun̪n̪iɑ# | *#kˌɑlˈuɲɲɑ# | *#kˌɑlˈuɲɑ# | *#kɑlˈuɲɑ# {GOLD: #kɑlˈoɲɑ#}
+502    | #lˌɑt̪erˈellum# | *#lˌɑt̪erˈellum# | *#lˌɑd̪ɾjˈello# | *#lˌɑd̪ɾˈiʎo# | *#lɑd̪ɾˈiʝo# {GOLD: #lɑd̪ɾˈiʝo#}
+503    | #lˌɑt̪rˈoːn̪em# | *#lˌɑt̪rˈoːn̪em# | *#lˌɑd̪ɾˈon̪e# | *#lˌɑd̪ɾˈon̪# | *#lɑd̪ɾˈon̪# {GOLD: #lɑd̪ɾˈon̪#}
+504    | #lˌɑt̪ˈiːn̪um# | *#lˌɑt̪ˈiːn̪um# | *#lˌɑd̪ˈin̪o# | *#lˌɑd̪ˈin̪o# | *#lɑd̪ˈin̪o# {GOLD: #lɑd̪ˈin̪o#}
+505    | #lˌɑwd̪ˈɑːre# | *#lˌɑwd̪ˈɑːre# | *#lˌɑwˈɑɾe# | *#lˌoˈɑɾ# | *#loˈɑɾ# {GOLD: #loˈɑɾ#}
+506    | #lˌɑːt̪rˈɑːre# | *#lˌɑːt̪rˈɑːre# | *#lˌɑd̪ɾˈɑɾe# | *#lˌɑd̪ɾˈɑɾ# | *#lɑd̪ɾˈɑɾ# {GOLD: #lɑd̪ɾˈɑɾ#}
+507    | #mˌɑt̪ˈɑksɑ# | *#mˌɑt̪ˈɑksɑ# | *#mˌɑd̪ˈɑjsɑ# | *#mˌɑd̪ˈeʃɑ# | *#mɑd̪ˈexɑ# {GOLD: #mɑd̪ˈexɑ#}
+508    | #mˈel# | *#mˈel# | *#mjˈel# | *#mjˈel# | *#mjˈel# {GOLD: #mjˈel#}
+509    | #mˌeliˈoːrem# | *#mˌeliˈoːrem# | *#mˌeʎˈoɾe# | *#mˌeʃˈoɾ# | *#mexˈoɾ# {GOLD: #mexˈoɾ#}
+510    | #mˈembrum# | *#mˈembrum# | *#mjˈembɾo# | *#mjˈembɾo# | *#mjˈembɾo# {GOLD: #mjˈembɾo#}
+511    | #mˈeːn̪sem# | *#mˈeːnsem# | *#mˈeze# | *#mˈes# | *#mˈes# {GOLD: #mˈes#}
+512    | #mˈeːn̪sɑm# | *#mˈeːnsɑm# | *#mˈezɑ# | *#mˈesɑ# | *#mˈesɑ# {GOLD: #mˈesɑ#}
+513    | #mˈen̪t̪em# | *#mˈen̪t̪em# | *#mjˈen̪t̪e# | *#mjˈen̪t̪e# | *#mjˈen̪t̪e# {GOLD: #mˈen̪t̪e#}
+514    | #mˈerd̪ɑ# | *#mˈerd̪ɑ# | *#mjˈeɾd̪ɑ# | *#mjˈeɾd̪ɑ# | *#mjˈeɾd̪ɑ# {GOLD: #mjˈeɾd̪ɑ#}
+515    | #mˈerulum# | *#mˈerulum# | *#mjˈeɾlo# | *#mjˈeɾlo# | *#mjˈeɾlo# {GOLD: #mˈiɾlo#}
+516    | #mˈessem# | *#mˈessem# | *#mjˈesse# | *#mjˈes# | *#mjˈes# {GOLD: #mjˈes#}
+517    | #mˈet̪um# | *#mˈet̪um# | *#mjˈed̪o# | *#mjˈed̪o# | *#mjˈed̪o# {GOLD: #mjˈed̪o#}
+518    | #mˈeus# | *#mˈeus# | *#mjˈos# | *#mjˈos# | *#mjˈos# {GOLD: #mˈios#}
+519    | #mˈihi# | *#mˈii# | *#mjˈe# | *#mjˈe# | *#mjˈe# {GOLD: #mˈi#}
+520    | #mˈilium# | *#mˈilium# | *#mˈeʎo# | *#mˈeʃo# | *#mˈexo# {GOLD: #mˈixo#}
+521    | #mˈin̪us# | *#mˈin̪us# | *#mˈen̪os# | *#mˈen̪os# | *#mˈen̪os# {GOLD: #mˈen̪os#}
+522    | #mˈiːkɑm# | *#mˈiːkɑm# | *#mˈiɡɑ# | *#mˈiɡɑ# | *#mˈiɡɑ# {GOLD: #mˈiɡɑ#}
+523    | #mˈiːlle# | *#mˈiːlle# | *#mˈille# | *#mˈiʎe# | *#mˈiʝe# {GOLD: #mˈil#}
+524    | #mˈobilem# | *#mˈobilem# | *#mwˈebʎe# | *#mwˈeble# | *#mwˈeble# {GOLD: #mwˈeble#}
+525    | #mˈod̪ium# | *#mˈod̪ium# | *#mˈoʝo# | *#mˈoʝo# | *#mˈoʝo# {GOLD: #mˈoʝo#}
+526    | #mˈollem# | *#mˈollem# | *#mwˈelle# | *#mwˈeʎe# | *#mwˈeʝe# {GOLD: #mwˈeʝe#}
+527    | #mˈolɑ# | *#mˈolɑ# | *#mwˈelɑ# | *#mwˈelɑ# | *#mwˈelɑ# {GOLD: #mwˈelɑ#}
+528    | #mˈon̪t̪em# | *#mˈon̪t̪em# | *#mwˈen̪t̪e# | *#mwˈen̪t̪e# | *#mwˈen̪t̪e# {GOLD: #mˈon̪t̪e#}
+529    | #mˈorsum# | *#mˈorsum# | *#mwˈesso# | *#mwˈeso# | *#mwˈeso# {GOLD: #mwˈeso#}
+530    | #mˈort̪em# | *#mˈort̪em# | *#mwˈeɾt̪e# | *#mwˈeɾt̪e# | *#mwˈeɾt̪e# {GOLD: #mwˈeɾt̪e#}
+531    | #mˈort̪uːm# | *#mˈort̪uːm# | *#mwˈeɾt̪u# | *#mwˈeɾt̪o# | *#mwˈeɾt̪o# {GOLD: #mwˈeɾt̪o#}
+532    | #mˈukkum# | *#mˈukkum# | *#mˈokko# | *#mˈoko# | *#mˈoko# {GOLD: #mˈoko#}
+533    | #mˈult̪um# | *#mˈul̪t̪um# | *#mˈujt̪o# | *#mˈut͡ʃo# | *#mˈut͡ʃo# {GOLD: #mˈut͡ʃo#}
+534    | #mˈun̪d̪um# | *#mˈun̪d̪um# | *#mˈon̪d̪o# | *#mˈon̪d̪o# | *#mˈon̪d̪o# {GOLD: #mˈon̪d̪o#}
+535    | #mˈuriɑm# | *#mˈuriɑm# | *#mˈojɾɑ# | *#mwˈeɾɑ# | *#mwˈeɾɑ# {GOLD: #mwˈeɾɑ#}
+536    | #mˈust̪eum# | *#mˈust̪eum# | *#mˈos̪t͡so# | *#mˈos̪o# | *#mˈoθo# {GOLD: #mˈoθo#}
+537    | #mˈust̪id̪um# | *#mˈust̪id̪um# | *#mˈus̪t̪jo# | *#mˈust̪jo# | *#mˈust̪jo# {GOLD: #mˈust̪jo#}
+538    | #mˈust̪um# | *#mˈust̪um# | *#mˈos̪t̪o# | *#mˈost̪o# | *#mˈost̪o# {GOLD: #mˈost̪o#}
+539    | #mˈut̪ilum# | *#mˈut̪ilum# | *#mˈod̪lo# | *#mˈold̪o# | *#mˈold̪o# {GOLD: #mˈot͡ʃo#}
+540    | #mˈut̪ium# | *#mˈut̪ium# | *#mˈod͡zo# | *#mˈos̪o# | *#mˈoθo# {GOLD: #mˈoθo#}
+541    | #mˈuːlɑm# | *#mˈuːlɑm# | *#mˈulɑ# | *#mˈulɑ# | *#mˈulɑ# {GOLD: #mˈulɑ#}
+542    | #mˈuːrum# | *#mˈuːrum# | *#mˈuɾo# | *#mˈuɾo# | *#mˈuɾo# {GOLD: #mˈuɾo#}
+543    | #mˈuːskulum# | *#mˈuːskulum# | *#mˈusklo# | *#mˈut͡ʃo# | *#mˈut͡ʃo# {GOLD: #mˈuslo#}
+544    | #mˈɑium# | *#mˈɑium# | *#mˈɑjo# | *#mˈɑʝo# | *#mˈɑʝo# {GOLD: #mˈɑʝo#}
+545    | #mˈɑkrum# | *#mˈɑkrum# | *#mˈɑjɾo# | *#mˈeɾo# | *#mˈeɾo# {GOLD: #mˈɑɡɾo#}
+546    | #mˈɑlem# | *#mˈɑlem# | *#mˈɑle# | *#mˈɑl# | *#mˈɑl# {GOLD: #mˈɑl#}
+547    | #mˈɑlum# | *#mˈɑlum# | *#mˈɑlo# | *#mˈɑlo# | *#mˈɑlo# {GOLD: #mˈɑlo#}
+548    | #mˈɑn̪ikɑm# | *#mˈɑn̪ikɑm# | *#mˈɑn̪eɡɑ# | *#mˈɑn̪ɡɑ# | *#mˈɑn̪ɡɑ# {GOLD: #mˈɑn̪ɡɑ#}
+549    | #mˈɑn̪iɑ# | *#mˈɑn̪iɑ# | *#mˈɑɲɑ# | *#mˈɑɲɑ# | *#mˈɑɲɑ# {GOLD: #mˈɑɲɑ#}
+550    | #mˈɑn̪kulɑ# | *#mˈɑŋkulɑ# | *#mˈɑŋkʎɑ# | *#mˈɑŋt͡ʃɑ# | *#mˈɑn̪t͡ʃɑ# {GOLD: #mˈɑn̪t͡ʃɑ#}
+551    | #mˈɑn̪kum# | *#mˈɑŋkum# | *#mˈɑŋko# | *#mˈɑŋko# | *#mˈɑn̪ko# {GOLD: #mˈɑn̪ko#}
+552    | #mˌɑn̪sioːn̪ˈɑːt̪ɑm# | *#mˌɑːnsioːn̪ˈɑːt̪ɑm# | *#mˌɑjzon̪ˈɑd̪ɑ# | *#mjˌesn̪ˈɑd̪ɑ# | *#mjesn̪ˈɑd̪ɑ# {GOLD: #mesn̪ˈɑd̪ɑ#}
+553    | #mˈɑn̪um# | *#mˈɑn̪um# | *#mˈɑn̪o# | *#mˈɑn̪o# | *#mˈɑn̪o# {GOLD: #mˈɑn̪o#}
+554    | #mˈɑn̪uːs# | *#mˈɑn̪uːs# | *#mˈɑn̪us# | *#mˈɑn̪us# | *#mˈɑn̪us# {GOLD: #mˈɑn̪os#}
+555    | #mˈɑppɑ# | *#mˈɑppɑ# | *#mˈɑppɑ# | *#mˈɑpɑ# | *#mˈɑpɑ# {GOLD: #mˈɑpɑ#}
+556    | #mˈɑrem# | *#mˈɑrem# | *#mˈɑɾe# | *#mˈɑɾ# | *#mˈɑɾ# {GOLD: #mˈɑɾ#}
+557    | #mˈɑrmor# | *#mˈɑrmor# | *#mˈɑɾmoɾ# | *#mˈɑɾmoɾ# | *#mˈɑɾmoɾ# {GOLD: #mˈɑɾmol#}
+558    | #mˈɑrt̪is# | *#mˈɑrt̪is# | *#mˈɑɾt̪es# | *#mˈɑɾt̪es# | *#mˈɑɾt̪es# {GOLD: #mˈɑɾt̪es#}
+559    | #mˈɑskulum# | *#mˈɑskulum# | *#mˈɑsklo# | *#mˈɑt͡ʃo# | *#mˈɑt͡ʃo# {GOLD: #mˈɑt͡ʃo#}
+560    | #mˈɑwrum# | *#mˈɑwrum# | *#mˈɑwɾo# | *#mˈoɾo# | *#mˈoɾo# {GOLD: #mˈoɾo#}
+561    | #mˈɑɡikum# | *#mˈɑɡikum# | *#mˈɑjɡo# | *#mˈeɡo# | *#mˈeɡo# {GOLD: #mˈeɡo#}
+562    | #mˈɑɡis# | *#mˈɑɡis# | *#mˈɑjs# | *#mˈeʃ# | *#mˈex# {GOLD: #mˈɑs#}
+563    | #mˈɑːrt̪ium# | *#mˈɑːrt̪ium# | *#mˈɑɾt͡so# | *#mˈɑɾs̪o# | *#mˈɑɾθo# {GOLD: #mˈɑɾθo#}
+564    | #mˈɑːt̪rem# | *#mˈɑːt̪rem# | *#mˈɑd̪ɾe# | *#mˈɑd̪ɾe# | *#mˈɑd̪ɾe# {GOLD: #mˈɑd̪ɾe#}
+565    | #mˌed̪iˈɑːliɑ# | *#mˌed̪iˈɑːliɑ# | *#mˌiˈɑʎɑ# | *#mˌiˈɑʃɑ# | *#miˈɑxɑ# {GOLD: #meˈɑxɑ#}
+566    | #mˌeiˈɑːre# | *#mˌeiˈɑːre# | *#mˌiˈɑɾe# | *#mˌiˈɑɾ# | *#miˈɑɾ# {GOLD: #meˈɑɾ#}
+567    | #mˌelˈoːn̪em# | *#mˌelˈoːn̪em# | *#mˌelˈon̪e# | *#mˌelˈon̪# | *#melˈon̪# {GOLD: #melˈon̪#}
+568    | #mˌemorˈɑːre# | *#mˌemorˈɑːre# | *#mˌemɾˈɑɾe# | *#mˌembɾˈɑɾ# | *#membɾˈɑɾ# {GOLD: #membɾˈɑɾ#}
+569    | #mˌikst̪ˈiːkium# | *#mˌikst̪ˈiːkium# | *#mˌes̪t̪ˈid͡zo# | *#mˌest̪ˈis̪o# | *#mest̪ˈiθo# {GOLD: #mest̪ˈiθo#}
+570    | #mˌin̪imˈɑːre# | *#mˌin̪imˈɑːre# | *#mˌen̪emˈɑɾe# | *#mˌen̪mˈɑɾ# | *#men̪mˈɑɾ# {GOLD: #meɾmˈɑɾ#}
+571    | #mˌin̪ˈuːt̪um# | *#mˌin̪ˈuːt̪um# | *#mˌen̪ˈud̪o# | *#mˌen̪ˈud̪o# | *#men̪ˈud̪o# {GOLD: #men̪ˈud̪o#}
+572    | #mˌin̪ˈɑkiɑ# | *#mˌin̪ˈɑkiɑ# | *#mˌen̪ˈɑd͡zɑ# | *#mˌen̪ˈɑs̪ɑ# | *#men̪ˈɑθɑ# {GOLD: #men̪ˈɑθɑ#}
+573    | #mˌiskˈeːre# | *#mˌiskˈeːre# | *#mˌest͡sˈeɾe# | *#mˌes̪ˈeɾ# | *#meθˈeɾ# {GOLD: #meθˈeɾ#}
+574    | #mˌiːrˈɑkulum# | *#mˌiːrˈɑkulum# | *#mˌiɾˈɑʎo# | *#mˌiɾˈɑʃo# | *#miɾˈɑxo# {GOLD: #milˈɑɡɾo#}
+575    | #mˌolliˈɑːre# | *#mˌolliˈɑːre# | *#mˌolʎˈɑɾe# | *#mˌollˈɑɾ# | *#mollˈɑɾ# {GOLD: #moxˈɑɾ#}
+576    | #mˌollˈiːre# | *#mˌollˈiːre# | *#mˌollˈiɾe# | *#mˌoʎˈiɾ# | *#moʝˈiɾ# {GOLD: #muʝˈiɾ#}
+577    | #mˌolˈiːn̪um# | *#mˌolˈiːn̪um# | *#mˌolˈin̪o# | *#mˌolˈin̪o# | *#molˈin̪o# {GOLD: #molˈin̪o#}
+578    | #mˌon̪ˈeːt̪ɑ# | *#mˌon̪ˈeːt̪ɑ# | *#mˌon̪ˈed̪ɑ# | *#mˌon̪ˈed̪ɑ# | *#mon̪ˈed̪ɑ# {GOLD: #mon̪ˈed̪ɑ#}
+579    | #mˌorsikˈɑːre# | *#mˌorsikˈɑːre# | *#mˌosseɡˈɑɾe# | *#mˌoskˈɑɾ# | *#moskˈɑɾ# {GOLD: #moskˈɑɾ#}
+580    | #mˌort̪uˈɑliɑm# | *#mˌort̪uˈɑliɑm# | *#mˌoɾt̪oˈɑʎɑ# | *#mˌoɾt̪oˈɑʃɑ# | *#moɾt̪oˈɑxɑ# {GOLD: #moɾt̪ˈɑxɑ#}
+581    | #mˌowˈeːbile# | *#mˌowˈeːbile# | *#mˌobˈebʎe# | *#mˌobˈeble# | *#mobˈeble# {GOLD: #mwˈeble#}
+582    | #mˌulˈierem# | *#mˌulˈierem# | *#mˌolˈeɾe# | *#mˌolˈeɾ# | *#molˈeɾ# {GOLD: #muxˈeɾ#}
+583    | #mˌuːt̪ˈɑːre# | *#mˌuːt̪ˈɑːre# | *#mˌud̪ˈɑɾe# | *#mˌud̪ˈɑɾ# | *#mud̪ˈɑɾ# {GOLD: #mud̪ˈɑɾ#}
+584    | #mˌɑioːrˈiːn̪um# | *#mˌɑioːrˈiːn̪um# | *#mˌɑjoɾˈin̪o# | *#mˌɑʝɾˈin̪o# | *#mɑʝɾˈin̪o# {GOLD: #meɾˈin̪o#}
+585    | #mˌɑiˈoːrem# | *#mˌɑiˈoːrem# | *#mˌɑjˈoɾe# | *#mˌɑʝˈoɾ# | *#mɑʝˈoɾ# {GOLD: #mɑʝˈoɾ#}
+586    | #mˌɑkulˈɑːt̪ɑ# | *#mˌɑkulˈɑːt̪ɑ# | *#mˌɑʎˈɑd̪ɑ# | *#mˌɑʃˈɑd̪ɑ# | *#mɑxˈɑd̪ɑ# {GOLD: #mɑxˈɑd̪ɑ#}
+587    | #mˌɑlˈit̪iɑ# | *#mˌɑlˈit̪iɑ# | *#mˌɑlˈed͡zɑ# | *#mˌɑlˈes̪ɑ# | *#mɑlˈeθɑ# {GOLD: #mɑlˈeθɑ#}
+588    | #mˌɑn̪kˈipium# | *#mˌɑŋkˈipium# | *#mˌɑŋt͡sˈejpo# | *#mˌɑŋs̪ˈepo# | *#mɑn̪θˈepo# {GOLD: #mɑn̪θˈebo#}
+589    | #mˌɑn̪siˈoːn̪em# | *#mˌɑːnsiˈoːn̪em# | *#mˌɑjzˈon̪e# | *#mˌesˈon̪# | *#mesˈon̪# {GOLD: #mesˈon̪#}
+590    | #mˌɑrt̪ˈellum# | *#mˌɑrt̪ˈellum# | *#mˌɑɾt̪jˈello# | *#mˌɑɾt̪ˈiʎo# | *#mɑɾt̪ˈiʝo# {GOLD: #mɑɾt̪ˈiʝo#}
+591    | #mˌɑrˈiːt̪um# | *#mˌɑrˈiːt̪um# | *#mˌɑɾˈid̪o# | *#mˌɑɾˈid̪o# | *#mɑɾˈid̪o# {GOLD: #mɑɾˈid̪o#}
+592    | #mˌɑst̪ikˈɑːre# | *#mˌɑst̪ikˈɑːre# | *#mˌɑs̪t̪eɡˈɑɾe# | *#mˌɑsskˈɑɾ# | *#mɑsskˈɑɾ# {GOLD: #mɑskˈɑɾ#}
+593    | #mˌɑt̪t̪iˈɑːn̪ɑ# | *#mˌɑt̪t̪iˈɑːn̪ɑ# | *#mˌɑt͡st͡sˈɑn̪ɑ# | *#mˌɑs̪ˈɑn̪ɑ# | *#mɑθˈɑn̪ɑ# {GOLD: #mɑθˈɑn̪ɑ#}
+594    | #mˌɑt̪ˈeolɑ# | *#mˌɑt̪ˈeolɑ# | *#mˌɑd͡zwˈelɑ# | *#mˌɑs̪wˈelɑ# | *#mɑθwˈelɑ# {GOLD: #mɑθwˈelɑ#}
+595    | #mˌɑt̪ˈeriɑ# | *#mˌɑt̪ˈeriɑ# | *#mˌɑd̪ˈejɾɑ# | *#mˌɑd̪ˈeɾɑ# | *#mɑd̪ˈeɾɑ# {GOLD: #mɑd̪ˈeɾɑ#}
+596    | #mˌɑwrikˈellum# | *#mˌɑwrikˈellum# | *#mˌɑwɾed͡zjˈello# | *#mˌoɾs̪ˈiʎo# | *#moɾθˈiʝo# {GOLD: #moɾθˈiʝo#}
+597    | #mˌɑɡˈist̪rum# | *#mˌɑɡˈist̪rum# | *#mˌɑˈes̪t̪ɾo# | *#mˌɑˈest̪ɾo# | *#mɑˈest̪ɾo# {GOLD: #mɑˈest̪ɾo#}
+598    | #mˌɑːiest̪ˈɑːt̪em# | *#mˌɑːiest̪ˈɑːt̪em# | *#mˌɑjs̪t̪ˈɑd̪e# | *#mjˌest̪ˈɑd̪# | *#mjest̪ˈɑd̪# {GOLD: #mɑxest̪ˈɑd̪#}
+599    | #mˌɑːksˈillɑm# | *#mˌɑːksˈillɑm# | *#mˌɑjsˈellɑ# | *#mˌeʃˈeʎɑ# | *#mexˈeʝɑ# {GOLD: #mexˈiʝɑ#}
+600    | #mˌɑːn̪eˈɑːn̪ɑ# | *#mˌɑːn̪eˈɑːn̪ɑ# | *#mˌɑɲˈɑn̪ɑ# | *#mˌɑɲˈɑn̪ɑ# | *#mɑɲˈɑn̪ɑ# {GOLD: #mɑɲˈɑn̪ɑ#}
+601    | #mˌɑːn̪uˈɑriɑm# | *#mˌɑːn̪uˈɑriɑm# | *#mˌɑn̪oˈɑjɾɑ# | *#mˌɑn̪oˈeɾɑ# | *#mɑn̪oˈeɾɑ# {GOLD: #mɑn̪ˈeɾɑ#}
+602    | #mˌɑːt̪ˈeriɑm# | *#mˌɑːt̪ˈeriɑm# | *#mˌɑd̪ˈejɾɑ# | *#mˌɑd̪ˈeɾɑ# | *#mɑd̪ˈeɾɑ# {GOLD: #mɑd̪ˈeɾɑ#}
+603    | #mˌɑːt̪ˈuːrum# | *#mˌɑːt̪ˈuːrum# | *#mˌɑd̪ˈuɾo# | *#mˌɑd̪ˈuɾo# | *#mɑd̪ˈuɾo# {GOLD: #mɑd̪ˈuɾo#}
+604    | #n̪ˈebulɑ# | *#n̪ˈebulɑ# | *#n̪jˈebʎɑ# | *#n̪jˈeblɑ# | *#n̪jˈeblɑ# {GOLD: #n̪jˈeblɑ#}
+605    | #n̪ˈept̪ɑm# | *#n̪ˈept̪ɑm# | *#n̪jˈet̪t̪ɑ# | *#n̪jˈet̪ɑ# | *#n̪jˈet̪ɑ# {GOLD: #n̪jˈet̪ɑ#}
+606    | #n̪ˈerwium# | *#n̪ˈerwium# | *#n̪ˈeɾbjo# | *#n̪ˈeɾbjo# | *#n̪ˈeɾbjo# {GOLD: #n̪ˈeɾbjo#}
+607    | #n̪ˈespirum# | *#n̪ˈespirum# | *#n̪jˈespɾo# | *#n̪jˈespɾo# | *#n̪jˈespɾo# {GOLD: #n̪ˈispeɾo#}
+608    | #n̪ˈiwem# | *#n̪ˈiwem# | *#n̪ˈebe# | *#n̪ˈebe# | *#n̪ˈebe# {GOLD: #n̪jˈebe#}
+609    | #n̪ˈiɡrum# | *#n̪ˈiɡrum# | *#n̪ˈejɾo# | *#n̪ˈeɾo# | *#n̪ˈeɾo# {GOLD: #n̪ˈeɡɾo#}
+610    | #n̪ˈiːd̪um# | *#n̪ˈiːd̪um# | *#n̪ˈio# | *#n̪ˈio# | *#n̪ˈio# {GOLD: #n̪ˈid̪o#}
+611    | #n̪ˈokt̪e# | *#n̪ˈokt̪e# | *#n̪ˈojt̪e# | *#n̪ˈot͡ʃe# | *#n̪ˈot͡ʃe# {GOLD: #n̪ˈot͡ʃe#}
+612    | #n̪ˈost̪rum# | *#n̪ˈost̪rum# | *#n̪wˈes̪t̪ɾo# | *#n̪wˈest̪ɾo# | *#n̪wˈest̪ɾo# {GOLD: #n̪wˈest̪ɾo#}
+613    | #n̪ˈowem# | *#n̪ˈowem# | *#n̪wˈebe# | *#n̪wˈebe# | *#n̪wˈebe# {GOLD: #n̪wˈebe#}
+614    | #n̪ˌowˈeːn̪um# | *#n̪ˌowˈeːn̪um# | *#n̪ˌobˈen̪o# | *#n̪ˌobˈen̪o# | *#n̪obˈen̪o# {GOLD: #n̪obˈen̪o#}
+615    | #n̪ˈowium# | *#n̪ˈowium# | *#n̪ˈobjo# | *#n̪ˈubjo# | *#n̪ˈubjo# {GOLD: #n̪ˈobjo#}
+616    | #n̪ˈowum# | *#n̪ˈowum# | *#n̪wˈebo# | *#n̪wˈebo# | *#n̪wˈebo# {GOLD: #n̪wˈebo#}
+617    | #n̪ˈoːmin̪e# | *#n̪ˈoːmin̪e# | *#n̪ˈomen̪e# | *#n̪ˈombɾe# | *#n̪ˈombɾe# {GOLD: #n̪ˈombɾe#}
+618    | #n̪ˈumkwɑm# | *#n̪ˈuŋkwɑm# | *#n̪ˈoŋkʷɑ# | *#n̪ˈoŋkʷɑ# | *#n̪ˈon̪kʷɑ# {GOLD: #n̪ˈun̪kɑ#}
+619    | #n̪ˈuːbem# | *#n̪ˈuːbem# | *#n̪ˈube# | *#n̪ˈube# | *#n̪ˈube# {GOLD: #n̪ˈube#}
+620    | #n̪ˈuːd̪o# | *#n̪ˈuːd̪o# | *#n̪ˈuo# | *#n̪ˈuo# | *#n̪ˈuo# {GOLD: #n̪ˈud̪o#}
+621    | #n̪ˈɑːpum# | *#n̪ˈɑːpum# | *#n̪ˈɑbo# | *#n̪ˈɑbo# | *#n̪ˈɑbo# {GOLD: #n̪ˈɑbo#}
+622    | #n̪ˈɑːt̪ɑm# | *#n̪ˈɑːt̪ɑm# | *#n̪ˈɑd̪ɑ# | *#n̪ˈɑd̪ɑ# | *#n̪ˈɑd̪ɑ# {GOLD: #n̪ˈɑd̪ɑ#}
+623    | #n̪ˈɑːwem# | *#n̪ˈɑːwem# | *#n̪ˈɑbe# | *#n̪ˈɑbe# | *#n̪ˈɑbe# {GOLD: #n̪ˈɑbe#}
+624    | #n̪ˌekessit̪ˈɑːt̪em# | *#n̪ˌekessit̪ˈɑːt̪em# | *#n̪ˌed͡zest̪ˈɑd̪e# | *#n̪ˌest̪ˈɑd̪# | *#n̪est̪ˈɑd̪# {GOLD: #n̪eθesid̪ˈɑd̪#}
+625    | #n̪ˌeɡˈɑːre# | *#n̪ˌeɡˈɑːre# | *#n̪ˌeɡˈɑɾe# | *#n̪ˌeɡˈɑɾ# | *#n̪eɡˈɑɾ# {GOLD: #n̪eɡˈɑɾ#}
+626    | #n̪ˌowit̪ˈɑːt̪em# | *#n̪ˌowit̪ˈɑːt̪em# | *#n̪ˌobed̪ˈɑd̪e# | *#n̪ˌod̪ˈɑd̪# | *#n̪od̪ˈɑd̪# {GOLD: #n̪obed̪ˈɑd̪#}
+627    | #n̪ˌowˈɑkulɑm# | *#n̪ˌowˈɑkulɑm# | *#n̪ˌobˈɑʎɑ# | *#n̪ˌobˈɑʃɑ# | *#n̪obˈɑxɑ# {GOLD: #n̪ɑbˈɑxɑ#}
+628    | #n̪ˌoːmin̪ˈɑːre# | *#n̪ˌoːmin̪ˈɑːre# | *#n̪ˌomen̪ˈɑɾe# | *#n̪ˌombɾˈɑɾ# | *#n̪ombɾˈɑɾ# {GOLD: #n̪ombɾˈɑɾ#}
+629    | #pˈet̪t̪iɑ# | *#pˈet̪t̪iɑ# | *#pjˈet͡st͡sɑ# | *#pjˈes̪ɑ# | *#pjˈeθɑ# {GOLD: #pjˈeθɑ#}
+630    | #plˈeːn̪um# | *#plˈeːn̪um# | *#pʎˈen̪o# | *#ʎˈen̪o# | *#ʝˈen̪o# {GOLD: #ʝˈen̪o#}
+631    | #plˈumbum# | *#plˈumbum# | *#plˈombo# | *#lˈombo# | *#lˈombo# {GOLD: #plˈomo#}
+632    | #plˈuwiɑm# | *#plˈuwiɑm# | *#plˈubjɑ# | *#lˈubjɑ# | *#lˈubjɑ# {GOLD: #ʝˈubjɑ#}
+633    | #plˈuːmɑm# | *#plˈuːmɑm# | *#plˈumɑ# | *#lˈumɑ# | *#lˈumɑ# {GOLD: #plˈumɑ#}
+634    | #plˌɑkˈeːre# | *#plˌɑkˈeːre# | *#pʎˌɑd͡zˈeɾe# | *#ʎˌɑs̪ˈeɾ# | *#ʝɑθˈeɾ# {GOLD: #plaθˈer#}
+635    | #plˈɑkeɑt̪# | *#plˈɑkeɑt̪# | *#pʎˈɑd͡zɑ# | *#ʎˈɑs̪ɑ# | *#ʝˈɑθɑ# {GOLD: #plˈeɡɑ#}
+636    | #plˈɑkit̪um# | *#plˈɑkit̪um# | *#pʎˈɑd͡zed̪o# | *#ʎˈɑs̪o# | *#ʝˈɑθo# {GOLD: #plˈɑθo#}
+637    | #plˈɑn̪kt̪um# | *#plˈɑːn̪t̪um# | *#pʎˈɑn̪t̪o# | *#ʎˈɑn̪t̪o# | *#ʝˈɑn̪t̪o# {GOLD: #ʝˈɑn̪t̪o#}
+638    | #plˈɑn̪t̪ɑm# | *#plˈɑn̪t̪ɑm# | *#pʎˈɑn̪t̪ɑ# | *#ʎˈɑn̪t̪ɑ# | *#ʝˈɑn̪t̪ɑ# {GOLD: #ʝˈɑn̪t̪ɑ#}
+639    | #plˈɑn̪um# | *#plˈɑn̪um# | *#pʎˈɑn̪o# | *#ʎˈɑn̪o# | *#ʝˈɑn̪o# {GOLD: #ʝˈɑn̪o#}
+640    | #plˈɑt̪eɑm# | *#plˈɑt̪eɑm# | *#pʎˈɑd͡zɑ# | *#ʎˈɑs̪ɑ# | *#ʝˈɑθɑ# {GOLD: #plˈɑθɑ#}
+641    | #plˈɑɡiɑm# | *#plˈɑɡiɑm# | *#pʎˈɑjɑ# | *#lˈɑʝɑ# | *#lˈɑʝɑ# {GOLD: #plˈɑjɑ#}
+642    | #plˈɑːɡɑm# | *#plˈɑːɡɑm# | *#pʎˈɑɡɑ# | *#ʎˈɑɡɑ# | *#ʝˈɑɡɑ# {GOLD: #ʝˈɑɡɑ#}
+643    | #plˌɑːɡˈɑːre# | *#plˌɑːɡˈɑːre# | *#pʎˌɑɡˈɑɾe# | *#ʎˌɑɡˈɑɾ# | *#ʝɑɡˈɑɾ# {GOLD: #ʝɑɡˈɑr#}
+644    | #plˌɑːn̪ˈit̪iɑ# | *#plˌɑːn̪ˈit̪iɑ# | *#pʎˌɑn̪ˈed͡zɑ# | *#ʎˌɑn̪ˈes̪ɑ# | *#ʝɑn̪ˈeθɑ# {GOLD: #ʝɑn̪ˈeθɑ#}
+645    | #plˈɑt̪t̪um# | *#plˈɑt̪t̪um# | *#pʎˈɑt̪t̪o# | *#ʎˈɑt̪o# | *#ʝˈɑt̪o# {GOLD: #t͡ʃˈɑt̪o#}
+646    | #plˈɑːn̪um# | *#plˈɑːn̪um# | *#pʎˈɑn̪o# | *#ʎˈɑn̪o# | *#ʝˈɑn̪o# {GOLD: #ʝˈɑn̪o#}
+647    | #plˌɑkˈibilem# | *#plˌɑkˈibilem# | *#pʎˌɑd͡zˈebʎe# | *#ʎˌɑs̪ˈeble# | *#ʝɑθˈeble# {GOLD: #plaθˈible#}
+648    | #plˌikˈɑːre# | *#plˌikˈɑːre# | *#pʎˌeɡˈɑɾe# | *#ʎˌeɡˈɑɾ# | *#ʝeɡˈɑɾ# {GOLD: #ʝeɡˈɑɾ#}
+649    | #plˌoːrˈɑːre# | *#plˌoːrˈɑːre# | *#plˌoɾˈɑɾe# | *#lˌoɾˈɑɾ# | *#loɾˈɑɾ# {GOLD: #ʝoɾˈɑɾ#}
+650    | #plˌuːmˈaːkium# | *#plˌuːmˈaːkium# | *#plˌumˈad͡zo# | *#lˌumˈas̪o# | *#lumˈaθo# {GOLD: #ʝumˈaθo#}
+651    | #plˌɑn̪t̪ˈɑːɡin̪em# | *#plˌɑn̪t̪ˈɑːɡin̪em# | *#pʎˌɑn̪t̪ˈɑʝin̪e# | *#ʎˌɑn̪t̪ˈɑʝn̪e# | *#ʝɑn̪t̪ˈɑʝn̪e# {GOLD: #ʝɑn̪t̪ˈen̪#}
+652    | #prˈae̯mium# | *#prˈae̯mium# | *#pɾˈemjo# | *#pɾˈimjo# | *#pɾˈimjo# {GOLD: #pɾˈemjo#}
+653    | #prˈoːmpt̪um# | *#prˈoːn̪t̪um# | *#pɾˈon̪t̪o# | *#pɾˈon̪t̪o# | *#pɾˈon̪t̪o# {GOLD: #pɾˈon̪t̪o#}
+654    | #prˈɑːt̪um# | *#prˈɑːt̪um# | *#pɾˈɑd̪o# | *#pɾˈɑd̪o# | *#pɾˈɑd̪o# {GOLD: #pɾˈɑd̪o#}
+655    | #prˌae̯kˈoːn̪em# | *#prˌae̯kˈoːn̪em# | *#pɾˌeɡˈon̪e# | *#pɾˌeɡˈon̪# | *#pɾeɡˈon̪# {GOLD: #pɾeɡˈon̪#}
+656    | #prˌehˈen̪sum# | *#prˌeˈeːnsum# | *#pɾˈezo# | *#pɾˈeso# | *#pɾˈeso# {GOLD: #pɾˈeso#}
+657    | #prˌiːmˈɑːrium# | *#prˌiːmˈɑːrium# | *#pɾˌimˈɑjɾo# | *#pɾˌimˈeɾo# | *#pɾimˈeɾo# {GOLD: #pɾimˈeɾo#}
+658    | #prˌiːmˈɑt̪ikum# | *#prˌiːmˈɑt̪ikum# | *#pɾˌimˈɑd̪eɡo# | *#pɾˌimˈɑzɡo# | *#pɾimˈɑzɡo# {GOLD: #pɾimˈɑθɡo#}
+659    | #prˌoːfˈekt̪um# | *#prˌoːfˈekt̪um# | *#pɾˌovˈejt̪o# | *#pɾˌobˈet͡ʃo# | *#pɾobˈet͡ʃo# {GOLD: #pɾobˈet͡ʃo#}
+660    | #pˈed̪em# | *#pˈed̪em# | *#pjˈee# | *#pjˈe# | *#pjˈe# {GOLD: #pjˈe#}
+661    | #pˈekt̪um# | *#pˈekt̪um# | *#pˈejt̪o# | *#pˈet͡ʃo# | *#pˈet͡ʃo# {GOLD: #pˈet͡ʃo#}
+662    | #pˈellem# | *#pˈellem# | *#pjˈelle# | *#pˈiʎe# | *#pˈiʝe# {GOLD: #pjˈel#}
+663    | #pˈen̪sum# | *#pˈeːnsum# | *#pˈezo# | *#pˈeso# | *#pˈeso# {GOLD: #pjˈen̪so#}
+664    | #pˈerd̪it̪ɑm# | *#pˈerd̪it̪ɑm# | *#pjˈeɾd̪ed̪ɑ# | *#pjˈeɾd̪ed̪ɑ# | *#pjˈeɾd̪ed̪ɑ# {GOLD: #pjˈeɾd̪ɑ#}
+665    | #pˈern̪ɑm# | *#pˈern̪ɑm# | *#pjˈeɾn̪ɑ# | *#pjˈeɾn̪ɑ# | *#pjˈeɾn̪ɑ# {GOLD: #pjˈeɾn̪ɑ#}
+666    | #pˈet̪rin̪eum# | *#pˈet̪rin̪eum# | *#pˈed̪ɾɲo# | *#pˈed̪ɾɲo# | *#pˈed̪ɾɲo# {GOLD: #ped̪ɾˈeɲo#}
+667    | #pˈet̪rɑm# | *#pˈet̪rɑm# | *#pjˈed̪ɾɑ# | *#pjˈed̪ɾɑ# | *#pjˈed̪ɾɑ# {GOLD: #pjˈed̪ɾɑ#}
+668    | #pˈet̪t̪iɑm# | *#pˈet̪t̪iɑm# | *#pjˈet͡st͡sɑ# | *#pjˈes̪ɑ# | *#pjˈeθɑ# {GOLD: #pjˈeθɑ#}
+669    | #pˈeːn̪sum# | *#pˈeːnsum# | *#pˈezo# | *#pˈeso# | *#pˈeso# {GOLD: #pˈeso#}
+670    | #pˈilulɑ# | *#pˈilulɑ# | *#pˈellɑ# | *#pˈeʎɑ# | *#pˈeʝɑ# {GOLD: #pˈeʝɑ#}
+671    | #pˈilum# | *#pˈilum# | *#pˈelo# | *#pˈelo# | *#pˈelo# {GOLD: #pˈelo#}
+672    | #pˈin̪kt̪um# | *#pˈiːn̪t̪um# | *#pˈin̪t̪o# | *#pˈin̪t̪o# | *#pˈin̪t̪o# {GOLD: #pˈin̪t̪o#}
+673    | #pˈirɑ# | *#pˈirɑ# | *#pˈeɾɑ# | *#pˈeɾɑ# | *#pˈeɾɑ# {GOLD: #pˈeɾɑ#}
+674    | #pˈiskem# | *#pˈiskem# | *#pˈest͡se# | *#pˈes̪e# | *#pˈeθe# {GOLD: #pˈeθ#}
+675    | #pˈiɡn̪orɑ# | *#pˈiɡn̪orɑ# | *#pˈeɲɾɑ# | *#pˈeɲɾɑ# | *#pˈeɲɾɑ# {GOLD: #pɾˈen̪d̪ɑ#}
+676    | #pˈiɡn̪um# | *#pˈiɡn̪um# | *#pˈeɲo# | *#pˈeɲo# | *#pˈeɲo# {GOLD: #pˈeɲo#}
+677    | #pˈiːn̪eɑm# | *#pˈiːn̪eɑm# | *#pˈiɲɑ# | *#pˈiɲɑ# | *#pˈiɲɑ# {GOLD: #pˈiɲɑ#}
+678    | #pˈiːn̪um# | *#pˈiːn̪um# | *#pˈin̪o# | *#pˈin̪o# | *#pˈin̪o# {GOLD: #pˈin̪o#}
+679    | #pˈod̪ium# | *#pˈod̪ium# | *#pˈoʝo# | *#pˈoʝo# | *#pˈoʝo# {GOLD: #pˈoʝo#}
+680    | #pˈoe̯n̪ɑm# | *#pˈoe̯n̪ɑm# | *#pˈen̪ɑ# | *#pˈen̪ɑ# | *#pˈen̪ɑ# {GOLD: #pˈen̪ɑ#}
+681    | #pˈon̪t̪em# | *#pˈon̪t̪em# | *#pwˈen̪t̪e# | *#pwˈen̪t̪e# | *#pwˈen̪t̪e# {GOLD: #pwˈen̪t̪e#}
+682    | #pˈopulum# | *#pˈopulum# | *#pwˈeblo# | *#pwˈeblo# | *#pwˈeblo# {GOLD: #pwˈeblo#}
+683    | #pˈorkum# | *#pˈorkum# | *#pwˈeɾko# | *#pwˈeɾko# | *#pwˈeɾko# {GOLD: #pwˈeɾko#}
+684    | #pˈorrum# | *#pˈorrum# | *#pwˈero# | *#pwˈero# | *#pwˈero# {GOLD: #pwˈero#}
+685    | #pˈort̪um# | *#pˈort̪um# | *#pwˈeɾt̪o# | *#pwˈeɾt̪o# | *#pwˈeɾt̪o# {GOLD: #pwˈeɾt̪o#}
+686    | #pˈort̪ɑm# | *#pˈort̪ɑm# | *#pwˈeɾt̪ɑ# | *#pwˈeɾt̪ɑ# | *#pwˈeɾt̪ɑ# {GOLD: #pwˈeɾt̪ɑ#}
+687    | #pˈosit̪um# | *#pˈosit̪um# | *#pwˈest̪o# | *#pwˈest̪o# | *#pwˈest̪o# {GOLD: #pwˈest̪o#}
+688    | #pˈost̪# | *#pˈost̪# | *#pwˈes̪# | *#pwˈes̪# | *#pwˈeθ# {GOLD: #pwˈes#}
+689    | #pˈullum# | *#pˈullum# | *#pˈollo# | *#pˈoʎo# | *#pˈoʝo# {GOLD: #pˈoʝo#}
+690    | #pˈulpɑ# | *#pˈulpɑ# | *#pˈolpɑ# | *#pˈolpɑ# | *#pˈolpɑ# {GOLD: #pˈulpɑ#}
+691    | #pˈun̪kt̪um# | *#pˈuːn̪t̪um# | *#pˈun̪t̪o# | *#pˈun̪t̪o# | *#pˈun̪t̪o# {GOLD: #pˈun̪t̪o#}
+692    | #pˈut̪eum# | *#pˈut̪eum# | *#pˈod͡zo# | *#pˈos̪o# | *#pˈoθo# {GOLD: #pˈoθo#}
+693    | #pˈuɡn̪um# | *#pˈuɡn̪um# | *#pˈuɲo# | *#pˈuɲo# | *#pˈuɲo# {GOLD: #pˈuɲo#}
+694    | #pˈuːlikɑm# | *#pˈuːlikɑm# | *#pˈuleɡɑ# | *#pˈulɡɑ# | *#pˈulɡɑ# {GOLD: #pˈulɡɑ#}
+695    | #pˈuːrum# | *#pˈuːrum# | *#pˈuɾo# | *#pˈuɾo# | *#pˈuɾo# {GOLD: #pˈuɾo#}
+696    | #pˈɑːkem# | *#pˈɑːkem# | *#pˈɑd͡ze# | *#pˈɑs̪# | *#pˈɑθ# {GOLD: #pˈɑθ#}
+697    | #pˈɑleɑm# | *#pˈɑleɑm# | *#pˈɑʎɑ# | *#pˈɑʃɑ# | *#pˈɑxɑ# {GOLD: #pˈɑxɑ#}
+698    | #pˈɑlmɑm# | *#pˈɑlmɑm# | *#pˈɑlmɑ# | *#pˈɑlmɑ# | *#pˈɑlmɑ# {GOLD: #pˈɑlmɑ#}
+699    | #pˈɑn̪n̪um# | *#pˈɑn̪n̪um# | *#pˈɑn̪n̪o# | *#pˈɑɲo# | *#pˈɑɲo# {GOLD: #pˈɑɲo#}
+700    | #pˈɑn̪t̪ikem# | *#pˈɑn̪t̪ikem# | *#pˈɑn̪t̪ed͡ze# | *#pˈɑn̪t̪es̪# | *#pˈɑn̪t̪eθ# {GOLD: #pˈɑn̪θɑ#}
+701    | #pˈɑrt̪em# | *#pˈɑrt̪em# | *#pˈɑɾt̪e# | *#pˈɑɾt̪e# | *#pˈɑɾt̪e# {GOLD: #pˈɑɾt̪e#}
+702    | #pˈɑrt̪um# | *#pˈɑrt̪um# | *#pˈɑɾt̪o# | *#pˈɑɾt̪o# | *#pˈɑɾt̪o# {GOLD: #pˈɑɾt̪o#}
+703    | #pˈɑssum# | *#pˈɑssum# | *#pˈɑsso# | *#pˈɑso# | *#pˈɑso# {GOLD: #pˈɑso#}
+704    | #pˈɑt̪rem# | *#pˈɑt̪rem# | *#pˈɑd̪ɾe# | *#pˈɑd̪ɾe# | *#pˈɑd̪ɾe# {GOLD: #pˈɑd̪ɾe#}
+705    | #pˈɑwkum# | *#pˈɑwkum# | *#pˈɑwko# | *#pˈoko# | *#pˈoko# {GOLD: #pˈoko#}
+706    | #pˈɑwkus# | *#pˈɑwkus# | *#pˈɑwkos# | *#pˈokos# | *#pˈokos# {GOLD: #pˈokos#}
+707    | #pˈɑwperem# | *#pˈɑwperem# | *#pˈɑwpɾe# | *#pˈopɾe# | *#pˈopɾe# {GOLD: #pˈobɾe#}
+708    | #pˈɑːn̪em# | *#pˈɑːn̪em# | *#pˈɑn̪e# | *#pˈɑn̪# | *#pˈɑn̪# {GOLD: #pˈɑn̪#}
+709    | #pˌed̪ˈukulum# | *#pˌed̪ˈukulum# | *#pˌeˈuʎo# | *#pˌeˈuʃo# | *#peˈuxo# {GOLD: #pjˈoxo#}
+710    | #pˌed̪ˈuːkum# | *#pˌed̪ˈuːkum# | *#pˌeˈuɡo# | *#pˌeˈuɡo# | *#peˈuɡo# {GOLD: #ped̪ˈuɡo#}
+711    | #pˌeiˈoːrem# | *#pˌeiˈoːrem# | *#pˌiˈoɾe# | *#pˌiˈoɾ# | *#piˈoɾ# {GOLD: #peˈoɾ#}
+712    | #pˌekkˈɑːt̪um# | *#pˌekkˈɑːt̪um# | *#pˌekkˈɑd̪o# | *#pˌekˈɑd̪o# | *#pekˈɑd̪o# {GOLD: #pekˈɑd̪o#}
+713    | #pˌekt̪in̪ˈɑːre# | *#pˌekt̪in̪ˈɑːre# | *#pˌejt̪en̪ˈɑɾe# | *#pˌet͡ʃn̪ˈɑɾ# | *#pet͡ʃn̪ˈɑɾ# {GOLD: #pejn̪ˈɑɾ#}
+714    | #pˌekt̪orˈɑːlem# | *#pˌekt̪orˈɑːlem# | *#pˌejt̪ɾˈɑle# | *#pˌet͡ʃɾˈɑl# | *#pet͡ʃɾˈɑl# {GOLD: #pet̪ɾˈɑl#}
+715    | #pˌelliːkˈɑːre# | *#pˌelliːkˈɑːre# | *#pˌelliɡˈɑɾe# | *#pˌeʎɡˈɑɾ# | *#peʝɡˈɑɾ# {GOLD: #pelɡˈɑɾ#}
+716    | #pˌellˈiːkeɑ# | *#pˌellˈiːkeɑ# | *#pˌellˈid͡zɑ# | *#pˌeʎˈis̪ɑ# | *#peʝˈiθɑ# {GOLD: #peʝˈiθɑ#}
+717    | #pˌersˈoːn̪ɑm# | *#pˌersˈoːn̪ɑm# | *#pˌessˈon̪ɑ# | *#pˌesˈon̪ɑ# | *#pesˈon̪ɑ# {GOLD: #peɾsˈon̪ɑ#}
+718    | #pˌerˈikulum# | *#pˌerˈikulum# | *#pˌeɾˈeʎo# | *#pˌeɾˈeʃo# | *#peɾˈexo# {GOLD: #pelˈiɡɾo#}
+719    | #pˌeːn̪sˈɑːre# | *#pˌeːnsˈɑːre# | *#pˌezˈɑɾe# | *#pˌesˈɑɾ# | *#pesˈɑɾ# {GOLD: #pesˈɑɾ#}
+720    | #pˌiet̪ˈɑːt̪em# | *#pˌiet̪ˈɑːt̪em# | *#pˈed̪ˈɑd̪e# | *#pˈed̪ˈɑd̪# | *#pˈed̪ˈɑd̪# {GOLD: #pjed̪ˈɑd̪#}
+721    | #pˌiskˈɑːt̪um# | *#pˌiskˈɑːt̪um# | *#pˌeskˈɑd̪o# | *#pˌeskˈɑd̪o# | *#peskˈɑd̪o# {GOLD: #peskˈɑd̪o#}
+722    | #pˌit̪ˈɑkkium# | *#pˌit̪ˈɑkkium# | *#pˌed̪ˈɑt͡st͡so# | *#pˌed̪ˈɑs̪o# | *#ped̪ˈɑθo# {GOLD: #ped̪ˈɑθo#}
+723    | #pˌiɡmˈen̪t̪um# | *#pˌiɡmˈen̪t̪um# | *#pˌejmjˈen̪t̪o# | *#pˌimjˈen̪t̪o# | *#pimjˈen̪t̪o# {GOLD: #pimjˈen̪t̪o#}
+724    | #pˌiɡrˈit̪iɑ# | *#pˌiɡrˈit̪iɑ# | *#pˌejɾˈed͡zɑ# | *#pˌeɾˈes̪ɑ# | *#peɾˈeθɑ# {GOLD: #peɾˈeθɑ#}
+725    | #pˌod̪iˈɑːre# | *#pˌod̪iˈɑːre# | *#pˌoʝˈɑɾe# | *#pˌoʝˈɑɾ# | *#poʝˈɑɾ# {GOLD: #poʝˈɑɾ#}
+726    | #pˌollikˈɑːrem# | *#pˌollikˈɑːrem# | *#pˌolleɡˈɑɾe# | *#pˌoʎɡˈɑɾ# | *#poʝɡˈɑɾ# {GOLD: #pulɡˈɑɾ#}
+727    | #pˌolˈen̪t̪ɑ# | *#pˌolˈen̪t̪ɑ# | *#pˌoljˈen̪t̪ɑ# | *#pˌuljˈen̪t̪ɑ# | *#puljˈen̪t̪ɑ# {GOLD: #puljˈen̪t̪ɑ#}
+728    | #pˌort̪ˈɑt̪ikum# | *#pˌort̪ˈɑt̪ikum# | *#pˌoɾt̪ˈɑd̪eɡo# | *#pˌoɾt̪ˈɑzɡo# | *#poɾt̪ˈɑzɡo# {GOLD: #poɾt̪ˈɑθɡo#}
+729    | #pˌosit̪ˈuːrɑ# | *#pˌosit̪ˈuːrɑ# | *#pˌost̪ˈuɾɑ# | *#pˌost̪ˈuɾɑ# | *#post̪ˈuɾɑ# {GOLD: #post̪ˈuɾɑ#}
+730    | #pˌot̪ˈen̪t̪e# | *#pˌot̪ˈen̪t̪e# | *#pˌod̪jˈen̪t̪e# | *#pˌud̪jˈen̪t̪e# | *#pud̪jˈen̪t̪e# {GOLD: #pud̪jˈen̪t̪e#}
+731    | #pˌoːt̪iˈoːn̪em# | *#pˌoːt̪iˈoːn̪em# | *#pˌod͡zˈon̪e# | *#pˌos̪ˈon̪# | *#poθˈon̪# {GOLD: #poθˈon̪#}
+732    | #pˌulsˈɑːre# | *#pˌulsˈɑːre# | *#pˌojsˈɑɾe# | *#pˌoʃˈɑɾ# | *#poxˈɑɾ# {GOLD: #puxˈɑɾ#}
+733    | #pˌult̪ˈɑrium# | *#pˌul̪t̪ˈɑrium# | *#pˌojt̪ˈɑjɾo# | *#pˌot͡ʃˈeɾo# | *#pot͡ʃˈeɾo# {GOLD: #put͡ʃˈeɾo#}
+734    | #pˈulwum# | *#pˈulwum# | *#pˈolbo# | *#pˈolbo# | *#pˈolbo# {GOLD: #pˈolbo#}
+735    | #pˌulˈeɡium# | *#pˌulˈeɡium# | *#pˌolˈijo# | *#pˌolˈiʝo# | *#polˈiʝo# {GOLD: #polˈeo#}
+736    | #pˌun̪kt̪iˈɑːre# | *#pˌuːn̪t̪iˈɑːre# | *#pˌun̪t͡sˈɑɾe# | *#pˌun̪s̪ˈɑɾ# | *#pun̪θˈɑɾ# {GOLD: #pun̪θˈɑɾ#}
+737    | #pˌɑlpˈɑːre# | *#pˌɑlpˈɑːre# | *#pˌɑwpˈɑɾe# | *#pˌopˈɑɾ# | *#popˈɑɾ# {GOLD: #popˈɑɾ#}
+738    | #pˌɑlˈumbɑm# | *#pˌɑlˈumbɑm# | *#pˌɑlˈombɑ# | *#pˌɑlˈombɑ# | *#pɑlˈombɑ# {GOLD: #pɑlˈomɑ#}
+739    | #pˌɑn̪ifikˈɑːre# | *#pˌɑn̪ifikˈɑːre# | *#pˌɑn̪eveɡˈɑɾe# | *#pˌɑn̪iɡʷˈɑɾ# | *#pɑn̪iɡʷˈɑɾ# {GOLD: #ɑpɑn̪iɡʷˈɑɾ#}
+740    | #pˌɑriet̪ˈiːn̪ɑs# | *#pˌɑriet̪ˈiːn̪ɑs# | *#pˌɑɾed̪ˈin̪ɑs# | *#pˌɑɾd̪ˈin̪ɑs# | *#pɑɾd̪ˈin̪ɑs# {GOLD: #pɑɾd̪ˈin̪ɑs#}
+741    | #pˌɑrɑd̪ˈiːsum# | *#pˌɑrɑd̪ˈiːsum# | *#pˌɑɾɑˈizo# | *#pˌɑɾˈɑiso# | *#pɑɾˈɑiso# {GOLD: #pɑɾɑˈiso#}
+742    | #pˌɑrˈiet̪em# | *#pˌɑrˈiet̪em# | *#pˌɑɾˈed̪e# | *#pˌɑɾˈed̪# | *#pɑɾˈed̪# {GOLD: #pɑɾˈed̪#}
+743    | #pˌɑrˈɑbolɑ# | *#pˌɑrˈɑbolɑ# | *#pˌɑɾˈɑbʎɑ# | *#pˌɑɾˈɑblɑ# | *#pɑɾˈɑblɑ# {GOLD: #pɑlˈɑbɾɑ#}
+744    | #pˌɑst̪ˈoːrem# | *#pˌɑst̪ˈoːrem# | *#pˌɑs̪t̪ˈoɾe# | *#pˌɑst̪ˈoɾ# | *#pɑst̪ˈoɾ# {GOLD: #pɑst̪ˈoɾ#}
+745    | #pˌɑt̪ˈellɑ# | *#pˌɑt̪ˈellɑ# | *#pˌɑd̪jˈellɑ# | *#pˌɑd̪ˈiʎɑ# | *#pɑd̪ˈiʝɑ# {GOLD: #pɑd̪ˈiʝɑ#}
+746    | #pˌɑwsˈɑːre# | *#pˌɑwsˈɑːre# | *#pˌɑwzˈɑɾe# | *#pˌosˈɑɾ# | *#posˈɑɾ# {GOLD: #posˈɑɾ#}
+747    | #pˌɑːn̪ˈikulɑ# | *#pˌɑːn̪ˈikulɑ# | *#pˌɑn̪ˈeʎɑ# | *#pˌɑn̪ˈeʃɑ# | *#pɑn̪ˈexɑ# {GOLD: #pɑn̪ˈoxɑ#}
+748    | #pˌɑːn̪ˈɑːriɑm# | *#pˌɑːn̪ˈɑːriɑm# | *#pˌɑn̪ˈɑjɾɑ# | *#pˌɑn̪ˈeɾɑ# | *#pɑn̪ˈeɾɑ# {GOLD: #pɑn̪ˈeɾɑ#}
+749    | #rhˈombum# | *#rˈombum# | *#ɾwˈembo# | *#ɾwˈembo# | *#rwˈembo# {GOLD: #rˈomo#}
+750    | #rˈeːmum# | *#rˈeːmum# | *#ɾˈemo# | *#ɾˈemo# | *#rˈemo# {GOLD: #rˈemo#}
+751    | #rˈet̪in̪ɑm# | *#rˈet̪in̪ɑm# | *#ɾjˈed̪en̪ɑ# | *#ɾjˈen̪d̪ɑ# | *#rjˈen̪d̪ɑ# {GOLD: #rjˈen̪d̪ɑ#}
+752    | #rˈeːɡn̪um# | *#rˈeːɡn̪um# | *#ɾˈeɲo# | *#ɾˈeɲo# | *#rˈeɲo# {GOLD: #rˈejn̪o#}
+753    | #rˈeːɡulɑ# | *#rˈeːɡulɑ# | *#ɾˈeʎɑ# | *#ɾˈeʃɑ# | *#rˈexɑ# {GOLD: #rˈexɑ#}
+754    | #rˈeːt̪e# | *#rˈeːt̪e# | *#ɾˈed̪e# | *#ɾˈed̪# | *#rˈed̪# {GOLD: #rˈed̪#}
+755    | #rˈeːɡem# | *#rˈeːɡem# | *#ɾˈej# | *#ɾˈej# | *#rˈej# {GOLD: #rˈej#}
+756    | #rˈiɡid̪um# | *#rˈiɡid̪um# | *#ɾˈijo# | *#ɾˈiʝo# | *#rˈiʝo# {GOLD: #rˈeo#}
+757    | #rˈiːpɑm# | *#rˈiːpɑm# | *#ɾˈibɑ# | *#ɾˈibɑ# | *#rˈibɑ# {GOLD: #rˈibɑ#}
+758    | #rˈiːwum# | *#rˈiːwum# | *#ɾˈio# | *#ɾˈio# | *#rˈio# {GOLD: #rˈio#}
+759    | #rˈot̪ulum# | *#rˈot̪ulum# | *#ɾwˈed̪lo# | *#ɾwˈeld̪o# | *#rwˈeld̪o# {GOLD: #rˈoʝo#}
+760    | #rˈot̪ɑm# | *#rˈot̪ɑm# | *#ɾwˈed̪ɑ# | *#ɾwˈed̪ɑ# | *#rwˈed̪ɑ# {GOLD: #rwˈed̪ɑ#}
+761    | #rˈoːbore# | *#rˈoːbore# | *#ɾˈobɾe# | *#ɾˈobɾe# | *#rˈobɾe# {GOLD: #rˈoble#}
+762    | #rˈoːst̪rum# | *#rˈoːst̪rum# | *#ɾˈos̪t̪ɾo# | *#ɾˈost̪ɾo# | *#rˈost̪ɾo# {GOLD: #rˈost̪ɾo#}
+763    | #rˈubeum# | *#rˈubeum# | *#ɾˈubjo# | *#ɾˈubjo# | *#rˈubjo# {GOLD: #rˈubjo#}
+764    | #rˈupt̪um# | *#rˈupt̪um# | *#ɾˈot̪t̪o# | *#ɾˈot̪o# | *#rˈot̪o# {GOLD: #rˈot̪o#}
+765    | #rˈusseum# | *#rˈusseum# | *#ɾˈussjo# | *#ɾˈuʃo# | *#rˈuxo# {GOLD: #rˈoxo#}
+766    | #rˈussum# | *#rˈussum# | *#ɾˈosso# | *#ɾˈoso# | *#rˈoso# {GOLD: #rˈoxo#}
+767    | #rˈɑbiɑ# | *#rˈɑbiɑ# | *#ɾˈɑbjɑ# | *#ɾˈɑbjɑ# | *#rˈɑbjɑ# {GOLD: #rˈɑbjɑ#}
+768    | #rˌɑd̪iːkem# | *#rˌɑd̪iːkem# | *#ɾˌɑjd͡ze# | *#ɾˌes̪# | *#reθ# {GOLD: #rɑˈiθ#}
+769    | #rˈɑd̪ium# | *#rˈɑd̪ium# | *#ɾˈɑʝo# | *#ɾˈɑʝo# | *#rˈɑʝo# {GOLD: #rˈɑʝo#}
+770    | #rˈɑn̪kid̪um# | *#rˈɑŋkid̪um# | *#ɾˈɑŋt͡sjo# | *#ɾˈɑŋs̪jo# | *#rˈɑn̪θjo# {GOLD: #rˈɑn̪θjo#}
+771    | #rˈɑpid̪um# | *#rˈɑpid̪um# | *#ɾˈɑbjo# | *#ɾˈɑbjo# | *#rˈɑbjo# {GOLD: #rˈɑwd̪o#}
+772    | #rˈɑpʰɑn̪um# | *#rˈɑpɑn̪um# | *#ɾˈɑbɑn̪o# | *#ɾˈɑbɑn̪o# | *#rˈɑbɑn̪o# {GOLD: #rˈɑbɑn̪o#}
+773    | #rˈɑːrum# | *#rˈɑːrum# | *#ɾˈɑɾo# | *#ɾˈɑɾo# | *#rˈɑɾo# {GOLD: #rˈɑlo#}
+774    | #rˈɑːsum# | *#rˈɑːsum# | *#ɾˈɑzo# | *#ɾˈɑso# | *#rˈɑso# {GOLD: #rˈɑso#}
+775    | #rˌekit̪ˈɑːre# | *#rˌekit̪ˈɑːre# | *#ɾˌed͡zed̪ˈɑɾe# | *#ɾˌes̪ˈɑɾ# | *#reθˈɑɾ# {GOLD: #reθˈɑɾ#}
+776    | #rˌeːkˌuperˈɑːre# | *#rˌeːkˌuperˈɑːre# | *#ɾˌeɡˌobɾˈɑɾe# | *#ɾˌeɡˌobɾˈɑɾ# | *#reɡobɾˈɑɾ# {GOLD: #rekobɾˈɑɾ#}
+777    | #rˌeːn̪iˈoːn̪em# | *#rˌeːn̪iˈoːn̪em# | *#ɾˌeɲˈon̪e# | *#ɾˌeɲˈon̪# | *#reɲˈon̪# {GOLD: #riɲˈon̪#}
+778    | #rˌeːɡˈiːn̪ɑm# | *#rˌeːɡˈiːn̪ɑm# | *#ɾˌeˈin̪ɑ# | *#ɾˌeˈin̪ɑ# | *#reˈin̪ɑ# {GOLD: #rˈejn̪ɑ#}
+779    | #rˌeːɡˈɑːlem# | *#rˌeːɡˈɑːlem# | *#ɾˌiˈɑle# | *#ɾˌiˈɑl# | *#riˈɑl# {GOLD: #reˈɑl#}
+780    | #rˌin̪ɡˈiːre# | *#rˌiŋɡˈiːre# | *#ɾˌeŋʝˈiɾe# | *#ɾˌeŋʃˈiɾ# | *#ren̪xˈiɾ# {GOLD: #reɲˈiɾ#}
+781    | #rˌiːsˈon̪eum# | *#rˌiːsˈon̪eum# | *#ɾˌizˈoɲo# | *#ɾˌisˈoɲo# | *#risˈoɲo# {GOLD: #riswˈeɲo#}
+782    | #rˌiːpˈɑːriɑm# | *#rˌiːpˈɑːriɑm# | *#ɾˌibˈɑjɾɑ# | *#ɾˌibˈeɾɑ# | *#ribˈeɾɑ# {GOLD: #ribˈeɾɑ#}
+783    | #rˌot̪ulˈɑːre# | *#rˌot̪ulˈɑːre# | *#ɾˌod̪ʎˈɑɾe# | *#ɾˌold̪ˈɑɾ# | *#rold̪ˈɑɾ# {GOLD: #ɑroxˈɑɾ#}
+784    | #rˌot̪ˈellɑm# | *#rˌot̪ˈellɑm# | *#ɾˌod̪jˈellɑ# | *#ɾˌud̪ˈiʎɑ# | *#rud̪ˈiʝɑ# {GOLD: #rod̪ˈiʝɑ#}
+785    | #rˌoːbˈiːɡin̪e# | *#rˌoːbˈiːɡin̪e# | *#ɾˌobˈijn̪e# | *#ɾˌobˈin̪# | *#robˈin̪# {GOLD: #robˈin̪#}
+786    | #rˌoːsmɑrˈiːn̪um# | *#rˌoːsmɑrˈiːn̪um# | *#ɾˌozmɑɾˈin̪o# | *#ɾˌosmɑɾˈin̪o# | *#rosmɑɾˈin̪o# {GOLD: #romˈeɾo#}
+787    | #rˌupt̪ˈuːrɑm# | *#rˌupt̪ˈuːrɑm# | *#ɾˌot̪t̪ˈuɾɑ# | *#ɾˌot̪ˈuɾɑ# | *#rot̪ˈuɾɑ# {GOLD: #rot̪ˈuɾɑ#}
+788    | #rˌuɡˈiːt̪um# | *#rˌuɡˈiːt̪um# | *#ɾˌoˈid̪o# | *#ɾˌoˈid̪o# | *#roˈid̪o# {GOLD: #rwˈid̪o#}
+789    | #rˌɑd̪ˈeːre# | *#rˌɑd̪ˈeːre# | *#ɾˌɑˈeɾe# | *#ɾˌɑˈeɾ# | *#rɑˈeɾ# {GOLD: #rɑˈeɾ#}
+790    | #rˌɑkˈeːmum# | *#rˌɑkˈeːmum# | *#ɾˌɑd͡zˈemo# | *#ɾˌɑs̪ˈemo# | *#rɑθˈemo# {GOLD: #rɑθˈimo#}
+791    | #rˌɑssikˈɑːre# | *#rˌɑssikˈɑːre# | *#ɾˌɑsseɡˈɑɾe# | *#ɾˌɑskˈɑɾ# | *#rɑskˈɑɾ# {GOLD: #rɑskˈɑɾ#}
+792    | #rˌɑt̪iˈoːn̪em# | *#rˌɑt̪iˈoːn̪em# | *#ɾˌɑd͡zˈon̪e# | *#ɾˌɑs̪ˈon̪# | *#rɑθˈon̪# {GOLD: #rɑθˈon̪#}
+793    | #rˌɑːst̪ˈellum# | *#rˌɑːst̪ˈellum# | *#ɾˌɑs̪t̪jˈello# | *#ɾˌɑst̪ˈiʎo# | *#rɑst̪ˈiʝo# {GOLD: #rɑst̪ɾˈiʝo#}
+794    | #sˈeːmit̪ɑ# | *#sˈeːmit̪ɑ# | *#sˈemed̪ɑ# | *#sˈen̪d̪ɑ# | *#sˈen̪d̪ɑ# {GOLD: #sˈen̪d̪ɑ#}
+795    | #sˌiɡn̪ˈɑːle# | *#sˌiɡn̪ˈɑːle# | *#sˌeɲˈɑle# | *#sˌeɲˈɑl# | *#seɲˈɑl# {GOLD: #seɲˈɑl#}
+796    | #sˌiɡˈillum# | *#sˌiɡˈillum# | *#sˈello# | *#sˈeʎo# | *#sˈeʝo# {GOLD: #sˈeʝo#}
+797    | #skrˌiːpt̪ˈoːrem# | *#skrˌiːpt̪ˈoːrem# | *#eskɾˌit̪t̪ˈoɾe# | *#eskɾˌit̪ˈoɾ# | *#eskɾit̪ˈoɾ# {GOLD: #eskɾit̪ˈoɾ#}
+798    | #skˈopulum# | *#skˈopulum# | *#eskwˈeblo# | *#eskwˈeblo# | *#eskwˈeblo# {GOLD: #eskˈoʝo#}
+799    | #skˈoːpɑm# | *#skˈoːpɑm# | *#eskˈobɑ# | *#eskˈobɑ# | *#eskˈobɑ# {GOLD: #eskˈobɑ#}
+800    | #skˈuːt̪um# | *#skˈuːt̪um# | *#eskˈud̪o# | *#eskˈud̪o# | *#eskˈud̪o# {GOLD: #eskˈud̪o#}
+801    | #skˈɑlɑm# | *#skˈɑlɑm# | *#eskˈɑlɑ# | *#eskˈɑlɑ# | *#eskˈɑlɑ# {GOLD: #eskˈɑlɑ#}
+802    | #skˈɑmn̪um# | *#skˈɑn̪n̪um# | *#eskˈɑn̪n̪o# | *#eskˈɑɲo# | *#eskˈɑɲo# {GOLD: #eskˈɑɲo#}
+803    | #skˌin̪t̪ˈillɑ# | *#skˌin̪t̪ˈillɑ# | *#est͡sˌen̪t̪ˈellɑ# | *#es̪ˌen̪t̪ˈeʎɑ# | *#eθen̪t̪ˈeʝɑ# {GOLD: #θen̪t̪ˈeʝɑ#}
+804    | #skˌut̪ˈellɑ# | *#skˌut̪ˈellɑ# | *#eskˌod̪jˈellɑ# | *#eskˌud̪ˈiʎɑ# | *#eskud̪ˈiʝɑ# {GOLD: #eskud̪ˈiʝɑ#}
+805    | #skʰˈolɑm# | *#skˈolɑm# | *#eskwˈelɑ# | *#eskwˈelɑ# | *#eskwˈelɑ# {GOLD: #eskwˈelɑ#}
+806    | #spˈekulum# | *#spˈekulum# | *#espˈeʎo# | *#espˈeʃo# | *#espˈexo# {GOLD: #espˈexo#}
+807    | #spˈissum# | *#spˈissum# | *#espˈesso# | *#espˈeso# | *#espˈeso# {GOLD: #espˈeso#}
+808    | #spˈiːn̪ɑm# | *#spˈiːn̪ɑm# | *#espˈin̪ɑ# | *#espˈin̪ɑ# | *#espˈin̪ɑ# {GOLD: #espˈin̪ɑ#}
+809    | #spˈon̪ɡiɑ# | *#spˈoŋɡiɑ# | *#espˈoŋʝɑ# | *#espˈoŋʃɑ# | *#espˈon̪xɑ# {GOLD: #espˈon̪xɑ#}
+810    | #spˈoːn̪sum# | *#spˈoːnsum# | *#espˈozo# | *#espˈoso# | *#espˈoso# {GOLD: #espˈoso#}
+811    | #spˈoːn̪sɑ# | *#spˈoːnsɑ# | *#espˈozɑ# | *#espˈosɑ# | *#espˈosɑ# {GOLD: #espˈosɑ#}
+812    | #spˈuːmɑm# | *#spˈuːmɑm# | *#espˈumɑ# | *#espˈumɑ# | *#espˈumɑ# {GOLD: #espˈumɑ#}
+813    | #spˈɑrt̪um# | *#spˈɑrt̪um# | *#espˈɑɾt̪o# | *#espˈɑɾt̪o# | *#espˈɑɾt̪o# {GOLD: #espˈɑɾt̪o#}
+814    | #spˈɑt̪ulɑm# | *#spˈɑt̪ulɑm# | *#espˈɑd̪ʎɑ# | *#espˈɑld̪ɑ# | *#espˈɑld̪ɑ# {GOLD: #espˈɑld̪ɑ#}
+815    | #spˌeːrˈɑːre# | *#spˌeːrˈɑːre# | *#espˌeɾˈɑɾe# | *#espˌeɾˈɑɾ# | *#espeɾˈɑɾ# {GOLD: #espeɾˈɑɾ#}
+816    | #st̪rˈikt̪um# | *#st̪rˈikt̪um# | *#es̪t̪ɾˈejt̪o# | *#est̪ɾˈet͡ʃo# | *#est̪ɾˈet͡ʃo# {GOLD: #est̪ɾˈet͡ʃo#}
+817    | #st̪rˈin̪ɡoː# | *#st̪rˈiŋɡoː# | *#es̪t̪ɾˈeŋɡo# | *#est̪ɾˈeŋɡo# | *#est̪ɾˈen̪ɡo# {GOLD: #est̪ɾˈiɲo#}
+818    | #st̪ˈerkorem# | *#st̪ˈerkorem# | *#es̪t̪jˈeɾkɾe# | *#est̪jˈeɾkɾe# | *#est̪jˈeɾkɾe# {GOLD: #est̪jˈeɾkol#}
+819    | #st̪ˈeːllɑm# | *#st̪ˈeːllɑm# | *#es̪t̪ˈellɑ# | *#est̪ˈeʎɑ# | *#est̪ˈeʝɑ# {GOLD: #est̪ɾˈeʝɑ#}
+820    | #st̪ˈɑbulum# | *#st̪ˈɑbulum# | *#es̪t̪ˈɑblo# | *#est̪ˈɑblo# | *#est̪ˈɑblo# {GOLD: #est̪ˈɑblo#}
+821    | #st̪ˈɑt̪um# | *#st̪ˈɑt̪um# | *#es̪t̪ˈɑd̪o# | *#est̪ˈɑd̪o# | *#est̪ˈɑd̪o# {GOLD: #est̪ˈɑd̪o#}
+822    | #sˈae̯pt̪um# | *#sˈae̯pt̪um# | *#sjˈet̪t̪o# | *#sjˈet̪o# | *#sjˈet̪o# {GOLD: #sˈet̪o#}
+823    | #sˈae̯t̪ɑ# | *#sˈae̯t̪ɑ# | *#sjˈed̪ɑ# | *#sjˈed̪ɑ# | *#sjˈed̪ɑ# {GOLD: #sˈed̪ɑ#}
+824    | #sˈed̪eɑt̪# | *#sˈed̪eɑt̪# | *#sˈeɑ# | *#sˈeɑ# | *#sˈeɑ# {GOLD: #sˈeɑ#}
+825    | #sˈeks# | *#sˈeks# | *#sˈejs# | *#sˈeʃ# | *#sˈex# {GOLD: #sˈejs#}
+826    | #sˈekst̪ɑ# | *#sˈekst̪ɑ# | *#sjˈes̪t̪ɑ# | *#sjˈest̪ɑ# | *#sjˈest̪ɑ# {GOLD: #sjˈest̪ɑ#}
+827    | #sˈellɑm# | *#sˈellɑm# | *#sjˈellɑ# | *#sˈiʎɑ# | *#sˈiʝɑ# {GOLD: #sˈiʝɑ#}
+828    | #sˈemper# | *#sˈemper# | *#sjˈempeɾ# | *#sjˈempeɾ# | *#sjˈempeɾ# {GOLD: #sjˈempɾe#}
+829    | #sˈept̪em# | *#sˈept̪em# | *#sjˈet̪t̪e# | *#sjˈet̪# | *#sjˈet̪# {GOLD: #sjˈet̪e#}
+830    | #sˈerrɑ# | *#sˈerrɑ# | *#sjˈerɑ# | *#sjˈerɑ# | *#sjˈerɑ# {GOLD: #sjˈerɑ#}
+831    | #sˈerwum# | *#sˈerwum# | *#sjˈeɾbo# | *#sjˈeɾbo# | *#sjˈeɾbo# {GOLD: #sjˈeɾbo#}
+832    | #sˈeːbum# | *#sˈeːbum# | *#sˈebo# | *#sˈebo# | *#sˈebo# {GOLD: #sˈebo#}
+833    | #sˈeːn̪sum# | *#sˈeːnsum# | *#sˈezo# | *#sˈeso# | *#sˈeso# {GOLD: #sˈeso#}
+834    | #sˈeːpiɑ# | *#sˈeːpiɑ# | *#sˈejpɑ# | *#sˈepɑ# | *#sˈepɑ# {GOLD: #xˈibjɑ#}
+835    | #sˈibi# | *#sˈibi# | *#sˈebe# | *#sˈebe# | *#sˈebe# {GOLD: #sˈi#}
+836    | #sˈiːk# | *#sˈiːk# | *#sˈi# | *#sˈi# | *#sˈi# {GOLD: #sˈi#}
+837    | #sˈikkum# | *#sˈikkum# | *#sˈekko# | *#sˈeko# | *#sˈeko# {GOLD: #sˈeko#}
+838    | #sˈilwɑm# | *#sˈilwɑm# | *#sˈelbɑ# | *#sˈelbɑ# | *#sˈelbɑ# {GOLD: #sˈelbɑ#}
+839    | #sˈin̪e# | *#sˈin̪e# | *#sˈen̪e# | *#sˈen̪# | *#sˈen̪# {GOLD: #sˈin̪#}
+840    | #sˈin̪um# | *#sˈin̪um# | *#sˈen̪o# | *#sˈen̪o# | *#sˈen̪o# {GOLD: #sˈen̪o#}
+841    | #sˈit̪im# | *#sˈit̪im# | *#sˈed̪e# | *#sˈed̪# | *#sˈed̪# {GOLD: #sˈed̪#}
+842    | #sˈiɡn̪um# | *#sˈiɡn̪um# | *#sˈeɲo# | *#sˈeɲo# | *#sˈeɲo# {GOLD: #sˈeɲo#}
+843    | #sˈiɡn̪ɑm# | *#sˈiɡn̪ɑm# | *#sˈeɲɑ# | *#sˈeɲɑ# | *#sˈeɲɑ# {GOLD: #sˈeɲɑ#}
+844    | #sˈokrɑm# | *#sˈokrɑm# | *#sˈojɾɑ# | *#swˈeɾɑ# | *#swˈeɾɑ# {GOLD: #swˈeɡɾɑ#}
+845    | #sˈolid̪um# | *#sˈolid̪um# | *#sˈojd̪o# | *#swˈed̪o# | *#swˈed̪o# {GOLD: #swˈeld̪o#}
+846    | #sˈolum# | *#sˈolum# | *#swˈelo# | *#swˈelo# | *#swˈelo# {GOLD: #swˈelo#}
+847    | #sˈolut̪um# | *#sˈolut̪um# | *#sˈojt̪o# | *#sˈot͡ʃo# | *#sˈot͡ʃo# {GOLD: #swˈelt̪o#}
+848    | #sˈomn̪ium# | *#sˈon̪n̪ium# | *#sˈoɲɲo# | *#sˈoɲo# | *#sˈoɲo# {GOLD: #swˈeɲo#}
+849    | #sˈomn̪um# | *#sˈon̪n̪um# | *#swˈen̪n̪o# | *#swˈeɲo# | *#swˈeɲo# {GOLD: #swˈeɲo#}
+850    | #sˈort̪em# | *#sˈort̪em# | *#swˈeɾt̪e# | *#swˈeɾt̪e# | *#swˈeɾt̪e# {GOLD: #swˈeɾt̪e#}
+851    | #sˈoːlem# | *#sˈoːlem# | *#sˈole# | *#sˈol# | *#sˈol# {GOLD: #sˈol#}
+852    | #sˈulkum# | *#sˈulkum# | *#sˈolko# | *#sˈolko# | *#sˈolko# {GOLD: #sˈuɾko#}
+853    | #sˈummɑm# | *#sˈummɑm# | *#sˈommɑ# | *#sˈomɑ# | *#sˈomɑ# {GOLD: #sˈomɑ#}
+854    | #sˈuper# | *#sˈuper# | *#sˈobeɾ# | *#sˈobeɾ# | *#sˈobeɾ# {GOLD: #sˈobɾe#}
+855    | #sˈurd̪um# | *#sˈurd̪um# | *#sˈoɾd̪o# | *#sˈoɾd̪o# | *#sˈoɾd̪o# {GOLD: #sˈoɾd̪o#}
+856    | #sˈuːkid̪um# | *#sˈuːkid̪um# | *#sˈud͡zjo# | *#sˈus̪jo# | *#sˈuθjo# {GOLD: #sˈuθjo#}
+857    | #sˈuːkum# | *#sˈuːkum# | *#sˈuɡo# | *#sˈuɡo# | *#sˈuɡo# {GOLD: #sˈuɡo#}
+858    | #sˈɑkkum# | *#sˈɑkkum# | *#sˈɑkko# | *#sˈɑko# | *#sˈɑko# {GOLD: #sˈɑko#}
+859    | #sˈɑksum# | *#sˈɑksum# | *#sˈɑjso# | *#sˈeʃo# | *#sˈexo# {GOLD: #sˈɑxo#}
+860    | #sˈɑlem# | *#sˈɑlem# | *#sˈɑle# | *#sˈɑl# | *#sˈɑl# {GOLD: #sˈɑl#}
+861    | #sˈɑlikem# | *#sˈɑlikem# | *#sˈɑled͡ze# | *#sˈɑls̪e# | *#sˈɑlθe# {GOLD: #sˈɑwθe#}
+862    | #sˈɑlt̪um# | *#sˈɑl̪t̪um# | *#sˈɑwt̪o# | *#sˈot̪o# | *#sˈot̪o# {GOLD: #sˈot̪o#}
+863    | #sˈɑn̪ɡwin̪em# | *#sˈɑŋɡwin̪em# | *#sˈɑŋɡen̪e# | *#sˈɑŋɡen̪# | *#sˈɑn̪ɡen̪# {GOLD: #sˈɑn̪ɡɾe#}
+864    | #sˈɑpid̪um# | *#sˈɑpid̪um# | *#sˈɑbjo# | *#sˈɑbjo# | *#sˈɑbjo# {GOLD: #sˈɑbjo#}
+865    | #sˈɑpiɑt̪# | *#sˈɑpiɑt̪# | *#sˈɑjpɑ# | *#sˈepɑ# | *#sˈepɑ# {GOLD: #sˈepɑ#}
+866    | #sˈɑpui# | *#sˈɑpui# | *#sˈɑbwe# | *#sˈɑbwe# | *#sˈɑbwe# {GOLD: #sˈope#}
+867    | #sˈɑɡmɑm# | *#sˈɑɡmɑm# | *#sˈɑjmɑ# | *#sˈemɑ# | *#sˈemɑ# {GOLD: #sˈomɑ#}
+868    | #sˌae̯t̪ˈɑːkeum# | *#sˌae̯t̪ˈɑːkeum# | *#sˌed̪ˈɑd͡zo# | *#sˌed̪ˈɑs̪o# | *#sed̪ˈɑθo# {GOLD: #θed̪ˈɑθo#}
+869    | #sˌed̪ˈeːre# | *#sˌed̪ˈeːre# | *#sˌeˈeɾe# | *#sˌeˈeɾ# | *#seˈeɾ# {GOLD: #sˈeɾ#}
+870    | #sˌed̪ˈiːlɑ# | *#sˌed̪ˈiːlɑ# | *#sˌeˈilɑ# | *#sˌeˈilɑ# | *#seˈilɑ# {GOLD: #sˈixɑ#}
+871    | #sˌekuːrit̪ˈɑːt̪em# | *#sˌekuːrit̪ˈɑːt̪em# | *#sˌejɾt̪ˈɑd̪e# | *#sjˌeɾt̪ˈɑd̪# | *#sjeɾt̪ˈɑd̪# {GOLD: #seɡuɾid̪ˈɑd̪#}
+872    | #sˌekwˈen̪t̪e# | *#sˌekwˈen̪t̪e# | *#sˌeɡjˈen̪t̪e# | *#sˌiɡjˈen̪t̪e# | *#siɡjˈen̪t̪e# {GOLD: #siɡjˈen̪t̪e#}
+873    | #sˌekˈun̪d̪um# | *#sˌekˈun̪d̪um# | *#sˌeɡˈon̪d̪o# | *#sˌeɡˈon̪d̪o# | *#seɡˈon̪d̪o# {GOLD: #sˌeɡˈun̪d̪o#}
+874    | #sˌekˈɑːre# | *#sˌekˈɑːre# | *#sˌeɡˈɑɾe# | *#sˌeɡˈɑɾ# | *#seɡˈɑɾ# {GOLD: #seɡˈɑɾ#}
+875    | #sˌen̪iˈoːrem# | *#sˌen̪iˈoːrem# | *#sˌeɲˈoɾe# | *#sˌeɲˈoɾ# | *#seɲˈoɾ# {GOLD: #seɲˈoɾ#}
+876    | #sˌen̪t̪imˈen̪t̪um# | *#sˌen̪t̪imˈen̪t̪um# | *#sˌen̪t̪emjˈen̪t̪o# | *#sˌen̪t̪mjˈen̪t̪o# | *#sen̪t̪mjˈen̪t̪o# {GOLD: #sen̪t̪imjˈen̪t̪o#}
+877    | #sˌen̪ˈɑːt̪um# | *#sˌen̪ˈɑːt̪um# | *#sˌen̪ˈɑd̪o# | *#sˌen̪ˈɑd̪o# | *#sen̪ˈɑd̪o# {GOLD: #sen̪ˈɑd̪o#}
+878    | #sˌept̪imˈɑːn̪ɑm# | *#sˌept̪imˈɑːn̪ɑm# | *#sˌet̪t̪emˈɑn̪ɑ# | *#sˌet̪mˈɑn̪ɑ# | *#set̪mˈɑn̪ɑ# {GOLD: #semˈɑn̪ɑ#}
+879    | #sˌermˈoːn̪em# | *#sˌermˈoːn̪em# | *#sˌeɾmˈon̪e# | *#sˌeɾmˈon̪# | *#seɾmˈon̪# {GOLD: #seɾmˈon̪#}
+880    | #sˌeːmˈen̪t̪e# | *#sˌeːmˈen̪t̪e# | *#sˌemjˈen̪t̪e# | *#sˌimjˈen̪t̪e# | *#simjˈen̪t̪e# {GOLD: #simjˈen̪t̪e#}
+881    | #sˌiɡˈillum# | *#sˌiɡˈillum# | *#sˈello# | *#sˈeʎo# | *#sˈeʝo# {GOLD: #sˈeʝo#}
+882    | #sˌolwˈeːre# | *#sˌolwˈeːre# | *#sˌolbˈeɾe# | *#sˌolbˈeɾ# | *#solbˈeɾ# {GOLD: #solbˈeɾ#}
+883    | #sˈolt̪um# | *#sˈol̪t̪um# | *#sˈojt̪o# | *#sˈot͡ʃo# | *#sˈot͡ʃo# {GOLD: #swˈelt̪o#}
+884    | #sˌon̪ˈoːrum# | *#sˌon̪ˈoːrum# | *#sˌon̪ˈoɾo# | *#sˌon̪ˈoɾo# | *#son̪ˈoɾo# {GOLD: #son̪ˈoɾo#}
+885    | #sˌoːlit̪ˈɑːrium# | *#sˌoːlit̪ˈɑːrium# | *#sˌojt̪ˈɑjɾo# | *#sˌot͡ʃˈeɾo# | *#sot͡ʃˈeɾo# {GOLD: #solt̪ˈeɾo#}
+886    | #sˌubkˌɑwˈɑːre# | *#sˌubkˌɑwˈɑːre# | *#sˌokkˌɑbˈɑɾe# | *#sˌokˌɑbˈɑɾ# | *#sokɑbˈɑɾ# {GOLD: #sokɑbˈɑɾ#}
+887    | #sˌufferˈiːre# | *#sˌufferˈiːre# | *#sˌoffɾˈiɾe# | *#sˌofɾˈiɾ# | *#sofɾˈiɾ# {GOLD: #sufɾˈiɾ#}
+888    | #sˌufflˈɑːre# | *#sˌufflˈɑːre# | *#sˌoffʎˈɑɾe# | *#sˌot͡ʃˈɑɾ# | *#sot͡ʃˈɑɾ# {GOLD: #soplˈɑɾ#}
+889    | #sˌupˈerbiɑm# | *#sˌupˈerbiɑm# | *#sˌobˈeɾbjɑ# | *#sˌobˈeɾbjɑ# | *#sobˈeɾbjɑ# {GOLD: #sobˈeɾbjɑ#}
+890    | #sˌuspˈekt̪ɑ# | *#sˌuspˈekt̪ɑ# | *#sˌospˈejt̪ɑ# | *#sˌospˈet͡ʃɑ# | *#sospˈet͡ʃɑ# {GOLD: #sospˈet͡ʃɑ#}
+891    | #sˌuːd̪ˈoːrem# | *#sˌuːd̪ˈoːrem# | *#sˌuˈoɾe# | *#sˌuˈoɾ# | *#suˈoɾ# {GOLD: #sud̪ˈoɾ#}
+892    | #sˌɑlmˈuriɑ# | *#sˌɑlmˈuriɑ# | *#sˌɑlmˈojɾɑ# | *#sˌɑlmwˈeɾɑ# | *#sɑlmwˈeɾɑ# {GOLD: #sɑlmwˈeɾɑ#}
+893    | #sˌɑlˈuːt̪em# | *#sˌɑlˈuːt̪em# | *#sˌɑlˈud̪e# | *#sˌɑlˈud̪# | *#sɑlˈud̪# {GOLD: #sɑlˈud̪#}
+894    | #sˌɑːn̪kt̪ifikˈɑːre# | *#sˌɑːn̪t̪ifikˈɑːre# | *#sˌɑn̪t̪eveɡˈɑɾe# | *#sˌɑn̪t̪iɡʷˈɑɾ# | *#sɑn̪t̪iɡʷˈɑɾ# {GOLD: #sɑn̪t̪iɡʷˈɑɾ#}
+895    | #sˌɑn̪ɡwˈin̪eum# | *#sˌɑŋɡwˈin̪eum# | *#sˌɑŋɡˈeɲo# | *#sˌɑŋɡˈeɲo# | *#sɑn̪ɡˈeɲo# {GOLD: #sɑn̪ɡʷˈeɲo#}
+896    | #sˌɑpˈoːn̪em# | *#sˌɑpˈoːn̪em# | *#sˌɑbˈon̪e# | *#sˌɑbˈon̪# | *#sɑbˈon̪# {GOLD: #xɑbˈon̪#}
+897    | #sˌɑpˈoːrem# | *#sˌɑpˈoːrem# | *#sˌɑbˈoɾe# | *#sˌɑbˈoɾ# | *#sɑbˈoɾ# {GOLD: #sɑbˈoɾ#}
+898    | #sˌɑrmˈen̪t̪um# | *#sˌɑrmˈen̪t̪um# | *#sˌɑɾmjˈen̪t̪o# | *#sˌɑɾmjˈen̪t̪o# | *#sɑɾmjˈen̪t̪o# {GOLD: #sɑɾmjˈen̪t̪o#}
+899    | #sˌɑrt̪ˈɑːɡin̪em# | *#sˌɑrt̪ˈɑːɡin̪em# | *#sˌɑɾt̪ˈɑʝin̪e# | *#sˌɑɾt̪ˈɑʝn̪e# | *#sɑɾt̪ˈɑʝn̪e# {GOLD: #sɑɾt̪ˈen̪#}
+900    | #sˌɑɡˈit̪t̪ɑm# | *#sˌɑɡˈit̪t̪ɑm# | *#sˌɑˈet̪t̪ɑ# | *#sˌɑˈet̪ɑ# | *#sɑˈet̪ɑ# {GOLD: #sɑˈet̪ɑ#}
+901    | #sˌɑɡˈiːn̪ɑ# | *#sˌɑɡˈiːn̪ɑ# | *#sˌɑˈin̪ɑ# | *#sˌɑˈin̪ɑ# | *#sɑˈin̪ɑ# {GOLD: #sɑˈin̪ɑ#}
+902    | #sˌɑːn̪it̪ˈɑːt̪em# | *#sˌɑːn̪it̪ˈɑːt̪em# | *#sˌɑn̪ed̪ˈɑd̪e# | *#sˌɑn̪d̪ˈɑd̪# | *#sɑn̪d̪ˈɑd̪# {GOLD: #sɑn̪id̪ˈɑd̪#}
+903    | #sˌɑːn̪kt̪iˈoːn̪em# | *#sˌɑːn̪t̪iˈoːn̪em# | *#sˌɑn̪t͡sˈon̪e# | *#sˌɑn̪s̪ˈon̪# | *#sɑn̪θˈon̪# {GOLD: #sɑn̪θjon̪#}
+904    | #t̪ˌimˈoːrem# | *#t̪ˌimˈoːrem# | *#t̪ˌemˈoɾe# | *#t̪ˌemˈoɾ# | *#t̪emˈoɾ# {GOLD: #t̪emˈoɾ#}
+905    | #t̪rˈed̪ekim# | *#t̪rˈed̪ekim# | *#t̪ɾjˈeed͡ze# | *#t̪ɾjˈes̪# | *#t̪ɾjˈeθ# {GOLD: #t̪ɾˈeθe#}
+906    | #t̪rˈeːs# | *#t̪rˈeːs# | *#t̪ɾˈes# | *#t̪ɾˈes# | *#t̪ɾˈes# {GOLD: #t̪ɾˈes#}
+907    | #t̪rˈibulum# | *#t̪rˈibulum# | *#t̪ɾˈeblo# | *#t̪ɾˈeblo# | *#t̪ɾˈeblo# {GOLD: #t̪ɾˈiʝo#}
+908    | #t̪rˈiːt̪ikum# | *#t̪rˈiːt̪ikum# | *#t̪ɾˈid̪eɡo# | *#t̪ɾˈizɡo# | *#t̪ɾˈizɡo# {GOLD: #t̪ɾˈiɡo#}
+909    | #t̪rˈukt̪ɑm# | *#t̪rˈukt̪ɑm# | *#t̪ɾˈujt̪ɑ# | *#t̪ɾˈut͡ʃɑ# | *#t̪ɾˈut͡ʃɑ# {GOLD: #t̪ɾˈut͡ʃɑ#}
+910    | #t̪rˈullɑ# | *#t̪rˈullɑ# | *#t̪ɾˈollɑ# | *#t̪ɾˈoʎɑ# | *#t̪ɾˈoʝɑ# {GOLD: #t̪ɾˈoʝɑ#}
+911    | #t̪rˈun̪kulum# | *#t̪rˈuŋkulum# | *#t̪ɾˈoŋklo# | *#t̪ɾˈoŋt͡ʃo# | *#t̪ɾˈon̪t͡ʃo# {GOLD: #t̪ɾˈon̪t͡ʃo#}
+912    | #t̪rˈun̪kum# | *#t̪rˈuŋkum# | *#t̪ɾˈoŋko# | *#t̪ɾˈoŋko# | *#t̪ɾˈon̪ko# {GOLD: #t̪ɾˈon̪ko#}
+913    | #t̪rˌin̪it̪iˈɑːre# | *#t̪rˌin̪it̪iˈɑːre# | *#t̪ɾˌen̪ed͡zˈɑɾe# | *#t̪ɾˌen̪s̪ˈɑɾ# | *#t̪ɾen̪θˈɑɾ# {GOLD: #t̪ɾen̪θˈɑɾ#}
+914    | #t̪rˌist̪ˈit̪iɑm# | *#t̪rˌist̪ˈit̪iɑm# | *#t̪ɾˌes̪t̪ˈed͡zɑ# | *#t̪ɾˌest̪ˈes̪ɑ# | *#t̪ɾest̪ˈeθɑ# {GOLD: #t̪ɾist̪ˈeθɑ#}
+915    | #t̪rˌɑːd̪it̪ˈoːrem# | *#t̪rˌɑːd̪it̪ˈoːrem# | *#t̪ɾˌɑjd̪ˈoɾe# | *#t̪ɾˌed̪ˈoɾ# | *#t̪ɾed̪ˈoɾ# {GOLD: #t̪ɾɑjd̪ˈoɾ#}
+916    | #t̪ˈekt̪um# | *#t̪ˈekt̪um# | *#t̪ˈejt̪o# | *#t̪ˈet͡ʃo# | *#t̪ˈet͡ʃo# {GOLD: #t̪ˈet͡ʃo#}
+917    | #t̪ˈempum# | *#t̪ˈempum# | *#t̪jˈempo# | *#t̪jˈempo# | *#t̪jˈempo# {GOLD: #t̪jˈempo#}
+918    | #t̪ˈen̪erum# | *#t̪ˈen̪erum# | *#t̪jˈen̪ɾo# | *#t̪jˈen̪d̪ɾo# | *#t̪jˈen̪d̪ɾo# {GOLD: #t̪jˈeɾn̪o#}
+919    | #t̪ˈepid̪um# | *#t̪ˈepid̪um# | *#t̪ˈebjo# | *#t̪ˈibjo# | *#t̪ˈibjo# {GOLD: #t̪ˈibjo#}
+920    | #t̪ˈepid̪ɑm# | *#t̪ˈepid̪ɑm# | *#t̪ˈebjɑ# | *#t̪ˈibjɑ# | *#t̪ˈibjɑ# {GOLD: #t̪ˈibjɑ#}
+921    | #t̪ˈerrɑm# | *#t̪ˈerrɑm# | *#t̪jˈerɑ# | *#t̪jˈerɑ# | *#t̪jˈerɑ# {GOLD: #t̪jˈerɑ#}
+922    | #t̪ˈeːlɑm# | *#t̪ˈeːlɑm# | *#t̪ˈelɑ# | *#t̪ˈelɑ# | *#t̪ˈelɑ# {GOLD: #t̪ˈelɑ#}
+923    | #t̪ˈeːn̪sum# | *#t̪ˈeːnsum# | *#t̪ˈezo# | *#t̪ˈeso# | *#t̪ˈeso# {GOLD: #t̪jˈeso#}
+924    | #t̪ˈeːɡulɑm# | *#t̪ˈeːɡulɑm# | *#t̪ˈeʎɑ# | *#t̪ˈeʃɑ# | *#t̪ˈexɑ# {GOLD: #t̪ˈexɑ#}
+925    | #t̪ˈin̪eɑ# | *#t̪ˈin̪eɑ# | *#t̪ˈeɲɑ# | *#t̪ˈeɲɑ# | *#t̪ˈeɲɑ# {GOLD: #t̪ˈiɲɑ#}
+926    | #t̪ˈiːn̪kt̪um# | *#t̪ˈiːn̪t̪um# | *#t̪ˈin̪t̪o# | *#t̪ˈin̪t̪o# | *#t̪ˈin̪t̪o# {GOLD: #t̪ˈin̪t̪o#}
+927    | #t̪ˈort̪um# | *#t̪ˈort̪um# | *#t̪wˈeɾt̪o# | *#t̪wˈeɾt̪o# | *#t̪wˈeɾt̪o# {GOLD: #t̪wˈeɾt̪o#}
+928    | #t̪ˈoːt̪um# | *#t̪ˈoːt̪um# | *#t̪ˈod̪o# | *#t̪ˈod̪o# | *#t̪ˈod̪o# {GOLD: #t̪ˈod̪o#}
+929    | #t̪ˈun̪ikɑm# | *#t̪ˈun̪ikɑm# | *#t̪ˈon̪eɡɑ# | *#t̪ˈon̪ɡɑ# | *#t̪ˈon̪ɡɑ# {GOLD: #t̪ˈon̪ɡɑ#}
+930    | #t̪ˈurbid̪um# | *#t̪ˈurbid̪um# | *#t̪ˈuɾbjo# | *#t̪ˈuɾbjo# | *#t̪ˈuɾbjo# {GOLD: #t̪ˈuɾbjo#}
+931    | #t̪ˈurrim# | *#t̪ˈurrim# | *#t̪ˈore# | *#t̪ˈore# | *#t̪ˈore# {GOLD: #t̪ore#}
+932    | #t̪ˈussem# | *#t̪ˈussem# | *#t̪ˈosse# | *#t̪ˈos# | *#t̪ˈos# {GOLD: #t̪ˈos#}
+933    | #t̪ˈɑbulɑm# | *#t̪ˈɑbulɑm# | *#t̪ˈɑbʎɑ# | *#t̪ˈɑblɑ# | *#t̪ˈɑblɑ# {GOLD: #t̪ˈɑblɑ#}
+934    | #t̪ˈɑbɑn̪um# | *#t̪ˈɑbɑn̪um# | *#t̪ˈɑbɑn̪o# | *#t̪ˈɑbɑn̪o# | *#t̪ˈɑbɑn̪o# {GOLD: #t̪ˈɑbɑn̪o#}
+935    | #t̪ˈɑksum# | *#t̪ˈɑksum# | *#t̪ˈɑjso# | *#t̪ˈeʃo# | *#t̪ˈexo# {GOLD: #t̪ˈexo#}
+936    | #t̪ˈɑm# | *#t̪ˈɑm# | *#t̪ˈɑn̪# | *#t̪ˈɑn̪# | *#t̪ˈɑn̪# {GOLD: #t̪ˈɑn̪#}
+937    | #t̪ˈɑn̪t̪um# | *#t̪ˈɑn̪t̪um# | *#t̪ˈɑn̪t̪o# | *#t̪ˈɑn̪t̪o# | *#t̪ˈɑn̪t̪o# {GOLD: #t̪ˈɑn̪t̪o#}
+938    | #t̪ˈɑn̪ɡoː# | *#t̪ˈɑŋɡoː# | *#t̪ˈɑŋɡo# | *#t̪ˈɑŋɡo# | *#t̪ˈɑn̪ɡo# {GOLD: #t̪ˈɑn̪ɡo#}
+939    | #t̪ˈɑrd̪e# | *#t̪ˈɑrd̪e# | *#t̪ˈɑɾd̪e# | *#t̪ˈɑɾd̪e# | *#t̪ˈɑɾd̪e# {GOLD: #t̪ˈɑɾd̪e#}
+940    | #t̪ˈɑwrum# | *#t̪ˈɑwrum# | *#t̪ˈɑwɾo# | *#t̪ˈoɾo# | *#t̪ˈoɾo# {GOLD: #t̪ˈoɾo#}
+941    | #t̪ˌeksˈeːre# | *#t̪ˌeksˈeːre# | *#t̪ˌejsˈeɾe# | *#t̪ˌeʃˈeɾ# | *#t̪exˈeɾ# {GOLD: #t̪exˈeɾ#}
+942    | #t̪ˌemporˈɑːn̪um# | *#t̪ˌemporˈɑːn̪um# | *#t̪ˌempɾˈɑn̪o# | *#t̪ˌempɾˈɑn̪o# | *#t̪empɾˈɑn̪o# {GOLD: #t̪empɾˈɑn̪o#}
+943    | #t̪ˌen̪ˈebrɑːs# | *#t̪ˌen̪ˈebrɑːs# | *#t̪ˌen̪jˈebɾɑs# | *#t̪ˌin̪jˈebɾɑs# | *#t̪in̪jˈebɾɑs# {GOLD: #t̪in̪jˈeblɑs#}
+944    | #t̪ˌerrˈoːn̪eum# | *#t̪ˌerrˈoːn̪eum# | *#t̪ˌerˈuɲo# | *#t̪ˌerˈuɲo# | *#t̪erˈuɲo# {GOLD: #t̪erˈuɲo#}
+945    | #t̪ˌert̪iˈɑːrium# | *#t̪ˌert̪iˈɑːrium# | *#t̪ˌeɾt͡sˈɑjɾo# | *#t̪ˌeɾs̪ˈeɾo# | *#t̪eɾθˈeɾo# {GOLD: #t̪eɾθˈeɾo#}
+946    | #t̪ˌormˈen̪t̪ɑm# | *#t̪ˌormˈen̪t̪ɑm# | *#t̪ˌoɾmjˈen̪t̪ɑ# | *#t̪ˌoɾmjˈen̪t̪ɑ# | *#t̪oɾmjˈen̪t̪ɑ# {GOLD: #t̪oɾmˈen̪t̪ɑ#}
+947    | #t̪ˌuːbˈellum# | *#t̪ˌuːbˈellum# | *#t̪ˌubjˈello# | *#t̪ˌubˈiʎo# | *#t̪ubˈiʝo# {GOLD: #t̪obˈiʝo#}
+948    | #t̪ˌɑksit̪ˈɑːre# | *#t̪ˌɑksit̪ˈɑːre# | *#t̪ˌɑst̪ˈɑɾe# | *#t̪ˌɑst̪ˈɑɾ# | *#t̪ɑst̪ˈɑɾ# {GOLD: #t̪ɑst̪ˈɑɾ#}
+949    | #t̪ˌɑksˈoːn̪e# | *#t̪ˌɑksˈoːn̪e# | *#t̪ˌɑjsˈon̪e# | *#t̪ˌeʃˈon̪# | *#t̪exˈon̪# {GOLD: #t̪exˈon̪#}
+950    | #t̪ˌɑmmˈɑɡn̪um# | *#t̪ˌɑmmˈɑɡn̪um# | *#t̪ˌɑmmˈɑɲo# | *#t̪ˌɑmˈɑɲo# | *#t̪ɑmˈɑɲo# {GOLD: #t̪ɑmˈɑɲo#}
+951    | #t̪ʰˌeːsˈɑwrum# | *#t̪ˌeːsˈɑwrum# | *#t̪ˌezˈɑwɾo# | *#t̪ˌesˈoɾo# | *#t̪esˈoɾo# {GOLD: #t̪esˈoɾo#}
+952    | #wˌeksˈiːkɑ# | *#wˌeksˈiːkɑ# | *#bˌejsˈiɡɑ# | *#bˌeʃˈiɡɑ# | *#bexˈiɡɑ# {GOLD: #bexˈiɡɑ#}
+953    | #wˌiːkˈiːn̪um# | *#wˌiːkˈiːn̪um# | *#bˌid͡zˈin̪o# | *#bˌes̪ˈin̪o# | *#beθˈin̪o# {GOLD: #beθˈin̪o#}
+954    | #wˈɑːɡin̪ɑ# | *#wˈɑːɡin̪ɑ# | *#bˈɑʝin̪ɑ# | *#bˈɑʝn̪ɑ# | *#bˈɑʝn̪ɑ# {GOLD: #bˈɑjn̪ɑ#}
+955    | #wˈen̪eris# | *#wˈen̪eris# | *#bjˈen̪ɾes# | *#bjˈen̪d̪ɾes# | *#bjˈen̪d̪ɾes# {GOLD: #bjˈeɾn̪es#}
+956    | #wˈen̪iː# | *#wˈen̪iː# | *#bˈen̪i# | *#bˈen̪# | *#bˈen̪# {GOLD: #bˈen̪#}
+957    | #wˈen̪t̪rem# | *#wˈen̪t̪rem# | *#bjˈen̪t̪ɾe# | *#bjˈen̪t̪ɾe# | *#bjˈen̪t̪ɾe# {GOLD: #bjˈen̪t̪ɾe#}
+958    | #wˈen̪t̪um# | *#wˈen̪t̪um# | *#bjˈen̪t̪o# | *#bjˈen̪t̪o# | *#bjˈen̪t̪o# {GOLD: #bjˈen̪t̪o#}
+959    | #wˈerbum# | *#wˈerbum# | *#bjˈeɾbo# | *#bjˈeɾbo# | *#bjˈeɾbo# {GOLD: #bˈeɾbo#}
+960    | #wˈesperɑ# | *#wˈesperɑ# | *#bjˈespɾɑ# | *#bjˈespɾɑ# | *#bjˈespɾɑ# {GOLD: #bˈispeɾɑ#}
+961    | #wˈespɑm# | *#wˈespɑm# | *#bjˈespɑ# | *#bjˈespɑ# | *#bjˈespɑ# {GOLD: #bˈispɑ#}
+962    | #wˈet̪ulum# | *#wˈet̪ulum# | *#bjˈed̪lo# | *#bjˈeld̪o# | *#bjˈeld̪o# {GOLD: #bjˈexo#}
+963    | #wˈeːn̪d̪it̪ɑm# | *#wˈeːn̪d̪it̪ɑm# | *#bˈen̪d̪ed̪ɑ# | *#bˈen̪d̪ed̪ɑ# | *#bˈen̪d̪ed̪ɑ# {GOLD: #bˈen̪t̪ɑ#}
+964    | #wˈid̪eɑt̪# | *#wˈid̪eɑt̪# | *#bˈiɑ# | *#bˈiɑ# | *#bˈiɑ# {GOLD: #bˈeɑ#}
+965    | #wˈikem# | *#wˈikem# | *#bˈed͡ze# | *#bˈes̪# | *#bˈeθ# {GOLD: #bˈeθ#}
+966    | #wˈillum# | *#wˈillum# | *#bˈello# | *#bˈeʎo# | *#bˈeʝo# {GOLD: #bˈeʝo#}
+967    | #wˈird̪iɑ# | *#wˈird̪iɑ# | *#bˈiɾʝɑ# | *#bˈiɾʝɑ# | *#bˈiɾʝɑ# {GOLD: #bˈeɾθɑ#}
+968    | #wˈirid̪em# | *#wˈirid̪em# | *#bˈeɾd̪e# | *#bˈeɾd̪e# | *#bˈeɾd̪e# {GOLD: #bˈeɾd̪e#}
+969    | #wˈit̪ium# | *#wˈit̪ium# | *#bˈed͡zo# | *#bˈes̪o# | *#bˈeθo# {GOLD: #bˈeθo#}
+970    | #wˈit̪reum# | *#wˈit̪reum# | *#bˈid̪ɾjo# | *#bˈid̪ɾjo# | *#bˈid̪ɾjo# {GOLD: #bˈid̪ɾjo#}
+971    | #wˈit̪t̪ɑm# | *#wˈit̪t̪ɑm# | *#bˈet̪t̪ɑ# | *#bˈet̪ɑ# | *#bˈet̪ɑ# {GOLD: #bˈet̪ɑ#}
+972    | #wˈiːkt̪um# | *#wˈiːkt̪um# | *#bˈijt̪o# | *#bˈit͡ʃo# | *#bˈit͡ʃo# {GOLD: #bˈit̪o#}
+973    | #wˈiːn̪eɑm# | *#wˈiːn̪eɑm# | *#bˈiɲɑ# | *#bˈiɲɑ# | *#bˈiɲɑ# {GOLD: #bˈiɲɑ#}
+974    | #wˈiːn̪um# | *#wˈiːn̪um# | *#bˈin̪o# | *#bˈin̪o# | *#bˈin̪o# {GOLD: #bˈin̪o#}
+975    | #wˈiːsum# | *#wˈiːsum# | *#bˈizo# | *#bˈiso# | *#bˈiso# {GOLD: #bˈiso#}
+976    | #wˈiːt̪em# | *#wˈiːt̪em# | *#bˈid̪e# | *#bˈid̪# | *#bˈid̪# {GOLD: #bˈid̪#}
+977    | #wˈiːt̪ɑm# | *#wˈiːt̪ɑm# | *#bˈid̪ɑ# | *#bˈid̪ɑ# | *#bˈid̪ɑ# {GOLD: #bˈid̪ɑ#}
+978    | #wˈolt̪ɑ# | *#wˈol̪t̪ɑ# | *#bˈojt̪ɑ# | *#bˈot͡ʃɑ# | *#bˈot͡ʃɑ# {GOLD: #bwˈelt̪ɑ#}
+979    | #wˈoːkem# | *#wˈoːkem# | *#bˈod͡ze# | *#bˈos̪# | *#bˈoθ# {GOLD: #bˈoθ#}
+980    | #wˈult̪urem# | *#wˈul̪t̪urem# | *#bˈujt̪ɾe# | *#bˈut͡ʃɾe# | *#bˈut͡ʃɾe# {GOLD: #bwˈit̪ɾe#}
+981    | #wˈɑkkɑm# | *#wˈɑkkɑm# | *#bˈɑkkɑ# | *#bˈɑkɑ# | *#bˈɑkɑ# {GOLD: #bˈɑkɑ#}
+982    | #wˈɑkum# | *#wˈɑkum# | *#bˈɑɡo# | *#bˈɑɡo# | *#bˈɑɡo# {GOLD: #bˈɑɡo#}
+983    | #wˈɑlleːs# | *#wˈɑlleːs# | *#bˈɑlles# | *#bˈɑʎes# | *#bˈɑʝes# {GOLD: #bˈɑʝes#}
+984    | #wˈɑllɑ# | *#wˈɑllɑ# | *#bˈɑllɑ# | *#bˈɑʎɑ# | *#bˈɑʝɑ# {GOLD: #bˈɑʝɑ#}
+985    | #wˌen̪ˈeːn̪um# | *#wˌen̪ˈeːn̪um# | *#bˌen̪ˈen̪o# | *#bˌen̪ˈen̪o# | *#ben̪ˈen̪o# {GOLD: #ben̪ˈen̪o#}
+986    | #wˌerekˈun̪d̪iɑm# | *#wˌerekˈun̪d̪iɑm# | *#bˌeɾiɡˈun̪ʝɑ# | *#bˌeɾɡˈun̪ʃɑ# | *#beɾɡˈun̪xɑ# {GOLD: #beɾɡʷˈen̪θɑ#}
+987    | #wˌermˈikulum# | *#wˌermˈikulum# | *#bˌeɾmˈeʎo# | *#bˌeɾmˈeʃo# | *#beɾmˈexo# {GOLD: #beɾmˈexo#}
+988    | #wˌest̪ˈiːt̪um# | *#wˌest̪ˈiːt̪um# | *#bˌes̪t̪ˈid̪o# | *#bˌest̪ˈid̪o# | *#best̪ˈid̪o# {GOLD: #best̪ˈid̪o#}
+989    | #wˌeːrit̪ˈɑːt̪em# | *#wˌeːrit̪ˈɑːt̪em# | *#bˌeɾt̪ˈɑd̪e# | *#bˌeɾt̪ˈɑd̪# | *#beɾt̪ˈɑd̪# {GOLD: #beɾd̪ˈɑd̪#}
+990    | #wˌeːsˈiːkɑm# | *#wˌeːsˈiːkɑm# | *#bˌezˈiɡɑ# | *#bˌesˈiɡɑ# | *#besˈiɡɑ# {GOLD: #bexˈiɡɑ#}
+991    | #wˌikˈiːn̪um# | *#wˌikˈiːn̪um# | *#bˌed͡zˈin̪o# | *#bˌes̪ˈin̪o# | *#beθˈin̪o# {GOLD: #beθˈin̪o#}
+992    | #wˌin̪d̪ikˈɑːre# | *#wˌin̪d̪ikˈɑːre# | *#bˌen̪d̪eɡˈɑɾe# | *#bˌen̪zɡˈɑɾ# | *#ben̪zɡˈɑɾ# {GOLD: #ben̪ɡˈɑɾ#}
+993    | #wˌin̪d̪ˈeːmiɑ# | *#wˌin̪d̪ˈeːmiɑ# | *#bˌin̪d̪ˈimjɑ# | *#bˌen̪d̪ˈimjɑ# | *#ben̪d̪ˈimjɑ# {GOLD: #ben̪d̪ˈimjɑ#}
+994    | #wˌin̪kˈikulum# | *#wˌiŋkˈikulum# | *#bˌeŋt͡sˈeʎo# | *#bˌeŋs̪ˈeʃo# | *#ben̪θˈexo# {GOLD: #ben̪θˈexo#}
+995    | #wˌirt̪ˈuːt̪em# | *#wˌirt̪ˈuːt̪em# | *#bˌeɾt̪ˈud̪e# | *#bˌeɾt̪ˈud̪# | *#beɾt̪ˈud̪# {GOLD: #biɾt̪ˈud̪#}
+996    | #wˈirɡin̪em# | *#wˈirɡin̪em# | *#bˈeɾʝen̪e# | *#bˈeɾʝen̪# | *#bˈeɾʝen̪# {GOLD: #bˈiɾxen̪#}
+997    | #wˌiːɡˈin̪t̪i# | *#wˌiːɡˈin̪t̪i# | *#bˌiˈin̪t̪e# | *#bˌeˈin̪t̪e# | *#beˈin̪t̪e# {GOLD: #bˈejn̪t̪e#}
+998    | #wˌolun̪t̪ˈɑːt̪em# | *#wˌolun̪t̪ˈɑːt̪em# | *#bˌoln̪t̪ˈɑd̪e# | *#bˌoln̪t̪ˈɑd̪# | *#boln̪t̪ˈɑd̪# {GOLD: #bolun̪t̪ˈɑd̪#}
+999    | #wˌɑkwˈɑːt̪ɑ# | *#wˌɑkwˈɑːt̪ɑ# | *#bˌɑɡʷˈɑd̪ɑ# | *#bˌɑɡʷˈɑd̪ɑ# | *#bɑɡʷˈɑd̪ɑ# {GOLD: #bɑɡʷˈɑd̪ɑ#}
+1000   | #wˌɑkˈiːwum# | *#wˌɑkˈiːwum# | *#bˌɑd͡zˈio# | *#bˌɑs̪ˈio# | *#bɑθˈio# {GOLD: #bɑθˈio#}
+1001   | #wˌɑlˈen̪t̪em# | *#wˌɑlˈen̪t̪em# | *#bˌɑljˈen̪t̪e# | *#bˌɑljˈen̪t̪e# | *#bɑljˈen̪t̪e# {GOLD: #bɑljˈen̪t̪e#}
+1002   | #wˌɑrˈiolɑ# | *#wˌɑrˈiolɑ# | *#bˌɑjɾwˈelɑ# | *#bˌiɾwˈelɑ# | *#biɾwˈelɑ# {GOLD: #biɾwˈelɑ#}
+1003   | #ˌɑd̪t̪rˈɑn̪s# | *#ˌɑd̪t̪rˈɑːn̪s# | *#ˌɑt̪t̪ɾˈɑs# | *#ˌɑt̪ɾˈɑs# | *#ɑt̪ɾˈɑs# {GOLD: #ɑt̪ɾˈɑs#}
+1004   | #ˌɑwd̪ˈiːre# | *#ˌɑwd̪ˈiːre# | *#ˌɑwˈiɾe# | *#ˌoˈiɾ# | *#oˈiɾ# {GOLD: #oˈiɾ#}
+1005   | #ɡlˈɑn̪d̪e# | *#ɡlˈɑn̪d̪e# | *#lˈɑn̪d̪e# | *#lˈɑn̪d̪e# | *#lˈɑn̪d̪e# {GOLD: #lˈɑn̪d̪e#}
+1006   | #ɡlˌɑt̪t̪ˈiːre# | *#ɡlˌɑt̪t̪ˈiːre# | *#lˌɑt̪t̪ˈiɾe# | *#lˌɑt̪ˈiɾ# | *#lɑt̪ˈiɾ# {GOLD: #lɑt̪ˈiɾ#}
+1007   | #ɡrˈae̯kum# | *#ɡrˈae̯kum# | *#ɡɾjˈeɡo# | *#ɡɾjˈeɡo# | *#ɡɾjˈeɡo# {GOLD: #ɡɾjˈeɡo#}
+1008   | #ɡrˈossum# | *#ɡrˈossum# | *#ɡɾwˈesso# | *#ɡɾwˈeso# | *#ɡɾwˈeso# {GOLD: #ɡɾwˈeso#}
+1009   | #ɡrˈyllum# | *#ɡrˈyllum# | *#ɡɾˈøllo# | *#ɡɾˈøʎo# | *#ɡɾˈøʝo# {GOLD: #ɡɾˈiʝo#}
+1010   | #ɡrˈɑn̪d̪em# | *#ɡrˈɑn̪d̪em# | *#ɡɾˈɑn̪d̪e# | *#ɡɾˈɑn̪d̪e# | *#ɡɾˈɑn̪d̪e# {GOLD: #ɡɾˈɑn̪d̪e#}
+1011   | #ɡrˈɑːn̪um# | *#ɡrˈɑːn̪um# | *#ɡɾˈɑn̪o# | *#ɡɾˈɑn̪o# | *#ɡɾˈɑn̪o# {GOLD: #ɡɾˈɑn̪o#}
+1012   | #ɡrˌun̪n̪ˈiːre# | *#ɡrˌun̪n̪ˈiːre# | *#ɡɾˌon̪n̪ˈiɾe# | *#ɡɾˌoɲˈiɾ# | *#ɡɾoɲˈiɾ# {GOLD: #ɡɾuɲˈiɾ#}
+1013   | #ɡrˌɑwit̪ˈɑːt̪em# | *#ɡrˌɑwit̪ˈɑːt̪em# | *#ɡɾˌɑbed̪ˈɑd̪e# | *#ɡɾˌɑwd̪ˈɑd̪# | *#ɡɾɑwd̪ˈɑd̪# {GOLD: #ɡɾɑbed̪ˈɑd̪#}
+1014   | #ɡrˌɑːn̪ˈɑːrium# | *#ɡrˌɑːn̪ˈɑːrium# | *#ɡɾˌɑn̪ˈɑjɾo# | *#ɡɾˌɑn̪ˈeɾo# | *#ɡɾɑn̪ˈeɾo# {GOLD: #ɡɾɑn̪ˈeɾo#}
+1015   | #ɡˈeluː# | *#ɡˈeluː# | *#ʝjˈelu# | *#ʝˈelo# | *#ʝˈelo# {GOLD: #ʝˈelo#}
+1016   | #ɡˈemmɑm# | *#ɡˈemmɑm# | *#ʝjˈemmɑ# | *#ʝˈemɑ# | *#ʝˈemɑ# {GOLD: #ʝˈemɑ#}
+1017   | #ɡˈen̪erum# | *#ɡˈen̪erum# | *#ʝjˈen̪ɾo# | *#ʝˈen̪d̪ɾo# | *#ʝˈen̪d̪ɾo# {GOLD: #ʝˈeɾn̪o#}
+1018   | #ɡˈen̪t̪em# | *#ɡˈen̪t̪em# | *#ʝjˈen̪t̪e# | *#ʝˈen̪t̪e# | *#ʝˈen̪t̪e# {GOLD: #xˈen̪t̪e#}
+1019   | #ɡˈipsum# | *#ɡˈipsum# | *#ʝˈesso# | *#ʝˈeso# | *#ʝˈeso# {GOLD: #ʝˈeso#}
+1020   | #ɡˈubiɑ# | *#ɡˈubiɑ# | *#ɡˈubjɑ# | *#ɡˈubjɑ# | *#ɡˈubjɑ# {GOLD: #ɡˈubjɑ#}
+1021   | #ɡˈurd̪um# | *#ɡˈurd̪um# | *#ɡˈoɾd̪o# | *#ɡˈoɾd̪o# | *#ɡˈoɾd̪o# {GOLD: #ɡˈoɾd̪o#}
+1022   | #ɡˈut̪t̪ɑm# | *#ɡˈut̪t̪ɑm# | *#ɡˈot̪t̪ɑ# | *#ɡˈot̪ɑ# | *#ɡˈot̪ɑ# {GOLD: #ɡˈot̪ɑ#}
+1023   | #ɡˈɑllikum# | *#ɡˈɑllikum# | *#ɡˈɑlleɡo# | *#ɡˈɑʎɡo# | *#ɡˈɑʝɡo# {GOLD: #ɡˈɑlɡo#}
+1024   | #ɡˈɑllum# | *#ɡˈɑllum# | *#ɡˈɑllo# | *#ɡˈɑʎo# | *#ɡˈɑʝo# {GOLD: #ɡˈɑʝo#}
+1025   | #ɡˈɑwd̪ium# | *#ɡˈɑwd̪ium# | *#ɡˈɑwʝo# | *#ɡˈoʃo# | *#ɡˈoxo# {GOLD: #ɡˈoθo#}
+1026   | #ɡˌelˈɑːre# | *#ɡˌelˈɑːre# | *#ˌelˈɑɾe# | *#ˌelˈɑɾ# | *#elˈɑɾ# {GOLD: #elˈɑɾ#}
+1027   | #ɡˌen̪ˈest̪ɑm# | *#ɡˌen̪ˈest̪ɑm# | *#ˌen̪jˈes̪t̪ɑ# | *#ˌin̪jˈest̪ɑ# | *#in̪jˈest̪ɑ# {GOLD: #in̪jˈest̪ɑ#}
+1028   | #ɡˌermˈɑːn̪um# | *#ɡˌermˈɑːn̪um# | *#ˌeɾmˈɑn̪o# | *#ˌeɾmˈɑn̪o# | *#eɾmˈɑn̪o# {GOLD: #eɾmˈɑn̪o#}
+1029   | #ɡˌin̪ɡˈiːwɑm# | *#ɡˌiŋɡˈiːwɑm# | *#ˌiŋʝˈiɑ# | *#ˌeŋʃˈiɑ# | *#en̪xˈiɑ# {GOLD: #en̪θˈiɑ#}
+1030   | #ɡˌubern̪ɑt̪ˈoːre# | *#ɡˌubern̪ɑt̪ˈoːre# | *#ɡˌobeɾn̪ɑd̪ˈoɾe# | *#ɡˌobeɾn̪ɑd̪ˈoɾ# | *#ɡobeɾn̪ɑd̪ˈoɾ# {GOLD: #ɡobeɾn̪ɑd̪ˈoɾ#}
+1031   | #ɡˌulˈoːsum# | *#ɡˌulˈoːsum# | *#ɡˌolˈozo# | *#ɡˌolˈoso# | *#ɡolˈoso# {GOLD: #ɡolˈoso#}
+1032   | #ɡˌurɡuliˈoːn̪em# | *#ɡˌurɡuliˈoːn̪em# | *#ɡˌoɾɡuʎˈon̪e# | *#ɡˌoɾɡʃˈon̪# | *#ɡoɾɡxˈon̪# {GOLD: #ɡoɾɡˈoxo#}
+1033   | #ɡˌyːrˈɑːre# | *#ɡˌyːrˈɑːre# | *#ˌyɾˈɑɾe# | *#ˌyɾˈɑɾ# | *#yɾˈɑɾ# {GOLD: #xiɾˈɑɾ#}
+1034   | #ɡˌɑllˈellum# | *#ɡˌɑllˈellum# | *#ɡˌɑlljˈello# | *#ɡˌɑlˈiʎo# | *#ɡɑlˈiʝo# {GOLD: #ɡɑlˈiʝo#}
+1035   | #ɡˌɑllˈiːn̪ɑ# | *#ɡˌɑllˈiːn̪ɑ# | *#ɡˌɑllˈin̪ɑ# | *#ɡˌɑʎˈin̪ɑ# | *#ɡɑʝˈin̪ɑ# {GOLD: #ɡɑʝˈin̪ɑ#}
+1036   | #ɡˌɑn̪n̪ˈiːt̪um# | *#ɡˌɑn̪n̪ˈiːt̪um# | *#ɡˌɑn̪n̪ˈid̪o# | *#ɡˌɑɲˈid̪o# | *#ɡɑɲˈid̪o# {GOLD: #ɡɑɲˈid̪o#}
+1037   | #ˈaːeːrem# | *#ˈaːeːrem# | *#ˈaeɾe# | *#ˈaeɾ# | *#ˈaeɾ# {GOLD: #ˈɑjɾe#}
+1038   | #ˈekwɑ# | *#ˈekwɑ# | *#jˈeɡʷɑ# | *#ʝˈeɡʷɑ# | *#ʝˈeɡʷɑ# {GOLD: #ʝˈeɡʷɑ#}
+1039   | #ˈeremum# | *#ˈeremum# | *#jˈeɾmo# | *#ʝˈeɾmo# | *#ʝˈeɾmo# {GOLD: #ʝˈeɾmo#}
+1040   | #ˈeːskɑm# | *#ˈeːskɑm# | *#ˈeskɑ# | *#ˈeskɑ# | *#ˈeskɑ# {GOLD: #ʝˈeskɑ#}
+1041   | #ˈiberum# | *#ˈiberum# | *#ˈebɾo# | *#ˈebɾo# | *#ˈebɾo# {GOLD: #ˈebɾo#}
+1042   | #ˈilloːs# | *#ˈilloːs# | *#ˈellos# | *#ˈeʎos# | *#ˈeʝos# {GOLD: #ˈeʝos#}
+1043   | #ˈillɑːs# | *#ˈillɑːs# | *#ˈellɑs# | *#ˈeʎɑs# | *#ˈeʝɑs# {GOLD: #ˈeʝɑs#}
+1044   | #ˈimpleoː# | *#ˈimpleoː# | *#ˈempʎo# | *#ˈemt͡ʃo# | *#ˈemt͡ʃo# {GOLD: #ˈin̪t͡ʃo#}
+1045   | #ˈin̪# | *#ˈin̪# | *#ˈen̪# | *#ˈen̪# | *#ˈen̪# {GOLD: #ˈen̪#}
+1046   | #ˈin̪floː# | *#ˈiːmfloː# | *#ˈimflo# | *#ˈimt͡ʃo# | *#ˈimt͡ʃo# {GOLD: #ˈin̪t͡ʃo#}
+1047   | #ˈin̪t̪er# | *#ˈin̪t̪er# | *#ˈen̪t̪eɾ# | *#ˈen̪t̪eɾ# | *#ˈen̪t̪eɾ# {GOLD: #ˈen̪t̪ɾe#}
+1048   | #ˈipse# | *#ˈipse# | *#ˈesse# | *#ˈes# | *#ˈes# {GOLD: #ˈese#}
+1049   | #ˈipsum# | *#ˈipsum# | *#ˈesso# | *#ˈeso# | *#ˈeso# {GOLD: #ˈeso#}
+1050   | #ˈist̪e# | *#ˈist̪e# | *#ˈes̪t̪e# | *#ˈest̪e# | *#ˈest̪e# {GOLD: #ˈest̪e#}
+1051   | #ˈist̪ud̪# | *#ˈist̪ud̪# | *#ˈes̪t̪o# | *#ˈest̪o# | *#ˈest̪o# {GOLD: #ˈest̪o#}
+1052   | #ˈiːn̪sulɑm# | *#ˈiːnsulɑm# | *#ˈizʎɑ# | *#ˈislɑ# | *#ˈislɑ# {GOLD: #ˈislɑ#}
+1053   | #ˈiːn̪ɡuin̪em# | *#ˈiːŋɡuin̪em# | *#ˈiŋɡwen̪e# | *#ˈiŋɡwen̪# | *#ˈin̪ɡwen̪# {GOLD: #ˈin̪ɡle#}
+1054   | #ˈiːrɑm# | *#ˈiːrɑm# | *#ˈiɾɑ# | *#ˈiɾɑ# | *#ˈiɾɑ# {GOLD: #ˈiɾɑ#}
+1055   | #ˈokko# | *#ˈokko# | *#wˈekko# | *#wˈeko# | *#wˈeko# {GOLD: #wˈeko#}
+1056   | #ˈokt̪oː# | *#ˈokt̪oː# | *#ˈojt̪o# | *#ˈot͡ʃo# | *#ˈot͡ʃo# {GOLD: #ˈot͡ʃo#}
+1057   | #ˈokulum# | *#ˈokulum# | *#ˈoʎo# | *#ˈoʃo# | *#ˈoxo# {GOLD: #ˈoxo#}
+1058   | #ˈoperɑm# | *#ˈoperɑm# | *#wˈebɾɑ# | *#wˈebɾɑ# | *#wˈebɾɑ# {GOLD: #wˈebɾɑ#}
+1059   | #ˈoːrd̪in̪em# | *#ˈoːrd̪in̪em# | *#ˈoɾd̪en̪e# | *#ˈoɾd̪en̪# | *#ˈoɾd̪en̪# {GOLD: #ˈoɾd̪en̪#}
+1060   | #ˈorsum# | *#ˈorsum# | *#wˈesso# | *#wˈeso# | *#wˈeso# {GOLD: #ˈoso#}
+1061   | #ˈort̪um# | *#ˈort̪um# | *#wˈeɾt̪o# | *#wˈeɾt̪o# | *#wˈeɾt̪o# {GOLD: #wˈeɾt̪o#}
+1062   | #ˈossum# | *#ˈossum# | *#wˈesso# | *#wˈeso# | *#wˈeso# {GOLD: #wˈeso#}
+1063   | #ˈoːwum# | *#ˈoːwum# | *#ˈobo# | *#ˈobo# | *#ˈobo# {GOLD: #wˈebo#}
+1064   | #ˈulmum# | *#ˈulmum# | *#ˈolmo# | *#ˈolmo# | *#ˈolmo# {GOLD: #ˈolmo#}
+1065   | #ˈult̪imum# | *#ˈul̪t̪imum# | *#ˈujt̪emo# | *#ˈut͡ʃemo# | *#ˈut͡ʃemo# {GOLD: #ult̪imo#}
+1066   | #ˈun̪d̪ekim# | *#ˈun̪d̪ekim# | *#ˈon̪d̪ed͡ze# | *#ˈon̪d̪es̪# | *#ˈon̪d̪eθ# {GOLD: #ˈon̪θe#}
+1067   | #ˈun̪kiɑm# | *#ˈuŋkiɑm# | *#ˈoŋt͡sɑ# | *#ˈoŋs̪ɑ# | *#ˈon̪θɑ# {GOLD: #ˈon̪θɑ#}
+1068   | #ˈun̪kt̪um# | *#ˈuːn̪t̪um# | *#ˈun̪t̪o# | *#ˈun̪t̪o# | *#ˈun̪t̪o# {GOLD: #ˈun̪t̪o#}
+1069   | #ˈun̪ɡulɑm# | *#ˈuŋɡulɑm# | *#ˈoŋɡʎɑ# | *#ˈoŋɡlɑ# | *#ˈon̪ɡlɑ# {GOLD: #ˈuɲɑ#}
+1070   | #ˈursum# | *#ˈursum# | *#ˈosso# | *#ˈoso# | *#ˈoso# {GOLD: #ˈoso#}
+1071   | #ˈuːberem# | *#ˈuːberem# | *#ˈubɾe# | *#ˈubɾe# | *#ˈubɾe# {GOLD: #ˈubɾe#}
+1072   | #ˈuːsum# | *#ˈuːsum# | *#ˈuzo# | *#ˈuso# | *#ˈuso# {GOLD: #ˈuso#}
+1073   | #ˈuːwɑ# | *#ˈuːwɑ# | *#ˈubɑ# | *#ˈubɑ# | *#ˈubɑ# {GOLD: #ˈubɑ#}
+1074   | #ˈɑd̪# | *#ˈɑd̪# | *#ˈɑ# | *#ˈɑ# | *#ˈɑ# {GOLD: #ˈɑ#}
+1075   | #ˈɑffloː# | *#ˈɑffloː# | *#ˈɑfflo# | *#ˈɑt͡ʃo# | *#ˈɑt͡ʃo# {GOLD: #ˈɑʝo#}
+1076   | #ˈɑfrikum# | *#ˈɑfrikum# | *#ˈɑvɾeɡo# | *#ˈɑbɾeɡo# | *#ˈɑbɾeɡo# {GOLD: #ˈɑbɾeɡo#}
+1077   | #ˈɑkerem# | *#ˈɑkerem# | *#ˈɑjɾe# | *#ˈeɾ# | *#ˈeɾ# {GOLD: #ˈɑɾθe#}
+1078   | #ˈɑkiem# | *#ˈɑkiem# | *#ˈɑd͡ze# | *#ˈɑs̪# | *#ˈɑθ# {GOLD: #ˈɑθ#}
+1079   | #ˈɑksem# | *#ˈɑksem# | *#ˈɑjse# | *#ˈeʃe# | *#ˈexe# {GOLD: #ˈexe#}
+1080   | #ˈɑkwɑm# | *#ˈɑkwɑm# | *#ˈɑɡʷɑ# | *#ˈɑɡʷɑ# | *#ˈɑɡʷɑ# {GOLD: #ˈɑɡʷɑ#}
+1081   | #ˈɑlid̪# | *#ˈɑlid̪# | *#ˈɑle# | *#ˈɑl# | *#ˈɑl# {GOLD: #ˈɑl#}
+1082   | #ˈɑlikwod̪# | *#ˈɑlikwod̪# | *#ˈɑleɡo# | *#ˈɑlɡo# | *#ˈɑlɡo# {GOLD: #ˈɑlɡo#}
+1083   | #ˈɑlt̪erum# | *#ˈɑl̪t̪erum# | *#ˈɑwt̪ɾo# | *#ˈot̪ɾo# | *#ˈot̪ɾo# {GOLD: #ˈot̪ɾo#}
+1084   | #ˈɑlt̪um# | *#ˈɑl̪t̪um# | *#ˈɑwt̪o# | *#ˈot̪o# | *#ˈot̪o# {GOLD: #ˈɑlt̪o#}
+1085   | #ˈɑlɑ# | *#ˈɑlɑ# | *#ˈɑlɑ# | *#ˈɑlɑ# | *#ˈɑlɑ# {GOLD: #ˈɑlɑ#}
+1086   | #ˈɑmit̪eːs# | *#ˈɑmit̪eːs# | *#ˈɑmed̪es# | *#ˈɑn̪d̪es# | *#ˈɑn̪d̪es# {GOLD: #ˈɑn̪d̪es#}
+1087   | #ˈɑmplum# | *#ˈɑmplum# | *#ˈɑmplo# | *#ˈɑmt͡ʃo# | *#ˈɑmt͡ʃo# {GOLD: #ˈɑn̪t͡ʃo#}
+1088   | #ˈɑn̪imɑm# | *#ˈɑn̪imɑm# | *#ˈɑn̪emɑ# | *#ˈɑn̪mɑ# | *#ˈɑn̪mɑ# {GOLD: #ˈɑlmɑ#}
+1089   | #ˈɑn̪ksiɑ# | *#ˈɑːŋksiɑ# | *#ˈɑŋssjɑ# | *#ˈɑŋsjɑ# | *#ˈɑn̪sjɑ# {GOLD: #ˈɑn̪sjɑ#}
+1090   | #ˈɑn̪n̪um# | *#ˈɑn̪n̪um# | *#ˈɑn̪n̪o# | *#ˈɑɲo# | *#ˈɑɲo# {GOLD: #ˈɑɲo#}
+1091   | #ˈɑn̪sɑm# | *#ˈɑːnsɑm# | *#ˈɑzɑ# | *#ˈɑsɑ# | *#ˈɑsɑ# {GOLD: #ˈɑsɑ#}
+1092   | #ˈɑn̪um# | *#ˈɑn̪um# | *#ˈɑn̪o# | *#ˈɑn̪o# | *#ˈɑn̪o# {GOLD: #ˈɑn̪o#}
+1093   | #ˈɑpium# | *#ˈɑpium# | *#ˈɑjpo# | *#ˈepo# | *#ˈepo# {GOLD: #ˈɑpjo#}
+1094   | #ˈɑrborem# | *#ˈɑrborem# | *#ˈɑɾbɾe# | *#ˈɑɾbɾe# | *#ˈɑɾbɾe# {GOLD: #ˈɑɾbol#}
+1095   | #ˈɑːreɑm# | *#ˈɑːreɑm# | *#ˈɑjɾɑ# | *#ˈeɾɑ# | *#ˈeɾɑ# {GOLD: #ˈeɾɑ#}
+1096   | #ˌɑrkiˈoːn̪em# | *#ˌɑrkiˈoːn̪em# | *#ˌɑɾt͡sˈon̪e# | *#ˌɑɾs̪ˈon̪# | *#ɑɾθˈon̪# {GOLD: #ɑɾθˈon̪#}
+1097   | #ˈɑrkum# | *#ˈɑrkum# | *#ˈɑɾko# | *#ˈɑɾko# | *#ˈɑɾko# {GOLD: #ˈɑɾko#}
+1098   | #ˈɑsin̪um# | *#ˈɑsin̪um# | *#ˈɑzn̪o# | *#ˈɑsn̪o# | *#ˈɑsn̪o# {GOLD: #ˈɑsn̪o#}
+1099   | #ˈɑst̪rum# | *#ˈɑst̪rum# | *#ˈɑs̪t̪ɾo# | *#ˈɑst̪ɾo# | *#ˈɑst̪ɾo# {GOLD: #ˈɑst̪ɾo#}
+1100   | #ˈɑst̪ʰmɑm# | *#ˈɑsmɑm# | *#ˈɑzmɑ# | *#ˈɑsmɑ# | *#ˈɑsmɑ# {GOLD: #ˈɑsmɑ#}
+1101   | #ˈɑwem# | *#ˈɑwem# | *#ˈɑbe# | *#ˈɑbe# | *#ˈɑbe# {GOLD: #ˈɑbe#}
+1102   | #ˌɑːwˈersum# | *#ˌɑːwˈersum# | *#ˌɑbjˈesso# | *#ˌɑbjˈeso# | *#ɑbjˈeso# {GOLD: #ɑbjˈeso#}
+1103   | #ˈɑwrid̪iˈɑːre# | *#ˈɑwrid̪iˈɑːre# | *#ˈɑwɾʝˈɑɾe# | *#ˈoɾʝˈɑɾ# | *#ˈoɾʝˈɑɾ# {GOLD: #oɾeˈɑɾ#}
+1104   | #ˈɑwrum# | *#ˈɑwrum# | *#ˈɑwɾo# | *#ˈoɾo# | *#ˈoɾo# {GOLD: #ˈoɾo#}
+1105   | #ˈɑwt̪# | *#ˈɑwt̪# | *#ˈɑw# | *#ˈo# | *#ˈo# {GOLD: #ˈo#}
+1106   | #ˌae̯kwɑlit̪ˈɑːt̪em# | *#ˌae̯kwɑlit̪ˈɑːt̪em# | *#ˌeɡʷɑwt̪ˈɑd̪e# | *#ˌeɡʷot̪ˈɑd̪# | *#eɡʷot̪ˈɑd̪# {GOLD: #iɡʷɑld̪ˈɑd̪#}
+1107   | #ˌae̯kwˈɑːlem# | *#ˌae̯kwˈɑːlem# | *#ˌeɡʷˈɑle# | *#ˌeɡʷˈɑl# | *#eɡʷˈɑl# {GOLD: #iɡʷˈɑl#}
+1108   | #ˌae̯st̪ˈiːwum# | *#ˌae̯st̪ˈiːwum# | *#ˌis̪t̪ˈio# | *#ˌest̪ˈio# | *#est̪ˈio# {GOLD: #est̪ˈio#}
+1109   | #ˌae̯t̪ˈɑːt̪em# | *#ˌae̯t̪ˈɑːt̪em# | *#ˌed̪ˈɑd̪e# | *#ˌed̪ˈɑd̪# | *#ed̪ˈɑd̪# {GOLD: #ed̪ˈɑd̪#}
+1110   | #ˌekklˈeːsiɑm# | *#ˌekklˈeːsiɑm# | *#ˌekkʎˈejzɑ# | *#ˌet͡ʃˈesɑ# | *#et͡ʃˈesɑ# {GOLD: #iɡlˈesjɑ#}
+1111   | #ˌekskˌɑrpt̪iˈɑːre# | *#ˌekskˌɑrt̪iˈɑːre# | *#ˌeskˌɑɾt͡sˈɑɾe# | *#ˌeskˌɑɾs̪ˈɑɾ# | *#eskɑɾθˈɑɾ# {GOLD: #eskɑɾθˈɑɾ#}
+1112   | #ˌeksˈemplum# | *#ˌeksˈemplum# | *#ˌejsjˈemplo# | *#ˌeʃˈemt͡ʃo# | *#exˈemt͡ʃo# {GOLD: #exˈemplo#}
+1113   | #ˌeksˈiːt̪um# | *#ˌeksˈiːt̪um# | *#ˌejsˈid̪o# | *#ˌeʃˈid̪o# | *#exˈid̪o# {GOLD: #exˈid̪o#}
+1114   | #ˌerrˈoːrem# | *#ˌerrˈoːrem# | *#ˌerˈoɾe# | *#ˌerˈoɾ# | *#erˈoɾ# {GOLD: #erˈoɾ#}
+1115   | #ˌeːrˈiːkium# | *#ˌeːrˈiːkium# | *#ˌeɾˈid͡zo# | *#ˌeɾˈis̪o# | *#eɾˈiθo# {GOLD: #eɾˈiθo#}
+1116   | #ˌimperɑːt̪ˈoːre# | *#ˌimperɑːt̪ˈoːre# | *#ˌempeɾɑd̪ˈoɾe# | *#ˌempeɾɑd̪ˈoɾ# | *#empeɾɑd̪ˈoɾ# {GOLD: #empeɾɑd̪ˈoɾ#}
+1117   | #ˌimpˈosit̪um# | *#ˌimpˈosit̪um# | *#ˌempwˈest̪o# | *#ˌempwˈest̪o# | *#empwˈest̪o# {GOLD: #impwˈest̪o#}
+1118   | #ˌimpˈulsum# | *#ˌimpˈulsum# | *#ˌempˈujso# | *#ˌempˈuʃo# | *#empˈuxo# {GOLD: #empˈuxo#}
+1119   | #ˌimpˈulsɑt̪# | *#ˌimpˈulsɑt̪# | *#ˌempˈujsɑ# | *#ˌempˈuʃɑ# | *#empˈuxɑ# {GOLD: #empˈuxɑ#}
+1120   | #ˌin̪d̪ˈikt̪ɑ# | *#ˌin̪d̪ˈikt̪ɑ# | *#ˌen̪d̪ˈejt̪ɑ# | *#ˌen̪d̪ˈet͡ʃɑ# | *#en̪d̪ˈet͡ʃɑ# {GOLD: #en̪d̪ˈet͡ʃɑ#}
+1121   | #ˌin̪d̪ˈikulɑ# | *#ˌin̪d̪ˈikulɑ# | *#ˌen̪d̪ˈeʎɑ# | *#ˌen̪d̪ˈeʃɑ# | *#en̪d̪ˈexɑ# {GOLD: #en̪d̪ˈexɑ#}
+1122   | #ˌin̪imˈiːkum# | *#ˌin̪imˈiːkum# | *#ˌen̪emˈiɡo# | *#ˌen̪mˈiɡo# | *#en̪mˈiɡo# {GOLD: #en̪emˈiɡo#}
+1123   | #ˌin̪kˈert̪um# | *#ˌiŋkˈert̪um# | *#ˌeŋt͡sjˈeɾt̪o# | *#ˌeŋs̪jˈeɾt̪o# | *#en̪θjˈeɾt̪o# {GOLD: #in̪θjˈeɾt̪o#}
+1124   | #ˌin̪kˈiːn̪kt̪ɑ# | *#ˌiŋkˈiːn̪t̪ɑ# | *#ˌeŋt͡sˈin̪t̪ɑ# | *#ˌeŋs̪ˈin̪t̪ɑ# | *#en̪θˈin̪t̪ɑ# {GOLD: #en̪θˈin̪t̪ɑ#}
+1125   | #ˌin̪lˈɑkweɑ# | *#ˌinlˈɑkweɑ# | *#ˌenlˈɑjkʷɑ# | *#ˌenlˈekʷɑ# | *#enlˈekʷɑ# {GOLD: #en̪lˈɑθɑ#}
+1126   | #ˌin̪t̪erˈɑːn̪eɑ# | *#ˌin̪t̪erˈɑːn̪eɑ# | *#ˌen̪t̪ɾˈɑɲɑ# | *#ˌen̪t̪ɾˈɑɲɑ# | *#en̪t̪ɾˈɑɲɑ# {GOLD: #en̪t̪ɾˈɑɲɑ#}
+1127   | #ˌin̪t̪ˈeɡrum# | *#ˌin̪t̪ˈeɡrum# | *#ˌen̪t̪ˈejɾo# | *#ˌen̪t̪ˈeɾo# | *#en̪t̪ˈeɾo# {GOLD: #en̪t̪ˈeɾo#}
+1128   | #ˌin̪ɡˌɑn̪n̪ˈɑːre# | *#ˌiŋɡˌɑn̪n̪ˈɑːre# | *#ˌeŋɡˌɑn̪n̪ˈɑɾe# | *#ˌeŋɡˌɑɲˈɑɾ# | *#en̪ɡɑɲˈɑɾ# {GOLD: #en̪ɡɑɲˈɑɾ#}
+1129   | #ˌin̪ɡˌen̪erˈɑːre# | *#ˌiŋɡˌen̪erˈɑːre# | *#ˌeŋʝˌen̪ɾˈɑɾe# | *#ˌeŋʃˌen̪d̪ɾˈɑɾ# | *#en̪xen̪d̪ɾˈɑɾ# {GOLD: #en̪xen̪d̪ɾˈɑɾ#}
+1130   | #ˌit̪erˈɑːre# | *#ˌit̪erˈɑːre# | *#ˌed̪ɾˈɑɾe# | *#ˌed̪ɾˈɑɾ# | *#ed̪ɾˈɑɾ# {GOLD: #ed̪ɾˈɑɾ#}
+1131   | #ˌiːn̪fˈern̪um# | *#ˌiːmfˈern̪um# | *#ˌimfjˈeɾn̪o# | *#ˌimjˈeɾn̪o# | *#imjˈeɾn̪o# {GOLD: #in̪fjˈeɾn̪o#}
+1132   | #ˌoffˌoːkˈɑːre# | *#ˌoffˌoːkˈɑːre# | *#ˌoffˌoɡˈɑɾe# | *#ˌoɡˈɑɾ# | *#oɡˈɑɾ# {GOLD: #ɑoɡˈɑɾ#}
+1133   | #ˌokkˈɑːsum# | *#ˌokkˈɑːsum# | *#ˌokkˈɑzo# | *#ˌokˈɑso# | *#okˈɑso# {GOLD: #okˈɑso#}
+1134   | #ˌoperˈɑːrium# | *#ˌoperˈɑːrium# | *#ˌobɾˈɑjɾo# | *#ˌobɾˈeɾo# | *#obɾˈeɾo# {GOLD: #obɾˈeɾo#}
+1135   | #ˌowˈikulɑ# | *#ˌowˈikulɑ# | *#ˌobˈeʎɑ# | *#ˌobˈeʃɑ# | *#obˈexɑ# {GOLD: #obˈexɑ#}
+1136   | #ˌoːrd̪ˈin̪ium# | *#ˌoːrd̪ˈin̪ium# | *#ˌoɾd̪ˈeɲo# | *#ˌoɾd̪ˈeɲo# | *#oɾd̪ˈeɲo# {GOLD: #oɾd̪ˈeɲo#}
+1137   | #ˌoːrd̪ˈiːre# | *#ˌoːrd̪ˈiːre# | *#ˌoɾd̪ˈiɾe# | *#ˌoɾd̪ˈiɾ# | *#oɾd̪ˈiɾ# {GOLD: #uɾd̪ˈiɾ#}
+1138   | #ˌumbilˈiːkum# | *#ˌumbilˈiːkum# | *#ˌombʎˈiɡo# | *#ˌomblˈiɡo# | *#omblˈiɡo# {GOLD: #omblˈiɡo#}
+1139   | #ˌurt̪ˈiːkɑm# | *#ˌurt̪ˈiːkɑm# | *#ˌoɾt̪ˈiɡɑ# | *#ˌoɾt̪ˈiɡɑ# | *#oɾt̪ˈiɡɑ# {GOLD: #oɾt̪ˈiɡɑ#}
+1140   | #ˌuːrˈiːn̪ɑ# | *#ˌuːrˈiːn̪ɑ# | *#ˌuɾˈin̪ɑ# | *#ˌoɾˈin̪ɑ# | *#oɾˈin̪ɑ# {GOLD: #oɾˈin̪ɑ#}
+1141   | #ˌɑbbrˌɑkʰiˈɑːre# | *#ˌɑbbrˌɑkiˈɑːre# | *#ˌɑbbɾˌɑd͡zˈɑɾe# | *#ˌɑbɾˌɑs̪ˈɑɾ# | *#ɑbɾɑθˈɑɾ# {GOLD: #ɑbɾɑθˈɑɾ#}
+1142   | #ˌɑbbɑt̪ˈissɑm# | *#ˌɑbbɑt̪ˈissɑm# | *#ˌɑbbɑd̪ˈessɑ# | *#ˌɑbɑd̪ˈesɑ# | *#ɑbɑd̪ˈesɑ# {GOLD: #ɑbɑd̪ˈesɑ#}
+1143   | #ˌɑbbˈɑːt̪em# | *#ˌɑbbˈɑːt̪em# | *#ˌɑbbˈɑd̪e# | *#ˌɑbˈɑd̪# | *#ɑbˈɑd̪# {GOLD: #ɑbˈɑd̪#}
+1144   | #ˌɑbˌɑn̪t̪iˈɑːre# | *#ˌɑbˌɑn̪t̪iˈɑːre# | *#ˌɑbˌɑn̪t͡sˈɑɾe# | *#ˌɑbˌɑn̪s̪ˈɑɾ# | *#ɑbɑn̪θˈɑɾ# {GOLD: #ɑbɑn̪θˈɑɾ#}
+1145   | #ˌɑd̪iˈeri# | *#ˌɑd̪iˈeri# | *#ˌɑjˈeɾe# | *#ˌɑʝˈeɾ# | *#ɑʝˈeɾ# {GOLD: #ɑʝˈeɾ#}
+1146   | #ˌɑd̪wiˈɑːre# | *#ˌɑd̪wiˈɑːre# | *#ˌɑbbjˈɑɾe# | *#ˌɑbjˈɑɾ# | *#ɑbjˈɑɾ# {GOLD: #ɑbjˈɑɾ#}
+1147   | #ˌɑd̪wˌokɑt̪ˈoːrem# | *#ˌɑd̪wˌokɑt̪ˈoːrem# | *#ˌɑbbˌoɡɑd̪ˈoɾe# | *#ˌɑbˌoɡɑd̪ˈoɾ# | *#ɑboɡɑd̪ˈoɾ# {GOLD: #ɑboɡɑd̪ˈoɾ#}
+1148   | #ˌɑd̪wˈersum# | *#ˌɑd̪wˈersum# | *#ˌɑbbjˈesso# | *#ˌɑbjˈeso# | *#ɑbjˈeso# {GOLD: #ɑbjˈeso#}
+1149   | #ˌɑd̪wˌeːrifikˈɑːre# | *#ˌɑd̪wˌeːrifikˈɑːre# | *#ˌɑbbˌeɾeveɡˈɑɾe# | *#ˌɑbˌeɾiɡʷˈɑɾ# | *#ɑbeɾiɡʷˈɑɾ# {GOLD: #ɑbeɾiɡʷˈɑɾ#}
+1150   | #ˌɑd̪ˌuːn̪ˈɑːre# | *#ˌɑd̪ˌuːn̪ˈɑːre# | *#ˌɑˌun̪ˈɑɾe# | *#ˌɑˌun̪ˈɑɾ# | *#ɑun̪ˈɑɾ# {GOLD: #ɑwn̪ˈɑɾ#}
+1151   | #ˌɑffrˈon̪t̪ɑ# | *#ˌɑffrˈon̪t̪ɑ# | *#ˌɑffɾwˈen̪t̪ɑ# | *#ˌɑfɾˈen̪t̪ɑ# | *#ɑfɾˈen̪t̪ɑ# {GOLD: #ɑfɾˈen̪t̪ɑ#}
+1152   | #ˌɑffrˈɑkt̪um# | *#ˌɑffrˈɑkt̪um# | *#ˌɑffɾˈɑjt̪o# | *#ˌɑfɾˈet͡ʃo# | *#ɑfɾˈet͡ʃo# {GOLD: #ɑfɾˈet͡ʃo#}
+1153   | #ˌɑkiˈɑːrium# | *#ˌɑkiˈɑːrium# | *#ˌɑd͡zˈɑjɾo# | *#ˌɑs̪ˈeɾo# | *#ɑθˈeɾo# {GOLD: #ɑθˈeɾo#}
+1154   | #ˌɑkkˈen̪t̪um# | *#ˌɑkkˈen̪t̪um# | *#ˌɑt͡st͡sjˈen̪t̪o# | *#ˌɑs̪jˈen̪t̪o# | *#ɑθjˈen̪t̪o# {GOLD: #ɑθˈen̪t̪o#}
+1155   | #ˌɑkkˌept̪ˈoːre# | *#ˌɑkkˌept̪ˈoːre# | *#ˌɑt͡st͡sˌet̪t̪ˈoɾe# | *#ˌɑs̪ˌet̪ˈoɾ# | *#ɑθet̪ˈoɾ# {GOLD: #ɑθˈoɾ#}
+1156   | #ˌɑkkˌubit̪ˈɑːre# | *#ˌɑkkˌubit̪ˈɑːre# | *#ˌɑkkˌobed̪ˈɑɾe# | *#ˌɑkˌod̪ˈɑɾ# | *#ɑkod̪ˈɑɾ# {GOLD: #ɑkod̪ˈɑɾ#}
+1157   | #ˌɑkkˌɑd̪ˈiskit̪# | *#ˌɑkkˌɑd̪ˈiskit̪# | *#ˌɑkkˌɑˈest͡se# | *#ˌɑkˌɑˈes̪e# | *#ɑkɑˈeθe# {GOLD: #ɑkɑˈeθe#}
+1158   | #ˌɑkkˌɑpt̪ˈɑːre# | *#ˌɑkkˌɑpt̪ˈɑːre# | *#ˌɑkkˌɑt̪t̪ˈɑɾe# | *#ˌɑkˌɑt̪ˈɑɾ# | *#ɑkɑt̪ˈɑɾ# {GOLD: #ɑkɑt̪ˈɑɾ#}
+1159   | #ˈɑkwilɑm# | *#ˈɑkwilɑm# | *#ˈɑʎɑ# | *#ˈɑʃɑ# | *#ˈɑxɑ# {GOLD: #ˈɑɡilɑ#}
+1160   | #ˌɑkwˈɑkeɑm# | *#ˌɑkwˈɑkeɑm# | *#ˌɑɡʷˈɑd͡zɑ# | *#ˌɑɡʷˈɑs̪ɑ# | *#ɑɡʷˈɑθɑ# {GOLD: #ɑɡʷˈɑθɑ#}
+1161   | #ˌɑkˈuːkulɑm# | *#ˌɑkˈuːkulɑm# | *#ˌɑɡˈuʎɑ# | *#ˌɑɡˈuʃɑ# | *#ɑɡˈuxɑ# {GOLD: #ɑɡˈuxɑ#}
+1162   | #ˌɑkˈuːt̪um# | *#ˌɑkˈuːt̪um# | *#ˌɑɡˈud̪o# | *#ˌɑɡˈud̪o# | *#ɑɡˈud̪o# {GOLD: #ɑɡˈud̪o#}
+1163   | #ˌɑliˈeːn̪um# | *#ˌɑliˈeːn̪um# | *#ˌɑlˈen̪o# | *#ˌɑlˈen̪o# | *#ɑlˈen̪o# {GOLD: #ɑxˈen̪o#}
+1164   | #ˌɑllˈium# | *#ˌɑllˈium# | *#ˌɑlʎˈo# | *#ˌɑllˈo# | *#ɑllˈo# {GOLD: #ˈɑxo#}
+1165   | #ˈɑlt̪erum# | *#ˈɑl̪t̪erum# | *#ˈɑwt̪ɾo# | *#ˈot̪ɾo# | *#ˈot̪ɾo# {GOLD: #ˈot̪ɾo#}
+1166   | #ˌɑlt̪ˈɑːrium# | *#ˌɑl̪t̪ˈɑːrium# | *#ˌɑwt̪ˈɑjɾo# | *#ˌot̪ˈeɾo# | *#ot̪ˈeɾo# {GOLD: #ot̪ˈeɾo#}
+1167   | #ˌɑlˈekrem# | *#ˌɑlˈekrem# | *#ˌɑlˈejɾe# | *#ˌɑlˈeɾ# | *#ɑlˈeɾ# {GOLD: #ɑlˈeɡɾe#}
+1168   | #ˌɑlɑt̪ˈern̪um# | *#ˌɑlɑt̪ˈern̪um# | *#ˌɑlɑd̪jˈeɾn̪o# | *#ˌɑlɑd̪jˈeɾn̪o# | *#ɑlɑd̪jˈeɾn̪o# {GOLD: #ɑlɑd̪jˈeɾn̪o#}
+1169   | #ˌɑmbit̪ˈɑːre# | *#ˌɑmbit̪ˈɑːre# | *#ˌɑmbed̪ˈɑɾe# | *#ˌɑmwd̪ˈɑɾ# | *#ɑmwd̪ˈɑɾ# {GOLD: #ɑn̪d̪ˈɑɾ#}
+1170   | #ˌɑmpˈullɑm# | *#ˌɑmpˈullɑm# | *#ˌɑmpˈollɑ# | *#ˌɑmpˈoʎɑ# | *#ɑmpˈoʝɑ# {GOLD: #ɑmpˈoʝɑ#}
+1171   | #ˌɑmɑrikˈoːsum# | *#ˌɑmɑrikˈoːsum# | *#ˌɑmɑɾeɡˈozo# | *#ˌɑmɑɾɡˈoso# | *#ɑmɑɾɡˈoso# {GOLD: #ɑmɑɾɡˈoso#}
+1172   | #ˌɑmɑrikˈɑːre# | *#ˌɑmɑrikˈɑːre# | *#ˌɑmɑɾeɡˈɑɾe# | *#ˌɑmɑɾɡˈɑɾ# | *#ɑmɑɾɡˈɑɾ# {GOLD: #ɑɾmɑɡˈɑɾ#}
+1173   | #ˌɑmɑrˈellum# | *#ˌɑmɑrˈellum# | *#ˌɑmɑɾjˈello# | *#ˌɑmɑɾˈiʎo# | *#ɑmɑɾˈiʝo# {GOLD: #ɑmɑɾˈiʝo#}
+1174   | #ˌɑmˈiːkum# | *#ˌɑmˈiːkum# | *#ˌɑmˈiɡo# | *#ˌɑmˈiɡo# | *#ɑmˈiɡo# {GOLD: #ɑmˈiɡo#}
+1175   | #ˌɑmˈoːrem# | *#ˌɑmˈoːrem# | *#ˌɑmˈoɾe# | *#ˌɑmˈoɾ# | *#ɑmˈoɾ# {GOLD: #ɑmˈoɾ#}
+1176   | #ˌɑmˈɑrikum# | *#ˌɑmˈɑrikum# | *#ˌɑmˈɑɾeɡo# | *#ˌɑmˈɑɾɡo# | *#ɑmˈɑɾɡo# {GOLD: #ɑmˈɑɾɡo#}
+1177   | #ˌɑn̪n̪ˈikulum# | *#ˌɑn̪n̪ˈikulum# | *#ˌɑn̪n̪ˈeʎo# | *#ˌɑɲˈeʃo# | *#ɑɲˈexo# {GOLD: #ɑɲˈexo#}
+1178   | #ˌɑn̪t̪ˈiːkwɑm# | *#ˌɑn̪t̪ˈiːkwɑm# | *#ˌɑn̪t̪ˈiɡʷɑ# | *#ˌɑn̪t̪ˈiɡʷɑ# | *#ɑn̪t̪ˈiɡʷɑ# {GOLD: #ɑn̪t̪ˈiɡʷɑ#}
+1179   | #ˌɑn̪ɑt̪ˈikulɑm# | *#ˌɑn̪ɑt̪ˈikulɑm# | *#ˌɑn̪ɑd̪ˈeʎɑ# | *#ˌɑn̪ɑd̪ˈeʃɑ# | *#ɑn̪ɑd̪ˈexɑ# {GOLD: #ɑn̪ɑd̪ˈexɑ#}
+1180   | #ˌɑn̪ˈet̪ʰulum# | *#ˌɑn̪ˈet̪ulum# | *#ˌɑn̪jˈed̪lo# | *#ˌɑn̪jˈeld̪o# | *#ɑn̪jˈeld̪o# {GOLD: #en̪ˈeld̪o#}
+1181   | #ˌɑperˈiːre# | *#ˌɑperˈiːre# | *#ˌɑbɾˈiɾe# | *#ˌɑbɾˈiɾ# | *#ɑbɾˈiɾ# {GOLD: #ɑbɾˈiɾ#}
+1182   | #ˌɑppɑrˈikulum# | *#ˌɑppɑrˈikulum# | *#ˌɑppɑɾˈeʎo# | *#ˌɑpɑɾˈeʃo# | *#ɑpɑɾˈexo# {GOLD: #ɑpɑɾˈexo#}
+1183   | #ˌɑppˈosit̪um# | *#ˌɑppˈosit̪um# | *#ˌɑppwˈest̪o# | *#ˌɑpwˈest̪o# | *#ɑpwˈest̪o# {GOLD: #ɑpwˈest̪o#}
+1184   | #ˌɑppˈɑːrium# | *#ˌɑppˈɑːrium# | *#ˌɑppˈɑjɾo# | *#ˌɑpˈeɾo# | *#ɑpˈeɾo# {GOLD: #ɑpˈeɾo#}
+1185   | #ˌɑpriːkˈɑːre# | *#ˌɑpriːkˈɑːre# | *#ˌɑbɾiɡˈɑɾe# | *#ˌɑbɾɡˈɑɾ# | *#ɑbɾɡˈɑɾ# {GOLD: #ɑbɾiɡˈɑɾ#}
+1186   | #ˌɑprˈiːlem# | *#ˌɑprˈiːlem# | *#ˌɑbɾˈile# | *#ˌɑbɾˈil# | *#ɑbɾˈil# {GOLD: #ɑbɾˈil#}
+1187   | #ˌɑpt̪ˈɑːre# | *#ˌɑpt̪ˈɑːre# | *#ˌɑt̪t̪ˈɑɾe# | *#ˌɑt̪ˈɑɾ# | *#ɑt̪ˈɑɾ# {GOLD: #ɑt̪ˈɑɾ#}
+1188   | #ˌɑpˈert̪um# | *#ˌɑpˈert̪um# | *#ˌɑbjˈeɾt̪o# | *#ˌɑbjˈeɾt̪o# | *#ɑbjˈeɾt̪o# {GOLD: #ɑbjˈeɾt̪o#}
+1189   | #ˌɑpˈikulɑm# | *#ˌɑpˈikulɑm# | *#ˌɑbˈeʎɑ# | *#ˌɑbˈeʃɑ# | *#ɑbˈexɑ# {GOLD: #ɑbˈexɑ#}
+1190   | #ˌɑrkˈɑːrium# | *#ˌɑrkˈɑːrium# | *#ˌɑɾkˈɑjɾo# | *#ˌɑɾkˈeɾo# | *#ɑɾkˈeɾo# {GOLD: #ɑɾkˈeɾo#}
+1191   | #ˌɑrmˈɑːrium# | *#ˌɑrmˈɑːrium# | *#ˌɑɾmˈɑjɾo# | *#ˌɑɾmˈeɾo# | *#ɑɾmˈeɾo# {GOLD: #ɑɾmˈeɾo#}
+1192   | #ˌɑrrˈekt̪um# | *#ˌɑrrˈekt̪um# | *#ˌɑrˈejt̪o# | *#ˌɑrˈet͡ʃo# | *#ɑrˈet͡ʃo# {GOLD: #ɑrˈet͡ʃo#}
+1193   | #ˌɑrrˈuɡium# | *#ˌɑrrˈuɡium# | *#ˌɑrˈujo# | *#ˌɑrˈuʝo# | *#ɑrˈuʝo# {GOLD: #ɑrˈojo#}
+1194   | #ˌɑrt̪ˈikulum# | *#ˌɑrt̪ˈikulum# | *#ˌɑɾt̪ˈeʎo# | *#ˌɑɾt̪ˈeʃo# | *#ɑɾt̪ˈexo# {GOLD: #ɑɾt̪ˈexo#}
+1195   | #ˌɑrɑn̪ˈeolɑm# | *#ˌɑrɑn̪ˈeolɑm# | *#ˌɑɾɑɲwˈelɑ# | *#ˌɑɾɑɲwˈelɑ# | *#ɑɾɑɲwˈelɑ# {GOLD: #ɑɾɑɲwˈelɑ#}
+1196   | #ˌɑrɡˈillɑm# | *#ˌɑrɡˈillɑm# | *#ˌɑɾʝˈellɑ# | *#ˌɑɾʝˈeʎɑ# | *#ɑɾʝˈeʝɑ# {GOLD: #ɑɾθˈiʝɑ#}
+1197   | #ˌɑrˈeolɑm# | *#ˌɑrˈeolɑm# | *#ˌɑjɾwˈelɑ# | *#ˌiɾwˈelɑ# | *#iɾwˈelɑ# {GOLD: #iɾwˈelɑ#}
+1198   | #ˌɑrˈeːn̪ɑ# | *#ˌɑrˈeːn̪ɑ# | *#ˌɑɾˈen̪ɑ# | *#ˌɑɾˈen̪ɑ# | *#ɑɾˈen̪ɑ# {GOLD: #ɑɾˈen̪ɑ#}
+1199   | #ˌɑrˈɑt̪rum# | *#ˌɑrˈɑt̪rum# | *#ˌɑɾˈɑd̪ɾo# | *#ˌɑɾˈɑd̪ɾo# | *#ɑɾˈɑd̪ɾo# {GOLD: #ɑɾˈɑd̪o#}
+1200   | #ˌɑrˈɑːn̪eɑ# | *#ˌɑrˈɑːn̪eɑ# | *#ˌɑɾˈɑɲɑ# | *#ˌɑɾˈɑɲɑ# | *#ɑɾˈɑɲɑ# {GOLD: #ɑɾˈɑɲɑ#}
+1201   | #ˌɑsin̪ˈɑːlem# | *#ˌɑsin̪ˈɑːlem# | *#ˌɑzn̪ˈɑle# | *#ˌɑsn̪ˈɑl# | *#ɑsn̪ˈɑl# {GOLD: #ɑsn̪ˈɑl#}
+1202   | #ˌɑsin̪ˈɑːrium# | *#ˌɑsin̪ˈɑːrium# | *#ˌɑzn̪ˈɑjɾo# | *#ˌɑsn̪ˈeɾo# | *#ɑsn̪ˈeɾo# {GOLD: #ɑsn̪ˈeɾo#}
+1203   | #ˌɑskiˈɑːt̪ɑ# | *#ˌɑskiˈɑːt̪ɑ# | *#ˌɑst͡sˈɑd̪ɑ# | *#ˌɑs̪ˈɑd̪ɑ# | *#ɑθˈɑd̪ɑ# {GOLD: #ɑθˈɑd̪ɑ#}
+1204   | #ˌɑskˈiolɑm# | *#ˌɑskˈiolɑm# | *#ˌɑst͡swˈelɑ# | *#ˌɑs̪wˈelɑ# | *#ɑθwˈelɑ# {GOLD: #ɑθwˈelɑ#}
+1205   | #ˌɑssˈuːmpt̪um# | *#ˌɑssˈuːn̪t̪um# | *#ˌɑssˈun̪t̪o# | *#ˌɑsˈun̪t̪o# | *#ɑsˈun̪t̪o# {GOLD: #ɑsˈun̪t̪o#}
+1206   | #ˌɑssˌen̪t̪ˈiːre# | *#ˌɑssˌen̪t̪ˈiːre# | *#ˌɑssˌen̪t̪ˈiɾe# | *#ˌɑsˌen̪t̪ˈiɾ# | *#ɑsen̪t̪ˈiɾ# {GOLD: #ɑsen̪t̪ˈiɾ#}
+1207   | #ˌɑst̪ˈellɑ# | *#ˌɑst̪ˈellɑ# | *#ˌɑs̪t̪jˈellɑ# | *#ˌɑst̪ˈiʎɑ# | *#ɑst̪ˈiʝɑ# {GOLD: #ɑst̪ˈiʝɑ#}
+1208   | #ˌɑst̪ˈurikɑ# | *#ˌɑst̪ˈurikɑ# | *#ˌɑs̪t̪ˈoɾeɡɑ# | *#ˌɑst̪ˈoɾɡɑ# | *#ɑst̪ˈoɾɡɑ# {GOLD: #ɑst̪ˈoɾɡɑ#}
+1209   | #ˌɑt̪t̪ˌɑliˈɑːre# | *#ˌɑt̪t̪ˌɑliˈɑːre# | *#ˌɑt̪t̪ˌɑʎˈɑɾe# | *#ˌɑt̪ˌɑʃˈɑɾ# | *#ɑt̪ɑxˈɑɾ# {GOLD: #ɑt̪ɑxˈɑɾ#}
+1210   | #ˌɑwd̪ˈiːt̪um# | *#ˌɑwd̪ˈiːt̪um# | *#ˌɑwˈid̪o# | *#ˌoˈid̪o# | *#oˈid̪o# {GOLD: #oˈid̪o#}
+1211   | #ˌɑwkt̪orikˈɑːre# | *#ˌɑwkt̪orikˈɑːre# | *#ˌɑwt̪t̪oɾeɡˈɑɾe# | *#ˌot̪oɾɡˈɑɾ# | *#ot̪oɾɡˈɑɾ# {GOLD: #ot̪oɾɡˈɑɾ#}
+1212   | #ˈɑwkɑ# | *#ˈɑwkɑ# | *#ˈɑwkɑ# | *#ˈokɑ# | *#ˈokɑ# {GOLD: #ˈokɑ#}
+1213   | #ˌɑwrˈikulɑ# | *#ˌɑwrˈikulɑ# | *#ˌɑwɾˈeʎɑ# | *#ˌoɾˈeʃɑ# | *#oɾˈexɑ# {GOLD: #oɾˈexɑ#}
+1214   | #ˌɑwskˈult̪ɑt̪# | *#ˌɑwskˈul̪t̪ɑt̪# | *#ˌɑwskˈujt̪ɑ# | *#ˌoskˈut͡ʃɑ# | *#oskˈut͡ʃɑ# {GOLD: #eskˈut͡ʃɑ#}
+1215   | #ˌɑwt̪ˈumn̪um# | *#ˌɑwt̪ˈun̪n̪um# | *#ˌɑwt̪ˈon̪n̪o# | *#ˌot̪ˈoɲo# | *#ot̪ˈoɲo# {GOLD: #ot̪ˈoɲo#}
+1216   | #ˌɑwɡˈurium# | *#ˌɑwɡˈurium# | *#ˌɑɡˈojɾo# | *#ˌɑɡwˈeɾo# | *#ɑɡwˈeɾo# {GOLD: #ɑɡʷˈeɾo#}
+1217   | #ˌɑwɡˈust̪um# | *#ˌɑwɡˈust̪um# | *#ˌɑɡˈos̪t̪o# | *#ˌɑɡˈost̪o# | *#ɑɡˈost̪o# {GOLD: #ɑɡˈost̪o#}
+1218   | #ˌɑɡn̪ˈiːn̪um# | *#ˌɑɡn̪ˈiːn̪um# | *#ˌɑɲˈin̪o# | *#ˌɑɲˈin̪o# | *#ɑɲˈin̪o# {GOLD: #ɑɲˈin̪o#}
+1219   | #ˌɑːbˈɑːkem# | *#ˌɑːbˈɑːkem# | *#ˌɑbˈɑd͡ze# | *#ˌɑbˈɑs̪# | *#ɑbˈɑθ# {GOLD: #ɑbˈɑθ#}
+1220   | #ˌɑːn̪ˈellum# | *#ˌɑːn̪ˈellum# | *#ˌɑn̪jˈello# | *#ˌɑn̪ˈiʎo# | *#ɑn̪ˈiʝo# {GOLD: #ɑn̪ˈiʝo#}
+1221   | #t̪ˌeːɡulˈɑːt̪um# | *#t̪ˌeːɡulˈɑːt̪um# | *#t̪ˌeʎˈɑd̪o# | *#t̪ˌeʃˈɑd̪o# | *#t̪exˈɑd̪o# {GOLD: #t̪exˈɑd̪o#}
+1222   | #sˌikkˈɑːn̪um# | *#sˌikkˈɑːn̪um# | *#sˌekkˈɑn̪o# | *#sˌekˈɑn̪o# | *#sekˈɑn̪o# {GOLD: #sekˈɑn̪o#}
+1223   | #d̪ˌeːkollˈɑːre# | *#d̪ˌeːkollˈɑːre# | *#d̪ˌeʎlˈɑɾe# | *#d̪ˌeʃlˈɑɾ# | *#d̪exlˈɑɾ# {GOLD: #d̪eɡoʝˈɑɾ#}
+1224   | #ˌɑkˈeːt̪um# | *#ˌɑkˈeːt̪um# | *#ˌɑd͡zˈed̪o# | *#ˌɑs̪ˈed̪o# | *#ɑθˈed̪o# {GOLD: #ɑθˈed̪o#}
+1225   | #ˌae̯ɡypt̪iˈɑːkum# | *#ˌae̯ɡypt̪iˈɑːkum# | *#ˌeɥt͡st͡sˈɑɡo# | *#jˌøs̪ˈɑɡo# | *#jøθˈɑɡo# {GOLD: #ɑθjˈɑɡo#}
+1226   | #ɡrˈɑd̪um# | *#ɡrˈɑd̪um# | *#ɡɾˈɑo# | *#ɡɾˈɑo# | *#ɡɾˈɑo# {GOLD: #ɡɾˈɑd̪o#}
+1227   | #wˈɑd̪um# | *#wˈɑd̪um# | *#bˈɑo# | *#bˈɑo# | *#bˈɑo# {GOLD: #bˈɑd̪o#}
+1228   | #spˈɑrɑɡum# | *#spˈɑrɑɡum# | *#espˈɑɾɑɡo# | *#espˈɑɾɑɡo# | *#espˈɑɾɑɡo# {GOLD: #espˈɑrɑɡo#}
+1229   | #lˈɑwt̪iɑ# | *#lˈɑwt̪iɑ# | *#lˈɑwt͡sɑ# | *#lˈos̪ɑ# | *#lˈoθɑ# {GOLD: #lˈoθɑ#}
+1230   | #t̪ˌɑːliˈɑːre# | *#t̪ˌɑːliˈɑːre# | *#t̪ˌɑʎˈɑɾe# | *#t̪ˌɑʃˈɑɾ# | *#t̪ɑxˈɑɾ# {GOLD: #t̪ɑxˈɑɾ#}
+1231   | #wˈoːt̪ɑ# | *#wˈoːt̪ɑ# | *#bˈod̪ɑ# | *#bˈod̪ɑ# | *#bˈod̪ɑ# {GOLD: #bˈod̪ɑ#}

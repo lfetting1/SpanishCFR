@@ -1,10 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1015:
-#ɡˌɑllˈiːn̪ɑ# >>> #ɡɑʝˈin̪ɑ# ( GOLD : #ɡɑʝˈin̪ɑ#) :
-ɡ ˌɑ l l ˈiː n̪ ɑ 
-#ɡˌɑllˈin̪ɑ# | 51 : [+syl] > [-long,-splng] 
-#ɣˌɑllˈin̪ɑ# | 99 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#ɣˌɑʎˈin̪ɑ# | 136 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#ɡˌɑʎˈin̪ɑ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ɡɑʎˈin̪ɑ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-#ɡɑʝˈin̪ɑ# | 216 : ʎ > ʝ 
-Final form : #ɡɑʝˈin̪ɑ#
+#ɡˈeluː# >>> *#ʝˈelo# ( GOLD : #ʝˈelo#) :
+ɡ ˈe l uː 
+Popular Latin stage form : *#ɡˈeluː#
+*#ɡˈɛluː# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡˈɛlu# | 49 : [+syl] > [-long,-splng] 
+*#ɡjˈɛlu# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#d͡ʒjˈɛlu# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#d͡ʒˈɛlu# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ʝˈɛlu# | 96 : d͡ʒ > ʝ 
+*#ʝˈɛelu# | 116 : ∅ > e / [-tense,+prim] __ 
+*#ʝjˈelu# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#ʝjˈelu#
+*#ʝjˈelo# | 132 : [+hi,+syl] > [-hi] / [+syl,+prim] ( @ )* ( [-syl] )* __ #
+*#ʝˈelo# | 182 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+Middle Spanish stage form : *#ʝˈelo#
+Final form : *#ʝˈelo#

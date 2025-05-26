@@ -1,14 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :457:
-#lˈɑksius# >>> #lˈexos# ( GOLD : #lˈexos#) :
-l ˈɑ k s i u s 
-#lˈɑxsius# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#lˈɑxsjus# | 46 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#lˈɑxsjos# | 50 : [+syl,-long] > [-hi] 
-#lˈɑjsjos# | 111 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-#lˈejsjos# | 142 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#lˈejʃjos# | 155 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-#lˈeːʃjos# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#lˈeʃjos# | 158 : [+syl] > [-long,-splng] 
-#lˈeʃos# | 161 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#lˈexos# | 203 : ʃ > x 
-Final form : #lˈexos#
+#lˈuːksum# >>> *#lˈuxo# ( GOLD : #lˈuxo#) :
+l ˈuː k s u m  
+Popular Latin stage form : *#lˈuːksum#
+*#lˈuːksu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#lˈuːxsu# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#lˈuːxso# | 48 : [+syl,-long] > [-hi] 
+*#lˈuxso# | 49 : [+syl] > [-long,-splng] 
+*#lˈujso# | 109 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
+Old Spanish stage form : *#lˈujso#
+*#lˈujʃo# | 169 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#lˈuʃo# | 184 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Middle Spanish stage form : *#lˈuʃo#
+*#lˈuxo# | 224 : ʃ > x 
+Final form : *#lˈuxo#

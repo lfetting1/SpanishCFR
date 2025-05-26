@@ -1,22 +1,26 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :94:
-#flˈɑkkid̪um# >>> #ʝˈeθed̪o# ( GOLD : #lˈɑθjo#) :
+#flˈɑkkid̪um# >>> *#ʝˈɑjθo# ( GOLD : #lˈɑθjo#) :
 f l ˈɑ k k i d̪ u m 
-#flˈɑkkid̪u# | 32 : [+nas] > ∅ / [-stres] __ #
-#flˈɑkked̪o# | 50 : [+syl,-long] > [-hi] 
-#flˈɑkkjed̪o# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#flˈɑkt͡ʃjed̪o# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#flˈɑkt͡ʃed̪o# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#flˈɑkt͡ʃeðo# | 99 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#flˈɑkt͡seðo# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#flˈɑjt͡seðo# | 111 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-#ɸlˈɑjt͡seðo# | 127 : {v;f} > {β;ɸ} 
-#ɸʎˈɑjt͡seðo# | 132 : [+lat] > ʎ / [-son] __ 
-#ʎˈɑjt͡seðo# | 133 : [+cons,-voi] > ∅ / # __ [+lat]
-#ʎˈejt͡seðo# | 142 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ʎˈeːt͡seðo# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ʎˈet͡seðo# | 158 : [+syl] > [-long,-splng] 
-#ʎˈes̪eðo# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ʎˈeθeðo# | 204 : s̪ > θ / __ [-cons]
-#ʎˈeθed̪o# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ʝˈeθed̪o# | 216 : ʎ > ʝ 
-Final form : #ʝˈeθed̪o#
+Popular Latin stage form : *#flˈɑkkid̪um#
+*#flˈɑkkid̪u# | 28 : [+nas] > ∅ / [-stres] __ #
+*#flˈɑkked̪o# | 48 : [+syl,-long] > [-hi] 
+*#flˈɑkkjed̪o# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#flˈɑkt͡ʃjed̪o# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#flˈɑkt͡ʃed̪o# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#flˈɑkt͡ʃeo# | 97 : [-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl]
+*#flˈɑkt͡seo# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#flˈɑkt͡sjo# | 105 : [+front,+syl,-stres] > j / __ [+syl,+back]
+*#flˈɑt͡st͡sjo# | 108 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+*#fʎˈɑt͡st͡sjo# | 124 : [+lat] > ʎ / [-son] __ [-round]
+Old Spanish stage form : *#fʎˈɑt͡st͡sjo#
+*#ɸʎˈɑt͡st͡sjo# | 128 : f > ɸ / __ [+son,+front,-syl]
+*#ɸʎˈɑt͡sjo# | 142 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#kʎˈɑt͡sjo# | 145 : [-voi,-strid,+lab] > k / __ ʎ
+*#ʎˈɑt͡sjo# | 146 : [-cont,-voi] > ∅ / # __ [+lat]
+*#ʎˈɑe̯t͡sjo# | 164 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+*#ʎˈɑjt͡so# | 168 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#ʎˈɑjs̪o# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#ʎˈɑjs̪o#
+*#ʎˈɑjθo# | 225 : s̪ > θ 
+*#ʝˈɑjθo# | 228 : ʎ > ʝ 
+Final form : *#ʝˈɑjθo#

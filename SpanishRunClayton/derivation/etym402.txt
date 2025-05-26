@@ -1,17 +1,18 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :402:
-#kˌɑpsˈeolɑ# >>> #kɑxwˈelɑ# ( GOLD : #kɑxwˈelɑ#) :
-k ˌɑ p s ˈe o l ɑ 
-#kˌɑpseˈolɑ# | 44 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#kˌɑpsjˈolɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#kˌɑpsjˈɔlɑ# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#kˌɑssjˈɔlɑ# | 67 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] / __ [-son,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround]
-#kˌɑssjˈɔelɑ# | 118 : ∅ > e / [-tense,+prim] __ 
-#kˌɑssjwˈelɑ# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#kˌɑsjwˈelɑ# | 137 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#kˌɑe̯sjwˈelɑ# | 150 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
-#kˌɑjswˈelɑ# | 154 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#kˌɑjʃwˈelɑ# | 155 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-#kˌɑʃwˈelɑ# | 163 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#kˌɑxwˈelɑ# | 203 : ʃ > x 
-#kɑxwˈelɑ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #kɑxwˈelɑ#
+#kˌuskˈulium# >>> *#koskˈuxo# ( GOLD : #koskˈoxo#) :
+k ˌu s k ˈu l i u m 
+Popular Latin stage form : *#kˌuskˈulium#
+*#kˌuskˈuliu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#kˌuskˈulju# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#kˌoskˈoljo# | 48 : [+syl,-long] > [-hi] 
+*#kˌoskˈoʎjo# | 59 : [+lat] > ʎ / __ j
+*#kˌoskˈoʎo# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#kˌoskˈuʎo# | 95 : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]
+Old Spanish stage form : *#kˌoskˈuʎo#
+*#kˌoskˈud͡ʒo# | 133 : ʎ > d͡ʒ / [+syl] __ 
+*#kˌoskˈuʒo# | 135 : d͡ʒ > ʒ 
+*#kˌoskˈuʃo# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#kˌoskˈuʃo#
+*#kˌoskˈuxo# | 224 : ʃ > x 
+*#koskˈuxo# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#koskˈuxo#

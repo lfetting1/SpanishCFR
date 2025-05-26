@@ -1,13 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :347:
-#kˌokwˈiːn̪ɑ# >>> #koɡˈin̪ɑ# ( GOLD : #koθˈin̪ɑ#) :
-k ˌo k w ˈiː n̪ ɑ 
-#kˌokʷˈiːn̪ɑ# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
-#kˌokʷˈin̪ɑ# | 51 : [+syl] > [-long,-splng] 
-#kˌokʷjˈin̪ɑ# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#kˌokʷˈin̪ɑ# | 79 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#kˌokˈin̪ɑ# | 80 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
-#kˌoɡˈin̪ɑ# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌoɣˈin̪ɑ# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kˌoɡˈin̪ɑ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#koɡˈin̪ɑ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #koɡˈin̪ɑ#
+#kˌae̯mˈen̪t̪um# >>> *#θimjˈen̪t̪o# ( GOLD : #θimjˈen̪t̪o#) :
+k ˌa e̯ m ˈe n̪ t̪ u m 
+Popular Latin stage form : *#kˌae̯mˈen̪t̪um#
+*#kˌɛe̯mˈen̪t̪um# | 20 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
+*#kˌɛːmˈen̪t̪um# | 21 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#kˌɛːmˈen̪t̪u# | 28 : [+nas] > ∅ / [-stres] __ #
+*#kˌɛːmˈɛn̪t̪u# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌeːmˈɛn̪t̪u# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌeːmˈɛn̪t̪o# | 48 : [+syl,-long] > [-hi] 
+*#kˌemˈɛn̪t̪o# | 49 : [+syl] > [-long,-splng] 
+*#kjˌemˈɛn̪t̪o# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t͡ʃjˌemˈɛn̪t̪o# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#t͡ʃˌemˈɛn̪t̪o# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#t͡sˌemˈɛn̪t̪o# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#t͡sˌemˈɛen̪t̪o# | 116 : ∅ > e / [-tense,+prim] __ 
+*#t͡sˌemjˈen̪t̪o# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#t͡sˌemjˈen̪t̪o#
+*#t͡sˌimjˈen̪t̪o# | 202 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+*#s̪ˌimjˈen̪t̪o# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#s̪ˌimjˈen̪t̪o#
+*#θˌimjˈen̪t̪o# | 225 : s̪ > θ 
+*#θimjˈen̪t̪o# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#θimjˈen̪t̪o#

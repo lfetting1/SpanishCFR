@@ -1,17 +1,26 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :376:
-#kˌoˈɑːɡulum# >>> #koˈɑxo# ( GOLD : #kwˈɑxo#) :
-k ˌo ˈɑː ɡ u l u m 
-#kˌoˈɑːɡlum# | 31 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
-#kˌoˈɑːɡlu# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˌoˈɑːɣlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#kˌoˈɑːɣlo# | 50 : [+syl,-long] > [-hi] 
-#kˌoˈɑɣlo# | 51 : [+syl] > [-long,-splng] 
-#kˌoˈɑjlo# | 61 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#kˌoˈɑjʎo# | 64 : [+lat] > ʎ / j __ 
-#kˌoˈɑʎo# | 78 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-#kˌoˈɑd͡ʒo# | 128 : ʎ > d͡ʒ 
-#kˌoˈɑʒo# | 129 : d͡ʒ > ʒ 
-#kˌoˈɑʃo# | 201 : [+strid] > [-voi] 
-#kˌoˈɑxo# | 203 : ʃ > x 
-#koˈɑxo# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #koˈɑxo#
+#kˌon̪kˈilium# >>> *#kon̪θˈexo# ( GOLD : #kon̪θˈexo#) :
+k ˌo n̪ k ˈi l i u m 
+*#kˌoŋkˈilium# | 12 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+Popular Latin stage form : *#kˌoŋkˈilium#
+*#kˌoŋkˈiliu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#kˌoŋkˈilju# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#kˌɔŋkˈilju# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌoŋkˈilju# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌoŋkˈeljo# | 48 : [+syl,-long] > [-hi] 
+*#kˌoŋkˈeʎjo# | 59 : [+lat] > ʎ / __ j
+*#kˌoŋkjˈeʎjo# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#kˌoŋt͡ʃjˈeʎjo# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#kˌoŋt͡ʃˈeʎo# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#kˌoŋt͡sˈeʎo# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#kˌoŋt͡sˈeʎo#
+*#kˌoŋt͡sˈed͡ʒo# | 133 : ʎ > d͡ʒ / [+syl] __ 
+*#kˌoŋt͡sˈeʒo# | 135 : d͡ʒ > ʒ 
+*#kˌoŋs̪ˈeʒo# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#kˌoŋs̪ˈeʃo# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#kˌoŋs̪ˈeʃo#
+*#kˌoŋs̪ˈexo# | 224 : ʃ > x 
+*#kˌoŋθˈexo# | 225 : s̪ > θ 
+*#koŋθˈexo# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kon̪θˈexo# | 229 : ŋ > n̪ 
+Final form : *#kon̪θˈexo#

@@ -1,18 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :851:
-#sˌekuːrit̪ˈɑːt̪em# >>> #seɾt̪ˈɑd̪# ( GOLD : #seɡuɾid̪ˈɑd̪#) :
-s ˌe k uː r i t̪ ˈɑː t̪ e m 
-#sˌekuːrt̪ˈɑːt̪em# | 27 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
-#sˌekrt̪ˈɑːt̪em# | 28 : [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
-#sˌekrt̪ˈɑːt̪e# | 32 : [+nas] > ∅ / [-stres] __ #
-#sˌexrt̪ˈɑːt̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#sˌexrt̪ˈɑt̪e# | 51 : [+syl] > [-long,-splng] 
-#sˌexɾt̪ˈɑt̪e# | 52 : r > ɾ 
-#sˌejɾt̪ˈɑt̪e# | 61 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
-#sˌejɾt̪ˈɑd̪e# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#sˌeːɾt̪ˈɑd̪e# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#sˌeɾt̪ˈɑd̪e# | 158 : [+syl] > [-long,-splng] 
-#sˌeɾt̪ˈɑðe# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#sˌeɾt̪ˈɑð# | 178 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#sˌeɾt̪ˈɑd̪# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#seɾt̪ˈɑd̪# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #seɾt̪ˈɑd̪#
+#sˈoːlem# >>> *#sˈol# ( GOLD : #sˈol#) :
+s ˈoː l e m 
+Popular Latin stage form : *#sˈoːlem#
+*#sˈoːle# | 28 : [+nas] > ∅ / [-stres] __ #
+*#sˈoːlɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈoːle# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˈole# | 49 : [+syl] > [-long,-splng] 
+Old Spanish stage form : *#sˈole#
+*#sˈol# | 198 : e > ∅ / [+syl] [+lat,+ant] __ #
+Middle Spanish stage form : *#sˈol#
+Final form : *#sˈol#

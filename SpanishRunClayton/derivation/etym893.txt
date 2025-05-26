@@ -1,19 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :893:
-#t̪rˌin̪it̪iˈɑːre# >>> #t̪ɾin̪θˈɑɾ# ( GOLD : #t̪ɾen̪θˈɑɾ#) :
-t̪ r ˌi n̪ i t̪ i ˈɑː r e 
-#t̪rˌiːn̪it̪iˈɑːre# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
-#t̪rˌiːn̪it̪jˈɑːre# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#t̪rˌiːn̪et̪jˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#t̪rˌin̪et̪jˈɑre# | 51 : [+syl] > [-long,-splng] 
-#t̪ɾˌin̪et̪jˈɑɾe# | 52 : r > ɾ 
-#t̪ɾˌin̪et͡ʃjˈɑɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#t̪ɾˌin̪et͡ʃˈɑɾe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#t̪ɾˌin̪ed͡ʒˈɑɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#t̪ɾˌin̪ed͡zˈɑɾe# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#t̪ɾˌin̪d͡zˈɑɾe# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#t̪ɾˌin̪d͡zˈɑɾ# | 177 : e > ∅ / [+syl] ɾ __ #
-#t̪ɾˌin̪z̪ˈɑɾ# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#t̪ɾˌin̪s̪ˈɑɾ# | 201 : [+strid] > [-voi] 
-#t̪ɾˌin̪θˈɑɾ# | 204 : s̪ > θ / __ [-cons]
-#t̪ɾin̪θˈɑɾ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #t̪ɾin̪θˈɑɾ#
+#sˌɑlˈuːt̪em# >>> *#sɑlˈud̪# ( GOLD : #sɑlˈud̪#) :
+s ˌɑ l ˈuː t̪ e m 
+Popular Latin stage form : *#sˌɑlˈuːt̪em#
+*#sˌɑlˈuːt̪e# | 28 : [+nas] > ∅ / [-stres] __ #
+*#sˌɑlˈuːt̪ɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑlˈuːt̪e# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑlˈut̪e# | 49 : [+syl] > [-long,-splng] 
+*#sˌɑlˈud̪e# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+Old Spanish stage form : *#sˌɑlˈud̪e#
+*#sˌɑlˈud̪# | 196 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+Middle Spanish stage form : *#sˌɑlˈud̪#
+*#sɑlˈud̪# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#sɑlˈud̪#

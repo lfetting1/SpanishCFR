@@ -1,9 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :810:
-#sˈerrɑ# >>> #sjˈerɑ# ( GOLD : #sjˈerɑ#) :
-s ˈe r r ɑ 
-#sˈɛrrɑ# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#sˈɛɾɾɑ# | 52 : r > ɾ 
-#sˈɛrɑ# | 53 : ɾ ɾ > r 
-#sˈɛerɑ# | 118 : ∅ > e / [-tense,+prim] __ 
-#sjˈerɑ# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-Final form : #sjˈerɑ#
+#spˈoːn̪sum# >>> *#espˈoso# ( GOLD : #espˈoso#) :
+s p ˈoː n̪ s u m 
+*#spˈoːnsum# | 12 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+Popular Latin stage form : *#spˈoːnsum#
+*#spˈoːnsu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#spˈoːsu# | 29 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+*#spˈoːso# | 48 : [+syl,-long] > [-hi] 
+*#spˈoso# | 49 : [+syl] > [-long,-splng] 
+*#spˈozo# | 99 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+*#espˈozo# | 125 : ∅ > e / # __ [+strid,+cont,+ant,-lab] [+cons]
+Old Spanish stage form : *#espˈozo#
+*#espˈoso# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#espˈoso#
+Final form : *#espˈoso#

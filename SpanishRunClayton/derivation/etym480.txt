@@ -1,15 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :480:
-#lˌiːt̪iɡˈɑːre# >>> #lid̪jˈɑɾ# ( GOLD : #lid̪jˈɑɾ#) :
-l ˌiː t̪ i ɡ ˈɑː r e 
-#lˌiːt̪eɡˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#lˌit̪eɡˈɑre# | 51 : [+syl] > [-long,-splng] 
-#lˌit̪eɡˈɑɾe# | 52 : r > ɾ 
-#lˌit̪eɣˈɑɾe# | 99 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#lˌit̪eˈɑɾe# | 101 : [-son,+voi,-strid,-front,βlab] > ∅ / [+syl] __ [+syl,βlab]
-#lˌid̪eˈɑɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#lˌid̪jˈɑɾe# | 108 : [+front,+syl,-stres] > j / __ [+syl,+back]
-#lˌiðjˈɑɾe# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#lˌiðjˈɑɾ# | 177 : e > ∅ / [+syl] ɾ __ #
-#lˌid̪jˈɑɾ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#lid̪jˈɑɾ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #lid̪jˈɑɾ#
+#lˈɑwsiɑm# >>> *#lˈusjɑ# ( GOLD : #lˈosɑ#) :
+l ˈɑ w s i ɑ m 
+Popular Latin stage form : *#lˈɑwsiɑm#
+*#lˈɑwsiɑ# | 28 : [+nas] > ∅ / [-stres] __ #
+*#lˈɑwsjɑ# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#lˈɑwzjɑ# | 99 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+Old Spanish stage form : *#lˈɑwzjɑ#
+*#lˈowzjɑ# | 156 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#lˈozjɑ# | 181 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+*#lˈuzjɑ# | 202 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+*#lˈusjɑ# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#lˈusjɑ#
+Final form : *#lˈusjɑ#

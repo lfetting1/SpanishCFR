@@ -1,25 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :765:
-#rˌoːbˈiːɡin̪e# >>> #robˈin̪# ( GOLD : #robˈin̪#) :
-r ˌoː b ˈiː ɡ i n̪ e 
-#rˌoːbˈiːɡen̪e# | 50 : [+syl,-long] > [-hi] 
-#rˌobˈiɡen̪e# | 51 : [+syl] > [-long,-splng] 
-#ɾˌobˈiɡen̪e# | 52 : r > ɾ 
-#ɾˌobˈiɡjen̪e# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ɾˌobˈid͡ʒjen̪e# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ɾˌobˈid͡ʒen̪e# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ɾˌoβˈid͡ʒen̪e# | 99 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#ɾˌoβˈiʝen̪e# | 100 : d͡ʒ > ʝ 
-#ɾˌovˈiʝen̪e# | 110 : β > v 
-#ɾˌuvˈiʝen̪e# | 113 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#ɾˌuvˈiʝin̪e# | 117 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-#ɾˌuvˈiin̪e# | 123 : ʝ > ∅ / [+syl,+front] __ [+syl]
-#ɾˌuvˈijn̪e# | 125 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
-#ɾˌuβˈijn̪e# | 127 : {v;f} > {β;ɸ} 
-#ɾˌuβˈiːn̪e# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɾˌuβˈin̪e# | 158 : [+syl] > [-long,-splng] 
-#ɾˌuβˈin̪# | 178 : e > ∅ / [+syl] [+cont,-strid,+cor] __ #
-#ɾˌoβˈin̪# | 182 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#rˌoβˈin̪# | 211 : ɾ > r / # __ 
-#rˌobˈin̪# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#robˈin̪# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #robˈin̪#
+#rˈusseum# >>> *#rˈuxo# ( GOLD : #rˈoxo#) :
+r ˈu s s e u m 
+Popular Latin stage form : *#rˈusseum#
+*#rˈusseu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#rˈussju# | 42 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
+*#rˈossjo# | 48 : [+syl,-long] > [-hi] 
+*#ɾˈossjo# | 51 : r > ɾ 
+*#ɾˈussjo# | 111 : [+syl,+round,+tense,+prim] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+Old Spanish stage form : *#ɾˈussjo#
+*#ɾˈusjo# | 142 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#ɾˈue̯sjo# | 164 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+*#ɾˈujso# | 168 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#ɾˈujʃo# | 169 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#ɾˈuʃo# | 184 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Middle Spanish stage form : *#ɾˈuʃo#
+*#ɾˈuxo# | 224 : ʃ > x 
+*#rˈuxo# | 226 : ɾ > r / # __ 
+Final form : *#rˈuxo#

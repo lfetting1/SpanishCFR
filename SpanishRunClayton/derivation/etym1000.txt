@@ -1,11 +1,22 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1000:
-#ɡˈubiɑ# >>> #ɡˈubjɑ# ( GOLD : #ɡˈubjɑ#) :
-ɡ ˈu b i ɑ 
-#ɡˈubjɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ɡˈobjɑ# | 50 : [+syl,-long] > [-hi] 
-#ɣˈoβjɑ# | 99 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#ɣˈovjɑ# | 110 : β > v 
-#ɣˈuvjɑ# | 113 : [+syl,+round,+tense] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
-#ɣˈuβjɑ# | 127 : {v;f} > {β;ɸ} 
-#ɡˈubjɑ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #ɡˈubjɑ#
+#wˌɑkˈiːwum# >>> *#bɑθˈio# ( GOLD : #bɑθˈio#) :
+w ˌɑ k ˈiː w u m 
+Popular Latin stage form : *#wˌɑkˈiːwum#
+*#ɣʷˌɑkˈiːɣʷum# | 17 : w > ɣʷ / __ [+syl]
+*#ɣʷˌɑkˈiːɣʷu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#bˌɑkˈiːbu# | 33 : ɣʷ > b 
+*#bˌɑkˈiːbo# | 48 : [+syl,-long] > [-hi] 
+*#bˌɑkˈibo# | 49 : [+syl] > [-long,-splng] 
+*#bˌɑkjˈibo# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#bˌɑt͡ʃjˈibo# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#bˌɑt͡ʃˈibo# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#bˌɑt͡ʃˈio# | 98 : [-son,+voi,+lab,-strid] > ∅ / [+front,+hi,-cons] __ [+back,+syl]
+*#bˌɑd͡ʒˈio# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#bˌɑd͡zˈio# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#bˌɑd͡zˈio#
+*#bˌɑz̪ˈio# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#bˌɑs̪ˈio# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#bˌɑs̪ˈio#
+*#bˌɑθˈio# | 225 : s̪ > θ 
+*#bɑθˈio# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#bɑθˈio#

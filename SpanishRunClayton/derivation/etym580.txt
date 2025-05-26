@@ -1,17 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :580:
-#mˌɑt̪ˈeolɑ# >>> #mɑθwˈelɑ# ( GOLD : #mɑθwˈelɑ#) :
-m ˌɑ t̪ ˈe o l ɑ 
-#mˌɑt̪eˈolɑ# | 44 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#mˌɑt̪jˈolɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#mˌɑt̪jˈɔlɑ# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#mˌɑt͡ʃjˈɔlɑ# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#mˌɑt͡ʃˈɔlɑ# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#mˌɑd͡ʒˈɔlɑ# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#mˌɑd͡zˈɔlɑ# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#mˌɑd͡zˈɔelɑ# | 118 : ∅ > e / [-tense,+prim] __ 
-#mˌɑd͡zwˈelɑ# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#mˌɑz̪wˈelɑ# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#mˌɑs̪wˈelɑ# | 201 : [+strid] > [-voi] 
-#mˌɑθwˈelɑ# | 204 : s̪ > θ / __ [-cons]
-#mɑθwˈelɑ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mɑθwˈelɑ#
+#mˌort̪uˈɑliɑm# >>> *#moɾt̪oˈɑxɑ# ( GOLD : #moɾt̪ˈɑxɑ#) :
+m ˌo r t̪ u ˈɑ l i ɑ m 
+Popular Latin stage form : *#mˌort̪uˈɑliɑm#
+*#mˌort̪uˈɑliɑ# | 28 : [+nas] > ∅ / [-stres] __ #
+*#mˌort̪uˈɑljɑ# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#mˌɔrt̪uˈɑljɑ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌort̪uˈɑljɑ# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˌort̪oˈɑljɑ# | 48 : [+syl,-long] > [-hi] 
+*#mˌoɾt̪oˈɑljɑ# | 51 : r > ɾ 
+*#mˌoɾt̪oˈɑʎjɑ# | 59 : [+lat] > ʎ / __ j
+*#mˌoɾt̪oˈɑʎɑ# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+Old Spanish stage form : *#mˌoɾt̪oˈɑʎɑ#
+*#mˌoɾt̪oˈɑd͡ʒɑ# | 133 : ʎ > d͡ʒ / [+syl] __ 
+*#mˌoɾt̪oˈɑʒɑ# | 135 : d͡ʒ > ʒ 
+*#mˌoɾt̪oˈɑʃɑ# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#mˌoɾt̪oˈɑʃɑ#
+*#mˌoɾt̪oˈɑxɑ# | 224 : ʃ > x 
+*#moɾt̪oˈɑxɑ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#moɾt̪oˈɑxɑ#

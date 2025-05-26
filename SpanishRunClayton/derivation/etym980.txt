@@ -1,22 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :980:
-#wˌɑkˈiːwum# >>> #bɑθˈio# ( GOLD : #bɑθˈio#) :
-w ˌɑ k ˈiː w u m 
-#ɣʷˌɑkˈiːɣʷum# | 20 : w > ɣʷ / __ [+syl]
-#ɣʷˌɑkˈiːɣʷu# | 32 : [+nas] > ∅ / [-stres] __ #
-#βˌɑkˈiːβu# | 37 : ɣʷ > β 
-#βˌɑkˈiːβo# | 50 : [+syl,-long] > [-hi] 
-#βˌɑkˈiβo# | 51 : [+syl] > [-long,-splng] 
-#βˌɑkjˈiβo# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#βˌɑt͡ʃjˈiβo# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#βˌɑt͡ʃˈiβo# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#βˌɑt͡ʃˈio# | 101 : [-son,+voi,-strid,-front,βlab] > ∅ / [+syl] __ [+syl,βlab]
-#βˌɑd͡ʒˈio# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#βˌɑd͡zˈio# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#vˌɑd͡zˈio# | 110 : β > v 
-#βˌɑd͡zˈio# | 127 : {v;f} > {β;ɸ} 
-#βˌɑz̪ˈio# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#βˌɑs̪ˈio# | 201 : [+strid] > [-voi] 
-#βˌɑθˈio# | 204 : s̪ > θ / __ [-cons]
-#bˌɑθˈio# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#bɑθˈio# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bɑθˈio#
+#wˈult̪urem# >>> *#bˈut͡ʃɾe# ( GOLD : #bwˈit̪ɾe#) :
+w ˈu l t̪ u r e m 
+*#wˈul̪t̪urem# | 13 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
+Popular Latin stage form : *#wˈul̪t̪urem#
+*#ɣʷˈul̪t̪urem# | 17 : w > ɣʷ / __ [+syl]
+*#ɣʷˈul̪t̪rem# | 27 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#ɣʷˈul̪t̪re# | 28 : [+nas] > ∅ / [-stres] __ #
+*#bˈul̪t̪re# | 33 : ɣʷ > b 
+*#bˈul̪t̪rɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈul̪t̪re# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#bˈol̪t̪re# | 48 : [+syl,-long] > [-hi] 
+*#bˈol̪t̪ɾe# | 51 : r > ɾ 
+*#bˈojt̪ɾe# | 102 : [+lat] > j / [+back] __ [-son,+cor,-front]
+*#bˈujt̪ɾe# | 112 : [+syl,+round,+tense,+prim] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+Old Spanish stage form : *#bˈujt̪ɾe#
+*#bˈujt͡ʃɾe# | 175 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+*#bˈut͡ʃɾe# | 184 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Middle Spanish stage form : *#bˈut͡ʃɾe#
+Final form : *#bˈut͡ʃɾe#

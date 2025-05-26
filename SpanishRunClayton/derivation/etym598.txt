@@ -1,12 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :598:
-#n̪ˈost̪rum# >>> #n̪wˈest̪ɾo# ( GOLD : #n̪wˈest̪ɾo#) :
-n̪ ˈo s t̪ r u m 
-#n̪ˈos̪t̪rum# | 22 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#n̪ˈos̪t̪ru# | 32 : [+nas] > ∅ / [-stres] __ #
-#n̪ˈɔs̪t̪ru# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#n̪ˈɔs̪t̪ro# | 50 : [+syl,-long] > [-hi] 
-#n̪ˈɔs̪t̪ɾo# | 52 : r > ɾ 
-#n̪ˈɔes̪t̪ɾo# | 118 : ∅ > e / [-tense,+prim] __ 
-#n̪wˈes̪t̪ɾo# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#n̪wˈest̪ɾo# | 202 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-Final form : #n̪wˈest̪ɾo#
+#mˌɑːiest̪ˈɑːt̪em# >>> *#mjest̪ˈɑd̪# ( GOLD : #mɑxest̪ˈɑd̪#) :
+m ˌɑː i e s t̪ ˈɑː t̪ e m 
+Popular Latin stage form : *#mˌɑːiest̪ˈɑːt̪em#
+*#mˌɑːies̪t̪ˈɑːt̪em# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+*#mˌɑːies̪t̪ˈɑːt̪e# | 28 : [+nas] > ∅ / [-stres] __ #
+*#mˌɑːiɛs̪t̪ˈɑːt̪ɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑːies̪t̪ˈɑːt̪e# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑːees̪t̪ˈɑːt̪e# | 48 : [+syl,-long] > [-hi] 
+*#mˌɑees̪t̪ˈɑt̪e# | 49 : [+syl] > [-long,-splng] 
+*#mˌɑes̪t̪ˈɑt̪e# | 50 : [+syl,-stres] > ∅ / __ [+syl,-stres]
+*#mˌɑes̪t̪ˈɑd̪e# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#mˌɑjs̪t̪ˈɑd̪e# | 106 : [+front,+syl,-stres] > j / [+syl,+back] __ 
+Old Spanish stage form : *#mˌɑjs̪t̪ˈɑd̪e#
+*#mˌejs̪t̪ˈɑd̪e# | 156 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#mjˌes̪t̪ˈɑd̪e# | 194 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]/ __ @
+*#mjˌes̪t̪ˈɑd̪# | 196 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+*#mjˌest̪ˈɑd̪# | 223 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+Middle Spanish stage form : *#mjˌest̪ˈɑd̪#
+*#mjest̪ˈɑd̪# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#mjest̪ˈɑd̪#

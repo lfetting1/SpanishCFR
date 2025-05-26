@@ -1,12 +1,13 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1062:
-#ˈɑlikwod̪# >>> #ˈɑlɡo# ( GOLD : #ˈɑlɡo#) :
-ˈɑ l i k w o d̪ 
-#ˈɑlikʷod̪# | 19 : [-cont,+back,-round] w > [+lab,+round] ∅
-#ˈɑlikʷo# | 34 : [+cons,-cont] > ∅ / __ #
-#ˈɑlekʷo# | 50 : [+syl,-long] > [-hi] 
-#ˈɑleko# | 80 : [-son,+round] > [-round,-lab] / __ [+syl,-lo]
-#ˈɑleɡo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˈɑlɡo# | 140 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
-#ˈɑlɣo# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ˈɑlɡo# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #ˈɑlɡo#
+#ˈossum# >>> *#wˈeso# ( GOLD : #wˈeso#) :
+ˈo s s u m 
+Popular Latin stage form : *#ˈossum#
+*#ˈossu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#ˈɔssu# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔsso# | 48 : [+syl,-long] > [-hi] 
+*#ˈɔesso# | 116 : ∅ > e / [-tense,+prim] __ 
+*#wˈesso# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#wˈesso#
+*#wˈeso# | 142 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+Middle Spanish stage form : *#wˈeso#
+Final form : *#wˈeso#

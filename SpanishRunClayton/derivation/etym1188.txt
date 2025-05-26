@@ -1,14 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1188:
-#ˌɑst̪ˈellɑ# >>> #ɑst̪ˈiʝɑ# ( GOLD : #ɑst̪ˈiʝɑ#) :
-ˌɑ s t̪ ˈe l l ɑ 
-#ˌɑs̪t̪ˈellɑ# | 22 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-#ˌɑs̪t̪ˈɛllɑ# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑs̪t̪ˈɛellɑ# | 118 : ∅ > e / [-tense,+prim] __ 
-#ˌɑs̪t̪jˈellɑ# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ˌɑs̪t̪jˈeʎɑ# | 136 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#ˌɑs̪t̪jˈiʎɑ# | 191 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-#ˌɑs̪t̪ˈiʎɑ# | 196 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#ˌɑst̪ˈiʎɑ# | 202 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
-#ɑst̪ˈiʎɑ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-#ɑst̪ˈiʝɑ# | 216 : ʎ > ʝ 
-Final form : #ɑst̪ˈiʝɑ#
+#ˌɑpˈert̪um# >>> *#ɑbjˈeɾt̪o# ( GOLD : #ɑbjˈeɾt̪o#) :
+ˌɑ p ˈe r t̪ u m 
+Popular Latin stage form : *#ˌɑpˈert̪um#
+*#ˌɑpˈert̪u# | 28 : [+nas] > ∅ / [-stres] __ #
+*#ˌɑpˈɛrt̪u# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑpˈɛrt̪o# | 48 : [+syl,-long] > [-hi] 
+*#ˌɑpˈɛɾt̪o# | 51 : r > ɾ 
+*#ˌɑbˈɛɾt̪o# | 100 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ˌɑbˈɛeɾt̪o# | 116 : ∅ > e / [-tense,+prim] __ 
+*#ˌɑbjˈeɾt̪o# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#ˌɑbjˈeɾt̪o#
+Middle Spanish stage form : *#ˌɑbjˈeɾt̪o#
+*#ɑbjˈeɾt̪o# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑbjˈeɾt̪o#

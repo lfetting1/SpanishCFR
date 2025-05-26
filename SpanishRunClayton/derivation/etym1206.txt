@@ -1,29 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1206:
-#ˌae̯ɡypt̪iˈɑːkum# >>> #jøθˈɑɡo# ( GOLD : #ɑθjˈɑɡo#) :
-ˌa e̯ ɡ y p t̪ i ˈɑː k u m
-#ˌɑjɡypt̪iˈɑːkum# | 0 : [-hi] e̯ > [+back,-front] j
-#ˌɛjɡypt̪iˈɑːkum# | 23 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
-#ˌejɡypt̪iˈɑːkum# | 24 : [-lo,-hi,-tense,+syl,-prim,+front] > [+tense,-cons,-lat,+cont,0delrel] 
-#ˌeːɡypt̪iˈɑːkum# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ˌeːɡypt̪iˈɑːku# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌeːɡypt̪jˈɑːku# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#ˌeːɡøpt̪jˈɑːko# | 50 : [+syl,-long] > [-hi] 
-#ˌeɡøpt̪jˈɑko# | 51 : [+syl] > [-long,-splng] 
-#ˌeɡøt̪t̪jˈɑko# | 67 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround] / __ [-son,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,adelrel,bstrid,cvoi,dround]
-#ˌeɡjøt̪t̪jˈɑko# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌed͡ʒjøt̪t͡ʃjˈɑko# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌed͡ʒøt̪t͡ʃˈɑko# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ˌeʝøt̪t͡ʃˈɑko# | 100 : d͡ʒ > ʝ 
-#ˌeʝøt̪t͡ʃˈɑɡo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#ˌeʝøt̪t͡sˈɑɡo# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌeʝyt̪t͡sˈɑɡo# | 117 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
-#ˌeyt̪t͡sˈɑɡo# | 123 : ʝ > ∅ / [+syl,+front] __ [+syl]
-#ˌeɥt̪t͡sˈɑɡo# | 125 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
-#jˌøt̪t͡sˈɑɡo# | 173 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#jˌøt̪t͡sˈɑɣo# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#jˌøt͡sˈɑɣo# | 183 : [-son] > ∅ / __ [+delrel]
-#jˌøs̪ˈɑɣo# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#jˌøθˈɑɣo# | 204 : s̪ > θ / __ [-cons]
-#jˌøθˈɑɡo# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#jøθˈɑɡo# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #jøθˈɑɡo#
+#ˌɑssˌen̪t̪ˈiːre# >>> *#ɑsen̪t̪ˈiɾ# ( GOLD : #ɑsen̪t̪ˈiɾ#) :
+ˌɑ s s ˌe n̪ t̪ ˈiː r e 
+Popular Latin stage form : *#ˌɑssˌen̪t̪ˈiːre#
+*#ˌɑssˌɛn̪t̪ˈiːrɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑssˌen̪t̪ˈiːre# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑssˌen̪t̪ˈire# | 49 : [+syl] > [-long,-splng] 
+*#ˌɑssˌen̪t̪ˈiɾe# | 51 : r > ɾ 
+Old Spanish stage form : *#ˌɑssˌen̪t̪ˈiɾe#
+*#ˌɑsˌen̪t̪ˈiɾe# | 142 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#ˌɑsˌen̪t̪ˈiɾ# | 196 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+Middle Spanish stage form : *#ˌɑsˌen̪t̪ˈiɾ#
+*#ɑsen̪t̪ˈiɾ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑsen̪t̪ˈiɾ#

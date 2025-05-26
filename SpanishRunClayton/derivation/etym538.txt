@@ -1,24 +1,11 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :538:
-#mˌɑn̪sioːn̪ˈɑːt̪ɑm# >>> #mesn̪ˈɑd̪ɑ# ( GOLD : #mesn̪ˈɑd̪ɑ#) :
-m ˌɑ n̪ s i oː n̪ ˈɑː t̪ ɑ m 
-#mˌɑːn̪sioːn̪ˈɑːt̪ɑm# | 4 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cont,-son]
-#mˌɑːnsioːn̪ˈɑːt̪ɑm# | 14 : [+nas,+cons] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-#mˌɑːnsioːn̪ˈɑːt̪ɑ# | 32 : [+nas] > ∅ / [-stres] __ #
-#mˌɑːsioːn̪ˈɑːt̪ɑ# | 33 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
-#mˌɑːsjoːn̪ˈɑːt̪ɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#mˌɑsjon̪ˈɑt̪ɑ# | 51 : [+syl] > [-long,-splng] 
-#mˌɑe̯sjon̪ˈɑt̪ɑ# | 91 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
-#mˌɑjson̪ˈɑt̪ɑ# | 97 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-#mˌɑjzon̪ˈɑt̪ɑ# | 102 : [-son,+cont] > [+voi] / [-cons] __ [+son]
-#mˌɑjzon̪ˈɑd̪ɑ# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#mˌɑjzn̪ˈɑd̪ɑ# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#mˌejzn̪ˈɑd̪ɑ# | 142 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#mˌeːzn̪ˈɑd̪ɑ# | 157 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#mˌezn̪ˈɑd̪ɑ# | 158 : [+syl] > [-long,-splng] 
-#mˌezn̪ˈɑðɑ# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#mˌesn̪ˈɑðɑ# | 201 : [+strid] > [-voi] 
-#mˌezn̪ˈɑðɑ# | 206 : s > z / [-cons] __ [+cons,+voi]
-#mˌezn̪ˈɑd̪ɑ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#mˌesn̪ˈɑd̪ɑ# | 214 : z > s 
-#mesn̪ˈɑd̪ɑ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mesn̪ˈɑd̪ɑ#
+#mˈust̪um# >>> *#mˈost̪o# ( GOLD : #mˈost̪o#) :
+m ˈu s t̪ u m 
+Popular Latin stage form : *#mˈust̪um#
+*#mˈus̪t̪um# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+*#mˈus̪t̪u# | 28 : [+nas] > ∅ / [-stres] __ #
+*#mˈos̪t̪o# | 48 : [+syl,-long] > [-hi] 
+Old Spanish stage form : *#mˈos̪t̪o#
+*#mˈost̪o# | 223 : [-son,+cor,+ant] > [+strid,+cont,-distr,0delrel,+cor] / __ [-son]
+Middle Spanish stage form : *#mˈost̪o#
+Final form : *#mˈost̪o#

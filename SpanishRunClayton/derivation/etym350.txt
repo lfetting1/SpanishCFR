@@ -1,14 +1,26 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :350:
-#kˌollokˈɑːre# >>> #koʝɡˈɑɾ# ( GOLD : #kolɡˈɑɾ#) :
-k ˌo l l o k ˈɑː r e 
-#kˌollokˈɑre# | 51 : [+syl] > [-long,-splng] 
-#kˌollokˈɑɾe# | 52 : r > ɾ 
-#kˌolloɡˈɑɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˌoʎoɡˈɑɾe# | 136 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#kˌoʎɡˈɑɾe# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#kˌoʎɣˈɑɾe# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kˌoʎɣˈɑɾ# | 177 : e > ∅ / [+syl] ɾ __ #
-#kˌoʎɡˈɑɾ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#koʎɡˈɑɾ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-#koʝɡˈɑɾ# | 216 : ʎ > ʝ 
-Final form : #koʝɡˈɑɾ#
+#kˌerˈeolɑ# >>> *#θiɾwˈelɑ# ( GOLD : #θiɾwˈelɑ#) :
+k ˌe r ˈe o l ɑ 
+Popular Latin stage form : *#kˌerˈeolɑ#
+*#kˌereˈolɑ# | 40 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#kˌerjˈolɑ# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#kˌɛrjˈɔlɑ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌerjˈɔlɑ# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌeɾjˈɔlɑ# | 51 : r > ɾ 
+*#kjˌeɾjˈɔlɑ# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t͡ʃjˌeɾjˈɔlɑ# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#t͡ʃˌeɾjˈɔlɑ# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#t͡ʃˌee̯ɾjˈɔlɑ# | 88 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+*#t͡ʃˌejɾˈɔlɑ# | 94 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#t͡sˌejɾˈɔlɑ# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#t͡sˌejɾˈɔelɑ# | 116 : ∅ > e / [-tense,+prim] __ 
+*#t͡sˌejɾwˈelɑ# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#t͡sˌejɾwˈelɑ#
+*#t͡sjˌeɾwˈelɑ# | 194 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]/ __ @
+*#t͡sjˌiɾwˈelɑ# | 202 : [+syl,-lo] > [+hi] / __ [+cons] [-cons,-syl]
+*#t͡sˌiɾwˈelɑ# | 216 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+*#s̪ˌiɾwˈelɑ# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#s̪ˌiɾwˈelɑ#
+*#θˌiɾwˈelɑ# | 225 : s̪ > θ 
+*#θiɾwˈelɑ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#θiɾwˈelɑ#

@@ -1,13 +1,12 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :41:
-#d̪ˈein̪t̪ro# >>> #d̪ˈien̪t̪ɾo# ( GOLD : #d̪ˈen̪t̪ɾo#) :
-d̪ ˈe i n̪ t̪ r o 
-#d̪ˈɛin̪t̪ro# | 49 : [+syl,-long,+prim,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#d̪ˈɛen̪t̪ro# | 50 : [+syl,-long] > [-hi] 
-#d̪ˈɛen̪t̪ɾo# | 52 : r > ɾ 
-#ðˈɛen̪t̪ɾo# | 99 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#ðˈɛeen̪t̪ɾo# | 118 : ∅ > e / [-tense,+prim] __ 
-#ðjˈeen̪t̪ɾo# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ðjˈien̪t̪ɾo# | 192 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
-#ðˈien̪t̪ɾo# | 196 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-#d̪ˈien̪t̪ɾo# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #d̪ˈien̪t̪ɾo#
+#d̪ˌeˈin̪t̪ro# >>> *#d̪ˈen̪t̪ɾo# ( GOLD : #d̪ˈen̪t̪ɾo#) :
+d̪ ˌe ˈi n̪ t̪ r o 
+Popular Latin stage form : *#d̪ˌeˈin̪t̪ro#
+*#d̪ˌɛˈin̪t̪rɔ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌeˈin̪t̪ro# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌeˈen̪t̪ro# | 48 : [+syl,-long] > [-hi] 
+*#d̪ˌeˈen̪t̪ɾo# | 51 : r > ɾ 
+*#d̪ˈen̪t̪ɾo# | 60 : [-cons,-lo,-prim,αround] > ∅ / __ [-lo,+syl,αround]
+Old Spanish stage form : *#d̪ˈen̪t̪ɾo#
+Middle Spanish stage form : *#d̪ˈen̪t̪ɾo#
+Final form : *#d̪ˈen̪t̪ɾo#

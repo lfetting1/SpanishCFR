@@ -1,12 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :271:
-#kˈomit̪em# >>> #kˈomd̪e# ( GOLD : #kˈon̪d̪e#) :
-k ˈo m i t̪ e m 
-#kˈoːmit̪em# | 5 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] @ [-son]
-#kˈoːmit̪e# | 32 : [+nas] > ∅ / [-stres] __ #
-#kˈoːmet̪e# | 50 : [+syl,-long] > [-hi] 
-#kˈomet̪e# | 51 : [+syl] > [-long,-splng] 
-#kˈomed̪e# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#kˈomd̪e# | 140 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* [+cons] __ [+cons] @
-#kˈomðe# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#kˈomd̪e# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #kˈomd̪e#
+#kˈibum# >>> *#θˈebo# ( GOLD : #θˈebo#) :
+k ˈi b u m 
+Popular Latin stage form : *#kˈibum#
+*#kˈibu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#kˈebo# | 48 : [+syl,-long] > [-hi] 
+*#kjˈebo# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t͡ʃjˈebo# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#t͡ʃˈebo# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#t͡sˈebo# | 103 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#t͡sˈebo#
+*#s̪ˈebo# | 221 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#s̪ˈebo#
+*#θˈebo# | 225 : s̪ > θ 
+Final form : *#θˈebo#

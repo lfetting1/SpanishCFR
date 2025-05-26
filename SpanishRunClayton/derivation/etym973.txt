@@ -1,16 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :973:
-#wˌin̪d̪ˈeːmiɑ# >>> #ben̪d̪ˈimjɑ# ( GOLD : #ben̪d̪ˈimjɑ#) :
-w ˌi n̪ d̪ ˈeː m i ɑ 
-#ɣʷˌin̪d̪ˈeːmiɑ# | 20 : w > ɣʷ / __ [+syl]
-#βˌin̪d̪ˈeːmiɑ# | 37 : ɣʷ > β 
-#βˌin̪d̪ˈeːmjɑ# | 48 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
-#βˌen̪d̪ˈeːmjɑ# | 50 : [+syl,-long] > [-hi] 
-#βˌen̪d̪ˈemjɑ# | 51 : [+syl] > [-long,-splng] 
-#βˌen̪ðˈemjɑ# | 99 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#vˌen̪ðˈemjɑ# | 110 : β > v 
-#vˌin̪ðˈimjɑ# | 112 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-#βˌin̪ðˈimjɑ# | 127 : {v;f} > {β;ɸ} 
-#βˌen̪ðˈimjɑ# | 182 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-#bˌen̪d̪ˈimjɑ# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-#ben̪d̪ˈimjɑ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ben̪d̪ˈimjɑ#
+#wˈiːn̪eɑm# >>> *#bˈiɲɑ# ( GOLD : #bˈiɲɑ#) :
+w ˈiː n̪ e ɑ m 
+Popular Latin stage form : *#wˈiːn̪eɑm#
+*#ɣʷˈiːn̪eɑm# | 17 : w > ɣʷ / __ [+syl]
+*#ɣʷˈiːn̪eɑ# | 28 : [+nas] > ∅ / [-stres] __ #
+*#bˈiːn̪eɑ# | 33 : ɣʷ > b 
+*#bˈiːn̪jɑ# | 44 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#bˈin̪jɑ# | 49 : [+syl] > [-long,-splng] 
+*#bˈiɲjɑ# | 57 : [+nas,+cor] > ɲ / __ j
+*#bˈiɲɑ# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+Old Spanish stage form : *#bˈiɲɑ#
+Middle Spanish stage form : *#bˈiɲɑ#
+Final form : *#bˈiɲɑ#

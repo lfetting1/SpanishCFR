@@ -1,17 +1,24 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :987:
-#ɡrˈae̯kum# >>> #ɡɾjˈeɡo# ( GOLD : #ɡɾjˈeɡo#) :
-ɡ r ˈa e̯ k u m 
-#ɡrˈɑjkum# | 0 : [-hi] e̯ > [+back,-front] j
-#ɡrˈɛjkum# | 23 : {ɑ;o;ˈɑ;ˈo;ˌɑ;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ j
-#ɡrˈɛːkum# | 25 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-#ɡrˈɛːku# | 32 : [+nas] > ∅ / [-stres] __ #
-#ɡrˈɛːko# | 50 : [+syl,-long] > [-hi] 
-#ɡrˈɛko# | 51 : [+syl] > [-long,-splng] 
-#ɡɾˈɛko# | 52 : r > ɾ 
-#ɣɾˈɛko# | 99 : [+cons,-cont,+voi,-son,-delrel] > [+cont,0delrel] 
-#ɣɾˈɛɡo# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#ɣɾˈɛeɡo# | 118 : ∅ > e / [-tense,+prim] __ 
-#ɣɾjˈeɡo# | 119 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-#ɣɾjˈeɣo# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ɡɾjˈeɡo# | 212 : {β;ð;ɣ;ɣʷ} > {b;d̪;ɡ;ɡʷ} 
-Final form : #ɡɾjˈeɡo#
+#wˌermˈikulum# >>> *#beɾmˈexo# ( GOLD : #beɾmˈexo#) :
+w ˌe r m ˈi k u l u m 
+Popular Latin stage form : *#wˌermˈikulum#
+*#ɣʷˌermˈikulum# | 17 : w > ɣʷ / __ [+syl]
+*#ɣʷˌermˈiklum# | 27 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#ɣʷˌermˈiklu# | 28 : [+nas] > ∅ / [-stres] __ #
+*#bˌermˈiklu# | 33 : ɣʷ > b 
+*#bˌermˈixlu# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#bˌɛrmˈixlu# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌermˈixlu# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#bˌermˈexlo# | 48 : [+syl,-long] > [-hi] 
+*#bˌeɾmˈexlo# | 51 : r > ɾ 
+*#bˌeɾmˈejlo# | 55 : [+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+*#bˌeɾmˈejʎo# | 58 : [+lat] > ʎ / j __ 
+*#bˌeɾmˈeʎo# | 71 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Old Spanish stage form : *#bˌeɾmˈeʎo#
+*#bˌeɾmˈed͡ʒo# | 133 : ʎ > d͡ʒ / [+syl] __ 
+*#bˌeɾmˈeʒo# | 135 : d͡ʒ > ʒ 
+*#bˌeɾmˈeʃo# | 222 : [+strid] > [-voi] 
+Middle Spanish stage form : *#bˌeɾmˈeʃo#
+*#bˌeɾmˈexo# | 224 : ʃ > x 
+*#beɾmˈexo# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#beɾmˈexo#

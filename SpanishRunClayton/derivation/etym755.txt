@@ -1,21 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :755:
-#rˌekit̪ˈɑːre# >>> #reθˈɑɾ# ( GOLD : #reθˈɑɾ#) :
-r ˌe k i t̪ ˈɑː r e 
-#rˌeket̪ˈɑːre# | 50 : [+syl,-long] > [-hi] 
-#rˌeket̪ˈɑre# | 51 : [+syl] > [-long,-splng] 
-#ɾˌeket̪ˈɑɾe# | 52 : r > ɾ 
-#ɾˌekjet̪ˈɑɾe# | 71 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ɾˌet͡ʃjet̪ˈɑɾe# | 72 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ɾˌet͡ʃet̪ˈɑɾe# | 76 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-#ɾˌed͡ʒed̪ˈɑɾe# | 103 : [-cont] > [+voi] / [+syl] __ [+son]
-#ɾˌed͡zed̪ˈɑɾe# | 106 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ɾˌed͡zd̪ˈɑɾe# | 139 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons] ( [-syl] )* [+prim] @
-#ɾˌed͡zðˈɑɾe# | 174 : [+cons,-cont,+voi,-delrel,-son] > [+cont,0delrel] 
-#ɾˌed͡zðˈɑɾ# | 177 : e > ∅ / [+syl] ɾ __ #
-#ɾˌed͡zˈɑɾ# | 184 : [-son] > ∅ / [+delrel] __ 
-#ɾˌez̪ˈɑɾ# | 200 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-#ɾˌes̪ˈɑɾ# | 201 : [+strid] > [-voi] 
-#ɾˌeθˈɑɾ# | 204 : s̪ > θ / __ [-cons]
-#rˌeθˈɑɾ# | 211 : ɾ > r / # __ 
-#reθˈɑɾ# | 215 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #reθˈɑɾ#
+#rˈeːɡem# >>> *#rˈej# ( GOLD : #rˈej#) :
+r ˈeː ɡ e m 
+Popular Latin stage form : *#rˈeːɡem#
+*#rˈeːɡe# | 28 : [+nas] > ∅ / [-stres] __ #
+*#rˈeːɡɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˈeːɡe# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#rˈeɡe# | 49 : [+syl] > [-long,-splng] 
+*#ɾˈeɡe# | 51 : r > ɾ 
+*#ɾˈeɡje# | 64 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#ɾˈed͡ʒje# | 65 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
+*#ɾˈed͡ʒe# | 69 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ɾˈeʝe# | 96 : d͡ʒ > ʝ 
+*#ɾˈeʝi# | 115 : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont] __ 
+*#ɾˈei# | 121 : ʝ > ∅ / [+syl,+front] __ [+syl]
+*#ɾˈej# | 123 : [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
+Old Spanish stage form : *#ɾˈej#
+Middle Spanish stage form : *#ɾˈej#
+*#rˈej# | 226 : ɾ > r / # __ 
+Final form : *#rˈej#
