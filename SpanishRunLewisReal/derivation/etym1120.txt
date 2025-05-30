@@ -1,14 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :1120:
-#ˌin̪d̪ˈikt̪ɑ# >>> *#en̪d̪ˈet͡ʃɑ# ( GOLD : #en̪d̪ˈet͡ʃɑ#) :
-ˌi n̪ d̪ ˈi k t̪ ɑ 
-Popular Latin stage form : *#ˌin̪d̪ˈikt̪ɑ#
-*#ˌin̪d̪ˈixt̪ɑ# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#ˌen̪d̪ˈext̪ɑ# | 48 : [+syl,-long] > [-hi] 
-*#ˌen̪d̪ˈejt̪ɑ# | 109 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-Old Spanish stage form : *#ˌen̪d̪ˈejt̪ɑ#
-*#ˌen̪d̪ˈejt͡ʃɑ# | 179 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-*#ˌen̪d̪ˈeːt͡ʃɑ# | 181 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
-*#ˌen̪d̪ˈet͡ʃɑ# | 182 : [+syl] > [-long,-splng] 
-Middle Spanish stage form : *#ˌen̪d̪ˈet͡ʃɑ#
-*#en̪d̪ˈet͡ʃɑ# | 238 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#en̪d̪ˈet͡ʃɑ#
+#ˌimpˈosit̪um# >>> *#impwˈest̪o# ( GOLD : #impwˈest̪o#) :
+ˌi m p ˈo s i t̪ u m 
+Popular Latin stage form : *#ˌimpˈosit̪um#
+*#ˌimpˈost̪um# | 25 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [-syl] )* [+syl]
+*#ˌimpˈost̪u# | 28 : [+nas] > ∅ / [-stres] __ #
+*#ˌimpˈɔst̪u# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌempˈɔst̪o# | 48 : [+syl,-long] > [-hi] 
+*#ˌempˈɔest̪o# | 116 : ∅ > e / [-tense,+prim] __ 
+*#ˌempwˈest̪o# | 117 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#ˌempwˈest̪o#
+*#ˌimpwˈest̪o# | 212 : [+syl,-lo,+stres] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+Middle Spanish stage form : *#ˌimpwˈest̪o#
+*#impwˈest̪o# | 238 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#impwˈest̪o#
