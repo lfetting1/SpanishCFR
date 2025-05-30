@@ -304,6 +304,10 @@ $Spanish loses stress sometime after here
 
 [+lat] > ʎ / [-son] __ [-round] $lambdacism
 
+l > ʎ / p __ $palatalization of l after p DiaCLESp Change C.1.E.
+
+ʎ > l / p __ [+round,+prim] m $send lambda back to l before round vowel and m. Accounts for pluma and plomo. DiaCLESp Change A.1.2.
+
 ∅ > e / # __ [+strid,+cont,+ant,-lab] [+cons] $ prothesis
 
 ~Old Spanish
@@ -351,7 +355,7 @@ r r > rː $ trilling. TODO check this -- was missing in one version.
 
 [-voi,-strid,+lab] > k / __ ʎ
 
-[-cont,-voi] > ∅ / # __ [+lat] $pl_ll_late
+[-cont,-voi] > ∅ / # __ ʎ $pl_ll_late. DiaCLESp change C.2.C.
 
 [+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
 
@@ -463,7 +467,7 @@ e > ∅ / [+syl] {[+cor,+ant,-cont];ɾ;[+lat,+ant];[+nas,+cor,+ant];[+strid,-fro
 
 [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim] [-stres] $ restress
 
-[+syl,-lo] > [+hi] / __ [+cons] (+cons) [-cons,-syl] $raising by diphthong
+[+syl,-lo,+stres] > [+hi] / __ [+cons] (+cons) [-cons,-syl] $raising by diphthong
 
 [+syl,-lo,-stres] > [+hi] / @ __ [+cons] ([+cons]) [-cons,-syl] $raising_by_diphthong extra effect on unstressed vowels two Cs away from glide 
 
