@@ -123,7 +123,8 @@ d͡ʒ > ʝ
 ʝ > ∅ / # __ [+syl,-prim,+front]
 ʝ > ∅ / [+lat] __ [+syl,+front]
 ʝ > ∅ / [+lat] __ [+syl,+front]
-ʝ > ∅ / [+syl,-round] __ [+syl]
+ʝ > ∅ / [+syl] __ [+syl,-back]
+ʝ > ∅ / [+syl,-back] __ [+syl]
 [+hi,-stres,+syl] > [-syl,0stres,0prim] / __ [+syl]
 [+hi,-stres,+syl] > [-syl,0stres,0prim] / [+syl] __ 
 [+lat] > ʎ / [-son] __ [-round]

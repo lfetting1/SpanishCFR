@@ -301,10 +301,12 @@ $[-tense] ∅ > [+tense,+hi,-syl] e $!test this
 
 ʝ > ∅ / [+lat] __ [+syl,+front] $recurrent, palatal deletion
 
-ʝ > ∅ / [+syl,-round] __ [+syl] $recurrent rule,palatal deletionn
+$ʝ > ∅ / [+syl,-round] __ [+syl] $recurrent rule,palatal deletion
+$DiaCLESp change C.3.A 5-30 ʝ deletion (formerly blocked before round vowels) is now blocked between back vowels. 
+ʝ > ∅ / [+syl] __ [+syl,-back] 
+ʝ > ∅ / [+syl,-back] __ [+syl]
 
 $DiaCLESp change C.1.C. Broadened context of modern syneresis from [-prim] to [-stres]
-
 [+hi,-stres,+syl] > [-syl] / __ [+syl] $recurrent, modern syneresis -- DiaCLESp change C.1.C.
 [+hi,-stres,+syl] > [-syl] / [+syl] __ $recurrent,modern syneresis DiaCLESp change C.1.C.
 
