@@ -102,9 +102,9 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 [+stres,-lo,-hi,-back] [-stres,+back] > [-stres] [+prim] $ progressive_stress (combine?)
 
-[+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front] $ velar deletion
+$[+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front] $ velar deletion
 
-
+[+back,-cont,+voi] > ∅ / {[+syl,-long];[+syl,+back]} __ [+front] $ velar deletion, new version with expanded contexts -- DiaCLESp fix C.1.E. 
 
 [+syl,-stres,-lo,+hi] > [-syl,-long] / __ [+syl] $ syneresis early
 
