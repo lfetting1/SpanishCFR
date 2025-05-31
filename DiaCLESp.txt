@@ -8,6 +8,8 @@ $[+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depa
 
 [+syl,-long] > [+syl,+long] / __ [+nas] {[+cont,-son];[-son] [-son]} $prenasal lengthening
 
+[+front] > [-round,-lab] $Unrounding long vowels. DiaCLESP rule A.3.1.
+
 [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son] $implosion
 
 [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+cons,-son,αvoi] $implosion 
