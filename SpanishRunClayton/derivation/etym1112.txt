@@ -1,17 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1112:
-#ˌae̯kwˈɑːlem# >>> *#eɡʷˈɑl# ( GOLD : #iɡʷˈɑl#) :
-ˌa e̯ k w ˈɑː l e m 
-Popular Latin stage form : *#ˌae̯kwˈɑːlem#
-*#ˌae̯kʷˈɑːlem# | 17 : [-cont,+back,-round] w > [+lab,+round] ∅
-*#ˌɛe̯kʷˈɑːlem# | 21 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
-*#ˌɛːkʷˈɑːlem# | 22 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
-*#ˌɛːkʷˈɑːle# | 29 : [+nas] > ∅ / [-stres] __ #
-*#ˌɛːkʷˈɑːlɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌeːkʷˈɑːle# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˌekʷˈɑle# | 51 : [+syl] > [-long,-splng] 
-*#ˌeɡʷˈɑle# | 102 : [-cont] > [+voi] / [+syl] __ [+son]
-Old Spanish stage form : *#ˌeɡʷˈɑle#
-*#ˌeɡʷˈɑl# | 210 : e > ∅ / [+syl] [+lat,+ant] __ #
-Middle Spanish stage form : *#ˌeɡʷˈɑl#
-*#eɡʷˈɑl# | 240 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#eɡʷˈɑl#
+#ˌae̯st̪ˈiːwum# >>> *#est̪ˈio# ( GOLD : #est̪ˈio#) :
+ˌa e̯ s t̪ ˈiː w u m 
+Popular Latin stage form : *#ˌae̯st̪ˈiːwum#
+*#ˌae̯st̪ˈiːɣʷum# | 18 : w > ɣʷ / __ [+syl]
+*#ˌae̯s̪t̪ˈiːɣʷum# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+*#ˌɛe̯s̪t̪ˈiːɣʷum# | 21 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
+*#ˌɛːs̪t̪ˈiːɣʷum# | 22 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#ˌɛːs̪t̪ˈiːɣʷu# | 29 : [+nas] > ∅ / [-stres] __ #
+*#ˌɛːs̪t̪ˈiːbu# | 34 : ɣʷ > b 
+*#ˌeːs̪t̪ˈiːbu# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeːs̪t̪ˈiːbo# | 50 : [+syl,-long] > [-hi] 
+*#ˌes̪t̪ˈibo# | 51 : [+syl] > [-long,-splng] 
+*#ˌes̪t̪ˈio# | 100 : [-son,+voi,+lab,-strid] > ∅ / [+front,+hi,-cons] __ [+back,+syl]
+*#ˌis̪t̪ˈio# | 112 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+Old Spanish stage form : *#ˌis̪t̪ˈio#
+*#ˌes̪t̪ˈio# | 216 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
+*#ˌest̪ˈio# | 236 : s̪ > s / __ [-son]
+Middle Spanish stage form : *#ˌest̪ˈio#
+*#est̪ˈio# | 240 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#est̪ˈio#
