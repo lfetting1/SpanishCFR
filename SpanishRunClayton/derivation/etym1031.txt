@@ -1,21 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1031:
-#ɡˌen̪ˈest̪ɑm# >>> *#in̪jˈest̪ɑ# ( GOLD : #in̪jˈest̪ɑ#) :
-ɡ ˌe n̪ ˈe s t̪ ɑ m 
-Popular Latin stage form : *#ɡˌen̪ˈest̪ɑm#
-*#ɡˌen̪ˈes̪t̪ɑm# | 20 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#ɡˌen̪ˈes̪t̪ɑ# | 29 : [+nas] > ∅ / [-stres] __ #
-*#ɡˌɛn̪ˈɛs̪t̪ɑ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡˌen̪ˈɛs̪t̪ɑ# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɡjˌen̪ˈɛs̪t̪ɑ# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#d͡ʒjˌen̪ˈɛs̪t̪ɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
-*#d͡ʒˌen̪ˈɛs̪t̪ɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#ʝˌen̪ˈɛs̪t̪ɑ# | 100 : d͡ʒ > ʝ 
-*#ʝˌen̪ˈɛes̪t̪ɑ# | 120 : ∅ > e / [-tense,+prim] __ 
-*#ʝˌen̪jˈes̪t̪ɑ# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-*#ˌen̪jˈes̪t̪ɑ# | 122 : ʝ > ∅ / # __ [+syl,-prim,+front]
-Old Spanish stage form : *#ˌen̪jˈes̪t̪ɑ#
-*#ˌin̪jˈes̪t̪ɑ# | 217 : [+syl,-lo,+stres] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
-*#ˌin̪jˈest̪ɑ# | 239 : s̪ > s / __ [-son]
-Middle Spanish stage form : *#ˌin̪jˈest̪ɑ#
-*#in̪jˈest̪ɑ# | 243 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#in̪jˈest̪ɑ#
+#wˈit̪ium# >>> *#bˈeθo# ( GOLD : #bˈeθo#) :
+w ˈi t̪ i u m 
+Popular Latin stage form : *#wˈit̪ium#
+*#ɣʷˈit̪ium# | 18 : w > ɣʷ / __ [+syl]
+*#ɣʷˈit̪iu# | 29 : [+nas] > ∅ / [-stres] __ #
+*#bˈit̪iu# | 34 : ɣʷ > b 
+*#bˈit̪ju# | 44 : [+syl,-stres,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+*#bˈet̪jo# | 50 : [+syl,-long] > [-hi] 
+*#bˈet͡ʃjo# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#bˈet͡ʃo# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#bˈed͡ʒo# | 104 : [-cont] > [+voi] / [+syl] __ [+son]
+*#bˈed͡zo# | 107 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#bˈed͡zo#
+*#bˈez̪o# | 237 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#bˈes̪o# | 238 : [+strid] > [-voi] 
+Middle Spanish stage form : *#bˈes̪o#
+*#bˈeθo# | 241 : s̪ > θ 
+Final form : *#bˈeθo#
