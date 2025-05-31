@@ -1,13 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :341:
-#kˈompt̪um# >>> *#kˈon̪t̪o# ( GOLD : #kwˈen̪t̪o#) :
-k ˈo m p t̪ u m 
-*#kˈoːmpt̪um# | 3 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [-son] [-son]
-*#kˈoːmt̪um# | 8 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-*#kˈoːn̪t̪um# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-Popular Latin stage form : *#kˈoːn̪t̪um#
-*#kˈoːn̪t̪u# | 29 : [+nas] > ∅ / [-stres] __ #
-*#kˈoːn̪t̪o# | 50 : [+syl,-long] > [-hi] 
-*#kˈon̪t̪o# | 51 : [+syl] > [-long,-splng] 
-Old Spanish stage form : *#kˈon̪t̪o#
-Middle Spanish stage form : *#kˈon̪t̪o#
-Final form : *#kˈon̪t̪o#
+#kˈon̪kʰulɑm# >>> *#kwˈen̪t͡ʃɑ# ( GOLD : #kon̪t͡ʃɑ#) :
+k ˈo n̪ kʰ u l ɑ m 
+*#kˈon̪kulɑm# | 1 : [-cont] > [-sg] 
+*#kˈoŋkulɑm# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+Popular Latin stage form : *#kˈoŋkulɑm#
+*#kˈoŋklɑm# | 28 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#kˈoŋklɑ# | 29 : [+nas] > ∅ / [-stres] __ #
+*#kˈɔŋklɑ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔeŋklɑ# | 120 : ∅ > e / [-tense,+prim] __ 
+*#kwˈeŋklɑ# | 121 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#kwˈeŋkʎɑ# | 129 : [+lat] > ʎ / [-son] __ [-round]
+Old Spanish stage form : *#kwˈeŋkʎɑ#
+*#kwˈeŋt͡ʃɑ# | 146 : [-voi] [+lat] > t͡ʃ/ @ __ 
+Middle Spanish stage form : *#kwˈeŋt͡ʃɑ#
+*#kwˈen̪t͡ʃɑ# | 245 : ŋ > n̪ 
+Final form : *#kwˈen̪t͡ʃɑ#
