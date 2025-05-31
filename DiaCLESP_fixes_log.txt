@@ -1,5 +1,7 @@
 10/04 Made all of the voiced stops into stops. The cascade was set up to produce them as fricatives or stops in variation, but now it is only stops.
 
+$TODO check marking of phi-rule content.
+
 
 A. Rule Insertion
 A.1 Insertion of phenomena that are similar to phenomena in the baseline cascade. 
@@ -8,25 +10,29 @@ A.1.2. 5/30 Inserted a rule that sends ʎ back to l before a round vowel with pr
 A.2 Insertion of phenomena that is completely new
 A.2.1 ŋɡ > n̪n̪ between front vowels, with posterior followed by coronal (ringīre > reñir, quīngentōs > quinientos; altho not in data also cingere tingere stringere etc. Not gingīva, verecundia etc.) 
 A.2.2: b > ɣʷ in [-voi] ([+son]) Vhi __ u l (not -il) [CM]
+A.2.3: ɸ > p / m __   just before Old Spanish -- [CM]
 A.3 "New" phenomena that are well known in Romance literature. 
 A.3.1 unrounding of front round vowels in Vulgar Latin inserted. [CM]
 A.3.2 devoicing of d͡ʒ in clusters, bleeding dʒ > ʝ phenomena (hordeolum, virdia, verecundia, gaudium; gingiva, argilla; admordium). Bled by A.3.1 though. [CM] 
 A.3.3 ɣʷ > v. Bleeds what would otherwise be passage to ɣ due to labiovelar unrounding. [CM]
 A.3.4:  w or rather its reflex ɣʷ deleted before front vowels in hiatus just after j emerges from i, but before e [slightly different from French wehre it operates on ʝ but that is somewhat a matter of style. (originally from DiaCLEF, modified) [CM]
+A.3.5: V (B) B L clusters to ʎ (part of phi rules) [CM]
 A.4 From DiaCLEF.
 B. Rule Relocdation
 B.1 Relocdation Early
 B.1.A. Gamma deletion moved to much earlier as sequel to early velar deletion rule right after mid lowering.
 B.1.B. Betacism relocdated earlier.
-B.1.C. 3-07 Phi aspiration, phi > eff, and h deletion relocdated earlier as part of fixes to f debuccalization. See C.1.D.
+B.1.C. 3-07 Phi aspiration, phi > eff, and h deletion relocdated earlier as part of fixes to f debuccalization. See C.1.D. . As of 5/30~31, covers vl too. 
+B.1.D. degemination rules moved to just before Old Spanish. [CM]
 B.2. Relocdation Later
 B.2.1. Moved unstressed epsilon to e to after mid-lowering (now broadened to all syllables)
+B.2.2. Moved postalveolar affricate to alveolar shift to after lambda re-coronalization. The former counterbleeds the latter. [CM]
 C. Changes in Conditioning
 C.1.Broadening
 C.1.A. 2-14 - BDG deletion - B is deleted between i and a back vowel. Brings five words to regularity.
 C.1.B. 2-14 Delta deletion broadened to include cases before /u/
 C.1.C. 2-14 Context for modern syneresis changed from [-prim] to [-stres]
-C.1.D. 3-07 Changed context of phi aspiration from [+syl] to [-cons]. See B.1.C.
+C.1.D. 3-07 Changed context of phi aspiration from [+syl] to [-cons]. See B.1.C. As of 5/30~31, [CM], covers /vL/ too. 
 C.1.E. 5-30 l palatalizes before all vowels, not just unround after p. 
 C.1.F. 5-30 g deletion broadened to after long back vowels. (fa:geam > aya, cogitam > cuida etc.) [CM]
 C.1.G. b-deletion broadened to cover v too. [CM]
@@ -35,8 +41,11 @@ C.2.A. 11/22 - Changed modern glide fortition rule so that it only applies to /j
 C.2.B. 2/14 - Changed "renucleation" so that it never occurs word finally
 C.2.C. 5-30 - Voiceless stops no longer delete before l, only ʎ
 C.2.D g/ɣ iotation ("velar yod early") doesn't apply to ɣʷ/gʷ [CM] (trivial)
-C.3 Displacing
+C.2.E betacism now only prevocoid or -rV. Previously context free, but that counterbleeds unification of vl phenomena with phi aspiration. [CM]
+C.2.F cheismo restricted after h. 
+C.3 Reshaping -- narrowing in some areas, broadening in otehrs. 
 C.3.A 5-30 ʝ deletion (formerly blocked before round vowels) is now blocked between back vowels. 
+C.3.B phi-deletion broadened to include v too, with new unifying contexts, while avoiding loss of f before /w/. [CM] (5/30~31)
 D. Rule Deletion
 D.1 ɣʷ > b deleted. Merger does not happen until much later. [CM]
 E. Rule separation

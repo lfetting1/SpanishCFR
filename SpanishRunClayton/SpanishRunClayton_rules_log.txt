@@ -107,7 +107,6 @@ d͡ʒ > ʝ
 [-cont] > [+voi] / [+syl] __ [+son]
 [+lat] > w / [+lo] __ [-son]
 [+lat] > j / [+back] __ [-son,+cor,-front]
-{t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
 [+front,+syl,-stres,+hi] > j / __ [+syl]
 [+front,+syl,-stres] > j / __ [+syl,+back]
 [+front,+syl,-stres] > j / [+syl,+back] __ 
@@ -132,11 +131,18 @@ d͡ʒ > ʝ
 [+lat] > ʎ / [-son] __ [-round]
 l > ʎ / p __ 
 ʎ > l / p __ [+round,+prim] m
-∅ > e / # __ [+strid,+cont,+ant,-lab] [+cons]
-v > b 
+[-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
 f > ɸ / __ [+syl]
 f > ɸ / __ [+son,+front,-syl]
-[+lab,+cont,-voi] > h / __ [-cons]
+ɸ > p / [+nas] __ 
+[+lab,-son] [+lab,-son] [+lat] > ɸ ʎ/ [-cons] __ [+syl]
+[+lab,+cont,-son] [+lat] > ɸ ʎ/ [-cons] __ [+syl]
+ʎ > l / # [+lab,-strid,-voi] __ [+lo,+syl] [+front,-syl]
+{t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+∅ > e / # __ [+strid,+cont,+ant,-lab] [+cons]
+v > b / __ ( ɾ ) [-cons]
+{ɸ;v} > {h;h} / __ [+son,+cont,-round] [+syl]
+{ɸ;v} > {h;h} / __ [+syl]
 [-cons,-syl,+front] > [+cons,-son,0tense] / [+syl] __ [-cons]
 [-cons,-syl,+front] > [+cons,-son,0tense] / # __ [-cons]
 [+hi,+syl] > [-hi] / [+syl,+prim] ( @ )* ( [-syl] )* __ #
@@ -146,15 +152,12 @@ d͡ʒ > ʒ
 ɟ > ʒ 
 ʝ > ʒ / # __ [+round]
 ʝ > ʒ / [-syl] __ [+round]
-[-voi] [+lat] > t͡ʃ/ @ __ 
+[-voi,+cons] [+lat] > t͡ʃ/ @ __ 
 r r > rː 
-{l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-[+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+{l l;n̪ n̪;ɲ ɲ;m m} > {ʎ;ɲ;ɲ;m} / __ [+syl]
 ʎ > l / [+cons,+voi] __ 
-ʎ > l / # [+lab,-strid,-voi] __ [+lo,+syl] [+front,+cons]
 [-voi,-strid,+lab] > k / __ ʎ
 [-cont,-voi] > ∅ / # __ ʎ
-[+lab,+cont,-voi] > h / __ [-cons]
 ɸ > f 
 h > ∅ 
 [-cons,-syl,+front] > [+cons,-son,0tense] / [+syl] __ [-cons]
@@ -234,7 +237,7 @@ h > ∅
 [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
 [+lab,-son] > w / __ [-son]
 w > ∅ / [+round,+syl] __ 
-n̪ > ɾ / [+nas] __ 
+n̪ > ɾ / [+nas,-cor] __ 
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
 m > n̪ / __ [+cor,+cons]
 [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 

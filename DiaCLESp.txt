@@ -274,7 +274,6 @@ $[-son,+voi,+lab] > ∅ / [-cons] __ [+syl,+hi,+round] $original Hartman rule
 
 [+lat] > j / [+back] __ [-son,+cor,-front] $ lateral vocalization for molto > mojto type cases. KS 10/18: fixed -ll- case. CM 11/9 -- fixed to align with span15.pho
 
-{t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disjunction
 [+front,+syl,-stres,+hi] > j / __ [+syl] $ syneresis_late $(101) !no context
 
 [+front,+syl,-stres] > j / __ [+syl,+back] $ syneresis_late $(102)
@@ -331,17 +330,36 @@ l > ʎ / p __ $palatalization of l after p DiaCLESp Change C.1.E.
 
 ʎ > l / p __ [+round,+prim] m $send lambda back to l before round vowel and m. Accounts for pluma and plomo. DiaCLESp Change A.1.2.
 
+
+$DiaCLESp change B.1.D. obstruent degemination rules moved to just before Old Spanish. [CM]
+[-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] $ degemination. Hartman's rule is meant to apply to all consonants except /r/, but this rule could apply if the environment was available. As of 5/31 per B.1.D, only obstruents. 
+
+$part of phi rules TODO mark. 
+f > ɸ / __ {[+syl];[+son,+front,-syl]}
+
+$DiaCLESp fix A.2.3: ɸ > p / m __   just before Old Spanish -- [CM]
+ɸ > p / [+nas] __
+
+$DiaCLESp fix A.3.5: V (B) F/V/ɸ L clusters to ɸʎ (part of phi rules), except for bl (-pl- has gone to -bl) [CM]
+[+lab,-son] [+lab,-son] [+lat] > ɸ ʎ / [-cons] __ [+syl]
+[+lab,+cont,-son] [+lat] > ɸ ʎ / [-cons] __ [+syl]
+
+$part of phi rules proposal. TODO MARK IN FIXES LOG
+ʎ > l / # [+lab,-strid,-voi] __ [+lo,+syl] [+front,-syl] 
+
+$DiaCLESp fix B.2.2. Moved postalveolar affricate to alveolar shift to after lambda re-coronalization. The former counterbleeds the latter. [CM]
+{t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disjunction
+
 ∅ > e / # __ [+strid,+cont,+ant,-lab] [+cons] $ prothesis
 
 ~Old Spanish
 
-v > b $ "betacism" TODO - Move back?
+v > b / __ (ɾ) [-cons] $ "betacism. DiaCLESp change C.2.E : betacism now only prevocoid (or -rV). Previously context free, but that counterbleeds unification of vl phenomena with phi aspiration. [CM]
 
-f > ɸ / __ {[+syl];[+son,+front,-syl]}
+$previous version, prior to 5/30 -- [+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
+$  As of 5/30~31, C.3.B. phi-deletion broadened to include v too, with new unifying contexts. [CM] (5/30~31)
+{ɸ;v} > {h;h} / __ {[+son,+cont,-round] [+syl];[+syl]}
 
-[+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
-
-$[+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
 
 $ɸ > f $ phi_eff DiaCLESp change B.1.C.
 
@@ -365,22 +383,20 @@ $[+lat] > ʎ / [-son] __ $lambdacism
 
 $[+cons,-voi] > ∅ / # __ [+lat] $pl_ll_late
 
-[-voi] [+lat] > t͡ʃ / @ __ $ "cheismo" palatal lateral > tʃ . Examples manklya (mankʎa), amplyo (ampʎo) > mancha, ancho, but rules as such do not seem to explicitly reference palatality of the lateral or the prior ...nasal? (Nor is the nasal referenced in any sort of metadescription for the rule....)  
+[-voi,+cons] [+lat] > t͡ʃ / @ __ $ "cheismo" palatal lateral > tʃ . Examples manklya (mankʎa), amplyo (ampʎo) > mancha, ancho, but rules as such do not seem to explicitly reference palatality of the lateral or the prior ...nasal? (Nor is the nasal referenced in any sort of metadescription for the rule....)  
+
 r r > rː $ trilling. TODO check this -- was missing in one version. 
+{l l;n̪ n̪;ɲ ɲ;m m} > {ʎ;ɲ;ɲ;m} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in obstruent degemination. However, that's now moved earlier.
 
-{l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in the nexgt rule, degemination. 
-
-[+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] $ degemination. Hartman's rule is meant to apply to all consonants except /r/, but this rule could apply if the environment was available. 
 
 ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
 
-ʎ > l / # [+lab,-strid,-voi] __ [+lo,+syl] [+front,+cons] 
-
+$part of phi rules proposal. TODO MARK IN FIXES LOG. TODO PHI REEXAMINE.
 [-voi,-strid,+lab] > k / __ ʎ
 
-[-cont,-voi] > ∅ / # __ ʎ $pl_ll_late. DiaCLESp change C.2.C.
+[-cont,-voi] > ∅ / # __ ʎ $pl_ll_late. DiaCLESp change C.2.C. TODO PHI REEXAMINE.
 
-[+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
+$[+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D. TODO PHI REEXAMINE. -- cmt'd out 5/31. Now redundant.
 
 ɸ > f $ phi_eff DiaCLESp change B.1.C.
 
@@ -525,7 +541,7 @@ h > ∅ $ h_deletion
 
 w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply on low-back vowel.) added to account for Hartman's persistent rules. 
 
-n̪ > ɾ / [+nas] __ $ recurrent rule,nasal dissimilation. TODO seems good but currently this rule is bled for most of its domain so check again. 
+n̪ > ɾ / [+nas,-cor] __ $ recurrent rule, nasal dissimilation. TODO seems good but currently this rule is bled for most of its domain so check again. 
 
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas] $epenthetic b d -- occurs before r, ɾ; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
 
