@@ -86,7 +86,8 @@ $[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $syncope_early
 
 [+cons] > ∅ / __ [+strid,+cor] [+cons] $ reduction of cluster containing a sibilant
 
-ɣʷ > b $ w_beta
+$DiaCLESp fix D.1 ɣʷ > b deleted. Merger does not happen until much later. [CM]
+$ɣʷ > b $ w_beta
 
 [+back,+cons,-cont] > [+cont] / [+syl] __ [+cons,-back] $velar spirantization
 
@@ -104,9 +105,12 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 $[+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front] $ velar deletion
 
-[+back,-cont,+voi] > ∅ / {[+syl,-long];[+syl,+back]} __ [+front] $ velar deletion, new version with expanded contexts -- DiaCLESp fix C.1.E. 
+[+back,-cont,+voi] > ∅ / {[+syl,-long];[+syl,+back]} __ [+front] $ velar deletion, new version with expanded contexts -- DiaCLESp fix C.1.F. 
 
 [+syl,-stres,-lo,+hi] > [-syl,-long] / __ [+syl] $ syneresis early
+
+$DiaCLESP fix A.3.4:  w or rather its reflex ɣʷ deleted before front vowels in hiatus just after j emerges from i, but before e [slightly different from French wehre it operates on ʝ but that is somewhat a matter of style. (originally from DiaCLEF, modified. Thus between first and second steps of syneresis early) [CM]
+ɣʷ > ∅ / __ [+front,+syl] [+syl]
 
 [+syl,-stres,-lo,+back] > [-syl,-long,+hi] / __ [+syl,-back] $ syneresis early
 
@@ -181,6 +185,9 @@ $DiaCLESp addition A.2.1: ŋɡ > n̪n̪ between front vowels, with posterior fol
 
 [-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
 
+$DiaCLESp fix A.3.3 ɣʷ > v. Bleeds what would otherwise be passage to ɣ due to labiovelar unrounding. [CM]
+ɣʷ > v
+
 $unround, fixed. CM 10/22
 
 [-son,+round] > [-round,-lab] / __ [+syl,-lo]
@@ -251,7 +258,7 @@ $[-son,+voi, -front, -lab, -strid] > ∅ / [-cons] __ [+syl,-round]
 $[-son,+voi, -front, -lab, -strid] > ∅ / [-cons] __ [+syl,-hi] 
 
 [-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl] $ Diaclesp chang C.1.B. -- broadened -- d/delta deleted before all vowels (Hartmann excluded before u) 
-[-son,+voi,+lab,-strid] > ∅ / [+front,+hi,-cons] __ [+back,+syl] $ delete beta/b in i __ Vback DiaCLESP change C.1.A
+[-son,+voi,+lab] > ∅ / [+front,+hi,-cons] __ [+back,+syl] $ delete beta/b in i __ Vback DiaCLESP change C.1.A. $DiaCLESp change C.1.G. : b-deletion broadened to cover v too. [CM]
 
 $[-son,+voi,+lab] > ∅ / [-cons] __ [+syl,+hi,+round] $original Hartman rule
 
