@@ -1,17 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunClayton'; etymon number :1128:
-#ˈun̪kiɑm# >>> *#ˈon̪θɑ# ( GOLD : #ˈon̪θɑ#) :
-ˈu n̪ k i ɑ m 
-*#ˈuŋkiɑm# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
-Popular Latin stage form : *#ˈuŋkiɑm#
-*#ˈuŋkiɑ# | 29 : [+nas] > ∅ / [-stres] __ #
-*#ˈuŋkjɑ# | 44 : [+syl,-stres,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-*#ˈoŋkjɑ# | 50 : [+syl,-long] > [-hi] 
-*#ˈoŋt͡ʃjɑ# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
-*#ˈoŋt͡ʃɑ# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#ˈoŋt͡sɑ# | 107 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-Old Spanish stage form : *#ˈoŋt͡sɑ#
-*#ˈoŋs̪ɑ# | 237 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-Middle Spanish stage form : *#ˈoŋs̪ɑ#
-*#ˈoŋθɑ# | 241 : s̪ > θ 
-*#ˈon̪θɑ# | 245 : ŋ > n̪ 
-Final form : *#ˈon̪θɑ#
+#ˈun̪d̪ekim# >>> *#ˈon̪θe# ( GOLD : #ˈon̪θe#) :
+ˈu n̪ d̪ e k i m 
+Popular Latin stage form : *#ˈun̪d̪ekim#
+*#ˈun̪d̪eki# | 29 : [+nas] > ∅ / [-stres] __ #
+*#ˈun̪d̪ɛki# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈun̪d̪eki# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈon̪d̪eke# | 50 : [+syl,-long] > [-hi] 
+*#ˈon̪d̪ekje# | 67 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#ˈon̪d̪et͡ʃje# | 68 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#ˈon̪d̪et͡ʃe# | 72 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ˈon̪d̪ed͡ʒe# | 104 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ˈon̪d̪ed͡ze# | 107 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#ˈon̪d̪ed͡ze#
+*#ˈon̪d̪d͡ze# | 160 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* ( @ ) [+cons] __ [+cons] @
+*#ˈon̪d͡ze# | 220 : [-son] > ∅ / __ [+delrel]
+*#ˈon̪z̪e# | 237 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#ˈon̪s̪e# | 238 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ˈon̪s̪e#
+*#ˈon̪θe# | 241 : s̪ > θ 
+Final form : *#ˈon̪θe#
