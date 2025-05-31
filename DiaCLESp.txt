@@ -59,6 +59,9 @@ ${ɑ e̯ ; o e̯; ˈɑ e̯ ; ˈo e̯;ˌɑ e̯ ; ˌo e̯} > {ɛ j ; e j; ˈɛ j ;
 
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
+$DiaCLESp fix A.2.2: b > ɣʷ in [-voi] ([+son]) Vhi __ [+round] l (not -il) [CM]
+b > ɣʷ / [-voi] ([+son]) [+hi,-cons] __ [+round] [+lat]
+
 $ CM 11/9 -- below suppressed. Accidental redundancy? 
 
 $[+syl,-prim] > ∅ / [+cons,+son,-nas] __ [+cons,+cont,+son,-nas] @ $syncope_early
@@ -144,7 +147,8 @@ $ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it be
 
 {ɛ; ˈɛ; ˌɛ; e; ˌe; ˈe} > {e; ˈe; ˌe; i; ˌi; ˈi} / __ j $front raising
 
-[+cons,+hi] > j / [+syl] __ [+cons,-back,+son] $ velar yod early
+$DiaCLESp fix C.2.D g/ɣ iotation ("velar yod early") doesn't apply to ɣʷ/gʷ [CM] (trivial) -- [-round] added to input.
+[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+son] $ velar yod early
 
 [+nas,+cor] > ɲ / j __ $ nasal palatal
 

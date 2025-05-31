@@ -21,6 +21,7 @@ j > ʝ / [+syl] __ [+syl]
 [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
 {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+b > ɣʷ / [-voi] ( [+son] ) [+hi,-cons] __ [+round] [+lat]
 [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [+syl] )* [+prim] @
 [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] ( [-syl] )* [+prim]
 [+syl,-prim,-lo] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+prim]
@@ -55,7 +56,7 @@ r > ɾ
 ɾ ɾ > r 
 ∅ > j / [+syl,-back] __ [+syl,+back]
 {ɛ;ˈɛ;ˌɛ;e;ˌe;ˈe} > {e;ˈe;ˌe;i;ˌi;ˈi} / __ j
-[+cons,+hi] > j / [+syl] __ [+cons,-back,+son]
+[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+son]
 [+nas,+cor] > ɲ / j __ 
 [+nas,+cor] > ɲ / __ j
 [+lat] > ʎ / j __ 
