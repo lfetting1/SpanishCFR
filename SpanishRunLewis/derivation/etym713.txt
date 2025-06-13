@@ -1,19 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :713:
-#pˌekt̪in̪ˈɑːre# >>> *#pet͡ʃn̪ˈɑɾ# ( GOLD : #pejn̪ˈɑɾ#) :
-p ˌe k t̪ i n̪ ˈɑː r e 
-Popular Latin stage form : *#pˌekt̪in̪ˈɑːre#
-*#pˌext̪in̪ˈɑːre# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-*#pˌɛxt̪in̪ˈɑːrɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌext̪in̪ˈɑːre# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˌext̪en̪ˈɑːre# | 48 : [+syl,-long] > [-hi] 
-*#pˌext̪en̪ˈɑre# | 49 : [+syl] > [-long,-splng] 
-*#pˌext̪en̪ˈɑɾe# | 51 : r > ɾ 
-*#pˌejt̪en̪ˈɑɾe# | 109 : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]
-Old Spanish stage form : *#pˌejt̪en̪ˈɑɾe#
-*#pˌejt̪n̪ˈɑɾe# | 152 : [-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] ( [-syl] )* [+prim] @
-*#pˌejt͡ʃn̪ˈɑɾe# | 175 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
-*#pˌet͡ʃn̪ˈɑɾe# | 184 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-*#pˌet͡ʃn̪ˈɑɾ# | 196 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
-Middle Spanish stage form : *#pˌet͡ʃn̪ˈɑɾ#
-*#pet͡ʃn̪ˈɑɾ# | 227 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#pet͡ʃn̪ˈɑɾ#
+#prˌehˈen̪sum# >>> *#pɾˈeso# ( GOLD : #pɾˈeso#) :
+p r ˌe h ˈe n̪ s u m 
+*#prˌeˈen̪sum# | 0 : h > ∅ 
+*#prˌeˈeːn̪sum# | 2 : [+syl,-long] > [+syl,+long,+son,0delrel] / __ [+nas] [+cont,-son]
+*#prˌeˈeːnsum# | 13 : [+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @
+Popular Latin stage form : *#prˌeˈeːnsum#
+*#prˌeˈeːnsu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#prˌeˈeːsu# | 31 : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
+*#prˌɛˈeːsu# | 48 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#prˌeˈeːsu# | 50 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#prˌeˈeːso# | 51 : [+syl,-long] > [-hi] 
+*#prˌeˈeso# | 52 : [+syl] > [-long,-splng] 
+*#pɾˌeˈeso# | 54 : r > ɾ 
+*#pɾˈeso# | 63 : [-cons,-lo,-prim,αround] > ∅ / __ [-lo,+syl,αround]
+*#pɾˈezo# | 105 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+Old Spanish stage form : *#pɾˈezo#
+*#pɾˈeso# | 244 : [+strid] > [-voi] 
+Middle Spanish stage form : *#pɾˈeso#
+Final form : *#pɾˈeso#

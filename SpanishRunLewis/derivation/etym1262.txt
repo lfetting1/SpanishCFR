@@ -1,13 +1,21 @@
-Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1262:
-#ˌɑːn̪ˈellum# >>> #ɑn̪ʝʎo# ( GOLD : #ɑn̪ˈiʝo#) :
-ˌɑː n̪ ˈe l l u m 
-#ˌɑːn̪ˈellu# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌɑːn̪ˈɛllu# | 49 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑːn̪ˈɛllo# | 50 : [+syl,-long] > [-hi] 
-#ˌɑn̪ˈɛllo# | 51 : [+syl,+long] > [-long,-splng] 
-#ˌɑn̪jello# | 106 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ˌɑn̪ʝello# | 113 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑn̪ʝeʎo# | 124 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-#ˌɑn̪ʝʎo# | 127 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ɑn̪ʝʎo# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑn̪ʝʎo#
+Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1262:
+#ˌɑrˈeolɑm# >>> *#iɾwˈelɑ# ( GOLD : #iɾwˈelɑ#) :
+ˌɑ r ˈe o l ɑ m 
+Popular Latin stage form : *#ˌɑrˈeolɑm#
+*#ˌɑrˈeolɑ# | 30 : [+nas] > ∅ / [-stres] __ #
+*#ˌɑreˈolɑ# | 41 : [+stres,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#ˌɑrjˈolɑ# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#ˌɑrjˈɔlɑ# | 48 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑɾjˈɔlɑ# | 54 : r > ɾ 
+*#ˌɑe̯ɾjˈɔlɑ# | 93 : ∅ > e̯ / [+syl] __ ɾ j [+back]
+*#ˌɑjɾˈɔlɑ# | 99 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#ˌɑjɾˈɔelɑ# | 121 : ∅ > e / [-tense,+prim] __ 
+*#ˌɑjɾwˈelɑ# | 122 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#ˌɑjɾwˈelɑ#
+*#ˌejɾwˈelɑ# | 177 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#jˌeɾwˈelɑ# | 215 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]/ __ @
+*#jˌiɾwˈelɑ# | 223 : [+syl,-lo,+stres] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]
+*#ˌiɾwˈelɑ# | 237 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+Middle Spanish stage form : *#ˌiɾwˈelɑ#
+*#iɾwˈelɑ# | 249 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#iɾwˈelɑ#

@@ -1,18 +1,17 @@
-Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1268:
-#ˌɑkkˌɑd̪ˈiskit̪# >>> #ˌɑkˌɑˈeθe# ( GOLD : #ɑkɑˈeθe#) :
-ˌɑ k k ˌɑ d̪ ˈi s k i t̪ 
-#ˌɑkkˌɑd̪ˈiski# | 27 : [+cons,-cont] > ∅ / __ #
-#ˌɑkkˌɑd̪ˈeske# | 43 : [+syl,-long] > [-hi] 
-#ˌɑkkˌɑd̪ˈeskje# | 66 : ∅ > j / [+cons,-cont,+back] __ [+syl,-back]
-#ˌɑkkˌɑd̪ˈest͡ʃje# | 67 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ} / __ j
-#ˌɑkkˌɑðˈest͡ʃje# | 86 : [+cons,-cont,+voi] > [+cont,0delrel] 
-#ˌɑkkˌɑˈest͡ʃje# | 88 : [-son,+voi,-strid,-front,βround] > ∅ / [+syl] __ [+syl,βround]
-#ˌɑkkˌɑˈest͡sje# | 92 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-#ˌɑkkˌɑˈest͡sʝe# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑkˌɑˈest͡sʝe# | 123 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌɑkˌɑˈest͡sçe# | 126 : [-son] > [-voi] / [-voi] __ 
-#ˌɑkˌɑˈet͡sçe# | 151 : [-son] > ∅ / __ [+delrel]
-#ˌɑkˌɑˈet͡se# | 152 : [-son] > ∅ / [+delrel] __ 
-#ˌɑkˌɑˈese# | 166 : [+strid,+ant] > [+cont,0delrel] 
-#ˌɑkˌɑˈeθe# | 170 : s > θ / __ [-cons]
-Final form : #ˌɑkˌɑˈeθe#
+Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1268:
+#ˌɑskiˈɑːt̪ɑ# >>> *#ɑθˈɑd̪ɑ# ( GOLD : #ɑθˈɑd̪ɑ#) :
+ˌɑ s k i ˈɑː t̪ ɑ 
+Popular Latin stage form : *#ˌɑskiˈɑːt̪ɑ#
+*#ˌɑskjˈɑːt̪ɑ# | 44 : [+syl,-stres,-lo,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+*#ˌɑskjˈɑt̪ɑ# | 52 : [+syl] > [-long,-splng] 
+*#ˌɑst͡ʃjˈɑt̪ɑ# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#ˌɑst͡ʃˈɑt̪ɑ# | 73 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ˌɑst͡ʃˈɑd̪ɑ# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ˌɑst͡sˈɑd̪ɑ# | 140 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#ˌɑst͡sˈɑd̪ɑ#
+*#ˌɑt͡sˈɑd̪ɑ# | 226 : [-son] > ∅ / __ [+delrel]
+*#ˌɑs̪ˈɑd̪ɑ# | 243 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#ˌɑs̪ˈɑd̪ɑ#
+*#ˌɑθˈɑd̪ɑ# | 247 : s̪ > θ 
+*#ɑθˈɑd̪ɑ# | 249 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑθˈɑd̪ɑ#

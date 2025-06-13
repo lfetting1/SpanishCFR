@@ -1,12 +1,17 @@
-Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1279:
-#ˌɑlˈekrem# >>> #ˌɑljˈer# ( GOLD : #ɑlˈeɡɾe#) :
-ˌɑ l ˈe k r e m 
-#ˌɑlˈekre# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑlˈexre# | 31 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
-#ˌɑlˈɛxre# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑlˈɛɣre# | 89 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌɑlˈɛjre# | 97 : [+cons,+back] > j / [+syl] __ [-back,+cons]
-#ˌɑlˈejre# | 101 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
-#ˌɑljˈere# | 141 : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son,0delrel]
-#ˌɑljˈer# | 146 : [+syl,-lo,-hi] > ∅ / [+syl] [+cont,-strid,+cor] __ #
-Final form : #ˌɑljˈer#
+Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1279:
+#ˌɑwskˈult̪ɑt̪# >>> *#oskˈut͡ʃɑ# ( GOLD : #eskˈut͡ʃɑ#) :
+ˌɑ w s k ˈu l t̪ ɑ t̪ 
+*#ˌɑwskˈul̪t̪ɑt̪# | 14 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
+Popular Latin stage form : *#ˌɑwskˈul̪t̪ɑt̪#
+*#ˌɑwskˈul̪t̪ɑ# | 32 : [+cons,-cont] > ∅ / __ #
+*#ˌɑwskˈol̪t̪ɑ# | 51 : [+syl,-long] > [-hi] 
+*#ˌɑwskˈojt̪ɑ# | 108 : [+lat] > j / [+back] __ [-son,+cor,-front]
+*#ˌɑwskˈujt̪ɑ# | 117 : [+syl,+round,+tense,+prim] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
+Old Spanish stage form : *#ˌɑwskˈujt̪ɑ#
+*#ˌowskˈujt̪ɑ# | 177 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#ˌowskˈujt͡ʃɑ# | 190 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#ˌoskˈujt͡ʃɑ# | 202 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
+*#ˌoskˈut͡ʃɑ# | 205 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Middle Spanish stage form : *#ˌoskˈut͡ʃɑ#
+*#oskˈut͡ʃɑ# | 249 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#oskˈut͡ʃɑ#

@@ -1,16 +1,12 @@
-Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1296:
-#ˌɑppˈosit̪um# >>> #ˌɑwwst̪o# ( GOLD : #ɑpwˈest̪o#) :
-ˌɑ p p ˈo s i t̪ u m 
-#ˌɑppˈosit̪u# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑppˈɔsit̪u# | 42 : [+syl,-long,+stres,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-#ˌɑppˈɔset̪o# | 43 : [+syl,-long] > [-hi] 
-#ˌɑppˈɔzet̪o# | 89 : [+cont] > [+voi] / [-cons] __ [+son]
-#ˌɑppwezet̪o# | 104 : [-tense] ∅ > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] e
-#ˌɑppɣʷezet̪o# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑpɣʷezet̪o# | 123 : [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr] > ∅ / __ [+cons,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr]
-#ˌɑpɣʷzt̪o# | 125 : [-lo,+syl,-stres] > ∅ / [+cons] __ [+cons]
-#ˌɑpxʷzt̪o# | 126 : [-son] > [-voi] / [-voi] __ 
-#ˌɑwxʷzt̪o# | 128 : [+cons,+lab] > w / __ [+back,+cons]
-#ˌɑwwzt̪o# | 163 : [+lab,+cons] > w / __ [-son]
-#ˌɑwwst̪o# | 167 : [+strid] > [-voi] 
-Final form : #ˌɑwwst̪o#
+Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1296:
+#wˈoːt̪ɑ# >>> *#bˈod̪ɑ# ( GOLD : #bˈod̪ɑ#) :
+w ˈoː t̪ ɑ 
+Popular Latin stage form : *#wˈoːt̪ɑ#
+*#ɣʷˈoːt̪ɑ# | 18 : w > ɣʷ / __ [+syl]
+*#ɣʷˈot̪ɑ# | 52 : [+syl] > [-long,-splng] 
+*#vˈot̪ɑ# | 77 : ɣʷ > v 
+*#vˈod̪ɑ# | 106 : [-cont] > [+voi] / [+syl] __ [+son]
+Old Spanish stage form : *#vˈod̪ɑ#
+*#bˈod̪ɑ# | 142 : v > b / __ ( ɾ ) [-cons]
+Middle Spanish stage form : *#bˈod̪ɑ#
+Final form : *#bˈod̪ɑ#

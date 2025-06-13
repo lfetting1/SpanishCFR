@@ -1,16 +1,22 @@
-Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1278:
-#ˌɑlt̪ˈɑːrium# >>> #ˌot̪ˈɑrxo# ( GOLD : #ot̪ˈeɾo#) :
-ˌɑ l t̪ ˈɑː r i u m 
-#ˌɑl̪t̪ˈɑːrium# | 5 : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
-#ˌɑl̪t̪ˈɑːriu# | 25 : [+nas] > ∅ / [-stres] __ #
-#ˌɑl̪t̪ˈɑːrju# | 39 : [+syl,-stres,-lo] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+hi]
-#ˌɑl̪t̪ˈɑːrjo# | 43 : [+syl,-long] > [-hi] 
-#ˌɑl̪t̪ˈɑrjo# | 44 : [+syl,+long] > [-long,-splng] 
-#ˌɑwt̪ˈɑrjo# | 90 : [+lat] > w / [+lo] __ [+cons]
-#ˌɑwt̪ˈɑrʝo# | 111 : [-cons,-syl,+hi] > [+cons,-son,0tense] / __ [+syl]
-#ˌɑwt̪ˈɑrʒo# | 117 : ʝ > ʒ / [-syl] __ [+round]
-#ˌowt̪ˈɑrʒo# | 127 : [+syl,+lo] > [-lo,αback,αround,αlab,jfront] / __ [-cons,-syl,αback,αround,jfront]
-#ˌot̪ˈɑrʒo# | 131 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-#ˌot̪ˈɑrʃo# | 167 : [+strid] > [-voi] 
-#ˌot̪ˈɑrxo# | 169 : ʃ > x 
-Final form : #ˌot̪ˈɑrxo#
+Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1278:
+#ˌɑwrˈikulɑ# >>> *#oɾˈexɑ# ( GOLD : #oɾˈexɑ#) :
+ˌɑ w r ˈi k u l ɑ 
+Popular Latin stage form : *#ˌɑwrˈikulɑ#
+*#ˌɑwrˈiklɑ# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#ˌɑwrˈixlɑ# | 35 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#ˌɑwrˈexlɑ# | 51 : [+syl,-long] > [-hi] 
+*#ˌɑwɾˈexlɑ# | 54 : r > ɾ 
+*#ˌɑwɾˈejlɑ# | 58 : [+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+son]
+*#ˌɑwɾˈejʎɑ# | 61 : [+lat] > ʎ / j __ 
+*#ˌɑwɾˈeʎɑ# | 75 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Old Spanish stage form : *#ˌɑwɾˈeʎɑ#
+*#ˌɑwɾˈed͡ʒɑ# | 148 : ʎ > d͡ʒ / [+syl] __ 
+*#ˌɑwɾˈeʒɑ# | 150 : d͡ʒ > ʒ 
+*#ˌowɾˈeʒɑ# | 177 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#ˌoːɾˈeʒɑ# | 192 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#ˌoɾˈeʒɑ# | 193 : [+syl] > [-long,-splng] 
+*#ˌoɾˈeʃɑ# | 244 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ˌoɾˈeʃɑ#
+*#ˌoɾˈexɑ# | 246 : ʃ > x 
+*#oɾˈexɑ# | 249 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#oɾˈexɑ#

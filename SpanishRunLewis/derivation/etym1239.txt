@@ -1,9 +1,14 @@
-Derivation file for run '../SpanishCFR/SpanishRun'; etymon number :1239:
-#ˌɑrˈɑt̪rum# >>> #ɑɾˈɑd̪ɾo# ( GOLD : #ɑɾˈɑd̪o#) :
-ˌɑ r ˈɑ t̪ r u m 
-#ˌɑɾˈɑt̪ɾum# | 1 : r > ɾ / @ __ @
-#ˌɑɾˈɑt̪ɾu# | 32 : [+nas] > ∅ / [-stres] __ #
-#ˌɑɾˈɑt̪ɾo# | 50 : [+syl,-long] > [-hi] 
-#ˌɑɾˈɑd̪ɾo# | 91 : [-son] > [+voi] / [-cons] __ [+son]
-#ɑɾˈɑd̪ɾo# | 179 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑɾˈɑd̪ɾo#
+Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1239:
+#ˌɑmˈoːrem# >>> *#ɑmˈoɾ# ( GOLD : #ɑmˈoɾ#) :
+ˌɑ m ˈoː r e m 
+Popular Latin stage form : *#ˌɑmˈoːrem#
+*#ˌɑmˈoːre# | 30 : [+nas] > ∅ / [-stres] __ #
+*#ˌɑmˈoːrɛ# | 48 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑmˈoːre# | 50 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑmˈore# | 52 : [+syl] > [-long,-splng] 
+*#ˌɑmˈoɾe# | 54 : r > ɾ 
+Old Spanish stage form : *#ˌɑmˈoɾe#
+*#ˌɑmˈoɾ# | 217 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+Middle Spanish stage form : *#ˌɑmˈoɾ#
+*#ɑmˈoɾ# | 249 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑmˈoɾ#
