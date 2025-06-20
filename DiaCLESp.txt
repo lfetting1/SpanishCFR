@@ -26,7 +26,11 @@ $[+lat,+front,+hi] > [+lat,-front,-hi] / __ [-cor] $ recurrent rule,lateral depa
 
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi] $implosion
 
-[+nas] > [αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,ɛback,Zfront,Hhi] @ $ nasal assimilation 10/04 moved after implosion. This matches online version of phono, but not the offline one.
+$[+nas] > [αcor,βant,ɣdistr,ðlab,Zfront,Hhi] / __ [+cons,αcor,βant,ɣdistr,ðlab,-back,Zfront,Hhi] @ $ nasal assimilation 10/04 moved after implosion. This matches online version of phono, but not the offline one.
+
+[+nas] > n̪ / __ [+cons] $ new nasal assimilation DiaCLESp change E.1. reformulation
+
+n̪ > m / __ [+lab,-round] $ new nasal assimilation DiaCLESp change E.1. reformulation
 
 [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation 10/04 moved after implosion, which matches the online version of phono, but not the offline one.
 
@@ -169,7 +173,7 @@ $ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work b
 [+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] ɾ > ɾ [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
 
 $DiaCLESp addition A.2.1: ŋɡ > n̪n̪ between front vowels, with posterior followed by coronal (ringīre > reñir, quīngentōs > quinientos; altho not in data also cingere tingere stringere etc. Not gingīva, verecundia etc.) 
-ŋ ɡ > n̪ n̪ / [+front] __ [+front] [+cor]
+[+nas,-lab] ɡ > n̪ n̪ / [+front] __ [+front] [+cor]
 
 ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back] $ ongliding $(69) !Hartman's system does not have this occurring before /a/ - in other words his symbol defs are different.
 
@@ -582,4 +586,4 @@ $kʷ > k w $ "q bisegmental",comment in span15.pho asking "why?"; original forma
 [-prim] > [-stres] $ Deletion of secondary stress. TODO - Move back in the cascade
 ʎ > ʝ $Yeismo. Relatively modern change not reflected in Hartmann's rules but which is apparent in most modern Spanish.
 
-ŋ > n̪ $ Nasal merger. TODO - move back in the cascade or fix the rule that creates these nasals originally
+$ŋ > n̪ $ Nasal merger. TODO - move back in the cascade or fix the rule that creates these nasals originally
