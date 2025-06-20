@@ -226,8 +226,6 @@ e > ∅ / [+syl] [+strid,-front] __ #| ORIG : e > ∅ / [+syl]  [+strid,-front] 
 [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]| ORIG : [+syl,+hi] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl] 
 [-son] > ∅ / __ [+delrel]| ORIG : [-son] > ∅ / __ [+delrel] 
 [-son] > ∅ / [+delrel] __ | ORIG : [-son] > ∅ / [+delrel] __ 
-ð > j / [+hi] __ [-son]| ORIG : ð > j / [+hi] __ [-son] 
-ð > j / [-hi] __ [+nas]| ORIG : ð > j / [-hi] __ [+nas] 
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]| ORIG : [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl] 
 h > ∅ | ORIG : h > ∅ 
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]| ORIG : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front] 
