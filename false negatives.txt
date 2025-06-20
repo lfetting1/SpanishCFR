@@ -1,0 +1,78 @@
+Rule Effects Write-Up
+Types of rules with no etyma effected:
+1. Partitioned/Recurrent:Partitionedrulewithnoeffects,butotherruleswithinthe set do have effects. There are about 35 of these.
+2. Truenegative:Rule(thatisnotpartitionedorrecurrent)withnoeffectslistedin Hartmann and no effects in DiaCLESP. There are about 3 of these.
+3. Falsenegative:Rule(thatisnotpartitionedorrecurrent)witheffectslistedin Hartmann but no effects DiaCLESP. There are about 7 of these, listed below.
+FALSE NEGATIVES ---------------------------------------------------------------------------------
+Rule 18: Glide Fortition {j > ʝ / [+syl] __ [+syl]} Should effect:
+
+mɑjo:ɾˈi:nu: mɑjo:ɾˈi:nu -> mɑʝo:ɾˈi:nu.
+
+This is the only etyma that should be affected by this rule according to Hartman. The majority of etyma effected by this rule (a partitioned rule) effects [w] with Rule 17: {w > ɣw / __ [+syl]}. This rule does have the proper effects.
+
+FIXED
+
+Rule 63: Final Metathesis {[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] ɾ > ɾ [+syl,- cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense,+son,- lat,+cont,0distr,0delrel]/ __ #}
+*in other words Vr > rV Should effect:
+
+dekˈembeɾ: dekˈɛmbeɾ -> dekˈɛmbɾe ˈinteɾ: ˈenteɾ -> ˈentɾe
+kwˈɑttuoɾ: kwˈɑttoɾ -> kwˈɑttɾo ʂˈempeɾ: ʂˈɛmpeɾ -> ʂˈɛmpɾe ʂˈupeɾ: ʂˈopeɾ -> ʂˈopɾe
+
+This is not a partitioned rule or recurrent rule.
+
+Rule 107: Beta Vee {β > v}
+
+This rule should have the following effects: ɑbˈɑ:ke: ɑβˈɑʣe -> ɑvˈɑʣe
+
+ɑbɑntiˈɑ:ɾe: ɑβɑnʦˈɑɾe -> ɑvɑnʦˈɑɾe ɑbbˈɑ:te: ɑββˈɑde -> ɑvvˈɑde
+ɑbbɑtˈiʂʂɑ: ɑββɑdˈeʂʂɑ -> ɑvvɑdˈeʂʂɑ ɑbbɾɑkiˈɑ:ɾe: ɑββɾɑʣˈɑɾe -> ɑvvɾɑʣˈɑɾe ɑkkubitˈɑ:ɾe: ɑkkoβedˈɑɾe -> ɑkkovedˈɑɾe ɑdweɾifikˈɑ:ɾe: ɑββeɾevegˈɑɾe -> ɑvveɾevegˈɑɾe ɑdwˈeɾʂu: ɑββˈɛʂʂo -> ɑvvˈɛʂʂo
+ɑdwiˈɑ:ɾe: ɑββjˈɑɾe -> ɑvvjˈɑɾe ɑdwokɑtˈo:ɾe: ɑββogɑdˈoɾe -> ɑvvogɑdˈoɾe ɑwˈeɾʂu: ɑβˈɛʂʂo -> ɑvˈɛʂʂo
+bˈɑdiu: βˈɑʝo -> vˈɑʝo
+bˈɑikɑ: βˈɑjgɑ -> vˈɑjgɑ
+bˈɑlbu: βˈɑwβo -> vˈɑwvo
+bɑllˈiʂtɑ: βɑllˈestɑ -> vɑllˈestɑ
+bɑɾbˈɑkulɑ: βɑɾβˈɑʎɑ -> vɑɾvˈɑʎɑ bɑɾbˈellɑ: βɑɾβˈɛllɑ -> vɑɾvˈɛllɑ
+bɑʂiˈɑ:ɾe: βɑjʐˈɑɾe -> vɑjʐˈɑɾe
+bˈɑʂiu: βˈɑjʐo -> vˈɑjʐo
+bɑʂʂiˈɑ:ɾe: βɑʂʂjˈɑɾe -> vɑʂʂjˈɑɾe
+bˈɑʂʂiu: βˈɑʂʂjo -> vˈɑʂʂjo
+bɑwkˈɑ:le: βɑwkˈɑle -> vɑwkˈɑle belˈenion: βelˈɛɲo -> velˈɛɲo
+bˈene: βˈɛne -> vˈɛne
+blɑndˈitiɑ: βlɑndˈeʣɑ -> vlɑndˈeʣɑ
+
+bonitˈɑ:te: βonedˈɑde -> vonedˈɑde bɾˈɑkkiu: βɾˈɑkʦo -> vɾˈɑkʦo bɾɑkiˈɑ:le: βɾɑʣˈɑle -> vɾɑʣˈɑle bɾɑkˈiolu: βɾɑʣˈɔlo -> vɾɑʣˈɔlo bɾˈuʂkeɑ: βɾˈosʦɑ -> vɾˈosʦɑ bˈukkɑ: βˈokkɑ -> vˈokkɑ
+bˈukkeu: βˈokʦo -> vˈokʦo burˈɑgine: βorˈɑjne -> vorˈɑjne bˈurulɑ: βˈoɾlɑ -> vˈoɾlɑ
+klˈɑ:we: klˈɑβe -> klˈɑve
+kolˈobɾɑ: kolˈɔβɾɑ -> kolˈɔvɾɑ kubitˈɑ:le: koβedˈɑle -> kovedˈɑle kˈubitu: kˈoβedo -> kˈovedo dˈe:bitɑ: ðˈeβedɑ -> ðˈevedɑ de:bitˈo:ɾe: ðeβedˈoɾe -> ðevedˈoɾe dˈu:bitɑ: ðˈuβedɑ -> ðˈuvedɑ fˈebɾe: fˈɛβɾe -> fˈɛvɾe
+feɾwˈente: feɾβˈɛnte -> feɾvˈɛnte
+fɾˈɑbikɑ: fɾˈɑβegɑ -> fɾˈɑvegɑ
+gubeɾnɑtˈo:ɾe: ɣoβeɾnɑdˈoɾe -> ɣoveɾnɑdˈoɾe gˈubiɑ: ɣˈoβjɑ -> ɣˈovjɑ
+ˈeɾbɑ: ˈɛɾβɑ -> ˈɛɾvɑ
+ˈibeɾu: ˈeβɾo -> ˈevɾo
+mowˈe:bile: mwˈeβle -> mwˈevle
+nˈeɾwiu: nˈɛɾβjo -> nˈɛɾvjo
+pˈulwu: pˈolβo -> pˈolvo
+
+ɾˈɑbiɑ: ɾˈɑβjɑ -> ɾˈɑvjɑ
+ɾo:bˈi:gine: ɾoβˈiʝene -> ɾovˈiʝene ɾˈubeu: ɾˈoβjo -> ɾˈovjo
+ʂolwˈe:ɾe: ʂolβˈeɾe -> ʂolvˈeɾe ʂubkɑwˈɑ:ɾe: ʂokkɑβˈɑɾe -> ʂokkɑvˈɑɾe ʂupˈeɾbiɑ: ʂobˈɛɾβjɑ -> ʂobˈɛɾvjɑ tˈuɾbidu: tˈoɾβjo -> tˈoɾvjo
+wɑ:gˈi:nɑ: βɑʝˈinɑ -> vɑʝˈinɑ wɑkwˈɑ:tɑ: βɑgwˈɑdɑ -> vɑgwˈɑdɑ wɑɾˈiolɑ: βɑjɾˈɔlɑ -> vɑjɾˈɔlɑ weɾmˈikulu: βeɾmˈeʎo -> veɾmˈeʎo wekʂˈi:kɑ: βexʂˈigɑ -> vexʂˈigɑ wi:kˈi:nu: βiʣˈino -> viʣˈino
+wˈi:ktu: βˈixto -> vˈixto
+windˈe:miɑ: βendˈemjɑ -> vendˈemjɑ windikˈɑ:ɾe: βendegˈɑɾe -> vendegˈɑɾe wˈiɾide: βˈeɾðe -> vˈeɾðe
+wˈitɾeu: βˈedɾjo -> vˈedɾjo
+wˈoltɑ: βˈɔjtɑ -> vˈɔjtɑ
+wˈultuɾe: βˈojtɾe -> vˈojtɾe
+This is not a recurrent or partitioned rule.
+
+Rule 176: Progressive Rounding { {ɡ;ɣ} > {ɡw;ɣw} / w __} and Rule 177 Waw Absorption {[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]}
+The following etyma should be affected: 
+
+ɑdweɾifikˈɑ:ɾe: ɑβeɾiwgˈɑɾe -> ɑβeɾiwgwˈɑɾe
+ɑwgˈuɾiu: ɑwgˈoɾjo -> ɑwgwˈoɾjo
+fɾˈɑbikɑ: ɸɾˈɑwgɑ -> ɸɾˈɑwgwɑ pɑnifikˈɑ:ɾe: pɑniwgˈɑɾe -> pɑniwgwˈɑɾe ʂɑnktifikˈɑ:ɾe: ʂɑntiwgˈɑɾe -> ʂɑntiwgwˈɑɾe
+This rule is important for the next rule, Waw absorption, to work. The waw absorption rule has no etyma effected as well, and Hartmann’s list says it should effect the same etyma as the progressive rounding rule.
+
+Rule 206 and 207: Dental vocalization {ð > j / [+hi] __ [-son] } and { ð > j / [-hi] __ [+nas]}
+This is a partitioned rule, but neither rule affects any etyma. Hartman only lists one etyma that should be affected:
+tɾˈi:tiku: tɾˈiðɣo -> tɾˈijɣo
+This should be effected by rule 206.

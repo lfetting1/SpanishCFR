@@ -11,8 +11,8 @@ h > ∅ | ORIG : h > ∅
 [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+nas,αvoi]| ORIG : [+cons,-strid,αvoi] > ∅ / [+cons,-nas] __ [+nas,αvoi] 
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons,αvoi] __ [+lat]| ORIG : [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons,αvoi] __ [+lat] 
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi]| ORIG : [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi] 
-[+nas] > n̪ / __ [+cons]| ORIG : [+nas] > n̪ / __ [+cons]
-n̪ > m / __ [+lab,-round]| ORIG : n̪ > m / __ [+lab,-round]
+[+nas] > n̪ / __ [+cons]| ORIG : [+nas] > n̪ / __ [+cons] 
+n̪ > m / __ [+lab,-round]| ORIG : n̪ > m / __ [+lab,-round] 
 [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]| ORIG : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] 
 ð > d̪ / l __ | ORIG : ð > d̪ / l __ 
 [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,-son,0tense] / [+nas] __ | ORIG : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ 
