@@ -133,6 +133,9 @@ $DiaCLESP fix A.3.4:  w or rather its reflex ɣʷ deleted before front vowels in
 
 [+syl] > [-long] $recurrent rule,unlong, shorten long vowels
 
+[+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ 
+[+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ /  __ [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense]
+
 [+syl,-stres] > ∅ / __ [+syl,-stres]
 
 r > ɾ
@@ -162,7 +165,7 @@ $DiaCLESp fix C.2.D g/ɣ iotation ("velar yod early") doesn't apply to ɣʷ/gʷ 
 
 [+lat] > ʎ / __ j $ lateral palatalization (combine?) $(63) Good but see above.
 
-[-cons,-lo,-prim,αround] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel" $(64) works on forms in our cascade, however all cases are ee/oo - no je/wo. according to rule spec that would work as well though.
+[-cons,-lo,αround,-syl] > ∅ / __ [-lo,+syl,αround] $ synalepha, "glide absorbed by homorganic vowel" $(64) works on forms in our cascade, however all cases are ee/oo - no je/wo. according to rule spec that would work as well though.
 
 [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] $ total consonant assimilation $(65) $FIXED EC 4/25...used to miss bk, tts, dβ, and many others !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
 

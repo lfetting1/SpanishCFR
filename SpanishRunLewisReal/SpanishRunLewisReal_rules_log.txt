@@ -52,6 +52,8 @@ r > s / __ s| ORIG : r > s / __ s
 [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] | ORIG : [-lo,-hi,-tense,+syl,-prim] > [+tense] 
 [+syl,-long] > [-hi] | ORIG : [+syl,-long] > [-hi] 
 [+syl] > [-long,-splng] | ORIG : [+syl] > [-long] 
+[+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ | ORIG : [+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ 
+[+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / __ [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense]| ORIG : [+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ /  __ [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense]
 [+syl,-stres] > ∅ / __ [+syl,-stres]| ORIG : [+syl,-stres] > ∅ / __ [+syl,-stres]
 r > ɾ | ORIG : r > ɾ
 ɾ ɾ > r | ORIG : ɾ ɾ > r 
@@ -62,7 +64,7 @@ r > ɾ | ORIG : r > ɾ
 [+nas,+cor] > ɲ / __ j| ORIG : [+nas,+cor] > ɲ / __ j 
 [+lat] > ʎ / j __ | ORIG : [+lat] > ʎ / j __ 
 [+lat] > ʎ / __ j| ORIG : [+lat] > ʎ / __ j 
-[-cons,-lo,-prim,αround] > ∅ / __ [-lo,+syl,αround]| ORIG : [-cons,-lo,-prim,αround] > ∅ / __ [-lo,+syl,αround] 
+[-cons,-lo,αround,-syl] > ∅ / __ [-lo,+syl,αround]| ORIG : [-cons,-lo,αround,-syl] > ∅ / __ [-lo,+syl,αround] 
 [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]| ORIG : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] 
 [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi]| ORIG : [+nas] > [βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] / __ [+nas,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] 
 {e ɾ;o ɾ} > {ɾ e;ɾ o} / __ #| ORIG : {e ɾ; o ɾ} > {ɾ e; ɾ o} / __ #
