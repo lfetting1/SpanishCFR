@@ -1,16 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :822:
-#st̪ˈɑbilem# >>> *#est̪ˈɑble# ( GOLD : #est̪ˈɑble#) :
-s t̪ ˈɑ b i l e m 
-Popular Latin stage form : *#st̪ˈɑbilem#
-*#s̪t̪ˈɑbilem# | 19 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#s̪t̪ˈɑblem# | 27 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
-*#s̪t̪ˈɑble# | 28 : [+nas] > ∅ / [-stres] __ #
-*#s̪t̪ˈɑblɛ# | 45 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#s̪t̪ˈɑble# | 47 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#s̪t̪ˈɑbʎe# | 124 : [+lat] > ʎ / [-son] __ [-round]
-*#es̪t̪ˈɑbʎe# | 128 : ∅ > e / # __ [+strid,+cont,+ant,-lab] [+cons]
-Old Spanish stage form : *#es̪t̪ˈɑbʎe#
-*#es̪t̪ˈɑble# | 146 : ʎ > l / [+cons,+voi] __ 
-*#est̪ˈɑble# | 235 : s̪ > s / __ [-son]
-Middle Spanish stage form : *#est̪ˈɑble#
-Final form : *#est̪ˈɑble#
+#rˈusseum# >>> *#rˈuxo# ( GOLD : #rˈoxo#) :
+r ˈu s s e u m 
+Popular Latin stage form : *#rˈusseum#
+*#rˈusseu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#rˈussju# | 47 : [+syl,-stres,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#rˈossjo# | 51 : [+syl,-long] > [-hi] 
+*#ɾˈossjo# | 54 : r > ɾ 
+*#ɾˈussjo# | 116 : [+syl,+round,+tense,+prim] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]
+*#ɾˈusjo# | 133 : [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+Old Spanish stage form : *#ɾˈusjo#
+*#ɾˈue̯sjo# | 185 : ∅ > e̯ / [+syl] __ [-voi] j [+back]
+*#ɾˈujso# | 189 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
+*#ɾˈujʃo# | 190 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#ɾˈuʃo# | 205 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Middle Spanish stage form : *#ɾˈuʃo#
+*#ɾˈuxo# | 246 : ʃ > x 
+*#rˈuxo# | 248 : ɾ > r / # __ 
+Final form : *#rˈuxo#
