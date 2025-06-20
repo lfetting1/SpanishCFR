@@ -170,7 +170,9 @@ $DiaCLESp fix C.2.D g/ɣ iotation ("velar yod early") doesn't apply to ɣʷ/gʷ 
 
 $ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work based on formulation
 
-[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] ɾ > ɾ [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
+$[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] ɾ > ɾ [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
+
+{e ɾ; o ɾ} > {ɾ e; ɾ o} / __ #
 
 $DiaCLESp addition A.2.1: ŋɡ > n̪n̪ between front vowels, with posterior followed by coronal (ringīre > reñir, quīngentōs > quinientos; altho not in data also cingere tingere stringere etc. Not gingīva, verecundia etc.) 
 [+nas,-lab] ɡ > n̪ n̪ / [+front] __ [+front] [+cor]

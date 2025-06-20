@@ -10,7 +10,7 @@ mɑjo:ɾˈi:nu: mɑjo:ɾˈi:nu -> mɑʝo:ɾˈi:nu.
 
 This is the only etyma that should be affected by this rule according to Hartman. The majority of etyma effected by this rule (a partitioned rule) effects [w] with Rule 17: {w > ɣw / __ [+syl]}. This rule does have the proper effects.
 
-FIXED
+FIXED (lexical error)
 
 Rule 63: Final Metathesis {[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] ɾ > ɾ [+syl,- cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense,+son,- lat,+cont,0distr,0delrel]/ __ #}
 *in other words Vr > rV Should effect:
@@ -19,6 +19,8 @@ dekˈembeɾ: dekˈɛmbeɾ -> dekˈɛmbɾe ˈinteɾ: ˈenteɾ -> ˈentɾe
 kwˈɑttuoɾ: kwˈɑttoɾ -> kwˈɑttɾo ʂˈempeɾ: ʂˈɛmpeɾ -> ʂˈɛmpɾe ʂˈupeɾ: ʂˈopeɾ -> ʂˈopɾe
 
 This is not a partitioned rule or recurrent rule.
+
+FIXED New Ruleː {e ɾ; o ɾ} > {ɾ e; ɾ o} / __ #
 
 Rule 107: Beta Vee {β > v}
 
