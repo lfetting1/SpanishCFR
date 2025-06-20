@@ -111,7 +111,6 @@ d͡ʒ > ʝ | ORIG : d͡ʒ > ʝ
 [+front,+syl,-stres,+hi] > j / __ [+syl]| ORIG : [+front,+syl,-stres,+hi] > j / __ [+syl] 
 [+front,+syl,-stres] > j / __ [+syl,+back]| ORIG : [+front,+syl,-stres] > j / __ [+syl,+back] 
 [+front,+syl,-stres] > j / [+syl,+back] __ | ORIG : [+front,+syl,-stres] > j / [+syl,+back] __ 
-b > v | ORIG : b > v 
 [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]| ORIG : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] 
 [+cons,+back,-nas] > j / [+syl] __ [-back,+cons]| ORIG : [+cons,+back,-nas] > j / [+syl] __ [-back,+cons] 
 [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]| ORIG : [+front,+tense,+syl,-lo] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+hi,+front,-nas,-lat] [+syl,+back] 
