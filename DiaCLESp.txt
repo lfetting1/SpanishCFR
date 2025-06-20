@@ -522,9 +522,9 @@ e > ∅ / [+syl] {[+cor,+ant,-cont];ɾ;[+lat,+ant];[+nas,+cor,+ant];[+strid,-fro
 
 [-son] > ∅ / [+delrel] __ $ affricate reduction
 
-ð > j / [+hi] __ [-son] $ dental vocalization, tridgo case. CM note @Aug31: consider removal in DiaCLESp, this seems to be a lexical rule. 
+$ð > j / [+hi] __ [-son] $ dental vocalization, tridgo case. CM note @Aug31: consider removal in DiaCLESp, this seems to be a lexical rule. DiaCLESp change D.3. deleted the rule to avoid overfitting.
 
-ð > j / [-hi] __ [+nas] $ dental vocalization, peine case (which does not actually work within Hartman's cascade, but attributed as such). CM note @Aug31: consider removal in DiaCLESp, this seems to be a lexical rule (which doesn't even work for its only target word as it seems to be bled anyways. 
+$ð > j / [-hi] __ [+nas] $ dental vocalization, peine case (which does not actually work within Hartman's cascade, but attributed as such). CM note @Aug31: consider removal in DiaCLESp, this seems to be a lexical rule (which doesn't even work for its only target word as it seems to be bled anyways. DiaCLESp change D.3. deleted the rule to avoid overfitting.
 
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl] $ waw expulsion 
 
