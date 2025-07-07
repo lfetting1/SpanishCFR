@@ -516,9 +516,9 @@ e > ∅ / [+syl] {[+cor,+ant,-cont];ɾ;[+lat,+ant];[+nas,+cor,+ant];[+strid,-fro
 [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim] [-stres] $ restress
  
 
-[+syl,-lo,+stres] > [+hi] / __ [+cons] (+cons) [-cons,-syl] $raising by diphthong
+[+syl,-lo,+prim] > [+hi] / __ [+cons] [-cons,-syl] $raising by diphthong
 
-[+syl,-lo,-stres] > [+hi] / @ __ [+cons] ([+cons]) [-cons,-syl] $raising_by_diphthong extra effect on unstressed vowels two Cs away from glide 
+[+syl,-lo,-prim] > [+hi] / __ [+cons] ([+cons]) [-cons,-syl] $raising_by_diphthong extra effect on unstressed vowels two Cs away from glide 
 
 [+syl,+hi] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl] $ vecino. vowel dissimilation. CM (@Aug31) apparently also effects /u/, not just /i/. 
 
@@ -531,7 +531,6 @@ $ð > j / [+hi] __ [-son] $ dental vocalization, tridgo case. CM note @Aug31: co
 $ð > j / [-hi] __ [+nas] $ dental vocalization, peine case (which does not actually work within Hartman's cascade, but attributed as such). CM note @Aug31: consider removal in DiaCLESp, this seems to be a lexical rule (which doesn't even work for its only target word as it seems to be bled anyways. DiaCLESp change D.3. deleted the rule to avoid overfitting.
 
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl] $ waw expulsion 
-
 
 $ɸ > h / __ [-cons] $ phi aspiration TODO fix this rule. It is likely -cons, but messes up a lot of things
 
