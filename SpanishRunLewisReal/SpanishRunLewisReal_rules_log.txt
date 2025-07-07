@@ -223,7 +223,6 @@ e > ∅ / [+syl] [+lat,+ant] __ #| ORIG : e > ∅ / [+syl]  [+lat,+ant] __ #
 e > ∅ / [+syl] [+nas,+cor,+ant] __ #| ORIG : e > ∅ / [+syl]  [+nas,+cor,+ant] __ #
 e > ∅ / [+syl] [+strid,-front] __ #| ORIG : e > ∅ / [+syl]  [+strid,-front] __ #
 [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim,+syl,+son,0delrel] [-stres,-prim,+syl,+son,0delrel]| ORIG : [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim] [-stres] 
-[+syl,-lo,+stres] > [+hi] / __ [+cons] ( [+cons] ) [-cons,-syl]| ORIG : [+syl,-lo,+stres] > [+hi] / __ [+cons] (+cons) [-cons,-syl] 
 [+syl,-lo,-stres] > [+hi] / @ __ [+cons] ( [+cons] ) [-cons,-syl]| ORIG : [+syl,-lo,-stres] > [+hi] / @ __ [+cons] ([+cons]) [-cons,-syl] 
 [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]| ORIG : [+syl,+hi] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl] 
 [-son] > ∅ / __ [+delrel]| ORIG : [-son] > ∅ / __ [+delrel] 
