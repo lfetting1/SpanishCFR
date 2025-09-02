@@ -38,9 +38,7 @@ b > ɣʷ / [-voi] ( [+son] ) [+hi,-cons] __ [+round] [+lat]| ORIG : b > ɣʷ / [
 r > s / __ s| ORIG : r > s / __ s 
 [+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ | ORIG : [+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __ 
 [+syl,αback] > [+long] / [+cor,+son] [+syl,αback] __ | ORIG : [+syl,αback] > [+long] / [+cor,+son] [+syl,αback] __ 
-[+prim,-lo,+hi] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]| ORIG : [+prim,-lo,+hi] [-stres] > [-stres] [+prim] 
-[+prim,-lo,-hi,+back] [-stres,-back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]| ORIG : [+prim,-lo,-hi,+back] [-stres,-back] > [-stres] [+prim] 
-[+prim,-lo,-hi,-back] [-stres,+back] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]| ORIG : [+prim,-lo,-hi,-back] [-stres,+back] > [-stres] [+prim] 
+[+prim,-lo] [-stres] > [-stres,-prim,+syl,+son,0delrel] [+prim,+stres,+syl,+son,0delrel]/ __ [-strid,+cor]| ORIG : [+prim,-lo] [-stres] > [-stres] [+prim] / __ [-strid,+cor] 
 [+back,-cont,+voi] > ∅ / [+syl,-long] __ [+front]| ORIG : [+back,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
 [+back,-cont,+voi] > ∅ / [+syl,+back] __ [+front]| ORIG : [+back,-cont,+voi] > ∅ / [+syl,+back] __ [+front]
 [+syl,-prim,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]| ORIG : [+syl,-prim,+hi] > [-syl,-long] / __ [+syl] 

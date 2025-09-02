@@ -104,11 +104,11 @@ r > s / __ s $rs > ss. Reformulated. Was [+cont,+son] > [+cor,+strid] / __[+cor,
 
 [+syl,αback] > [+long] / [+cor,+son] [+syl,αback] __ $ vowel lengthening (combine?)
 
-[+prim,-lo,+hi] [-stres] > [-stres] [+prim] $ progressive_stress
+[+prim,-lo] [-stres] > [-stres] [+prim] / __ [-strid,+cor] $ progressive_stress
 
-[+prim,-lo,-hi,+back] [-stres,-back] > [-stres] [+prim] $ progressive_stress,recipient of stress has different backness than donor
+$[+prim,-lo,-hi,+back] [-stres,-back] > [-stres] [+prim] $ progressive_stress,recipient of stress has different backness than donor
 
-[+prim,-lo,-hi,-back] [-stres,+back] > [-stres] [+prim] $ progressive_stress (combine?)
+$[+prim,-lo,-hi,-back] [-stres,+back] > [-stres] [+prim] / __ [+lat] $ progressive_stress (combine?) changed 8/26
 
 $[+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front] $ velar deletion
 
