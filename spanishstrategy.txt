@@ -1,7 +1,7 @@
 Known issues:
-Early syneresis - false negative
-Renucleation - false negative
 Metaphony rules - check
-Back monophthongization - false negative 
-Palatalization - false positive 
-Metathesis rules - False negative
+Very low priority - bowem missing some kind of monophthongization (just one word)
+Palatalization - false positive (not a huge deal)
+Metathesis rules - not clear, seems to be hard to figure out the deal (false negative?)
+Expected ɡɾo# is ɾo - probably false deletion of g, but maybe new rule?
+∅ for l - ʝg - lg (in cases from latin ll) probably false  negative, also metathesis rule (false negative), pl - ʝ (also from latin ll) false negative
