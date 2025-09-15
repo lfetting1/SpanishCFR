@@ -155,7 +155,9 @@ $ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it be
 {ɛ; ˈɛ; ˌɛ; e; ˌe; ˈe} > {e; ˈe; ˌe; i; ˌi; ˈi} / __ j $front raising
 
 $DiaCLESp fix C.2.D g/ɣ iotation ("velar yod early") doesn't apply to ɣʷ/gʷ [CM] (trivial) -- [-round] added to input.
-[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+son] $ velar yod early
+$[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+nas] $ velar yod early
+$[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+lat]
+[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+son]
 
 [+nas,+cor] > ɲ / j __ $ nasal palatal
 
