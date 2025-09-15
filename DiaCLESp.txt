@@ -155,9 +155,9 @@ $ɾ > r / __ {r; ɾ} $(above change applied to all consonants so we revert it be
 {ɛ; ˈɛ; ˌɛ; e; ˌe; ˈe} > {e; ˈe; ˌe; i; ˌi; ˈi} / __ j $front raising
 
 $DiaCLESp fix C.2.D g/ɣ iotation ("velar yod early") doesn't apply to ɣʷ/gʷ [CM] (trivial) -- [-round] added to input.
-$[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+nas] $ velar yod early
-$[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+lat]
-[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+son]
+[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+nas] $ velar yod early
+[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+lat]
+$[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+son]
 
 [+nas,+cor] > ɲ / j __ $ nasal palatal
 
@@ -295,7 +295,11 @@ $b > v $ beta_vee $(104) definitely bled but works. Rule judged to be spurious D
 
 [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] $ total consonant assimilation $(65) !NEEDS ADJUSTED - underspecified in current form, misses bk, tts, dβ, and many others 
 
-[+cons,+back,-nas] > j / [+syl] __ [-back,+cons] $ velar yod late $(105) fixed posterior
+[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+nas] $ velar yod late
+[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+lat]
+[+cons,+hi,-round] > j / [+syl] __ [+cons,-back,-son]
+
+ɣ > ɡ
 
 [+front,+tense,+syl,-lo] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+hi,+front,-nas,-lat] [+syl,+back] $metaphony e. CM 10/8: fixed metaphony-e to one rule based on span15. OG version (bugged) is below. 
 $[+syl,+back] > [+hi,-lo] / [+front,+hi,-cons,-syl,-back] __ $ metaphony e agent j,named metaphony e,but seems to affect back vowels $(107) !come back to these

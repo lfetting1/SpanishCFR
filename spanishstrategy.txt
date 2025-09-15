@@ -3,7 +3,7 @@ Metaphony rules - check
 Very low priority - bowem missing some kind of monophthongization (just one word)
 Palatalization - false positive (not a huge deal)
 Metathesis rules - not clear, seems to be hard to figure out the deal (false negative?)
-Expected ɡɾo# is ɾo - false positive, improper deletion of g.
+Expected ɡɾo# is ɾo - false positive, improper deletion of g (523,638,,781,1192)
 ∅ for l  
 	ʝg - lg (in cases from latin ll) probably false  negative (fixed - moved late syncope earlier #win. brings 5 words up to regularity and breaks none). 
 	metathesis rule (false negative)
