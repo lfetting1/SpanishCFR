@@ -1,20 +1,25 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :962:
-#sˌɑːn̪kt̪iˈoːn̪em# >>> *#sɑn̪θˈon̪# ( GOLD : #sɑn̪θjon̪#) :
-s ˌɑː n̪ k t̪ i ˈoː n̪ e m 
-*#sˌɑːn̪t̪iˈoːn̪em# | 8 : [+cons,-strid,αvoi] > ∅ / [+cons] __ [+cons,-son,-strid,αvoi]
-Popular Latin stage form : *#sˌɑːn̪t̪iˈoːn̪em#
-*#sˌɑːn̪t̪iˈoːn̪e# | 31 : [+nas] > ∅ / [-stres] __ #
-*#sˌɑːn̪t̪jˈoːn̪e# | 43 : [+syl,-prim,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-*#sˌɑːn̪t̪jˈoːn̪ɛ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˌɑːn̪t̪jˈoːn̪e# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sˌɑn̪t̪jˈon̪e# | 51 : [+syl] > [-long,-splng] 
-*#sˌɑn̪t͡ʃjˈon̪e# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
-*#sˌɑn̪t͡ʃˈon̪e# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#sˌɑn̪t͡sˈon̪e# | 144 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-Old Spanish stage form : *#sˌɑn̪t͡sˈon̪e#
-*#sˌɑn̪t͡sˈon̪# | 224 : e > ∅ / [+syl] [+nas,+cor,+ant] __ #
-*#sˌɑn̪s̪ˈon̪# | 245 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-Middle Spanish stage form : *#sˌɑn̪s̪ˈon̪#
-*#sˌɑn̪θˈon̪# | 249 : s̪ > θ 
-*#sɑn̪θˈon̪# | 251 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#sɑn̪θˈon̪#
+#t̪rˈed̪ekim# >>> *#t̪ɾjˈeθ# ( GOLD : #t̪ɾˈeθe#) :
+t̪ r ˈe d̪ e k i m 
+Popular Latin stage form : *#t̪rˈed̪ekim#
+*#t̪rˈed̪eki# | 31 : [+nas] > ∅ / [-stres] __ #
+*#t̪rˈɛd̪ɛki# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˈɛd̪eki# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˈɛd̪eke# | 50 : [+syl,-long] > [-hi] 
+*#t̪ɾˈɛd̪eke# | 55 : r > ɾ 
+*#t̪ɾˈɛd̪ekje# | 70 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t̪ɾˈɛd̪et͡ʃje# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#t̪ɾˈɛd̪et͡ʃe# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#t̪ɾˈɛet͡ʃe# | 105 : [-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl]
+*#t̪ɾˈɛed͡ʒe# | 108 : [-cont] > [+voi] / [+syl] __ [+son]
+*#t̪ɾˈɛeed͡ʒe# | 125 : ∅ > e / [-tense,+prim] __ 
+*#t̪ɾjˈeed͡ʒe# | 126 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+*#t̪ɾjˈeed͡ze# | 144 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#t̪ɾjˈeed͡ze#
+*#t̪ɾjˈed͡ze# | 198 : [+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ 
+*#t̪ɾjˈed͡z# | 221 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+*#t̪ɾjˈez̪# | 245 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#t̪ɾjˈes̪# | 246 : [+strid] > [-voi] 
+Middle Spanish stage form : *#t̪ɾjˈes̪#
+*#t̪ɾjˈeθ# | 249 : s̪ > θ 
+Final form : *#t̪ɾjˈeθ#
