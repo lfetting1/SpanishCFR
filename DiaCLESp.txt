@@ -365,7 +365,7 @@ $part of phi rules proposal. TODO MARK IN FIXES LOG
 $DiaCLESp fix B.2.2. Moved postalveolar affricate to alveolar shift to after lambda re-coronalization. The former counterbleeds the latter. [CM]
 {t͡ʃ;d͡ʒ} > {t͡s;d͡z} $[+strid,-cont] > [-hi,+ant] $ dentalization $(100) rule does not work with our layout - using disjunction
 
-∅ > e / # __ [+strid,+cont,+ant,-lab] [+cons] $ prothesis
+∅ > e / # __ [+strid,+cont,+ant,-lab] [-cont,-delrel] $ prothesis
 
 ~Old Spanish
 
