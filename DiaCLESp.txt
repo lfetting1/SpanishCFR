@@ -281,9 +281,18 @@ $[-son,+voi,+lab] > ∅ / [-cons] __ [+syl,+hi,+round] $original Hartman rule
 
 [-cont] > [+voi] / [+syl] __ [+son] $ voicing part 2 -- see above.
 
-[+lat] > w / [+lo] __ [-son] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good. CM 11/9 -- fixed to align with span15.pho
 
-[+lat] > j / [+back] __ [-son,+cor,-front] $ lateral vocalization for molto > mojto type cases. KS 10/18: fixed -ll- case. CM 11/9 -- fixed to align with span15.pho
+$[+lat] > w / [+syl,+lo] __ [-cont] ɾ
+$[+lat] > w / [+syl,+lo] __ [-cont] [+syl,+front]
+$[+lat] > w / [+syl,+lo] __ [+nas]
+$[+lat] > j / [+round,-hi] __ [+cons] [+front,+syl]
+$[+lat] > j / [+round,-hi] __ [+cons] ɾ
+
+
+$[+lat] > w / [+lo] __ [-son] $ lateral vocalization after low vowels, e.g. talpo > tawpo. $(98) good. CM 11/9 -- fixed to align with span15.pho
+
+[+lat] > j / [+round,+tense] __ [-son,+cor,-front]$ lateral vocalization for molto > mojto type cases. KS 10/18: fixed -ll- case. CM 11/9 -- fixed to align with span15.pho
+
 
 [+front,+syl,-stres,+hi] > j / __ [+syl] $ syneresis_late $(101) !no context
 
@@ -368,6 +377,10 @@ $DiaCLESp fix B.2.2. Moved postalveolar affricate to alveolar shift to after lam
 ∅ > e / # __ [+strid,+cont,+ant,-lab] [-cont,-delrel] $ prothesis
 
 ~Old Spanish
+
+[+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi] {[+cons];[+syl,-lo];ˈɑ j} $lateral vocalization
+[+lat] > w / [+syl,+lo] __ [+lab,-cont] $lateral vocalization
+$[+lat] > w / [+syl,+lo] __ [+nas] 
 
 v > b / __ (ɾ) [-cons] $ "betacism. DiaCLESp change C.2.E : betacism now only prevocoid (or -rV). Previously context free, but that counterbleeds unification of vl phenomena with phi aspiration. [CM]
 

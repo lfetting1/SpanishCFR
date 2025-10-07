@@ -107,8 +107,7 @@ d͡ʒ > ʝ | ORIG : d͡ʒ > ʝ
 [-son,+voi,+lab] > ∅ / [+front,+hi,-cons] __ [+back,+syl]| ORIG : [-son,+voi,+lab] > ∅ / [+front,+hi,-cons] __ [+back,+syl] 
 [-son,+cont] > [+voi] / [-cons] __ [+son]| ORIG : [-son,+cont] > [+voi] / [-cons] __ [+son] 
 [-cont] > [+voi] / [+syl] __ [+son]| ORIG : [-cont] > [+voi] / [+syl] __ [+son] 
-[+lat] > w / [+lo] __ [-son]| ORIG : [+lat] > w / [+lo] __ [-son] 
-[+lat] > j / [+back] __ [-son,+cor,-front]| ORIG : [+lat] > j / [+back] __ [-son,+cor,-front] 
+[+lat] > j / [+round,+tense] __ [-son,+cor,-front]| ORIG : [+lat] > j / [+round,+tense] __ [-son,+cor,-front]
 [+front,+syl,-stres,+hi] > j / __ [+syl]| ORIG : [+front,+syl,-stres,+hi] > j / __ [+syl] 
 [+front,+syl,-stres] > j / __ [+syl,+back]| ORIG : [+front,+syl,-stres] > j / __ [+syl,+back] 
 [+front,+syl,-stres] > j / [+syl,+back] __ | ORIG : [+front,+syl,-stres] > j / [+syl,+back] __ 
@@ -144,6 +143,10 @@ f > ɸ / __ [+son,+front,-syl]| ORIG : f > ɸ /  __  [+son,+front,-syl]
 ʎ > l / # [+lab,-strid,-voi] __ [+lo,+syl] [+front,-syl]| ORIG : ʎ > l / # [+lab,-strid,-voi] __ [+lo,+syl] [+front,-syl] 
 {t͡ʃ;d͡ʒ} > {t͡s;d͡z} | ORIG : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
 ∅ > e / # __ [+strid,+cont,+ant,-lab] [-cont,-delrel]| ORIG : ∅ > e / # __ [+strid,+cont,+ant,-lab] [-cont,-delrel] 
+[+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi] [+cons]| ORIG : [+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi]  [+cons]
+[+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi] [+syl,-lo]| ORIG : [+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi]  [+syl,-lo]
+[+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi] ˈɑ j| ORIG : [+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi]  ˈɑ j
+[+lat] > w / [+syl,+lo] __ [+lab,-cont]| ORIG : [+lat] > w / [+syl,+lo] __ [+lab,-cont] 
 v > b / __ ( ɾ ) [-cons]| ORIG : v > b / __ (ɾ) [-cons] 
 {ɸ;v} > {h;h} / __ [+son,+cont,-round] [+syl]| ORIG : {ɸ;v} > {h;h} /  __  [+son,+cont,-round] [+syl]
 {ɸ;v} > {h;h} / __ [+syl]| ORIG : {ɸ;v} > {h;h} /  __  [+syl]
