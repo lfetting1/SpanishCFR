@@ -103,7 +103,11 @@ r > ɾ | ORIG : r > ɾ
 [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons]| ORIG : [+round,+tense] > [+hi] / __ [+hi,-back,+son,+cons] 
 d͡ʒ > t͡ʃ / [-syl] __ | ORIG : d͡ʒ > t͡ʃ / [-syl] __
 d͡ʒ > ʝ | ORIG : d͡ʒ > ʝ 
-[-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl]| ORIG : [-son,+voi,+cor,-strid] > ∅ / [-cons] __ [+syl] 
+d̪ > ∅ / [+syl,-hi,-lo] __ [+syl]| ORIG : d̪ > ∅ / [+syl,-hi,-lo] __ [+syl] 
+d̪ > ∅ / [-cons,+hi] __ [-round,+syl]| ORIG : d̪ > ∅ / [-cons,+hi] __ [-round,+syl]
+d̪ > ∅ / [-cons,+hi] __ [+hi,+syl]| ORIG : d̪ > ∅ / [-cons,+hi] __ [+hi,+syl]
+d̪ > ∅ / [-cons,+lo] __ [+hi,+syl]| ORIG : d̪ > ∅ / [-cons,+lo] __ [+hi,+syl]
+d̪ > ∅ / [-cons,+lo] __ [-round,+syl]| ORIG : d̪ > ∅ / [-cons,+lo] __ [-round,+syl]
 [-son,+voi,+lab] > ∅ / [+front,+hi,-cons] __ [+back,+syl]| ORIG : [-son,+voi,+lab] > ∅ / [+front,+hi,-cons] __ [+back,+syl] 
 [-son,+cont] > [+voi] / [-cons] __ [+son]| ORIG : [-son,+cont] > [+voi] / [-cons] __ [+son] 
 [-cont] > [+voi] / [+syl] __ [+son]| ORIG : [-cont] > [+voi] / [+syl] __ [+son] 
