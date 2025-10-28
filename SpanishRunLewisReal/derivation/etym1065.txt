@@ -1,18 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :1065:
-#ɡrˌɑːn̪ˈɑːrium# >>> *#ɡɾɑn̪ˈeɾo# ( GOLD : #ɡɾɑn̪ˈeɾo#) :
-ɡ r ˌɑː n̪ ˈɑː r i u m 
-Popular Latin stage form : *#ɡrˌɑːn̪ˈɑːrium#
-*#ɡrˌɑːn̪ˈɑːriu# | 31 : [+nas] > ∅ / [-stres] __ #
-*#ɡrˌɑːn̪ˈɑːrju# | 43 : [+syl,-prim,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-*#ɡrˌɑːn̪ˈɑːrjo# | 50 : [+syl,-long] > [-hi] 
-*#ɡrˌɑn̪ˈɑrjo# | 51 : [+syl] > [-long,-splng] 
-*#ɡɾˌɑn̪ˈɑɾjo# | 55 : r > ɾ 
-*#ɡɾˌɑn̪ˈɑe̯ɾjo# | 95 : ∅ > e̯ / [+syl] __ ɾ j [+back]
-*#ɡɾˌɑn̪ˈɑjɾo# | 101 : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅
-Old Spanish stage form : *#ɡɾˌɑn̪ˈɑjɾo#
-*#ɡɾˌɑn̪ˈejɾo# | 188 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-*#ɡɾˌɑn̪ˈeːɾo# | 203 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
-*#ɡɾˌɑn̪ˈeɾo# | 204 : [+syl] > [-long,-splng] 
-Middle Spanish stage form : *#ɡɾˌɑn̪ˈeɾo#
-*#ɡɾɑn̪ˈeɾo# | 258 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ɡɾɑn̪ˈeɾo#
+#ɡˈen̪erum# >>> *#ʝˈen̪d̪ɾo# ( GOLD : #ʝˈeɾn̪o#) :
+ɡ ˈe n̪ e r u m 
+Popular Latin stage form : *#ɡˈen̪erum#
+*#ɡˈen̪rum# | 30 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#ɡˈen̪ru# | 31 : [+nas] > ∅ / [-stres] __ #
+*#ɡˈɛn̪ru# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡˈɛn̪ro# | 50 : [+syl,-long] > [-hi] 
+*#ɡˈɛn̪ɾo# | 55 : r > ɾ 
+*#ɡjˈɛn̪ɾo# | 70 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#d͡ʒjˈɛn̪ɾo# | 71 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#d͡ʒˈɛn̪ɾo# | 75 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ʝˈɛn̪ɾo# | 104 : d͡ʒ > ʝ 
+*#ʝˈɛen̪ɾo# | 128 : ∅ > e / [-tense,+prim] __ 
+*#ʝjˈen̪ɾo# | 129 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
+Old Spanish stage form : *#ʝjˈen̪ɾo#
+*#ʝˈen̪ɾo# | 214 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#ʝˈen̪d̪ɾo# | 250 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
+Middle Spanish stage form : *#ʝˈen̪d̪ɾo#
+Final form : *#ʝˈen̪d̪ɾo#
