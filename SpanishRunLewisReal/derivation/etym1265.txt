@@ -1,17 +1,14 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :1265:
-#ˌɑst̪ˈellɑ# >>> *#ɑst̪ˈiʝɑ# ( GOLD : #ɑst̪ˈiʝɑ#) :
-ˌɑ s t̪ ˈe l l ɑ 
-Popular Latin stage form : *#ˌɑst̪ˈellɑ#
-*#ˌɑs̪t̪ˈellɑ# | 21 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#ˌɑs̪t̪ˈɛllɑ# | 47 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˌɑs̪t̪ˈɛellɑ# | 128 : ∅ > e / [-tense,+prim] __ 
-*#ˌɑs̪t̪jˈellɑ# | 129 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-Old Spanish stage form : *#ˌɑs̪t̪jˈellɑ#
-*#ˌɑs̪t̪jˈeʎɑ# | 169 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-*#ˌɑs̪t̪jˈiʎɑ# | 241 : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
-*#ˌɑs̪t̪ˈiʎɑ# | 246 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-*#ˌɑst̪ˈiʎɑ# | 254 : s̪ > s / __ [-son]
-Middle Spanish stage form : *#ˌɑst̪ˈiʎɑ#
-*#ɑst̪ˈiʎɑ# | 258 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-*#ɑst̪ˈiʝɑ# | 259 : ʎ > ʝ 
-Final form : *#ɑst̪ˈiʝɑ#
+#ˌɑst̪ˈurikɑ# >>> *#ɑst̪ˈoɾɡɑ# ( GOLD : #ɑst̪ˈoɾɡɑ#) :
+ˌɑ s t̪ ˈu r i k ɑ 
+Popular Latin stage form : *#ˌɑst̪ˈurikɑ#
+*#ˌɑs̪t̪ˈurikɑ# | 21 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
+*#ˌɑs̪t̪ˈorekɑ# | 50 : [+syl,-long] > [-hi] 
+*#ˌɑs̪t̪ˈoɾekɑ# | 55 : r > ɾ 
+*#ˌɑs̪t̪ˈoɾeɡɑ# | 112 : [-cont] > [+voi] / [+syl] __ [+son]
+Old Spanish stage form : *#ˌɑs̪t̪ˈoɾeɡɑ#
+*#ˌɑs̪t̪ˈoɾɡɑ# | 168 : [-lo,+syl,-stres] > ∅ / [+prim] ( [-prim] )* ( @ ) [+cons] __ [+cons] @
+*#ˌɑst̪ˈoɾɡɑ# | 254 : s̪ > s / __ [-son]
+Middle Spanish stage form : *#ˌɑst̪ˈoɾɡɑ#
+*#ɑst̪ˈoɾɡɑ# | 258 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑst̪ˈoɾɡɑ#
