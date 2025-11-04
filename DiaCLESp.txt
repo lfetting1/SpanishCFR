@@ -43,7 +43,7 @@ $dummy gold stage to test DiaSim stage handling in lex header.
 
 $w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply on low-back vowel.)
 
-[-cont,+back,-round] w > [+lab,+round] ∅ $ kw; gw > kʷ; gʷ, should be fixed in lexicon not cascade
+$[-cont,+back,-round] w > [+lab,+round] ∅ $ kw; gw > kʷ; gʷ, should be fixed in lexicon not cascade
 
 
 w > [+cons,-son] / __ [+syl] $ glide fortition,recurrent rule
