@@ -1,17 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewis'; etymon number :1015:
-#wˈen̪eris# >>> *#bjˈen̪d̪ɾes# ( GOLD : #bjˈeɾn̪es#) :
-w ˈe n̪ e r i s 
-Popular Latin stage form : *#wˈen̪eris#
-*#ɣʷˈen̪eris# | 18 : w > ɣʷ / __ [+syl]
-*#ɣʷˈen̪ris# | 29 : [+syl,-prim] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
-*#ɣʷˈɛn̪ris# | 48 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɣʷˈɛn̪res# | 51 : [+syl,-long] > [-hi] 
-*#ɣʷˈɛn̪ɾes# | 54 : r > ɾ 
-*#vˈɛn̪ɾes# | 77 : ɣʷ > v 
-*#vˈɛen̪ɾes# | 121 : ∅ > e / [-tense,+prim] __ 
-*#vjˈen̪ɾes# | 122 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son,0delrel]
-Old Spanish stage form : *#vjˈen̪ɾes#
-*#bjˈen̪ɾes# | 142 : v > b / __ ( ɾ ) [-cons]
-*#bjˈen̪d̪ɾes# | 241 : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
-Middle Spanish stage form : *#bjˈen̪d̪ɾes#
-Final form : *#bjˈen̪d̪ɾes#
+#wˈikem# >>> *#bˈeθ# ( GOLD : #bˈeθ#) :
+w ˈi k e m 
+Popular Latin stage form : *#wˈikem#
+*#ɣʷˈikem# | 18 : w > ɣʷ / __ [+syl]
+*#ɣʷˈike# | 30 : [+nas] > ∅ / [-stres] __ #
+*#ɣʷˈikɛ# | 46 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɣʷˈike# | 48 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ɣʷˈeke# | 49 : [+syl,-long] > [-hi] 
+*#ɣʷˈekje# | 69 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#ɣʷˈet͡ʃje# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#ɣʷˈet͡ʃe# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
+*#vˈet͡ʃe# | 78 : ɣʷ > v 
+*#vˈed͡ʒe# | 111 : [-cont] > [+voi] / [+syl] __ [+son]
+*#vˈed͡ze# | 146 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#vˈed͡ze#
+*#bˈed͡ze# | 152 : v > b / __ ( ɾ ) [-cons]
+*#bˈed͡z# | 227 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+*#bˈez̪# | 251 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#bˈes̪# | 252 : [+strid] > [-voi] 
+Middle Spanish stage form : *#bˈes̪#
+*#bˈeθ# | 255 : s̪ > θ 
+Final form : *#bˈeθ#
