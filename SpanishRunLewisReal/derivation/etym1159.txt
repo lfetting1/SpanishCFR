@@ -1,10 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :1159:
-#ˈɑwt̪# >>> *#ˈo# ( GOLD : #ˈo#) :
-ˈɑ w t̪ 
-Popular Latin stage form : *#ˈɑwt̪#
-*#ˈɑw# | 32 : [+cons,-cont] > ∅ / __ #
-Old Spanish stage form : *#ˈɑw#
-*#ˈow# | 187 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
-*#ˈo# | 212 : [-syl,-cons,+hi,+round] > ∅ / [+round] __ 
-Middle Spanish stage form : *#ˈo#
-Final form : *#ˈo#
+#ˌeksuːkˈɑːre# >>> *#exkˈɑɾ# ( GOLD : #en̪xuɡˈɑɾ#) :
+ˌe k s uː k ˈɑː r e 
+Popular Latin stage form : *#ˌeksuːkˈɑːre#
+*#ˌexsuːkˈɑːre# | 35 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#ˌɛxsuːkˈɑːrɛ# | 46 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌexsuːkˈɑːre# | 48 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌexsukˈɑre# | 50 : [+syl] > [-long,-splng] 
+*#ˌexsukˈɑɾe# | 54 : r > ɾ 
+*#ˌexsuɡˈɑɾe# | 111 : [-cont] > [+voi] / [+syl] __ [+son]
+*#ˌejsuɡˈɑɾe# | 119 : [+cons,+hi,-round] > j / [+syl] __ [+cons,-back,-son]
+Old Spanish stage form : *#ˌejsuɡˈɑɾe#
+*#ˌejsɡˈɑɾe# | 166 : [-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] ( [-cons] )* [+prim] @
+*#ˌejskˈɑɾe# | 185 : [-son] > [-voi] / [-voi] __ 
+*#ˌejʃkˈɑɾe# | 206 : {s;t̪} > {ʃ;t͡ʃ} / j __ 
+*#ˌeʃkˈɑɾe# | 215 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#ˌeʃkˈɑɾ# | 227 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+Middle Spanish stage form : *#ˌeʃkˈɑɾ#
+*#ˌexkˈɑɾ# | 254 : ʃ > x 
+*#exkˈɑɾ# | 257 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#exkˈɑɾ#

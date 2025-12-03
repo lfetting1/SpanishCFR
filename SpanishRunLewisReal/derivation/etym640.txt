@@ -1,17 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :640:
-#mˌɑt̪t̪iˈɑːn̪ɑ# >>> *#mɑθˈɑn̪ɑ# ( GOLD : #mɑθˈɑn̪ɑ#) :
-m ˌɑ t̪ t̪ i ˈɑː n̪ ɑ 
-Popular Latin stage form : *#mˌɑt̪t̪iˈɑːn̪ɑ#
-*#mˌɑt̪t̪jˈɑːn̪ɑ# | 42 : [+syl,-prim,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-*#mˌɑt̪t̪jˈɑn̪ɑ# | 50 : [+syl] > [-long,-splng] 
-*#mˌɑt̪t͡ʃjˈɑn̪ɑ# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
-*#mˌɑt̪t͡ʃˈɑn̪ɑ# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __ 
-*#mˌɑt͡ʃt͡ʃˈɑn̪ɑ# | 116 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
-*#mˌɑt͡ʃˈɑn̪ɑ# | 139 : [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
-*#mˌɑt͡sˈɑn̪ɑ# | 146 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-Old Spanish stage form : *#mˌɑt͡sˈɑn̪ɑ#
-*#mˌɑs̪ˈɑn̪ɑ# | 251 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-Middle Spanish stage form : *#mˌɑs̪ˈɑn̪ɑ#
-*#mˌɑθˈɑn̪ɑ# | 255 : s̪ > θ 
-*#mɑθˈɑn̪ɑ# | 257 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#mɑθˈɑn̪ɑ#
+#mˌɑːksˈillɑm# >>> *#mexˈeʝɑ# ( GOLD : #mexˈiʝɑ#) :
+m ˌɑː k s ˈi l l ɑ m 
+Popular Latin stage form : *#mˌɑːksˈillɑm#
+*#mˌɑːksˈillɑ# | 30 : [+nas] > ∅ / [-stres] __ #
+*#mˌɑːxsˈillɑ# | 35 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#mˌɑːxsˈellɑ# | 49 : [+syl,-long] > [-hi] 
+*#mˌɑxsˈellɑ# | 50 : [+syl] > [-long,-splng] 
+*#mˌɑjsˈellɑ# | 119 : [+cons,+hi,-round] > j / [+syl] __ [+cons,-back,-son]
+Old Spanish stage form : *#mˌɑjsˈellɑ#
+*#mˌɑjsˈeʎɑ# | 168 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+*#mˌejsˈeʎɑ# | 187 : {ɑ w;ɑ j;ˌɑ w;ˌɑ j;ˈɑ w;ˈɑ j} > {o w;e j;ˌo w;ˌe j;ˈo w;ˈe j} 
+*#mˌejʃˈeʎɑ# | 200 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#mˌeːʃˈeʎɑ# | 202 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]
+*#mˌeʃˈeʎɑ# | 203 : [+syl] > [-long,-splng] 
+Middle Spanish stage form : *#mˌeʃˈeʎɑ#
+*#mˌexˈeʎɑ# | 254 : ʃ > x 
+*#mexˈeʎɑ# | 257 : [-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#mexˈeʝɑ# | 258 : ʎ > ʝ 
+Final form : *#mexˈeʝɑ#
