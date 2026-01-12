@@ -582,6 +582,8 @@ w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply o
 
 n̪ > ɾ / [+nas,-cor] __ $ recurrent rule, nasal dissimilation. TODO seems good but currently this rule is bled for most of its domain so check again. 
 
+n̪ > ɾ /ɡ __
+
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas] $epenthetic b d -- occurs before r, ɾ; old version: [+son,+cons,αcor,βant,ɣdistr,θlab] > [+son,+cons,αcor,βant,ɣdistr,θlab] [+cons,+voi,-cont,αcor,βant,ɣdistr,θlab]  / __ [-nas,-lat,+son] 
 
 m > n̪ / __ [+cor,+cons] $ nasal assimilation. This seems to be the only context where the rule applies again. Maybe refine
