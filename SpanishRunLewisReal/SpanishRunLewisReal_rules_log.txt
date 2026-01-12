@@ -224,17 +224,17 @@ t̪ l > l t̪ | ORIG : t̪ l > l t̪
 ð n̪ > n̪ ð | ORIG : ð n̪ > n̪ ð
 [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son]/ __ @| ORIG : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] / __ @
 [+hi,-back,+delrel] > [-strid,-delrel,-cont,+cons,0tense] | ORIG : [+hi,-back,+delrel] > [-strid,-delrel]
-e > ∅ / [+syl] [+cor,+ant,-cont] __ #| ORIG : e > ∅ / [+syl]  [+cor,+ant,-cont] __ #
-e > ∅ / [+syl] ɾ __ #| ORIG : e > ∅ / [+syl]  ɾ __ #
-e > ∅ / [+syl] [+lat,+ant] __ #| ORIG : e > ∅ / [+syl]  [+lat,+ant] __ #
-e > ∅ / [+syl] [+nas,+cor,+ant] __ #| ORIG : e > ∅ / [+syl]  [+nas,+cor,+ant] __ #
-e > ∅ / [+syl] [+strid,-front] __ #| ORIG : e > ∅ / [+syl]  [+strid,-front] __ #
 [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim,+syl,+son] [-stres,-prim,+syl,+son]| ORIG : [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim] [-stres]
 [+syl,-lo,+front] > [+hi] / __ [-syl,alab] ( [alab] )* [-cons,-syl]| ORIG : [+syl,-lo,+front] > [+hi] / __ [-syl,alab] ([alab])* [-cons,-syl]
 [+syl,-lo,-prim] > [+hi] / __ [-syl,alab] ( [alab] )* [-cons,-syl]| ORIG : [+syl,-lo,-prim] > [+hi] / __ [-syl,alab] ([alab])* [-cons,-syl]
 [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]| ORIG : [+syl,+hi] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl]
 [-son] > ∅ / __ [+delrel]| ORIG : [-son] > ∅ / __ [+delrel]
 [-son] > ∅ / [+delrel] __| ORIG : [-son] > ∅ / [+delrel] __
+e > ∅ / [+syl] [+cor,+ant,-cont] __ #| ORIG : e > ∅ / [+syl]  [+cor,+ant,-cont] __ #
+e > ∅ / [+syl] ɾ __ #| ORIG : e > ∅ / [+syl]  ɾ __ #
+e > ∅ / [+syl] [+lat,+ant] __ #| ORIG : e > ∅ / [+syl]  [+lat,+ant] __ #
+e > ∅ / [+syl] [+nas,+cor,+ant] __ #| ORIG : e > ∅ / [+syl]  [+nas,+cor,+ant] __ #
+e > ∅ / [+syl] [+strid,-front] __ #| ORIG : e > ∅ / [+syl]  [+strid,-front] __ #
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]| ORIG : [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]
 h > ∅ | ORIG : h > ∅
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]| ORIG : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
