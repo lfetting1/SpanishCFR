@@ -13,7 +13,6 @@ h > ∅ | ORIG : h > ∅
 [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi]| ORIG : [+cons,-strid,+cor,αvoi] > ∅ / [-nas,+cons] __ [+lat,αvoi]
 [+nas] > n̪ / __ [+cons]| ORIG : [+nas] > n̪ / __ [+cons]
 n̪ > m / __ [+lab,-round]| ORIG : n̪ > m / __ [+lab,-round]
-[+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]| ORIG : [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant]
 ð > d̪ / l __| ORIG : ð > d̪ / l __
 [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel,+cons,0tense] / [+nas] __| ORIG : [+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __
 w > ɣʷ / __ [+syl]| ORIG : w > [+cons,-son] / __ [+syl]
@@ -247,7 +246,6 @@ h > ∅ | ORIG : h > ∅
 [+lab,-son] > w / __ [-son]| ORIG : [+lab,-son] > w / __ [-son]
 w > ∅ / [+round,+syl] __| ORIG : w > ∅ / [+round,+syl] __
 n̪ > ɾ / [+nas,-cor] __| ORIG : n̪ > ɾ / [+nas,-cor] __
-n̪ > ɾ / ɡ __| ORIG : n̪ > ɾ /ɡ __
 {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]| ORIG : {m;n̪;l} > {m b;n̪ d̪;l d̪} / __ [+cor,+son,-lat,-nas]
 m > n̪ / __ [+cor,+cons]| ORIG : m > n̪ / __ [+cor,+cons]
 [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] | ORIG : [+strid,+ant,+delrel] > [+cont,+distr]
