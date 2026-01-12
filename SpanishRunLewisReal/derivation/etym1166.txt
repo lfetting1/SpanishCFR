@@ -1,17 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :1166:
-#ˌimpˈulsɑt̪# >>> *#empˈuxɑ# ( GOLD : #empˈuxɑ#) :
-ˌi m p ˈu l s ɑ t̪ 
-*#ˌin̪pˈulsɑt̪# | 13 : [+nas] > n̪ / __ [+cons]
-*#ˌimpˈulsɑt̪# | 14 : n̪ > m / __ [+lab,-round]
-Popular Latin stage form : *#ˌimpˈulsɑt̪#
-*#ˌimpˈulsɑ# | 32 : [+cons,-cont] > ∅ / __ #
-*#ˌempˈolsɑ# | 49 : [+syl,-long] > [-hi] 
-*#ˌempˈojsɑ# | 112 : [+lat] > j / [+round,+tense] __ [-son,+cor,-front]
-*#ˌempˈujsɑ# | 123 : [+syl,+round,+tense,+prim] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]
-Old Spanish stage form : *#ˌempˈujsɑ#
-*#ˌempˈujʃɑ# | 200 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
-*#ˌempˈuʃɑ# | 215 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
-Middle Spanish stage form : *#ˌempˈuʃɑ#
-*#ˌempˈuxɑ# | 254 : ʃ > x 
-*#empˈuxɑ# | 257 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#empˈuxɑ#
+#ˌin̪kˈert̪um# >>> *#in̪θjˈeɾt̪o# ( GOLD : #in̪θjˈeɾt̪o#) :
+ˌi n̪ k ˈe r t̪ u m 
+Popular Latin stage form : *#ˌin̪kˈert̪um#
+*#ˌin̪kˈert̪u# | 30 : [+nas] > ∅ / [-stres] __ #
+*#ˌin̪kˈɛrt̪u# | 46 : [+syl,-long,-hi,-lo] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌen̪kˈɛrt̪o# | 49 : [+syl,-long] > [-hi] 
+*#ˌen̪kˈɛɾt̪o# | 54 : r > ɾ 
+*#ˌen̪kjˈɛɾt̪o# | 69 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#ˌen̪t͡ʃjˈɛɾt̪o# | 70 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#ˌen̪t͡ʃˈɛɾt̪o# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
+*#ˌen̪t͡ʃˈɛeɾt̪o# | 127 : ∅ > e / [-tense,+prim] __
+*#ˌen̪t͡ʃjˈeɾt̪o# | 128 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ˌen̪t͡sjˈeɾt̪o# | 146 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#ˌen̪t͡sjˈeɾt̪o#
+*#ˌin̪t͡sjˈeɾt̪o# | 233 : [+syl,-lo,+front] > [+hi] / __ [-syl,alab] ( [alab] )* [-cons,-syl]
+*#ˌin̪s̪jˈeɾt̪o# | 252 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+Middle Spanish stage form : *#ˌin̪s̪jˈeɾt̪o#
+*#ˌin̪θjˈeɾt̪o# | 256 : s̪ > θ 
+*#in̪θjˈeɾt̪o# | 258 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#in̪θjˈeɾt̪o#
