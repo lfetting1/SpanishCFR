@@ -139,9 +139,9 @@ $DiaCLESP fix A.3.4:  w or rather its reflex ɣʷ deleted before front vowels in
 
 [+syl,-stres] > ∅ / __ [+syl,-stres]
 
-r > ɾ
+$r > ɾ
 
-ɾ ɾ > r $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
+$ɾ ɾ > r $ recurrent rule, unlong. Not clear if other long consonants are meant to be reduced (if any remain)
 
 $[+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] > ∅ / __ [+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi] Part of unlong rule, Seemingly intended to delete geminates, but Hartman's rule does not do this, so it is commented out as of 9/13
 
@@ -178,7 +178,7 @@ $ʎ > l / [+cons,+voi] __ $ lambda_ell $(67) no effect on casc but should work b
 
 $[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] ɾ > ɾ [+syl,-cons,-cor,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] / __ # $ final metathesis $(68) No effect - !Come back to this one. Most likely works but investigate
 
-{e ɾ; o ɾ} > {ɾ e; ɾ o} / __ #
+{e r; o r} > {r e; r o} / __ #
 
 $DiaCLESp addition A.2.1: ŋɡ > n̪n̪ between front vowels, with posterior followed by coronal (ringīre > reñir, quīngentōs > quinientos; altho not in data also cingere tingere stringere etc. Not gingīva, verecundia etc.) 
 [+nas,-lab] ɡ > n̪ n̪ / [+front] __ [+front] [+cor]
@@ -419,8 +419,14 @@ $[+cons,-voi] > ∅ / # __ [+lat] $pl_ll_late
 
 [-voi,+cons] [+lat] > t͡ʃ / @ __ $ "cheismo" palatal lateral > tʃ . Examples manklya (mankʎa), amplyo (ampʎo) > mancha, ancho, but rules as such do not seem to explicitly reference palatality of the lateral or the prior ...nasal? (Nor is the nasal referenced in any sort of metadescription for the rule....)  
 
-r r > rː $ trilling. TODO check this -- was missing in one version. 
+
 [-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] (-cons)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
+
+r > ɾ 
+
+ɾ ɾ > r $ trilling. TODO check this -- was missing in one version. 
+
+r > ɾ / __ [+cons] 
 
 [-lo, +syl, -stres] > ∅ / [+prim] (-cons)* (@) [+cons] __ [+cons] @ $syncope late, after primary stress. This rule is meant to trigger between two consonants in a non-final syllable that occurs after the primary stress.
 
