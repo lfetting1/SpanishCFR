@@ -69,6 +69,7 @@ r > s / __ s| ORIG : r > s / __ s
 {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __| ORIG : {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __
 [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons]| ORIG : [-syl,-cons,+hi,+round] > ∅ / __ [+round,+cons]
 [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __| ORIG : [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __
+[-syl,-cons,+front] > ∅ / [+hi,+front,+syl] __| ORIG : [-syl,-cons,+front] > ∅ / [+hi,+front,+syl] __
 [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __| ORIG : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __| ORIG : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __
 [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]| ORIG : [-syl,-cons,+hi,+front] > ∅ /  __  [+front,+cons]

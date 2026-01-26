@@ -130,7 +130,7 @@ $DiaCLESP fix A.3.4:  w or rather its reflex ɣʷ deleted before front vowels in
 
 [-lo,-hi,-tense,+syl,-prim] > [+tense] $atonic-epsilon, "no unstressed ɛ," Hartman's rule seems to only leave ɛ with primary stress, as his model does not have secondary stress
 
-[+syl,-long] > [-hi] $ hi_lowering
+[+syl,-long] > [-hi] $ hi lowering
 
 [+syl] > [-long] $recurrent rule,unlong, shorten long vowels
 
@@ -197,9 +197,12 @@ $DiaCLESp addition A.2.1: ŋɡ > n̪n̪ between front vowels, with posterior fol
 
 [-syl,-cons,+hi,+round] > ∅ / [+round,+cons] __ $ recurrent rule,waw absorption $(73) Fixed. No effect (reasonable)
 
+[-syl,-cons,+front] > ∅ / [+hi,+front,+syl] __ $ yod absorption, testing ij > j
+
 [-syl,-cons,+hi,+front] > ∅ / {[+front,+cons];[+hi,+front]} __ $ recurrent rule,yod absorption $(74) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs for us. 
 
 [-syl,-cons,+hi,+front] > ∅ / __ {[+front,+cons];[+hi,+front]} $ recurrent rule,yod absorption $(75) Fixed. Note that tʃ counts as hi for Hartmann but not current symbolDefs. 
+
 
 $DiaCLESp fix A.3.3 ɣʷ > v. Bleeds what would otherwise be passage to ɣ due to labiovelar unrounding. [CM]
 ɣʷ > v
@@ -483,13 +486,11 @@ $new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has n
 ∅ > o̯ / [+syl] __ {[+ant];[-voi];[+cor,+cont]} w {[+back];[+hi]}  $ glide metathesis, beginning stage. Come back to this. Interestingly, hartman has no examples with /w/ -- just /j/.
 ∅ > e̯ / [+syl] __ {[-voi,-delrel];[+cor,+cont]} j {[+back];[+hi]}
 [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅
-
+ 
 {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons] $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
 
 $CM 10/13: apparently the second recurrence of progressive rounding was missed -- unless this reflects the web version?
-{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
-
-$CM 10/13: apparently the second recurrence of "monophthong" was missed -- unless this reflects the web version? 
+{ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions. CM 10/13: apparently the second recurrence of "monophthong" was missed -- unless this reflects the web version? 
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ / __ (@) [+syl] $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
 $CM 10/13: assert persistent rule -- unlong
