@@ -124,7 +124,11 @@ $DiaCLESP fix A.3.4:  w or rather its reflex ɣʷ deleted before front vowels in
 
 [+syl,-prim,-lo,-back] > [-syl,-long,+hi] / __ [+syl,+back] $ syneresis early
 
-[+syl,-long,-hi,-lo] > [-tense] $ mid lowering
+[+syl,-long,-hi,-lo,+front] > [-tense] $ mid lowering
+
+[+syl,-long,-hi,-lo,+back] > [-tense] / __ [-nas] $ mid lowering
+
+[+syl,-long,-hi,-lo] > [-tense] / [-nas] __ ([+nas])* ([-cont]) [+syl] # $ mid lowering
 
 ɡ > ʝ / [+front,+tense,+syl] __ [+syl,+back] $ Velar opening -- DiaCLESP change, Insertion and reloctation of gamma deletion
 
