@@ -558,9 +558,9 @@ $[+cons,-cont,+voi] > [+cont] $spirantization. TODO check later in second runthr
  
 
 
-[+syl,-lo,+front] > [+hi] / __ [-syl,alab,+voi] ([alab])* [-cons,-syl] $raising by diphthong
+[+syl,-lo,-hi] > [+hi] / __ {[-syl,+son];[-syl,+voi,-cont]} [-cons,-syl] $raising by diphthong (metaphony)
 
-[+syl,-lo,-prim] > [+hi] / __ [-syl,alab,+voi] ([alab])* [-cons,-syl] $raising_by_diphthong extra effect on unstressed vowels two Cs away from glide 
+$[+syl,-lo,-prim] > [+hi] / __ [-syl,alab,+voi] ([alab])* [-cons,-syl] $raising_by_diphthong extra effect on unstressed vowels two Cs away from glide, need to reformulate this one. More data could help
 
 [+syl,+hi] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl] $ vecino. vowel dissimilation. CM (@Aug31) apparently also effects /u/, not just /i/. 
 

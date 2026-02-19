@@ -230,8 +230,9 @@ t̪ l > l t̪ | ORIG : t̪ l > l t̪
 [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son]/ __ @| ORIG : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] / __ @
 [+hi,-back,+delrel] > [-strid,-delrel,-cont,+cons,0tense] | ORIG : [+hi,-back,+delrel] > [-strid,-delrel]
 [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim,+syl,+son] [-stres,-prim,+syl,+son]| ORIG : [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim] [-stres]
-[+syl,-lo,+front] > [+hi] / __ [-syl,alab,+voi] ( [alab] )* [-cons,-syl]| ORIG : [+syl,-lo,+front] > [+hi] / __ [-syl,alab,+voi] ([alab])* [-cons,-syl]
-[+syl,-lo,-prim] > [+hi] / __ [-syl,alab,+voi] ( [alab] )* [-cons,-syl]| ORIG : [+syl,-lo,-prim] > [+hi] / __ [-syl,alab,+voi] ([alab])* [-cons,-syl]
+[+syl,-lo,-hi] > [+hi] / __ [-syl,+son] [-cons,-syl]| ORIG : [+syl,-lo,-hi] > [+hi] /  __  [-syl,+son] [-cons,-syl]
+[+syl,-lo,-hi] > [+hi] / __ [-syl,+voi,-cont] [-cons,-syl]| ORIG : [+syl,-lo,-hi] > [+hi] /  __  [-syl,+voi,-cont] [-cons,-syl]
+[+syl,-lo,-hi] > [+hi] / __ [-syl,αlab] [-syl,-voi,αlab] [-syl,-cons,αlab]| ORIG : [+syl,-lo,-hi] > [+hi] / __ [-syl,αlab] [-syl,-voi,αlab] [-syl,-cons,αlab]
 [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]| ORIG : [+syl,+hi] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl]
 [-son] > ∅ / __ [+delrel]| ORIG : [-son] > ∅ / __ [+delrel]
 [-son] > ∅ / [+delrel] __| ORIG : [-son] > ∅ / [+delrel] __
