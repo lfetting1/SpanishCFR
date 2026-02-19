@@ -397,11 +397,12 @@ $DiaCLESp fix B.2.2. Moved postalveolar affricate to alveolar shift to after lam
 [+lat] > w / [+syl,+lo] __ [+lab,-cont] $lateral vocalization
 $[+lat] > w / [+syl,+lo] __ [+nas] 
 
-v > b / __ (ɾ) [-cons] $ "betacism. DiaCLESp change C.2.E : betacism now only prevocoid (or -rV). Previously context free, but that counterbleeds unification of vl phenomena with phi aspiration. [CM]
+$v > b / __ (ɾ) [-cons] $ "betacism. DiaCLESp change C.2.E : betacism now only prevocoid (or -rV). Previously context free, but that counterbleeds unification of vl phenomena with phi aspiration. [CM]
 
 $previous version, prior to 5/30 -- [+lab,+cont,-voi] > h / __ [-cons] $ phi aspiration DiaCLESp change B.1.C., C.1.D.
 $  As of 5/30~31, C.3.B. phi-deletion broadened to include v too, with new unifying contexts. [CM] (5/30~31)
-{ɸ;v} > {h;h} / __ {[+son,+cont,-round] [+syl];[+syl]}
+${ɸ;v} > {h;h} / __ {[+son,+cont,-round] [+syl];[+syl]}
+ɸ > h / __ {[+son,+cont,-round] [+syl];[+syl]}
 
 $ɸ > f $ phi_eff DiaCLESp change B.1.C.
 
@@ -559,6 +560,8 @@ $[+cons,-cont,+voi] > [+cont] $spirantization. TODO check later in second runthr
 
 
 [+syl,-lo,-hi] > [+hi] / __ {[-syl,+son];[-syl,+voi,-cont]} [-cons,-syl] $raising by diphthong (metaphony)
+
+v > b / __ (ɾ) [-cons] $ "betacism. DiaCLESp change C.2.E : betacism now only prevocoid (or -rV). Previously context free, but that counterbleeds unification of vl phenomena with phi aspiration. [CM]. Testing betacism later to see if it helps metaphony. 
 
 $[+syl,-lo,-prim] > [+hi] / __ [-syl,alab,+voi] ([alab])* [-cons,-syl] $raising_by_diphthong extra effect on unstressed vowels two Cs away from glide, need to reformulate this one. More data could help
 

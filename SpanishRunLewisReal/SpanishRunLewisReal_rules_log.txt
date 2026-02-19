@@ -151,9 +151,8 @@ f > ɸ / __ [+son,+front,-syl]| ORIG : f > ɸ /  __  [+son,+front,-syl]
 [+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi] [+syl,-lo]| ORIG : [+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi]  [+syl,-lo]
 [+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi] ˈɑ j| ORIG : [+lat] > w / [+syl,+lo] __ [-cont,+cor,-voi]  ˈɑ j
 [+lat] > w / [+syl,+lo] __ [+lab,-cont]| ORIG : [+lat] > w / [+syl,+lo] __ [+lab,-cont]
-v > b / __ ( ɾ ) [-cons]| ORIG : v > b / __ (ɾ) [-cons]
-{ɸ;v} > {h;h} / __ [+son,+cont,-round] [+syl]| ORIG : {ɸ;v} > {h;h} /  __  [+son,+cont,-round] [+syl]
-{ɸ;v} > {h;h} / __ [+syl]| ORIG : {ɸ;v} > {h;h} /  __  [+syl]
+ɸ > h / __ [+son,+cont,-round] [+syl]| ORIG : ɸ > h /  __  [+son,+cont,-round] [+syl]
+ɸ > h / __ [+syl]| ORIG : ɸ > h /  __  [+syl]
 [-cons,-syl,+front] > [+cons,-son,0tense] / [+syl] __ [-cons]| ORIG : [-cons,-syl,+front] > [+cons,-son] / [+syl] __ [-cons]
 [-cons,-syl,+front] > [+cons,-son,0tense] / # __ [-cons]| ORIG : [-cons,-syl,+front] > [+cons,-son] /  # __ [-cons]
 [+hi,+syl] > [-hi] / [+syl,+prim] ( @ )* ( [-syl] )* __ #| ORIG : [+hi,+syl] > [-hi] / [+syl,+prim] (@)* ([-syl])* __ #
@@ -232,7 +231,7 @@ t̪ l > l t̪ | ORIG : t̪ l > l t̪
 [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim,+syl,+son] [-stres,-prim,+syl,+son]| ORIG : [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim] [-stres]
 [+syl,-lo,-hi] > [+hi] / __ [-syl,+son] [-cons,-syl]| ORIG : [+syl,-lo,-hi] > [+hi] /  __  [-syl,+son] [-cons,-syl]
 [+syl,-lo,-hi] > [+hi] / __ [-syl,+voi,-cont] [-cons,-syl]| ORIG : [+syl,-lo,-hi] > [+hi] /  __  [-syl,+voi,-cont] [-cons,-syl]
-[+syl,-lo,-hi] > [+hi] / __ [-syl,αlab] [-syl,-voi,αlab] [-syl,-cons,αlab]| ORIG : [+syl,-lo,-hi] > [+hi] / __ [-syl,αlab] [-syl,-voi,αlab] [-syl,-cons,αlab]
+v > b / __ ( ɾ ) [-cons]| ORIG : v > b / __ (ɾ) [-cons]
 [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]| ORIG : [+syl,+hi] > [-hi] / __ ([+cons]) ([+cons]) [+hi,+front,+syl]
 [-son] > ∅ / __ [+delrel]| ORIG : [-son] > ∅ / __ [+delrel]
 [-son] > ∅ / [+delrel] __| ORIG : [-son] > ∅ / [+delrel] __
