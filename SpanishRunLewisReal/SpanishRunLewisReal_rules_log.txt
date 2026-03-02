@@ -248,7 +248,7 @@ e > ∅ / [+syl] [+nas,+cor,+ant] __ #| ORIG : e > ∅ / [+syl]  [+nas,+cor,+ant
 e > ∅ / [+syl] [+strid,-front] __ #| ORIG : e > ∅ / [+syl]  [+strid,-front] __ #
 [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]| ORIG : [+round,-syl,-cons] > ∅ / [+lab] [+son,+cons] __ [+syl]
 h > ∅ | ORIG : h > ∅
-[+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]| ORIG : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front]
+[+syl,+front,-lo] > [+hi] / [-syl,+front,-lo] __ [+hi,+front]| ORIG : [+syl,+front,-lo] > [+hi] / [-syl,+front,-lo] __ [+hi,+front]
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]| ORIG : [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons]
 [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __| ORIG : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
 [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __| ORIG : [-syl,-cons,+hi,+front] > ∅ / [+hi,+front] __

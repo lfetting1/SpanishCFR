@@ -604,7 +604,7 @@ $ɸ > [+strid] $ phi_eff
 
 h > ∅ $ h_deletion
 
-[+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [+hi,+front] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO also, largely bled in first runthrough -- check again in second.
+[+syl,+front,-lo] > [+hi] / [-syl,+front,-lo] __ [+hi,+front] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO also, largely bled in first runthrough -- check again in second.
 
 [+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO largely bled in first runthrough -- check again in second.
 
