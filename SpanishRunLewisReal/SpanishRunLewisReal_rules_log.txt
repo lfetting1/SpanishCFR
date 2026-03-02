@@ -168,9 +168,10 @@ d͡ʒ > ʒ | ORIG : d͡ʒ > ʒ
 r > ɾ | ORIG : r > ɾ
 ɾ ɾ > r | ORIG : ɾ ɾ > r
 r > ɾ / __ [+cons]| ORIG : r > ɾ / __ [+cons]
-[-lo,+syl,-stres] > ∅ / [+prim] ( [-cons] )* ( @ ) [-son] __ [+cons] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* (@)  [-son] __ [+cons] @
-[-lo,+syl,-stres] > ∅ / [+prim] ( [-cons] )* ( @ ) [+nas] __ [+cons] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* (@)  [+nas] __ [+cons] @
+[-lo,+syl,-stres] > ∅ / [+prim] ( [-cons] )* [-son] __ [+cons] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])*  [-son] __ [+cons] @
+[-lo,+syl,-stres] > ∅ / [+prim] ( [-cons] )* [+nas] __ [+cons] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])*  [+nas] __ [+cons] @
 [-lo,+syl,-stres] > ∅ / [+prim] ( [+son] ) [+son,+cons] __ [+cons] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([+son]) [+son,+cons] __ [+cons] @
+[-lo,+syl,-stres] > ∅ / [+prim] ( [-cons] )* [+son,+cons] [-son] __ [+cons] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son,+cons] [-son] __ [+cons] @
 hʷ > v | ORIG : hʷ > v
 {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]| ORIG : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
 {l l;n̪ n̪;m m} > {l;n̪;m} | ORIG : {l l;n̪ n̪;m m} > {l;n̪;m}

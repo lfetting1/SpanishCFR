@@ -442,9 +442,11 @@ r > ɾ / __ [+cons]
 $[-lo, +syl, -stres] > ∅ / [+prim] ([-cons])* (@) [+cons] __ [+cons] @ $syncope late, after primary stress. This rule is meant to trigger between two consonants in a non-final syllable that occurs after the primary stress.
 
 
-[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* (@) {[-son];[+nas]} __ [+cons] @
+[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* {[-son];[+nas]} __ [+cons] @ $ syncope late, after primary stress
 
-[-lo,+syl,-stres] > ∅ / [+prim] ([+son]) [+son,+cons] __ [+cons] @
+[-lo,+syl,-stres] > ∅ / [+prim] ([+son]) [+son,+cons] __ [+cons] @ $ syncope late, after primary stress
+
+[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son,+cons] [-son] __ [+cons] @ $syncope late in the case of clusters
 
 hʷ > v
 
