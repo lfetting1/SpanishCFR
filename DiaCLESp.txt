@@ -442,16 +442,24 @@ r > ɾ / __ [+cons]
 $[-lo, +syl, -stres] > ∅ / [+prim] ([-cons])* (@) [+cons] __ [+cons] @ $syncope late, after primary stress. This rule is meant to trigger between two consonants in a non-final syllable that occurs after the primary stress.
 
 
+{l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in obstruent degemination. However, that's now moved earlier. Non-obstruent remainder handled below. Testing moving this to before late syncope
+
+{l l;n̪ n̪;m m} > {l;n̪;m} $ testing moving this sonorant degemination before late syncope.
+
+
 [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* {[-son];[+nas]} __ [+cons] @ $ syncope late, after primary stress
 
 [-lo,+syl,-stres] > ∅ / [+prim] ([+son]) [+son,+cons] __ [+cons] @ $ syncope late, after primary stress
 
 [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son,+cons] [-son] __ [+cons] @ $syncope late in the case of clusters
 
+ʎ > l / __ [-cor,+cons] $ lateral depalatalization, testing inserting this lateral depalatalization rule at all.
+
 hʷ > v
 
-{l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in obstruent degemination. However, that's now moved earlier. Non-obstruent remainder handled below.
-{l l;n̪ n̪;m m} > {l;n̪;m}
+${l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in obstruent degemination. However, that's now moved earlier. Non-obstruent remainder handled below.
+
+${l l;n̪ n̪;m m} > {l;n̪;m}
 
 ʎ > l / [+cons,+voi] __ $ lambda_ell. TODO may need further investigation -- is this supposed to work after m? 
 
