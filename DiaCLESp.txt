@@ -217,8 +217,6 @@ $unround, fixed. CM 10/22
 
 [-son,+round] > [-round,-lab] / # __ [+lo,-prim]
 
-$[-son,+round] > [-round,-lab] w 
-
 $previous version commented out before. 
 
 $w > ∅ / [+cons,+back] __ [-lo,+syl,-stres] $[+cons] > [-round] / # __ [-lo,+syl,-stres] $ unround $(76) !No effect.
@@ -528,7 +526,10 @@ $CM 10/13: assert persistent rule -- unlong
 [+syl] > [-long] 
 [+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ $ Vowel coalescence. DiaCLESp change A.1.1 Inserted with unlong rule to fix cases such as d̪eˈed̪o for d̪ˈed̪o that are meant to be caught by the previous rule. Gets some wrong, such as the present tense forms of -eer verbs, but that is probably from analogy.
 
+{kʷ;ɡʷ} > {k w; ɡ w}
+
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
+
 
 {s;t̪} > {ʃ;t͡ʃ} / j __ $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
 
