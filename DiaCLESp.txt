@@ -72,17 +72,17 @@ $[+syl,-prim] > ∅ / [+cons,+son,-nas] __ [+cons,+cont,+son,-nas] @ $early sync
 
 $[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $early syncope
 
-[+syl,-prim,-lo] > ∅ / [+syl] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] @ $early syncope (pretonic; sib __ nonvelar). Conditions B H J K S Q. CM fixed 11/9 
+[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] @ $early syncope (pretonic; sib __ nonvelar). Conditions B H J K S Q. CM fixed 11/9 
 
-[+syl,-prim,-lo] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back] [+prim] $early syncope (pretonic; liq __ nonvel). Conditions B H J K R Q. CM fixed 11/9 
+[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back] [+prim] $early syncope (pretonic; liq __ nonvel). Conditions B H J K R Q. CM fixed 11/9 
 
-[+syl,-prim,-lo] > ∅ / [+syl] ([-syl])* [-syl] __ [+son,+cons,-nas] [+prim] $early syncope  (pretonic; C/J __ liq). Conditions B H J K O . CM fixed 11/9
+[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [-syl] __ [+son,+cons,-nas] [+prim] $early syncope  (pretonic; C/J __ liq). Conditions B H J K O . CM fixed 11/9
  
-[+syl,-prim] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] ([-syl])* [+syl] $early syncope (posttonic; sib __ nonvelar). Conditions B L M S Q. CM fixed 11/9 
+[+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] ([-syl])* [+syl] $early syncope (posttonic; sib __ nonvelar). Conditions B L M S Q. CM fixed 11/9 
 
-[+syl,-prim] > ∅ / [+prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back] ([-syl])* [+syl] $early syncope (posttonic; liq __ nonvel). Conditions B L M R Q. CM fixed 11/9 
+[+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back] ([-syl])* [+syl] $early syncope (posttonic; liq __ nonvel). Conditions B L M R Q. CM fixed 11/9 
 
-[+syl,-prim] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons,-nas] ([-syl])* [+syl]  $early syncope (posttonic; C/J __ liq). Conditions B L M O. CM fixed 11/9 
+[+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons,-nas] ([-syl])* [+syl]  $early syncope (posttonic; C/J __ liq). Conditions B L M O. CM fixed 11/9 
 
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion, does not get deleted after stressed final syllables, effectively only monosyllabic words such as tam > tan or cum > con
 
@@ -216,6 +216,8 @@ $unround, fixed. CM 10/22
 [-son,+round] > [-round,-lab] / __ [+syl,-lo]
 
 [-son,+round] > [-round,-lab] / # __ [+lo,-prim]
+
+$[-son,+round] > [-round,-lab] w 
 
 $previous version commented out before. 
 
@@ -447,9 +449,11 @@ $[-lo, +syl, -stres] > ∅ / [+prim] ([-cons])* (@) [+cons] __ [+cons] @ $syncop
 {l l;n̪ n̪;m m} > {l;n̪;m} $ testing moving this sonorant degemination before late syncope.
 
 
-[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* {[-son];[+nas]} __ [+cons] @ $ syncope late, after primary stress
+[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [-son] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after)
 
-[-lo,+syl,-stres] > ∅ / [+prim] ([+son]) [+son,+cons] __ [+cons] @ $ syncope late, after primary stress
+[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+nas] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after)
+
+[-lo,+syl,-stres,-hi] > ∅ / [+prim] ([+son]) [+son,+cons] __ [+cons] @ $ syncope late, after primary stress
 
 [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son,+cons] [-son] __ [+cons] @ $syncope late in the case of clusters
 
