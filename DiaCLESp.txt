@@ -449,13 +449,17 @@ r > ɾ
 
 {l l;n̪ n̪;m m} > {l;n̪;m} $ testing moving this sonorant degemination before late syncope.
 
-[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [-son] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after)
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons] __ [+cons] @ $ new posttonic late syncope rule. simplified
 
-[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+nas] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after)
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons] __ [+cons] @ $ new posttonic late syncope rule. simplified
 
-[-lo,+syl,-stres,-hi] > ∅ / [+prim] ([+son]) [+son,+cons] __ [+cons] @ $ syncope late, after primary stress
+$[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [-son] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after)
 
-[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son,+cons] [-son] __ [+cons] @ $syncope late in the case of clusters
+$[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+nas] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after)
+
+$[-lo,+syl,-stres,-hi] > ∅ / [+prim] ([+son]) [+son,+cons] __ [+cons] @ $ syncope late, after primary stress
+
+$[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son,+cons] [-son] __ [+cons] @ $syncope late in the case of clusters
 
 r > ɾ / __ [+cons] 
 

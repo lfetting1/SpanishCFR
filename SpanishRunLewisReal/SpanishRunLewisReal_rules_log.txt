@@ -169,12 +169,8 @@ r > ɾ | ORIG : r > ɾ
 [-lo,+syl,-stres] > ∅ / [+cont] [+cons] __ [+cons] ( [-cons] )* [+prim] @| ORIG : [-lo,+syl,-stres] > ∅ / [+cont] [+cons] __ [+cons] (-cons)* [+prim] @
 {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]| ORIG : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
 {l l;n̪ n̪;m m} > {l;n̪;m} | ORIG : {l l;n̪ n̪;m m} > {l;n̪;m}
-[-lo,+syl,-stres] > ∅ / [+prim] ( [-cons] )* [-son] __ [-son] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [-son] __  [-son] @
-[-lo,+syl,-stres] > ∅ / [+prim] ( [-cons] )* [-son] __ [+nas] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [-son] __  [+nas] @
-[-lo,+syl,-stres] > ∅ / [+prim] ( [-cons] )* [+nas] __ [-son] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+nas] __  [-son] @
-[-lo,+syl,-stres] > ∅ / [+prim] ( [-cons] )* [+nas] __ [+nas] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+nas] __  [+nas] @
-[-lo,+syl,-stres,-hi] > ∅ / [+prim] ( [+son] ) [+son,+cons] __ [+cons] @| ORIG : [-lo,+syl,-stres,-hi] > ∅ / [+prim] ([+son]) [+son,+cons] __ [+cons] @
-[-lo,+syl,-stres] > ∅ / [+prim] ( [-cons] )* [+son,+cons] [-son] __ [+cons] @| ORIG : [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son,+cons] [-son] __ [+cons] @
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons] __ [+cons] @| ORIG : [-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons] __ [+cons] @
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] ( [-cons] )* [+son] [+cons] __ [+cons] @| ORIG : [-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons] __ [+cons] @
 r > ɾ / __ [+cons]| ORIG : r > ɾ / __ [+cons]
 ʎ > l / __ [-cor,+cons]| ORIG : ʎ > l / __ [-cor,+cons]
 hʷ > v | ORIG : hʷ > v
