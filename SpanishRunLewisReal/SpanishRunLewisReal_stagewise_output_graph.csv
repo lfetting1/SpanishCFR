@@ -101,7 +101,7 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 99     | #frˈiːɡum# | *#frˈiːɡum# | *#frˈio# | *#fɾˈio# | *#fɾˈio# {GOLD: #fɾˈio#}
 100    | #frˈon̪t̪e# | *#frˈon̪t̪e# | *#frwˈen̪t̪e# | *#fɾˈen̪t̪e# | *#fɾˈen̪t̪e# {GOLD: #fɾˈen̪t̪e#}
 101    | #frˈuːkt̪um# | *#frˈuːkt̪um# | *#frˈujt̪o# | *#fɾˈut͡ʃo# | *#fɾˈut͡ʃo# {GOLD: #fɾˈut͡ʃo#}
-102    | #frˈɑbikɑ# | *#frˈɑbikɑ# | *#frˈɑbeɡɑ# | *#fɾˈɑɡʷɑ# | *#fɾˈɑɡʷɑ# {GOLD: #fɾˈɑɡwɑ#}
+102    | #frˈɑbikɑ# | *#frˈɑbikɑ# | *#frˈɑbeɡɑ# | *#fɾˈɑɡwɑ# | *#fɾˈɑɡwɑ# {GOLD: #fɾˈɑɡwɑ#}
 103    | #frˈɑksin̪um# | *#frˈɑksin̪um# | *#frˈɑzn̪o# | *#fɾˈɑsn̪o# | *#fɾˈɑsn̪o# {GOLD: #fɾˈesn̪o#}
 104    | #frˌikˈɑːre# | *#frˌikˈɑːre# | *#frˌeɡˈɑre# | *#fɾˌeɡˈɑɾ# | *#fɾeɡˈɑɾ# {GOLD: #fɾeɡˈɑɾ#}
 105    | #frˌiːksˈeolum# | *#frˌiːksˈeolum# | *#frˌijsjwˈelo# | *#fɾˌisjwˈelo# | *#fɾisjwˈelo# {GOLD: #fɾiswˈelo#}
@@ -208,8 +208,8 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 206    | #fˌoːrmˈɑːkeum# | *#fˌoːrmˈɑːkeum# | *#ɸˌormˈɑd͡zo# | *#ˌoɾmˈɑs̪o# | *#oɾmˈɑθo# {GOLD: #oɾmˈɑθo#}
 207    | #fˈoːrmɑ# | *#fˈoːrmɑ# | *#ɸˈormɑ# | *#ˈoɾmɑ# | *#ˈoɾmɑ# {GOLD: #ˈoɾmɑ#}
 208    | #fˌormˈiːkɑm# | *#fˌormˈiːkɑm# | *#ɸˌormˈiɡɑ# | *#ˌoɾmˈiɡɑ# | *#oɾmˈiɡɑ# {GOLD: #oɾmˈiɡɑ#}
-209    | #fˌormiːkˈɑːre# | *#fˌormiːkˈɑːre# | *#ɸˌormiɡˈɑre# | *#ˌoɾɡˈɑɾ# | *#oɾɡˈɑɾ# {GOLD: #oɾmiɡˈɑɾ#}
-210    | #fˌormiːkˈoːsum# | *#fˌormiːkˈoːsum# | *#ɸˌormiɡˈozo# | *#ˌoɾɡˈoso# | *#oɾɡˈoso# {GOLD: #oɾmiɡˈoso#}
+209    | #fˌormiːkˈɑːre# | *#fˌormiːkˈɑːre# | *#ɸˌormiɡˈɑre# | *#ˌoɾmiɡˈɑɾ# | *#oɾmiɡˈɑɾ# {GOLD: #oɾmiɡˈɑɾ#}
+210    | #fˌormiːkˈoːsum# | *#fˌormiːkˈoːsum# | *#ɸˌormiɡˈozo# | *#ˌoɾmiɡˈoso# | *#oɾmiɡˈoso# {GOLD: #oɾmiɡˈoso#}
 211    | #fˌoːrmˈoːsum# | *#fˌoːrmˈoːsum# | *#ɸˌormˈozo# | *#ˌoɾmˈoso# | *#oɾmˈoso# {GOLD: #eɾmˈoso#}
 212    | #fˌollikˈɑːre# | *#fˌollikˈɑːre# | *#ɸˌolleɡˈɑre# | *#ˌolɡˈɑɾ# | *#olɡˈɑɾ# {GOLD: #olɡˈɑɾ#}
 213    | #fˌollˈikulum# | *#fˌollˈikulum# | *#ɸˌollˈeʎo# | *#ˌoʎˈeʃo# | *#oʝˈexo# {GOLD: #oʝˈexo#}
@@ -521,7 +521,7 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 519    | #lˈɑt̪um# | *#lˈɑt̪um# | *#lˈɑd̪o# | *#lˈɑd̪o# | *#lˈɑd̪o# {GOLD: #lˈɑd̪o#}
 520    | #lˈɑwsiɑm# | *#lˈɑwsiɑm# | *#lˈɑwzjɑ# | *#lˈosjɑ# | *#lˈosjɑ# {GOLD: #lˈosɑ#}
 521    | #lˈɑwt̪iɑm# | *#lˈɑwt̪iɑm# | *#lˈɑwt͡sɑ# | *#lˈos̪ɑ# | *#lˈoθɑ# {GOLD: #lˈoθɑ#}
-522    | #lˌemikˈɑn̪eɑ# | *#lˌemikˈɑn̪eɑ# | *#lˌemeɡˈɑɲɑ# | *#lˌeɡʷˈɑɲɑ# | *#leɡʷˈɑɲɑ# {GOLD: #leɡˈɑɲɑ#}
+522    | #lˌemikˈɑn̪eɑ# | *#lˌemikˈɑn̪eɑ# | *#lˌemeɡˈɑɲɑ# | *#lˌeɡwˈɑɲɑ# | *#leɡwˈɑɲɑ# {GOLD: #leɡˈɑɲɑ#}
 523    | #lˌen̪t̪ˈikulɑ# | *#lˌen̪t̪ˈikulɑ# | *#lˌen̪t̪ˈeʎɑ# | *#lˌen̪t̪ˈeʃɑ# | *#len̪t̪ˈexɑ# {GOLD: #len̪t̪ˈexɑ#}
 524    | #lˌeɡˈen̪d̪ɑm# | *#lˌeɡˈen̪d̪ɑm# | *#lˌejˈen̪d̪ɑ# | *#lˌeʝˈen̪d̪ɑ# | *#leʝˈen̪d̪ɑ# {GOLD: #leʝˈen̪d̪ɑ#}
 525    | #lˌeɡˈuːmin̪em# | *#lˌeɡˈuːmin̪em# | *#lˌeɡˈumen̪e# | *#lˌeɡˈumbɾe# | *#leɡˈumbɾe# {GOLD: #leɡˈumbɾe#}
@@ -773,7 +773,7 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 771    | #pˌun̪kt̪iˈɑːre# | *#pˌuːn̪t̪iˈɑːre# | *#pˌun̪t͡sˈɑre# | *#pˌun̪s̪ˈɑɾ# | *#pun̪θˈɑɾ# {GOLD: #pun̪θˈɑɾ#}
 772    | #pˌɑlpˈɑːre# | *#pˌɑlpˈɑːre# | *#pˌɑlpˈɑre# | *#pˌopˈɑɾ# | *#popˈɑɾ# {GOLD: #popˈɑɾ#}
 773    | #pˌɑlˈumbɑm# | *#pˌɑlˈumbɑm# | *#pˌɑlˈomɑ# | *#pˌɑlˈomɑ# | *#pɑlˈomɑ# {GOLD: #pɑlˈomɑ#}
-774    | #ˌɑppˌɑn̪ifikˈɑːre# | *#ˌɑppˌɑn̪ifikˈɑːre# | *#ˌɑpˌɑn̪eveɡˈɑre# | *#ˌɑpˌɑn̪iɡʷˈɑɾ# | *#ɑpɑn̪iɡʷˈɑɾ# {GOLD: #ɑpɑn̪iɡwˈɑɾ#}
+774    | #ˌɑppˌɑn̪ifikˈɑːre# | *#ˌɑppˌɑn̪ifikˈɑːre# | *#ˌɑpˌɑn̪eveɡˈɑre# | *#ˌɑpˌɑn̪iɡwˈɑɾ# | *#ɑpɑn̪iɡwˈɑɾ# {GOLD: #ɑpɑn̪iɡwˈɑɾ#}
 775    | #pˌɑriet̪ˈiːn̪ɑs# | *#pˌɑriet̪ˈiːn̪ɑs# | *#pˌɑred̪ˈin̪ɑs# | *#pˌɑɾd̪ˈin̪ɑs# | *#pɑɾd̪ˈin̪ɑs# {GOLD: #pɑɾd̪ˈin̪ɑs#}
 776    | #pˌɑrɑd̪ˈiːsum# | *#pˌɑrɑd̪ˈiːsum# | *#pˌɑrɑˈizo# | *#pˌɑɾˈɑiso# | *#pɑɾˈɑiso# {GOLD: #pɑɾɑˈiso#}
 777    | #pˌɑrˈiet̪em# | *#pˌɑrˈiet̪em# | *#pˌɑrˈed̪e# | *#pˌɑɾˈed̪# | *#pɑɾˈed̪# {GOLD: #pɑɾˈed̪#}
@@ -854,7 +854,7 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 852    | #st̪ˈɑbilem# | *#st̪ˈɑbilem# | *#es̪t̪ˈɑbʎe# | *#est̪ˈɑble# | *#est̪ˈɑble# {GOLD: #est̪ˈɑble#}
 853    | #st̪ˈɑt̪um# | *#st̪ˈɑt̪um# | *#es̪t̪ˈɑd̪o# | *#est̪ˈɑd̪o# | *#est̪ˈɑd̪o# {GOLD: #est̪ˈɑd̪o#}
 854    | #sˌɑbulˈoːn̪em# | *#sˌɑbulˈoːn̪em# | *#sˌɑblˈon̪e# | *#sˌɑblˈon̪# | *#sɑblˈon̪# {GOLD: #sɑblˈon̪#}
-855    | #sˈɑmbukɑ# | *#sˈɑmbukɑ# | *#sˈɑmoɡɑ# | *#sˈɑɡʷɑ# | *#sˈɑɡʷɑ# {GOLD: #xɑmˈuɡɑ#}
+855    | #sˈɑmbukɑ# | *#sˈɑmbukɑ# | *#sˈɑmoɡɑ# | *#sˈɑɡwɑ# | *#sˈɑɡwɑ# {GOLD: #xɑmˈuɡɑ#}
 856    | #sˈae̯pt̪um# | *#sˈae̯pt̪um# | *#sjˈet̪o# | *#sjˈet̪o# | *#sjˈet̪o# {GOLD: #sˈet̪o#}
 857    | #sˈae̯pes# | *#sˈae̯pes# | *#sjˈebes# | *#sjˈebes# | *#sjˈebes# {GOLD: #sˈebe#}
 858    | #sˈae̯t̪ɑ# | *#sˈae̯t̪ɑ# | *#sjˈed̪ɑ# | *#sjˈed̪ɑ# | *#sjˈed̪ɑ# {GOLD: #sˈed̪ɑ#}
@@ -931,7 +931,7 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 929    | #sˌuːd̪ˈoːrem# | *#sˌuːd̪ˈoːrem# | *#sˌud̪ˈore# | *#sˌud̪ˈoɾ# | *#sud̪ˈoɾ# {GOLD: #sud̪ˈoɾ#}
 930    | #sˌɑlmˈuriɑ# | *#sˌɑlmˈuriɑ# | *#sˌɑlmˈojrɑ# | *#sˌɑlmwˈeɾɑ# | *#sɑlmwˈeɾɑ# {GOLD: #sɑlmwˈeɾɑ#}
 931    | #sˌɑlˈuːt̪em# | *#sˌɑlˈuːt̪em# | *#sˌɑlˈud̪e# | *#sˌɑlˈud̪# | *#sɑlˈud̪# {GOLD: #sɑlˈud̪#}
-932    | #sˌɑːn̪kt̪ifikˈɑːre# | *#sˌɑːn̪t̪ifikˈɑːre# | *#sˌɑn̪t̪eveɡˈɑre# | *#sˌɑn̪t̪iɡʷˈɑɾ# | *#sɑn̪t̪iɡʷˈɑɾ# {GOLD: #sɑn̪t̪iɡwˈɑɾ#}
+932    | #sˌɑːn̪kt̪ifikˈɑːre# | *#sˌɑːn̪t̪ifikˈɑːre# | *#sˌɑn̪t̪eveɡˈɑre# | *#sˌɑn̪t̪iɡwˈɑɾ# | *#sɑn̪t̪iɡwˈɑɾ# {GOLD: #sɑn̪t̪iɡwˈɑɾ#}
 933    | #sˌɑn̪ɡʷˈin̪eum# | *#sˌɑn̪ɡʷˈin̪eum# | *#sˌɑn̪ɡˈeɲo# | *#sˌɑn̪ɡˈeɲo# | *#sɑn̪ɡˈeɲo# {GOLD: #sɑn̪ɡwˈeɲo#}
 934    | #sˌɑːpˈoːn̪em# | *#sˌɑːpˈoːn̪em# | *#sˌɑbˈon̪e# | *#sˌɑbˈon̪# | *#sɑbˈon̪# {GOLD: #xɑbˈon̪#}
 935    | #sˌɑpˈoːrem# | *#sˌɑpˈoːrem# | *#sˌɑbˈore# | *#sˌɑbˈoɾ# | *#sɑbˈoɾ# {GOLD: #sɑbˈoɾ#}
@@ -1067,13 +1067,13 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 1065   | #ɡˌin̪ɡˈiːwɑm# | *#ɡˌin̪ɡˈiːwɑm# | *#ˌin̪t͡sˈiɑ# | *#ˌen̪s̪ˈiɑ# | *#en̪θˈiɑ# {GOLD: #en̪θˈiɑ#}
 1066   | #ɡˌubern̪ɑt̪ˈoːre# | *#ɡˌubern̪ɑt̪ˈoːre# | *#ɡˌobern̪ɑd̪ˈore# | *#ɡˌobeɾn̪ɑd̪ˈoɾ# | *#ɡobeɾn̪ɑd̪ˈoɾ# {GOLD: #ɡobeɾn̪ɑd̪ˈoɾ#}
 1067   | #ɡˌulˈoːsum# | *#ɡˌulˈoːsum# | *#ɡˌolˈozo# | *#ɡˌolˈoso# | *#ɡolˈoso# {GOLD: #ɡolˈoso#}
-1068   | #ɡˌurɡuliˈoːn̪em# | *#ɡˌurɡuliˈoːn̪em# | *#ɡˌorɡoʎˈon̪e# | *#ɡˌoɾʃˈon̪# | *#ɡoɾxˈon̪# {GOLD: #ɡoɾɡˈoxo#}
+1068   | #ɡˌurɡuliˈoːn̪em# | *#ɡˌurɡuliˈoːn̪em# | *#ɡˌorɡoʎˈon̪e# | *#ɡˌoɾɡoʃˈon̪# | *#ɡoɾɡoxˈon̪# {GOLD: #ɡoɾɡˈoxo#}
 1069   | #ɡˌyːrˈɑːre# | *#ɡˌiːrˈɑːre# | *#ˌirˈɑre# | *#ˌiɾˈɑɾ# | *#iɾˈɑɾ# {GOLD: #xiɾˈɑɾ#}
 1070   | #ɡˌɑllˈellum# | *#ɡˌɑllˈellum# | *#ɡˌɑlljˈello# | *#ɡˌɑlˈiʎo# | *#ɡɑlˈiʝo# {GOLD: #ɡɑlˈiʝo#}
 1071   | #ɡˌɑllˈiːn̪ɑ# | *#ɡˌɑllˈiːn̪ɑ# | *#ɡˌɑllˈin̪ɑ# | *#ɡˌɑʎˈin̪ɑ# | *#ɡɑʝˈin̪ɑ# {GOLD: #ɡɑʝˈin̪ɑ#}
 1072   | #ɡˌɑn̪n̪ˈiːt̪um# | *#ɡˌɑn̪n̪ˈiːt̪um# | *#ɡˌɑn̪n̪ˈid̪o# | *#ɡˌɑɲˈid̪o# | *#ɡɑɲˈid̪o# {GOLD: #ɡɑɲˈid̪o#}
 1073   | #ˈɑːerem# | *#ˈɑːerem# | *#ˈɑjre# | *#ˈeɾ# | *#ˈeɾ# {GOLD: #ˈɑjɾe#}
-1074   | #ˈekʷɑ# | *#ˈekʷɑ# | *#jˈeɡʷɑ# | *#ʝˈiɡwɑ# | *#ʝˈiɡwɑ# {GOLD: #ʝˈeɡwɑ#}
+1074   | #ˈekʷɑ# | *#ˈekʷɑ# | *#jˈeɡʷɑ# | *#ʝˈeɡwɑ# | *#ʝˈeɡwɑ# {GOLD: #ʝˈeɡwɑ#}
 1075   | #ˈeremum# | *#ˈeremum# | *#jˈermo# | *#ʝˈeɾmo# | *#ʝˈeɾmo# {GOLD: #ʝˈeɾmo#}
 1076   | #ˈeːskɑm# | *#ˈeːskɑm# | *#ˈeskɑ# | *#ˈeskɑ# | *#ˈeskɑ# {GOLD: #ʝˈeskɑ#}
 1077   | #est̪# | *#est̪# | *#es̪# | *#es̪# | *#eθ# {GOLD: #es#}
@@ -1146,8 +1146,8 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 1144   | #ˈɑwrid̪iˈɑːre# | *#ˈɑwrid̪iˈɑːre# | *#ˈɑwrt͡sˈɑre# | *#ˈoɾs̪ˈɑɾ# | *#ˈoɾθˈɑɾ# {GOLD: #oɾeˈɑɾ#}
 1145   | #ˈɑwrum# | *#ˈɑwrum# | *#ˈɑwro# | *#ˈoɾo# | *#ˈoɾo# {GOLD: #ˈoɾo#}
 1146   | #ˈɑwt̪# | *#ˈɑwt̪# | *#ˈɑw# | *#ˈo# | *#ˈo# {GOLD: #ˈo#}
-1147   | #ˌae̯kʷɑlit̪ˈɑːt̪em# | *#ˌae̯kʷɑlit̪ˈɑːt̪em# | *#ˌeɡʷɑlt̪ˈɑd̪e# | *#ˌiɡwɑlt̪ˈɑd̪# | *#iɡwɑlt̪ˈɑd̪# {GOLD: #iɡwɑld̪ˈɑd̪#}
-1148   | #ˌae̯kʷˈɑːlem# | *#ˌae̯kʷˈɑːlem# | *#ˌeɡʷˈɑle# | *#ˌiɡwˈɑl# | *#iɡwˈɑl# {GOLD: #iɡwˈɑl#}
+1147   | #ˌae̯kʷɑlit̪ˈɑːt̪em# | *#ˌae̯kʷɑlit̪ˈɑːt̪em# | *#ˌeɡʷɑlt̪ˈɑd̪e# | *#ˌeɡwɑlt̪ˈɑd̪# | *#eɡwɑlt̪ˈɑd̪# {GOLD: #iɡwɑld̪ˈɑd̪#}
+1148   | #ˌae̯kʷˈɑːlem# | *#ˌae̯kʷˈɑːlem# | *#ˌeɡʷˈɑle# | *#ˌeɡwˈɑl# | *#eɡwˈɑl# {GOLD: #iɡwˈɑl#}
 1149   | #ˌae̯st̪ˈiːwum# | *#ˌae̯st̪ˈiːwum# | *#ˌis̪t̪ˈio# | *#ˌest̪ˈio# | *#est̪ˈio# {GOLD: #est̪ˈio#}
 1150   | #ˌae̯t̪ˈɑːt̪em# | *#ˌae̯t̪ˈɑːt̪em# | *#ˌed̪ˈɑd̪e# | *#ˌed̪ˈɑd̪# | *#ed̪ˈɑd̪# {GOLD: #ed̪ˈɑd̪#}
 1151   | #ˌae̯ɡypt̪ɑːn̪us# | *#ˌae̯ɡipt̪ɑːn̪us# | *#ˌejt̪ɑn̪os# | *#ˌet͡ʃɑn̪os# | *#et͡ʃɑn̪os# {GOLD: #xit̪ˈɑno#}
@@ -1193,7 +1193,7 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 1191   | #ˌɑd̪wiˈɑːre# | *#ˌɑd̪wiˈɑːre# | *#ˌɑvjˈɑre# | *#ˌɑbjˈɑɾ# | *#ɑbjˈɑɾ# {GOLD: #ɑbjˈɑɾ#}
 1192   | #ˌɑd̪wˌokɑt̪ˈoːrem# | *#ˌɑd̪wˌokɑt̪ˈoːrem# | *#ˌɑvˌoɡɑd̪ˈore# | *#ˌɑbˌoɡɑd̪ˈoɾ# | *#ɑboɡɑd̪ˈoɾ# {GOLD: #ɑboɡɑd̪ˈoɾ#}
 1193   | #ˌɑd̪wˈersum# | *#ˌɑd̪wˈersum# | *#ˌɑvjˈeso# | *#ˌɑbjˈeso# | *#ɑbjˈeso# {GOLD: #ɑbjˈeso#}
-1194   | #ˌɑd̪wˌeːrifikˈɑːre# | *#ˌɑd̪wˌeːrifikˈɑːre# | *#ˌɑvˌereveɡˈɑre# | *#ˌɑbˌeɾiɡʷˈɑɾ# | *#ɑbeɾiɡʷˈɑɾ# {GOLD: #ɑbeɾiɡwˈɑɾ#}
+1194   | #ˌɑd̪wˌeːrifikˈɑːre# | *#ˌɑd̪wˌeːrifikˈɑːre# | *#ˌɑvˌereveɡˈɑre# | *#ˌɑbˌeɾiɡwˈɑɾ# | *#ɑbeɾiɡwˈɑɾ# {GOLD: #ɑbeɾiɡwˈɑɾ#}
 1195   | #ˌɑd̪ˌuːn̪ˈɑːre# | *#ˌɑd̪ˌuːn̪ˈɑːre# | *#ˌɑˌun̪ˈɑre# | *#ˌɑˌun̪ˈɑɾ# | *#ɑun̪ˈɑɾ# {GOLD: #ɑwn̪ˈɑɾ#}
 1196   | #ˌɑffrˈon̪t̪ɑ# | *#ˌɑffrˈon̪t̪ɑ# | *#ˌɑfrwˈen̪t̪ɑ# | *#ˌɑfɾˈen̪t̪ɑ# | *#ɑfɾˈen̪t̪ɑ# {GOLD: #ɑfɾˈen̪t̪ɑ#}
 1197   | #ˌɑffrˈɑkt̪um# | *#ˌɑffrˈɑkt̪um# | *#ˌɑfrˈɑjt̪o# | *#ˌɑfɾˈet͡ʃo# | *#ɑfɾˈet͡ʃo# {GOLD: #ɑfɾˈet͡ʃo#}
@@ -1229,7 +1229,7 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 1227   | #ˌɑppɑrˈikulum# | *#ˌɑppɑrˈikulum# | *#ˌɑpɑrˈeʎo# | *#ˌɑpɑɾˈeʃo# | *#ɑpɑɾˈexo# {GOLD: #ɑpɑɾˈexo#}
 1228   | #ˌɑppˈosit̪um# | *#ˌɑppˈosit̪um# | *#ˌɑpwˈest̪o# | *#ˌɑpwˈest̪o# | *#ɑpwˈest̪o# {GOLD: #ɑpwˈest̪o#}
 1229   | #ˌɑppˈɑːrium# | *#ˌɑppˈɑːrium# | *#ˌɑpˈɑjro# | *#ˌɑpˈeɾo# | *#ɑpˈeɾo# {GOLD: #ɑpˈeɾo#}
-1230   | #ˌɑpriːkˈɑːre# | *#ˌɑpriːkˈɑːre# | *#ˌɑbriɡˈɑre# | *#ˌɑɡʷˈɑɾ# | *#ɑɡʷˈɑɾ# {GOLD: #ɑbɾiɡˈɑɾ#}
+1230   | #ˌɑpriːkˈɑːre# | *#ˌɑpriːkˈɑːre# | *#ˌɑbriɡˈɑre# | *#ˌɑbɾiɡˈɑɾ# | *#ɑbɾiɡˈɑɾ# {GOLD: #ɑbɾiɡˈɑɾ#}
 1231   | #ˌɑprˈiːlem# | *#ˌɑprˈiːlem# | *#ˌɑbrˈile# | *#ˌɑbɾˈil# | *#ɑbɾˈil# {GOLD: #ɑbɾˈil#}
 1232   | #ˌɑpt̪ˈɑːre# | *#ˌɑpt̪ˈɑːre# | *#ˌɑt̪ˈɑre# | *#ˌɑt̪ˈɑɾ# | *#ɑt̪ˈɑɾ# {GOLD: #ɑt̪ˈɑɾ#}
 1233   | #ˌɑpˈert̪um# | *#ˌɑpˈert̪um# | *#ˌɑbjˈert̪o# | *#ˌɑbjˈeɾt̪o# | *#ɑbjˈeɾt̪o# {GOLD: #ɑbjˈeɾt̪o#}
@@ -1470,7 +1470,7 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 1468   | #kˌɑpt̪iˈɑːre# | *#kˌɑpt̪iˈɑːre# | *#kˌɑt͡sˈɑre# | *#kˌɑs̪ˈɑɾ# | *#kɑθˈɑɾ# {GOLD: #kɑθˈɑɾ#}
 1469   | #kˌɑpt̪ˈiːvum# | *#kˌɑpt̪ˈiːvum# | *#kˌɑt̪ˈio# | *#kˌɑt̪ˈio# | *#kɑt̪ˈio# {GOLD: #kɑwt̪ˈibo#}
 1470   | #kˈɑput̪# | *#kˈɑput̪# | *#kˈɑbo# | *#kˈɑbo# | *#kˈɑbo# {GOLD: #kˈɑbo#}
-1471   | #kˌɑrboːn̪ˈɑːrium# | *#kˌɑrboːn̪ˈɑːrium# | *#kˌɑrbon̪ˈɑjro# | *#kˌɑɾn̪ˈeɾo# | *#kɑɾn̪ˈeɾo# {GOLD: #kɑɾbon̪ˈeɾo#}
+1471   | #kˌɑrboːn̪ˈɑːrium# | *#kˌɑrboːn̪ˈɑːrium# | *#kˌɑrbon̪ˈɑjro# | *#kˌɑɾbon̪ˈeɾo# | *#kɑɾbon̪ˈeɾo# {GOLD: #kɑɾbon̪ˈeɾo#}
 1472   | #kˈɑrkerem# | *#kˈɑrkerem# | *#kˈɑrkre# | *#kˈɑɾkɾe# | *#kˈɑɾkɾe# {GOLD: #kˈɑɾθel#}
 1473   | #kˌɑrkerˈɑːrium# | *#kˌɑrkerˈɑːrium# | *#kˌɑrkrˈɑjro# | *#kˌɑɾkɾˈeɾo# | *#kɑɾkɾˈeɾo# {GOLD: #kɑɾθelˈeɾo#}
 1474   | #kˈɑrd̪in̪um# | *#kˈɑrd̪in̪um# | *#kˈɑrd̪en̪o# | *#kˈɑɾn̪o# | *#kˈɑɾn̪o# {GOLD: #kˈɑɾd̪en̪o#}
@@ -1479,7 +1479,7 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 1477   | #kˌɑrd̪ˈellum# | *#kˌɑrd̪ˈellum# | *#kˌɑrd̪jˈello# | *#kˌɑɾd̪ˈiʎo# | *#kɑɾd̪ˈiʝo# {GOLD: #kɑɾd̪elˈin̪ɑ#}
 1478   | #kˌɑrˈeːskere# | *#kˌɑrˈeːskere# | *#kˌɑrˈeskre# | *#kˌɑɾˈeskɾe# | *#kɑɾˈeskɾe# {GOLD: #kɑɾeθˈeɾ#}
 1479   | #kˌɑrˈiːn̪ɑ# | *#kˌɑrˈiːn̪ɑ# | *#kˌɑrˈin̪ɑ# | *#kˌɑɾˈin̪ɑ# | *#kɑɾˈin̪ɑ# {GOLD: #kɑɾˈen̪ɑ#}
-1480   | #kˌɑrmin̪ˈɑːre# | *#kˌɑrmin̪ˈɑːre# | *#kˌɑrmen̪ˈɑre# | *#kˌɑɾn̪ˈɑɾ# | *#kɑɾn̪ˈɑɾ# {GOLD: #kɑɾmen̪ˈɑɾ#}
+1480   | #kˌɑrmin̪ˈɑːre# | *#kˌɑrmin̪ˈɑːre# | *#kˌɑrmen̪ˈɑre# | *#kˌɑɾmen̪ˈɑɾ# | *#kɑɾmen̪ˈɑɾ# {GOLD: #kɑɾmen̪ˈɑɾ#}
 1481   | #kˌɑrn̪ˈɑːrium# | *#kˌɑrn̪ˈɑːrium# | *#kˌɑrn̪ˈɑjro# | *#kˌɑɾn̪ˈeɾo# | *#kɑɾn̪ˈeɾo# {GOLD: #kɑɾn̪ˈeɾo#}
 1482   | #kˌɑrn̪ˈoːsum# | *#kˌɑrn̪ˈoːsum# | *#kˌɑrn̪ˈozo# | *#kˌɑɾn̪ˈoso# | *#kɑɾn̪ˈoso# {GOLD: #kɑɾn̪oso#}
 1483   | #kˌɑrn̪ˈuːt̪um# | *#kˌɑrn̪ˈuːt̪um# | *#kˌɑrn̪ˈud̪o# | *#kˌɑɾn̪ˈud̪o# | *#kɑɾn̪ˈud̪o# {GOLD: #kɑɾn̪ud̪o#}
@@ -1540,7 +1540,7 @@ etID  | Input | Popular Latin | Old Spanish | Middle Spanish | Output {GOLD}
 1538   | #kˈippus# | *#kˈippus# | *#t͡sˈepos# | *#s̪ˈepos# | *#θˈepos# {GOLD: #θˈepo#}
 1539   | #kˌirkˈɑre# | *#kˌirkˈɑre# | *#t͡sˌerkˈɑre# | *#s̪ˌeɾkˈɑɾ# | *#θeɾkˈɑɾ# {GOLD: #θeɾkˈɑɾ#}
 1540   | #kˌirkˈellum# | *#kˌirkˈellum# | *#t͡sˌert͡sjˈello# | *#s̪ˌeɾs̪ˈiʎo# | *#θeɾθˈiʝo# {GOLD: #θɑɾθˈiʝo#}
-1541   | #kˌirkin̪ˈɑːre# | *#kˌirkin̪ˈɑːre# | *#t͡sˌert͡sen̪ˈɑre# | *#s̪ˌeɾs̪n̪ˈɑɾ# | *#θeɾθn̪ˈɑɾ# {GOLD: #θeɾθen̪ˈɑɾ#}
+1541   | #kˌirkin̪ˈɑːre# | *#kˌirkin̪ˈɑːre# | *#t͡sˌert͡sen̪ˈɑre# | *#s̪ˌeɾs̪en̪ˈɑɾ# | *#θeɾθen̪ˈɑɾ# {GOLD: #θeɾθen̪ˈɑɾ#}
 1542   | #kˈirkium# | *#kˈirkium# | *#t͡sˈert͡so# | *#s̪ˈeɾs̪o# | *#θˈeɾθo# {GOLD: #θjˈeɾθo#}
 1543   | #kˈirkum# | *#kˈirkum# | *#t͡sˈerko# | *#s̪ˈeɾko# | *#θˈeɾko# {GOLD: #θˈeɾko#}
 1544   | #kˈirrum# | *#kˈirrum# | *#t͡sˈerro# | *#s̪ˈero# | *#θˈero# {GOLD: #θˈero#}

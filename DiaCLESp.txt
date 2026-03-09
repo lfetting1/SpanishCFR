@@ -431,21 +431,23 @@ $[+cons,-voi] > ∅ / # __ [+lat] $pl_ll_late
 [-voi,+cons] [+lat] > t͡ʃ / @ __ $ "cheismo" palatal lateral > tʃ . Examples manklya (mankʎa), amplyo (ampʎo) > mancha, ancho, but rules as such do not seem to explicitly reference palatality of the lateral or the prior ...nasal? (Nor is the nasal referenced in any sort of metadescription for the rule....)  
 
 
-[-lo,+syl,-stres] > ∅ / @ [+cons] __ [+cons] (-cons)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
+
+
+
+$[-lo, +syl, -stres] > ∅ / [+prim] ([-cons])* (@) [+cons] __ [+cons] @ $syncope late, after primary stress. This rule is meant to trigger between two consonants in a non-final syllable that occurs after the primary stress.
+
+
+
 
 r > ɾ 
 
 ɾ ɾ > r $ trilling. TODO check this -- was missing in one version. 
 
-r > ɾ / __ [+cons] 
-
-$[-lo, +syl, -stres] > ∅ / [+prim] ([-cons])* (@) [+cons] __ [+cons] @ $syncope late, after primary stress. This rule is meant to trigger between two consonants in a non-final syllable that occurs after the primary stress.
-
+[-lo,+syl,-stres] > ∅ / [+cont] [+cons] __ [+cons] (-cons)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
 
 {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in obstruent degemination. However, that's now moved earlier. Non-obstruent remainder handled below. Testing moving this to before late syncope
 
 {l l;n̪ n̪;m m} > {l;n̪;m} $ testing moving this sonorant degemination before late syncope.
-
 
 [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [-son] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after)
 
@@ -455,7 +457,10 @@ $[-lo, +syl, -stres] > ∅ / [+prim] ([-cons])* (@) [+cons] __ [+cons] @ $syncop
 
 [-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son,+cons] [-son] __ [+cons] @ $syncope late in the case of clusters
 
+r > ɾ / __ [+cons] 
+
 ʎ > l / __ [-cor,+cons] $ lateral depalatalization, testing inserting this lateral depalatalization rule at all.
+
 
 hʷ > v
 
@@ -526,8 +531,6 @@ $CM 10/13: assert persistent rule -- unlong
 [+syl] > [-long] 
 [+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __ $ Vowel coalescence. DiaCLESp change A.1.1 Inserted with unlong rule to fix cases such as d̪eˈed̪o for d̪ˈed̪o that are meant to be caught by the previous rule. Gets some wrong, such as the present tense forms of -eer verbs, but that is probably from analogy.
 
-{kʷ;ɡʷ} > {k w; ɡ w}
-
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 
 
@@ -584,6 +587,8 @@ $[+cons,-cont,+voi] > [+cont] $spirantization. TODO check later in second runthr
 
 
 [+syl,-lo,-hi] > [+hi] / __ {[-syl,+son];[-syl,+voi,-cont]} [-cons,-syl] $raising by diphthong (metaphony)
+
+{kʷ;ɡʷ} > {k w; ɡ w}
 
 v > b / __ (ɾ) [-cons] $ "betacism. DiaCLESp change C.2.E : betacism now only prevocoid (or -rV). Previously context free, but that counterbleeds unification of vl phenomena with phi aspiration. [CM]. Testing betacism later to see if it helps metaphony. 
 
