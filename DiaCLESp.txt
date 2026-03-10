@@ -39,7 +39,7 @@ $ [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation 10/0
 ~Popular Latin 
 $dummy gold stage to test DiaSim stage handling in lex header.
 
-[+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
+$[+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
 
 $w > ∅ / [+round,+syl] __ $ back monophthongization (+round so we don't apply on low-back vowel.)
 

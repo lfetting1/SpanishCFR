@@ -1,30 +1,19 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :1444:
-#kˌɑmpikˈellum# >>> *#kɑn̪θˈiʝo# ( GOLD : #kɑmpeθˈiʝo#) :
-k ˌɑ m p i k ˈe l l u m
-*#kˌɑn̪pikˈellum# | 13 : [+nas] > n̪ / __ [+cons]
-*#kˌɑmpikˈellum# | 14 : n̪ > m / __ [+lab,-round]
-Popular Latin stage form : *#kˌɑmpikˈellum#
-*#kˌɑmpikˈellu# | 29 : [+nas] > ∅ / [-stres] __ #
-*#kˌɑmpikˈɛllu# | 45 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kˌɑmpekˈɛllo# | 50 : [+syl,-long] > [-hi] 
-*#kˌɑmpekjˈɛllo# | 68 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#kˌɑmpet͡ʃjˈɛllo# | 69 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
-*#kˌɑmpet͡ʃˈɛllo# | 74 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
-*#kˌɑmped͡ʒˈɛllo# | 112 : [-cont] > [+voi] / [+syl] __ [+son]
-*#kˌɑmped͡ʒˈɛello# | 128 : ∅ > e / [-tense,+prim] __
-*#kˌɑmped͡ʒjˈello# | 129 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kˌɑmped͡zjˈello# | 147 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-Old Spanish stage form : *#kˌɑmped͡zjˈello#
-*#kˌɑmpd͡zjˈello# | 168 : [-lo,+syl,-stres] > ∅ / [+cont] [+cons] __ [+cons] ( [-cons] )* [+prim] @
-*#kˌɑmpd͡zjˈeʎo# | 169 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-*#kˌɑmpt͡sjˈeʎo# | 191 : [-son] > [-voi] / [-voi] __
-*#kˌɑmt͡sjˈeʎo# | 240 : [-son] > ∅ / __ [+delrel]
-*#kˌɑmt͡sjˈiʎo# | 249 : [+syl,+front,-lo] > [+hi] / [-syl,+front,-lo] __ [+hi,+front]
-*#kˌɑmt͡sˈiʎo# | 254 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-*#kˌɑn̪t͡sˈiʎo# | 260 : m > n̪ / __ [+cor,+cons]
-*#kˌɑn̪s̪ˈiʎo# | 261 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-Middle Spanish stage form : *#kˌɑn̪s̪ˈiʎo#
-*#kˌɑn̪θˈiʎo# | 265 : s̪ > θ 
-*#kɑn̪θˈiʎo# | 267 : [-prim] > [-stres,-prim,+syl,+son] 
-*#kɑn̪θˈiʝo# | 268 : ʎ > ʝ 
-Final form : *#kɑn̪θˈiʝo#
+#kˌɑmpsˈɑːre# >>> *#kɑn̪sˈɑɾ# ( GOLD : #kɑn̪sˈɑɾ#) :
+k ˌɑ m p s ˈɑː r e
+*#kˌɑːmpsˈɑːre# | 3 : [+syl,-long] > [+syl,+long,+son] / __ [+nas] [-son] [-son]
+*#kˌɑːn̪psˈɑːre# | 13 : [+nas] > n̪ / __ [+cons]
+*#kˌɑːmpsˈɑːre# | 14 : n̪ > m / __ [+lab,-round]
+Popular Latin stage form : *#kˌɑːmpsˈɑːre#
+*#kˌɑːmpsˈɑːrɛ# | 45 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑːmpsˈɑːre# | 49 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑmpsˈɑre# | 51 : [+syl] > [-long,-splng] 
+*#kˌɑmssˈɑre# | 64 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+*#kˌɑmsˈɑre# | 140 : [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+Old Spanish stage form : *#kˌɑmsˈɑre#
+*#kˌɑmsˈɑɾe# | 166 : r > ɾ 
+*#kˌɑmsˈɑɾ# | 242 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+*#kˌɑn̪sˈɑɾ# | 260 : m > n̪ / __ [+cor,+cons]
+Middle Spanish stage form : *#kˌɑn̪sˈɑɾ#
+*#kɑn̪sˈɑɾ# | 267 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#kɑn̪sˈɑɾ#
