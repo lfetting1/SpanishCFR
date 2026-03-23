@@ -76,13 +76,17 @@ $[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $early syncope
 
 [+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back] [+prim] $early syncope (pretonic; liq __ nonvel). Conditions B H J K R Q. CM fixed 11/9 
 
-[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [-syl] __ [+son,+cons,-nas] [+prim] $early syncope  (pretonic; C/J __ liq). Conditions B H J K O . CM fixed 11/9
+[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [-syl,-lab] __ [+son,+cons,-nas] [+prim] $early syncope  (pretonic; C/J __ liq) non-labial consonant, vowel roundness doesn't matter. Conditions B H J K O . CM fixed 11/9
  
+[+syl,-prim,-lo,-long,+lab] > ∅ / [+syl] ([-syl])* [-syl,+lab] __ [+son,+cons,-nas] [+prim] $early syncope (protonic; c/j __ liq), round vowel, labial consonant
+
 [+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] ([-syl])* [+syl] $early syncope (posttonic; sib __ nonvelar). Conditions B L M S Q. CM fixed 11/9 
 
 [+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back] ([-syl])* [+syl] $early syncope (posttonic; liq __ nonvel). Conditions B L M R Q. CM fixed 11/9 
 
-[+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons,-nas] ([-syl])* [+syl]  $early syncope (posttonic; C/J __ liq). Conditions B L M O. CM fixed 11/9 
+[+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [-syl,-lab] __ [+son,+cons,-nas] ([-syl])* [+syl]  $early syncope (posttonic; C/J __ liq). Conditions B L M O. CM fixed 11/9 
+
+[+syl,-prim,-long,+lab] > ∅ / [+prim] ([-syl])* [-syl,+lab] __ [+son,+cons,-nas] ([-syl])* [+syl] $early syncope (posttonic; c/J __ lie) round vowel, labial consonant
 
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion, does not get deleted after stressed final syllables, effectively only monosyllabic words such as tam > tan or cum > con
 

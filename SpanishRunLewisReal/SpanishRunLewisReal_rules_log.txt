@@ -22,10 +22,12 @@ j > ʝ / [+syl] __ [+syl]| ORIG : j > [+cons,-son] / [+syl] __ [+syl]
 b > ɣʷ / [-voi] ( [+son] ) [+hi,-cons] __ [+round] [+lat]| ORIG : b > ɣʷ / [-voi] ([+son]) [+hi,-cons] __ [+round] [+lat]
 [+syl,-prim,-lo,-long] > ∅ / [+syl] ( [-syl] )* [+cor,+strid] __ [+cons,-back] [+prim] @| ORIG : [+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] @
 [+syl,-prim,-lo,-long] > ∅ / [+syl] ( [-syl] )* [+cons,+son,-nas] __ [+cons,-back] [+prim]| ORIG : [+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back] [+prim]
-[+syl,-prim,-lo,-long] > ∅ / [+syl] ( [-syl] )* [-syl] __ [+son,+cons,-nas] [+prim]| ORIG : [+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [-syl] __ [+son,+cons,-nas] [+prim]
+[+syl,-prim,-lo,-long] > ∅ / [+syl] ( [-syl] )* [-syl,-lab] __ [+son,+cons,-nas] [+prim]| ORIG : [+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [-syl,-lab] __ [+son,+cons,-nas] [+prim]
+[+syl,-prim,-lo,-long,+lab] > ∅ / [+syl] ( [-syl] )* [-syl,+lab] __ [+son,+cons,-nas] [+prim]| ORIG : [+syl,-prim,-lo,-long,+lab] > ∅ / [+syl] ([-syl])* [-syl,+lab] __ [+son,+cons,-nas] [+prim]
 [+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [-syl] )* [+syl]| ORIG : [+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] ([-syl])* [+syl]
 [+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [+son,+cons,-nas] __ [+cons,-back] ( [-syl] )* [+syl]| ORIG : [+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back] ([-syl])* [+syl]
-[+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [-syl] __ [+son,+cons,-nas] ( [-syl] )* [+syl]| ORIG : [+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [-syl] __ [+son,+cons,-nas] ([-syl])* [+syl]
+[+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [-syl,-lab] __ [+son,+cons,-nas] ( [-syl] )* [+syl]| ORIG : [+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [-syl,-lab] __ [+son,+cons,-nas] ([-syl])* [+syl]
+[+syl,-prim,-long,+lab] > ∅ / [+prim] ( [-syl] )* [-syl,+lab] __ [+son,+cons,-nas] ( [-syl] )* [+syl]| ORIG : [+syl,-prim,-long,+lab] > ∅ / [+prim] ([-syl])* [-syl,+lab] __ [+son,+cons,-nas] ([-syl])* [+syl]
 [+nas] > ∅ / [-stres] __ #| ORIG : [+nas] > ∅ / [-stres] __ #
 [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]| ORIG : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
 [+cons,-cont] > ∅ / __ #| ORIG : [+cons,-cont] > ∅ / __ #
