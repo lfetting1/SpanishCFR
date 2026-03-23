@@ -29,7 +29,6 @@ b > ɣʷ / [-voi] ( [+son] ) [+hi,-cons] __ [+round] [+lat]| ORIG : b > ɣʷ / [
 [+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [-syl,-lab] __ [+son,+cons,-nas] ( [-syl] )* [+syl]| ORIG : [+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [-syl,-lab] __ [+son,+cons,-nas] ([-syl])* [+syl]
 [+syl,-prim,-long,+lab] > ∅ / [+prim] ( [-syl] )* [-syl,+lab] __ [+son,+cons,-nas] ( [-syl] )* [+syl]| ORIG : [+syl,-prim,-long,+lab] > ∅ / [+prim] ([-syl])* [-syl,+lab] __ [+son,+cons,-nas] ([-syl])* [+syl]
 [+nas] > ∅ / [-stres] __ #| ORIG : [+nas] > ∅ / [-stres] __ #
-[+nas] > ∅ / __ [-voi,+ant,+strid,-lab]| ORIG : [+nas] > ∅ / __ [-voi,+ant,+strid,-lab]
 [+cons,-cont] > ∅ / __ #| ORIG : [+cons,-cont] > ∅ / __ #
 [+son,+cons,αnas] > [+cor,+ant,αdistr,-lab,-hi,-front,-back] / __ #| ORIG : [+son,+cons,αnas] > [+cor,+ant,αdistr,-lab,-hi,-front,-back] / __ #
 [+cons] > ∅ / __ [+strid,+cor] [+cons]| ORIG : [+cons] > ∅ / __ [+strid,+cor] [+cons]
@@ -41,6 +40,10 @@ r > s / __ s| ORIG : r > s / __ s
 [+back,-cont,+voi] > ∅ / [+syl,-long] __ [+front]| ORIG : [+back,-cont,+voi] > ∅ / [+syl,-long] __ [+front]
 [+back,-cont,+voi] > ∅ / [+syl,+back] __ [+front]| ORIG : [+back,-cont,+voi] > ∅ / [+syl,+back] __ [+front]
 [+syl,-prim,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]| ORIG : [+syl,-prim,+hi] > [-syl,-long] / __ [+syl]
+[+nas] > ∅ / __ [-voi,+ant,+strid,-lab] [-stres]| ORIG : [+nas] > ∅ /  __ [-voi,+ant,+strid,-lab]  [-stres]
+[+nas] > ∅ / __ [-voi,+ant,+strid,-lab] [-syl]| ORIG : [+nas] > ∅ /  __ [-voi,+ant,+strid,-lab]  [-syl]
+[+nas] > ∅ / __ [-voi,+ant,+strid,-lab] #| ORIG : [+nas] > ∅ /  __ [-voi,+ant,+strid,-lab]  #
+[+nas] > ∅ / __ [-voi,+ant,+strid,-lab] [+syl,+lo]| ORIG : [+nas] > ∅ /  __ [-voi,+ant,+strid,-lab]  [+syl,+lo]
 ɣʷ > ∅ / __ [+front,+syl] [+syl]| ORIG : ɣʷ > ∅ / __ [+front,+syl] [+syl]
 [+syl,-prim,-lo,+back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,-back]| ORIG : [+syl,-prim,-lo,+back] > [-syl,-long,+hi] / __ [+syl,-back]
 [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]| ORIG : [+syl,-prim,-lo,-back] > [-syl,-long,+hi] / __ [+syl,+back]

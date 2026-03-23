@@ -90,7 +90,7 @@ $[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $early syncope
 
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion, does not get deleted after stressed final syllables, effectively only monosyllabic words such as tam > tan or cum > con
 
-[+nas] > ∅ / __ [-voi,+ant,+strid,-lab] $ "ns > s" 
+$[+nas] > ∅ / __ [-voi,+ant,+strid,-lab] {[-stres];[-syl];#} $ "ns > s" but not in cases of consejo, conseguir, enujo, etc.
 
 [+cons,-cont] > ∅ / __ # $final stop deletion
 
@@ -120,6 +120,8 @@ $[+back,+cons,-cont,+voi] > ∅ / [+syl,-long] __ [+front] $ velar deletion
 [+back,-cont,+voi] > ∅ / {[+syl,-long];[+syl,+back]} __ [+front] $ velar deletion, new version with expanded contexts -- DiaCLESp fix C.1.F. 
 
 [+syl,-prim,+hi] > [-syl,-long] / __ [+syl] $ syneresis early
+
+[+nas] > ∅ / __ [-voi,+ant,+strid,-lab] {[-stres];[-syl];#;[+syl,+lo]} $ "ns > s" but not in the case of consejo, enujo, but still costumbre etc. and pesar etc. 3/23 relocdated after syneresis. Possible overfitting?
 
 $DiaCLESP fix A.3.4:  w or rather its reflex ɣʷ deleted before front vowels in hiatus just after j emerges from i, but before e [slightly different from French wehre it operates on ʝ but that is somewhat a matter of style. (originally from DiaCLEF, modified. Thus between first and second steps of syneresis early) [CM]
 ɣʷ > ∅ / __ [+front,+syl] [+syl]
