@@ -1,16 +1,28 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :1032:
-#wˌin̪d̪ˈeːmiɑ# >>> *#ben̪d̪ˈimjɑ# ( GOLD : #ben̪d̪ˈimjɑ#) :
-w ˌi n̪ d̪ ˈeː m i ɑ 
-Popular Latin stage form : *#wˌin̪d̪ˈeːmiɑ#
-*#ɣʷˌin̪d̪ˈeːmiɑ# | 16 : w > ɣʷ / __ [+syl]
-*#ɣʷˌin̪d̪ˈeːmjɑ# | 41 : [+syl,-prim,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-*#ɣʷˌen̪d̪ˈeːmjɑ# | 54 : [+syl,-long] > [-hi] 
-*#ɣʷˌen̪d̪ˈemjɑ# | 55 : [+syl] > [-long,-splng] 
-*#vˌen̪d̪ˈemjɑ# | 83 : ɣʷ > v 
-*#vˌin̪d̪ˈimjɑ# | 127 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-Old Spanish stage form : *#vˌin̪d̪ˈimjɑ#
-*#bˌin̪d̪ˈimjɑ# | 242 : v > b / __ ( ɾ ) [-cons]
-*#bˌen̪d̪ˈimjɑ# | 243 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-Middle Spanish stage form : *#bˌen̪d̪ˈimjɑ#
-*#ben̪d̪ˈimjɑ# | 271 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ben̪d̪ˈimjɑ#
+#wˌin̪kˈikulum# >>> *#ben̪θˈexo# ( GOLD : #ben̪θˈexo#) :
+w ˌi n̪ k ˈi k u l u m 
+Popular Latin stage form : *#wˌin̪kˈikulum#
+*#ɣʷˌin̪kˈikulum# | 16 : w > ɣʷ / __ [+syl]
+*#ɣʷˌin̪kˈiklum# | 28 : [+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [-syl,-lab,-son] __ [+son,+cons,-nas] ( [-syl] )* [+syl]
+*#ɣʷˌin̪kˈiklu# | 30 : [+nas] > ∅ / [-stres] __ #
+*#ɣʷˌin̪kˈixlu# | 34 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#ɣʷˌen̪kˈexlo# | 54 : [+syl,-long] > [-hi] 
+*#ɣʷˌen̪kˈejlo# | 62 : [+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+lat]
+*#ɣʷˌen̪kˈejʎo# | 65 : [+lat] > ʎ / j __
+*#ɣʷˌen̪kjˈejʎo# | 72 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#ɣʷˌen̪t͡ʃjˈejʎo# | 74 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#ɣʷˌen̪t͡ʃˈejʎo# | 79 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
+*#ɣʷˌen̪t͡ʃˈeʎo# | 81 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#vˌen̪t͡ʃˈeʎo# | 83 : ɣʷ > v 
+*#vˌen̪t͡sˈeʎo# | 152 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+Old Spanish stage form : *#vˌen̪t͡sˈeʎo#
+*#vˌen̪t͡sˈed͡ʒo# | 164 : ʎ > d͡ʒ / [+syl] __
+*#vˌen̪t͡sˈeʒo# | 165 : d͡ʒ > ʒ 
+*#bˌen̪t͡sˈeʒo# | 242 : v > b / __ ( ɾ ) [-cons]
+*#bˌen̪s̪ˈeʒo# | 264 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#bˌen̪s̪ˈeʃo# | 265 : [+strid] > [-voi] 
+Middle Spanish stage form : *#bˌen̪s̪ˈeʃo#
+*#bˌen̪s̪ˈexo# | 267 : ʃ > x 
+*#bˌen̪θˈexo# | 268 : s̪ > θ 
+*#ben̪θˈexo# | 270 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ben̪θˈexo#

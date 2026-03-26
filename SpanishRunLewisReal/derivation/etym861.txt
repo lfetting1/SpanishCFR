@@ -1,13 +1,15 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :861:
-#sˈekst̪ɑ# >>> *#sjˈest̪ɑ# ( GOLD : #sjˈest̪ɑ#) :
-s ˈe k s t̪ ɑ 
-Popular Latin stage form : *#sˈekst̪ɑ#
-*#sˈeks̪t̪ɑ# | 18 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#sˈes̪t̪ɑ# | 33 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
-*#sˈɛs̪t̪ɑ# | 49 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛes̪t̪ɑ# | 133 : ∅ > e / [-tense,+prim] __
-*#sjˈes̪t̪ɑ# | 134 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-Old Spanish stage form : *#sjˈes̪t̪ɑ#
-*#sjˈest̪ɑ# | 267 : s̪ > s / __ [-son]
-Middle Spanish stage form : *#sjˈest̪ɑ#
-Final form : *#sjˈest̪ɑ#
+#sˈellɑm# >>> *#sˈiʝɑ# ( GOLD : #sˈiʝɑ#) :
+s ˈe l l ɑ m 
+Popular Latin stage form : *#sˈellɑm#
+*#sˈellɑ# | 30 : [+nas] > ∅ / [-stres] __ #
+*#sˈɛllɑ# | 49 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɛellɑ# | 133 : ∅ > e / [-tense,+prim] __
+*#sjˈellɑ# | 134 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+Old Spanish stage form : *#sjˈellɑ#
+*#sjˈeʎɑ# | 176 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+*#sjˈiʎɑ# | 253 : [+syl,+front,-lo] > [+hi] / [-syl,+front,-lo] __ [+hi,+front]
+*#sˈiʎɑ# | 257 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
+Middle Spanish stage form : *#sˈiʎɑ#
+*#sˈiʝɑ# | 271 : ʎ > ʝ 
+Final form : *#sˈiʝɑ#
