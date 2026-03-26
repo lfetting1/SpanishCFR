@@ -74,9 +74,9 @@ $[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $early syncope
 
 [+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] @ $early syncope (pretonic; sib __ nonvelar). Conditions B H J K S Q. CM fixed 11/9 
 
-[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back,+lat] [+prim] $early syncope (pretonic; liq __ nonvel). Conditions B H J K R Q. CM fixed 11/9 
+[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back,-son] [+prim] $early syncope (pretonic; liq __ nonvel). Conditions B H J K R Q. CM fixed 11/9 
 
-[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [-syl,-lab] __ [+son,+cons,-nas] [+prim] $early syncope  (pretonic; C/J __ liq) non-labial consonant, vowel roundness doesn't matter. Conditions B H J K O . CM fixed 11/9
+[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [-syl,-lab] __ [+son,+cons,+lat] [+prim] $early syncope  (pretonic; C/J __ liq) non-labial consonant, vowel roundness doesn't matter. Conditions B H J K O . CM fixed 11/9
  
 [+syl,-prim,-lo,-long,+lab] > ∅ / [+syl] ([-syl])* [-syl,+lab,-son] __ [+son,+cons,+lat] [+prim] $early syncope (protonic; c/j __ liq), round vowel, labial consonant
 
