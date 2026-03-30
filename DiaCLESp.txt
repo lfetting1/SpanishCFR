@@ -76,9 +76,9 @@ $[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $early syncope
 
 [+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back,-son] [+prim] $early syncope (pretonic; liq __ nonvel). Conditions B H J K R Q. CM fixed 11/9 
 
-[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [-syl,-lab] __ [+son,+cons,+lat] [+prim] $early syncope  (pretonic; C/J __ liq) non-labial consonant, vowel roundness doesn't matter. Conditions B H J K O . CM fixed 11/9
+[+syl,-prim,-lo,-long] > ∅ / [-cons] ([-syl])* [-syl,-lab] __ [+son,+cons,-nas] [+prim] $early syncope  (pretonic; C/J __ liq) non-labial consonant, vowel roundness doesn't matter. Conditions B H J K O . CM fixed 11/9
  
-[+syl,-prim,-lo,-long,+lab] > ∅ / [+syl] ([-syl])* [-syl,+lab,-son] __ [+son,+cons,+lat] [+prim] $early syncope (protonic; c/j __ liq), round vowel, labial consonant
+[+syl,-prim,-lo,-long,+lab] > ∅ / [-cons] ([-syl])* [-syl,+lab,-son] __ [+son,+cons,-nas] [+prim] $early syncope (protonic; c/j __ liq), round vowel, labial consonant
 
 [+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] ([-syl])* [+syl] $early syncope (posttonic; sib __ nonvelar). Conditions B L M S Q. CM fixed 11/9 
 
@@ -132,13 +132,15 @@ $DiaCLESP fix A.3.4:  w or rather its reflex ɣʷ deleted before front vowels in
 
 [+syl,-long,-hi,-lo,+front] > [-tense] $ mid lowering
 
-[+syl,-long,-hi,-lo,+back] > [-tense] / __ [-nas] $ mid lowering
+[+syl,-long,-hi,-lo,+back] > [-tense] / __ [-nas] $ mid lowering, 
 
 [+syl,-long,-hi,-lo] > [-tense] / [-nas] __ ([+nas])* ([-cont]) [+syl]  $ mid lowering
 
 ɡ > ʝ / [+front,+tense,+syl] __ [+syl,+back] $ Velar opening -- DiaCLESP change, Insertion and reloctation of gamma deletion
 
 [-lo,-hi,-tense,+syl,-prim] > [+tense] $atonic-epsilon, "no unstressed ɛ," Hartman's rule seems to only leave ɛ with primary stress, as his model does not have secondary stress
+
+[+back,-hi,-lo,-tense] > [+tense] / __ kʷ
 
 [+syl,-long] > [-hi] $ hi lowering
 
