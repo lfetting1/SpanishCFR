@@ -457,11 +457,15 @@ r > ɾ
 [-lo,+syl,-stres] > ∅ / [+cont] [+cons] __ [+cons] (-cons)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
 
 
-[-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons] __ [+cons] @ $ new posttonic late syncope rule. simplified
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons,+voi,-delrel] __ [+son] @ $ new posttonic late syncope rule. simplified (voiced cons, sonorant)
 
-[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons] __ [+cons] @ $ new posttonic late syncope rule. simplified
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons] __ {[-son];[+nas]} @ $ new posttonic late syncope rule. simplified
 
-$[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [-son] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after)
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons,+voi] __ [+son] @ $ new posttonic late syncope rule. simplified (voiced cons, sonorant)
+
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons] __ {[-son];[+nas]} @ $ new posttonic late syncope rule. simplified (voiced cons, sonorant)
+
+$[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [-son] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after) other
 
 $[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+nas] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after)
 
