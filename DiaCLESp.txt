@@ -74,19 +74,23 @@ $[+syl,-prim] > ∅ / [+strid,+cor] __ [+cons,+cont,+son,-nas] @ $early syncope
 
 [+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cor,+strid] __ [+cons,-back] [+prim] @ $early syncope (pretonic; sib __ nonvelar). Conditions B H J K S Q. CM fixed 11/9 
 
-[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back,-son] [+prim] $early syncope (pretonic; liq __ nonvel). Conditions B H J K R Q. CM fixed 11/9 
+[+syl,-prim,-lo,-long] > ∅ / [+syl] ([-syl])* [+cons,+son,-nas] __ [+cons,-back,+lat] [+prim] $early syncope (pretonic; liq __ nonvel). Conditions B H J K R Q. CM fixed 11/9 
 
-[+syl,-prim,-lo,-long] > ∅ / [-cons] ([-syl])* [-syl,-lab] __ [+son,+cons,-nas] [+prim] $early syncope  (pretonic; C/J __ liq) non-labial consonant, vowel roundness doesn't matter. Conditions B H J K O . CM fixed 11/9
- 
-[+syl,-prim,-lo,-long,+lab] > ∅ / [-cons] ([-syl])* [-syl,+lab,-son] __ [+son,+cons,-nas] [+prim] $early syncope (protonic; c/j __ liq), round vowel, labial consonant
+[+syl,-prim,-lo,-long] > ∅ / [-cons] ([-syl])* [-syl,-lab] __ [+son,+cons,+lat] [+prim] $early syncope  (pretonic; C/J __ liq) non-labial consonant, vowel roundness doesn't matter. Conditions B H J K O . CM fixed 11/9
 
 [+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [+cor,+strid] __ [+cons,-back] ([-syl])* [+syl] $early syncope (posttonic; sib __ nonvelar). Conditions B L M S Q. CM fixed 11/9 
 
-[+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back,-son] ([-syl])* [+syl] $early syncope (posttonic; liq __ nonvel). Conditions B L M R Q. CM fixed 11/9 
+[+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [+son,+cons,-nas] __ [+cons,-back,+lat] ([-syl])* [+syl] $early syncope (posttonic; liq __ nonvel). Conditions B L M R Q. CM fixed 11/9 
 
-[+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [-syl,-lab,-son] __ [+son,+cons,+lat] ([-syl])* [+syl]  $early syncope (posttonic; C/J __ liq). Conditions B L M O. CM fixed 11/9 
+[+syl,-prim,-long] > ∅ / [+prim] ([-syl])* [-syl,-son] __ [+son,+cons,+lat] ([-syl])* [+syl]  $early syncope (posttonic; C/J __ liq). Conditions B L M O. CM fixed 11/9 
 
-[+syl,-prim,-long,+lab] > ∅ / [+prim] ([-syl])* [-syl,+lab] __ [+son,+cons,+lat] ([-syl])* [+syl] $early syncope (posttonic; c/J __ liq) round vowel, labial consonant
+[+syl,-prim,-long,-lo,-hi] > ∅ / [+syl] [+nas] [+cons] __ [+cons] [+syl] $ early syncope nasal clusters
+
+[+syl,-prim,-long,+round] > ∅ / [+syl] [+nas] [+cons] __ [+cons] [+syl] $ early syncope nasal clusters
+
+[+syl,-prim,-long,-lo] > ∅ / [+syl] [+cons] __ r [+syl] $ early syncope, r
+
+[+syl,-prim,-long,-lo] > ∅ / [+syl] ([-cons]) {[-cont];[+nas];[+lat]} [+cons] __ r [+syl] $ (no rCr after)
 
 [+nas] > ∅ / [-stres] __ # $ final nasal deletion, does not get deleted after stressed final syllables, effectively only monosyllabic words such as tam > tan or cum > con
 
@@ -457,13 +461,21 @@ r > ɾ
 [-lo,+syl,-stres] > ∅ / [+cont] [+cons] __ [+cons] (-cons)* [+prim] @ $ syncope late, before primary stress. may be inexact. As of checking @ Aug 30 (CM) seems correct, except that Hartmann's rule has an unexpected side effect that is not mentioned in his documentation: apparent place assimilation in primary clusters (amdare > andare, βengare > βeŋgare) but not secondary ones (amedes > amdes, kwemede > kwemde). Since this is not stated it can be excluded for now (?). Perhaps reexamine (TODO). 11/01 (LF) Added @ to stop the o in laksos from being deleted. Hartman's cascade does not delete the vowel of the final syllable ever, so this is meant to capture that. (11/08 LF) separated into two rules for before and after the stress. This rule is meant to apply between consonants in the syllable immediately before the primary stress. Seems to work.
 
 
-[-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons,+voi,-delrel] __ [+son] @ $ new posttonic late syncope rule. simplified (voiced cons, sonorant)
+{l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in obstruent degemination. However, that's now moved earlier. Non-obstruent remainder handled below. Testing moving this to before late syncope
 
-[-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons] __ {[-son];[+nas]} @ $ new posttonic late syncope rule. simplified
+{l l;n̪ n̪;m m} > {l;n̪;m} $ testing moving this sonorant degemination before late syncope.
 
-[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons,+voi] __ [+son] @ $ new posttonic late syncope rule. simplified (voiced cons, sonorant)
+ʎ > l / __ [-cor,+cons] $ lateral depalatalization, testing inserting this lateral depalatalization rule at all.
 
-[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons] __ {[-son];[+nas]} @ $ new posttonic late syncope rule. simplified (voiced cons, sonorant)
+
+
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons] __ [+cons] @ $ new posttonic late syncope rule, laterals and nasals
+
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons]) {[-cont];[+nas];[+lat]} [+cons] __ r [+syl]
+
+$[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons,+voi] __ [+son] @ $ new posttonic late syncope rule. simplified (voiced cons, sonorant)
+
+$[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons] __ {[-son];[+nas]} @ $ new posttonic late syncope rule. simplified (voiced cons, sonorant)
 
 $[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [-son] __ {[-son];[+nas]} @ $ syncope late, after primary stress (no r before or after) other
 
@@ -475,11 +487,11 @@ $[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son,+cons] [-son] __ [+cons] @ $
 
 r > ɾ / __ [+cons] 
 
-{l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in obstruent degemination. However, that's now moved earlier. Non-obstruent remainder handled below. Testing moving this to before late syncope
+${l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl] $ was originally: [+son,+cons,αnas] [+son,+cons,αnas] > [+hi,+front,αnas] ∅ $ geminate palatal,ll > ʎ nn > ɲ . TODO check this -- was apparently bled in first runthrough. Although in comments Hartmann says it  goes before a vowel "or glide" his rules do not actually have it happen before glides -- counterbleeding evident wrt words affected in obstruent degemination. However, that's now moved earlier. Non-obstruent remainder handled below. Testing moving this to before late syncope
 
-{l l;n̪ n̪;m m} > {l;n̪;m} $ testing moving this sonorant degemination before late syncope.
+${l l;n̪ n̪;m m} > {l;n̪;m} $ testing moving this sonorant degemination before late syncope.
 
-ʎ > l / __ [-cor,+cons] $ lateral depalatalization, testing inserting this lateral depalatalization rule at all.
+$ʎ > l / __ [-cor,+cons] $ lateral depalatalization, testing inserting this lateral depalatalization rule at all.
 
 
 hʷ > v
