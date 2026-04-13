@@ -467,14 +467,13 @@ r > ɾ
 
 {l l;n̪ n̪;m m} > {l;n̪;m} $ testing moving this sonorant degemination before late syncope.
 
-ʎ > l / __ [-cor,+cons] $ lateral depalatalization, testing inserting this lateral depalatalization rule at all.
-
 
 
 [-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons] __ [+cons] @ $ new posttonic late syncope rule, laterals and nasals
 
 [-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons]) {[-cont];[+nas];[+lat]} [+cons] __ r [+syl]
 
+[-lo,-hi,+syl,-stres] > ∅ / [+prim] [+nas] __ [+nas]
 $[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons,+voi] __ [+son] @ $ new posttonic late syncope rule. simplified (voiced cons, sonorant)
 
 $[-lo,-hi,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son] [+cons] __ {[-son];[+nas]} @ $ new posttonic late syncope rule. simplified (voiced cons, sonorant)
@@ -486,6 +485,8 @@ $[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+nas] __ {[-son];[+nas]} @ $ sync
 $[-lo,+syl,-stres,-hi] > ∅ / [+prim] ([+son]) [+son,+cons] __ [+cons] @ $ syncope late, after primary stress
 
 $[-lo,+syl,-stres] > ∅ / [+prim] ([-cons])* [+son,+cons] [-son] __ [+cons] @ $syncope late in the case of clusters
+
+ʎ > l / __ [-cor,+cons] $ lateral depalatalization, testing inserting this lateral depalatalization rule at all.
 
 r > ɾ / __ [+cons] 
 
