@@ -554,6 +554,8 @@ $new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has n
 ∅ > e̯ / [+syl] __ {[-voi,-delrel];[+cor,+cont]} j {[+back];[+hi]}
 [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅
  
+[-hi,-lo,+syl,+front] > [+hi] / j __ ʎ $ metaphony raise e between palatals, relocdated earlier
+
 [+hi,+front,+syl] j > [+long] ∅ $ glide absorption, Borja suggestion, intended to enable /iːkt̪/ > /it/
 
 {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons] $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
@@ -647,7 +649,7 @@ $ɸ > [+strid] $ phi_eff
 
 h > ∅ $ h_deletion
 
-[+syl,+front,-lo] > [+hi] / [-syl,+front,-lo] __ [+hi,+front] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO also, largely bled in first runthrough -- check again in second.
+$[+syl,+front,-lo] > [+hi] / [-syl,+front,-lo] __ [+hi,+front] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO also, largely bled in first runthrough -- check again in second.
 
 $[+syl,+front,-lo] > [+hi] / [-cons,-syl,+front,-lo] __ [-ant] [+cons] $bilateral raising. CM note @Aug31: this is not supposed to target /a/ because apparently Hartmann is treating it as +back. Fixed to dodge lo as this was causing an error not in Hartmann. TODO largely bled in first runthrough -- check again in second.
 
