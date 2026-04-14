@@ -1,16 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :1029:
-#wˌin̪d̪ˈeːmiɑ# >>> *#ben̪d̪ˈimjɑ# ( GOLD : #ben̪d̪ˈimjɑ#) :
-w ˌi n̪ d̪ ˈeː m i ɑ 
-Popular Latin stage form : *#wˌin̪d̪ˈeːmiɑ#
-*#ɣʷˌin̪d̪ˈeːmiɑ# | 16 : w > ɣʷ / __ [+syl]
-*#ɣʷˌin̪d̪ˈeːmjɑ# | 45 : [+syl,-prim,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
-*#ɣʷˌen̪d̪ˈeːmjɑ# | 59 : [+syl,-long] > [-hi] 
-*#ɣʷˌen̪d̪ˈemjɑ# | 60 : [+syl] > [-long,-splng] 
-*#vˌen̪d̪ˈemjɑ# | 88 : ɣʷ > v 
-*#vˌin̪d̪ˈimjɑ# | 132 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
-Old Spanish stage form : *#vˌin̪d̪ˈimjɑ#
-*#bˌin̪d̪ˈimjɑ# | 251 : v > b / __ ( ɾ ) [-cons]
-*#bˌen̪d̪ˈimjɑ# | 252 : [+syl,+hi] > [-hi] / __ ( [+cons] ) ( [+cons] ) [+hi,+front,+syl]
-Middle Spanish stage form : *#bˌen̪d̪ˈimjɑ#
-*#ben̪d̪ˈimjɑ# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#ben̪d̪ˈimjɑ#
+#ˈokulum# >>> *#ˈoxo# ( GOLD : #ˈoxo#) :
+ˈo k u l u m 
+Popular Latin stage form : *#ˈokulum#
+*#ˈoklum# | 27 : [+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [-syl,-son] __ [+son,+cons,+lat] ( [-syl] )* [+syl]
+*#ˈoklu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#ˈoxlu# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#ˈɔxlu# | 54 : [+syl,-long,-hi,-lo,+back] > [-tense,-cons,-lat,+cont,0delrel] / __ [-nas]
+*#ˈɔxlo# | 59 : [+syl,-long] > [-hi] 
+*#ˈɔjlo# | 67 : [+cons,+hi,-round] > j / [+syl] __ [+cons,-back,+lat]
+*#ˈɔjʎo# | 70 : [+lat] > ʎ / j __
+*#ˈɔʎo# | 86 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+*#ˈoʎo# | 135 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+Old Spanish stage form : *#ˈoʎo#
+*#ˈod͡ʒo# | 169 : ʎ > d͡ʒ / [+syl] __
+*#ˈoʒo# | 170 : d͡ʒ > ʒ 
+*#ˈoʃo# | 273 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ˈoʃo#
+*#ˈoxo# | 275 : ʃ > x 
+Final form : *#ˈoxo#
