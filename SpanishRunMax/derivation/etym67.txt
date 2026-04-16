@@ -1,23 +1,21 @@
 Derivation file for run '../SpanishCFR/SpanishRunMax'; etymon number :67:
-#d̪ˌekimˈɑːre# >>> *#d̪eθmˈɑɾ# ( GOLD : #d̪eθmˈɑɾ#) :
-d̪ ˌe k i m ˈɑː r e 
-Popular Latin stage form : *#d̪ˌekimˈɑːre#
-*#d̪ˌɛkimˈɑːrɛ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
-*#d̪ˌekimˈɑːre# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#d̪ˌekemˈɑːre# | 59 : [+syl,-long] > [-hi] 
-*#d̪ˌekemˈɑre# | 60 : [+syl] > [-long,-splng] 
-*#d̪ˌekjemˈɑre# | 77 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
-*#d̪ˌet͡ʃjemˈɑre# | 79 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
-*#d̪ˌet͡ʃemˈɑre# | 84 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
-*#d̪ˌed͡ʒemˈɑre# | 122 : [-cont] > [+voi] / [+syl] __ [+son]
-*#d̪ˌed͡zemˈɑre# | 157 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
-Old Spanish stage form : *#d̪ˌed͡zemˈɑre#
-*#d̪ˌed͡zemˈɑɾe# | 175 : r > ɾ 
-*#d̪ˌed͡zmˈɑɾe# | 177 : [-lo,+syl,-stres] > ∅ / [+cont] [+cons] __ [+cons] ( [-cons] )* [+prim] @
-*#d̪ˌed͡zmˈɑɾ# | 253 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
-*#d̪ˌez̪mˈɑɾ# | 271 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
-*#d̪ˌes̪mˈɑɾ# | 272 : [+strid] > [-voi] 
-Middle Spanish stage form : *#d̪ˌes̪mˈɑɾ#
-*#d̪ˌeθmˈɑɾ# | 275 : s̪ > θ 
-*#d̪eθmˈɑɾ# | 277 : [-prim] > [-stres,-prim,+syl,+son] 
-Final form : *#d̪eθmˈɑɾ#
+#d̪eˈorsum# >>> *#xwˈeso# ( GOLD : #ʝˈuso#) :
+d̪ e ˈo r s u m 
+Popular Latin stage form : *#d̪eˈorsum#
+*#d̪eˈorsu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#d̪eˈossu# | 39 : r > s / __ s
+*#d̪jˈossu# | 52 : [+syl,-prim,-lo,-back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,+back]
+*#d̪jˈɔssu# | 54 : [+syl,-long,-hi,-lo,+back] > [-tense,-cons,-lat,+cont,0delrel] / __ [-nas]
+*#d̪jˈɔsso# | 59 : [+syl,-long] > [-hi] 
+*#d͡ʒjˈɔsso# | 79 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#d͡ʒˈɔsso# | 84 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
+*#ʝˈɔsso# | 113 : d͡ʒ > ʝ 
+*#ʝˈɔesso# | 138 : ∅ > e / [-tense,+prim] __
+*#ʝwˈesso# | 139 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ʝwˈeso# | 150 : [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+Old Spanish stage form : *#ʝwˈeso#
+*#ʒwˈeso# | 172 : ʝ > ʒ / # __ [+round]
+*#ʃwˈeso# | 273 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ʃwˈeso#
+*#xwˈeso# | 275 : ʃ > x 
+Final form : *#xwˈeso#

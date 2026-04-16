@@ -1,13 +1,17 @@
 Derivation file for run '../SpanishCFR/SpanishRunMax'; etymon number :859:
-#sˈekst̪ɑ# >>> *#sjˈest̪ɑ# ( GOLD : #sjˈest̪ɑ#) :
-s ˈe k s t̪ ɑ 
-Popular Latin stage form : *#sˈekst̪ɑ#
-*#sˈeks̪t̪ɑ# | 18 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#sˈes̪t̪ɑ# | 37 : [+cons] > ∅ / __ [+strid,+cor] [+cons]
-*#sˈɛs̪t̪ɑ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛes̪t̪ɑ# | 138 : ∅ > e / [-tense,+prim] __
-*#sjˈes̪t̪ɑ# | 139 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-Old Spanish stage form : *#sjˈes̪t̪ɑ#
-*#sjˈest̪ɑ# | 273 : s̪ > s / __ [-son]
-Middle Spanish stage form : *#sjˈest̪ɑ#
-Final form : *#sjˈest̪ɑ#
+#lˌiɡˈɑːre# >>> *#liˈɑɾ# ( GOLD : #liˈɑɾ#) :
+l ˌi ɡ ˈɑː r e 
+Popular Latin stage form : *#lˌiɡˈɑːre#
+*#lˌiɡˈɑːrɛ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˌiʝˈɑːrɛ# | 56 : ɡ > ʝ / [+front,+tense,+syl] __ [+syl,+back]
+*#lˌiʝˈɑːre# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lˌeʝˈɑːre# | 59 : [+syl,-long] > [-hi] 
+*#lˌeʝˈɑre# | 60 : [+syl] > [-long,-splng] 
+*#lˌiʝˈɑre# | 132 : [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]
+*#lˌiˈɑre# | 144 : ʝ > ∅ / [+syl,-back] __ [+syl]
+Old Spanish stage form : *#lˌiˈɑre#
+*#lˌiˈɑɾe# | 175 : r > ɾ 
+*#lˌiˈɑɾ# | 255 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+Middle Spanish stage form : *#lˌiˈɑɾ#
+*#liˈɑɾ# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#liˈɑɾ#
