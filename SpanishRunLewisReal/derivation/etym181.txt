@@ -1,12 +1,16 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :181:
-#est̪# >>> *#eθ# ( GOLD : #es#) :
-e s t̪ 
-Popular Latin stage form : *#est̪#
-*#es̪t̪# | 18 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#es̪# | 35 : [+cons,-cont] > ∅ / __ #
-*#ɛs̪# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
-*#es̪# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-Old Spanish stage form : *#es̪#
-Middle Spanish stage form : *#es̪#
-*#eθ# | 276 : s̪ > θ 
-Final form : *#eθ#
+#ˈeremum# >>> *#ʝˈeɾmo# ( GOLD : #ʝˈeɾmo#) :
+ˈe r e m u m 
+Popular Latin stage form : *#ˈeremum#
+*#ˈeremu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#ˈɛrɛmu# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɛremu# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈɛremo# | 59 : [+syl,-long] > [-hi] 
+*#ˈɛeremo# | 138 : ∅ > e / [-tense,+prim] __
+*#jˈeremo# | 139 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+Old Spanish stage form : *#jˈeremo#
+*#ʝˈeremo# | 167 : [-cons,-syl,+front] > [+cons,-son,0tense] / # __ [-cons]
+*#ʝˈeɾemo# | 175 : r > ɾ 
+*#ʝˈeɾmo# | 180 : [-lo,-hi,+syl,-stres] > ∅ / [+prim] [+cons] __ [+cons] @
+Middle Spanish stage form : *#ʝˈeɾmo#
+Final form : *#ʝˈeɾmo#
