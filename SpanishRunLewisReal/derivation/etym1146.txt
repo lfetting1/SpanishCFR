@@ -1,16 +1,23 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :1146:
-#pˌɑt̪ˈellɑ# >>> *#pɑd̪ˈiʝɑ# ( GOLD : #pɑd̪ˈiʝɑ#) :
-p ˌɑ t̪ ˈe l l ɑ 
-Popular Latin stage form : *#pˌɑt̪ˈellɑ#
-*#pˌɑt̪ˈɛllɑ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˌɑd̪ˈɛllɑ# | 122 : [-cont] > [+voi] / [+syl] __ [+son]
-*#pˌɑd̪ˈɛellɑ# | 138 : ∅ > e / [-tense,+prim] __
-*#pˌɑd̪jˈellɑ# | 139 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-Old Spanish stage form : *#pˌɑd̪jˈellɑ#
-*#pˌɑd̪jˈeʎɑ# | 178 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
-*#pˌɑd̪jˈiʎɑ# | 218 : [-hi,-lo,+syl,+front] > [+hi] / j __ ʎ
-*#pˌɑd̪ˈiʎɑ# | 236 : [-syl,-cons,+hi,+front] > ∅ / __ [+hi,+front]
-Middle Spanish stage form : *#pˌɑd̪ˈiʎɑ#
-*#pɑd̪ˈiʎɑ# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
-*#pɑd̪ˈiʝɑ# | 279 : ʎ > ʝ 
-Final form : *#pɑd̪ˈiʝɑ#
+#rˌesˌufflˈɑːre# >>> *#resoʝˈɑɾ# ( GOLD : #resoʝˈɑɾ#) :
+r ˌe s ˌu f f l ˈɑː r e 
+Popular Latin stage form : *#rˌesˌufflˈɑːre#
+*#rˌɛsˌufflˈɑːrɛ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌesˌufflˈɑːre# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#rˌesˌofflˈɑːre# | 59 : [+syl,-long] > [-hi] 
+*#rˌesˌofflˈɑre# | 60 : [+syl] > [-long,-splng] 
+*#rˌezˌofflˈɑre# | 121 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+*#rˌezˌoffʎˈɑre# | 147 : [+lat] > ʎ / [-son] __ [-round]
+*#rˌezˌofʎˈɑre# | 150 : [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#rˌezˌoɸʎˈɑre# | 152 : f > ɸ / __ [+son,+front,-syl]
+Old Spanish stage form : *#rˌezˌoɸʎˈɑre#
+*#rˌezˌohʎˈɑre# | 164 : ɸ > h / __ [+son,+cont,-round] [+syl]
+*#ɾˌezˌohʎˈɑɾe# | 175 : r > ɾ 
+*#ɾˌezˌoʎˈɑɾe# | 192 : h > ∅ 
+*#ɾˌezˌoʎˈɑɾ# | 255 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+*#ɾˌesˌoʎˈɑɾ# | 273 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ɾˌesˌoʎˈɑɾ#
+*#rˌesˌoʎˈɑɾ# | 277 : ɾ > r / # __
+*#resoʎˈɑɾ# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
+*#resoʝˈɑɾ# | 279 : ʎ > ʝ 
+Final form : *#resoʝˈɑɾ#
