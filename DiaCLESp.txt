@@ -566,7 +566,7 @@ $new glide metathesis rules follow (CM 10/13). Still curious that Hartmann has n
 
 $CM 10/13: apparently the second recurrence of progressive rounding was missed -- unless this reflects the web version?
 {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions. CM 10/13: apparently the second recurrence of "monophthong" was missed -- unless this reflects the web version? 
-[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ / __ (@) [+syl] $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
+[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ / __ (@)* [+syl] $ monophthongization of homorganic glides and vowels. (CM fixed 10/13)
 
 $CM 10/13: assert persistent rule -- unlong
 [+syl] > [-long] 
@@ -574,7 +574,7 @@ $CM 10/13: assert persistent rule -- unlong
 
 [-syl,-cons,+hi,+round] > ∅ / __ [+round] $ recurrent rule,waw absorption. TODO check later in second runthrough -- currently bled. 
 
-{s;t̪} > {ʃ;t͡ʃ} / j __ $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
+${s;t̪} > {ʃ;t͡ʃ} / j __ $ progressive hushing / palatalization. Formerly: [-voi,+cor] > [+hi,-ant,+strid,+delrel,+distr] / [+hi,+front,-syl,-cons] __ [-syl,-cons,+hi,+round] > ∅ / __ [+round]
 
 $CM 10/13: apparently the second recurrence of progressive rounding was missed -- unless this reflects the web version?
 {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __ $progressive_rounding $(71) Works. Could remove the gamma portions.
@@ -612,7 +612,7 @@ t̪ l > l t̪ $sonorant metathesis. This one may be vacuous (was for Hartmann's 
 
 ð n̪ > n̪ ð $sonorant metathesis. This one may be vacuous (was for Hartmann's OG set.) 
 
-[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] / __ @ $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? DiaCLESp change C.2.B. -- changed to exclude word final cases
+[+syl,-lo,αstres,βprim,ɣhi,+back] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] / __ @ $[-cons,-syl] > [+syl,αhi,βstres] / [+syl,-lo,αhi,βstres] __ $ renucleation, oj, iw, uj > we, ju, wi. May need to prevent it from happening to /ej/ and /ow/? DiaCLESp change C.2.B. -- changed to exclude word final cases
 
 ${ˈo j; ˈi w; ˈu j; o j; i w; u j; ˌo j; ˌi w; ˌu j} > {w ˈe; j ˈu; w ˈi; w e; j u; w i; ˌo j; ˌi w; ˌu j}
 

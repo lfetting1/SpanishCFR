@@ -220,11 +220,10 @@ m > n̪ / __ d̪| ORIG : m > n̪ / __ d̪
 [+hi,+front,+syl] j > [+long] ∅| ORIG : [+hi,+front,+syl] j > [+long] ∅
 {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]| ORIG : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
 {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __| ORIG : {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __
-[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]| ORIG : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ / __ (@) [+syl]
+[+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ )* [+syl]| ORIG : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ / __ (@)* [+syl]
 [+syl] > [-long,-splng] | ORIG : [+syl] > [-long]
 [+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __| ORIG : [+syl,-prim,αhi,βback,ɣfront,ðlo,θround,ɸtense] > ∅ / [+syl,αhi,βback,ɣfront,ðlo,θround,ɸtense] __
 [-syl,-cons,+hi,+round] > ∅ / __ [+round]| ORIG : [-syl,-cons,+hi,+round] > ∅ / __ [+round]
-{s;t̪} > {ʃ;t͡ʃ} / j __| ORIG : {s;t̪} > {ʃ;t͡ʃ} / j __
 {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __| ORIG : {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]| ORIG : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ / __ (@) [+syl]
 [+syl] > [-long,-splng] | ORIG : [+syl] > [-long]
@@ -243,7 +242,7 @@ t̪ n̪ > n̪ t̪ | ORIG : t̪ n̪ > n̪ t̪
 t̪ l > l t̪ | ORIG : t̪ l > l t̪
 ð l > l ð | ORIG : ð l > l ð
 ð n̪ > n̪ ð | ORIG : ð n̪ > n̪ ð
-[+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son]/ __ @| ORIG : [+syl,-lo,αstres,βprim,ɣhi] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] / __ @
+[+syl,-lo,αstres,βprim,ɣhi,+back] [-cons,-syl,+hi] > [-syl,+hi,0stres,0prim] [+syl,αstres,βprim,ɣhi,+son]/ __ @| ORIG : [+syl,-lo,αstres,βprim,ɣhi,+back] [-cons,-syl,+hi] > [-syl,+hi] [+syl,αstres,βprim,ɣhi] / __ @
 [+hi,-back,+delrel] > [-strid,-delrel,-cont,+cons,0tense] | ORIG : [+hi,-back,+delrel] > [-strid,-delrel]
 [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim,+syl,+son] [-stres,-prim,+syl,+son]| ORIG : [-hi,-stres] [+hi,+stres,αprim] > [+stres,αprim] [-stres]
 [+syl,-lo,-hi] > [+hi] / __ [-syl,+son] [-cons,-syl]| ORIG : [+syl,-lo,-hi] > [+hi] /  __  [-syl,+son] [-cons,-syl]

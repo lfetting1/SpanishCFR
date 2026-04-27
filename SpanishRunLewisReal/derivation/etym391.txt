@@ -1,16 +1,20 @@
 Derivation file for run '../SpanishCFR/SpanishRunLewisReal'; etymon number :391:
-#hˈost̪em# >>> *#wˈest̪e# ( GOLD : #wˈest̪e#) :
-h ˈo s t̪ e m 
-*#ˈost̪em# | 0 : h > ∅ 
-Popular Latin stage form : *#ˈost̪em#
-*#ˈos̪t̪em# | 18 : [+ant,-distr,+strid] > [+ant,+distr,+strid,+cor] / __ [+ant,+distr]
-*#ˈos̪t̪e# | 34 : [+nas] > ∅ / [-stres] __ #
-*#ˈos̪t̪ɛ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔs̪t̪ɛ# | 54 : [+syl,-long,-hi,-lo,+back] > [-tense,-cons,-lat,+cont,0delrel] / __ [-nas]
-*#ˈɔs̪t̪e# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ˈɔes̪t̪e# | 138 : ∅ > e / [-tense,+prim] __
-*#wˈes̪t̪e# | 139 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-Old Spanish stage form : *#wˈes̪t̪e#
-*#wˈest̪e# | 274 : s̪ > s / __ [-son]
-Middle Spanish stage form : *#wˈest̪e#
-Final form : *#wˈest̪e#
+#hˌospit̪ˈɑːlem# >>> *#ost̪ˈɑl# ( GOLD : #ost̪ˈɑl#) :
+h ˌo s p i t̪ ˈɑː l e m 
+*#ˌospit̪ˈɑːlem# | 0 : h > ∅ 
+Popular Latin stage form : *#ˌospit̪ˈɑːlem#
+*#ˌospit̪ˈɑːle# | 34 : [+nas] > ∅ / [-stres] __ #
+*#ˌospit̪ˈɑːlɛ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔspit̪ˈɑːlɛ# | 54 : [+syl,-long,-hi,-lo,+back] > [-tense,-cons,-lat,+cont,0delrel] / __ [-nas]
+*#ˌospit̪ˈɑːle# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌospet̪ˈɑːle# | 59 : [+syl,-long] > [-hi] 
+*#ˌospet̪ˈɑle# | 60 : [+syl] > [-long,-splng] 
+*#ˌosped̪ˈɑle# | 122 : [-cont] > [+voi] / [+syl] __ [+son]
+Old Spanish stage form : *#ˌosped̪ˈɑle#
+*#ˌospd̪ˈɑle# | 177 : [-lo,+syl,-stres] > ∅ / [+cont] [+cons] __ [+cons] ( [-cons] )* [+prim] @
+*#ˌosd̪ˈɑle# | 195 : [+cons,-strid,αvoi] > ∅ / [+cons,αvoi,-nas] __ [+cons,-son]
+*#ˌost̪ˈɑle# | 203 : [-son] > [-voi] / [-voi] __
+*#ˌost̪ˈɑl# | 256 : e > ∅ / [+syl] [+lat,+ant] __ #
+Middle Spanish stage form : *#ˌost̪ˈɑl#
+*#ost̪ˈɑl# | 277 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ost̪ˈɑl#
