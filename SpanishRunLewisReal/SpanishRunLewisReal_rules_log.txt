@@ -131,8 +131,8 @@ d̪ > ∅ / [-cons,+lo] __ [-round,+syl]| ORIG : d̪ > ∅ / [-cons,+lo] __ [-ro
 [+cons,+hi,-round] > j / [+syl] __ [+cons,-back,-son]| ORIG : [+cons,+hi,-round] > j / [+syl] __ [+cons,-back,-son]
 ɣ > ɡ | ORIG : ɣ > ɡ
 [+front,+tense,+syl,-lo] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+hi,+front,-nas,-lat] [+syl,+back]| ORIG : [+front,+tense,+syl,-lo] > [+hi] / __ ([-syl])* ([+syl] ([-syl])*) [+hi,+front,-nas,-lat] [+syl,+back]
-[+syl,+round,+tense,+stres] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]| ORIG : [+syl,+round,+tense,+stres] > [+hi] /  __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back,-nas,-lat]  [+syl]
-[+syl,+round,+tense,+stres] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]| ORIG : [+syl,+round,+tense,+stres] > [+hi] /  __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back,-nas,-lat]  [-son]
+[+syl,+round,+tense,+prim] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [+syl]| ORIG : [+syl,+round,+tense,+prim] > [+hi] /  __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back,-nas,-lat]  [+syl]
+[+syl,+round,+tense,+prim] > [+hi] / __ ( [-syl] )* ( [+syl] ( [-syl] )* ) [+cont,+hi,-back,-nas,-lat] [-son]| ORIG : [+syl,+round,+tense,+prim] > [+hi] /  __ ([-syl])* ([+syl] ([-syl])*) [+cont,+hi,-back,-nas,-lat]  [-son]
 [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]| ORIG : [+syl,-tense] > [+tense] / __ (@) (@) [+hi,+front]
 [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [-cons,-syl]| ORIG : [+syl,-tense] > [+tense] / __ (@) (@) [-cons,-syl]
 [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont,-son] __| ORIG : [+front,+syl] > [+hi] / [+syl] [+voi,+hi,+front,+cont,-son] __
@@ -218,7 +218,6 @@ m > n̪ / __ d̪| ORIG : m > n̪ / __ d̪
 [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons,0tense] ∅| ORIG : [-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅
 [-hi,-lo,+syl,+front] > [+hi] / j __ ʎ| ORIG : [-hi,-lo,+syl,+front] > [+hi] / j __ ʎ
 [+hi,+front,+syl] j > [+long] ∅| ORIG : [+hi,+front,+syl] j > [+long] ∅
-{s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]| ORIG : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
 {ɡ;ɣ} > {ɡʷ;ɣʷ} / w __| ORIG : {ɡ; ɣ} > {ɡʷ; ɣʷ} / w __
 [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅/ __ ( @ ) [+syl]| ORIG : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅ / __ (@) [+syl]
 [+syl] > [-long,-splng] | ORIG : [+syl] > [-long]
