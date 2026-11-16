@@ -36,8 +36,7 @@ $ [+lat] > [αdistr,ðant] / __ [+cor,αdistr,ðant] $ lateral assimilation 10/0
 
 ð > d̪ / l __ $ recurrent rule, stopping. TODO isn't this pointless here? We have no ð yet... and never will, actually? 
 
-~Popular Latin 
-$dummy gold stage to test DiaSim stage handling in lex header.
+~Late Latin
 
 $[+cont,+cons,+voi,-nas,-lat] > [-cont,-delrel] / [+nas] __ $recurrent rule, stopping *reformulated by KS and CM
 
@@ -198,7 +197,7 @@ $[+syl,αhi,βlo,ɣfront,θback,ðround,χtense,ʎlong,ʃstres,ɸprim,Atense] ɾ
 
 ${e r; o r} > {r e; r o} / __ #
 
-e r > r e / __ # $ come back to this, o r > ro often wrong because of -or suffix, which could be analogy as well 
+e r > r e / __ # $ TODO come back to this, o r > ro often wrong because of -or suffix, which could be analogy as well 
 
 $DiaCLESp addition A.2.1: ŋɡ > n̪n̪ between front vowels, with posterior followed by coronal (ringīre > reñir, quīngentōs > quinientos; altho not in data also cingere tingere stringere etc. Not gingīva, verecundia etc.) 
 [+nas,-lab] ɡ > n̪ n̪ / [+front] __ [+front] [+cor]
@@ -274,7 +273,18 @@ $[-cons,-syl,-hi] [+cons] [+hi,-cons,-syl] > [+hi] [+cons] ∅ $ glide metathesi
 
 $[+cons,-cont,+voi] > [+cont] $spirantization $(88) works.
 
+~Proto-Ibero-Romance
+$TODO may need to be moved back further. 
+
 $DiaCLESp insertion A.3.2 devoicing of d͡ʒ in clusters, bleeding dʒ > ʝ phenomena (hordeolum, virdia, verecundia, gaudium; gingiva, argilla; admordium). Bled by A.3.1 though.
+		$ verecundia > has both vergüenza and vergüeña... 
+			$formwith -ñ- may be loaned? -- Catalan vergonya, Aragonese vergüenya, Portuguese vergonha [Galician also has both a form with -ñ- and one with -nz-. Fala/Asturian has -nz-] 
+	$ not shared with Gallo-Romance or Aragonese: verecundia > Catalan vergonya, Aragonese vergüenya
+	$ seems only partially shared with Galician-Portuguese -- 
+		$ shared for hordeolum > Asturian arzol-in, Galician orizó
+		$ not shared for...
+			$ gaudium: Spanish goço and Asturian gociu vs Aragonese goyo, Old Galicain-Porrt goyo/goyvo > Port goivo ; 
+			$ gingiva > Port gengiva, Astur xenxiva; argilla  > Spanish arcilla vs ((if not loaned)) Port argila, Galician arxila; 
 d͡ʒ > t͡ʃ / [-syl] __
 
 d͡ʒ > ʝ $spirantization $(89) Should look like: (ko:gitˈɑ:ɾe:) koʤetˈɑɾe -> koʝetˈɑɾe. Rewritten with phones
@@ -685,7 +695,7 @@ $[-son,+cor,+ant] > [+strid,+cont,-distr] / __ [-son] $ "azgo" (Seems to only ha
 
 s̪ > s / __ [-son]
 
-=Middle Spanish
+~Middle Spanish
 
 ʃ > x $ palatal velarization
 
